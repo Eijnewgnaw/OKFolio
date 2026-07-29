@@ -1,0 +1,16 @@
+.worktrees/
+.venv/
+.env
+.env.local
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.py[cod]
+*.tar
+*.tar.sha256
+
+# Local copies of remote runtime data and offline images. They stay outside Git
+# because they may contain source documents and large binaries.
+artifacts/
+data/
+runtime/

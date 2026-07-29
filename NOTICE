@@ -1,0 +1,12 @@
+OKFolio
+Copyright 2026 OKFolio contributors
+
+This product includes software developed by the OKFolio contributors.
+
+The repository does not distribute model weights, source corpora, private
+infrastructure configuration, credentials, or the internal offline wheel
+bundle. Third-party Python dependencies are installed from requirements.lock
+and remain subject to their respective licenses.
+
+The static public demo contains third-party browser assets. See
+THIRD_PARTY_NOTICES.md; original license headers are retained.

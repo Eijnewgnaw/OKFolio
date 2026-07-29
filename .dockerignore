@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+.venv
+.pytest_cache
+__pycache__
+data
+docs
+tests
+artifacts
+runtime
+*.key
+*.pem
+*.tar
+*.tar.sha256
