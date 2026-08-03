@@ -585,9 +585,9 @@ class Compiler:
             compile_schema_version=COMPILE_SCHEMA_VERSION,
             preserve_schema_version=PRESERVE_SCHEMA_VERSION,
             enrich_schema_version=ENRICH_SCHEMA_VERSION,
-            model=self.settings.llm_model,
-            enable_thinking=self.settings.llm_enable_thinking,
-            max_tokens=self.settings.llm_max_tokens,
+            model=self.settings.openai_model,
+            enable_thinking=self.settings.openai_enable_thinking,
+            max_tokens=self.settings.openai_max_tokens,
         )
 
     def _assign_ref_ids(

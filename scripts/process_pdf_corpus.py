@@ -33,6 +33,12 @@ from kmpro_wiki.data_processing.s3 import (
     S3CompatibleAssetWriter,
 )
 from kmpro_wiki.data_processing.storage import LocalAssetWriter
+from kmpro_wiki.data_processing.vlm import OpenAICompatiblePageParser
+from kmpro_wiki.agentwiki.config import (
+    openai_model,
+    provider_api_key,
+    provider_base_url,
+)
 
 
 def _now() -> str:
@@ -313,6 +319,12 @@ def main() -> int:
     parser.add_argument("--hard-max-chars", type=int, default=24_000)
     parser.add_argument("--max-document-attempts", type=int, default=3)
     parser.add_argument(
+        "--mineru-provider",
+        choices=("openai-compatible", "mineru-http-client"),
+        default=os.environ.get("MINERU_PROVIDER", "openai-compatible"),
+    )
+    parser.add_argument("--parser-max-tokens", type=int, default=4096)
+    parser.add_argument(
         "--asset-mode",
         choices=("local", "minio"),
         default=os.environ.get("DATA_ASSET_MODE", "local"),
@@ -335,27 +347,32 @@ def main() -> int:
     for directory in (jobs_dir, processed_dir, sources_dir):
         directory.mkdir(parents=True, exist_ok=True)
 
-    mineru_model = os.environ.get("MINERU_MODEL", "").strip()
+    mineru_model = (
+        os.environ.get("MINERU_MODEL") or openai_model()
+    ).strip()
     if not mineru_model:
-        parser.error("MINERU_MODEL is required")
-    page_parser = OfficialMinerUPageParser(
-        api_base=os.environ.get("MINERU_API_BASE")
-        or os.environ.get("LLM_API_BASE", ""),
-        api_key=os.environ.get("MINERU_API_KEY")
-        or os.environ.get("LLM_API_KEY", ""),
-        model=mineru_model,
-        timeout=float(os.environ.get("MINERU_TIMEOUT", "180")),
-        max_concurrency=int(os.environ.get("MINERU_MAX_CONCURRENCY", "8")),
-    )
+        parser.error("MINERU_MODEL or OPENAI_MODEL is required")
+    if args.mineru_provider == "mineru-http-client":
+        page_parser = OfficialMinerUPageParser(
+            api_base=provider_base_url("MINERU"),
+            api_key=provider_api_key("MINERU"),
+            model=mineru_model,
+            timeout=float(os.environ.get("MINERU_TIMEOUT", "180")),
+            max_concurrency=int(os.environ.get("MINERU_MAX_CONCURRENCY", "8")),
+        )
+    else:
+        page_parser = OpenAICompatiblePageParser(
+            api_base=provider_base_url("MINERU"),
+            api_key=provider_api_key("MINERU"),
+            model=mineru_model,
+            timeout=float(os.environ.get("MINERU_TIMEOUT", "180")),
+            max_tokens=args.parser_max_tokens,
+        )
     page_role_classifier = None
     if os.environ.get("PAGE_ROLE_CLASSIFIER", "off").lower() == "vlm":
         page_role_classifier = OpenAICompatiblePageRoleClassifier(
-            api_base=os.environ.get("PAGE_ROLE_API_BASE")
-            or os.environ.get("MINERU_API_BASE")
-            or os.environ.get("LLM_API_BASE", ""),
-            api_key=os.environ.get("PAGE_ROLE_API_KEY")
-            or os.environ.get("MINERU_API_KEY")
-            or os.environ.get("LLM_API_KEY", ""),
+            api_base=provider_base_url("PAGE_ROLE"),
+            api_key=provider_api_key("PAGE_ROLE"),
             model=os.environ.get("PAGE_ROLE_MODEL") or mineru_model,
             timeout=float(os.environ.get("PAGE_ROLE_TIMEOUT", "120")),
         )

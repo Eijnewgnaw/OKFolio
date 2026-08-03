@@ -150,9 +150,9 @@ research_topic(topic)
 需要调用模型时，客户端进程还需注入：
 
 ```text
-LLM_API_BASE
-LLM_API_KEY
-LLM_MODEL
+OPENAI_BASE_URL
+OPENAI_API_KEY
+OPENAI_MODEL
 ```
 
 ### Docker Streamable HTTP
@@ -164,7 +164,7 @@ docker compose up -d mcp
 MCP endpoint：
 
 ```text
-http://127.0.0.1:3099/mcp
+<scheme>://<deployment-host>:<published-port>/mcp
 ```
 
 默认 `MCP_ENABLE_WRITES=false`。确认数据目录可写并需要执行编译时：

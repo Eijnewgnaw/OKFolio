@@ -26,7 +26,7 @@ from kmpro_wiki.agentwiki.global_cluster import (
     kind_for,
     validate_judgements,
 )
-from kmpro_wiki.agentwiki.llm import LLMClient, LLMError
+from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient, LLMError
 from kmpro_wiki.agentwiki.spatial_graph import build_spatial_graph
 from kmpro_wiki.agentwiki.stages import discover_concepts
 
@@ -88,18 +88,20 @@ def main() -> int:
     return 0
 
 
-def _client(settings: Settings) -> LLMClient:
-    if not settings.llm_api_base or not settings.llm_model:
-        raise ValueError("LLM_API_BASE and LLM_MODEL are required unless --dry-run is used")
-    return LLMClient(
-        settings.llm_api_base, settings.llm_api_key, settings.llm_model,
-        timeout=settings.llm_timeout_seconds, max_attempts=settings.llm_max_attempts,
-        on_event=print, enable_thinking=settings.llm_enable_thinking,
-        max_tokens=min(settings.llm_max_tokens, JOINT_CONCEPT_MAX_TOKENS),
+def _client(settings: Settings) -> OpenAICompatibleClient:
+    if not settings.openai_api_key or not settings.openai_model:
+        raise ValueError(
+            "OPENAI_MODEL and OPENAI_API_KEY are required unless --dry-run is used"
+        )
+    return OpenAICompatibleClient(
+        settings.openai_base_url, settings.openai_api_key, settings.openai_model,
+        timeout=settings.openai_timeout_seconds, max_attempts=settings.openai_max_attempts,
+        on_event=print, enable_thinking=settings.openai_enable_thinking,
+        max_tokens=min(settings.openai_max_tokens, JOINT_CONCEPT_MAX_TOKENS),
     )
 
 
-def _discover_or_resume(settings: Settings, output: Path, client: LLMClient | None, resume: bool) -> tuple[list[RefRecord], list[dict[str, Any]]]:
+def _discover_or_resume(settings: Settings, output: Path, client: OpenAICompatibleClient | None, resume: bool) -> tuple[list[RefRecord], list[dict[str, Any]]]:
     refs_path = output / "refs.json"
     if resume and refs_path.exists():
         saved = json.loads(refs_path.read_text(encoding="utf-8"))
@@ -142,7 +144,7 @@ def _load_or_make_candidates(output: Path, refs: list[RefRecord], resume: bool) 
     return edges, states
 
 
-def _load_or_judge(output: Path, client: LLMClient | None, refs: list[RefRecord], candidates: list[CandidateEdge], resume: bool, dry_run: bool) -> list[dict[str, Any]]:
+def _load_or_judge(output: Path, client: OpenAICompatibleClient | None, refs: list[RefRecord], candidates: list[CandidateEdge], resume: bool, dry_run: bool) -> list[dict[str, Any]]:
     path = output / "judgements.json"
     saved: dict[str, dict[str, Any]] = {}
     if resume and path.exists():
@@ -223,7 +225,7 @@ def _validate_batch(batch: list[CandidateEdge], records: Any) -> None:
             raise ValueError("edge judgement decision is invalid")
 
 
-def _compile_concepts(output: Path, client: LLMClient, refs: list[RefRecord], clusters: list[dict[str, Any]], resume: bool) -> list[dict[str, Any]]:
+def _compile_concepts(output: Path, client: OpenAICompatibleClient, refs: list[RefRecord], clusters: list[dict[str, Any]], resume: bool) -> list[dict[str, Any]]:
     path = output / "concepts.json"
     saved: dict[str, dict[str, Any]] = {}
     if resume and path.exists():

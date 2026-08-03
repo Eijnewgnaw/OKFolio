@@ -202,7 +202,7 @@ class AgentCompiler:
                 "version": 1,
                 "status": "running",
                 "schema": "kmpro.agent-run.v2",
-                "model": self.settings.llm_model,
+                "model": self.settings.openai_model,
                 "resumed": resume,
                 "policy": asdict(self.policy),
             },
@@ -319,7 +319,7 @@ class AgentCompiler:
                     "version": 1,
                     "status": status,
                     "schema": "kmpro.agent-run.v2",
-                    "model": self.settings.llm_model,
+                    "model": self.settings.openai_model,
                     "policy": asdict(self.policy),
                     **{
                         key: value
@@ -343,7 +343,7 @@ class AgentCompiler:
                     "version": 1,
                     "status": "failed",
                     "schema": "kmpro.agent-run.v2",
-                    "model": self.settings.llm_model,
+                    "model": self.settings.openai_model,
                     "policy": asdict(self.policy),
                     "error": f"{type(error).__name__}: {error}",
                 },
@@ -386,7 +386,7 @@ class AgentCompiler:
                         name: templates[name]
                         for name in ("agent_plan", "agent_refine", "discover")
                     },
-                    "model": self.settings.llm_model,
+                    "model": self.settings.openai_model,
                 }
             )
             cached = cached_sources.get(path.name)
@@ -514,7 +514,7 @@ class AgentCompiler:
                                             "discover",
                                         )
                                     },
-                                    "model": self.settings.llm_model,
+                                    "model": self.settings.openai_model,
                                 }
                             ),
                             "profile": asdict(item.profile),
@@ -603,7 +603,7 @@ class AgentCompiler:
                         "agent_recompile",
                     )
                 },
-                "model": self.settings.llm_model,
+                "model": self.settings.openai_model,
                 "policy": asdict(self.policy),
             }
         )
@@ -617,7 +617,7 @@ class AgentCompiler:
                 group,
                 by_id,
                 templates,
-                self.settings.llm_model,
+                self.settings.openai_model,
                 self.policy,
             )
             for group in groups
@@ -860,7 +860,7 @@ class AgentCompiler:
                     for group_id, item in drafts.items()
                 },
                 "prompt": templates["preserve"],
-                "model": self.settings.llm_model,
+                "model": self.settings.openai_model,
             }
         )
         loaded = (

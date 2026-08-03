@@ -19,6 +19,11 @@ from kmpro_wiki.data_processing.structure import (
     document_from_dict,
     normalize_document_structure,
 )
+from kmpro_wiki.agentwiki.config import (
+    openai_model,
+    provider_api_key,
+    provider_base_url,
+)
 
 
 def _write_json(path: Path, value: object) -> None:
@@ -43,7 +48,8 @@ def main() -> int:
     data_dir = args.data_dir.resolve()
     page_role_model = (
         os.environ.get("PAGE_ROLE_MODEL")
-        or os.environ.get("MINERU_MODEL", "")
+        or os.environ.get("MINERU_MODEL")
+        or openai_model()
     ).strip()
     if not page_role_model:
         parser.error("PAGE_ROLE_MODEL or MINERU_MODEL is required")
@@ -51,24 +57,14 @@ def main() -> int:
         os.environ.get("PAGE_RECOVERY_MODEL") or page_role_model
     ).strip()
     classifier = OpenAICompatiblePageRoleClassifier(
-        api_base=os.environ.get("PAGE_ROLE_API_BASE")
-        or os.environ.get("MINERU_API_BASE")
-        or os.environ.get("LLM_API_BASE", ""),
-        api_key=os.environ.get("PAGE_ROLE_API_KEY")
-        or os.environ.get("MINERU_API_KEY")
-        or os.environ.get("LLM_API_KEY", ""),
+        api_base=provider_base_url("PAGE_ROLE"),
+        api_key=provider_api_key("PAGE_ROLE"),
         model=page_role_model,
         timeout=float(os.environ.get("PAGE_ROLE_TIMEOUT", "120")),
     )
     recovery_parser = OpenAICompatiblePageParser(
-        api_base=os.environ.get("PAGE_RECOVERY_API_BASE")
-        or os.environ.get("PAGE_ROLE_API_BASE")
-        or os.environ.get("MINERU_API_BASE")
-        or os.environ.get("LLM_API_BASE", ""),
-        api_key=os.environ.get("PAGE_RECOVERY_API_KEY")
-        or os.environ.get("PAGE_ROLE_API_KEY")
-        or os.environ.get("MINERU_API_KEY")
-        or os.environ.get("LLM_API_KEY", ""),
+        api_base=provider_base_url("PAGE_RECOVERY"),
+        api_key=provider_api_key("PAGE_RECOVERY"),
         model=recovery_model,
         timeout=float(os.environ.get("PAGE_RECOVERY_TIMEOUT", "180")),
         max_tokens=int(os.environ.get("PAGE_RECOVERY_MAX_TOKENS", "4096")),

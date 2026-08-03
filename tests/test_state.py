@@ -18,23 +18,23 @@ def test_settings_load_paths_and_llm_from_environment():
         {
             "DATA_DIR": "/tmp/data",
             "PROMPTS_DIR": "/tmp/prompts",
-            "LLM_API_BASE": "http://llm/v1/",
-            "LLM_API_KEY": "key",
-            "LLM_MODEL": "model",
-            "LLM_TIMEOUT_SECONDS": "900",
-            "LLM_MAX_ATTEMPTS": "2",
-            "LLM_ENABLE_THINKING": "false",
-            "LLM_MAX_TOKENS": "32768",
+            "OPENAI_BASE_URL": "https://api.example/v1/",
+            "OPENAI_API_KEY": "key",
+            "OPENAI_MODEL": "model",
+            "OPENAI_TIMEOUT_SECONDS": "900",
+            "OPENAI_MAX_ATTEMPTS": "2",
+            "OPENAI_ENABLE_THINKING": "false",
+            "OPENAI_MAX_TOKENS": "32768",
         }
     )
 
     assert settings.data_dir == Path("/tmp/data")
     assert settings.prompts_dir == Path("/tmp/prompts")
-    assert settings.llm_api_base == "http://llm/v1"
-    assert settings.llm_timeout_seconds == 900.0
-    assert settings.llm_max_attempts == 2
-    assert settings.llm_enable_thinking is False
-    assert settings.llm_max_tokens == 32768
+    assert settings.openai_base_url == "https://api.example/v1"
+    assert settings.openai_timeout_seconds == 900.0
+    assert settings.openai_max_attempts == 2
+    assert settings.openai_enable_thinking is False
+    assert settings.openai_max_tokens == 32768
 
 
 def fingerprint(source_md5: str = "source") -> CompileFingerprint:

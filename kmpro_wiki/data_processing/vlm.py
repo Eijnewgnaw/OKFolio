@@ -82,11 +82,11 @@ class OpenAICompatiblePageParser:
         transport: httpx.BaseTransport | None = None,
     ) -> None:
         if not api_base.strip():
-            raise ValueError("MinerU API base must not be empty")
+            raise ValueError("vision API base must not be empty")
         if not api_key.strip():
-            raise ValueError("MinerU API key must not be empty")
+            raise ValueError("vision API key must not be empty")
         if not model.strip():
-            raise ValueError("MinerU model must not be empty")
+            raise ValueError("vision model must not be empty")
         if max_tokens < 128:
             raise ValueError("MinerU max_tokens must be at least 128")
         self.api_base = api_base.rstrip("/")
@@ -126,7 +126,6 @@ class OpenAICompatiblePageParser:
             ],
             "temperature": 0,
             "max_tokens": max_tokens or self.max_tokens,
-            "chat_template_kwargs": {"enable_thinking": False},
         }
         started = time.monotonic()
         try:
@@ -148,12 +147,12 @@ class OpenAICompatiblePageParser:
             if not isinstance(raw, str) or not raw.strip():
                 raw = message.get("reasoning_content") or message.get("reasoning")
             if not isinstance(raw, str) or not raw.strip():
-                raise PageParseError("MinerU model returned empty page content")
+                raise PageParseError("vision model returned empty page content")
             usage = body.get("usage") or {}
             finish_reason = str(choice.get("finish_reason") or "unknown")
         except (httpx.HTTPError, KeyError, IndexError, TypeError, ValueError) as error:
             raise PageParseError(
-                f"MinerU model returned an invalid response: {type(error).__name__}"
+                f"vision model returned an invalid response: {type(error).__name__}"
             ) from error
         return PageParseResult(
             content=_strip_code_fence(raw),

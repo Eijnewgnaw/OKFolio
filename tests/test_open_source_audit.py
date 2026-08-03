@@ -10,7 +10,7 @@ from scripts.audit_open_source import (
 
 def test_open_source_audit_accepts_placeholders(tmp_path: Path):
     tmp_path.joinpath(".env.example").write_text(
-        "LLM_API_KEY=replace-me\n",
+        "OPENAI_API_KEY=replace-me\n",
         encoding="utf-8",
     )
 

@@ -91,7 +91,6 @@ class OpenAICompatiblePageRoleClassifier:
             ],
             "temperature": 0,
             "max_tokens": 256,
-            "chat_template_kwargs": {"enable_thinking": False},
         }
         started = time.monotonic()
         try:

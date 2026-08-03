@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Any, Protocol
 
 from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.llm import LLMClient
+from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
 
 
 DEFAULT_BATCH_SIZE = 15
@@ -270,17 +270,17 @@ def main() -> int:
     parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE)
     args = parser.parse_args()
     settings = Settings.from_env()
-    if not settings.llm_api_base or not settings.llm_model:
-        raise ValueError("LLM_API_BASE and LLM_MODEL are required")
-    client = LLMClient(
-        settings.llm_api_base,
-        settings.llm_api_key,
-        settings.llm_model,
-        timeout=settings.llm_timeout_seconds,
-        max_attempts=settings.llm_max_attempts,
+    if not settings.openai_model:
+        raise ValueError("OPENAI_MODEL and OPENAI_API_KEY are required")
+    client = OpenAICompatibleClient(
+        settings.openai_base_url,
+        settings.openai_api_key,
+        settings.openai_model,
+        timeout=settings.openai_timeout_seconds,
+        max_attempts=settings.openai_max_attempts,
         on_event=print,
-        enable_thinking=settings.llm_enable_thinking,
-        max_tokens=settings.llm_max_tokens,
+        enable_thinking=settings.openai_enable_thinking,
+        max_tokens=settings.openai_max_tokens,
     )
     result = judge_relations(
         args.run_dir,

@@ -16,6 +16,7 @@ from .pipeline import process_mineru_output
 from .s3 import S3CompatibleAssetWriter
 from .storage import LocalAssetWriter, S3WriterAssetWriter
 from .vlm import OpenAICompatiblePageParser
+from ..agentwiki.config import openai_model, provider_api_key, provider_base_url
 
 
 def _run_mineru(
@@ -76,13 +77,9 @@ def main() -> int:
             "mineru-http-client",
             "openai-compatible",
         }:
-            api_base = os.environ.get("MINERU_API_BASE") or os.environ.get(
-                "LLM_API_BASE", ""
-            )
-            api_key = os.environ.get("MINERU_API_KEY") or os.environ.get(
-                "LLM_API_KEY", ""
-            )
-            model = os.environ.get("MINERU_MODEL", "").strip()
+            api_base = provider_base_url("MINERU")
+            api_key = provider_api_key("MINERU")
+            model = (os.environ.get("MINERU_MODEL") or openai_model()).strip()
             if not model:
                 parser.error(
                     "MINERU_MODEL is required for HTTP MinerU providers"
@@ -109,10 +106,8 @@ def main() -> int:
             page_role_classifier = None
             if os.environ.get("PAGE_ROLE_CLASSIFIER", "off").lower() == "vlm":
                 page_role_classifier = OpenAICompatiblePageRoleClassifier(
-                    api_base=os.environ.get("PAGE_ROLE_API_BASE")
-                    or api_base,
-                    api_key=os.environ.get("PAGE_ROLE_API_KEY")
-                    or api_key,
+                    api_base=provider_base_url("PAGE_ROLE"),
+                    api_key=provider_api_key("PAGE_ROLE"),
                     model=os.environ.get("PAGE_ROLE_MODEL") or model,
                     timeout=float(
                         os.environ.get("PAGE_ROLE_TIMEOUT", "120")

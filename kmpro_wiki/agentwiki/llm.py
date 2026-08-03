@@ -25,7 +25,7 @@ def render_enrich_prompt(template: str, content: str, index: str) -> str:
     return template.replace("{content}", content).replace("{index}", index)
 
 
-class LLMClient:
+class OpenAICompatibleClient:
     def __init__(
         self,
         api_base: str,
@@ -85,7 +85,6 @@ class LLMClient:
             "messages": [{"role": "user", "content": request_prompt}],
             "temperature": 0,
             "max_tokens": self.max_tokens,
-            "chat_template_kwargs": {"enable_thinking": self.enable_thinking},
         }
         if json_schema_name is not None and json_schema is not None:
             if self.response_format == "json_schema":
@@ -182,3 +181,7 @@ class LLMClient:
                 return content.strip()
 
         raise LLMError("LLM request exhausted without a response")
+
+
+# Kept as a small source-compatible alias for integrations built against 0.1.x.
+LLMClient = OpenAICompatibleClient

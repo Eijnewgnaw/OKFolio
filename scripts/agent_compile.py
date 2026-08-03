@@ -11,7 +11,7 @@ from pathlib import Path
 from kmpro_wiki.agentwiki.agent_contracts import AgentPolicy
 from kmpro_wiki.agentwiki.agentic import AgentCompiler
 from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.llm import LLMClient
+from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
 
 
 def main() -> int:
@@ -53,9 +53,9 @@ def main() -> int:
     arguments = parser.parse_args()
 
     settings = Settings.from_env()
-    if not settings.llm_api_base or not settings.llm_api_key or not settings.llm_model:
+    if not settings.openai_api_key or not settings.openai_model:
         print(
-            "LLM_API_BASE, LLM_API_KEY and LLM_MODEL are required",
+            "OPENAI_MODEL and OPENAI_API_KEY are required for model-backed compilation",
             file=sys.stderr,
         )
         return 2
@@ -84,16 +84,16 @@ def main() -> int:
             with event_log.open("a", encoding="utf-8") as handle:
                 handle.write(message + "\n")
 
-    client = LLMClient(
-        settings.llm_api_base,
-        settings.llm_api_key,
-        settings.llm_model,
-        timeout=settings.llm_timeout_seconds,
-        max_attempts=settings.llm_max_attempts,
+    client = OpenAICompatibleClient(
+        settings.openai_base_url,
+        settings.openai_api_key,
+        settings.openai_model,
+        timeout=settings.openai_timeout_seconds,
+        max_attempts=settings.openai_max_attempts,
         on_event=emit,
-        enable_thinking=settings.llm_enable_thinking,
-        max_tokens=settings.llm_max_tokens,
-        response_format=settings.llm_response_format,
+        enable_thinking=settings.openai_enable_thinking,
+        max_tokens=settings.openai_max_tokens,
+        response_format=settings.openai_response_format,
     )
     summary = AgentCompiler(
         settings,

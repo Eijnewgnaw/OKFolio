@@ -143,9 +143,9 @@ class Project:
         settings = Settings(
             data_dir=self.data,
             prompts_dir=self.prompts,
-            llm_api_base="http://unused/v1",
-            llm_api_key="unused",
-            llm_model="test-model",
+            openai_base_url="https://api.example/v1",
+            openai_api_key="unused",
+            openai_model="test-model",
         )
         return Compiler(
             settings, llm, on_event=None if events is None else events.append

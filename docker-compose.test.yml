@@ -4,9 +4,9 @@ services:
       fake-llm:
         condition: service_healthy
     environment:
-      LLM_API_BASE: http://fake-llm:8080/v1
-      LLM_API_KEY: test-key
-      LLM_MODEL: test-model
+      OPENAI_BASE_URL: http://fake-llm:8080/v1
+      OPENAI_API_KEY: test-key
+      OPENAI_MODEL: test-model
     volumes:
       - ${TEST_DATA_DIR:-./runtime/test-data}:/app/runtime/data
 
@@ -15,9 +15,9 @@ services:
       fake-llm:
         condition: service_healthy
     environment:
-      LLM_API_BASE: http://fake-llm:8080/v1
-      LLM_API_KEY: test-key
-      LLM_MODEL: test-model
+      OPENAI_BASE_URL: http://fake-llm:8080/v1
+      OPENAI_API_KEY: test-key
+      OPENAI_MODEL: test-model
     volumes:
       - ${TEST_DATA_DIR:-./runtime/test-data}:/app/runtime/data
 

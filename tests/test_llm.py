@@ -129,7 +129,7 @@ def test_client_reports_timeout_retry_without_sensitive_content(httpx_mock):
     assert "sensitive prompt" not in "\n".join(events)
 
 
-def test_client_disables_thinking_and_accepts_compat_reasoning_content(httpx_mock):
+def test_client_accepts_compat_reasoning_content_without_vendor_fields(httpx_mock):
     httpx_mock.add_response(
         url="http://llm/v1/chat/completions",
         json={
@@ -150,7 +150,7 @@ def test_client_disables_thinking_and_accepts_compat_reasoning_content(httpx_moc
     assert client.complete("prompt") == "RESULT"
     request = httpx_mock.get_request()
     payload = json.loads(request.content)
-    assert payload["chat_template_kwargs"] == {"enable_thinking": False}
+    assert "chat_template_kwargs" not in payload
     assert payload["max_tokens"] == 32768
 
 

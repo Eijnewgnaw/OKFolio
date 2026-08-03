@@ -1251,10 +1251,14 @@ class WikiMCPService:
 
     @staticmethod
     def _require_llm(*, require_key: bool = True) -> None:
-        required = ["LLM_API_BASE", "LLM_MODEL"]
+        required = ["OPENAI_MODEL"]
         if require_key:
-            required.append("LLM_API_KEY")
-        missing = [name for name in required if not os.environ.get(name)]
+            required.append("OPENAI_API_KEY")
+        missing = [
+            name
+            for name in required
+            if not os.environ.get(name)
+        ]
         if missing:
             raise ValueError(
                 "missing model configuration: " + ", ".join(missing)

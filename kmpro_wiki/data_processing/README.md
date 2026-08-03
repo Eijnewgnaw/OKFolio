@@ -30,21 +30,21 @@ python3 scripts/process_pdf.py \
 如 MinerU 已在外部完成，增加 `--skip-mineru`。默认图片写入本地运行卷；远程
 对象存储可设置 `DATA_ASSET_MODE=s3writer`。
 
-## MinerU 2.5 HTTP 模型
+## OpenAI-compatible vision parsing
 
 不需要在 Worker 容器中部署模型。设置：
 
 ```bash
-export MINERU_PROVIDER=mineru-http-client
-export MINERU_API_BASE=http://model-server/compatible-mode/v1
+export MINERU_PROVIDER=openai-compatible
+export MINERU_BASE_URL=<mineru-compatible-endpoint>
 export MINERU_API_KEY=...
 export MINERU_MODEL=your-mineru-model-id
 ```
 
-`mineru-http-client` 使用官方 `mineru-vl-utils` 两步协议：先进行页面布局检测，
-再按区域分别执行正文、表格和公式识别；图片区域从原始页图中裁出后交给资产
-Writer。`openai-compatible` 仅保留为其他通用视觉模型的单次提示词兼容模式，
-不建议用于 MinerU 2.5。
+The default provider sends one page at a time to an OpenAI-compatible
+`/chat/completions` endpoint. If a deployment exposes the official MinerU 2.5
+two-step protocol, select `mineru-http-client` and provide its dedicated base
+URL; the rest of the pipeline remains unchanged.
 
 单页闭环：
 
