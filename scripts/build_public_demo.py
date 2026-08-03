@@ -11,6 +11,11 @@ import shutil
 from pathlib import Path
 from typing import Any
 
+from kmpro_wiki.agentwiki.explorer import (
+    build_explorer_html,
+    extract_graph_data,
+)
+
 
 _PRIVATE_IPV4 = (
     r"(?:"
@@ -142,6 +147,25 @@ def _write_placeholder(site_dir: Path) -> None:
     )
 
 
+def _add_explorer_link(site_dir: Path) -> None:
+    """Make the explorer discoverable from an older MkDocs index page."""
+    index = site_dir / "index.html"
+    if not index.is_file():
+        return
+    content = index.read_text(encoding="utf-8")
+    if "explore.html" in content:
+        return
+    banner = (
+        '<p><a href="explore.html">Open Knowledge Explorer</a> · '
+        '<a href="graph.html">Open 3D graph</a></p>'
+    )
+    if "</body>" in content:
+        content = content.replace("</body>", banner + "\n</body>", 1)
+    else:
+        content += "\n" + banner + "\n"
+    index.write_text(content, encoding="utf-8")
+
+
 def _replace_public_brand(site_dir: Path) -> int:
     replacements = 0
     for path in sorted(site_dir.rglob("*")):
@@ -210,6 +234,26 @@ def build_public_demo(
     output.mkdir(parents=True)
     site_dir = output / "site"
     shutil.copytree(source_site, site_dir)
+    # Older accepted releases predate the explorer page.  Derive the same
+    # portable payload from their graph so the public showcase keeps one
+    # consistent entry point without requiring private run artifacts.
+    explorer = site_dir / "explore.html"
+    graph = site_dir / "graph.html"
+    if not explorer.is_file() and graph.is_file():
+        graph_data = extract_graph_data(graph.read_text(encoding="utf-8"))
+        explorer.write_text(
+            build_explorer_html(
+                graph_data,
+                title="OKFolio Knowledge Explorer",
+                scope_note=(
+                    f"Public showcase · {graph_data['stats']['articles']} Article · "
+                    f"{graph_data['stats']['refs']} Ref · "
+                    f"{graph_data['stats']['concepts']} Concept"
+                ),
+            ),
+            encoding="utf-8",
+        )
+    _add_explorer_link(site_dir)
     _write_placeholder(site_dir)
     brand_replacements = _replace_public_brand(site_dir)
     (

@@ -1,4 +1,5 @@
-from kmpro_wiki.agentwiki.spatial_graph import build_spatial_graph
+from kmpro_wiki.agentwiki.explorer import build_explorer_html
+from kmpro_wiki.agentwiki.spatial_graph import build_graph_data, build_spatial_graph
 
 
 def test_graph_renders_full_coverage_metrics_and_projects_related_refs():
@@ -38,3 +39,21 @@ def test_graph_renders_full_coverage_metrics_and_projects_related_refs():
     assert "Concept → ConceptRef → Article" in html
     assert "拖动旋转" in html
     assert "ConceptRef 证据" in html
+
+
+def test_explorer_reuses_graph_payload_and_exposes_provenance_views():
+    data = build_graph_data(
+        [{"article_id": "article-01", "title": "来源", "ref_count": 1}],
+        [{"ref_id": "article-01:r1", "article_id": "article-01", "title": "R1", "evidence": ["证据"]}],
+        [{"id": "c1", "title": "C1", "type": "分析框架", "description": "摘要", "body": "正文", "articles": ["article-01"], "ref_ids": ["article-01:r1"]}],
+        [],
+    )
+    html = build_explorer_html(data, scope_note="Public showcase")
+
+    assert "OKFolio Knowledge Explorer" in html
+    assert "Local context" in html
+    assert "Global themes" in html
+    assert "All concepts" in html
+    assert "ConceptRef evidence" in html
+    assert "Source Articles" in html
+    assert '"concepts": 1' in html

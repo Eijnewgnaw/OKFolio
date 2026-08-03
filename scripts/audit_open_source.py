@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 
-_SKIP_PARTS = {".git", ".pytest_cache", ".venv", "__pycache__"}
+_SKIP_PARTS = {".git", ".pytest_cache", ".venv", ".venv313", "__pycache__"}
 _SENSITIVE_NAMES = {".env", ".env.local"}
 _SENSITIVE_SUFFIXES = {".key", ".p12", ".pem", ".pfx"}
 _PRIVATE_NETWORK_RE = re.compile(

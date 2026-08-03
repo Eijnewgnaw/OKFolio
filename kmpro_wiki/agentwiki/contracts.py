@@ -2,8 +2,8 @@ from __future__ import annotations
 
 import json
 import re
-from dataclasses import dataclass
-from typing import Any, Literal
+from dataclasses import dataclass, field
+from typing import Any, Literal, Mapping
 
 from .okf import OKFValidationError, normalize_slug
 
@@ -35,6 +35,15 @@ class ConceptRef:
     page_start: int | None = None
     page_end: int | None = None
     evidence_block_ids: tuple[str, ...] = ()
+    # Optional metadata is deliberately appended so existing callers and
+    # serialized OKF files remain valid.  These fields guide matching and
+    # provenance; they do not replace the verbatim evidence contract.
+    semantic_signature: Mapping[str, Any] = field(default_factory=dict)
+    scope: Mapping[str, Any] = field(default_factory=dict)
+    ref_family_hint: str = ""
+    ref_version_id: str = ""
+    document_family_id: str = ""
+    document_version_id: str = ""
 
 
 @dataclass(frozen=True)
@@ -92,6 +101,7 @@ def parse_discovery(
             item,
             {"id", "type", "title", "description", "evidence", "asset_hints"},
             f"concepts[{index}]",
+            optional={"semantic_signature", "scope", "ref_family_hint"},
         )
         concept_id = _concept_id(item.get("id"))
         if concept_id in seen:
@@ -119,6 +129,15 @@ def parse_discovery(
         unknown = set(hints) - asset_ids
         if unknown:
             raise ContractError(f"unknown asset hint: {sorted(unknown)[0]}")
+        signature = item.get("semantic_signature", {})
+        if not isinstance(signature, dict):
+            raise ContractError("semantic_signature must be an object")
+        scope = item.get("scope", {})
+        if not isinstance(scope, dict):
+            raise ContractError("scope must be an object")
+        family_hint = item.get("ref_family_hint", "")
+        if not isinstance(family_hint, str):
+            raise ContractError("ref_family_hint must be a string")
         parsed.append(
             ConceptRef(
                 concept_id=concept_id,
@@ -130,6 +149,9 @@ def parse_discovery(
                 source=source_name,
                 evidence=tuple(evidence_catalog[item] for item in evidence_ids),
                 asset_hints=hints,
+                semantic_signature=dict(signature),
+                scope=dict(scope),
+                ref_family_hint=family_hint,
             )
         )
     missing_types = required_types - {item.type for item in parsed}
@@ -163,6 +185,15 @@ def discovery_json_schema(min_concepts: int) -> dict[str, Any]:
                             "type": "array",
                             "items": {"type": "string", "minLength": 1},
                         },
+                        "semantic_signature": {
+                            "type": "object",
+                            "additionalProperties": True,
+                        },
+                        "scope": {
+                            "type": "object",
+                            "additionalProperties": True,
+                        },
+                        "ref_family_hint": {"type": "string"},
                     },
                     "required": [
                         "id",
@@ -502,11 +533,18 @@ def _text_tuple(value: Any, label: str) -> tuple[str, ...]:
     return tuple(_text(item, f"{label}[{index}]") for index, item in enumerate(items))
 
 
-def _exact_fields(value: dict[str, Any], expected: set[str], label: str) -> None:
+def _exact_fields(
+    value: dict[str, Any],
+    expected: set[str],
+    label: str,
+    *,
+    optional: set[str] | frozenset[str] = frozenset(),
+) -> None:
     actual = set(value)
-    if actual != expected:
+    allowed = expected | set(optional)
+    if not expected.issubset(actual) or not actual.issubset(allowed):
         missing = sorted(expected - actual)
-        extra = sorted(actual - expected)
+        extra = sorted(actual - allowed)
         raise ContractError(f"{label} fields mismatch; missing={missing}, extra={extra}")
 
 

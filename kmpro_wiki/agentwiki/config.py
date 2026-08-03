@@ -24,19 +24,19 @@ def _first(values: Mapping[str, str], *names: str) -> str:
 def openai_base_url(values: Mapping[str, str] | None = None) -> str:
     """Return the configured OpenAI-compatible base URL."""
     source = os.environ if values is None else values
-    return (_first(source, "OPENAI_BASE_URL") or DEFAULT_OPENAI_BASE_URL).rstrip(
+    return (_first(source, "OPENAI_BASE_URL", "LLM_API_BASE") or DEFAULT_OPENAI_BASE_URL).rstrip(
         "/"
     )
 
 
 def openai_api_key(values: Mapping[str, str] | None = None) -> str:
     source = os.environ if values is None else values
-    return _first(source, "OPENAI_API_KEY")
+    return _first(source, "OPENAI_API_KEY", "LLM_API_KEY")
 
 
 def openai_model(values: Mapping[str, str] | None = None) -> str:
     source = os.environ if values is None else values
-    return _first(source, "OPENAI_MODEL")
+    return _first(source, "OPENAI_MODEL", "LLM_MODEL")
 
 
 def provider_base_url(
@@ -69,6 +69,7 @@ class Settings:
     openai_timeout_seconds: float = 900.0
     openai_max_attempts: int = 2
     openai_enable_thinking: bool = False
+    openai_send_chat_template_kwargs: bool = False
     openai_max_tokens: int = 32768
     openai_response_format: str = "json_object"
     source_dir_override: Path | None = None
@@ -94,6 +95,14 @@ class Settings:
             ),
             openai_enable_thinking=_as_bool(
                 _first(values, "OPENAI_ENABLE_THINKING") or "false"
+            ),
+            openai_send_chat_template_kwargs=_as_bool(
+                _first(
+                    values,
+                    "OPENAI_SEND_CHAT_TEMPLATE_KWARGS",
+                    "LLM_SEND_CHAT_TEMPLATE_KWARGS",
+                )
+                or "false"
             ),
             openai_max_tokens=int(
                 _first(values, "OPENAI_MAX_TOKENS") or "32768"

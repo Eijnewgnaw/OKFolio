@@ -11,6 +11,7 @@ STAGE: agent_refine
 5. asset_hints 只能使用真实 asset_id。
 6. 输出完整的最终 ConceptRef 集合，而不是修改补丁。
 7. 目录、封面、编委会、纯章节标题和页码属于结构上下文，不得保留为 ConceptRef；证据必须含有可复用的事实、判断、定义或行动内容。
+8. 保留候选 Ref 的语义槽位和适用范围：明确的时间、地区、对象、场景写入 `scope`；同槽位的不同时间或场景不要互相覆盖，可保留为版本/变体。
 
 ## 当前候选
 
@@ -28,4 +29,4 @@ STAGE: agent_refine
 
 只输出严格 JSON：
 
-{"concepts":[{"id":"concept-slug","type":"分析框架","title":"概念标题","description":"单句搜索摘要。","evidence":["evidence-0001"],"asset_hints":[]}]}
+{"concepts":[{"id":"concept-slug","type":"分析框架","title":"概念标题","description":"单句搜索摘要。","evidence":["evidence-0001"],"asset_hints":[],"semantic_signature":{"key":"稳定语义槽位"},"scope":{"time":"2025年"},"ref_family_hint":"稳定语义槽位"}]}

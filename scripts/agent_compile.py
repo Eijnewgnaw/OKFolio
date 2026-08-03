@@ -92,6 +92,7 @@ def main() -> int:
         max_attempts=settings.openai_max_attempts,
         on_event=emit,
         enable_thinking=settings.openai_enable_thinking,
+        send_chat_template_kwargs=settings.openai_send_chat_template_kwargs,
         max_tokens=settings.openai_max_tokens,
         response_format=settings.openai_response_format,
     )

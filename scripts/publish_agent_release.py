@@ -23,7 +23,8 @@ from kmpro_wiki.agentwiki.okf import (
     parse_concept_markdown,
     rewrite_image_paths,
 )
-from kmpro_wiki.agentwiki.spatial_graph import build_spatial_graph
+from kmpro_wiki.agentwiki.explorer import build_explorer_html
+from kmpro_wiki.agentwiki.spatial_graph import build_graph_data, build_spatial_graph
 
 
 TYPE_KIND = {
@@ -334,6 +335,12 @@ def publish_release(
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(image, target)
 
+    graph_data = build_graph_data(
+        articles,
+        refs,
+        graph_concepts,
+        relations["judgements"],
+    )
     graph_html = build_spatial_graph(
         articles,
         refs,
@@ -342,6 +349,16 @@ def publish_release(
     )
     (outputs_dir / "graph.html").write_text(graph_html, encoding="utf-8")
     (wiki_dir / "graph.html").write_text(graph_html, encoding="utf-8")
+    explorer_html = build_explorer_html(
+        graph_data,
+        title="OKFolio Knowledge Explorer",
+        scope_note=(
+            f"Published Bundle · {len(articles)} Article · {len(refs)} Ref · "
+            f"{len(groups)} Concept"
+        ),
+    )
+    (outputs_dir / "explore.html").write_text(explorer_html, encoding="utf-8")
+    (wiki_dir / "explore.html").write_text(explorer_html, encoding="utf-8")
 
     base_index = build_index(concepts_dir)
     base_index = re.sub(
@@ -353,7 +370,7 @@ def publish_release(
     intro = (
         f"\n\n> {len(articles)} 篇 Article · {len(refs)} 个 ConceptRef · "
         f"{len(groups)} 个 Concept · {len(pairs)} 组语义关系\n\n"
-        "[打开三维知识图谱](graph.html)\n"
+        "[打开知识探索台](explore.html) · [打开三维知识图谱](graph.html)\n"
     )
     wiki_dir.joinpath("index.md").write_text(
         base_index.split("\n", 1)[0]

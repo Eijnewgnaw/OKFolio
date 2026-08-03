@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Serve the immutable graph and static Wiki included in a release image."""
+"""Serve the immutable explorer, graph, and static Wiki in a release image."""
 from __future__ import annotations
 
 import os
@@ -12,7 +12,12 @@ class ReleaseHandler(SimpleHTTPRequestHandler):
     def do_GET(self) -> None:
         if self.path in {"", "/"}:
             self.send_response(302)
-            self.send_header("Location", "/graph.html")
+            has_explorer = bool(
+                self.directory
+                and Path(self.directory, "explore.html").is_file()
+            )
+            target = "/explore.html" if has_explorer else "/graph.html"
+            self.send_header("Location", target)
             self.end_headers()
             return
         super().do_GET()

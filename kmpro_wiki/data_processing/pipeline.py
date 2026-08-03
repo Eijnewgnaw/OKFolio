@@ -74,12 +74,18 @@ def _write_json(path: Path, value: object) -> None:
 
 
 def render_article(document: DocumentIR) -> str:
+    document_family_id = hashlib.sha256(
+        f"kmpro-document-family:{document.source_file}".encode("utf-8")
+    ).hexdigest()[:20]
+    document_version_id = document.source_sha256[:20]
     lines = [
         "---",
         f"title: {json.dumps(document.title, ensure_ascii=False)}",
         f"source_file: {json.dumps(document.source_file, ensure_ascii=False)}",
         f"document_id: {document.document_id}",
         f"source_sha256: {document.source_sha256}",
+        f"document_family_id: {document_family_id}",
+        f"document_version_id: {document_version_id}",
         f"page_count: {document.page_count}",
         f"parser: {document.parser}",
         "---",

@@ -14,6 +14,8 @@ from collections.abc import Iterable, Mapping
 from dataclasses import dataclass
 from typing import Any
 
+from .versioning import scope_compatibility, semantic_key
+
 
 KIND_BY_TYPE = {
     "数据口径": "Evidence",
@@ -37,7 +39,7 @@ class CandidateEdge:
     left_ref_id: str
     right_ref_id: str
     signals: dict[str, Any]
-    candidate_version: str = "lexical-v2"
+    candidate_version: str = "metadata-aware-v3"
 
     def as_dict(self) -> dict[str, Any]:
         return {
@@ -58,9 +60,13 @@ def candidate_edges(refs: Iterable[Mapping[str, Any]], *, top_k: int = 8, minimu
     items = sorted(refs, key=lambda item: str(item["ref_id"]))
     terms = {str(item["ref_id"]): _terms(item) for item in items}
     by_term: dict[str, list[Mapping[str, Any]]] = defaultdict(list)
+    by_signature: dict[str, list[Mapping[str, Any]]] = defaultdict(list)
     for item in items:
         for term in terms[str(item["ref_id"])]:
             by_term[term].append(item)
+        explicit_key = _explicit_semantic_key(item)
+        if explicit_key:
+            by_signature[explicit_key].append(item)
 
     selected: dict[str, CandidateEdge] = {}
     states: dict[str, str] = {str(item["ref_id"]): "no_candidate" for item in items}
@@ -74,6 +80,15 @@ def candidate_edges(refs: Iterable[Mapping[str, Any]], *, top_k: int = 8, minimu
                     continue
                 if not _compatible(item, other):
                     continue
+                compatible[other_id] = other
+        explicit_key = _explicit_semantic_key(item)
+        for other in by_signature.get(explicit_key, ()) if explicit_key else ():
+            other_id = str(other["ref_id"])
+            if (
+                other_id != ref_id
+                and other["article_id"] != item["article_id"]
+                and _compatible(item, other)
+            ):
                 compatible[other_id] = other
         scored = []
         for other in compatible.values():
@@ -193,4 +208,56 @@ def _score(left: Mapping[str, Any], right: Mapping[str, Any], left_terms: set[st
     union = left_terms | right_terms
     lexical = len(intersection) / len(union) if union else 0.0
     title_overlap = bool(_terms({"title": left["title"], "description": ""}) & _terms({"title": right["title"], "description": ""}))
-    return lexical, {"shared_terms": sorted(intersection)[:12], "lexical": round(lexical, 4), "title_overlap": title_overlap}
+    left_signature = _explicit_semantic_key(left)
+    right_signature = _explicit_semantic_key(right)
+    semantic_overlap = (
+        1.0 if left_signature and left_signature == right_signature else _signature_overlap(left, right)
+    )
+    scope = scope_compatibility(left, right)
+    scope_bonus = {
+        "same": 0.06,
+        "overlap": 0.04,
+        "temporal_variant": 0.02,
+        "scenario_variant": 0.02,
+    }.get(scope, 0.0)
+    score = min(1.0, lexical + semantic_overlap * 0.18 + scope_bonus)
+    return score, {
+        "shared_terms": sorted(intersection)[:12],
+        "lexical": round(lexical, 4),
+        "semantic_overlap": round(semantic_overlap, 4),
+        "scope_compatibility": scope,
+        "scope_bonus": scope_bonus,
+        "title_overlap": title_overlap,
+    }
+
+
+def _signature_overlap(left: Mapping[str, Any], right: Mapping[str, Any]) -> float:
+    def values(item: Mapping[str, Any]) -> set[str]:
+        signature = item.get("semantic_signature")
+        if not isinstance(signature, Mapping):
+            return set()
+        text = " ".join(str(value) for value in signature.values())
+        return {
+            token.casefold()
+            for token in re.findall(r"[A-Za-z0-9]{2,}|[\u3400-\u9fff]{2,}", text)
+        }
+
+    left_values, right_values = values(left), values(right)
+    if not left_values or not right_values:
+        return 0.0
+    return len(left_values & right_values) / len(left_values | right_values)
+
+
+def _explicit_semantic_key(ref: Mapping[str, Any]) -> str:
+    """Return a slot only when the source/LLM supplied one explicitly."""
+    for field in ("ref_family_id", "ref_family_hint"):
+        value = str(ref.get(field) or "").strip()
+        if value:
+            return value
+    signature = ref.get("semantic_signature")
+    if isinstance(signature, Mapping):
+        for field in ("key", "slot", "name", "indicator", "policy"):
+            value = str(signature.get(field) or "").strip()
+            if value:
+                return value.casefold()
+    return ""

@@ -37,6 +37,7 @@ class OpenAICompatibleClient:
         retry_delay: float = 1.0,
         on_event: Callable[[str], None] | None = None,
         enable_thinking: bool = False,
+        send_chat_template_kwargs: bool = False,
         max_tokens: int = 32768,
         response_format: str = "json_object",
     ) -> None:
@@ -48,6 +49,7 @@ class OpenAICompatibleClient:
         self.retry_delay = retry_delay
         self.on_event = on_event or (lambda _message: None)
         self.enable_thinking = enable_thinking
+        self.send_chat_template_kwargs = send_chat_template_kwargs
         self.max_tokens = max_tokens
         if response_format not in {"json_object", "json_schema", "none"}:
             raise ValueError(
@@ -86,6 +88,10 @@ class OpenAICompatibleClient:
             "temperature": 0,
             "max_tokens": self.max_tokens,
         }
+        if self.send_chat_template_kwargs:
+            payload["chat_template_kwargs"] = {
+                "enable_thinking": self.enable_thinking
+            }
         if json_schema_name is not None and json_schema is not None:
             if self.response_format == "json_schema":
                 payload["response_format"] = {
@@ -147,6 +153,10 @@ class OpenAICompatibleClient:
                             if message.get("reasoning_content") is not None
                             else "reasoning"
                         )
+                except httpx.HTTPStatusError as error:
+                    raise LLMError(
+                        f"LLM request failed: HTTP {error.response.status_code}"
+                    ) from error
                 except (
                     httpx.HTTPError,
                     KeyError,

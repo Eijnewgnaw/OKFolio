@@ -34,14 +34,21 @@ Document IR → Articles → ConceptRefs
 - The compiler supports structured extraction, semantic discovery, grouping,
   quality review, safe re-compilation, relation judgement, and deterministic
   publication.
+- ConceptRefs optionally carry provider-neutral `semantic_signature`, `scope`,
+  `ref_family_hint`, and document family/version identifiers. These are
+  matching and provenance signals, not a replacement for verbatim evidence;
+  old Refs remain immutable when a document is updated.
 - The output can be consumed as OKF-style Markdown, a static wiki, a graph,
   or an MCP capability for retrieval and agent memory.
 
 ## Showcase
 
-Open the included [static showcase](demo/site/index.html) or the
-[interactive graph](demo/site/graph.html). The showcase demonstrates the
-presentation and provenance experience; it is not a benchmark dataset.
+Open the included [knowledge explorer](demo/site/explore.html), [static
+showcase](demo/site/index.html), or [interactive 3D graph](demo/site/graph.html).
+The explorer follows a LightRAG-inspired interaction pattern: query first,
+then inspect local context, global themes, and the Concept → ConceptRef →
+Article evidence trail. The showcase demonstrates the presentation and
+provenance experience; it is not a benchmark dataset.
 
 ## Repository layout
 
@@ -55,7 +62,7 @@ okfolio/
 ├── scripts/                   # CLI entry points and audits
 ├── tests/                     # Unit, integration, and release checks
 ├── docs/                      # Architecture and operational notes
-├── demo/                      # Sanitised static showcase
+├── demo/                      # Sanitised static showcase and explorer
 ├── Dockerfile
 └── docker-compose.yml
 ```
@@ -78,6 +85,8 @@ Configure an OpenAI or OpenAI-compatible service in `.env`:
 OPENAI_BASE_URL=
 OPENAI_API_KEY=<provider-api-key>
 OPENAI_MODEL=<provider-model>
+# Optional for vLLM-style compatible endpoints:
+OPENAI_SEND_CHAT_TEMPLATE_KWARGS=false
 ```
 
 `OPENAI_BASE_URL` is optional. When it is empty, the standard OpenAI API
@@ -148,6 +157,21 @@ PYTHONPATH=. python3 -m pytest -q
 PYTHONPATH=. python3 scripts/audit_open_source.py
 docker compose -f docker-compose.yml -f docker-compose.test.yml config
 ```
+
+Run the reproducible four-stage local probe (nine synthetic Articles, a full
+R0 Bundle/Graph, and a one-Article R1 update) without a model or API key:
+
+```bash
+PYTHONPATH=. .venv313/bin/python scripts/run_local_experiment.py
+```
+
+The ignored output under `artifacts/local-experiment/` includes the Bundle,
+Concept Markdown files, graph data/HTML, and `r1/reconciliation.json`.
+
+To check a provider without sending any source document or starting a compile,
+export `OPENAI_BASE_URL`, `OPENAI_API_KEY`, and `OPENAI_MODEL`, then run
+`PYTHONPATH=. python3 scripts/probe_openai_compat.py`. It makes one minimal
+Chat Completions request and never prints the key.
 
 The checks cover schema contracts, provenance, asset and source isolation,
 MCP safety gates, deterministic publication, and public-release leakage.

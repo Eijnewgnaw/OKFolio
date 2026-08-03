@@ -14,7 +14,7 @@ import shutil
 from collections import defaultdict, deque
 from collections.abc import Callable, Mapping
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from dataclasses import asdict, dataclass, replace
+from dataclasses import asdict, dataclass, field, replace
 from pathlib import Path, PurePosixPath
 from threading import Lock
 from typing import Any, Protocol, TypeVar
@@ -60,6 +60,7 @@ from .stages import (
     render_prompt,
 )
 from .state import _write_json_atomic, stable_hash
+from .versioning import semantic_key
 
 
 class CompletionClient(Protocol):
@@ -94,6 +95,9 @@ class DocumentProfile:
     asset_count: int
     asset_kinds: tuple[str, ...]
     asset_contexts: tuple[str, ...]
+    document_family_id: str = ""
+    document_version_id: str = ""
+    metadata: dict[str, Any] = field(default_factory=dict)
 
 
 @dataclass(frozen=True)
@@ -111,6 +115,12 @@ class AgentRefRecord:
     page_start: int | None = None
     page_end: int | None = None
     evidence_block_ids: tuple[str, ...] = ()
+    semantic_signature: Mapping[str, Any] = field(default_factory=dict)
+    scope: Mapping[str, Any] = field(default_factory=dict)
+    ref_family_hint: str = ""
+    ref_version_id: str = ""
+    document_family_id: str = ""
+    document_version_id: str = ""
 
     def candidate_payload(self) -> dict[str, Any]:
         return {
@@ -122,6 +132,12 @@ class AgentRefRecord:
             "section_path": list(self.section_path),
             "page_start": self.page_start,
             "page_end": self.page_end,
+            "semantic_signature": dict(self.semantic_signature),
+            "scope": dict(self.scope),
+            "ref_family_hint": self.ref_family_hint,
+            "ref_version_id": self.ref_version_id,
+            "document_family_id": self.document_family_id,
+            "document_version_id": self.document_version_id,
         }
 
 
@@ -376,7 +392,23 @@ class AgentCompiler:
             )
             structure = _load_source_structure(path)
             assets = inventory_assets(content, images_dir)
-            profile = profile_document(path.name, content, assets)
+            metadata = _load_article_metadata(path, content)
+            if structure is not None:
+                metadata["toc_entries"] = [
+                    {
+                        "title": item.get("title"),
+                        "level": item.get("level"),
+                        "page_number": item.get("page_number"),
+                    }
+                    for item in structure.get("toc_entries", [])
+                    if isinstance(item, dict) and item.get("title")
+                ]
+                metadata["outline_entries"] = [
+                    item.get("title")
+                    for item in structure.get("outline", [])
+                    if isinstance(item, dict) and item.get("title")
+                ]
+            profile = profile_document(path.name, content, assets, metadata=metadata)
             source_hash = stable_hash(
                 {
                     "content": content,
@@ -467,6 +499,12 @@ class AgentCompiler:
                         evidence=ref.evidence,
                         asset_hints=ref.asset_hints,
                         source=path.name,
+                        semantic_signature=dict(ref.semantic_signature),
+                        scope=dict(ref.scope),
+                        ref_family_hint=ref.ref_family_hint or semantic_key(ref),
+                        ref_version_id=profile.document_version_id,
+                        document_family_id=profile.document_family_id,
+                        document_version_id=profile.document_version_id,
                     ),
                     structure,
                 )
@@ -1088,6 +1126,18 @@ class AgentCompiler:
                 ),
                 "concept_refs": list(group.ref_ids),
                 "articles": articles,
+                "ref_families": sorted(
+                    {
+                        by_ref[ref_id].ref_family_hint
+                        for ref_id in group.ref_ids
+                        if by_ref[ref_id].ref_family_hint
+                    }
+                ),
+                "scopes": [
+                    dict(by_ref[ref_id].scope)
+                    for ref_id in group.ref_ids
+                    if by_ref[ref_id].scope
+                ],
                 "source_locations": [
                     {
                         "ref_id": ref_id,
@@ -1096,6 +1146,11 @@ class AgentCompiler:
                         "section_path": list(by_ref[ref_id].section_path),
                         "page_start": by_ref[ref_id].page_start,
                         "page_end": by_ref[ref_id].page_end,
+                        "document_family_id": by_ref[ref_id].document_family_id,
+                        "document_version_id": by_ref[ref_id].document_version_id,
+                        "ref_family_hint": by_ref[ref_id].ref_family_hint,
+                        "semantic_signature": dict(by_ref[ref_id].semantic_signature),
+                        "scope": dict(by_ref[ref_id].scope),
                     }
                     for ref_id in group.ref_ids
                 ],
@@ -1182,9 +1237,28 @@ def profile_document(
     source_name: str,
     source_content: str,
     assets: tuple[SourceAsset, ...],
+    *,
+    metadata: Mapping[str, Any] | None = None,
 ) -> DocumentProfile:
     headings = _heading_sections(source_content)
     structured = _select_heading_level(headings)
+    metadata_payload = dict(metadata or {})
+    family_id = str(metadata_payload.get("document_family_id") or "").strip()
+    if not family_id:
+        family_id = stable_hash(
+            {"source_file": source_name, "title": _extract_title(source_name, source_content)}
+        )[:20]
+    version_id = str(metadata_payload.get("document_version_id") or "").strip()
+    if not version_id:
+        version_id = stable_hash(
+            {"source_file": source_name, "content": source_content}
+        )[:20]
+    metadata_payload.update(
+        {
+            "document_family_id": family_id,
+            "document_version_id": version_id,
+        }
+    )
     return DocumentProfile(
         source=source_name,
         title=_extract_title(source_name, source_content),
@@ -1204,7 +1278,28 @@ def profile_document(
             f"后文：{item.after[:160]}"
             for item in assets[:80]
         ),
+        document_family_id=family_id,
+        document_version_id=version_id,
+        metadata=metadata_payload,
     )
+
+
+def _load_article_metadata(path: Path, content: str) -> dict[str, Any]:
+    """Load optional YAML frontmatter without making it a hard requirement."""
+    match = re.match(r"\A---\s*\n(.*?)\n---\s*(?:\n|$)", content, flags=re.DOTALL)
+    if not match:
+        return {}
+    try:
+        import yaml
+
+        value = yaml.safe_load(match.group(1))
+    except Exception:
+        value = None
+    if not isinstance(value, dict):
+        return {}
+    metadata = {str(key): item for key, item in value.items()}
+    metadata.setdefault("source_file", path.name)
+    return metadata
 
 
 def plan_source(
@@ -1758,6 +1853,11 @@ def plan_compile_groups(
                     "section_path": list(by_id[ref_id].section_path),
                     "page_start": by_id[ref_id].page_start,
                     "page_end": by_id[ref_id].page_end,
+                    "document_family_id": by_id[ref_id].document_family_id,
+                    "document_version_id": by_id[ref_id].document_version_id,
+                    "ref_family_hint": by_id[ref_id].ref_family_hint,
+                    "semantic_signature": dict(by_id[ref_id].semantic_signature),
+                    "scope": dict(by_id[ref_id].scope),
                     "evidence_preview": [
                         item[:500] for item in by_id[ref_id].evidence[:2]
                     ],
@@ -1927,6 +2027,9 @@ def _source_record_from_payload(
         asset_count=int(raw_profile["asset_count"]),
         asset_kinds=tuple(raw_profile["asset_kinds"]),
         asset_contexts=tuple(raw_profile["asset_contexts"]),
+        document_family_id=str(raw_profile.get("document_family_id") or ""),
+        document_version_id=str(raw_profile.get("document_version_id") or ""),
+        metadata=dict(raw_profile.get("metadata") or {}),
     )
     raw_plan = payload["plan"]
     plan = SourcePlan(
@@ -1950,6 +2053,12 @@ def _source_record_from_payload(
             page_start=_optional_page(item.get("page_start")),
             page_end=_optional_page(item.get("page_end")),
             evidence_block_ids=tuple(item.get("evidence_block_ids") or ()),
+            semantic_signature=dict(item.get("semantic_signature") or {}),
+            scope=dict(item.get("scope") or {}),
+            ref_family_hint=str(item.get("ref_family_hint") or ""),
+            ref_version_id=str(item.get("ref_version_id") or ""),
+            document_family_id=str(item.get("document_family_id") or ""),
+            document_version_id=str(item.get("document_version_id") or ""),
         )
         for item in payload["refs"]
     )
@@ -2068,6 +2177,27 @@ def _common_heading_path(paths: list[tuple[str, ...]]) -> tuple[str, ...]:
     return tuple(common)
 
 
+def _merge_scope(refs: list[AgentRefRecord]) -> dict[str, Any]:
+    """Keep scope dimensions explicit when a Concept has multiple Refs."""
+    merged: dict[str, Any] = {}
+    for ref in refs:
+        for key, value in ref.scope.items():
+            if value in (None, "", [], {}):
+                continue
+            existing = merged.get(key)
+            values = []
+            for item in (existing, value):
+                if item in (None, "", [], {}):
+                    continue
+                if isinstance(item, (list, tuple, set)):
+                    values.extend(item)
+                else:
+                    values.append(item)
+            deduped = list(dict.fromkeys(str(item) for item in values))
+            merged[key] = deduped if len(deduped) > 1 else deduped[0]
+    return merged
+
+
 def _optional_page(value: Any) -> int | None:
     return value if isinstance(value, int) and value >= 1 else None
 
@@ -2095,6 +2225,12 @@ def _draft_from_payload(payload: Mapping[str, Any]) -> DraftConcept:
         page_start=_optional_page(raw_ref.get("page_start")),
         page_end=_optional_page(raw_ref.get("page_end")),
         evidence_block_ids=tuple(raw_ref.get("evidence_block_ids") or ()),
+        semantic_signature=dict(raw_ref.get("semantic_signature") or {}),
+        scope=dict(raw_ref.get("scope") or {}),
+        ref_family_hint=str(raw_ref.get("ref_family_hint") or ""),
+        ref_version_id=str(raw_ref.get("ref_version_id") or ""),
+        document_family_id=str(raw_ref.get("document_family_id") or ""),
+        document_version_id=str(raw_ref.get("document_version_id") or ""),
     )
     return DraftConcept(
         ref=ref,
@@ -2143,6 +2279,37 @@ def _group_ref(
                 for member in members
                 for block_id in member.evidence_block_ids
             )
+        ),
+        semantic_signature=dict(
+            next(
+                (
+                    member.semantic_signature
+                    for member in members
+                    if member.semantic_signature
+                ),
+                {},
+            )
+        ),
+        scope=_merge_scope(members),
+        ref_family_hint=(
+            members[0].ref_family_hint
+            if len({member.ref_family_hint for member in members}) == 1
+            else ""
+        ),
+        ref_version_id=(
+            members[0].ref_version_id
+            if len({member.ref_version_id for member in members}) == 1
+            else ""
+        ),
+        document_family_id=(
+            members[0].document_family_id
+            if len({member.document_family_id for member in members}) == 1
+            else ""
+        ),
+        document_version_id=(
+            members[0].document_version_id
+            if len({member.document_version_id for member in members}) == 1
+            else ""
         ),
     )
 

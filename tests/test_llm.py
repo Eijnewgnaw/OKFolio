@@ -154,6 +154,24 @@ def test_client_accepts_compat_reasoning_content_without_vendor_fields(httpx_moc
     assert payload["max_tokens"] == 32768
 
 
+def test_client_can_send_optional_chat_template_kwargs(httpx_mock):
+    httpx_mock.add_response(
+        json={"choices": [{"message": {"content": "RESULT"}}]},
+    )
+    client = LLMClient(
+        "http://llm/v1",
+        "secret",
+        "model",
+        retry_delay=0,
+        send_chat_template_kwargs=True,
+        enable_thinking=False,
+    )
+
+    assert client.complete("prompt") == "RESULT"
+    payload = json.loads(httpx_mock.get_request().content)
+    assert payload["chat_template_kwargs"] == {"enable_thinking": False}
+
+
 def test_client_reports_reasoning_and_usage_metrics(httpx_mock, monkeypatch):
     httpx_mock.add_response(
         json={

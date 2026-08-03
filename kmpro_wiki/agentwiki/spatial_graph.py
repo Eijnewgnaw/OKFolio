@@ -6,13 +6,13 @@ from collections import Counter
 from typing import Any
 
 
-def build_spatial_graph(
+def build_graph_data(
     articles: list[dict[str, Any]],
     refs: list[dict[str, Any]],
     concepts: list[dict[str, Any]],
     judgements: list[dict[str, Any]],
-) -> str:
-    """Build a bright 3D relation weave and a full-asset knowledge sphere."""
+) -> dict[str, Any]:
+    """Build the portable graph payload shared by all static viewers."""
     graph_refs = [
         {**item, "evidence": list(item.get("evidence", []))[:1]}
         for item in refs
@@ -70,7 +70,20 @@ def build_spatial_graph(
             ),
         },
     }
-    payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    return data
+
+
+def build_spatial_graph(
+    articles: list[dict[str, Any]],
+    refs: list[dict[str, Any]],
+    concepts: list[dict[str, Any]],
+    judgements: list[dict[str, Any]],
+) -> str:
+    """Build a bright 3D relation weave and a full-asset knowledge sphere."""
+    payload = json.dumps(
+        build_graph_data(articles, refs, concepts, judgements),
+        ensure_ascii=False,
+    ).replace("</", "<\\/")
     return """<!doctype html>
 <html lang="zh-CN">
 <head>

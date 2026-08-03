@@ -17,6 +17,8 @@ STAGE: discover
 11. 具有不同目标、责任主体或实施路径的政策行动应分别判断；报告概述本身通常不是 Concept，除非它定义了一个可复用的总框架。
 12. 代码根据明确标题检测到的 type 覆盖要求为 {required_types}。这些类别在源文档中有直接章节证据，输出至少各包含一个，不得用其他 type 代替。
 13. 目录、封面、编委会、纯章节标题和页码只属于文档结构，不能作为 ConceptRef 证据；章节路径只帮助理解上下文。若 evidence 只有结构标题而没有事实、判断、定义或行动内容，不得输出。
+14. 如果正文明确给出适用时间、地区、对象、行业或政策场景，将它们写入 `scope`；没有明确范围时输出空对象，不要臆测。
+15. 用 `semantic_signature` 给出可跨报告匹配的语义槽位（例如 `{"key":"融资需求指数"}`），并在能确认同一指标/政策槽位时填写稳定的 `ref_family_hint`；措辞相近但槽位不同不得强行复用。
 
 ## 输入
 
@@ -36,6 +38,6 @@ STAGE: discover
 
 只输出一个严格 JSON 对象，不要输出代码围栏、前言或尾注。字段必须完全符合：
 
-{"concepts":[{"id":"concept-slug","type":"分析框架","title":"概念标题","description":"单句搜索摘要。","evidence":["evidence-0012","evidence-0013"],"asset_hints":["image-001"]}]}
+{"concepts":[{"id":"concept-slug","type":"分析框架","title":"概念标题","description":"单句搜索摘要。","evidence":["evidence-0012","evidence-0013"],"asset_hints":["image-001"],"semantic_signature":{"key":"稳定语义槽位"},"scope":{"time":"2025年","geography":"成都市","object":"制造业"},"ref_family_hint":"可复用的指标或政策槽位"}]}
 
 输出前逐项检查：ID 唯一；type 符合主要认知用途；每个 evidence_id 均来自目录；asset_hints 均来自清单；没有复制证据正文、完整 Concept 正文和链接。
