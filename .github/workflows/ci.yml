@@ -16,6 +16,7 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          cache-dependency-path: requirements.lock
       - run: pip install -r requirements.lock pytest pytest-httpx
       - run: PYTHONPATH=. python -m pytest -q
       - run: PYTHONPATH=. python scripts/audit_open_source.py
