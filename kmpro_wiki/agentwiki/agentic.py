@@ -11,10 +11,11 @@ import hashlib
 import json
 import re
 import shutil
-from collections import defaultdict, deque
+from collections import Counter, defaultdict, deque
 from collections.abc import Callable, Mapping
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import asdict, dataclass, field, replace
+from datetime import date, datetime
 from pathlib import Path, PurePosixPath
 from threading import Lock
 from typing import Any, Protocol, TypeVar
@@ -42,6 +43,7 @@ from .assets import (
 )
 from .config import Settings
 from .contracts import (
+    AssetPlacement,
     ContractError,
     ConceptRef,
     DraftConcept,
@@ -51,8 +53,10 @@ from .contracts import (
     parse_draft,
 )
 from .global_cluster import CandidateEdge, candidate_edges, kind_for
+from .llm import LLMError
 from .okf import ConceptDocument, normalize_slug, rewrite_image_paths
 from .stages import (
+    build_anchor_catalog,
     build_evidence_catalog,
     compile_one_concept,
     infer_discovery_constraints,
@@ -78,8 +82,11 @@ class AgentRunError(RuntimeError):
 
 
 DISCOVERY_CHUNK_CHARS = 48_000
+REFINE_FALLBACK_MAX_DEPTH = 3
 ASSET_PLACEMENT_BATCH_SIZE = 6
-ASSET_CANDIDATE_GROUP_LIMIT = 16
+ASSET_FALLBACK_CANDIDATE_GROUP_LIMIT = 4
+ASSET_FALLBACK_BATCH_SIZE = 4
+ASSET_PLACEMENT_STRATEGY_VERSION = "rules-first-v1"
 
 
 @dataclass(frozen=True)
@@ -244,7 +251,7 @@ class AgentCompiler:
             _write_json_atomic(
                 output / "candidates.json",
                 {
-                    "algorithm": "lexical-v2",
+                    "algorithm": candidates[0].candidate_version if candidates else "metadata-aware-v3",
                     "edges": [edge.as_dict() for edge in candidates],
                     "states": states,
                 },
@@ -413,7 +420,9 @@ class AgentCompiler:
                 {
                     "content": content,
                     "structure": structure,
-                    "assets": [asdict(item) for item in assets],
+                    "assets": [
+                        _asset_progress_payload(item) for item in assets
+                    ],
                     "agent_prompts": {
                         name: templates[name]
                         for name in ("agent_plan", "agent_refine", "discover")
@@ -483,13 +492,23 @@ class AgentCompiler:
                     assets=assets,
                     refs=refs,
                     on_decision=self._record,
+                    checkpoint_path=(
+                        output / "refine-checkpoints" / f"{path.name}.json"
+                    ),
                 )
-            article_id = _stable_id("article", path.name)
+            # A source filename identifies a document family, not one immutable
+            # Article.  Include the version so a later revision can coexist in
+            # provenance with the historical Article and its ConceptRefs.
+            article_id = _stable_id(
+                "article", f"{path.name}\0{profile.document_version_id}"
+            )
             agent_refs = tuple(
                 _attach_agent_ref_provenance(
                     AgentRefRecord(
                         ref_id=_stable_id(
-                            "ref", f"{path.name}\0{ref.concept_id}"
+                            "ref",
+                            f"{path.name}\0{profile.document_version_id}\0"
+                            f"{ref.concept_id}",
                         ),
                         article_id=article_id,
                         local_id=ref.concept_id,
@@ -501,7 +520,7 @@ class AgentCompiler:
                         source=path.name,
                         semantic_signature=dict(ref.semantic_signature),
                         scope=dict(ref.scope),
-                        ref_family_hint=ref.ref_family_hint or semantic_key(ref),
+                        ref_family_hint=ref.ref_family_hint,
                         ref_version_id=profile.document_version_id,
                         document_family_id=profile.document_family_id,
                         document_version_id=profile.document_version_id,
@@ -542,7 +561,8 @@ class AgentCompiler:
                                     "content": item.content,
                                     "structure": item.structure,
                                     "assets": [
-                                        asdict(asset) for asset in item.assets
+                                        _asset_progress_payload(asset)
+                                        for asset in item.assets
                                     ],
                                     "agent_prompts": {
                                         name: templates[name]
@@ -886,7 +906,13 @@ class AgentCompiler:
                 "sources": [
                     {
                         "source": source.path.name,
-                        "assets": [asdict(item) for item in source.assets],
+                        # Keep this payload compatible with runs created before
+                        # SourceAsset gained section_path.  Existing checkpoints
+                        # must be reusable after a routing-strategy upgrade.
+                        "assets": [
+                            _asset_progress_payload(item)
+                            for item in source.assets
+                        ],
                         "plan": asdict(source.plan),
                         "ref_ids": [ref.ref_id for ref in source.refs],
                     }
@@ -921,6 +947,24 @@ class AgentCompiler:
                 "processed_asset_batches", {}
             ).items()
         }
+        resolved_asset_ids: dict[str, set[str]] = {
+            str(source): {str(asset_id) for asset_id in asset_ids}
+            for source, asset_ids in progress.get(
+                "resolved_asset_ids", {}
+            ).items()
+            if isinstance(asset_ids, list)
+        }
+        filtered_assets: list[dict[str, Any]] = list(
+            progress.get("filtered_assets", [])
+        )
+        placement_metrics: dict[str, Any] = {
+            key: int(value)
+            for key, value in dict(progress.get("placement_metrics", {})).items()
+            if isinstance(value, int)
+        }
+
+        def increment(metric: str, amount: int = 1) -> None:
+            placement_metrics[metric] = placement_metrics.get(metric, 0) + amount
 
         def save_progress() -> None:
             _write_json_atomic(
@@ -929,6 +973,17 @@ class AgentCompiler:
                     "input_hash": input_hash,
                     "processed_sources": sorted(processed),
                     "processed_asset_batches": processed_asset_batches,
+                    "resolved_asset_ids": {
+                        source: sorted(asset_ids)
+                        for source, asset_ids in sorted(
+                            resolved_asset_ids.items()
+                        )
+                    },
+                    "filtered_assets": filtered_assets,
+                    "placement_metrics": {
+                        "strategy_version": ASSET_PLACEMENT_STRATEGY_VERSION,
+                        **placement_metrics,
+                    },
                     "drafts": {
                         group_id: _draft_payload(item)
                         for group_id, item in drafts.items()
@@ -937,6 +992,25 @@ class AgentCompiler:
                     "withheld": sorted(withheld),
                 },
             )
+
+        def apply_placements(
+            assets: tuple[SourceAsset, ...],
+            candidate_drafts: tuple[DraftConcept, ...],
+            placements: tuple[AssetPlacement, ...],
+        ) -> None:
+            documents = apply_asset_placements(
+                candidate_drafts, assets, placements
+            )
+            validate_asset_preservation(
+                assets,
+                documents,
+                self.settings.sources_dir / "images",
+                baseline=candidate_drafts,
+            )
+            for document in documents:
+                group_id = document.filename[:-3]
+                previous = drafts[group_id]
+                drafts[group_id] = replace(previous, body=document.body)
 
         for source in sources:
             if not source.assets:
@@ -991,69 +1065,151 @@ class AgentCompiler:
                 processed.add(source.path.name)
                 save_progress()
                 continue
-            asset_batches = tuple(
-                source.assets[start : start + ASSET_PLACEMENT_BATCH_SIZE]
-                for start in range(
-                    0, len(source.assets), ASSET_PLACEMENT_BATCH_SIZE
-                )
-            )
-            for batch_no, asset_batch in enumerate(asset_batches, start=1):
-                if batch_no <= processed_asset_batches.get(
-                    source.path.name, 0
-                ):
+            legacy_completed = processed_asset_batches.get(source.path.name, 0)
+            legacy_assets = {
+                asset.asset_id
+                for asset in source.assets[
+                    : legacy_completed * ASSET_PLACEMENT_BATCH_SIZE
+                ]
+            }
+            resolved = resolved_asset_ids.setdefault(source.path.name, set())
+            resolved.update(legacy_assets)
+            duplicate_counts = _asset_duplicate_counts(source.assets)
+            fallback_buckets: dict[
+                tuple[str, ...], list[tuple[int, SourceAsset]]
+            ] = defaultdict(list)
+            for asset_index, asset in enumerate(source.assets, start=1):
+                if asset.asset_id in resolved:
                     continue
-                candidate_ids = _asset_candidate_group_ids(
-                    asset_batch,
+                filtered_reason = _nonknowledge_asset_reason(
+                    asset,
+                    source.structure,
+                    duplicate_count=duplicate_counts.get(_asset_duplicate_key(asset), 1),
+                )
+                if filtered_reason is not None:
+                    filtered_assets.append(
+                        {
+                            "source": source.path.name,
+                            "asset_id": asset.asset_id,
+                            "asset_kind": asset.kind,
+                            "section_path": list(asset.section_path),
+                            "reason": filtered_reason,
+                        }
+                    )
+                    resolved.add(asset.asset_id)
+                    increment("filtered")
+                    self._record(
+                        {
+                            "stage": "asset_filter",
+                            "source": source.path.name,
+                            "asset_id": asset.asset_id,
+                            "reason": filtered_reason,
+                        }
+                    )
+                    save_progress()
+                    continue
+                deterministic = _deterministic_asset_placement(
+                    asset,
                     source.refs,
                     group_by_ref,
                     drafts,
                     tuple(target_groups),
-                    limit=ASSET_CANDIDATE_GROUP_LIMIT,
                 )
-                candidate_drafts = tuple(
-                    drafts[group_id] for group_id in candidate_ids
+                if deterministic is not None:
+                    placement, route_reason = deterministic
+                    candidate_drafts = (drafts[placement.concept_id],)
+                    apply_placements((asset,), candidate_drafts, (placement,))
+                    resolved.add(asset.asset_id)
+                    increment("deterministic")
+                    self._record(
+                        {
+                            "stage": "asset_placement",
+                            "source": source.path.name,
+                            "policy": "deterministic",
+                            "asset_index": asset_index,
+                            "assets": len(source.assets),
+                            "route_reason": route_reason,
+                            "candidate_group_ids": [placement.concept_id],
+                            "placements": [_placement_payload(placement)],
+                        }
+                    )
+                    save_progress()
+                    continue
+                candidate_ids = _asset_candidate_group_ids(
+                    (asset,),
+                    source.refs,
+                    group_by_ref,
+                    drafts,
+                    tuple(target_groups),
+                    limit=ASSET_FALLBACK_CANDIDATE_GROUP_LIMIT,
                 )
-                placements = plan_asset_placements(
-                    self.llm,
-                    templates["preserve"],
-                    assets=asset_batch,
-                    drafts=candidate_drafts,
-                )
-                documents = apply_asset_placements(
-                    candidate_drafts, asset_batch, placements
-                )
-                validate_asset_preservation(
-                    asset_batch,
-                    documents,
-                    self.settings.sources_dir / "images",
-                    baseline=candidate_drafts,
-                )
-                for document in documents:
-                    group_id = document.filename[:-3]
-                    previous = drafts[group_id]
-                    drafts[group_id] = replace(previous, body=document.body)
-                self._record(
-                    {
-                        "stage": "asset_placement",
-                        "source": source.path.name,
-                        "policy": "auto",
-                        "batch": batch_no,
-                        "batches": len(asset_batches),
-                        "candidate_group_ids": list(candidate_ids),
-                        "placements": [
+                fallback_buckets[candidate_ids].append((asset_index, asset))
+            for candidate_ids, pending in sorted(fallback_buckets.items()):
+                for start in range(0, len(pending), ASSET_FALLBACK_BATCH_SIZE):
+                    batch = pending[start : start + ASSET_FALLBACK_BATCH_SIZE]
+                    asset_batch = tuple(asset for _index, asset in batch)
+                    candidate_drafts = tuple(
+                        drafts[group_id] for group_id in candidate_ids
+                    )
+                    try:
+                        placements = plan_asset_placements(
+                            self.llm,
+                            templates["preserve"],
+                            assets=asset_batch,
+                            drafts=candidate_drafts,
+                        )
+                    except LLMError as error:
+                        for _asset_index, asset in batch:
+                            reviews.append(
+                                {
+                                    "kind": "asset_placement",
+                                    "source": source.path.name,
+                                    "asset_id": asset.asset_id,
+                                    "asset_kind": asset.kind,
+                                    "candidate_group_ids": list(candidate_ids),
+                                    "before": asset.before,
+                                    "after": asset.after,
+                                    "reason": "LLM placement unavailable after retries: "
+                                    f"{error}",
+                                }
+                            )
+                            resolved.add(asset.asset_id)
+                        increment("llm_failed", len(batch))
+                        increment("llm_failed_requests")
+                        self._record(
                             {
-                                "asset_id": item.asset_id,
-                                "concept_id": item.concept_id,
-                                "anchor": item.anchor,
-                                "position": item.position,
-                                "reason": item.reason,
+                                "stage": "asset_placement",
+                                "source": source.path.name,
+                                "policy": "llm_unavailable",
+                                "asset_ids": [
+                                    asset.asset_id for _index, asset in batch
+                                ],
+                                "candidate_group_ids": list(candidate_ids),
+                                "error": str(error),
                             }
-                            for item in placements
-                        ],
-                    }
-                )
-                processed_asset_batches[source.path.name] = batch_no
-                save_progress()
+                        )
+                        save_progress()
+                        continue
+                    apply_placements(asset_batch, candidate_drafts, placements)
+                    resolved.update(asset.asset_id for _index, asset in batch)
+                    increment("llm", len(batch))
+                    increment("llm_requests")
+                    self._record(
+                        {
+                            "stage": "asset_placement",
+                            "source": source.path.name,
+                            "policy": "llm_fallback",
+                            "asset_indexes": [
+                                asset_index for asset_index, _asset in batch
+                            ],
+                            "assets": len(source.assets),
+                            "candidate_group_ids": list(candidate_ids),
+                            "placements": [
+                                _placement_payload(item) for item in placements
+                            ],
+                        }
+                    )
+                    save_progress()
             processed.add(source.path.name)
             save_progress()
         self._copy_referenced_images(output, sources)
@@ -1274,7 +1430,8 @@ def profile_document(
         asset_count=len(assets),
         asset_kinds=tuple(sorted({item.kind for item in assets})),
         asset_contexts=tuple(
-            f"{item.asset_id} ({item.kind}) 前文：{item.before[:160]} "
+            f"{item.asset_id} ({item.kind}) 章节：{' / '.join(item.section_path)} "
+            f"前文：{item.before[:160]} "
             f"后文：{item.after[:160]}"
             for item in assets[:80]
         ),
@@ -1297,9 +1454,20 @@ def _load_article_metadata(path: Path, content: str) -> dict[str, Any]:
         value = None
     if not isinstance(value, dict):
         return {}
-    metadata = {str(key): item for key, item in value.items()}
+    metadata = _json_safe_metadata(value)
     metadata.setdefault("source_file", path.name)
     return metadata
+
+
+def _json_safe_metadata(value: Any) -> Any:
+    """Normalize YAML scalars so source progress remains JSON serializable."""
+    if isinstance(value, (datetime, date)):
+        return value.isoformat()
+    if isinstance(value, Mapping):
+        return {str(key): _json_safe_metadata(item) for key, item in value.items()}
+    if isinstance(value, (list, tuple)):
+        return [_json_safe_metadata(item) for item in value]
+    return value
 
 
 def plan_source(
@@ -1505,7 +1673,15 @@ def refine_discovery(
     assets: tuple[SourceAsset, ...],
     refs: tuple[ConceptRef, ...],
     on_decision: Callable[[dict[str, Any]], None] | None = None,
+    checkpoint_path: Path | None = None,
 ) -> tuple[ConceptRef, ...]:
+    """Audit Ref candidates with resumable, adaptive evidence chunks.
+
+    A model request can fail after other chunks in the same source have been
+    accepted.  Persisting each accepted chunk avoids replaying them on resume.
+    If the model service rejects one large chunk, retry that isolated chunk as
+    smaller evidence partitions before allowing the run to fail.
+    """
     catalog = build_evidence_catalog(source_content)
     values = set(catalog.values())
     synthetic_no = 1
@@ -1521,6 +1697,14 @@ def refine_discovery(
         catalog,
         maximum_chars=DISCOVERY_CHUNK_CHARS,
     )
+    checkpoint = _load_refine_checkpoint(
+        checkpoint_path,
+        source_name=source_name,
+        catalog=catalog,
+        refs=refs,
+        template=template,
+        chunks=chunks,
+    )
     refined_refs: list[ConceptRef] = []
     for chunk_no, chunk in enumerate(chunks, start=1):
         chunk_values = set(chunk.values())
@@ -1531,16 +1715,57 @@ def refine_discovery(
         )
         if not current_refs:
             continue
-        refined_refs.extend(
-            _refine_catalog(
-                llm,
-                template,
-                source_name=source_name,
-                catalog=chunk,
-                assets=_assets_for_evidence(assets, chunk),
-                refs=current_refs,
-                corrections=corrections,
+        cached = _checkpoint_refs(checkpoint, chunk_no)
+        if cached is not None:
+            refined_refs.extend(cached)
+            corrections.extend(
+                _checkpoint_corrections(checkpoint, chunk_no)
             )
+            if on_decision is not None:
+                on_decision(
+                    {
+                        "stage": "discovery_refine_chunk",
+                        "source": source_name,
+                        "chunk": chunk_no,
+                        "chunks": len(chunks),
+                        "before": len(current_refs),
+                        "after": len(refined_refs),
+                        "reused": True,
+                    }
+                )
+            continue
+
+        chunk_corrections: list[dict[str, str]] = []
+        refined_chunk = _refine_chunk_with_fallback(
+            llm,
+            template,
+            source_name=source_name,
+            catalog=chunk,
+            assets=assets,
+            refs=current_refs,
+            corrections=chunk_corrections,
+            on_fallback=(
+                None
+                if on_decision is None
+                else lambda detail: on_decision(
+                    {
+                        "stage": "discovery_refine_fallback",
+                        "source": source_name,
+                        "chunk": chunk_no,
+                        "chunks": len(chunks),
+                        **detail,
+                    }
+                )
+            ),
+        )
+        refined_refs.extend(refined_chunk)
+        corrections.extend(chunk_corrections)
+        _save_refine_checkpoint(
+            checkpoint_path,
+            checkpoint,
+            chunk_no=chunk_no,
+            refs=refined_chunk,
+            corrections=chunk_corrections,
         )
         if on_decision is not None and len(chunks) > 1:
             on_decision(
@@ -1571,6 +1796,185 @@ def refine_discovery(
     return refined
 
 
+def _refine_chunk_with_fallback(
+    llm: CompletionClient,
+    template: str,
+    *,
+    source_name: str,
+    catalog: dict[str, str],
+    assets: tuple[SourceAsset, ...],
+    refs: tuple[ConceptRef, ...],
+    corrections: list[dict[str, str]],
+    on_fallback: Callable[[dict[str, Any]], None] | None = None,
+    depth: int = 0,
+) -> tuple[ConceptRef, ...]:
+    """Refine one evidence chunk, splitting it only after an LLM transport error."""
+    try:
+        return _refine_catalog(
+            llm,
+            template,
+            source_name=source_name,
+            catalog=catalog,
+            assets=_assets_for_evidence(assets, catalog),
+            refs=refs,
+            corrections=corrections,
+        )
+    except LLMError as error:
+        maximum_chars = _catalog_cost(catalog)
+        if depth >= REFINE_FALLBACK_MAX_DEPTH or len(catalog) < 2:
+            raise
+        partitions = _partition_evidence_catalog(
+            catalog,
+            maximum_chars=max(1, maximum_chars // 2),
+        )
+        if len(partitions) < 2:
+            raise
+        if on_fallback is not None:
+            on_fallback(
+                {
+                    "depth": depth + 1,
+                    "reason": type(error).__name__,
+                    "evidence_blocks": len(catalog),
+                    "split_parts": len(partitions),
+                }
+            )
+        refined: list[ConceptRef] = []
+        for partition in partitions:
+            values = set(partition.values())
+            partition_refs = tuple(
+                ref
+                for ref in refs
+                if any(evidence in values for evidence in ref.evidence)
+            )
+            if not partition_refs:
+                continue
+            refined.extend(
+                _refine_chunk_with_fallback(
+                    llm,
+                    template,
+                    source_name=source_name,
+                    catalog=partition,
+                    assets=assets,
+                    refs=partition_refs,
+                    corrections=corrections,
+                    on_fallback=on_fallback,
+                    depth=depth + 1,
+                )
+            )
+        refined_tuple = _merge_discovered_refs(refined)
+        if not refined_tuple:
+            raise ContractError("fallback discovery refinement returned no ConceptRef")
+        return refined_tuple
+
+
+def _catalog_cost(catalog: Mapping[str, str]) -> int:
+    return sum(len(evidence_id) + len(text) + 32 for evidence_id, text in catalog.items())
+
+
+def _refine_checkpoint_key(
+    *,
+    source_name: str,
+    catalog: Mapping[str, str],
+    refs: tuple[ConceptRef, ...],
+    template: str,
+    chunks: tuple[dict[str, str], ...],
+) -> str:
+    return stable_hash(
+        {
+            "version": 1,
+            "source": source_name,
+            "catalog": dict(catalog),
+            "refs": [asdict(ref) for ref in refs],
+            "template": template,
+            "chunk_ids": [list(chunk) for chunk in chunks],
+        }
+    )
+
+
+def _load_refine_checkpoint(
+    path: Path | None,
+    *,
+    source_name: str,
+    catalog: Mapping[str, str],
+    refs: tuple[ConceptRef, ...],
+    template: str,
+    chunks: tuple[dict[str, str], ...],
+) -> dict[str, Any]:
+    key = _refine_checkpoint_key(
+        source_name=source_name,
+        catalog=catalog,
+        refs=refs,
+        template=template,
+        chunks=chunks,
+    )
+    empty = {"version": 1, "key": key, "chunks": {}}
+    if path is None or not path.exists():
+        return empty
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return empty
+    if (
+        not isinstance(value, dict)
+        or value.get("version") != 1
+        or value.get("key") != key
+        or not isinstance(value.get("chunks"), dict)
+    ):
+        return empty
+    return value
+
+
+def _save_refine_checkpoint(
+    path: Path | None,
+    checkpoint: dict[str, Any],
+    *,
+    chunk_no: int,
+    refs: tuple[ConceptRef, ...],
+    corrections: list[dict[str, str]],
+) -> None:
+    if path is None:
+        return
+    chunks = checkpoint.setdefault("chunks", {})
+    chunks[str(chunk_no)] = {
+        "refs": [asdict(ref) for ref in refs],
+        "id_corrections": list(corrections),
+    }
+    _write_json_atomic(path, checkpoint)
+
+
+def _checkpoint_refs(
+    checkpoint: Mapping[str, Any], chunk_no: int
+) -> tuple[ConceptRef, ...] | None:
+    chunks = checkpoint.get("chunks")
+    if not isinstance(chunks, Mapping):
+        return None
+    item = chunks.get(str(chunk_no))
+    if not isinstance(item, Mapping) or not isinstance(item.get("refs"), list):
+        return None
+    try:
+        return tuple(_concept_ref_from_payload(value) for value in item["refs"])
+    except (KeyError, TypeError, ValueError):
+        return None
+
+
+def _checkpoint_corrections(
+    checkpoint: Mapping[str, Any], chunk_no: int
+) -> list[dict[str, str]]:
+    chunks = checkpoint.get("chunks")
+    if not isinstance(chunks, Mapping):
+        return []
+    item = chunks.get(str(chunk_no))
+    if not isinstance(item, Mapping) or not isinstance(item.get("id_corrections"), list):
+        return []
+    return [
+        {"from": str(value["from"]), "to": str(value["to"])}
+        for value in item["id_corrections"]
+        if isinstance(value, Mapping)
+        and isinstance(value.get("from"), str)
+        and isinstance(value.get("to"), str)
+    ]
+
+
 def _refine_catalog(
     llm: CompletionClient,
     template: str,
@@ -1598,6 +2002,9 @@ def _refine_catalog(
                 for item in ref.asset_hints
                 if item in {asset.asset_id for asset in assets}
             ],
+            "semantic_signature": dict(ref.semantic_signature),
+            "scope": dict(ref.scope),
+            "ref_family_hint": ref.ref_family_hint,
         }
         for ref in refs
     ]
@@ -1612,12 +2019,8 @@ def _refine_catalog(
         ),
         asset_inventory=_json([asdict(item) for item in assets]),
     )
-    return _complete_agent(
-        llm,
-        prompt,
-        schema_name="agent_refined_discovery",
-        schema=discovery_json_schema(1),
-        parser=lambda response: _parse_agent_discovery(
+    def parse_refined(response: str) -> tuple[ConceptRef, ...]:
+        parsed = _parse_agent_discovery(
             response,
             source_name=source_name,
             evidence_catalog=catalog,
@@ -1625,7 +2028,30 @@ def _refine_catalog(
             min_concepts=1,
             required_types=set(),
             corrections=corrections,
-        ),
+        )
+        original = {ref.concept_id: ref for ref in refs}
+        return tuple(
+            replace(
+                ref,
+                semantic_signature=(
+                    dict(ref.semantic_signature)
+                    or dict(original.get(ref.concept_id, ref).semantic_signature)
+                ),
+                scope=dict(ref.scope) or dict(original.get(ref.concept_id, ref).scope),
+                ref_family_hint=(
+                    ref.ref_family_hint
+                    or original.get(ref.concept_id, ref).ref_family_hint
+                ),
+            )
+            for ref in parsed
+        )
+
+    return _complete_agent(
+        llm,
+        prompt,
+        schema_name="agent_refined_discovery",
+        schema=discovery_json_schema(1),
+        parser=parse_refined,
     )
 
 
@@ -1662,9 +2088,14 @@ def _assets_for_evidence(
 
 def _merge_discovered_refs(refs: list[ConceptRef]) -> tuple[ConceptRef, ...]:
     merged: list[ConceptRef] = []
-    by_key: dict[tuple[str, str], int] = {}
+    by_key: dict[tuple[str, str, str, str], int] = {}
     for ref in refs:
-        key = (ref.type, re.sub(r"\s+", "", ref.title).casefold())
+        key = (
+            ref.type,
+            re.sub(r"\s+", "", ref.title).casefold(),
+            semantic_key(ref),
+            json.dumps(dict(ref.scope), ensure_ascii=False, sort_keys=True),
+        )
         position = by_key.get(key)
         if position is None:
             by_key[key] = len(merged)
@@ -1677,6 +2108,12 @@ def _merge_discovered_refs(refs: list[ConceptRef]) -> tuple[ConceptRef, ...]:
             asset_hints=tuple(
                 dict.fromkeys(previous.asset_hints + ref.asset_hints)
             ),
+            semantic_signature=(
+                dict(previous.semantic_signature)
+                or dict(ref.semantic_signature)
+            ),
+            scope=dict(previous.scope) or dict(ref.scope),
+            ref_family_hint=previous.ref_family_hint or ref.ref_family_hint,
         )
     used: set[str] = set()
     unique: list[ConceptRef] = []
@@ -1692,6 +2129,196 @@ def _merge_discovered_refs(refs: list[ConceptRef]) -> tuple[ConceptRef, ...]:
             ref if concept_id == ref.concept_id else replace(ref, concept_id=concept_id)
         )
     return tuple(unique)
+
+
+def _asset_progress_payload(asset: SourceAsset) -> dict[str, Any]:
+    """Stable checkpoint payload, intentionally excluding routing-only fields."""
+    return {
+        "asset_id": asset.asset_id,
+        "kind": asset.kind,
+        "raw": asset.raw,
+        "target": asset.target,
+        "before": asset.before,
+        "after": asset.after,
+        "ordinal": asset.ordinal,
+        "sha256": asset.sha256,
+    }
+
+
+def _placement_payload(placement: AssetPlacement) -> dict[str, str]:
+    return {
+        "asset_id": placement.asset_id,
+        "concept_id": placement.concept_id,
+        "anchor": placement.anchor,
+        "position": placement.position,
+        "reason": placement.reason,
+    }
+
+
+def _asset_duplicate_key(asset: SourceAsset) -> str:
+    return asset.sha256 or asset.target or asset.raw
+
+
+def _asset_duplicate_counts(assets: tuple[SourceAsset, ...]) -> Counter[str]:
+    return Counter(_asset_duplicate_key(asset) for asset in assets)
+
+
+def _nonknowledge_asset_reason(
+    asset: SourceAsset,
+    structure: Mapping[str, Any] | None,
+    *,
+    duplicate_count: int,
+) -> str | None:
+    """Filter only assets with explicit non-knowledge evidence.
+
+    A missing caption is not enough to discard an image.  We only suppress
+    assets that the normalization sidecar marks as a non-content page, or
+    whose own alt text explicitly identifies it as cover/TOC/decoration.
+    This keeps the filter conservative and auditable.
+    """
+    if asset.kind != "image":
+        return None
+    page_role = _asset_page_role(asset, structure)
+    if page_role and re.search(
+        r"cover|blank|separator|toc|contents|decorative|front.?matter|"
+        r"chapter.?title|封面|空白|目录|扉页|装饰",
+        page_role,
+        flags=re.IGNORECASE,
+    ):
+        return f"nonknowledge_page_role:{page_role}"
+    alt = _asset_alt_text(asset.raw)
+    decorative = re.search(
+        r"封面|扉页|目录|版权|编委|装饰|logo|二维码|cover|contents|"
+        r"copyright|decoration|qrcode",
+        alt,
+        flags=re.IGNORECASE,
+    )
+    if decorative:
+        return "explicit_nonknowledge_alt"
+    if duplicate_count > 1 and re.search(
+        r"logo|图标|装饰|二维码|icon|decoration|qrcode",
+        alt,
+        flags=re.IGNORECASE,
+    ):
+        return "repeated_explicit_decorative_asset"
+    return None
+
+
+def _asset_alt_text(raw: str) -> str:
+    match = re.match(r"!\[([^]]*)\]", raw.strip())
+    return match.group(1).strip() if match else ""
+
+
+def _asset_page_role(
+    asset: SourceAsset, structure: Mapping[str, Any] | None
+) -> str:
+    if structure is None:
+        return ""
+    page_match = re.search(r"第\s*(\d+)\s*页", _asset_alt_text(asset.raw))
+    if page_match is None:
+        return ""
+    page_number = int(page_match.group(1))
+    for item in structure.get("pages", []):
+        if not isinstance(item, Mapping):
+            continue
+        if item.get("page_number") == page_number:
+            return str(item.get("role") or "").strip()
+    return ""
+
+
+def _deterministic_asset_placement(
+    asset: SourceAsset,
+    refs: tuple[AgentRefRecord, ...],
+    group_by_ref: Mapping[str, str],
+    drafts: Mapping[str, DraftConcept],
+    target_groups: tuple[str, ...],
+) -> tuple[AssetPlacement, str] | None:
+    hinted_groups = {
+        group_by_ref[ref.ref_id]
+        for ref in refs
+        if ref.ref_id in group_by_ref and asset.asset_id in ref.asset_hints
+    }
+    target_group: str | None = None
+    route_reason = ""
+    if len(hinted_groups) == 1:
+        target_group = next(iter(hinted_groups))
+        route_reason = "unique_asset_hint"
+    elif len(target_groups) == 1:
+        target_group = target_groups[0]
+        route_reason = "single_source_group"
+    elif asset.section_path:
+        section_groups = {
+            group_by_ref[ref.ref_id]
+            for ref in refs
+            if ref.ref_id in group_by_ref
+            and _same_terminal_section(asset.section_path, ref.section_path)
+        }
+        if len(section_groups) == 1:
+            target_group = next(iter(section_groups))
+            route_reason = "unique_terminal_section"
+    if target_group is None or target_group not in drafts:
+        return None
+    anchor = _deterministic_asset_anchor(asset, drafts[target_group])
+    if anchor is None:
+        return None
+    anchor_text, position = anchor
+    return (
+        AssetPlacement(
+            asset_id=asset.asset_id,
+            concept_id=target_group,
+            anchor=anchor_text,
+            position=position,
+            reason=f"确定性归位：{route_reason}",
+        ),
+        route_reason,
+    )
+
+
+def _same_terminal_section(
+    asset_path: tuple[str, ...], ref_path: tuple[str, ...]
+) -> bool:
+    return bool(asset_path and ref_path and asset_path[-1] == ref_path[-1])
+
+
+def _deterministic_asset_anchor(
+    asset: SourceAsset, draft: DraftConcept
+) -> tuple[str, str] | None:
+    catalog = build_anchor_catalog((draft,))
+    anchors = [
+        text
+        for (concept_id, _anchor_id), text in catalog.items()
+        if concept_id == draft.ref.concept_id
+    ]
+    body_anchors = [
+        anchor
+        for anchor in anchors
+        if not anchor.lstrip().startswith("#")
+    ]
+    anchors = body_anchors or anchors
+    if len(anchors) == 1:
+        return anchors[0], "after"
+    before_terms = _placement_terms(asset.before)
+    after_terms = _placement_terms(asset.after)
+    ranked: list[tuple[int, str, str]] = []
+    for anchor in anchors:
+        terms = _placement_terms(anchor)
+        before_score = len(before_terms & terms)
+        after_score = len(after_terms & terms)
+        if before_score == after_score == 0:
+            continue
+        if before_score >= after_score:
+            ranked.append((before_score, anchor, "after"))
+        else:
+            ranked.append((after_score, anchor, "before"))
+    if not ranked:
+        return None
+    ranked.sort(key=lambda item: (-item[0], item[1], item[2]))
+    best_score, best_anchor, best_position = ranked[0]
+    if best_score <= 0 or (
+        len(ranked) > 1 and ranked[1][0] == best_score
+    ):
+        return None
+    return best_anchor, best_position
 
 
 def _asset_candidate_group_ids(
@@ -1714,12 +2341,29 @@ def _asset_candidate_group_ids(
     }
     pool = hinted or set(target_groups)
     context = " ".join(
-        f"{asset.before} {asset.after}" for asset in assets
+        f"{' '.join(asset.section_path)} {asset.before} {asset.after}"
+        for asset in assets
     )
     context_terms = _placement_terms(context)
+    section_paths = tuple(asset.section_path for asset in assets)
+
+    def section_score(group_id: str) -> int:
+        return max(
+            (
+                sum(
+                    _same_terminal_section(asset_path, ref.section_path)
+                    for asset_path in section_paths
+                )
+                for ref in refs
+                if group_by_ref.get(ref.ref_id) == group_id
+            ),
+            default=0,
+        )
+
     ranked = sorted(
         pool,
         key=lambda group_id: (
+            -section_score(group_id),
             -len(
                 context_terms
                 & _placement_terms(
@@ -2211,27 +2855,33 @@ def _draft_payload(draft: DraftConcept) -> dict[str, Any]:
     }
 
 
+def _concept_ref_from_payload(payload: Mapping[str, Any]) -> ConceptRef:
+    return ConceptRef(
+        concept_id=str(payload["concept_id"]),
+        type=str(payload["type"]),
+        title=str(payload["title"]),
+        description=str(payload["description"]),
+        source=str(payload["source"]),
+        evidence=tuple(str(item) for item in payload["evidence"]),
+        asset_hints=tuple(str(item) for item in payload["asset_hints"]),
+        section_path=tuple(str(item) for item in payload.get("section_path") or ()),
+        page_start=_optional_page(payload.get("page_start")),
+        page_end=_optional_page(payload.get("page_end")),
+        evidence_block_ids=tuple(
+            str(item) for item in payload.get("evidence_block_ids") or ()
+        ),
+        semantic_signature=dict(payload.get("semantic_signature") or {}),
+        scope=dict(payload.get("scope") or {}),
+        ref_family_hint=str(payload.get("ref_family_hint") or ""),
+        ref_version_id=str(payload.get("ref_version_id") or ""),
+        document_family_id=str(payload.get("document_family_id") or ""),
+        document_version_id=str(payload.get("document_version_id") or ""),
+    )
+
+
 def _draft_from_payload(payload: Mapping[str, Any]) -> DraftConcept:
     raw_ref = payload["ref"]
-    ref = ConceptRef(
-        concept_id=raw_ref["concept_id"],
-        type=raw_ref["type"],
-        title=raw_ref["title"],
-        description=raw_ref["description"],
-        source=raw_ref["source"],
-        evidence=tuple(raw_ref["evidence"]),
-        asset_hints=tuple(raw_ref["asset_hints"]),
-        section_path=tuple(raw_ref.get("section_path") or ()),
-        page_start=_optional_page(raw_ref.get("page_start")),
-        page_end=_optional_page(raw_ref.get("page_end")),
-        evidence_block_ids=tuple(raw_ref.get("evidence_block_ids") or ()),
-        semantic_signature=dict(raw_ref.get("semantic_signature") or {}),
-        scope=dict(raw_ref.get("scope") or {}),
-        ref_family_hint=str(raw_ref.get("ref_family_hint") or ""),
-        ref_version_id=str(raw_ref.get("ref_version_id") or ""),
-        document_family_id=str(raw_ref.get("document_family_id") or ""),
-        document_version_id=str(raw_ref.get("document_version_id") or ""),
-    )
+    ref = _concept_ref_from_payload(raw_ref)
     return DraftConcept(
         ref=ref,
         title=payload["title"],

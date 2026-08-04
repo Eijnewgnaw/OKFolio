@@ -50,6 +50,23 @@ def test_discovery_requires_valid_ids_types_exact_evidence_and_known_assets():
     assert refs == (concept_ref(),)
 
 
+def test_discovery_preserves_optional_semantic_and_scope_metadata():
+    refs = parse_discovery(
+        discovery_response(
+            semantic_signature={"key": "financing-demand-index"},
+            scope={"time": "2025年", "geography": "成都市"},
+            ref_family_hint="financing-demand-index",
+        ),
+        source_name="报告.md",
+        evidence_catalog={"evidence-0001": "融资需求指数下降。"},
+        asset_ids={"image-001"},
+    )
+
+    assert refs[0].semantic_signature == {"key": "financing-demand-index"}
+    assert refs[0].scope == {"time": "2025年", "geography": "成都市"}
+    assert refs[0].ref_family_hint == "financing-demand-index"
+
+
 def test_discovery_rejects_trailing_prose():
     with pytest.raises(ContractError, match="valid JSON"):
         parse_discovery(

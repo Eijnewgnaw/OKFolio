@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import re
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
@@ -30,6 +31,7 @@ class SourceAsset:
     after: str
     ordinal: int
     sha256: str | None
+    section_path: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -86,6 +88,7 @@ def inventory_assets(source_content: str, source_images_dir: Path) -> tuple[Sour
                 after=_neighbor(source_content[match.end :], reverse=False),
                 ordinal=ordinal,
                 sha256=checksum,
+                section_path=_section_path_at(source_content, match.start),
             )
         )
     return tuple(assets)
@@ -256,6 +259,20 @@ def _neighbor(content: str, *, reverse: bool) -> str:
         if stripped:
             return stripped
     return ""
+
+
+def _section_path_at(content: str, offset: int) -> tuple[str, ...]:
+    """Return the Markdown heading path in effect when an asset appears."""
+    stack: list[tuple[int, str]] = []
+    for match in re.finditer(r"(?m)^(#{1,6})\s+(.+?)\s*$", content):
+        if match.start() >= offset:
+            break
+        depth = len(match.group(1))
+        title = match.group(2).strip()
+        while stack and stack[-1][0] >= depth:
+            stack.pop()
+        stack.append((depth, title))
+    return tuple(title for _depth, title in stack)
 
 
 def _reject_overlaps(matches: list[_AssetMatch]) -> None:

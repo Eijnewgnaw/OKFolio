@@ -3,10 +3,12 @@ from __future__ import annotations
 import json
 import re
 import shutil
+from dataclasses import replace
 from pathlib import Path
 
 import pytest
 
+import kmpro_wiki.agentwiki.agentic as agentic
 from kmpro_wiki.agentwiki.agent_contracts import AgentPolicy
 from kmpro_wiki.agentwiki.agentic import (
     AgentCompiler,
@@ -20,9 +22,12 @@ from kmpro_wiki.agentwiki.agentic import (
     refine_discovery,
     _attach_agent_ref_provenance,
     _load_source_structure,
+    _load_article_metadata,
+    _asset_progress_payload,
 )
 from kmpro_wiki.agentwiki.config import Settings
 from kmpro_wiki.agentwiki.global_cluster import CandidateEdge
+from kmpro_wiki.agentwiki.llm import LLMError
 
 
 class FakeLLM:
@@ -138,6 +143,82 @@ def test_heading_discovery_is_deterministic_and_keeps_source_evidence():
     assert [item.type for item in refs] == ["分析框架", "政策建议"]
     assert refs[0].source == "报告.md"
     assert "数字产业增加值" in "\n".join(refs[0].evidence)
+
+
+def test_profile_document_derives_stable_family_version_and_reads_frontmatter(tmp_path: Path):
+    source = tmp_path / "报告.md"
+    content = """---
+title: 元信息报告
+document_family_id: family-1
+published_at: 2025-06-01
+geography: 成都市
+---
+
+# 报告
+
+## 核心判断
+
+区域协同水平持续提高。
+"""
+    source.write_text(content, encoding="utf-8")
+
+    metadata = _load_article_metadata(source, content)
+    profile = profile_document(source.name, content, (), metadata=metadata)
+
+    assert metadata["document_family_id"] == "family-1"
+    assert metadata["geography"] == "成都市"
+    assert profile.document_family_id == "family-1"
+    assert profile.document_version_id
+    assert profile.metadata["published_at"] == "2025-06-01"
+    assert json.dumps(profile.metadata, ensure_ascii=False)
+
+
+def test_refinement_prompt_and_result_preserve_metadata():
+    content = (
+        "# 报告\n\n"
+        "## 指标\n\n本节用于观察融资需求指数变化，当前样本明确记录该指数的年度变化。\n\n"
+        "## 建议\n\n本节给出完善融资服务的实施路径，包含责任主体和具体行动步骤。\n"
+    )
+    original = discover_from_headings("报告.md", content, ())
+    original = tuple(
+        replace(
+            original[0],
+            semantic_signature={"key": "financing-demand-index"},
+            scope={"time": "2025年"},
+            ref_family_hint="financing-demand-index",
+        )
+        for _ in [0]
+    )
+    response = json.dumps(
+        {
+            "concepts": [
+                {
+                    "id": original[0].concept_id,
+                    "type": original[0].type,
+                    "title": original[0].title,
+                    "description": original[0].description,
+                    "evidence": ["evidence-0001"],
+                    "asset_hints": [],
+                }
+            ]
+        },
+        ensure_ascii=False,
+    )
+    llm = FakeLLM([response])
+
+    refs = refine_discovery(
+        llm,
+        Path("prompts/agent_refine.md").read_text(encoding="utf-8"),
+        source_name="报告.md",
+        source_content=content,
+        assets=(),
+        refs=original,
+    )
+
+    assert "semantic_signature" in llm.prompts[0]
+    assert refs[0].semantic_signature == {"key": "financing-demand-index"}
+    assert refs[0].scope == {"time": "2025年"}
+    assert refs[0].ref_family_hint == "financing-demand-index"
 
 
 def test_heading_discovery_drops_container_heading_without_body():
@@ -322,6 +403,152 @@ def test_discovery_refine_can_replace_heading_candidates_with_audited_refs():
         "跨部门资源统筹",
     ]
     assert llm.schemas == ["agent_refined_discovery"]
+
+
+def test_refine_discovery_resumes_from_completed_chunks_after_model_failure(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+):
+    """A transient failure must not replay already accepted refine chunks."""
+    monkeypatch.setattr(agentic, "DISCOVERY_CHUNK_CHARS", 120)
+    content = """# 分块恢复报告
+
+## 产业运行判断
+
+产业运行形成独立判断，并且该段文字足够长以触发证据分块和精细复核处理。
+
+## 政策实施建议
+
+建立实施台账、明确责任主体和时间节点，形成可独立引用的政策建议。
+
+## 国际经验比较
+
+境外区域协同经验表明，跨部门统筹机制能够提高政策执行的一致性和持续性。
+"""
+    refs = discover_from_headings("恢复报告.md", content, ())
+    checkpoint = tmp_path / "refine-checkpoint.json"
+
+    class RefineLLM:
+        def __init__(
+            self, fail_on: int | None = None, generation: str = "run"
+        ):
+            self.fail_on = fail_on
+            self.generation = generation
+            self.calls = 0
+
+        def complete(self, prompt: str, **kwargs) -> str:
+            self.calls += 1
+            if self.fail_on == self.calls:
+                raise LLMError("transient HTTP 500")
+            evidence_id = re.search(r'"evidence_id": "([^"]+)"', prompt).group(1)
+            return json.dumps(
+                {
+                    "concepts": [
+                        {
+                            "id": f"已审计概念-{self.generation}-{self.calls}",
+                            "type": "分析框架",
+                            "title": f"已审计概念-{self.generation}-{self.calls}",
+                            "description": "该概念保留了原文证据并可独立引用。",
+                            "evidence": [evidence_id],
+                            "asset_hints": [],
+                        }
+                    ]
+                },
+                ensure_ascii=False,
+            )
+
+    with pytest.raises(LLMError, match="transient HTTP 500"):
+        refine_discovery(
+            RefineLLM(fail_on=2, generation="initial"),
+            Path("prompts/agent_refine.md").read_text(encoding="utf-8"),
+            source_name="恢复报告.md",
+            source_content=content,
+            assets=(),
+            refs=refs,
+            checkpoint_path=checkpoint,
+        )
+
+    assert checkpoint.exists()
+
+    resumed = RefineLLM(generation="resumed")
+    refined = refine_discovery(
+        resumed,
+        Path("prompts/agent_refine.md").read_text(encoding="utf-8"),
+        source_name="恢复报告.md",
+        source_content=content,
+        assets=(),
+        refs=refs,
+        checkpoint_path=checkpoint,
+    )
+
+    expected_chunks = len(
+        agentic._partition_evidence_catalog(
+            agentic.build_evidence_catalog(content), maximum_chars=120
+        )
+    )
+    assert resumed.calls == expected_chunks - 1
+    assert len(refined) == expected_chunks
+
+
+def test_refine_discovery_splits_a_chunk_after_model_server_failure(
+    monkeypatch: pytest.MonkeyPatch,
+):
+    monkeypatch.setattr(agentic, "DISCOVERY_CHUNK_CHARS", 10_000)
+    content = """# 自适应分块报告
+
+## 产业运行判断
+
+产业运行形成独立判断，第一段提供了完整且可引用的事实证据。
+
+产业链协同持续改善，第二段补充了结构优化的具体表现。
+
+## 政策实施建议
+
+建立实施台账并明确责任主体，第三段说明了可执行的政策路径。
+
+同步设置阶段性评估机制，第四段保证政策实施能够被追踪和纠偏。
+"""
+    refs = discover_from_headings("自适应分块报告.md", content, ())
+    decisions: list[dict] = []
+
+    class ThresholdLLM:
+        def __init__(self):
+            self.catalog_sizes: list[int] = []
+
+        def complete(self, prompt: str, **kwargs) -> str:
+            ids = re.findall(r'"evidence_id": "([^"]+)"', prompt)
+            self.catalog_sizes.append(len(ids))
+            if len(ids) > 2:
+                raise LLMError("model server rejected oversized request")
+            return json.dumps(
+                {
+                    "concepts": [
+                        {
+                            "id": f"概念-{len(self.catalog_sizes)}",
+                            "type": "分析框架",
+                            "title": f"概念-{len(self.catalog_sizes)}",
+                            "description": "该分块经过降级后保留了可引用证据。",
+                            "evidence": [ids[0]],
+                            "asset_hints": [],
+                        }
+                    ]
+                },
+                ensure_ascii=False,
+            )
+
+    llm = ThresholdLLM()
+    refined = refine_discovery(
+        llm,
+        Path("prompts/agent_refine.md").read_text(encoding="utf-8"),
+        source_name="自适应分块报告.md",
+        source_content=content,
+        assets=(),
+        refs=refs,
+        on_decision=decisions.append,
+    )
+
+    assert refined
+    assert llm.catalog_sizes[0] > 2
+    assert any(item["stage"] == "discovery_refine_fallback" for item in decisions)
 
 
 def test_agent_discovery_normalizes_model_ids_without_changing_evidence():
@@ -662,6 +889,257 @@ def test_auto_asset_policy_reuses_v13_placement_and_byte_preservation(
     ]
     assert sum("](../images/chart.png)" in item for item in contents) == 1
     assert (output / "images" / "chart.png").read_bytes() == b"chart-bytes"
+
+
+def test_unique_asset_hint_bypasses_llm_placement(tmp_path: Path):
+    """A directly hinted asset must not spend a model call just for routing."""
+    settings = make_project(tmp_path)
+    (settings.data_dir / "sources" / "images" / "chart.png").write_bytes(
+        b"chart-bytes"
+    )
+    (settings.data_dir / "sources" / "hinted.md").write_text(
+        """# 唯一归位报告
+
+## 产业运行特征
+
+产业运行指标形成了完整判断，图表展示了年度变化情况。
+
+![年度变化](images/chart.png)
+
+## 政策行动安排
+
+建立政策行动台账并明确责任部门和实施时间。
+""",
+        encoding="utf-8",
+    )
+
+    class NoPlacementLLM(FakeLLM):
+        def complete(self, prompt: str, **kwargs) -> str:
+            if kwargs.get("json_schema_name") == "asset_placements":
+                raise AssertionError("unique asset hint unexpectedly called LLM")
+            return super().complete(prompt, **kwargs)
+
+    llm = NoPlacementLLM(
+        [
+            source_plan(),
+            draft("唯一资产概念一"),
+            quality(0.90, "pass"),
+            draft("唯一资产概念二"),
+            quality(0.89, "pass"),
+        ]
+    )
+
+    summary = AgentCompiler(settings, llm).run(
+        settings.data_dir / "agent-runs" / "unique-asset-hint"
+    )
+
+    assert summary.status == "complete"
+    assert "asset_placements" not in llm.schemas
+
+
+def test_explicit_cover_page_asset_is_filtered_without_llm(tmp_path: Path):
+    settings = make_project(tmp_path)
+    source = settings.data_dir / "sources" / "cover.md"
+    source.write_text(
+        """# 有封面的报告
+
+![原始 PDF 第 1 页图片](https://assets.example/book/cover.jpg)
+
+## 产业运行特征
+
+产业运行指标形成了可独立引用的分析判断。
+
+## 政策行动安排
+
+建立政策行动台账并明确责任部门和实施时间。
+""",
+        encoding="utf-8",
+    )
+    source.with_suffix(".structure.json").write_text(
+        json.dumps(
+            {
+                "schema_version": "kmpro.document-structure.v1",
+                "status": "complete",
+                "pages": [{"page_number": 1, "role": "cover"}],
+                "blocks": [],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+
+    class NoPlacementLLM(FakeLLM):
+        def complete(self, prompt: str, **kwargs) -> str:
+            if kwargs.get("json_schema_name") == "asset_placements":
+                raise AssertionError("cover page unexpectedly called LLM")
+            return super().complete(prompt, **kwargs)
+
+    llm = NoPlacementLLM(
+        [
+            source_plan(),
+            draft("封面过滤概念一"),
+            quality(0.90, "pass"),
+            draft("封面过滤概念二"),
+            quality(0.89, "pass"),
+        ]
+    )
+    output = settings.data_dir / "agent-runs" / "cover-filter"
+
+    summary = AgentCompiler(settings, llm).run(output)
+
+    assert summary.status == "complete"
+    asset_progress = json.loads(
+        (output / "asset_progress.json").read_text(encoding="utf-8")
+    )
+    assert asset_progress["placement_metrics"]["filtered"] == 1
+    assert asset_progress["filtered_assets"][0]["reason"] == (
+        "nonknowledge_page_role:cover"
+    )
+
+
+def test_unavailable_llm_asset_is_audited_without_losing_completed_run(
+    tmp_path: Path,
+):
+    settings = make_project(tmp_path)
+    (settings.data_dir / "sources" / "ambiguous.md").write_text(
+        """# 模糊资产报告
+
+![未标注图表](https://assets.example/book/chart.jpg)
+
+## 产业运行特征
+
+产业运行指标形成了可独立引用的分析判断。
+
+## 政策行动安排
+
+建立政策行动台账并明确责任部门和实施时间。
+""",
+        encoding="utf-8",
+    )
+
+    class FailingPlacementLLM(FakeLLM):
+        def complete(self, prompt: str, **kwargs) -> str:
+            if kwargs.get("json_schema_name") == "asset_placements":
+                raise LLMError("simulated HTTP 500 after retry")
+            return super().complete(prompt, **kwargs)
+
+    llm = FailingPlacementLLM(
+        [
+            source_plan(),
+            draft("模糊资产概念一"),
+            quality(0.90, "pass"),
+            draft("模糊资产概念二"),
+            quality(0.89, "pass"),
+        ]
+    )
+    output = settings.data_dir / "agent-runs" / "asset-llm-failure"
+
+    summary = AgentCompiler(settings, llm).run(output)
+
+    assert summary.status == "needs_review"
+    assert summary.reviews == 1
+    assert len(list((output / "concepts").glob("*.md"))) == 2
+    asset_progress = json.loads(
+        (output / "asset_progress.json").read_text(encoding="utf-8")
+    )
+    assert asset_progress["placement_metrics"]["llm_failed"] == 1
+
+
+def test_ambiguous_assets_are_batched_with_the_same_small_candidate_set(
+    tmp_path: Path,
+):
+    settings = make_project(tmp_path)
+    images = "\n".join(
+        f"![未标注图表 {index}](https://assets.example/book/{index}.jpg)"
+        for index in range(1, 6)
+    )
+    (settings.data_dir / "sources" / "batched.md").write_text(
+        f"""# 模糊资产批处理报告
+
+{images}
+
+## 产业运行特征
+
+产业运行指标形成了可独立引用的分析判断。
+
+## 政策行动安排
+
+建立政策行动台账并明确责任部门和实施时间。
+""",
+        encoding="utf-8",
+    )
+
+    class BatchingLLM(FakeLLM):
+        def complete(self, prompt: str, **kwargs) -> str:
+            if kwargs.get("json_schema_name") != "asset_placements":
+                return super().complete(prompt, **kwargs)
+            concept_id = re.search(r'"concept_id": "([^"]+)"', prompt).group(1)
+            anchor_ids = re.findall(r'"anchor_id": "([^"]+)"', prompt)
+            asset_ids = list(dict.fromkeys(re.findall(r'"asset_id": "([^"]+)"', prompt)))
+            self.prompts.append(prompt)
+            self.schemas.append("asset_placements")
+            return json.dumps(
+                {
+                    "placements": [
+                        {
+                            "asset_id": asset_id,
+                            "concept_id": concept_id,
+                            "anchor_id": anchor_ids[0],
+                            "position": "after",
+                            "reason": "同一章节中的模糊图表。",
+                        }
+                        for asset_id in asset_ids
+                    ]
+                },
+                ensure_ascii=False,
+            )
+
+    llm = BatchingLLM(
+        [
+            source_plan(),
+            draft("批处理概念一"),
+            quality(0.90, "pass"),
+            draft("批处理概念二"),
+            quality(0.89, "pass"),
+        ]
+    )
+    output = settings.data_dir / "agent-runs" / "asset-batching"
+
+    summary = AgentCompiler(settings, llm).run(output)
+
+    asset_prompts = [
+        prompt
+        for prompt, schema in zip(llm.prompts, llm.schemas)
+        if schema == "asset_placements"
+    ]
+    assert summary.status == "complete"
+    assert len(asset_prompts) == 2
+    assert [
+        len(list(dict.fromkeys(re.findall(r'"asset_id": "([^"]+)"', prompt))))
+        for prompt in asset_prompts
+    ] == [4, 1]
+    progress = json.loads((output / "asset_progress.json").read_text())
+    assert progress["placement_metrics"]["llm"] == 5
+    assert progress["placement_metrics"]["llm_requests"] == 2
+
+
+def test_asset_progress_payload_ignores_routing_only_section_path():
+    asset = agentic.SourceAsset(
+        "image-001",
+        "image",
+        "![图](images/chart.jpg)",
+        "images/chart.jpg",
+        "前文",
+        "后文",
+        1,
+        "checksum",
+        ("总论", "产业运行"),
+    )
+
+    payload = _asset_progress_payload(asset)
+
+    assert "section_path" not in payload
+    assert payload["asset_id"] == "image-001"
 
 
 def test_failed_agent_run_resumes_without_repeating_completed_stages(

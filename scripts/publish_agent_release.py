@@ -35,6 +35,17 @@ TYPE_KIND = {
     "术语解释": "entity",
 }
 
+RELATION_LABELS = {
+    "defines": "定义/口径",
+    "supports": "证据支撑",
+    "constrains": "约束条件",
+    "causes": "因果影响",
+    "recommends": "问题到建议",
+    "compares": "比较对标",
+    "extends": "补充展开",
+    "related": "实质关联",
+}
+
 
 def load(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
@@ -150,9 +161,32 @@ def _published_concept(
             reasons = list(
                 dict.fromkeys(item["reason"] for item in related[target])
             )
+            relation_types = list(
+                dict.fromkeys(
+                    RELATION_LABELS.get(
+                        str(item.get("relation_type") or "related"),
+                        str(item.get("relation_type") or "related"),
+                    )
+                    for item in related[target]
+                )
+            )
+            evidence_refs = list(
+                dict.fromkeys(
+                    ref_id
+                    for item in related[target]
+                    for ref_id in item.get("evidence_ref_ids", [])
+                    if isinstance(ref_id, str) and ref_id
+                )
+            )
+            evidence_suffix = (
+                f"（依据 Ref：{', '.join(f'`{ref_id}`' for ref_id in evidence_refs)}）"
+                if evidence_refs
+                else ""
+            )
             lines.append(
                 f"- [{concept_titles[target]}](../concepts/{target}.md)"
-                f" — {'；'.join(reasons)}"
+                f" — {' / '.join(relation_types)}：{'；'.join(reasons)}"
+                f"{evidence_suffix}"
             )
         body += "\n\n## 关联概念\n\n" + "\n".join(lines)
     source_lines = [

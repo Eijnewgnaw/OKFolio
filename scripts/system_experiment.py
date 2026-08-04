@@ -140,7 +140,7 @@ def _load_or_make_candidates(output: Path, refs: list[RefRecord], resume: bool) 
         edges = [CandidateEdge(**item) for item in payload["edges"]]
         return edges, dict(payload["states"])
     edges, states = candidate_edges([asdict(ref) for ref in refs])
-    _write_json(path, {"edges": [edge.as_dict() for edge in edges], "states": states, "algorithm": "lexical-v2", "top_k": 8, "minimum_score": 0.06})
+    _write_json(path, {"edges": [edge.as_dict() for edge in edges], "states": states, "algorithm": edges[0].candidate_version if edges else "metadata-aware-v3", "top_k": 8, "minimum_score": 0.06})
     return edges, states
 
 

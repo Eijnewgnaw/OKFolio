@@ -13,7 +13,17 @@ def test_graph_renders_full_coverage_metrics_and_projects_related_refs():
             {"id": "c1", "title": "C1", "type": "分析框架", "kind": "topic", "description": "摘要", "body": "正文", "articles": ["article-01"], "ref_ids": ["article-01:r1"]},
             {"id": "c2", "title": "C2", "type": "分析框架", "kind": "topic", "description": "摘要", "body": "正文", "articles": ["article-01"], "ref_ids": ["article-01:r2"]},
         ],
-        [{"decision": "related", "left_ref_id": "article-01:r1", "right_ref_id": "article-01:r2", "reason": "互补关系"}],
+        [
+            {
+                "decision": "related",
+                "left_ref_id": "article-01:r1",
+                "right_ref_id": "article-01:r2",
+                "reason": "互补关系",
+                "relation_type": "supports",
+                "direction": "left_to_right",
+                "evidence_ref_ids": ["article-01:r1"],
+            }
+        ],
     )
 
     assert '"semantic_edges"' in html
@@ -23,6 +33,8 @@ def test_graph_renders_full_coverage_metrics_and_projects_related_refs():
     assert '"relations": 1' in html
     assert '"relation_evidence": 1' in html
     assert '"relation_concepts": 2' in html
+    assert '"relation_types": {"supports": 1}' in html
+    assert '"relation_type": "supports"' in html
     assert "决策参考知识图谱" in html
     assert "三维关系编织网（推荐）" in html
     assert "三维知识球（全部资产）" in html
@@ -39,6 +51,8 @@ def test_graph_renders_full_coverage_metrics_and_projects_related_refs():
     assert "Concept → ConceptRef → Article" in html
     assert "拖动旋转" in html
     assert "ConceptRef 证据" in html
+    assert "关系类型" in html
+    assert "证据支撑" in html
 
 
 def test_explorer_reuses_graph_payload_and_exposes_provenance_views():

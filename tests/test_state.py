@@ -37,6 +37,23 @@ def test_settings_load_paths_and_llm_from_environment():
     assert settings.openai_max_tokens == 32768
 
 
+def test_settings_accepts_legacy_server_aliases_and_chat_template_flag():
+    settings = Settings.from_env(
+        {
+            "DATA_DIR": "/tmp/data",
+            "LLM_API_BASE": "https://compat.example/v1/",
+            "LLM_API_KEY": "key",
+            "LLM_MODEL": "model",
+            "LLM_SEND_CHAT_TEMPLATE_KWARGS": "true",
+        }
+    )
+
+    assert settings.openai_base_url == "https://compat.example/v1"
+    assert settings.openai_api_key == "key"
+    assert settings.openai_model == "model"
+    assert settings.openai_send_chat_template_kwargs is True
+
+
 def fingerprint(source_md5: str = "source") -> CompileFingerprint:
     return CompileFingerprint(
         source_md5=source_md5,

@@ -22,6 +22,9 @@ class FakeClient:
                     {
                         "decision": "related",
                         "reason": "问题与建议存在实质约束关系。",
+                        "relation_type": "constrains",
+                        "direction": "left_to_right",
+                        "evidence_ref_ids": ["r2", "r3"],
                     }
                     for _ in range(size)
                 ]
@@ -109,3 +112,7 @@ def test_judge_relations_excludes_edges_inside_one_final_concept(
     assert result["cross_concept_edges"] == 1
     assert result["related"] == 1
     assert result["status"] == "complete"
+    judgement = result["judgements"][0]
+    assert judgement["relation_type"] == "constrains"
+    assert judgement["direction"] == "left_to_right"
+    assert judgement["evidence_ref_ids"] == ["r2", "r3"]

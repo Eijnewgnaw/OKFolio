@@ -13,6 +13,25 @@ from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
 
 DEFAULT_BATCH_SIZE = 15
 
+# ``related`` is intentionally retained as a conservative fallback.  The
+# other labels describe the relationship rather than merely its existence, so
+# the resulting graph can be filtered without asking a model again.
+RELATION_TYPES = (
+    "defines",
+    "supports",
+    "constrains",
+    "causes",
+    "recommends",
+    "compares",
+    "extends",
+    "related",
+)
+RELATION_DIRECTIONS = (
+    "left_to_right",
+    "right_to_left",
+    "bidirectional",
+)
+
 
 class CompletionClient(Protocol):
     def complete(
@@ -46,8 +65,28 @@ def _schema(size: int) -> dict[str, Any]:
                 "enum": ["related", "separate"],
             },
             "reason": {"type": "string", "minLength": 1},
+            "relation_type": {
+                "type": "string",
+                "enum": ["none", *RELATION_TYPES],
+            },
+            "direction": {
+                "type": "string",
+                "enum": ["none", *RELATION_DIRECTIONS],
+            },
+            "evidence_ref_ids": {
+                "type": "array",
+                "minItems": 0,
+                "maxItems": 2,
+                "items": {"type": "string"},
+            },
         },
-        "required": ["decision", "reason"],
+        "required": [
+            "decision",
+            "reason",
+            "relation_type",
+            "direction",
+            "evidence_ref_ids",
+        ],
         "additionalProperties": False,
     }
     return {
@@ -87,12 +126,17 @@ def _prompt(
                 "evidence": [
                     text[:600] for text in ref.get("evidence", [])[:2]
                 ],
+                "scope": ref.get("scope", {}),
+                "section_path": ref.get("section_path", []),
+                "page_start": ref.get("page_start"),
+                "page_end": ref.get("page_end"),
             }
         pairs.append(
             {
                 "position": position,
                 "left_ref_id": left_id,
                 "right_ref_id": right_id,
+                "allowed_evidence_ref_ids": [left_id, right_id],
                 "signals": edge.get("signals", {}),
             }
         )
@@ -107,6 +151,13 @@ def _prompt(
         "- separate：仅共享城市、行业泛词或背景词，不能增加实质理解。\n"
         "不要因为候选召回分数高就判 related。不要改写、合并 Concept。"
         "只依据 RefCard 和逐字证据。\n\n"
+        "对 related，必须给出：relation_type（defines=定义/口径，supports="
+        "证据支撑，constrains=约束条件，causes=因果，recommends=问题到建议，"
+        "compares=比较，extends=补充展开，related=无法再细分的实质关联）、"
+        "direction（left_to_right、right_to_left 或 bidirectional），以及从"
+        "allowed_evidence_ref_ids 选择 1–2 个真正支持关系的 Ref ID。\n"
+        "对 separate，relation_type 和 direction 必须为 none，"
+        "evidence_ref_ids 必须为空数组。\n\n"
         "输出严格 JSON。judgements 必须与候选数组等长，第 N 项只对应 "
         "position=N；每项只能包含 decision 和 reason，不得复制 ID。\n\n"
         "候选数组：\n"
@@ -128,13 +179,45 @@ def _parse_response(
         raise ValueError("relation response count does not match candidate count")
     parsed: list[dict[str, Any]] = []
     for edge, item in zip(edges, records, strict=True):
-        if not isinstance(item, dict) or set(item) != {"decision", "reason"}:
+        required = {
+            "decision",
+            "reason",
+            "relation_type",
+            "direction",
+            "evidence_ref_ids",
+        }
+        if not isinstance(item, dict) or set(item) != required:
             raise ValueError("relation judgement fields are invalid")
         if item["decision"] not in {"related", "separate"}:
             raise ValueError("relation judgement decision is invalid")
         reason = item["reason"]
         if not isinstance(reason, str) or not reason.strip():
             raise ValueError("relation judgement reason is empty")
+        relation_type = item["relation_type"]
+        direction = item["direction"]
+        evidence_ref_ids = item["evidence_ref_ids"]
+        if not isinstance(evidence_ref_ids, list) or len(evidence_ref_ids) > 2:
+            raise ValueError("relation evidence refs are invalid")
+        allowed_ids = {edge["left_ref_id"], edge["right_ref_id"]}
+        if (
+            any(not isinstance(ref_id, str) for ref_id in evidence_ref_ids)
+            or not set(evidence_ref_ids).issubset(allowed_ids)
+            or len(set(evidence_ref_ids)) != len(evidence_ref_ids)
+        ):
+            raise ValueError("relation evidence refs must come from the edge")
+        if item["decision"] == "related":
+            if relation_type not in RELATION_TYPES:
+                raise ValueError("related judgement needs a relation type")
+            if direction not in RELATION_DIRECTIONS:
+                raise ValueError("related judgement needs a direction")
+            if not evidence_ref_ids:
+                raise ValueError("related judgement needs evidence refs")
+        elif (
+            relation_type != "none"
+            or direction != "none"
+            or evidence_ref_ids
+        ):
+            raise ValueError("separate judgement cannot carry a relation")
         parsed.append(
             {
                 "edge_id": edge["edge_id"],
@@ -142,6 +225,9 @@ def _parse_response(
                 "right_ref_id": edge["right_ref_id"],
                 "decision": item["decision"],
                 "reason": reason.strip(),
+                "relation_type": relation_type,
+                "direction": direction,
+                "evidence_ref_ids": evidence_ref_ids,
                 "signals": edge.get("signals", {}),
             }
         )
