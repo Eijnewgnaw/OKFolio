@@ -25,37 +25,38 @@ never enters the repository. Source-run and structures were copied from
 `normalized-sources` and `agent-runs` on the original machine; the original
 files are read-only assets and were not modified.
 
-## Sanitization record
+## Sensitivity decision record
 
-- The private MinIO asset-server host in `asset_uri` / image-reference fields
-  was replaced repo-wide: `192.168.8.209:9000` → `minio.internal:9000`
-  (2,738 replacements across 26 files in source-run/, structures/, runs/
-  v3–v6 and probes/ v13). The `kmpro-wiki-assets` bucket name, dataset name
-  and all asset object keys are unchanged, so references still resolve to the
-  same objects when an asset server is re-exposed under `minio.internal`.
-- `source_snapshot.json` sha256/size entries in all six runs (v3/v4/v5/v6 and
-  probes v13/v14) were recomputed against the sanitized source files and
-  verified (`_verify_snapshot` on restore passes).
-- Some seed checkpoints embed a `checkpoint_sha256` captured at creation time
-  against the pre-sanitization bytes; those embedded hashes no longer match
-  the sanitized files. This is expected and does not affect resume: the run
-  verifier validates `source_snapshot.json` (updated), not per-checkpoint
-  hashes.
-- Audit before commit: zero occurrences of API keys (`06225a0a`,
-  `Authorization`, `Bearer`, real `OPENAI_API_KEY=` values), zero private
-  network addresses, in every committed file.
+- The only private-infrastructure metadata in this tree is the MinIO asset
+  endpoint `192.168.8.209:9000` (bucket `kmpro-wiki-assets`), which appears
+  in `asset_uri` / image-reference fields. A full-tree scan found no other
+  private addresses (no 10.x, no 172.16–31.x, no other 192.168.x) and no
+  credential material of any kind.
+- Decision (2026-08-11): the underlying corpus is publicly available PDFs and
+  the structure/run files are MinerU parse output and review artifacts over
+  that public content. The endpoint is internal infrastructure metadata, not
+  classified content, so it is kept **byte-for-byte as produced** to guarantee
+  that a 3090 restore reproduces the experiment exactly (snapshot hashes in
+  each run's `source_snapshot.json` remain valid and `_verify_snapshot`
+  passes without recomputation).
+- Credential audit before commit: zero occurrences of API key material in
+  every committed file. The v7 launcher reads credentials exclusively from
+  environment variables.
 
 ## Restoring on a 3090 machine
 
 1. Clone the repository and install the Python dependencies
    (`requirements.lock` / `requirements-rag.lock`).
-2. Point `scripts/review_concept_claims.py` at this data:
-   `--source-run experiment-data/source-run`,
-   `--seed-run experiment-data/runs/<v6-run>` (for v7),
-   `--draft-override-dir experiment-data/overrides`.
-3. Export the API environment (`OPENAI_BASE_URL` = local vLLM endpoint,
-   `OPENAI_MODEL`, `OPENAI_API_KEY`, `NO_PROXY`) — see
-   `experiment-data/runs/v7-launcher/run_v7.sh` for the full v7 command.
-4. The `minio.internal:9000` asset references are dead on a fresh machine
-   unless an asset server is re-exposed; they are image references inside
-   text content and do not affect compilation or claim review.
+2. Serve the model locally with vLLM and export the API environment
+   (`OPENAI_BASE_URL` = the local vLLM endpoint, `OPENAI_MODEL`,
+   `OPENAI_API_KEY`, `NO_PROXY`).
+3. Continue or rerun review against this data:
+   - Resume a frozen run: `python3 scripts/review_concept_claims.py
+     --source-run experiment-data/source-run --output-dir
+     experiment-data/runs/<frozen-run> --resume …`
+   - Launch the v7 repair run: `experiment-data/runs/v7-launcher/run_v7.sh`
+     (resolves paths relative to the repo root and inherits the API
+     environment).
+4. The `192.168.8.209:9000` asset references are image pointers inside text
+   content; they are not needed for compilation or claim review and will not
+   resolve from a new machine unless an asset server is re-exposed.
