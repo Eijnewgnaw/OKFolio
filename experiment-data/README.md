@@ -21,9 +21,11 @@ single RTX 3090 machine.
 Copied on 2026-08-11 from the workstation snapshot
 `OKFolio-Concept-Compiler-Experiment-20260810/.local-runtime/` (symlinks
 dereferenced, `cp -RL`). The `.local-runtime/` tree itself is git-ignored and
-never enters the repository. Source-run and structures were copied from
-`normalized-sources` and `agent-runs` on the original machine; the original
-files are read-only assets and were not modified.
+never enters the repository; it symlinks to the master data directory
+`~/kmpro-wiki-v15-data/` (moved there from the original Codex workspace on
+2026-08-11). Source-run and structures were copied from `normalized-sources`
+and `agent-runs` in that master directory; the original files are read-only
+assets and were not modified.
 
 ## Sensitivity decision record
 

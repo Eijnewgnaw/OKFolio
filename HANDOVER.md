@@ -6,10 +6,10 @@
 
 本机（当前工作站）的权威数据在 `.local-runtime/`，**它不进 git**（.gitignore 已忽略）：
 
-- `.local-runtime/agent-runs/` — 全部 agent 运行目录；其中 v2-source、v3、v12、v1、v2 是指向原始只读工作区
-  `~/Documents/Codex/2026-07-15/zh/kmpro-wiki-v15-system-experiment-20260729/agent-runs/` 的符号链接；
-  v4/v5/v6/v13/v14 是实体目录。
-- `.local-runtime/normalized-sources/` — 指向同一原始工作区的 `normalized-sources/`（符号链接），内含 10 个
+- `.local-runtime/agent-runs/` — 全部 agent 运行目录；符号链接指向 master 数据目录
+  `~/kmpro-wiki-v15-data/agent-runs/`（2026-08-11 由原 Codex 工作区迁出；
+  v4/v5/v6/v13/v14 实体目录亦已迁入 master 的 agent-runs）。
+- `.local-runtime/normalized-sources/` — 指向同一 master 数据目录的 `normalized-sources/`（符号链接），内含 10 个
   `*.structure.json`。
 
 **GitHub 是副本**：克隆后如需继续实验，一律以 GitHub 上 `experiment-data/` 为数据源，或以本机
