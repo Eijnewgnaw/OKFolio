@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.update_runs import audit_update_run, seed_update_run
+from okfolio.agentwiki.update_runs import audit_update_run, seed_update_run
 
 
 POLICY = {

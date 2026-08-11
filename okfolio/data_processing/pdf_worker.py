@@ -249,7 +249,7 @@ def parse_pdf_with_vlm(
         has_page_results=completed_pages > 0,
     )
     state: dict[str, object] = {
-        "schema_version": "kmpro.pdf-worker.v1",
+        "schema_version": "okfolio.pdf-worker.v1",
         "status": "running",
         "source_file": pdf.name,
         "source_sha256": source_sha256,
@@ -302,7 +302,7 @@ def parse_pdf_with_vlm(
             if result is None:
                 raise RuntimeError(error_text or "page parser returned no result")
             record: dict[str, object] = {
-                "schema_version": "kmpro.page-result.v1",
+                "schema_version": "okfolio.page-result.v1",
                 "page_idx": page_idx,
                 "status": "complete",
                 "attempts": attempt,
@@ -383,7 +383,7 @@ def parse_pdf_with_vlm(
     _write_json(
         root / "document-metadata.json",
         {
-            "schema_version": "kmpro.parser-metadata.v1",
+            "schema_version": "okfolio.parser-metadata.v1",
             "parser": getattr(
                 parser,
                 "parser_name",

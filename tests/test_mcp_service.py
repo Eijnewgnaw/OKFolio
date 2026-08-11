@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.mcp.service import MCPConfig, WikiMCPService
+from okfolio.mcp.service import MCPConfig, WikiMCPService
 
 
 def make_config(

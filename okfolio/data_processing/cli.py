@@ -44,7 +44,7 @@ def _write_json(path: Path, value: object) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Convert one PDF into KMPro Article/Segment IR"
+        description="Convert one PDF into OKFolio Article/Segment IR"
     )
     parser.add_argument("--pdf", type=Path, required=True)
     parser.add_argument("--mineru-output", type=Path, required=True)

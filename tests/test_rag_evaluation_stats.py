@@ -1,6 +1,6 @@
 import pytest
 
-from kmpro_wiki.evaluation.stats import paired_bootstrap_delta
+from okfolio.evaluation.stats import paired_bootstrap_delta
 
 
 def test_paired_bootstrap_is_reproducible_and_preserves_pairing():

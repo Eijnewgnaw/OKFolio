@@ -6,7 +6,7 @@ import argparse
 import json
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.update_runs import seed_update_run
+from okfolio.agentwiki.update_runs import seed_update_run
 
 
 def main() -> int:

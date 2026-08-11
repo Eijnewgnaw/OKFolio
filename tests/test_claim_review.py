@@ -5,7 +5,7 @@ from dataclasses import replace
 
 import pytest
 
-from kmpro_wiki.agentwiki.claim_review import (
+from okfolio.agentwiki.claim_review import (
     ClaimCoverageBatch,
     ClaimCoverageRow,
     DraftSentenceAttribution,
@@ -22,7 +22,7 @@ from kmpro_wiki.agentwiki.claim_review import (
     parse_claim_coverage,
     parse_claim_coverage_batch,
 )
-from kmpro_wiki.agentwiki.contracts import ContractError
+from okfolio.agentwiki.contracts import ContractError
 
 
 KNOWN_ANOMALY = "异常占位短语甲"

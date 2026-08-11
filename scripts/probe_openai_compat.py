@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from kmpro_wiki.agentwiki.llm import LLMError, OpenAICompatibleClient
+from okfolio.agentwiki.llm import LLMError, OpenAICompatibleClient
 
 
 def main() -> int:

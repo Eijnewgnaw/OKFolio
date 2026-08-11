@@ -12,13 +12,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from kmpro_wiki.agentwiki.claim_review_run import (
+from okfolio.agentwiki.claim_review_run import (
     ClaimReviewRunError,
     ClaimReviewStageClients,
     ClaimReviewTemplates,
     run_claim_review,
 )
-from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
+from okfolio.agentwiki.llm import OpenAICompatibleClient
 
 
 def _stage_clients(arguments: argparse.Namespace, make_client) -> object:

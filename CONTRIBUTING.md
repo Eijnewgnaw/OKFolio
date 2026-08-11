@@ -1,7 +1,7 @@
 # Contributing
 
 1. Create an isolated branch.
-2. Keep business logic under `kmpro_wiki/`; scripts should remain thin CLI
+2. Keep business logic under `okfolio/`; scripts should remain thin CLI
    adapters.
 3. Add or update tests for every behavior change.
 4. Run `PYTHONPATH=. python3 -m pytest -q`.

@@ -13,28 +13,28 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.data_processing.activation import (
+from okfolio.data_processing.activation import (
     activate_article,
     deactivate_article,
 )
-from kmpro_wiki.data_processing.mineru_official import (
+from okfolio.data_processing.mineru_official import (
     OfficialMinerUPageParser,
 )
-from kmpro_wiki.data_processing.pdf_worker import (
+from okfolio.data_processing.pdf_worker import (
     parse_pdf_with_vlm,
 )
-from kmpro_wiki.data_processing.page_role import (
+from okfolio.data_processing.page_role import (
     OpenAICompatiblePageRoleClassifier,
 )
-from kmpro_wiki.data_processing.pipeline import (
+from okfolio.data_processing.pipeline import (
     process_mineru_output,
 )
-from kmpro_wiki.data_processing.s3 import (
+from okfolio.data_processing.s3 import (
     S3CompatibleAssetWriter,
 )
-from kmpro_wiki.data_processing.storage import LocalAssetWriter
-from kmpro_wiki.data_processing.vlm import OpenAICompatiblePageParser
-from kmpro_wiki.agentwiki.config import (
+from okfolio.data_processing.storage import LocalAssetWriter
+from okfolio.data_processing.vlm import OpenAICompatiblePageParser
+from okfolio.agentwiki.config import (
     openai_model,
     provider_api_key,
     provider_base_url,
@@ -290,7 +290,7 @@ def _corpus_state(
     else:
         activation_status = "pending"
     payload: dict[str, Any] = {
-        "schema_version": "kmpro.pdf-corpus-run.v1",
+        "schema_version": "okfolio.pdf-corpus-run.v1",
         "run_id": run_id,
         "status": status,
         "activation_status": activation_status,

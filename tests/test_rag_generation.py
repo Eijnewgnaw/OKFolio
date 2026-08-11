@@ -5,7 +5,7 @@ import json
 import httpx
 import pytest
 
-from kmpro_wiki.evaluation.generation import (
+from okfolio.evaluation.generation import (
     AtomicClaimCandidate,
     AnswerContext,
     AnswerGenerationInput,

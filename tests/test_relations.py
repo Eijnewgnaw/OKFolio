@@ -1,8 +1,8 @@
 import pytest
 
-from kmpro_wiki.agentwiki.contracts import LinkSuggestion, RelationAudit
-from kmpro_wiki.agentwiki.okf import ConceptDocument, validate_link_only_enrichment
-from kmpro_wiki.agentwiki.relations import (
+from okfolio.agentwiki.contracts import LinkSuggestion, RelationAudit
+from okfolio.agentwiki.okf import ConceptDocument, validate_link_only_enrichment
+from okfolio.agentwiki.relations import (
     RelationError,
     apply_relation_audit,
     build_relation_anchor_catalog,

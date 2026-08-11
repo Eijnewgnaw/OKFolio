@@ -8,9 +8,9 @@ from pathlib import Path
 
 import pytest
 
-import kmpro_wiki.agentwiki.agentic as agentic
-from kmpro_wiki.agentwiki.agent_contracts import AgentPolicy
-from kmpro_wiki.agentwiki.agentic import (
+import okfolio.agentwiki.agentic as agentic
+from okfolio.agentwiki.agent_contracts import AgentPolicy
+from okfolio.agentwiki.agentic import (
     AgentCompiler,
     AgentRefRecord,
     AgentRunError,
@@ -25,9 +25,9 @@ from kmpro_wiki.agentwiki.agentic import (
     _load_article_metadata,
     _asset_progress_payload,
 )
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.global_cluster import CandidateEdge
-from kmpro_wiki.agentwiki.llm import LLMError, LLMOutputTruncated
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.global_cluster import CandidateEdge
+from okfolio.agentwiki.llm import LLMError, LLMOutputTruncated
 
 
 class FakeLLM:

@@ -3,8 +3,8 @@ import json
 from dataclasses import replace
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.state import (
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.state import (
     CompileFingerprint,
     Manifest,
     SourceState,

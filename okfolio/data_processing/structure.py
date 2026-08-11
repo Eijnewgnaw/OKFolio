@@ -236,7 +236,7 @@ class StructureNormalization:
                 }
             )
         return {
-            "schema_version": "kmpro.document-structure.v1",
+            "schema_version": "okfolio.document-structure.v1",
             "status": self.status,
             "quality_issues": list(self.quality_issues),
             "document_id": self.document.document_id,

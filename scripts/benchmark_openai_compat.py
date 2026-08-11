@@ -12,7 +12,7 @@ import httpx
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from kmpro_wiki.evaluation.llm_benchmark import run_stream_benchmark
+from okfolio.evaluation.llm_benchmark import run_stream_benchmark
 
 
 def main() -> int:

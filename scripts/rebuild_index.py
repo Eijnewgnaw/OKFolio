@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.indexer import build_index, write_if_changed
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.indexer import build_index, write_if_changed
 
 
 def main() -> int:

@@ -14,7 +14,7 @@ from typing import Iterable
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 VERSION = (PROJECT_ROOT / "VERSION").read_text(encoding="utf-8").strip()
-DIRECTORIES = ("kmpro_wiki", "scripts", "prompts", "tests")
+DIRECTORIES = ("okfolio", "scripts", "prompts", "tests")
 ROOT_FILES = (
     ".dockerignore",
     ".env.example",
@@ -100,7 +100,7 @@ def _module_manifest() -> dict[str, object]:
         "contains_data": False,
         "modules": {
             "data_processing": {
-                "path": "kmpro_wiki/data_processing",
+                "path": "okfolio/data_processing",
                 "entrypoints": [
                     "scripts/process_pdf.py",
                     "scripts/process_pdf_corpus.py",
@@ -115,14 +115,14 @@ def _module_manifest() -> dict[str, object]:
                 ],
             },
             "agentwiki": {
-                "path": "kmpro_wiki/agentwiki",
-                "implementation": "kmpro_wiki/agentwiki",
+                "path": "okfolio/agentwiki",
+                "implementation": "okfolio/agentwiki",
                 "entrypoint": "scripts/agent_compile.py",
             },
             "mcp": {
-                "path": "kmpro_wiki/mcp",
-                "implementation": "kmpro_wiki/mcp",
-                "entrypoint": "python -m kmpro_wiki.mcp.server",
+                "path": "okfolio/mcp",
+                "implementation": "okfolio/mcp",
+                "entrypoint": "python -m okfolio.mcp.server",
             },
         },
     }
@@ -142,21 +142,21 @@ def _source_tokens(source_dirs: Iterable[Path]) -> set[str]:
 
 def audit(root: Path, *, source_tokens: set[str]) -> dict[str, object]:
     required = {
-        "kmpro_wiki/data_processing/pipeline.py",
-        "kmpro_wiki/data_processing/pdf_worker.py",
-        "kmpro_wiki/data_processing/activation.py",
-        "kmpro_wiki/data_processing/mineru_official.py",
-        "kmpro_wiki/data_processing/page_role.py",
-        "kmpro_wiki/data_processing/s3.py",
-        "kmpro_wiki/data_processing/structure.py",
-        "kmpro_wiki/data_processing/vlm.py",
-        "kmpro_wiki/__init__.py",
-        "kmpro_wiki/agentwiki/__init__.py",
-        "kmpro_wiki/mcp/__init__.py",
-        "kmpro_wiki/mcp/server.py",
-        "kmpro_wiki/mcp/job_runner.py",
-        "kmpro_wiki/agentwiki/agentic.py",
-        "kmpro_wiki/mcp/service.py",
+        "okfolio/data_processing/pipeline.py",
+        "okfolio/data_processing/pdf_worker.py",
+        "okfolio/data_processing/activation.py",
+        "okfolio/data_processing/mineru_official.py",
+        "okfolio/data_processing/page_role.py",
+        "okfolio/data_processing/s3.py",
+        "okfolio/data_processing/structure.py",
+        "okfolio/data_processing/vlm.py",
+        "okfolio/__init__.py",
+        "okfolio/agentwiki/__init__.py",
+        "okfolio/mcp/__init__.py",
+        "okfolio/mcp/server.py",
+        "okfolio/mcp/job_runner.py",
+        "okfolio/agentwiki/agentic.py",
+        "okfolio/mcp/service.py",
         "scripts/normalize_pdf_corpus.py",
         "scripts/resolve_page_roles.py",
     }
@@ -234,7 +234,7 @@ def build(
         raise FileExistsError(f"output already exists: {output}")
     output.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(
-        prefix="kmpro-source-",
+        prefix="okfolio-source-",
         dir=output.parent,
     ) as temporary:
         staging = Path(temporary) / output.name

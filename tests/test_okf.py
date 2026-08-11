@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.agentwiki.okf import (
+from okfolio.agentwiki.okf import (
     ConceptDocument,
     OKFValidationError,
     parse_compile_response,

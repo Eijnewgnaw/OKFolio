@@ -2,14 +2,14 @@ import json
 
 import pytest
 
-from kmpro_wiki.agentwiki.agent_contracts import (
+from okfolio.agentwiki.agent_contracts import (
     AgentPolicy,
     parse_group_plan,
     parse_quality_audit,
     parse_source_plan,
     recover_group_plan,
 )
-from kmpro_wiki.agentwiki.contracts import ContractError
+from okfolio.agentwiki.contracts import ContractError
 
 
 def test_agent_policy_bounds_public_control_knobs():

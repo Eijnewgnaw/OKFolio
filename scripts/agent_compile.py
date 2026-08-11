@@ -8,10 +8,10 @@ from threading import Lock
 from datetime import datetime, timezone
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.agent_contracts import AgentPolicy
-from kmpro_wiki.agentwiki.agentic import AgentCompiler
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
+from okfolio.agentwiki.agent_contracts import AgentPolicy
+from okfolio.agentwiki.agentic import AgentCompiler
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.llm import OpenAICompatibleClient
 
 
 def main() -> int:

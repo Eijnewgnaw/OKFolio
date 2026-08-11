@@ -7,7 +7,7 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 from unittest.mock import patch
 
-from kmpro_wiki.agentwiki.agentic import (
+from okfolio.agentwiki.agentic import (
     AgentRunError,
     AgentRefRecord,
     _attach_agent_ref_provenance,
@@ -15,8 +15,8 @@ from kmpro_wiki.agentwiki.agentic import (
     _load_source_structure,
     discover_agent_concepts,
 )
-from kmpro_wiki.agentwiki.assets import SourceAsset, inventory_assets
-from kmpro_wiki.agentwiki.contracts import ConceptRef, DraftConcept
+from okfolio.agentwiki.assets import SourceAsset, inventory_assets
+from okfolio.agentwiki.contracts import ConceptRef, DraftConcept
 
 
 class ChunkAwareLLM:
@@ -187,7 +187,7 @@ class AgenticChunkingTests(unittest.TestCase):
         decisions: list[dict] = []
 
         with patch(
-            "kmpro_wiki.agentwiki.agentic.DISCOVERY_CHUNK_CHARS",
+            "okfolio.agentwiki.agentic.DISCOVERY_CHUNK_CHARS",
             150,
         ):
             refs = discover_agent_concepts(

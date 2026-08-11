@@ -7,8 +7,8 @@ import json
 from pathlib import Path
 from typing import Any, Protocol
 
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.llm import OpenAICompatibleClient
 
 
 DEFAULT_BATCH_SIZE = 15

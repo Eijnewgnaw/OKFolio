@@ -1,4 +1,4 @@
-from kmpro_wiki.evaluation.contracts import (
+from okfolio.evaluation.contracts import (
     AnswerPrediction,
     Citation,
     EvidenceAtomId,
@@ -7,7 +7,7 @@ from kmpro_wiki.evaluation.contracts import (
     GoldQuestion,
     RetrievedUnit,
 )
-from kmpro_wiki.evaluation.scoring import (
+from okfolio.evaluation.scoring import (
     aggregate_refusal,
     joint_success,
     score_answer,

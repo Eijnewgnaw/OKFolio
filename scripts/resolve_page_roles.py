@@ -9,17 +9,17 @@ import uuid
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.data_processing.page_role import (
+from okfolio.data_processing.page_role import (
     OpenAICompatiblePageRoleClassifier,
 )
-from kmpro_wiki.data_processing.vlm import (
+from okfolio.data_processing.vlm import (
     OpenAICompatiblePageParser,
 )
-from kmpro_wiki.data_processing.structure import (
+from okfolio.data_processing.structure import (
     document_from_dict,
     normalize_document_structure,
 )
-from kmpro_wiki.agentwiki.config import (
+from okfolio.agentwiki.config import (
     openai_model,
     provider_api_key,
     provider_base_url,
@@ -132,7 +132,7 @@ def main() -> int:
                 }
             )
     report = {
-        "schema_version": "kmpro.page-role-resolution.v1",
+        "schema_version": "okfolio.page-role-resolution.v1",
         "decisions": decisions,
         "unresolved": [
             item

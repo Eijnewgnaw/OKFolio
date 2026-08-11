@@ -35,7 +35,7 @@ def seed_update_run(baseline_run: Path, output_run: Path) -> dict[str, Any]:
     seeded = {
         "version": 1,
         "status": "failed",
-        "schema": "kmpro.agent-run.v2",
+        "schema": "okfolio.agent-run.v2",
         "model": manifest["model"],
         "policy": manifest["policy"],
         "update_baseline": str(baseline_run),
@@ -45,7 +45,7 @@ def seed_update_run(baseline_run: Path, output_run: Path) -> dict[str, Any]:
     source_progress = _load(output_run / "source_progress.json")
     sources = _sources(source_progress)
     result = {
-        "schema": "kmpro.agent-update-seed.v1",
+        "schema": "okfolio.agent-update-seed.v1",
         "baseline_run": str(baseline_run),
         "seeded_run": str(output_run),
         "cached_articles": len(sources),
@@ -124,7 +124,7 @@ def audit_update_run(baseline_run: Path, update_run: Path) -> dict[str, Any]:
         for _ in range(count)
     )
     result = {
-        "schema": "kmpro.agent-update-audit.v1",
+        "schema": "okfolio.agent-update-audit.v1",
         "baseline_run": str(baseline_run),
         "update_run": str(update_run),
         "baseline_retained": baseline_run != update_run and baseline_run.is_dir(),

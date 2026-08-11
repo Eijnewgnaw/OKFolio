@@ -58,7 +58,7 @@ return_sparse=False
 return_colbert_vecs=False
 ```
 
-词法路由固定使用中文 BM25，再通过 RRF 与 BGE-M3 dense 合并。这个选择让三臂只比较 T0/T1/C1 的知识单元，不额外引入 BGE sparse 或 ColBERT 的实验变量。实现位于 [`local_bge_backend.py`](../../kmpro_wiki/evaluation/local_bge_backend.py)。
+词法路由固定使用中文 BM25，再通过 RRF 与 BGE-M3 dense 合并。这个选择让三臂只比较 T0/T1/C1 的知识单元，不额外引入 BGE sparse 或 ColBERT 的实验变量。实现位于 [`local_bge_backend.py`](../../okfolio/evaluation/local_bge_backend.py)。
 
 ### BGE Reranker v2 M3：对候选重排
 

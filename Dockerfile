@@ -29,7 +29,7 @@ ENV SOURCES_DIR=/app/runtime/data/normalized-sources
 COPY requirements.lock /app/requirements.lock
 RUN pip install --no-cache-dir -r /app/requirements.lock
 
-COPY kmpro_wiki/ /app/kmpro_wiki/
+COPY okfolio/ /app/okfolio/
 COPY scripts/ /app/scripts/
 COPY prompts/ /app/prompts/
 COPY mkdocs.yml /app/mkdocs.yml
@@ -74,5 +74,5 @@ EXPOSE 3099
 HEALTHCHECK --interval=30s --timeout=5s --start-period=5s --retries=3 \
   CMD python3 -c "import socket; socket.create_connection(('127.0.0.1', 3099), 3).close()"
 
-ENTRYPOINT ["python3", "-m", "kmpro_wiki.mcp.server"]
+ENTRYPOINT ["python3", "-m", "okfolio.mcp.server"]
 CMD ["--transport", "streamable-http", "--host", "0.0.0.0", "--port", "3099"]

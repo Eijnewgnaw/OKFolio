@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.evaluation.corpus import (
+from okfolio.evaluation.corpus import (
     build_c1_audited_concepts,
     build_t0_fixed_chunks,
     build_t1_parent_child,

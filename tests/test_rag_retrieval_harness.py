@@ -2,9 +2,9 @@ from dataclasses import replace
 
 import pytest
 
-from kmpro_wiki.evaluation.contracts import EvidenceAtomId, RetrievedUnit
-from kmpro_wiki.evaluation.corpus import CorpusBuild, EvidenceAtom
-from kmpro_wiki.evaluation.retrieval import (
+from okfolio.evaluation.contracts import EvidenceAtomId, RetrievedUnit
+from okfolio.evaluation.corpus import CorpusBuild, EvidenceAtom
+from okfolio.evaluation.retrieval import (
     BackendConfig,
     HybridRetrievalHarness,
     RetrievalConfig,
@@ -12,7 +12,7 @@ from kmpro_wiki.evaluation.retrieval import (
     ThreeArmRetrievalHarness,
     reciprocal_rank_fusion,
 )
-from kmpro_wiki.evaluation.retrieval_adapters import (
+from okfolio.evaluation.retrieval_adapters import (
     BgeM3EmbeddingAdapter,
     BgeRerankerAdapter,
     BM25Retriever,

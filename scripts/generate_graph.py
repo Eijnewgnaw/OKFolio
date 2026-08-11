@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.graph import build_graph
-from kmpro_wiki.agentwiki.indexer import write_if_changed
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.graph import build_graph
+from okfolio.agentwiki.indexer import write_if_changed
 
 
 def main() -> int:

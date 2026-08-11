@@ -89,7 +89,7 @@ def merge(primary: Path, secondary: Path) -> dict[str, Any]:
     _write_json(shard_dir / "b.json", manifests[1])
     totals = _sum_totals([item["totals"] for item in manifests])
     result = {
-        "schema_version": "kmpro.pdf-corpus-combined.v1",
+        "schema_version": "okfolio.pdf-corpus-combined.v1",
         "status": "complete",
         "finished_at": datetime.now(timezone.utc).isoformat(),
         "shards": 2,

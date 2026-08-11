@@ -3,8 +3,8 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.evaluation.contracts import EvidenceAtomId
-from kmpro_wiki.evaluation.gold import (
+from okfolio.evaluation.contracts import EvidenceAtomId
+from okfolio.evaluation.gold import (
     GoldDataError,
     gold_question_schema,
     load_gold_jsonl,

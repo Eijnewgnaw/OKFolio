@@ -1,6 +1,6 @@
 import pytest
 
-from kmpro_wiki.agentwiki.global_cluster import (
+from okfolio.agentwiki.global_cluster import (
     build_clusters,
     candidate_edges,
     validate_judgements,

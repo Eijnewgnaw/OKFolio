@@ -235,7 +235,7 @@ class AgentCompiler:
             {
                 "version": 1,
                 "status": "running",
-                "schema": "kmpro.agent-run.v2",
+                "schema": "okfolio.agent-run.v2",
                 "model": self.settings.openai_model,
                 "resumed": resume,
                 "policy": asdict(self.policy),
@@ -354,7 +354,7 @@ class AgentCompiler:
                 {
                     "version": 1,
                     "status": status,
-                    "schema": "kmpro.agent-run.v2",
+                    "schema": "okfolio.agent-run.v2",
                     "model": self.settings.openai_model,
                     "policy": asdict(self.policy),
                     **{
@@ -378,7 +378,7 @@ class AgentCompiler:
                 {
                     "version": 1,
                     "status": "failed",
-                    "schema": "kmpro.agent-run.v2",
+                    "schema": "okfolio.agent-run.v2",
                     "model": self.settings.openai_model,
                     "policy": asdict(self.policy),
                     "error": f"{type(error).__name__}: {error}",
@@ -2761,7 +2761,12 @@ def _load_source_structure(path: Path) -> Mapping[str, Any] | None:
         raise AgentRunError(
             f"source structure sidecar must be an object: {structure_path.name}"
         )
-    if value.get("schema_version") != "kmpro.document-structure.v1":
+    # Accept both the current schema id and the legacy "kmpro" id so
+    # previously persisted structure files keep loading unchanged.
+    if value.get("schema_version") not in (
+        "okfolio.document-structure.v1",
+        "kmpro.document-structure.v1",
+    ):
         raise AgentRunError(
             f"unsupported source structure schema: {structure_path.name}"
         )

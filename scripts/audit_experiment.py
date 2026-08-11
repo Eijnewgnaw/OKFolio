@@ -8,15 +8,15 @@ import re
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.agentwiki.assets import AssetError, SourceAsset, inventory_assets
-from kmpro_wiki.agentwiki.okf import (
+from okfolio.agentwiki.assets import AssetError, SourceAsset, inventory_assets
+from okfolio.agentwiki.okf import (
     ConceptDocument,
     parse_concept_markdown,
     rewrite_image_paths,
     validate_link_only_enrichment,
 )
-from kmpro_wiki.agentwiki.relations import classify_links
-from kmpro_wiki.agentwiki.state import Manifest
+from okfolio.agentwiki.relations import classify_links
+from okfolio.agentwiki.state import Manifest
 
 
 LLM_EVENT_RE = re.compile(

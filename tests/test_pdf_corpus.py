@@ -6,8 +6,8 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from kmpro_wiki.data_processing.mineru import MinerUContentAdapter
-from kmpro_wiki.data_processing.pipeline import _document_title
+from okfolio.data_processing.mineru import MinerUContentAdapter
+from okfolio.data_processing.pipeline import _document_title
 from scripts.process_pdf_corpus import (
     _document_retry_delay,
     _corpus_state,

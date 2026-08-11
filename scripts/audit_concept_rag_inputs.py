@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from kmpro_wiki.evaluation.corpus_readiness import audit_concept_rag_inputs
+from okfolio.evaluation.corpus_readiness import audit_concept_rag_inputs
 
 
 def main() -> int:

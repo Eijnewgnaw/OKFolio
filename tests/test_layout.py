@@ -8,9 +8,9 @@ def test_required_project_layout_exists():
         "docker-compose.yml",
         "requirements.lock",
         "scripts/__init__.py",
-        "kmpro_wiki/agentwiki/__init__.py",
-        "kmpro_wiki/data_processing/__init__.py",
-        "kmpro_wiki/mcp/__init__.py",
+        "okfolio/agentwiki/__init__.py",
+        "okfolio/data_processing/__init__.py",
+        "okfolio/mcp/__init__.py",
         "prompts/discover.md",
         "prompts/compile.md",
         "prompts/preserve.md",
@@ -22,7 +22,10 @@ def test_required_project_layout_exists():
 
 def test_project_has_one_deployment_surface_and_no_reverse_script_imports():
     root = Path(__file__).parents[1]
-    for legacy_directory in ("data", "mcp", "modules", "scripts/kmpro_wiki"):
+    # "data" is the git-ignored master data tree consolidated under the repo
+    # root (2026-08-11) and is intentionally present; the remaining names are
+    # legacy layout remnants that must not reappear.
+    for legacy_directory in ("mcp", "modules", "scripts/okfolio"):
         assert not (root / legacy_directory).exists()
     assert sorted(path.name for path in root.glob("Dockerfile*")) == [
         "Dockerfile"
@@ -31,7 +34,7 @@ def test_project_has_one_deployment_surface_and_no_reverse_script_imports():
         "docker-compose.test.yml",
         "docker-compose.yml",
     ]
-    for path in (root / "kmpro_wiki").rglob("*.py"):
+    for path in (root / "okfolio").rglob("*.py"):
         content = path.read_text(encoding="utf-8")
         assert "from scripts" not in content
         assert "import scripts" not in content

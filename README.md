@@ -55,7 +55,7 @@ the full public-corpus experiment is being rebuilt.
 
 ```text
 okfolio/
-├── kmpro_wiki/
+├── okfolio/
 │   ├── data_processing/       # PDF → Document IR → Article
 │   ├── agentwiki/             # Article → Ref → Concept → Bundle / Graph
 │   └── mcp/                   # MCP protocol and job orchestration
@@ -100,7 +100,7 @@ provided Compose service. The transport, host, and port are deployment
 settings; no endpoint is hard-coded into this showcase README.
 
 ```bash
-PYTHONPATH=. python3 -m kmpro_wiki.mcp.server --transport stdio
+PYTHONPATH=. python3 -m okfolio.mcp.server --transport stdio
 ```
 
 ## Processing a PDF

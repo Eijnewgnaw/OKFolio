@@ -1,6 +1,6 @@
 import pytest
 
-from kmpro_wiki.evaluation.llm_benchmark import (
+from okfolio.evaluation.llm_benchmark import (
     _StreamAccumulator,
     _percentile,
     _sse_payloads,

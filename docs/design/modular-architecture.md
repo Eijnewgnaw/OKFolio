@@ -9,9 +9,9 @@
 
 | 层 | 包 | 输入 | 输出 |
 |---|---|---|---|
-| 数据处理 | `kmpro_wiki.data_processing` | PDF、MinerU 输出 | Document IR、Structure、Segment、Article |
-| 知识编译 | `kmpro_wiki.agentwiki` | Article、Prompt、模型 | ConceptRef、Concept、Bundle、Graph、Site |
-| 控制面 | `kmpro_wiki.mcp` | MCP 调用 | 校验后的后台任务和只读查询 |
+| 数据处理 | `okfolio.data_processing` | PDF、MinerU 输出 | Document IR、Structure、Segment、Article |
+| 知识编译 | `okfolio.agentwiki` | Article、Prompt、模型 | ConceptRef、Concept、Bundle、Graph、Site |
+| 控制面 | `okfolio.mcp` | MCP 调用 | 校验后的后台任务和只读查询 |
 | 交付 | `Dockerfile`、`docker-compose.yml`、`scripts/package_source.py` | 能力源码 | 无数据的 x86 镜像与源码包 |
 
 依赖方向只能向下：

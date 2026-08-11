@@ -106,8 +106,8 @@ def _scan_text(label: str, content: bytes, tokens: set[str]) -> None:
 
 def audit_image_tar(path: Path, tokens: set[str]) -> dict[str, Any]:
     required = {
-        "app/kmpro_wiki/mcp/server.py",
-        "app/kmpro_wiki/mcp/service.py",
+        "app/okfolio/mcp/server.py",
+        "app/okfolio/mcp/service.py",
         "app/prompts/compile.md",
     }
     seen: set[str] = set()
@@ -218,7 +218,7 @@ def audit_archive(
     *,
     tokens: set[str] | None = None,
 ) -> dict[str, Any]:
-    with tempfile.TemporaryDirectory(prefix="kmpro-mcp-audit-") as temporary:
+    with tempfile.TemporaryDirectory(prefix="okfolio-mcp-audit-") as temporary:
         target = Path(temporary)
         with tarfile.open(archive, "r:gz") as handle:
             for member in handle.getmembers():

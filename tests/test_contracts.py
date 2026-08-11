@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from kmpro_wiki.agentwiki.contracts import (
+from okfolio.agentwiki.contracts import (
     AssetPlacement,
     ConceptRef,
     ContractError,

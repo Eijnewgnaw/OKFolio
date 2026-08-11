@@ -11,7 +11,7 @@ import shutil
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.agentwiki.explorer import (
+from okfolio.agentwiki.explorer import (
     build_explorer_html,
     extract_graph_data,
 )

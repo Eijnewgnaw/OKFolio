@@ -1,6 +1,6 @@
 """Provider-neutral hybrid retrieval harness for controlled RAG experiments.
 
-The harness ranks the exact :class:`~kmpro_wiki.evaluation.contracts.RetrievedUnit`
+The harness ranks the exact :class:`~okfolio.evaluation.contracts.RetrievedUnit`
 objects emitted by ``T0``, ``T1`` and ``C1`` corpus builders.  Backends return
 only stable unit IDs and scores; source text and provenance always come from the
 audited corpus catalog.  This prevents a framework adapter from silently

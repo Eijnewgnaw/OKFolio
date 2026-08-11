@@ -23,7 +23,7 @@ def test_compose_cold_incremental_and_noop(tmp_path: Path):
     env.update(
         {
             "TEST_DATA_DIR": str(data),
-            "COMPOSE_PROJECT_NAME": f"kmpro-test-{uuid.uuid4().hex[:8]}",
+            "COMPOSE_PROJECT_NAME": f"okfolio-test-{uuid.uuid4().hex[:8]}",
         }
     )
     command = [

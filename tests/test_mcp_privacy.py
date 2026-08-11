@@ -11,8 +11,8 @@ from scripts.audit_mcp_capability import audit_tree
 
 
 REQUIRED_IMAGE_FILES = (
-    "app/kmpro_wiki/mcp/server.py",
-    "app/kmpro_wiki/mcp/service.py",
+    "app/okfolio/mcp/server.py",
+    "app/okfolio/mcp/service.py",
     "app/prompts/compile.md",
 )
 

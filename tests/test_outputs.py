@@ -1,8 +1,8 @@
 from datetime import date
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.graph import build_graph
-from kmpro_wiki.agentwiki.indexer import append_log, build_index, write_if_changed
+from okfolio.agentwiki.graph import build_graph
+from okfolio.agentwiki.indexer import append_log, build_index, write_if_changed
 
 
 def write_concept(

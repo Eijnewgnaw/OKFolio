@@ -23,7 +23,7 @@ LightRAG 面向在线检索，使用持久化的文档状态、文本块、向�
 
 1. PDF 阶段：`scripts/process_pdf_corpus.py` 以 PDF 内容 SHA-256 建立 `parser-jobs/<sha前20位>` 和 `processed/<sha前20位>`。相同字节且页级结果完整时复用；字节改变会产生新 SHA 和新解析作业。
 2. 规范化阶段：`scripts/normalize_pdf_corpus.py` 将完成的 Document IR 规范化为 Article、segments 和 structure manifest，再通过 activation gate 替换当前可见 Article。
-3. AgentWiki 阶段：`kmpro_wiki/agentwiki/agentic.py` 为每个当前 Article 计算 `source_hash`；相同哈希复用 plan/discovery 和 ConceptRef。编译阶段为每个 Concept 分组计算 group hash，只重编译哈希变化的分组。
+3. AgentWiki 阶段：`okfolio/agentwiki/agentic.py` 为每个当前 Article 计算 `source_hash`；相同哈希复用 plan/discovery 和 ConceptRef。编译阶段为每个 Concept 分组计算 group hash，只重编译哈希变化的分组。
 4. 发布阶段：`_publish` 会重建当前 Run 的 `concepts/` 和 `drafts/`，随后关系判断、审计和发布脚本生成正式 Bundle、图谱和站点。
 5. 当前缺口：PDF 目录扫描没有显式的删除/tombstone 事件；`sync_inbox` 只复制新增或修改文件，不清理已从 inbox 移除的 Article/图片；同一 Agent Run 的旧 source_progress/图片目录没有单独的文档生命周期历史。因此不能把“文件消失”自动等价为“知识删除”。
 

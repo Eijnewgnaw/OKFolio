@@ -17,15 +17,15 @@ import tempfile
 from pathlib import Path
 from typing import Any, Mapping, Sequence
 
-from kmpro_wiki.agentwiki.claim_review import build_draft_sentences
-from kmpro_wiki.agentwiki.contracts import ContractError
-from kmpro_wiki.agentwiki.okf import (
+from okfolio.agentwiki.claim_review import build_draft_sentences
+from okfolio.agentwiki.contracts import ContractError
+from okfolio.agentwiki.okf import (
     OKFValidationError,
     ConceptDocument,
     normalize_slug,
     parse_concept_markdown,
 )
-from kmpro_wiki.agentwiki.state import stable_hash
+from okfolio.agentwiki.state import stable_hash
 
 
 C1_MATERIALIZATION_SCHEMA = "okfolio.c1-materialized-run.v1"

@@ -15,12 +15,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.data_processing.activation import (
+from okfolio.data_processing.activation import (
     activate_article,
 )
-from kmpro_wiki.data_processing.pipeline import render_article
-from kmpro_wiki.data_processing.segmenter import segment_document
-from kmpro_wiki.data_processing.structure import (
+from okfolio.data_processing.pipeline import render_article
+from okfolio.data_processing.segmenter import segment_document
+from okfolio.data_processing.structure import (
     document_from_dict,
     normalize_document_structure,
 )
@@ -152,7 +152,7 @@ def main() -> int:
         _write_json(
             segments_path,
             {
-                "schema_version": "kmpro.article-segments.v1",
+                "schema_version": "okfolio.article-segments.v1",
                 "document_id": normalized.document_id,
                 "segments": [item.to_dict() for item in segments],
             },
@@ -206,7 +206,7 @@ def main() -> int:
         )
 
     report = {
-        "schema_version": "kmpro.corpus-normalization.v1",
+        "schema_version": "okfolio.corpus-normalization.v1",
         "status": (
             "complete"
             if summaries and all(item["status"] == "complete" for item in summaries)

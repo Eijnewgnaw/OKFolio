@@ -25,7 +25,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any, Literal, Mapping
 
-from kmpro_wiki.agentwiki.okf import parse_concept_markdown
+from okfolio.agentwiki.okf import parse_concept_markdown
 
 from .contracts import EvidenceAtomId, RetrievedUnit
 
@@ -150,7 +150,12 @@ def _load_documents(structures_dir: Path) -> tuple[_DocumentEvidence, ...]:
     seen_articles: set[str] = set()
     for path in paths:
         payload = _read_json(path)
-        if payload.get("schema_version") != "kmpro.document-structure.v1":
+        # Accept both the current schema id and the legacy "kmpro" id so
+        # previously persisted structure files keep loading unchanged.
+        if payload.get("schema_version") not in (
+            "okfolio.document-structure.v1",
+            "kmpro.document-structure.v1",
+        ):
             raise ValueError(f"unsupported structure schema: {path}")
         if payload.get("status") != "complete":
             raise ValueError(f"document structure is not complete: {path}")

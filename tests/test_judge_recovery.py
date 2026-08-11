@@ -1,9 +1,9 @@
 import json
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.global_cluster import CandidateEdge
-from kmpro_wiki.agentwiki.llm import LLMError
-from kmpro_wiki.agentwiki.okf import parse_concept_markdown
+from okfolio.agentwiki.global_cluster import CandidateEdge
+from okfolio.agentwiki.llm import LLMError
+from okfolio.agentwiki.okf import parse_concept_markdown
 from scripts.system_experiment import RefRecord, _compile_concepts, _load_or_judge
 
 

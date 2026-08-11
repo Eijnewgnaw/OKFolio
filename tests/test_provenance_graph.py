@@ -1,5 +1,5 @@
-from kmpro_wiki.agentwiki.explorer import build_explorer_html
-from kmpro_wiki.agentwiki.spatial_graph import build_graph_data, build_spatial_graph
+from okfolio.agentwiki.explorer import build_explorer_html
+from okfolio.agentwiki.spatial_graph import build_graph_data, build_spatial_graph
 
 
 def test_graph_renders_full_coverage_metrics_and_projects_related_refs():

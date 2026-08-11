@@ -10,7 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from kmpro_wiki.evaluation.experiment_runner import (
+from okfolio.evaluation.experiment_runner import (
     ExperimentStateError,
     ThreeArmExperimentRunner,
     load_backend,

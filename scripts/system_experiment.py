@@ -16,19 +16,19 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.agentwiki.assets import inventory_assets, strip_missing_image_references
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.contracts import ConceptRef
-from kmpro_wiki.agentwiki.global_cluster import (
+from okfolio.agentwiki.assets import inventory_assets, strip_missing_image_references
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.contracts import ConceptRef
+from okfolio.agentwiki.global_cluster import (
     CandidateEdge,
     build_clusters,
     candidate_edges,
     kind_for,
     validate_judgements,
 )
-from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient, LLMError
-from kmpro_wiki.agentwiki.spatial_graph import build_spatial_graph
-from kmpro_wiki.agentwiki.stages import discover_concepts
+from okfolio.agentwiki.llm import OpenAICompatibleClient, LLMError
+from okfolio.agentwiki.spatial_graph import build_spatial_graph
+from okfolio.agentwiki.stages import discover_concepts
 
 
 JUDGE_BATCH_SIZE = 15

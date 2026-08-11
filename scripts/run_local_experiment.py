@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from kmpro_wiki.agentwiki.local_experiment import run
+from okfolio.agentwiki.local_experiment import run
 
 
 def main() -> int:

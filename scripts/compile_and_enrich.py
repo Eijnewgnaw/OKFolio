@@ -3,10 +3,10 @@ from __future__ import annotations
 
 import sys
 
-from kmpro_wiki.agentwiki.compiler import CompilationBatchError, Compiler
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.indexer import append_log
-from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
+from okfolio.agentwiki.compiler import CompilationBatchError, Compiler
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.indexer import append_log
+from okfolio.agentwiki.llm import OpenAICompatibleClient
 
 
 def main() -> int:

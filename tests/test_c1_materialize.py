@@ -6,14 +6,14 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.agentwiki.claim_review import build_draft_sentences
-from kmpro_wiki.agentwiki.okf import parse_concept_markdown
-from kmpro_wiki.agentwiki.state import stable_hash
-from kmpro_wiki.evaluation.c1_materialize import (
+from okfolio.agentwiki.claim_review import build_draft_sentences
+from okfolio.agentwiki.okf import parse_concept_markdown
+from okfolio.agentwiki.state import stable_hash
+from okfolio.evaluation.c1_materialize import (
     C1MaterializationError,
     materialize_c1_run,
 )
-from kmpro_wiki.evaluation.corpus import build_c1_audited_concepts
+from okfolio.evaluation.corpus import build_c1_audited_concepts
 
 
 def _write_json(path: Path, payload: object) -> None:

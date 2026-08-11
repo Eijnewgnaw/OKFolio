@@ -10,7 +10,7 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.agentwiki.okf import parse_concept_markdown
+from okfolio.agentwiki.okf import parse_concept_markdown
 
 
 LINK_RE = re.compile(r"\[[^\]]+\]\((?P<target>[^)#?]+\.md)\)")

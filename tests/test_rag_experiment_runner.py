@@ -5,14 +5,14 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.evaluation.contracts import (
+from okfolio.evaluation.contracts import (
     AnswerPrediction,
     Citation,
     EvidenceAtomId,
     RetrievedUnit,
 )
-from kmpro_wiki.evaluation.corpus import CorpusBuild, EvidenceAtom
-from kmpro_wiki.evaluation.experiment_runner import (
+from okfolio.evaluation.corpus import CorpusBuild, EvidenceAtom
+from okfolio.evaluation.experiment_runner import (
     AlignedGenerationPipeline,
     CorpusConfig,
     ExperimentConfig,
@@ -20,15 +20,15 @@ from kmpro_wiki.evaluation.experiment_runner import (
     GeneratedAnswer,
     ThreeArmExperimentRunner,
 )
-from kmpro_wiki.evaluation.generation import (
+from okfolio.evaluation.generation import (
     AnswerContext,
     AnswerGenerationInput,
     GenerationResult,
     GenerationTiming,
     TokenUsage,
 )
-from kmpro_wiki.evaluation.gold import load_gold_jsonl
-from kmpro_wiki.evaluation.retrieval import BackendConfig, RetrievalConfig, SearchHit
+from okfolio.evaluation.gold import load_gold_jsonl
+from okfolio.evaluation.retrieval import BackendConfig, RetrievalConfig, SearchHit
 
 
 def _gold(path: Path) -> None:

@@ -2,7 +2,7 @@ import hashlib
 
 import pytest
 
-from kmpro_wiki.agentwiki.assets import (
+from okfolio.agentwiki.assets import (
     AssetError,
     SourceAsset,
     apply_asset_placements,
@@ -10,7 +10,7 @@ from kmpro_wiki.agentwiki.assets import (
     strip_missing_image_references,
     validate_asset_preservation,
 )
-from kmpro_wiki.agentwiki.contracts import AssetPlacement, ConceptRef, DraftConcept
+from okfolio.agentwiki.contracts import AssetPlacement, ConceptRef, DraftConcept
 
 
 def draft(concept_id: str = "a", body: str = "第一段。\n\n正文锚点。\n\n第三段。"):

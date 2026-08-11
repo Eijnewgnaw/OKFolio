@@ -10,7 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from kmpro_wiki.evaluation.gold_sampling import (
+from okfolio.evaluation.gold_sampling import (
     GoldSamplingQuota,
     prepare_gold_sampling_plan,
     write_gold_template_jsonl,

@@ -3,7 +3,7 @@ import hashlib
 from pathlib import Path
 
 from scripts.audit_experiment import audit_bundle, render_report
-from kmpro_wiki.agentwiki.state import CompileFingerprint, Manifest, SourceState
+from okfolio.agentwiki.state import CompileFingerprint, Manifest, SourceState
 
 
 def fingerprint() -> CompileFingerprint:

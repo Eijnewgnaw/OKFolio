@@ -12,19 +12,19 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-from kmpro_wiki.agentwiki.site import build_site
+from okfolio.agentwiki.site import build_site
 
 import yaml
 
-from kmpro_wiki.agentwiki.assets import strip_missing_image_references
-from kmpro_wiki.agentwiki.indexer import build_index
-from kmpro_wiki.agentwiki.okf import (
+from okfolio.agentwiki.assets import strip_missing_image_references
+from okfolio.agentwiki.indexer import build_index
+from okfolio.agentwiki.okf import (
     ConceptDocument,
     parse_concept_markdown,
     rewrite_image_paths,
 )
-from kmpro_wiki.agentwiki.explorer import build_explorer_html
-from kmpro_wiki.agentwiki.spatial_graph import build_graph_data, build_spatial_graph
+from okfolio.agentwiki.explorer import build_explorer_html
+from okfolio.agentwiki.spatial_graph import build_graph_data, build_spatial_graph
 
 
 TYPE_KIND = {

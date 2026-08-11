@@ -39,7 +39,7 @@
     "seed": 0
   },
   "adapter": {
-    "factory": "kmpro_wiki.evaluation.local_bge_backend:create_backend",
+    "factory": "okfolio.evaluation.local_bge_backend:create_backend",
     "options": {
       "dense_model_path": "${RAG_BGE_M3_MODEL_PATH}",
       "dense_revision": "replace-with-local-model-revision",

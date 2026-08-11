@@ -1,4 +1,4 @@
-"""Normalize MinerU structured output into the stable KMPro Block IR."""
+"""Normalize MinerU structured output into the stable OKFolio Block IR."""
 from __future__ import annotations
 
 import hashlib

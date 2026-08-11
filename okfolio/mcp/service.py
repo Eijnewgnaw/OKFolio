@@ -20,7 +20,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any, Mapping
 
-from kmpro_wiki.agentwiki.okf import (
+from okfolio.agentwiki.okf import (
     OKFValidationError,
     parse_concept_markdown,
 )
@@ -237,7 +237,7 @@ class JobManager:
         _write_json_atomic(record_path, record)
         runner = (
             self.config.project_root
-            / "kmpro_wiki"
+            / "okfolio"
             / "mcp"
             / "job_runner.py"
         )
@@ -737,7 +737,7 @@ class WikiMCPService:
 
     def audit_agent_run(self, run_id: str) -> dict[str, Any]:
         self._require_writes("audit_agent_run")
-        from kmpro_wiki.agentwiki.audit_run import run_audit
+        from okfolio.agentwiki.audit_run import run_audit
 
         run_dir = self._run_dir(run_id, must_exist=True)
         result = run_audit(run_dir, self.config.sources_dir)
@@ -746,7 +746,7 @@ class WikiMCPService:
 
     def report_agent_run(self, run_id: str) -> dict[str, Any]:
         self._require_writes("report_agent_run")
-        from kmpro_wiki.agentwiki.report import (
+        from okfolio.agentwiki.report import (
             render_markdown,
             summarize,
         )
@@ -808,7 +808,7 @@ class WikiMCPService:
 
     def audit_release(self, release_name: str = "") -> dict[str, Any]:
         self._require_writes("audit_release")
-        from kmpro_wiki.agentwiki.audit_release import audit_release
+        from okfolio.agentwiki.audit_release import audit_release
 
         release = self.resolve_release(release_name)
         if release.root == self.config.data_dir:

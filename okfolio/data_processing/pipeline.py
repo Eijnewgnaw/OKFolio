@@ -75,7 +75,7 @@ def _write_json(path: Path, value: object) -> None:
 
 def render_article(document: DocumentIR) -> str:
     document_family_id = hashlib.sha256(
-        f"kmpro-document-family:{document.source_file}".encode("utf-8")
+        f"okfolio-document-family:{document.source_file}".encode("utf-8")
     ).hexdigest()[:20]
     document_version_id = document.source_sha256[:20]
     lines = [
@@ -228,7 +228,7 @@ def process_mineru_output(
     _write_json(
         segments_path,
         {
-            "schema_version": "kmpro.article-segments.v1",
+            "schema_version": "okfolio.article-segments.v1",
             "document_id": document_id,
             "segments": [segment.to_dict() for segment in segments],
         },
@@ -236,7 +236,7 @@ def process_mineru_output(
     _write_json(
         asset_manifest_path,
         {
-            "schema_version": "kmpro.asset-manifest.v1",
+            "schema_version": "okfolio.asset-manifest.v1",
             "document_id": document_id,
             "assets": assets,
         },
@@ -260,7 +260,7 @@ def process_mineru_output(
     _write_json(
         manifest_path,
         {
-            "schema_version": "kmpro.processing-run.v1",
+            "schema_version": "okfolio.processing-run.v1",
             "status": "complete",
             **result.to_dict(),
         },

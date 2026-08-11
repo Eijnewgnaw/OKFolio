@@ -9,11 +9,11 @@ from collections import Counter, deque
 from pathlib import Path, PurePosixPath
 from typing import Any
 
-from kmpro_wiki.agentwiki.assets import (
+from okfolio.agentwiki.assets import (
     inventory_assets,
     strip_missing_image_references,
 )
-from kmpro_wiki.agentwiki.okf import parse_concept_markdown
+from okfolio.agentwiki.okf import parse_concept_markdown
 
 
 def load(path: Path) -> Any:

@@ -3,8 +3,8 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.evaluation.gold import GoldDataError, load_gold_jsonl
-from kmpro_wiki.evaluation.gold_sampling import (
+from okfolio.evaluation.gold import GoldDataError, load_gold_jsonl
+from okfolio.evaluation.gold_sampling import (
     GoldDraftSlot,
     GoldSamplingQuota,
     audit_gold_sampling_plan,

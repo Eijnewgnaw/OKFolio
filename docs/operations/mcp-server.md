@@ -39,13 +39,13 @@ MCP Server 不是只读查询壳，而是 OKFolio 的统一控制面。它覆盖
 MCP Client
    │ stdio / Streamable HTTP
    ▼
-kmpro_wiki/mcp/server.py                 FastMCP 协议与工具声明
+okfolio/mcp/server.py                 FastMCP 协议与工具声明
    ▼
-kmpro_wiki/mcp/
+okfolio/mcp/
   service.py                  路径门禁、查询、流水线编排
    ├─ 直接读取正式 Bundle     快速查询
    ├─ 调用审计函数             确定性短任务
-   └─ kmpro_wiki/mcp/job_runner.py        模型调用、发布、构建等长任务
+   └─ okfolio/mcp/job_runner.py        模型调用、发布、构建等长任务
           ▼
      原有 CLI 与核心模块
 ```
@@ -104,10 +104,10 @@ MCP 不复制编译算法。原有 CLI、Prompt、Schema 和编译模块仍是�
 静态资源与资源模板 URI：
 
 ```text
-kmpro://status
-kmpro://concept/{concept_id}
-kmpro://article/{article_id}
-kmpro://graph
+okfolio://status
+okfolio://concept/{concept_id}
+okfolio://article/{article_id}
+okfolio://graph
 ```
 
 工作流 Prompt：
@@ -130,7 +130,7 @@ research_topic(topic)
       "command": "python3",
       "args": [
         "-m",
-        "kmpro_wiki.mcp.server",
+        "okfolio.mcp.server",
         "--transport",
         "stdio"
       ],

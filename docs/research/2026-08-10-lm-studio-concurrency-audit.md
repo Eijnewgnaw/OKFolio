@@ -9,7 +9,7 @@
 - base URL：`http://localhost:1234`（host:port）。来源顺序：仓库根 `.env`（不存在）→ shell 环境变量 `OPENAI_BASE_URL`（未设置）→ `.env.example`（只有模板，值为空）→ LM Studio 默认端口。无 API key：本地服务不要求（RUNBOOK 确认），请求不携带 Authorization 头。
 - model：`qwen3.6-35b-a3b-mlx`，与 `.local-runtime/agent-runs/*/manifest.json` 的 `configuration.client.stages.*.model` 一致；`GET /v1/models` 实际列出该 id。
 - 固定 prompt：`用一句话说明知识库检索的作用。`，`temperature=0`。
-- 请求体对齐生产管线（`kmpro_wiki/agentwiki/llm.py`）：`stream=true`、`stream_options.include_usage=true`、`chat_template_kwargs={"enable_thinking": false}`；SSE 流式解析与计时复用 `kmpro_wiki/evaluation/llm_benchmark.py` 的做法。
+- 请求体对齐生产管线（`okfolio/agentwiki/llm.py`）：`stream=true`、`stream_options.include_usage=true`、`chat_template_kwargs={"enable_thinking": false}`；SSE 流式解析与计时复用 `okfolio/evaluation/llm_benchmark.py` 的做法。
 - 脚本：`/tmp/lm_concurrency_bench.py`；原始结果：`/tmp/lm_concurrency_bench_results.json`；运行日志：`/tmp/lm_concurrency_bench.log`。全程 148 秒，未触发 20 分钟上限（剩余 1052s）。
 
 ## 环境行为观察（先行探针）

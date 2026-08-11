@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from kmpro_wiki.data_processing.activation import (
+from okfolio.data_processing.activation import (
     activate_article,
 )
 

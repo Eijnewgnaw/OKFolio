@@ -57,7 +57,7 @@ class DocumentIR:
 
     def to_dict(self) -> dict[str, Any]:
         return {
-            "schema_version": "kmpro.document-ir.v1",
+            "schema_version": "okfolio.document-ir.v1",
             "document_id": self.document_id,
             "source_file": self.source_file,
             "source_sha256": self.source_sha256,

@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from kmpro_wiki.data_processing import (
+from okfolio.data_processing import (
     LocalAssetWriter,
     MinerUContentAdapter,
     S3WriterAssetWriter,

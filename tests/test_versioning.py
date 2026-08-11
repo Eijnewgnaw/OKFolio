@@ -1,5 +1,5 @@
-from kmpro_wiki.agentwiki.global_cluster import candidate_edges
-from kmpro_wiki.agentwiki.versioning import reconcile_refs, scope_compatibility
+from okfolio.agentwiki.global_cluster import candidate_edges
+from okfolio.agentwiki.versioning import reconcile_refs, scope_compatibility
 
 
 def ref(ref_id: str, evidence: str, *, scope: dict, article_id: str = "a") -> dict:

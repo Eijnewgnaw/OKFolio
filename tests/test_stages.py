@@ -2,11 +2,11 @@ import json
 
 import pytest
 
-from kmpro_wiki.agentwiki.assets import SourceAsset
-from kmpro_wiki.agentwiki.contracts import ConceptRef, ContractError, DraftConcept
-from kmpro_wiki.agentwiki.llm import LLMOutputTruncated
-from kmpro_wiki.agentwiki.okf import ConceptDocument
-from kmpro_wiki.agentwiki.stages import (
+from okfolio.agentwiki.assets import SourceAsset
+from okfolio.agentwiki.contracts import ConceptRef, ContractError, DraftConcept
+from okfolio.agentwiki.llm import LLMOutputTruncated
+from okfolio.agentwiki.okf import ConceptDocument
+from okfolio.agentwiki.stages import (
     PromptRenderError,
     _complete_structured,
     audit_relations,

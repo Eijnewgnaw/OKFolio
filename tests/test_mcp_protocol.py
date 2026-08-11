@@ -37,7 +37,7 @@ def test_stdio_protocol_lists_complete_capability_surface(tmp_path: Path):
             command=sys.executable,
             args=[
                 "-m",
-                "kmpro_wiki.mcp.server",
+                "okfolio.mcp.server",
                 "--transport",
                 "stdio",
             ],

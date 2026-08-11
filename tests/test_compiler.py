@@ -5,9 +5,9 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.agentwiki.compiler import CompilationBatchError, Compiler
-from kmpro_wiki.agentwiki.config import Settings
-from kmpro_wiki.agentwiki.state import Manifest
+from okfolio.agentwiki.compiler import CompilationBatchError, Compiler
+from okfolio.agentwiki.config import Settings
+from okfolio.agentwiki.state import Manifest
 
 
 class FakeLLM:

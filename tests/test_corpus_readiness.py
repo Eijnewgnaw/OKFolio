@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from kmpro_wiki.evaluation.corpus_readiness import audit_concept_rag_inputs
+from okfolio.evaluation.corpus_readiness import audit_concept_rag_inputs
 
 
 def _write(path: Path, payload: object) -> Path:

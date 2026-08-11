@@ -3,7 +3,7 @@ import json
 import httpx
 import pytest
 
-from kmpro_wiki.agentwiki.llm import (
+from okfolio.agentwiki.llm import (
     LLMClient,
     LLMError,
     LLMOutputTruncated,
@@ -201,7 +201,7 @@ def test_client_reports_reasoning_and_usage_metrics(httpx_mock, monkeypatch):
         }
     )
     ticks = iter([10.0, 10.25])
-    monkeypatch.setattr("kmpro_wiki.agentwiki.llm.time.monotonic", lambda: next(ticks))
+    monkeypatch.setattr("okfolio.agentwiki.llm.time.monotonic", lambda: next(ticks))
     events: list[str] = []
     client = LLMClient(
         "http://llm/v1",
@@ -251,7 +251,7 @@ def test_client_rejects_truncated_output_before_returning_partial_content(
     )
     ticks = iter([10.0, 10.25])
     monkeypatch.setattr(
-        "kmpro_wiki.agentwiki.llm.time.monotonic", lambda: next(ticks)
+        "okfolio.agentwiki.llm.time.monotonic", lambda: next(ticks)
     )
     events: list[str] = []
     client = LLMClient(

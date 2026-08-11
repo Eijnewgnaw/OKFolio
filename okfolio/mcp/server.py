@@ -304,7 +304,7 @@ def create_server(
         return service.graph_info(release_name)
 
     @server.resource(
-        "kmpro://status",
+        "okfolio://status",
         name="OKFolio status",
         description="当前知识库、运行和发布状态",
         mime_type="application/json",
@@ -317,8 +317,8 @@ def create_server(
         )
 
     @server.resource(
-        "kmpro://concept/{concept_id}",
-        name="KMPro Concept",
+        "okfolio://concept/{concept_id}",
+        name="OKFolio Concept",
         description="当前正式 Release 中的 Concept Markdown",
         mime_type="text/markdown",
     )
@@ -326,8 +326,8 @@ def create_server(
         return service.concept_markdown_resource(concept_id)
 
     @server.resource(
-        "kmpro://article/{article_id}",
-        name="KMPro Article",
+        "okfolio://article/{article_id}",
+        name="OKFolio Article",
         description="当前正式 Release 中的原始 Article Markdown",
         mime_type="text/markdown",
     )
@@ -335,8 +335,8 @@ def create_server(
         return service.article_markdown_resource(article_id)
 
     @server.resource(
-        "kmpro://graph",
-        name="KMPro knowledge graph",
+        "okfolio://graph",
+        name="OKFolio knowledge graph",
         description="当前正式 Release 的离线三维图谱",
         mime_type="text/html",
     )

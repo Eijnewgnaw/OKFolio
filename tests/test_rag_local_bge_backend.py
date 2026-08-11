@@ -7,7 +7,7 @@ import pytest
 
 np = pytest.importorskip("numpy")
 
-from kmpro_wiki.evaluation.contracts import (
+from okfolio.evaluation.contracts import (
     AnswerPrediction,
     EvidenceAtomId,
     FactLabel,
@@ -15,15 +15,15 @@ from kmpro_wiki.evaluation.contracts import (
     GoldQuestion,
     RetrievedUnit,
 )
-from kmpro_wiki.evaluation.corpus import CorpusBuild, EvidenceAtom
-from kmpro_wiki.evaluation.generation import (
+from okfolio.evaluation.corpus import CorpusBuild, EvidenceAtom
+from okfolio.evaluation.generation import (
     AnswerContext,
     AnswerGenerationInput,
     GenerationResult,
     GenerationTiming,
     TokenUsage,
 )
-from kmpro_wiki.evaluation.local_bge_backend import (
+from okfolio.evaluation.local_bge_backend import (
     FrozenJiebaTokenizer,
     LocalBGERAGBackend,
     LocalBackendConfigurationError,

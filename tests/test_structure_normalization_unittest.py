@@ -7,8 +7,8 @@ from pathlib import Path
 
 from PIL import Image
 
-from kmpro_wiki.data_processing.models import Block, DocumentIR
-from kmpro_wiki.data_processing.structure import (
+from okfolio.data_processing.models import Block, DocumentIR
+from okfolio.data_processing.structure import (
     normalize_document_structure,
 )
 

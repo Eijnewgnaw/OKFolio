@@ -9,7 +9,7 @@ from unittest.mock import patch
 import httpx
 from PIL import Image
 
-from kmpro_wiki.data_processing import (
+from okfolio.data_processing import (
     LocalAssetWriter,
     OfficialMinerUPageParser,
     OpenAICompatiblePageParser,
@@ -156,7 +156,7 @@ class PDFWorkerTests(unittest.TestCase):
                 "JPEG",
             )
             with patch(
-                "kmpro_wiki.data_processing."
+                "okfolio.data_processing."
                 "mineru_official.MinerUClient"
             ) as client_class:
                 client_class.return_value.two_step_extract.return_value = (
@@ -189,7 +189,7 @@ class PDFWorkerTests(unittest.TestCase):
             image = Path(directory) / "page.jpg"
             Image.new("RGB", (100, 120), "white").save(image)
             with patch(
-                "kmpro_wiki.data_processing."
+                "okfolio.data_processing."
                 "mineru_official.MinerUClient"
             ) as client_class:
                 client_class.return_value.two_step_extract.return_value = []
@@ -434,7 +434,7 @@ class PDFWorkerTests(unittest.TestCase):
             access_key="access",
             secret_key="secret",
             bucket="assets",
-            prefix="kmpro",
+            prefix="okfolio",
             transport=httpx.MockTransport(handler),
         )
         uri = writer.write(
@@ -442,8 +442,8 @@ class PDFWorkerTests(unittest.TestCase):
             b"image",
             content_type="image/jpeg",
         )
-        self.assertEqual(uri, "s3://assets/kmpro/article/page.jpg")
-        self.assertEqual(requests[0].url.path, "/assets/kmpro/article/page.jpg")
+        self.assertEqual(uri, "s3://assets/okfolio/article/page.jpg")
+        self.assertEqual(requests[0].url.path, "/assets/okfolio/article/page.jpg")
         self.assertTrue(
             requests[0].headers["authorization"].startswith("AWS4-HMAC-SHA256 ")
         )

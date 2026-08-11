@@ -122,7 +122,7 @@ def reconcile_refs(
     for update in updates:
         counts[update.status] = counts.get(update.status, 0) + 1
     return {
-        "schema": "kmpro.ref-reconciliation.v1",
+        "schema": "okfolio.ref-reconciliation.v1",
         "old_count": len(old),
         "new_count": len(new),
         "current_ref_ids": [

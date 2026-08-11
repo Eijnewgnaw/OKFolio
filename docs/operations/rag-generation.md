@@ -23,7 +23,7 @@ JSON mode, or `prompt_only` only when the endpoint rejects both response-format
 options. The same strict local parser runs in every mode.
 
 ```python
-from kmpro_wiki.evaluation import (
+from okfolio.evaluation import (
     AnswerContext,
     AnswerGenerationInput,
     OpenAICompatibleRAGClient,

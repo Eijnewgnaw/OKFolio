@@ -6,14 +6,14 @@ from pathlib import Path
 
 import pytest
 
-from kmpro_wiki.agentwiki.claim_review_run import (
+from okfolio.agentwiki.claim_review_run import (
     ClaimReviewRunError,
     ClaimReviewStageClients,
     ClaimReviewTemplates,
     _quality_audit_for_recompile,
     run_claim_review,
 )
-from kmpro_wiki.agentwiki.claim_review import (
+from okfolio.agentwiki.claim_review import (
     ClaimCoverageMatrix,
     ClaimCoverageRow,
     ClaimObligation,
@@ -23,7 +23,7 @@ from kmpro_wiki.agentwiki.claim_review import (
     UnsupportedClaim,
     build_draft_sentences,
 )
-from kmpro_wiki.agentwiki.state import stable_hash
+from okfolio.agentwiki.state import stable_hash
 
 
 TEMPLATES = ClaimReviewTemplates(
