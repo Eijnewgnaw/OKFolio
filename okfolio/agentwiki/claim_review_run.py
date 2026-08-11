@@ -357,7 +357,9 @@ def run_claim_review(
     }
     if resume:
         frozen = _read_object(output_dir / "source_snapshot.json")
-        if frozen != snapshot_with_structures:
+        if _snapshot_integrity(frozen) != _snapshot_integrity(
+            snapshot_with_structures
+        ):
             raise ClaimReviewRunError(
                 "source or structure snapshot changed; refusing to resume"
             )
@@ -385,7 +387,9 @@ def run_claim_review(
     thinking_relaxed = False
     if seed_run is not None:
         frozen_seed_snapshot = _read_object(seed_run / "source_snapshot.json")
-        if frozen_seed_snapshot != snapshot:
+        if _snapshot_integrity(frozen_seed_snapshot) != _snapshot_integrity(
+            snapshot
+        ):
             raise ClaimReviewRunError(
                 "seed run uses a different source or structure snapshot"
             )
@@ -1108,6 +1112,31 @@ def _write_progress(
             "accepted": accepted,
         },
     )
+
+
+_SNAPSHOT_INTEGRITY_KEYS = (
+    "schema",
+    "inputs",
+    "structures",
+    "provenance_warnings",
+)
+
+
+def _snapshot_integrity(snapshot: Mapping[str, Any]) -> dict[str, Any]:
+    """Hash-carried integrity of a frozen snapshot, independent of layout.
+
+    ``source_run_name`` and ``structures_dir_name`` are informational
+    metadata: the same data restored from the committed ``experiment-data/``
+    snapshot on a fresh clone lives under different directory names (e.g.
+    ``experiment-data/source-run`` vs the original
+    ``data/agent-runs/public10-local-qwen36-semantic-v2-20260809``) with
+    byte-identical files.  Integrity is carried by the input/structure
+    hashes, so only those keys (plus the schema id and provenance warnings)
+    participate in snapshot comparisons.
+    """
+    return {
+        key: snapshot[key] for key in _SNAPSHOT_INTEGRITY_KEYS if key in snapshot
+    }
 
 
 def _source_snapshot(

@@ -33,18 +33,27 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd)"
 cd "$ROOT"
 
-# Master data now lives in the git-ignored $ROOT/data/ tree (consolidated
-# under the repo root 2026-08-11; the old .local-runtime symlink mechanism is
-# gone). On a fresh clone restore data/ from the committed experiment-data/
-# snapshot (or from the master workstation) before launching: copy
-# experiment-data/source-run -> data/agent-runs/<source-run-id> and
-# experiment-data/structures -> data/normalized-sources, or copy the whole
-# master tree. experiment-data/ remains the git restore copy; data/ is where
-# v7 writes.
+# Master data lives in the git-ignored $ROOT/data/ tree (consolidated under
+# the repo root 2026-08-11; the old .local-runtime symlink mechanism is
+# gone).  On a fresh clone data/ does not exist, so this launcher first
+# materializes it from the committed experiment-data/ snapshot (byte-identical
+# files; v6's source_snapshot.json hashes are verified by the run itself).
+# On the master workstation data/ already exists and this block is skipped.
+# experiment-data/ stays untouched and remains the git restore copy; data/ is
+# where v7 reads the source run and writes its output.
 DATA="$ROOT/data"
 SOURCE_RUN="$DATA/agent-runs/public10-local-qwen36-semantic-v2-20260809"
 V6_RUN="public10-claim-review-formal-qwen3p6-remote-v6-nothinking-20260810"
 V7_OUT="public10-claim-review-formal-qwen3p6-remote-v7-repair-$(date +%Y%m%d)"
+
+# ---- bootstrap: restore data/ from the committed experiment-data/ snapshot ----
+if [[ ! -d "$DATA/agent-runs/$V6_RUN" || ! -d "$DATA/normalized-sources" || ! -d "$SOURCE_RUN" ]]; then
+    echo "data/ missing or incomplete: materializing from experiment-data/ snapshot"
+    mkdir -p "$DATA/agent-runs"
+    [[ -d "$DATA/agent-runs/$V6_RUN" ]] || cp -R "$ROOT/experiment-data/runs/$V6_RUN" "$DATA/agent-runs/$V6_RUN"
+    [[ -d "$DATA/normalized-sources" ]] || cp -R "$ROOT/experiment-data/structures/." "$DATA/normalized-sources"
+    [[ -d "$SOURCE_RUN" ]] || cp -R "$ROOT/experiment-data/source-run" "$SOURCE_RUN"
+fi
 
 # ---- guard: v7 should inherit a COMPLETED v6 ----
 V6_MANIFEST="$DATA/agent-runs/$V6_RUN/manifest.json"

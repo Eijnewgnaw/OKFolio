@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import shutil
 from pathlib import Path
 
 import pytest
@@ -731,6 +732,39 @@ def test_resume_skips_completed_group_and_rejects_configuration_change(tmp_path:
             templates=TEMPLATES,
             resume=True,
         )
+
+
+def test_resume_accepts_relocated_source_layout_with_identical_hashes(
+    tmp_path: Path,
+):
+    # A fresh clone restores the frozen run under experiment-data/ while the
+    # source run and structures live under different directory names.  Resume
+    # integrity is carried by the file hashes, not the directory names.
+    source_run, structures = _source_fixture(tmp_path, with_draft=True)
+    output = tmp_path / "reviewed"
+    run_claim_review(
+        PassingClient(),
+        source_run=source_run,
+        output_dir=output,
+        structures_dir=structures,
+        templates=TEMPLATES,
+    )
+
+    relocated_source = tmp_path / "restored" / "source-run"
+    relocated_source.parent.mkdir(parents=True)
+    shutil.copytree(source_run, relocated_source)
+    relocated_structures = tmp_path / "restored" / "structures"
+    shutil.copytree(structures, relocated_structures)
+
+    resumed = run_claim_review(
+        NoCallClient(),
+        source_run=relocated_source,
+        output_dir=output,
+        structures_dir=relocated_structures,
+        templates=TEMPLATES,
+        resume=True,
+    )
+    assert resumed["status"] == "complete"
 
 
 def test_missing_source_draft_compiles_only_frozen_required_excerpt(tmp_path: Path):

@@ -53,12 +53,21 @@ read-only assets and were not modified.
    (`OPENAI_BASE_URL` = the local vLLM endpoint, `OPENAI_MODEL`,
    `OPENAI_API_KEY`, `NO_PROXY`).
 3. Continue or rerun review against this data:
-   - Resume a frozen run: `python3 scripts/review_concept_claims.py
+   - Resume a frozen run directly against the snapshot:
+     `python3 scripts/review_concept_claims.py
      --source-run experiment-data/source-run --output-dir
-     experiment-data/runs/<frozen-run> --resume …`
+     experiment-data/runs/<frozen-run> --resume …` (snapshot verification is
+     hash-based and independent of directory names, verified by the
+     2026-08-11 restore drill).
    - Launch the v7 repair run: `experiment-data/runs/v7-launcher/run_v7.sh`
      (resolves paths relative to the repo root and inherits the API
-     environment).
+     environment). On a fresh clone the launcher automatically materializes
+     the git-ignored `data/` tree from this snapshot (source run →
+     `data/agent-runs/public10-local-qwen36-semantic-v2-20260809`, structures
+     → `data/normalized-sources/`, v6 seed →
+     `data/agent-runs/public10-claim-review-formal-qwen3p6-remote-v6-nothinking-20260810`);
+     manual equivalent:
+     `mkdir -p data/agent-runs && cp -R experiment-data/source-run data/agent-runs/public10-local-qwen36-semantic-v2-20260809 && cp -R experiment-data/structures/. data/normalized-sources && cp -R experiment-data/runs/public10-claim-review-formal-qwen3p6-remote-v6-nothinking-20260810 data/agent-runs/`
 4. The `192.168.8.209:9000` asset references are image pointers inside text
    content; they are not needed for compilation or claim review and will not
    resolve from a new machine unless an asset server is re-exposed.

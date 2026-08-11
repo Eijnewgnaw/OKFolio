@@ -49,9 +49,13 @@
    产出后按文档执行。）
 4. 继续实验：
    - 续跑冻结 run：`python3 scripts/review_concept_claims.py --source-run experiment-data/source-run
-     --output-dir experiment-data/runs/<frozen-run> --resume …`（v6 快照哈希未变，`_verify_snapshot` 通过）。
+     --output-dir experiment-data/runs/<frozen-run> --resume …`（v6 快照哈希未变，`_verify_snapshot` 通过；
+     快照比对只按文件哈希，与目录名无关——2026-08-11 恢复演练后放宽）。
    - 启动 v7 修复运行：`experiment-data/runs/v7-launcher/run_v7.sh`（路径相对仓库根解析，API 走环境变量；
      `--draft-override-dir experiment-data/overrides`；先补齐 47 个覆盖草稿）。
+     launcher 首次在全新克隆上运行时会自动把 `data/` 从 `experiment-data/` 物化出来
+     （source-run → `data/agent-runs/…`、structures → `data/normalized-sources/`、v6 → `data/agent-runs/<v6>`）；
+     本机 master 已有 `data/` 时自动跳过。
 5. 进度自查：仓库根 `PROGRESS.md`（每次状态变更由执行者更新）。
 
 ## 5. 本机收尾建议（推荐，未执行）
