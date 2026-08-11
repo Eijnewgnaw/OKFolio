@@ -18,7 +18,7 @@ accepted 140 / withheld 192 / failed 0 / 剩余 0 / ETA 无（v6 已结束，v7 
 - 2026-08-10 17:13 探针 v13（oversized 批式探针）完成
 - 2026-08-10 17:26 探针 v14（fixed）完成
 - 2026-08-10 18:07 v4（正式批式 claim review）运行
-- 2026-08-10 19:59 v5（remote qwen3p6）运行
+- 2026-08-10 19:59 v5（remote 运行）开始
 - 2026-08-11 16:05 v6（remote 无思考）运行结束：332/332 处理、140 accepted、192 withheld
 - 2026-08-11 覆盖草稿 /tmp/overrides 77 份就绪，缺陷工作清单生成
 - 2026-08-11 实验数据同步 GitHub：脱敏（MinIO host → minio.internal）+ 6 份 source_snapshot 哈希重算自检通过

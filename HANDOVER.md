@@ -7,7 +7,7 @@
 本机（当前工作站）的权威数据在 `.local-runtime/`，**它不进 git**（.gitignore 已忽略）：
 
 - `.local-runtime/agent-runs/` — 全部 agent 运行目录；其中 v2-source、v3、v12、v1、v2 是指向原始只读工作区
-  `/Users/wwj/Documents/Codex/2026-07-15/zh/kmpro-wiki-v15-system-experiment-20260729/agent-runs/` 的符号链接；
+  `~/Documents/Codex/2026-07-15/zh/kmpro-wiki-v15-system-experiment-20260729/agent-runs/` 的符号链接；
   v4/v5/v6/v13/v14 是实体目录。
 - `.local-runtime/normalized-sources/` — 指向同一原始工作区的 `normalized-sources/`（符号链接），内含 10 个
   `*.structure.json`。
@@ -23,18 +23,17 @@
 | `structures/` | `normalized-sources/*.structure.json`（10 个） |
 | `runs/public10-claim-review-formal-qwen36-v3-20260810` | `agent-runs/…-v3-…` |
 | `runs/public10-claim-review-formal-qwen36-v4-batched-20260810` | `agent-runs/…-v4-batched-…` |
-| `runs/public10-claim-review-formal-qwen3p6-remote-v5-20260810` | `agent-runs/…-v5-…` |
-| `runs/public10-claim-review-formal-qwen3p6-remote-v6-nothinking-20260810` | `agent-runs/…-v6-nothinking-…` |
+| `runs/…-remote-v5-…` | `agent-runs/…-v5-…` |
+| `runs/…-remote-v6-nothinking-…` | `agent-runs/…-v6-nothinking-…` |
 | `probes/…-v13-batched-…`、`probes/…-v14-fixed-…` | `agent-runs/…-v13-batched-…`、`agent-runs/…-v14-fixed-…` |
 | `overrides/` | `/tmp/overrides`（已删除，见清理清单；77 个覆盖草稿已入库） |
 | `tools/extract_defects.py`、`tools/defects_worklist_20260811.md` | `/tmp/extract_defects.py`、`/tmp/defects_worklist.md`（已删除，已入库） |
 
-复制方式为 `cp -RL`（符号链接已解引用）；GitHub 副本与原始资产字节一致（含 MinIO asset 端点
-`192.168.8.209:9000` 原样保留——用户判定内容为公开 PDF 的 MinerU 解析产物，不涉密，原样入库保证可恢复性）。
+复制方式为 `cp -RL`（符号链接已解引用）；GitHub 副本与原始资产字节一致（含内网 MinIO 资产端点原样保留——用户判定内容为公开 PDF 的 MinerU 解析产物，不涉密，原样入库保证可恢复性；端点地址见 experiment-data/README.md 的敏感度决策记录）。
 
 ## 3. 当前实验状态
 
-- v6 正式运行（`public10-claim-review-formal-qwen3p6-remote-v6-nothinking-20260810`）：**完成**
+- v6 正式运行（`experiment-data/runs/` 下的 v6 目录，remote 无思考）：**完成**
   332/332 组处理、**140 accepted / 192 withheld**（manifest: status=partial, completed=264, reviews=192）。
 - **Phase 4（修复运行 v7）冻结**：等待授权；后续移 3090 执行。
 - 覆盖草稿：**77/124 完成，缺 47**。
@@ -44,8 +43,8 @@
 
 1. `git clone git@github.com:Eijnewgnaw/OKFolio.git`（实验数据已在 `experiment-data/`）。
 2. 安装依赖：`pip install -r requirements.lock`（如需 RAG 评估再加 `requirements-rag.lock`）。
-3. 本地 vLLM 服务模型（Qwen3 系，服务名/模型名以环境变量注入）：
-   `export OPENAI_BASE_URL=…`、`export OPENAI_MODEL=qwen3p6-35b-a3b`、`export OPENAI_API_KEY=…`、`export NO_PROXY=…`。
+3. 本地 vLLM 服务模型（模型名以环境变量注入）：
+   `export OPENAI_BASE_URL=…`、`export OPENAI_MODEL=<v6 启动时所用模型名>`、`export OPENAI_API_KEY=…`、`export NO_PROXY=…`。
    （参考部署文档 `docs/research/2026-08-11-3090-local-deployment.md`——截至 2026-08-11 **尚未产出**，
    产出后按文档执行。）
 4. 继续实验：
@@ -75,4 +74,4 @@
   `v14_before_resume.sha256`、`v14_after_resume.sha256`
 - 本机快照缓存：`.pytest_cache/`、全部 `__pycache__/`（可再生）
 
-未触碰：`.local-runtime/`、`~/.ssh/`、仓库代码与数据、`DT_LAB`。
+未触碰：`.local-runtime/`、`~/.ssh/`、仓库代码与数据、用户环境变量配置（含 DT 前缀项）。

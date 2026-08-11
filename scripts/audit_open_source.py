@@ -17,6 +17,12 @@ _SKIP_PARTS = {
     ".local-runtime",
     ".snapshot-venv",
     "__pycache__",
+    # Archived run-data snapshot (experiment-data/). The snapshot is kept
+    # byte-for-byte as produced, per the documented sensitivity decision in
+    # experiment-data/README.md: it records the internal MinIO asset endpoint
+    # and the model names used by the runs. It is data, not deployment
+    # configuration, and the audit guards the code/docs tree only.
+    "experiment-data",
 }
 _SENSITIVE_NAMES = {".env", ".env.local"}
 _SENSITIVE_SUFFIXES = {".key", ".p12", ".pem", ".pfx"}

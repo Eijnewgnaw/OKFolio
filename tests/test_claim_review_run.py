@@ -1443,7 +1443,7 @@ def test_seed_accepts_model_id_drift_and_records_model_relaxed(tmp_path: Path):
         templates=TEMPLATES,
     )
     client = NoCallClient()
-    client.model = "qwen3p6-35b-a3b"
+    client.model = "qwen3-35b-a3b"
 
     final = run_claim_review(
         client,
@@ -1472,7 +1472,7 @@ def test_seed_rejects_non_model_client_policy_drift(tmp_path: Path):
         templates=TEMPLATES,
     )
     client = NoCallClient()
-    client.model = "qwen3p6-35b-a3b"
+    client.model = "qwen3-35b-a3b"
     client.send_chat_template_kwargs = True
 
     with pytest.raises(ClaimReviewRunError, match="different stage client policy"):
@@ -1519,7 +1519,7 @@ def test_seed_model_and_coverage_relaxation_combine(tmp_path: Path):
     )
 
     final = run_claim_review(
-        routed("qwen3p6-35b-a3b", coverage_thinking=False),
+        routed("qwen3-35b-a3b", coverage_thinking=False),
         source_run=source_run,
         output_dir=tmp_path / "reviewed",
         structures_dir=structures,
@@ -1643,7 +1643,7 @@ def test_seed_accepts_model_and_thinking_drift_together(tmp_path: Path):
 
     final = run_claim_review(
         _routed_client(
-            "qwen3p6-35b-a3b",
+            "qwen3-35b-a3b",
             contract_thinking=False,
             coverage_thinking=False,
         ),

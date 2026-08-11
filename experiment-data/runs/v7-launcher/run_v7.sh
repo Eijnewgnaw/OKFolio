@@ -70,7 +70,7 @@ PYTHONPATH="$ROOT" nohup python3 "$ROOT/scripts/review_concept_claims.py" \
     --recompile-prompt "$ROOT/prompts/agent_recompile_repair.md" \
     --draft-override-dir "$EXPERIMENT_DATA/overrides" \
     --api-base "$OPENAI_BASE_URL" \
-    --model "qwen3p6-35b-a3b" \
+    --model "$OPENAI_MODEL" \
     --api-key-env OPENAI_API_KEY \
     --timeout 600 \
     --max-tokens 8192 \
