@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[5].evidence_excerpt (ref-a3c6ec471670:bundle-2598a325e829) is missing hard anchors from the claim: ['2019年']; claim='2019年，崇州市举办两次大中型大数据论坛，邀请雅安市川西大数据产业园等园区和企业交流对接。'; excerpt='举办“2019数字四川发展高峰论坛暨崇州市大数据产业发展推介会”和“崇州大数据数字经济发展论坛”两次大中型大数据论坛，邀请雅安市川西大数据产业园等园区和企业交流与对接'",
+  "group_id": "topic-f7e194373051",
+  "ref_ids": [
+    "ref-a3c6ec471670"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

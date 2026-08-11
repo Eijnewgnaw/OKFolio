@@ -1,0 +1,447 @@
+{
+  "contract": {
+    "canonical_question": "在《成都自贸试验区建设三年试验任务行动计划 (2017-2019)》中，针对“实施监管督察”这一任务，具体的责任主体是谁，以及其核心工作要求是什么？",
+    "claims": [
+      {
+        "claim": "实施监管督察的责任单位包括市商务委和市政府督查室。",
+        "claim_id": "claim-c6225abea8edde0c",
+        "evidence_block_ids": [
+          "blk-dae5c758d5991b35eb3f"
+        ],
+        "evidence_excerpt": "（责任单位：市商务委、市政府督查室）",
+        "evidence_id": "ref-e1e5762a6fd8:bundle-107ad54e214b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-e1e5762a6fd8",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "各部门需配合督促检查，以促进工作落实。",
+        "claim_id": "claim-dc79b43f6ee82db9",
+        "evidence_block_ids": [
+          "blk-dae5c758d5991b35eb3f"
+        ],
+        "evidence_excerpt": "各部门要配合督促检查，促进工作落实",
+        "evidence_id": "ref-e1e5762a6fd8:bundle-107ad54e214b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-e1e5762a6fd8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "实施监管督察的目标是确保全市加工贸易创新发展工作再上新台阶。",
+        "claim_id": "claim-4e8449311fda11c2",
+        "evidence_block_ids": [
+          "blk-dae5c758d5991b35eb3f"
+        ],
+        "evidence_excerpt": "确保全市加工贸易创新发展工作再上新台阶",
+        "evidence_id": "ref-e1e5762a6fd8:bundle-107ad54e214b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-e1e5762a6fd8",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c6225abea8edde0c",
+          "claim-dc79b43f6ee82db9",
+          "claim-4e8449311fda11c2"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e1e5762a6fd8:bundle-107ad54e214b",
+        "reason": "该证据包含回答中心问题所需的全部原子事实：责任主体、具体行动要求及预期目标，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-0dfd3bca8a42",
+    "members": [
+      {
+        "contribution": "该证据直接明确了“实施监管督察”任务的责任主体（市商务委、市政府督查室）及核心工作要求（配合督促检查、促进落实、确保工作再上新台阶），完整覆盖了分析框架中关于责任主体和工作目标的固定槽位。",
+        "ref_id": "ref-e1e5762a6fd8",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-dc79b43f6ee82db9",
+        "draft_excerpt": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4e8449311fda11c2",
+        "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c6225abea8edde0c",
+        "draft_excerpt": "责任单位：市商务委、市政府督查室",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-dc79b43f6ee82db9",
+          "claim-4e8449311fda11c2"
+        ],
+        "draft_excerpt": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8f3eeca712b4ad68",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dc79b43f6ee82db9"
+        ],
+        "draft_excerpt": "实施监管督察的核心在于各部门配合督促检查，以促进工作落实。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bd04cd58f86ac040",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4e8449311fda11c2"
+        ],
+        "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7276eded1b2b01d9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c6225abea8edde0c"
+        ],
+        "draft_excerpt": "责任单位：市商务委、市政府督查室",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7fe85709e5e8a257",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-dc79b43f6ee82db9",
+          "draft_excerpt": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4e8449311fda11c2",
+          "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c6225abea8edde0c",
+          "draft_excerpt": "责任单位：市商务委、市政府督查室",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-dc79b43f6ee82db9",
+            "claim-4e8449311fda11c2"
+          ],
+          "draft_excerpt": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+          "finding": "supported",
+          "sentence_id": "sentence-8f3eeca712b4ad68",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dc79b43f6ee82db9"
+          ],
+          "draft_excerpt": "实施监管督察的核心在于各部门配合督促检查，以促进工作落实。",
+          "finding": "supported",
+          "sentence_id": "sentence-bd04cd58f86ac040",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4e8449311fda11c2"
+          ],
+          "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+          "finding": "supported",
+          "sentence_id": "sentence-7276eded1b2b01d9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c6225abea8edde0c"
+          ],
+          "draft_excerpt": "责任单位：市商务委、市政府督查室",
+          "finding": "supported",
+          "sentence_id": "sentence-7fe85709e5e8a257",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "cda02346c6d02653916a935ab0f759a21917444d3603ac4715d866ec9bdc22e1",
+  "coverage_history": [
+    {
+      "draft_sha256": "3056a3979ed9cf7cd8835ad10f378b1676c6f15bb4148f2472e6c998d20c6e91",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dc79b43f6ee82db9",
+            "draft_excerpt": "实施监管督察的核心在于各部门配合督促检查，以促进工作落实。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4e8449311fda11c2",
+            "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c6225abea8edde0c",
+            "draft_excerpt": "责任单位：市商务委、市政府督查室",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dc79b43f6ee82db9",
+              "claim-4e8449311fda11c2"
+            ],
+            "draft_excerpt": "通过各部门配合督促检查促进工作落实，确保加工贸易创新发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92430cbf8ad02e70",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc79b43f6ee82db9"
+            ],
+            "draft_excerpt": "实施监管督察的核心在于各部门配合督促检查，以促进工作落实。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd04cd58f86ac040",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4e8449311fda11c2"
+            ],
+            "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7276eded1b2b01d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该措施由特定责任单位负责执行，以保障政策落地。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f01ef874edb3c3fb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c6225abea8edde0c"
+            ],
+            "draft_excerpt": "责任单位：市商务委、市政府督查室",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5a98133b143b77b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该措施由特定责任单位负责执行，以保障政策落地。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "cda02346c6d02653916a935ab0f759a21917444d3603ac4715d866ec9bdc22e1",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-dc79b43f6ee82db9",
+            "draft_excerpt": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4e8449311fda11c2",
+            "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c6225abea8edde0c",
+            "draft_excerpt": "责任单位：市商务委、市政府督查室",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dc79b43f6ee82db9",
+              "claim-4e8449311fda11c2"
+            ],
+            "draft_excerpt": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f3eeca712b4ad68",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc79b43f6ee82db9"
+            ],
+            "draft_excerpt": "实施监管督察的核心在于各部门配合督促检查，以促进工作落实。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd04cd58f86ac040",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4e8449311fda11c2"
+            ],
+            "draft_excerpt": "该机制旨在确保全市加工贸易创新发展工作再上新台阶。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7276eded1b2b01d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c6225abea8edde0c"
+            ],
+            "draft_excerpt": "责任单位：市商务委、市政府督查室",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7fe85709e5e8a257",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n实施监管督察的核心在于各部门配合督促检查，以促进工作落实。该机制旨在确保全市加工贸易创新发展工作再上新台阶。\n\n- 责任单位：市商务委、市政府督查室",
+    "description": "各部门配合督促检查以促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-0dfd3bca8a42",
+      "description": "各部门要配合督促检查，促进工作落实，确保全市加工贸易创新发展工作再上新台阶。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "（责任单位：市商务委、市政府督查室）",
+        "各部门要配合督促检查，促进工作落实",
+        "确保全市加工贸易创新发展工作再上新台阶"
+      ],
+      "evidence_block_ids": [
+        "blk-dae5c758d5991b35eb3f"
+      ],
+      "page_end": 182,
+      "page_start": 182,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（八）实施监管督察"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施监管督察",
+      "type": "分析框架"
+    },
+    "title": "实施监管督察"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e1e5762a6fd8:bundle-107ad54e214b",
+      "excluded_fragments": [],
+      "ref_id": "ref-e1e5762a6fd8",
+      "source_blocks": [
+        {
+          "block_id": "blk-dae5c758d5991b35eb3f",
+          "page_number": 182,
+          "text": "各部门要配合督促检查，促进工作落实，确保全市加工贸易创新发展工作再上新台阶。（责任单位：市商务委、市政府督查室）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-0dfd3bca8a42",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-e1e5762a6fd8"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

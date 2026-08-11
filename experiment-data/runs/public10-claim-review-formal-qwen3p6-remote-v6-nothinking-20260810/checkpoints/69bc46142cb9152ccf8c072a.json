@@ -1,0 +1,953 @@
+{
+  "contract": {
+    "canonical_question": "“长江班列”铁水联运新通道的建设背景、运营主体、具体运营模式及实际成效是什么？",
+    "claims": [
+      {
+        "claim": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道。",
+        "claim_id": "claim-c0328429b691e537",
+        "evidence_block_ids": [
+          "blk-4832aee718a2e5ebc682"
+        ],
+        "evidence_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          200
+        ],
+        "ref_id": "ref-18a22df255e3",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+        "claim_id": "claim-35ed0533435db974",
+        "evidence_block_ids": [
+          "blk-4832aee718a2e5ebc682"
+        ],
+        "evidence_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          200
+        ],
+        "ref_id": "ref-18a22df255e3",
+        "scope": {
+          "time": [
+            "2023年12月10日",
+            "12月22日"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "“长江班列”全程采用图定班列，计划每周开行3班，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障。",
+        "claim_id": "claim-187008473fa919d1",
+        "evidence_block_ids": [
+          "blk-40fa69df44fda69042dc"
+        ],
+        "evidence_excerpt": "一是实行常态化双向开行。“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          200
+        ],
+        "ref_id": "ref-18a22df255e3",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+        "claim_id": "claim-edc8b1912d83b979",
+        "evidence_block_ids": [
+          "blk-01bea7232eefc8ee4cde",
+          "blk-f7a9ce9d51586e1be0eb"
+        ],
+        "evidence_excerpt": "二是构建多线协作货物联运模式。依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          200,
+          201
+        ],
+        "ref_id": "ref-18a22df255e3",
+        "scope": {
+          "region": [
+            "成都",
+            "湖北荆州",
+            "江苏",
+            "上海"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+        "claim_id": "claim-e8d608d9632cf4c8",
+        "evidence_block_ids": [
+          "blk-9bd29f6f979fd2252b8e"
+        ],
+        "evidence_excerpt": "三是持续拓展货运物资种类。开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          201
+        ],
+        "ref_id": "ref-18a22df255e3",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右。",
+        "claim_id": "claim-681be5913f52839d",
+        "evidence_block_ids": [
+          "blk-4b4961ee4a1a9993bfc6"
+        ],
+        "evidence_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右①，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          201
+        ],
+        "ref_id": "ref-18a22df255e3",
+        "scope": {
+          "region": [
+            "成都",
+            "上海",
+            "湖北荆州",
+            "江苏"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c0328429b691e537",
+          "claim-35ed0533435db974",
+          "claim-187008473fa919d1",
+          "claim-edc8b1912d83b979",
+          "claim-e8d608d9632cf4c8",
+          "claim-681be5913f52839d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+        "reason": "该Bundle包含回答中心问题所需的所有关键事实，包括建设背景、实施主体、运营细节及成效数据，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-12012ab65ca7",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了“长江班列”的建设背景（减轻三峡负荷）、合作主体（蜀道、湖北港口、中铁武汉局）、运营模式（常态化双向开行、多线协作、拓展货种）及实际成效（缩短时间、降低成本、促进产业转移），完整覆盖了分析框架的核心要素。",
+        "ref_id": "ref-18a22df255e3",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-c0328429b691e537",
+        "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-35ed0533435db974",
+        "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-187008473fa919d1",
+        "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-edc8b1912d83b979",
+        "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e8d608d9632cf4c8",
+        "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-681be5913f52839d",
+        "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-c0328429b691e537"
+        ],
+        "draft_excerpt": "为减轻三峡枢纽过闸负荷，多方合作开行武汉至成都“长江班列”铁水联运通道，打造绕过三峡“堵点”的新物流通道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-18db20241259b064",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c0328429b691e537"
+        ],
+        "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-15ed32b2fd1592ef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-35ed0533435db974"
+        ],
+        "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f2fa0af95b3ac8ff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-35ed0533435db974"
+        ],
+        "draft_excerpt": "12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8dd577c2d67ce92f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-187008473fa919d1"
+        ],
+        "draft_excerpt": "一是实行常态化双向开行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3aa858dc7febf09a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-187008473fa919d1"
+        ],
+        "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1630a3dbedad6cbc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-edc8b1912d83b979"
+        ],
+        "draft_excerpt": "二是构建多线协作货物联运模式。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8425fe31b2ae6a47",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-edc8b1912d83b979"
+        ],
+        "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bc7fc7441e7bb661",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e8d608d9632cf4c8"
+        ],
+        "draft_excerpt": "三是持续拓展货运物资种类。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6b2def567e492968",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e8d608d9632cf4c8"
+        ],
+        "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2eb1ee8040edfec0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-681be5913f52839d"
+        ],
+        "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-be582456feefc7da",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-c0328429b691e537",
+          "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-35ed0533435db974",
+          "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-187008473fa919d1",
+          "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-edc8b1912d83b979",
+          "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e8d608d9632cf4c8",
+          "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-681be5913f52839d",
+          "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-c0328429b691e537"
+          ],
+          "draft_excerpt": "为减轻三峡枢纽过闸负荷，多方合作开行武汉至成都“长江班列”铁水联运通道，打造绕过三峡“堵点”的新物流通道。",
+          "finding": "supported",
+          "sentence_id": "sentence-18db20241259b064",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c0328429b691e537"
+          ],
+          "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+          "finding": "supported",
+          "sentence_id": "sentence-15ed32b2fd1592ef",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-35ed0533435db974"
+          ],
+          "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+          "finding": "supported",
+          "sentence_id": "sentence-f2fa0af95b3ac8ff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-35ed0533435db974"
+          ],
+          "draft_excerpt": "12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。",
+          "finding": "supported",
+          "sentence_id": "sentence-8dd577c2d67ce92f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-187008473fa919d1"
+          ],
+          "draft_excerpt": "一是实行常态化双向开行。",
+          "finding": "supported",
+          "sentence_id": "sentence-3aa858dc7febf09a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-187008473fa919d1"
+          ],
+          "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+          "finding": "supported",
+          "sentence_id": "sentence-1630a3dbedad6cbc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-edc8b1912d83b979"
+          ],
+          "draft_excerpt": "二是构建多线协作货物联运模式。",
+          "finding": "supported",
+          "sentence_id": "sentence-8425fe31b2ae6a47",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-edc8b1912d83b979"
+          ],
+          "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+          "finding": "supported",
+          "sentence_id": "sentence-bc7fc7441e7bb661",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e8d608d9632cf4c8"
+          ],
+          "draft_excerpt": "三是持续拓展货运物资种类。",
+          "finding": "supported",
+          "sentence_id": "sentence-6b2def567e492968",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e8d608d9632cf4c8"
+          ],
+          "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+          "finding": "supported",
+          "sentence_id": "sentence-2eb1ee8040edfec0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-681be5913f52839d"
+          ],
+          "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+          "finding": "supported",
+          "sentence_id": "sentence-be582456feefc7da",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "edd5df19efe3ebc5ea31f0eac06f0e0882d0b75ec87b707b9491dd936c8daca1",
+  "coverage_history": [
+    {
+      "draft_sha256": "aa7babadaf8a5c126a4e0528ab022ed149904a4ee9edde743481d553a6856e91",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c0328429b691e537",
+            "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-35ed0533435db974",
+            "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-187008473fa919d1",
+            "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edc8b1912d83b979",
+            "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e8d608d9632cf4c8",
+            "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-681be5913f52839d",
+            "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右①，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-c0328429b691e537"
+            ],
+            "draft_excerpt": "为减轻三峡枢纽过闸负荷，多方合作开行武汉至成都“长江班列”铁水联运通道，打造绕过三峡“堵点”的新物流通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18db20241259b064",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c0328429b691e537"
+            ],
+            "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15ed32b2fd1592ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35ed0533435db974"
+            ],
+            "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2fa0af95b3ac8ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35ed0533435db974"
+            ],
+            "draft_excerpt": "12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8dd577c2d67ce92f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-187008473fa919d1"
+            ],
+            "draft_excerpt": "一是实行常态化双向开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aa858dc7febf09a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-187008473fa919d1"
+            ],
+            "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1630a3dbedad6cbc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-681be5913f52839d"
+            ],
+            "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右①，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-057a8ecff1d8c109",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edc8b1912d83b979"
+            ],
+            "draft_excerpt": "二是构建多线协作货物联运模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3dac5473c184f12a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edc8b1912d83b979"
+            ],
+            "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8af618d558d5a9b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时推动“长江班列”向江海延伸，形成“江海直达+长江班列”江铁海联运新模式。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3a0f60226699881",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-e8d608d9632cf4c8"
+            ],
+            "draft_excerpt": "三是持续拓展货运物资种类。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-65d849c11fbf7321",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e8d608d9632cf4c8"
+            ],
+            "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41e5cd2e7eb08163",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "图5-6 成都开往湖北荆州的铁水联运“长江班列”首发",
+            "finding": "caption_only",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69143814fb4013f6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "同时推动“长江班列”向江海延伸，形成“江海直达+长江班列”江铁海联运新模式。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "图5-6 成都开往湖北荆州的铁水联运“长江班列”首发",
+            "finding": "caption_only"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "edd5df19efe3ebc5ea31f0eac06f0e0882d0b75ec87b707b9491dd936c8daca1",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-c0328429b691e537",
+            "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-35ed0533435db974",
+            "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-187008473fa919d1",
+            "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edc8b1912d83b979",
+            "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e8d608d9632cf4c8",
+            "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-681be5913f52839d",
+            "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-c0328429b691e537"
+            ],
+            "draft_excerpt": "为减轻三峡枢纽过闸负荷，多方合作开行武汉至成都“长江班列”铁水联运通道，打造绕过三峡“堵点”的新物流通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18db20241259b064",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c0328429b691e537"
+            ],
+            "draft_excerpt": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15ed32b2fd1592ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35ed0533435db974"
+            ],
+            "draft_excerpt": "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2fa0af95b3ac8ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35ed0533435db974"
+            ],
+            "draft_excerpt": "12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8dd577c2d67ce92f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-187008473fa919d1"
+            ],
+            "draft_excerpt": "一是实行常态化双向开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aa858dc7febf09a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-187008473fa919d1"
+            ],
+            "draft_excerpt": "“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1630a3dbedad6cbc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edc8b1912d83b979"
+            ],
+            "draft_excerpt": "二是构建多线协作货物联运模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8425fe31b2ae6a47",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edc8b1912d83b979"
+            ],
+            "draft_excerpt": "依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bc7fc7441e7bb661",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e8d608d9632cf4c8"
+            ],
+            "draft_excerpt": "三是持续拓展货运物资种类。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6b2def567e492968",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e8d608d9632cf4c8"
+            ],
+            "draft_excerpt": "开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2eb1ee8040edfec0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-681be5913f52839d"
+            ],
+            "draft_excerpt": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be582456feefc7da",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。\n\n一是实行常态化双向开行。“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。\n\n二是构建多线协作货物联运模式。依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。\n\n三是持续拓展货运物资种类。开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。\n\n## 证据与影响\n\n铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。",
+    "description": "为减轻三峡枢纽过闸负荷，多方合作开行武汉至成都“长江班列”铁水联运通道，打造绕过三峡“堵点”的新物流通道。",
+    "ref": {
+      "asset_hints": [
+        "image-143"
+      ],
+      "concept_id": "topic-12012ab65ca7",
+      "description": "为减轻三峡枢纽过闸负荷，多方合作开行武汉至成都“长江班列”铁水联运通道，打造绕过三峡“堵点”的新物流通道。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。",
+        "2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。",
+        "一是实行常态化双向开行。“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。",
+        "二是构建多线协作货物联运模式。依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联动”的货物运行网络格局。",
+        "三是持续拓展货运物资种类。开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。",
+        "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右①，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。"
+      ],
+      "evidence_block_ids": [
+        "blk-4832aee718a2e5ebc682",
+        "blk-40fa69df44fda69042dc",
+        "blk-01bea7232eefc8ee4cde",
+        "blk-f7a9ce9d51586e1be0eb",
+        "blk-9bd29f6f979fd2252b8e",
+        "blk-4b4961ee4a1a9993bfc6"
+      ],
+      "page_end": 201,
+      "page_start": 200,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "典型案例篇",
+        "八、“长江班列”首发开行，成都至长江中下游铁水联运持续提速",
+        "（一）基本情况"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "“长江班列”铁水联运新通道建设",
+      "type": "分析框架"
+    },
+    "title": "“长江班列”铁水联运新通道建设"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-18a22df255e3:bundle-a168352a000b",
+      "excluded_fragments": [],
+      "ref_id": "ref-18a22df255e3",
+      "source_blocks": [
+        {
+          "block_id": "blk-4832aee718a2e5ebc682",
+          "page_number": 200,
+          "text": "为落实国家加快建设综合立体交通走廊战略部署，有效减轻三峡枢纽过闸负荷，由蜀道投资集团、湖北港口集团与中铁武汉局集团通力合作，开行长江班列（武汉-成都）铁水联运通道，打造出绕过三峡“堵点”的新通道。2023年12月10日，四川首趟铁水联运“长江班列”从成都青白江区城厢站发出，将在湖北荆州港“铁转水”。12月22日，由武汉开往成都的“长江班列”从阳逻铁水联运一期首发，开放成都城厢站。"
+        },
+        {
+          "block_id": "blk-e0bcb8702481feaa9737",
+          "page_number": 200,
+          "text": "原始 PDF 第 200 页图片"
+        },
+        {
+          "block_id": "blk-a2114a1c4a787873db45",
+          "page_number": 200,
+          "text": "图5-6 成都开往湖北荆州的铁水联运“长江班列”首发"
+        },
+        {
+          "block_id": "blk-40fa69df44fda69042dc",
+          "page_number": 200,
+          "text": "一是实行常态化双向开行。“长江班列”全程采用图定班列，实现优先配车、优先装车、优先挂运、优先放行，形成发运时间固定、运输时效固定、运能规模固定、运行线路固定的服务保障，计划每周开行3班，打造高效、稳定、集约的生产原料进川和特色产品出川货物通道，打通长江经济带沿线合作“大动脉”。"
+        },
+        {
+          "block_id": "blk-01bea7232eefc8ee4cde",
+          "page_number": 200,
+          "text": "二是构建多线协作货物联运模式。依托通道建设开辟新线路，班列由成都开往湖北荆州，再通过长江水运分拨至江苏、上海等地，成都联动德阳、绵阳等省内城市，逐步拓展到30条联运线路、17个到发站，初步形成“以成都至荆州为主线、多线协同联"
+        },
+        {
+          "block_id": "blk-f7a9ce9d51586e1be0eb",
+          "page_number": 201,
+          "text": "动”的货物运行网络格局。同时推动“长江班列”向江海延伸，形成“江海直达+长江班列”江铁海联运新模式。"
+        },
+        {
+          "block_id": "blk-9bd29f6f979fd2252b8e",
+          "page_number": 201,
+          "text": "三是持续拓展货运物资种类。开行初期从成都下行运载钛白粉、元明粉、玻璃纤维等资源型生产原料，从武汉上行主要运送光伏模组、轮胎、麦芽、煤炭、化肥等特色货物，逐步扩展到汽车零配件、机械装备、食品医药、百货类等高附加值产品。"
+        },
+        {
+          "block_id": "blk-4b4961ee4a1a9993bfc6",
+          "page_number": 201,
+          "text": "铁水联运“长江班列”有效减轻三峡枢纽过闸负荷，大幅缩短货物运输时间，以从成都至上海地区为例，货物经“长江班列”到达湖北荆州后无缝衔接长江水运，再分拨至江苏、上海等地，运输时间将由原来的15-20天缩短为10天左右①，物流成本大幅节省，进一步强化沿线政府、企业的联系协作，有利于推动实现东部沿海产业向西部地区阶梯转移和业态模式、服务场景、供应链金融等探索创新。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-12012ab65ca7",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-18a22df255e3"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

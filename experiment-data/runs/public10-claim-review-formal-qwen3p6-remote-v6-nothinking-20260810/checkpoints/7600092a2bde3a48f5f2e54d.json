@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-9108d18bfb56:bundle-70847c12bfb6) is missing hard anchors from the claim: ['2020年']; claim='2020年以来，崇州市与青神县构建产城一体典范，力兴机械产业园区项目完工并交付厂房40000平米及办公配套楼5000平米。'; excerpt='一是与青神构建产城一体典范。成都力兴投资有限公司同青神县工业区管委会签约力兴机械产业园区企业孵化园建设项目，项目已完工并交付厂房40000平米，办公配套楼5000平米'",
+  "group_id": "topic-c751c6401780",
+  "ref_ids": [
+    "ref-9108d18bfb56"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

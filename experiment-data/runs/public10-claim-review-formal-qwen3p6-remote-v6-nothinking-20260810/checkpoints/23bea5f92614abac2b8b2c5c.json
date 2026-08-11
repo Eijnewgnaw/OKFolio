@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-cb61ea3e3277:bundle-6a0c92619a5f) is missing hard anchors from the claim: ['2023年']; claim='2023年，四川天府新区联合召开天府新区两江新区党政联席会议，“八大产业旗舰联盟”汇集头部企业90家、会员企业800余家。'; excerpt='联合召开天府新区两江新区党政联席会议，“八大产业旗舰联盟”汇集头部企业90家、会员企业800余家。'",
+  "group_id": "topic-c3c37bad6fe0",
+  "ref_ids": [
+    "ref-cb61ea3e3277"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

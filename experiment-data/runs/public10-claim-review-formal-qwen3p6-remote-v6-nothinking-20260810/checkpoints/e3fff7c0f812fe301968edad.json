@@ -1,0 +1,1422 @@
+{
+  "contract": {
+    "canonical_question": "青白江区依托成都国际铁路港枢纽优势，通过哪些具体合作领域和举措推动区域合作向宽领域和深层次发展？",
+    "claims": [
+      {
+        "claim": "青白江区联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列。",
+        "claim_id": "claim-4d68e4be34fb7824",
+        "evidence_block_ids": [
+          "blk-8322f3267e1f70d1a0dc"
+        ],
+        "evidence_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "region": [
+            "广西钦州",
+            "凭祥",
+            "深圳",
+            "广州"
+          ],
+          "time": "2019年以来"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "青白江区与上海、宁波等“蓉欧+”港口协作，开行东向班列783列。",
+        "claim_id": "claim-88d132421a64a5ec",
+        "evidence_block_ids": [
+          "blk-8322f3267e1f70d1a0dc"
+        ],
+        "evidence_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "region": [
+            "上海",
+            "宁波"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "青白江区与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+        "claim_id": "claim-0715c55c78d79c74",
+        "evidence_block_ids": [
+          "blk-8322f3267e1f70d1a0dc"
+        ],
+        "evidence_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜；",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "region": [
+            "德阳",
+            "乐山",
+            "泸州",
+            "宜宾"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "青白江区与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作。",
+        "claim_id": "claim-98096efc704544db",
+        "evidence_block_ids": [
+          "blk-d8f3e4a1c9e3eb874b21"
+        ],
+        "evidence_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区；",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "region": [
+            "新都区",
+            "金堂县"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "青白江区依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式。",
+        "claim_id": "claim-48273eb623882b78",
+        "evidence_block_ids": [
+          "blk-6f779a5bb5f14bfa795d"
+        ],
+        "evidence_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧 \\(+\\) ”物流基地",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "region": [
+            "青白江"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+        "claim_id": "claim-a8a965c0040058c8",
+        "evidence_block_ids": [
+          "blk-c0faea8fd034b7fa1b16"
+        ],
+        "evidence_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "time": "2019年以来"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用。",
+        "claim_id": "claim-4f522929450a61c1",
+        "evidence_block_ids": [
+          "blk-a7b304fc2945a805cfb2"
+        ],
+        "evidence_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-02ee759403fb",
+        "scope": {
+          "region": [
+            "上海",
+            "深圳",
+            "广西",
+            "云南"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+        "claim_id": "claim-cad054531ccc3cd4",
+        "evidence_block_ids": [
+          "blk-e36efbb58b9903e06098"
+        ],
+        "evidence_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+        "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          125
+        ],
+        "ref_id": "ref-ed1428f5e817",
+        "scope": {
+          "time": "2018年以来"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "青白江区与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+        "claim_id": "claim-a5700683ced73107",
+        "evidence_block_ids": [
+          "blk-32932e364a4f7a5a6c69"
+        ],
+        "evidence_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+        "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          125
+        ],
+        "ref_id": "ref-ed1428f5e817",
+        "scope": {
+          "region": [
+            "广西防城港市"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+        "claim_id": "claim-659f8e6c156d2d6d",
+        "evidence_block_ids": [
+          "blk-0616c895e5805e4854cb"
+        ],
+        "evidence_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+        "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          125
+        ],
+        "ref_id": "ref-ed1428f5e817",
+        "scope": {
+          "time": "截至2018年底"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "青白江区以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+        "claim_id": "claim-7d275a66b9787ffc",
+        "evidence_block_ids": [
+          "blk-d32dce855e4ab439c2bb"
+        ],
+        "evidence_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体；",
+        "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          125
+        ],
+        "ref_id": "ref-ed1428f5e817",
+        "scope": {
+          "region": [
+            "双流区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "下一步，青白江区应探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+        "claim_id": "claim-e09403c887660b91",
+        "evidence_block_ids": [
+          "blk-12a851bf49dcd0db8494"
+        ],
+        "evidence_excerpt": "下一步，青白江区应探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+        "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          125
+        ],
+        "ref_id": "ref-ed1428f5e817",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-4d68e4be34fb7824",
+          "claim-88d132421a64a5ec",
+          "claim-0715c55c78d79c74",
+          "claim-98096efc704544db",
+          "claim-48273eb623882b78",
+          "claim-a8a965c0040058c8",
+          "claim-4f522929450a61c1"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+        "reason": "包含南向/东向班列开行数量、具体合作城市、农业合作模式、公共服务合作细节及下一步计划，是回答中心问题的核心证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-cad054531ccc3cd4",
+          "claim-a5700683ced73107",
+          "claim-659f8e6c156d2d6d",
+          "claim-7d275a66b9787ffc",
+          "claim-e09403c887660b91"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+        "reason": "提供2018年以来区域合作的总体背景、基础设施共建、物流腹地拓展及公共服务生态合作的具体协议签署情况与合作框架。"
+      }
+    ],
+    "group_id": "topic-deacbebcfc4b",
+    "members": [
+      {
+        "contribution": "提供南向、东向班列开行数据及具体合作城市名单，详述物流、农业、公共服务、生态环保及经贸合作的具体成果与下一步计划。",
+        "ref_id": "ref-02ee759403fb",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2018年以来区域合作的总体背景、基础设施共建、物流腹地拓展及公共服务生态合作的具体协议签署情况与合作框架。",
+        "ref_id": "ref-ed1428f5e817",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-cad054531ccc3cd4",
+        "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a8a965c0040058c8",
+        "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4f522929450a61c1",
+        "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e09403c887660b91",
+        "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-659f8e6c156d2d6d",
+        "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4d68e4be34fb7824",
+        "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-88d132421a64a5ec",
+        "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0715c55c78d79c74",
+        "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a5700683ced73107",
+        "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-98096efc704544db",
+        "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-48273eb623882b78",
+        "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7d275a66b9787ffc",
+        "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-cad054531ccc3cd4"
+        ],
+        "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港枢纽条件，推动区域合作向更宽领域、更深层次拓展；",
+        "finding": "Summarizes claim-cad054531ccc3cd4, omitting 'resource/policy/industry advantages' and 'infrastructure/ecology focus' details, but core judgment is supported.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7593fb1517d0d0c3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8a965c0040058c8",
+          "claim-4f522929450a61c1",
+          "claim-e09403c887660b91"
+        ],
+        "draft_excerpt": "2019年以来，以“蓉欧+”战略、金青新大港区等为重点取得成效，并计划对接自贸区及探索全方位合作新路径。",
+        "finding": "Summarizes claims a8a965c0040058c8, 4f522929450a61c1, and e09403c887660b91. Omits specific details like 'education/medical' and 'infrastructure/tech', but core",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-85cbd6949ef6324c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cad054531ccc3cd4"
+        ],
+        "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+        "finding": "Exact match for claim-cad054531ccc3cd4.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-35549a2339f84a1b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8a965c0040058c8"
+        ],
+        "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+        "finding": "Exact match for claim-a8a965c0040058c8.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-edef83a62b6bcee7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4f522929450a61c1"
+        ],
+        "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+        "finding": "Exact match for claim-4f522929450a61c1.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-eda9093e44a2824f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e09403c887660b91"
+        ],
+        "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+        "finding": "Exact match for claim-e09403c887660b91.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b0e695b89965e3e4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-659f8e6c156d2d6d"
+        ],
+        "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+        "finding": "Exact match for claim-659f8e6c156d2d6d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-73f0751d033bfc86",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4d68e4be34fb7824"
+        ],
+        "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+        "finding": "Exact match for claim-4d68e4be34fb7824.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-20be78cddf856cf9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-88d132421a64a5ec"
+        ],
+        "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+        "finding": "Exact match for claim-88d132421a64a5ec.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1150dc5bd613a38e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0715c55c78d79c74"
+        ],
+        "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+        "finding": "Exact match for claim-0715c55c78d79c74.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aed1778e54db4ffc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a5700683ced73107"
+        ],
+        "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+        "finding": "Exact match for claim-a5700683ced73107.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e5d4973c5118cac0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-98096efc704544db"
+        ],
+        "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+        "finding": "Exact match for claim-98096efc704544db.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5dcb38e3fcad2b7e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-48273eb623882b78"
+        ],
+        "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-43261a31b2418da8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7d275a66b9787ffc"
+        ],
+        "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c40c2cdacff85fb5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-cad054531ccc3cd4",
+          "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a8a965c0040058c8",
+          "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4f522929450a61c1",
+          "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e09403c887660b91",
+          "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-659f8e6c156d2d6d",
+          "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4d68e4be34fb7824",
+          "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-88d132421a64a5ec",
+          "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0715c55c78d79c74",
+          "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a5700683ced73107",
+          "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-98096efc704544db",
+          "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-cad054531ccc3cd4"
+          ],
+          "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港枢纽条件，推动区域合作向更宽领域、更深层次拓展；",
+          "finding": "Summarizes claim-cad054531ccc3cd4, omitting 'resource/policy/industry advantages' and 'infrastructure/ecology focus' details, but core judgment is supported.",
+          "sentence_id": "sentence-7593fb1517d0d0c3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8a965c0040058c8",
+            "claim-4f522929450a61c1",
+            "claim-e09403c887660b91"
+          ],
+          "draft_excerpt": "2019年以来，以“蓉欧+”战略、金青新大港区等为重点取得成效，并计划对接自贸区及探索全方位合作新路径。",
+          "finding": "Summarizes claims a8a965c0040058c8, 4f522929450a61c1, and e09403c887660b91. Omits specific details like 'education/medical' and 'infrastructure/tech', but core",
+          "sentence_id": "sentence-85cbd6949ef6324c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cad054531ccc3cd4"
+          ],
+          "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+          "finding": "Exact match for claim-cad054531ccc3cd4.",
+          "sentence_id": "sentence-35549a2339f84a1b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8a965c0040058c8"
+          ],
+          "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+          "finding": "Exact match for claim-a8a965c0040058c8.",
+          "sentence_id": "sentence-edef83a62b6bcee7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4f522929450a61c1"
+          ],
+          "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+          "finding": "Exact match for claim-4f522929450a61c1.",
+          "sentence_id": "sentence-eda9093e44a2824f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e09403c887660b91"
+          ],
+          "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+          "finding": "Exact match for claim-e09403c887660b91.",
+          "sentence_id": "sentence-b0e695b89965e3e4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-659f8e6c156d2d6d"
+          ],
+          "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+          "finding": "Exact match for claim-659f8e6c156d2d6d.",
+          "sentence_id": "sentence-73f0751d033bfc86",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4d68e4be34fb7824"
+          ],
+          "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+          "finding": "Exact match for claim-4d68e4be34fb7824.",
+          "sentence_id": "sentence-20be78cddf856cf9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-88d132421a64a5ec"
+          ],
+          "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+          "finding": "Exact match for claim-88d132421a64a5ec.",
+          "sentence_id": "sentence-1150dc5bd613a38e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0715c55c78d79c74"
+          ],
+          "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+          "finding": "Exact match for claim-0715c55c78d79c74.",
+          "sentence_id": "sentence-aed1778e54db4ffc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a5700683ced73107"
+          ],
+          "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+          "finding": "Exact match for claim-a5700683ced73107.",
+          "sentence_id": "sentence-e5d4973c5118cac0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-98096efc704544db"
+          ],
+          "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+          "finding": "Exact match for claim-98096efc704544db.",
+          "sentence_id": "sentence-5dcb38e3fcad2b7e",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-48273eb623882b78",
+          "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7d275a66b9787ffc",
+          "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-48273eb623882b78"
+          ],
+          "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+          "finding": "supported",
+          "sentence_id": "sentence-43261a31b2418da8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7d275a66b9787ffc"
+          ],
+          "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+          "finding": "supported",
+          "sentence_id": "sentence-c40c2cdacff85fb5",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "3b884f4634dcfd91eca09b8d3770f18faab96f5cd9a7061dd8abdeae101934b0",
+  "coverage_history": [
+    {
+      "draft_sha256": "c309ca6763c51a618f4b523b4538ff86daace1acdfd42a6e5bb85c2ed7149784",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cad054531ccc3cd4",
+            "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+            "finding": "sentence-35549a2339f84a1b",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8a965c0040058c8",
+            "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+            "finding": "sentence-edef83a62b6bcee7",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-659f8e6c156d2d6d",
+            "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+            "finding": "sentence-39e34654764fe582",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4f522929450a61c1",
+            "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+            "finding": "sentence-61879e91bd30a837",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e09403c887660b91",
+            "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+            "finding": "sentence-65a47981a7134852",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d68e4be34fb7824",
+            "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+            "finding": "sentence-20be78cddf856cf9",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-88d132421a64a5ec",
+            "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+            "finding": "sentence-1150dc5bd613a38e",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0715c55c78d79c74",
+            "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+            "finding": "sentence-aed1778e54db4ffc",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a5700683ced73107",
+            "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+            "finding": "sentence-e5d4973c5118cac0",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-98096efc704544db",
+            "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+            "finding": "sentence-5dcb38e3fcad2b7e",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-48273eb623882b78",
+            "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+            "finding": "sentence-43261a31b2418da8",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7d275a66b9787ffc",
+            "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "青白江区依托成都国际铁路港枢纽优势，通过共建南向通道、开行班列及拓展公共服务与生态合作，推动区域合作向宽领域和深层次发展。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29debe5e62f9cf3c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cad054531ccc3cd4"
+            ],
+            "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-35549a2339f84a1b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8a965c0040058c8"
+            ],
+            "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-edef83a62b6bcee7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-659f8e6c156d2d6d"
+            ],
+            "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-39e34654764fe582",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4f522929450a61c1"
+            ],
+            "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-61879e91bd30a837",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e09403c887660b91"
+            ],
+            "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-65a47981a7134852",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d68e4be34fb7824"
+            ],
+            "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-20be78cddf856cf9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88d132421a64a5ec"
+            ],
+            "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1150dc5bd613a38e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0715c55c78d79c74"
+            ],
+            "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aed1778e54db4ffc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a5700683ced73107"
+            ],
+            "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5d4973c5118cac0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-98096efc704544db"
+            ],
+            "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5dcb38e3fcad2b7e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-48273eb623882b78"
+            ],
+            "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43261a31b2418da8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7d275a66b9787ffc"
+            ],
+            "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c40c2cdacff85fb5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "青白江区依托成都国际铁路港枢纽优势，通过共建南向通道、开行班列及拓展公共服务与生态合作，推动区域合作向宽领域和深层次发展。",
+            "finding": "sentence-29debe5e62f9cf3c"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "3b884f4634dcfd91eca09b8d3770f18faab96f5cd9a7061dd8abdeae101934b0",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-cad054531ccc3cd4",
+            "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8a965c0040058c8",
+            "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4f522929450a61c1",
+            "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e09403c887660b91",
+            "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-659f8e6c156d2d6d",
+            "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d68e4be34fb7824",
+            "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-88d132421a64a5ec",
+            "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0715c55c78d79c74",
+            "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a5700683ced73107",
+            "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-98096efc704544db",
+            "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-48273eb623882b78",
+            "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7d275a66b9787ffc",
+            "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-cad054531ccc3cd4"
+            ],
+            "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港枢纽条件，推动区域合作向更宽领域、更深层次拓展；",
+            "finding": "Summarizes claim-cad054531ccc3cd4, omitting 'resource/policy/industry advantages' and 'infrastructure/ecology focus' details, but core judgment is supported.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7593fb1517d0d0c3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8a965c0040058c8",
+              "claim-4f522929450a61c1",
+              "claim-e09403c887660b91"
+            ],
+            "draft_excerpt": "2019年以来，以“蓉欧+”战略、金青新大港区等为重点取得成效，并计划对接自贸区及探索全方位合作新路径。",
+            "finding": "Summarizes claims a8a965c0040058c8, 4f522929450a61c1, and e09403c887660b91. Omits specific details like 'education/medical' and 'infrastructure/tech', but core",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-85cbd6949ef6324c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cad054531ccc3cd4"
+            ],
+            "draft_excerpt": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+            "finding": "Exact match for claim-cad054531ccc3cd4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-35549a2339f84a1b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8a965c0040058c8"
+            ],
+            "draft_excerpt": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+            "finding": "Exact match for claim-a8a965c0040058c8.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-edef83a62b6bcee7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4f522929450a61c1"
+            ],
+            "draft_excerpt": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+            "finding": "Exact match for claim-4f522929450a61c1.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eda9093e44a2824f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e09403c887660b91"
+            ],
+            "draft_excerpt": "探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。",
+            "finding": "Exact match for claim-e09403c887660b91.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b0e695b89965e3e4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-659f8e6c156d2d6d"
+            ],
+            "draft_excerpt": "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+            "finding": "Exact match for claim-659f8e6c156d2d6d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73f0751d033bfc86",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d68e4be34fb7824"
+            ],
+            "draft_excerpt": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+            "finding": "Exact match for claim-4d68e4be34fb7824.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-20be78cddf856cf9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88d132421a64a5ec"
+            ],
+            "draft_excerpt": "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+            "finding": "Exact match for claim-88d132421a64a5ec.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1150dc5bd613a38e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0715c55c78d79c74"
+            ],
+            "draft_excerpt": "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。",
+            "finding": "Exact match for claim-0715c55c78d79c74.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aed1778e54db4ffc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a5700683ced73107"
+            ],
+            "draft_excerpt": "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+            "finding": "Exact match for claim-a5700683ced73107.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5d4973c5118cac0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-98096efc704544db"
+            ],
+            "draft_excerpt": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。",
+            "finding": "Exact match for claim-98096efc704544db.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5dcb38e3fcad2b7e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-48273eb623882b78"
+            ],
+            "draft_excerpt": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43261a31b2418da8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7d275a66b9787ffc"
+            ],
+            "draft_excerpt": "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c40c2cdacff85fb5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。\n\n2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。\n\n下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。\n\n- 截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。\n- 联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜。\n- 与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。\n- 与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区。\n- 依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧+”物流基地。\n- 以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体。",
+    "description": "2018年以来，青白江区立足成都国际铁路港枢纽条件，推动区域合作向更宽领域、更深层次拓展；2019年以来，以“蓉欧+”战略、金青新大港区等为重点取得成效，并计划对接自贸区及探索全方位合作新路径。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-deacbebcfc4b",
+      "description": "青白江区依托成都国际铁路港枢纽优势，通过共建南向通道、开行班列及拓展公共服务与生态合作，推动区域合作向宽领域和深层次发展。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；",
+        "与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；",
+        "与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜；",
+        "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区；",
+        "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧 \\(+\\) ”物流基地",
+        "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。",
+        "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；",
+        "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。",
+        "与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。",
+        "截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。",
+        "以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体；",
+        "下一步，青白江区应探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。"
+      ],
+      "evidence_block_ids": [
+        "blk-8322f3267e1f70d1a0dc",
+        "blk-d8f3e4a1c9e3eb874b21",
+        "blk-6f779a5bb5f14bfa795d",
+        "blk-c0faea8fd034b7fa1b16",
+        "blk-a7b304fc2945a805cfb2",
+        "blk-e36efbb58b9903e06098",
+        "blk-32932e364a4f7a5a6c69",
+        "blk-0616c895e5805e4854cb",
+        "blk-d32dce855e4ab439c2bb",
+        "blk-12a851bf49dcd0db8494"
+      ],
+      "page_end": 125,
+      "page_start": 64,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "青白江区区域合作与南向通道建设",
+      "type": "分析框架"
+    },
+    "title": "青白江区区域合作与南向通道建设"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-02ee759403fb:bundle-a9deab5b8952",
+      "excluded_fragments": [],
+      "ref_id": "ref-02ee759403fb",
+      "source_blocks": [
+        {
+          "block_id": "blk-8322f3267e1f70d1a0dc",
+          "page_number": 64,
+          "text": "联合广西钦州、凭祥、深圳、广州、昆明等城市共建南向通道，开行南向班列830列；与上海、宁波等“蓉欧+”港口协作，开行东向班列783列；与德阳、乐山、泸州、宜宾、眉山等14个省内地市州合作，发送中欧班列130柜，东盟班列2058柜；与达州市、德阳国际铁路物流港、自贡高新技术产业园区自流井工业集中区、西昌市政府签订合作协议；与天府新区签订战略合作协议，推动自贸区创新联动；与龙泉驿区合作推动沃尔沃根特零部件通过中欧班列进口项目。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-d8f3e4a1c9e3eb874b21",
+          "page_number": 64,
+          "text": "与新都区、金堂县协同开展《金青新“一带一路”大港区一体化规划》编制工作，共同签订《“金青新大港区”人力资源协同发展战略合作协议》《“金青新大港区·商会圈”战略合作协议》，组织召开“金青新·大港区投资推介会”，着力打造人力、商（协）会资源区域协同示范区；与新都区、金堂县、广汉市、德阳高新区等周边区市县建立“成德交通部门协同发展领导小组”工作模式，推进北部片区交通建设统一规划。"
+        },
+        {
+          "block_id": "blk-6f779a5bb5f14bfa795d",
+          "page_number": 64,
+          "text": "依托青白江国际铁路港，探索“出口结算在港区、种养基地在市州”农业对外开放合作模式，与各市州共建“蓉欧 \\(+\\) ”物流基地；与射洪市、广汉市、资中县等重要农产生产基地达成了“蓉欧 \\(+\\) 基地”合作共建协议，加快构建“一心一园三区+N基地”开放空间格局；赴凉山州盐源县达成合作协议，开展果苗技术推广、农产品商贸物流合作。"
+        },
+        {
+          "block_id": "blk-c0faea8fd034b7fa1b16",
+          "page_number": 64,
+          "text": "2019年以来，青白江区以深入推进实施“蓉欧+”战略、共建金青新大港区、现代农业合作、加强教育医疗事业合作，以及推进生态环境治理、经贸交流合作等为重点，区域合作取得一定成效。"
+        },
+        {
+          "block_id": "blk-52460f78153686551a04",
+          "page_number": 64,
+          "text": "选派25名干部教师赴甘孜九龙县送教送培，与广汉市教学研究教师培训中心签订合作框架协议。与四川大学合作的成都市青白江区口腔医院竣工投运；与华西第二医院合作签订合作办医补充协议，促进成都市第二人民医院欧洲产业城医院项目开工建设；与成都医学院合作，加快建设成都医学院附属中医医院。"
+        },
+        {
+          "block_id": "blk-7f80a507760b5ad18726",
+          "page_number": 64,
+          "text": "与新都区、金堂县分别签订了生态环境保护合作协议，联合举办主题宣传活动，共同推进生态环境共治；与新都区、龙泉驿区等六区（市）县共同签订《关于建立毗河清白江河长制管理协调机制联动推进流域水生态治理保护的合作协议》，统筹流域治理。"
+        },
+        {
+          "block_id": "blk-568eca975ab1146822e1",
+          "page_number": 64,
+          "text": "与深圳罗湖区、雅安名山区、广东省重庆荣昌商会等多地工商联及商会组织签订友好合作协议10份，搭建经贸合作平台；协助雅安名山区、甘孜九龙县开展专题投资推介活动，提升推介影响力。"
+        },
+        {
+          "block_id": "blk-a7b304fc2945a805cfb2",
+          "page_number": 64,
+          "text": "下一步，青白江区应积极对接上海、深圳、广西、云南等地自贸区，发挥自贸区协同开放作用；以成都国际铁路港为依托，推进区域合作协议落地；强化大港区全程供应链服务体系，提升产品进出口服务能力；加强与德阳、内江、遂宁、达州等市（州）物流与产能合作，持续扩大“进出口结算在港区、生产基地在市州”合作模式。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-ed1428f5e817:bundle-8fc859e20ba1",
+      "excluded_fragments": [],
+      "ref_id": "ref-ed1428f5e817",
+      "source_blocks": [
+        {
+          "block_id": "blk-e36efbb58b9903e06098",
+          "page_number": 125,
+          "text": "2018年以来，青白江区立足成都国际铁路港的枢纽条件和自身资源、政策、产业等方面优势，以大通道等基础设施共建、枢纽腹地拓展合作、公共服务及生态合作为重点，推动区域合作向更宽领域、更深层次拓展，取得实效。"
+        },
+        {
+          "block_id": "blk-32932e364a4f7a5a6c69",
+          "page_number": 125,
+          "text": "协同推进大通道等基础设施共建。与广西防城港市签署《共同推进南向通道冷链物流体系建设合作协议》，加快推进国际陆海贸易新通道建设。与德阳国际铁路物流港签订战略合作协议；与泸州联动试验，共享自贸区制度创新和经验成果；与内江、自贡共建“蓉欧+”东盟国际班列基地。加强与新都区、广汉市、彭州市及金堂县等相邻区（市）县对接，基本确定彭青淮快速路线路走向；与新都区、金堂县、龙泉驿区、彭州市及广汉市召开交通工作联席会4次。"
+        },
+        {
+          "block_id": "blk-0616c895e5805e4854cb",
+          "page_number": 125,
+          "text": "积极缔结区域合作关系拓展物流腹地。截至2018年底，青白江区共签订22份区域合作协议，涉及省外合作协议4份、省内市外合作协议13份、市内合作协议5份。按合作内容属性分，涉及政府间合作协议8份、专项合作协议14份，其中物流专项合作协议9份。"
+        },
+        {
+          "block_id": "blk-d32dce855e4ab439c2bb",
+          "page_number": 125,
+          "text": "加强公共服务及生态合作。以“双青教育互动发展联盟”为总体框架，推进青白江区与双流区18所学校结为发展共同体；与成都市第二人民医院、四川大学华西口腔医院、四川大学华西第二医院签订合作办医协议。会同新都区、彭州市、金堂县、龙泉驿区共同签署《毗河青白江河长制管理协调机制联动推进流域水生态治理保护的合作协议》，建立了毗河青白江河长制管理协调机制。"
+        },
+        {
+          "block_id": "blk-12a851bf49dcd0db8494",
+          "page_number": 125,
+          "text": "下一步，青白江区应探索区域协同发展新路径，在基础设施建设、产业发展、科技创新、对外开放、生态保护、公共服务等领域开展全方位合作。以企业为主体，以项目为纽带，促进在物流、园区、教育、工业等领域的专项合作。以项目建设的大突破推动区域协同大发展，加强与成渝城市群及广西、贵州等西部地区城市的务实合作，同时瞄准京津冀、长三角、粤港澳大湾区，强化项目招引。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-deacbebcfc4b",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-02ee759403fb",
+    "ref-ed1428f5e817"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

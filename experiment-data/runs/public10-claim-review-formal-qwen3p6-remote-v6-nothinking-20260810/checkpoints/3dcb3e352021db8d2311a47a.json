@@ -1,0 +1,11 @@
+{
+  "error": "ContractError: evidence_units[0].claims[1].evidence_excerpt (ref-79422a9979cd:bundle-1b846e75f79d) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都与苏州、上海、襄阳、宁波、长沙等地开展产业合作，包括电子信息、医药健康、会展经济、旅游等领域。'; excerpt='二是持续深化产业互动合作。成都与苏州通过开展项目招引，推动蓉苏两地在电子信息、医药健康、智能制造及航空航天等多个领域开展合作；与上海通过企业及项目合作，促进沪蓉两地在电子信息、商务商贸、会展经济、农产品贸易、康养服务等领域实现产业联动发展；成都与襄阳、长沙、宁波等地通过签订合作协议，在医药、文体旅及现代服务业领域展开合'",
+  "group_id": "topic-400d59d61b1e",
+  "ref_ids": [
+    "ref-3a7f6b7437b8",
+    "ref-79422a9979cd",
+    "ref-a3935b6ce74d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

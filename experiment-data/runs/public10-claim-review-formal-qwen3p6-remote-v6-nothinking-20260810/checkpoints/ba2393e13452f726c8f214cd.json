@@ -1,0 +1,1964 @@
+{
+  "contract": {
+    "canonical_question": "成都市如何通过制度约束与政策引导构建内外资公平竞争的市场环境及高水平利用外资体系？",
+    "claims": [
+      {
+        "claim": "各区（市）县政府和市政府各部门需对拟出台的外资政策进行公平竞争审查。",
+        "claim_id": "claim-5a028a0bcd31bafc",
+        "evidence_block_ids": [
+          "blk-dee7db694dd83b26e696"
+        ],
+        "evidence_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+        "evidence_id": "ref-6c8baca2c33f:bundle-188797a7ed7d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-6c8baca2c33f",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市统一内外资市场准入制度、业务办理标准、流程和时限。",
+        "claim_id": "claim-b772bc5abd3db940",
+        "evidence_block_ids": [
+          "blk-dee7db694dd83b26e696"
+        ],
+        "evidence_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+        "evidence_id": "ref-6c8baca2c33f:bundle-188797a7ed7d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-6c8baca2c33f",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市加强社会征信体系建设，健全市场监管体系和机制。",
+        "claim_id": "claim-1be42de1b3b19eb5",
+        "evidence_block_ids": [
+          "blk-dee7db694dd83b26e696"
+        ],
+        "evidence_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。［责任部门：各区（市）县政府，市政府各部门］",
+        "evidence_id": "ref-6c8baca2c33f:bundle-188797a7ed7d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-6c8baca2c33f",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市全面实施准入前国民待遇加负面清单管理，负面清单之外领域不得限制外商投资准入。",
+        "claim_id": "claim-6cdb2e73318622b4",
+        "evidence_block_ids": [
+          "blk-a45d630644680c2a609c"
+        ],
+        "evidence_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          186
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市鼓励外商投资新能源汽车、商用车等先进制造业及“5+5+1”重点产业领域。",
+        "claim_id": "claim-25c0c5430c33e35f",
+        "evidence_block_ids": [
+          "blk-a45d630644680c2a609c"
+        ],
+        "evidence_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“\\(5+5+1\\)”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          186
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {
+          "object": [
+            "新能源汽车",
+            "商用车",
+            "5G基站建设",
+            "城市轨道交通"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构。",
+        "claim_id": "claim-a2d8e5d19e24eb6d",
+        "evidence_block_ids": [
+          "blk-9e156617fff9772c7e2a"
+        ],
+        "evidence_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          186
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {
+          "object": [
+            "金融租赁",
+            "消费金融",
+            "证券公司",
+            "基金管理公司"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市完善跨国公司地区总部认定条件和支持政策，打造国际化标准的外资总部产业链。",
+        "claim_id": "claim-1e9973b280c9a8d0",
+        "evidence_block_ids": [
+          "blk-b147b93e237c4562abb8"
+        ],
+        "evidence_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {
+          "object": "跨国公司地区总部"
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对年外商直接投资5000万美元及以上的新设、增资项目，按当年外商直接投资金额的2%进行奖励，最高1000万元人民币。",
+        "claim_id": "claim-199e98a872a43feb",
+        "evidence_block_ids": [
+          "blk-cda846664b3a2935ee29"
+        ],
+        "evidence_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的 \\(2\\%\\) 进行奖励，单个项目年度奖励金额最高1000万元人民币",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          188
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {
+          "condition": "年外商直接投资5000万美元及以上"
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市设立市、区（市）县两级服务和投诉工作机构，健全外商投资企业服务专员制度。",
+        "claim_id": "claim-eca174b3d3307fb3",
+        "evidence_block_ids": [
+          "blk-224d47cd749b373c951c",
+          "blk-450609c1c75f09108026"
+        ],
+        "evidence_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          188,
+          189
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {
+          "object": "外商投资企业服务专员制度"
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+        "claim_id": "claim-ed4628070a5ca3c9",
+        "evidence_block_ids": [
+          "blk-1b46e102b011b0ff0473"
+        ],
+        "evidence_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          189
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市本意见自2021年6月6日起施行，有效期5年。",
+        "claim_id": "claim-23905352fa176fe3",
+        "evidence_block_ids": [
+          "blk-90dd8516236970cd2b75"
+        ],
+        "evidence_excerpt": "本意见实行中的具体问题由市投促局会同相关部门负责解释。本意见自2021年6月6日起施行，有效期5年。",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-d3960cd1125c",
+        "scope": {
+          "time": "2021年6月6日起施行，有效期5年"
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-5a028a0bcd31bafc",
+          "claim-b772bc5abd3db940",
+          "claim-1be42de1b3b19eb5"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-6c8baca2c33f:bundle-188797a7ed7d",
+        "reason": "该Bundle包含构建公平竞争市场环境的制度性事实，是回答中心问题中“制度约束”部分的核心证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-6cdb2e73318622b4",
+          "claim-25c0c5430c33e35f",
+          "claim-a2d8e5d19e24eb6d",
+          "claim-1e9973b280c9a8d0",
+          "claim-199e98a872a43feb",
+          "claim-eca174b3d3307fb3",
+          "claim-ed4628070a5ca3c9",
+          "claim-23905352fa176fe3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+        "reason": "该Bundle包含高水平利用外资的具体政策、措施及目标，是回答中心问题中“政策引导”部分的核心证据。"
+      }
+    ],
+    "group_id": "topic-4e1ee34daa23",
+    "members": [
+      {
+        "contribution": "该证据确立了制度约束基础，要求对拟出台外资政策进行公平竞争审查，统一内外资准入标准、流程及监管体系，营造透明规范的市场环境。",
+        "ref_id": "ref-6c8baca2c33f",
+        "relation": "supports"
+      },
+      {
+        "contribution": "该证据提供了战略方向与具体措施，通过负面清单管理、产业开放、总部经济、研发支持、资金奖励及便利化服务，扩大外资规模并优化结构。",
+        "ref_id": "ref-d3960cd1125c",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-5a028a0bcd31bafc",
+        "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b772bc5abd3db940",
+        "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1be42de1b3b19eb5",
+        "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6cdb2e73318622b4",
+        "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-25c0c5430c33e35f",
+        "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a2d8e5d19e24eb6d",
+        "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1e9973b280c9a8d0",
+        "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-199e98a872a43feb",
+        "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-eca174b3d3307fb3",
+        "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ed4628070a5ca3c9",
+        "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-23905352fa176fe3",
+        "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-5a028a0bcd31bafc",
+          "claim-b772bc5abd3db940"
+        ],
+        "draft_excerpt": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+        "finding": "Summarizes claim-5a028a0bcd31bafc and claim-b772bc5abd3db940.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-437bd86f967f1da4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5a028a0bcd31bafc",
+          "claim-b772bc5abd3db940"
+        ],
+        "draft_excerpt": "成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。",
+        "finding": "Combines claim-5a028a0bcd31bafc and claim-b772bc5abd3db940.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6ee0cf0ce49e3d39",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+        "finding": "General policy goal not explicitly stated as a specific claim in the contract.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b1e65f3a4aaa5872",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+        "finding": "General summary statement, not a specific claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-03320929fbd1a49b",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-6cdb2e73318622b4",
+          "claim-25c0c5430c33e35f"
+        ],
+        "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+        "finding": "Combines claim-6cdb2e73318622b4 and claim-25c0c5430c33e35f. Mentions '研发中心' which is not in the specific claims but is part of the broader context of the batch.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2e332eef8c42e650",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+        "finding": "Summarizes claim-199e98a872a43feb but omits the '2%' rate and 'excluding real estate/finance' condition, making it a partial/unsupported summary in this strict",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e5a4be264572b7a5",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+        "finding": "General summary.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0acba2e8ac3dd549",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-5a028a0bcd31bafc"
+        ],
+        "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+        "finding": "Matches claim-5a028a0bcd31bafc exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-84581e416f45c3a0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b772bc5abd3db940"
+        ],
+        "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+        "finding": "Matches claim-b772bc5abd3db940 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ca6b87905eeb8f7c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1be42de1b3b19eb5"
+        ],
+        "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+        "finding": "Matches claim-1be42de1b3b19eb5 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b66e46eadfb81780",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6cdb2e73318622b4"
+        ],
+        "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+        "finding": "Matches claim-6cdb2e73318622b4 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3ff4edc7b134a5fa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-25c0c5430c33e35f"
+        ],
+        "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+        "finding": "Matches claim-25c0c5430c33e35f exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cfa490e0d43570da",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a2d8e5d19e24eb6d"
+        ],
+        "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d89ef2e9ac828479",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1e9973b280c9a8d0"
+        ],
+        "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e3c7ba503e716b31",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-199e98a872a43feb"
+        ],
+        "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1c1cdf115cd754ef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eca174b3d3307fb3"
+        ],
+        "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6a5b752d7b3b0c2a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eca174b3d3307fb3"
+        ],
+        "draft_excerpt": "健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5fcb51007e680798",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eca174b3d3307fb3"
+        ],
+        "draft_excerpt": "健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1749d4245c98f777",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed4628070a5ca3c9"
+        ],
+        "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-740b80e69f784f4c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed4628070a5ca3c9"
+        ],
+        "draft_excerpt": "支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0c6d15061a35c9d7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-23905352fa176fe3"
+        ],
+        "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fde22e2295651949",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+        "finding": "General policy goal not explicitly stated as a specific claim in the contract."
+      },
+      {
+        "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+        "finding": "General summary statement, not a specific claim."
+      },
+      {
+        "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+        "finding": "Summarizes claim-199e98a872a43feb but omits the '2%' rate and 'excluding real estate/finance' condition, making it a partial/unsupported summary in this strict"
+      },
+      {
+        "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+        "finding": "General summary."
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-5a028a0bcd31bafc",
+          "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b772bc5abd3db940",
+          "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1be42de1b3b19eb5",
+          "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6cdb2e73318622b4",
+          "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-25c0c5430c33e35f",
+          "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-5a028a0bcd31bafc",
+            "claim-b772bc5abd3db940"
+          ],
+          "draft_excerpt": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+          "finding": "Summarizes claim-5a028a0bcd31bafc and claim-b772bc5abd3db940.",
+          "sentence_id": "sentence-437bd86f967f1da4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5a028a0bcd31bafc",
+            "claim-b772bc5abd3db940"
+          ],
+          "draft_excerpt": "成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。",
+          "finding": "Combines claim-5a028a0bcd31bafc and claim-b772bc5abd3db940.",
+          "sentence_id": "sentence-6ee0cf0ce49e3d39",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+          "finding": "General policy goal not explicitly stated as a specific claim in the contract.",
+          "sentence_id": "sentence-b1e65f3a4aaa5872",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+          "finding": "General summary statement, not a specific claim.",
+          "sentence_id": "sentence-03320929fbd1a49b",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-6cdb2e73318622b4",
+            "claim-25c0c5430c33e35f"
+          ],
+          "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+          "finding": "Combines claim-6cdb2e73318622b4 and claim-25c0c5430c33e35f. Mentions '研发中心' which is not in the specific claims but is part of the broader context of the batch.",
+          "sentence_id": "sentence-2e332eef8c42e650",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+          "finding": "Summarizes claim-199e98a872a43feb but omits the '2%' rate and 'excluding real estate/finance' condition, making it a partial/unsupported summary in this strict",
+          "sentence_id": "sentence-e5a4be264572b7a5",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+          "finding": "General summary.",
+          "sentence_id": "sentence-0acba2e8ac3dd549",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-5a028a0bcd31bafc"
+          ],
+          "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+          "finding": "Matches claim-5a028a0bcd31bafc exactly.",
+          "sentence_id": "sentence-84581e416f45c3a0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b772bc5abd3db940"
+          ],
+          "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+          "finding": "Matches claim-b772bc5abd3db940 exactly.",
+          "sentence_id": "sentence-ca6b87905eeb8f7c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1be42de1b3b19eb5"
+          ],
+          "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+          "finding": "Matches claim-1be42de1b3b19eb5 exactly.",
+          "sentence_id": "sentence-b66e46eadfb81780",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6cdb2e73318622b4"
+          ],
+          "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+          "finding": "Matches claim-6cdb2e73318622b4 exactly.",
+          "sentence_id": "sentence-3ff4edc7b134a5fa",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-25c0c5430c33e35f"
+          ],
+          "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+          "finding": "Matches claim-25c0c5430c33e35f exactly.",
+          "sentence_id": "sentence-cfa490e0d43570da",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+          "finding": "General policy goal not explicitly stated as a specific claim in the contract."
+        },
+        {
+          "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+          "finding": "General summary statement, not a specific claim."
+        },
+        {
+          "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+          "finding": "Summarizes claim-199e98a872a43feb but omits the '2%' rate and 'excluding real estate/finance' condition, making it a partial/unsupported summary in this strict"
+        },
+        {
+          "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+          "finding": "General summary."
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-a2d8e5d19e24eb6d",
+          "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1e9973b280c9a8d0",
+          "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-199e98a872a43feb",
+          "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-eca174b3d3307fb3",
+          "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ed4628070a5ca3c9",
+          "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-23905352fa176fe3",
+          "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-a2d8e5d19e24eb6d"
+          ],
+          "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+          "finding": "supported",
+          "sentence_id": "sentence-d89ef2e9ac828479",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1e9973b280c9a8d0"
+          ],
+          "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+          "finding": "supported",
+          "sentence_id": "sentence-e3c7ba503e716b31",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-199e98a872a43feb"
+          ],
+          "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+          "finding": "supported",
+          "sentence_id": "sentence-1c1cdf115cd754ef",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eca174b3d3307fb3"
+          ],
+          "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+          "finding": "supported",
+          "sentence_id": "sentence-6a5b752d7b3b0c2a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eca174b3d3307fb3"
+          ],
+          "draft_excerpt": "健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。",
+          "finding": "supported",
+          "sentence_id": "sentence-5fcb51007e680798",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eca174b3d3307fb3"
+          ],
+          "draft_excerpt": "健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。",
+          "finding": "supported",
+          "sentence_id": "sentence-1749d4245c98f777",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed4628070a5ca3c9"
+          ],
+          "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+          "finding": "supported",
+          "sentence_id": "sentence-740b80e69f784f4c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed4628070a5ca3c9"
+          ],
+          "draft_excerpt": "支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。",
+          "finding": "supported",
+          "sentence_id": "sentence-0c6d15061a35c9d7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-23905352fa176fe3"
+          ],
+          "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+          "finding": "supported",
+          "sentence_id": "sentence-fde22e2295651949",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "3f3f51ed7e92ff3ea458c50f3c42ff604c501f13259e3ee95aeac8c639f547f9",
+  "coverage_history": [
+    {
+      "draft_sha256": "079adba6c6def7a0c033aa2987ce5a2c1254f7939f25df56fb9d7f3af4bfd0b8",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b772bc5abd3db940",
+            "draft_excerpt": "成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6cdb2e73318622b4",
+            "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域不得对外商投资准入进行限制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-25c0c5430c33e35f",
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-199e98a872a43feb",
+            "draft_excerpt": "对年外商直接投资5000万美元及以上的新设、增资项目，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed4628070a5ca3c9",
+            "draft_excerpt": "支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，不得设置不合理条件限制或排斥外商投资企业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1be42de1b3b19eb5",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-1e9973b280c9a8d0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-23905352fa176fe3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5a028a0bcd31bafc",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a2d8e5d19e24eb6d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-eca174b3d3307fb3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-437bd86f967f1da4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6ee0cf0ce49e3d39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，成都市出台《关于进一步促进高水平利用外资的若干意见》，以进一步扩大外资规模、优化外资结构、提升外资利用水平，推动构建以国内大循环为主体、国内国际双循环相互促进的新发展格局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-435d79dbe8b556a6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益，从而提升成都作为成渝地区双城经济圈极核城市对外商投资的吸引力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f17cbf9b60d4049",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-6cdb2e73318622b4",
+              "claim-25c0c5430c33e35f"
+            ],
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e332eef8c42e650",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-199e98a872a43feb"
+            ],
+            "draft_excerpt": "在要素保障上，对投资总额1亿美元以上重大项目实施“项目直通车”，并对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-abe2cd967aaabf40",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、加强疫情防控企业服务、保护知识产权、保障平等参与市场竞争以及提升跨境投融资便利化和外籍人士工作便利性，构建了全方位的外资支持体系。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4f152fa2c3925aac",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-6cdb2e73318622b4"
+            ],
+            "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域不得对外商投资准入进行限制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ccb46bc109ab931a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-199e98a872a43feb"
+            ],
+            "draft_excerpt": "对年外商直接投资5000万美元及以上的新设、增资项目，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3cacd9eebe41a3a6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对投资总额1亿美元以上的重大项目，实施“项目直通车”方式，定期召开形势研判和工作调度会。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b4daf8907733918",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed4628070a5ca3c9"
+            ],
+            "draft_excerpt": "支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，不得设置不合理条件限制或排斥外商投资企业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc9fc7c6fcd8e141",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "推进本外币合一银行结算账户体系试点工作，落实跨境投融资便利化措施，探索开展合格境外有限合伙人（QFLP）试点。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-693282f7abc1c598",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "同时，成都市出台《关于进一步促进高水平利用外资的若干意见》，以进一步扩大外资规模、优化外资结构、提升外资利用水平，推动构建以国内大循环为主体、国内国际双循环相互促进的新发展格局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益，从而提升成都作为成渝地区双城经济圈极核城市对外商投资的吸引力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、加强疫情防控企业服务、保护知识产权、保障平等参与市场竞争以及提升跨境投融资便利化和外籍人士工作便利性，构建了全方位的外资支持体系。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "对投资总额1亿美元以上的重大项目，实施“项目直通车”方式，定期召开形势研判和工作调度会。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "推进本外币合一银行结算账户体系试点工作，落实跨境投融资便利化措施，探索开展合格境外有限合伙人（QFLP）试点。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "《关于进一步促进高水平利用外资的若干意见》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a9d8499f8b9335fd233949c24ca739f5abe69329f989dab9ee8fbbe18158a4b7",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-5a028a0bcd31bafc",
+            "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b772bc5abd3db940",
+            "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1be42de1b3b19eb5",
+            "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6cdb2e73318622b4",
+            "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-25c0c5430c33e35f",
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "draft_excerpt covers the claim about encouraging foreign investment in '5+5+1' key industries and new infrastructure/SOE reform resources.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2d8e5d19e24eb6d",
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "draft_excerpt covers the claim about supporting foreign financial institutions.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1e9973b280c9a8d0",
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "draft_excerpt covers the claim about headquarters enterprises.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-199e98a872a43feb",
+            "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+            "finding": "draft_excerpt covers the claim about the reward amount and threshold.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eca174b3d3307fb3",
+            "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed4628070a5ca3c9",
+            "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-23905352fa176fe3",
+            "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-5a028a0bcd31bafc",
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+            "finding": "Supported by claims 5a028a0bcd31bafc and b772bc5abd3db940.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-437bd86f967f1da4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a028a0bcd31bafc",
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。",
+            "finding": "Supported by claims 5a028a0bcd31bafc and b772bc5abd3db940.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6ee0cf0ce49e3d39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+            "finding": "Unsupported. The specific goals of 'expanding scale, optimizing structure, improving level' are not explicitly stated in the provided Claim Contract claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1e65f3a4aaa5872",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+            "finding": "Unsupported. The summary statement about the 'core' of the policy system and 'protecting legitimate rights' is not explicitly covered by the specific claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-03320929fbd1a49b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-6cdb2e73318622b4",
+              "claim-25c0c5430c33e35f",
+              "claim-a2d8e5d19e24eb6d",
+              "claim-1e9973b280c9a8d0"
+            ],
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "Supported by claims 6cdb2e73318622b4, 25c0c5430c33e35f, a2d8e5d19e24eb6d, and 1e9973b280c9a8d0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e332eef8c42e650",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-199e98a872a43feb"
+            ],
+            "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+            "finding": "Supported by claim 199e98a872a43feb.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5a4be264572b7a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+            "finding": "Unsupported. The specific mention of 'optimizing foreign investment promotion service platform' is not in the claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0acba2e8ac3dd549",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a028a0bcd31bafc"
+            ],
+            "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+            "finding": "Supported by claim 5a028a0bcd31bafc.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84581e416f45c3a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+            "finding": "Supported by claim b772bc5abd3db940.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca6b87905eeb8f7c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1be42de1b3b19eb5"
+            ],
+            "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+            "finding": "Supported by claim 1be42de1b3b19eb5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b66e46eadfb81780",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "［责任部门：各区（市）县政府，市政府各部门］",
+            "finding": "Unsupported. This is an attribution of responsibility, not a claim fact itself.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8a0f4328b105b04",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-6cdb2e73318622b4"
+            ],
+            "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+            "finding": "Supported by claim 6cdb2e73318622b4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5663d6b5e0a776c0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-25c0c5430c33e35f"
+            ],
+            "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8200ac61adb3a0d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2d8e5d19e24eb6d"
+            ],
+            "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9f357955314061d6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1e9973b280c9a8d0"
+            ],
+            "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-027f100ba2d0195d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-199e98a872a43feb"
+            ],
+            "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3123eece0b6da70a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca174b3d3307fb3"
+            ],
+            "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02d0f6a7bec49188",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca174b3d3307fb3"
+            ],
+            "draft_excerpt": "健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9d6dd50a7b1720c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca174b3d3307fb3"
+            ],
+            "draft_excerpt": "健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f229a320fcd4545b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed4628070a5ca3c9"
+            ],
+            "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4f586192e15893e7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed4628070a5ca3c9"
+            ],
+            "draft_excerpt": "支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a878834095820359",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "本意见实行中的具体问题由市投促局会同相关部门负责解释。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-68a7020d6f42605e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-23905352fa176fe3"
+            ],
+            "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ecb26d0843f8d702",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+            "finding": "Unsupported claim: '扩大外资规模、优化外资结构、提升外资利用水平'."
+          },
+          {
+            "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+            "finding": "Unsupported claim: '政策体系的核心在于...保护其合法权益'."
+          },
+          {
+            "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+            "finding": "Unsupported claim: '优化外商投资促进服务平台'."
+          },
+          {
+            "draft_excerpt": "［责任部门：各区（市）县政府，市政府各部门］",
+            "finding": "Unsupported claim: '责任部门' attribution."
+          },
+          {
+            "draft_excerpt": "本意见实行中的具体问题由市投促局会同相关部门负责解释。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "3f3f51ed7e92ff3ea458c50f3c42ff604c501f13259e3ee95aeac8c639f547f9",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-5a028a0bcd31bafc",
+            "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b772bc5abd3db940",
+            "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1be42de1b3b19eb5",
+            "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6cdb2e73318622b4",
+            "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-25c0c5430c33e35f",
+            "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2d8e5d19e24eb6d",
+            "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1e9973b280c9a8d0",
+            "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-199e98a872a43feb",
+            "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eca174b3d3307fb3",
+            "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed4628070a5ca3c9",
+            "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-23905352fa176fe3",
+            "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-5a028a0bcd31bafc",
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+            "finding": "Summarizes claim-5a028a0bcd31bafc and claim-b772bc5abd3db940.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-437bd86f967f1da4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a028a0bcd31bafc",
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。",
+            "finding": "Combines claim-5a028a0bcd31bafc and claim-b772bc5abd3db940.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6ee0cf0ce49e3d39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+            "finding": "General policy goal not explicitly stated as a specific claim in the contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1e65f3a4aaa5872",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+            "finding": "General summary statement, not a specific claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-03320929fbd1a49b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-6cdb2e73318622b4",
+              "claim-25c0c5430c33e35f"
+            ],
+            "draft_excerpt": "成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。",
+            "finding": "Combines claim-6cdb2e73318622b4 and claim-25c0c5430c33e35f. Mentions '研发中心' which is not in the specific claims but is part of the broader context of the batch.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e332eef8c42e650",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+            "finding": "Summarizes claim-199e98a872a43feb but omits the '2%' rate and 'excluding real estate/finance' condition, making it a partial/unsupported summary in this strict",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5a4be264572b7a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+            "finding": "General summary.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0acba2e8ac3dd549",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a028a0bcd31bafc"
+            ],
+            "draft_excerpt": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+            "finding": "Matches claim-5a028a0bcd31bafc exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84581e416f45c3a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b772bc5abd3db940"
+            ],
+            "draft_excerpt": "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+            "finding": "Matches claim-b772bc5abd3db940 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca6b87905eeb8f7c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1be42de1b3b19eb5"
+            ],
+            "draft_excerpt": "加强社会征信体系建设，健全市场监管体系和机制。",
+            "finding": "Matches claim-1be42de1b3b19eb5 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b66e46eadfb81780",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6cdb2e73318622b4"
+            ],
+            "draft_excerpt": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+            "finding": "Matches claim-6cdb2e73318622b4 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3ff4edc7b134a5fa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-25c0c5430c33e35f"
+            ],
+            "draft_excerpt": "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+            "finding": "Matches claim-25c0c5430c33e35f exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfa490e0d43570da",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2d8e5d19e24eb6d"
+            ],
+            "draft_excerpt": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d89ef2e9ac828479",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1e9973b280c9a8d0"
+            ],
+            "draft_excerpt": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3c7ba503e716b31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-199e98a872a43feb"
+            ],
+            "draft_excerpt": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1c1cdf115cd754ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca174b3d3307fb3"
+            ],
+            "draft_excerpt": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6a5b752d7b3b0c2a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca174b3d3307fb3"
+            ],
+            "draft_excerpt": "健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5fcb51007e680798",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca174b3d3307fb3"
+            ],
+            "draft_excerpt": "健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1749d4245c98f777",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed4628070a5ca3c9"
+            ],
+            "draft_excerpt": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-740b80e69f784f4c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed4628070a5ca3c9"
+            ],
+            "draft_excerpt": "支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c6d15061a35c9d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-23905352fa176fe3"
+            ],
+            "draft_excerpt": "本意见自2021年6月6日起施行，有效期5年。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fde22e2295651949",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。",
+            "finding": "General policy goal not explicitly stated as a specific claim in the contract."
+          },
+          {
+            "draft_excerpt": "该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。",
+            "finding": "General summary statement, not a specific claim."
+          },
+          {
+            "draft_excerpt": "在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。",
+            "finding": "Summarizes claim-199e98a872a43feb but omits the '2%' rate and 'excluding real estate/finance' condition, making it a partial/unsupported summary in this strict"
+          },
+          {
+            "draft_excerpt": "此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。",
+            "finding": "General summary."
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都市通过建立公平竞争审查制度，统一内外资市场准入制度、业务办理标准、流程和时限，旨在营造透明规范、公平公正的市场环境。同时，成都市出台高水平利用外资意见，以进一步扩大外资规模、优化外资结构、提升外资利用水平。该政策体系的核心在于通过制度创新与要素保障相结合，吸引外商投资重点领域，强化重大项目服务，完善外商投资企业服务体系，并保护其合法权益。\n\n成都市在扩大对外开放方面，全面实施准入前国民待遇加负面清单管理，鼓励外商投资“5+5+1”重点产业领域及新基建和国企混改等优质资源，并支持外资金融业开放、总部型企业及研发中心设立。在要素保障上，对年外商直接投资5000万美元及以上的新设、增资项目给予最高1000万元人民币的奖励。此外，成都通过优化外商投资促进服务平台、完善服务机制、保障平等参与市场竞争，构建了全方位的外资支持体系。\n\n- 各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。\n- 统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。\n- 加强社会征信体系建设，健全市场监管体系和机制。\n- 全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。\n- 加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“5+5+1”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作\n- 支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。\n- 完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。\n- 对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的2%进行奖励，单个项目年度奖励金额最高1000万元人民币\n- 设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。\n- 落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。\n- 本意见自2021年6月6日起施行，有效期5年。",
+    "description": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-4e1ee34daa23",
+      "description": "成都通过建立公平竞争审查制度统一内外资准入标准，并出台高水平利用外资意见以扩大规模、优化结构，共同营造透明规范的市场环境。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。",
+        "统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。",
+        "加强社会征信体系建设，健全市场监管体系和机制。［责任部门：各区（市）县政府，市政府各部门］",
+        "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。",
+        "加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“\\(5+5+1\\)”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作",
+        "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。",
+        "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。",
+        "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的 \\(2\\%\\) 进行奖励，单个项目年度奖励金额最高1000万元人民币",
+        "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见和建议。健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。",
+        "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。",
+        "本意见实行中的具体问题由市投促局会同相关部门负责解释。本意见自2021年6月6日起施行，有效期5年。"
+      ],
+      "evidence_block_ids": [
+        "blk-dee7db694dd83b26e696",
+        "blk-a45d630644680c2a609c",
+        "blk-9e156617fff9772c7e2a",
+        "blk-b147b93e237c4562abb8",
+        "blk-cda846664b3a2935ee29",
+        "blk-224d47cd749b373c951c",
+        "blk-450609c1c75f09108026",
+        "blk-1b46e102b011b0ff0473",
+        "blk-90dd8516236970cd2b75"
+      ],
+      "page_end": 190,
+      "page_start": 153,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都市构建内外资公平竞争市场环境与高水平利用外资政策体系",
+      "type": "分析框架"
+    },
+    "title": "成都市构建内外资公平竞争市场环境与高水平利用外资政策体系"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-6c8baca2c33f:bundle-188797a7ed7d",
+      "excluded_fragments": [],
+      "ref_id": "ref-6c8baca2c33f",
+      "source_blocks": [
+        {
+          "block_id": "blk-dee7db694dd83b26e696",
+          "page_number": 153,
+          "text": "各区（市）县政府（含成都高新区、成都天府新区管委会，下同）和市政府各部门要按照国务院《关于在市场体系建设中建立公平竞争审查制度的意见》（国发〔2016〕34号）规定，对拟出台的外资政策进行公平竞争审查。统一内外资市场准入制度、业务办理标准、流程和时限，营造透明规范、公平公正的市场环境。加强社会征信体系建设，健全市场监管体系和机制。［责任部门：各区（市）县政府，市政府各部门］"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-d3960cd1125c:bundle-7cad00e9c4e1",
+      "excluded_fragments": [],
+      "ref_id": "ref-d3960cd1125c",
+      "source_blocks": [
+        {
+          "block_id": "blk-2c0e8dd3b28b1032fdd7",
+          "page_number": 186,
+          "text": "成府发〔2021〕6号"
+        },
+        {
+          "block_id": "blk-b4e008d870d2e124865e",
+          "page_number": 186,
+          "text": "为深入贯彻《国务院关于进一步做好利用外资工作的意见》（国发〔2019〕23号）、《国务院办公厅关于进一步做好稳外贸稳外资工作的意见》（国办发〔2020〕28号）和《四川省人民政府关于进一步做好利用外资工作的实施意见》（川府发〔2020〕28号）精神，充分发挥成渝地区双城经济圈建设极核城市对外商投资的吸引力，进一步扩大我市外资规模、优化外资结构、提升外资利用水平，积极推动构建以国内大循环为主体、国内国际双循环相互促进的新发展格局，提出本意见。"
+        },
+        {
+          "block_id": "blk-a45d630644680c2a609c",
+          "page_number": 186,
+          "text": "全面实施准入前国民待遇加负面清单管理，负面清单之外的领域，任何部门和单位不得对外商投资准入进行限制。加快推进新能源汽车、商用车等先进制造业领域开放，鼓励和支持外商投资我市“\\(5+5+1\\)”重点产业领域，推出一批5G基站建设、城市轨道交通、人工智能、工业互联网等新基建和国企混改等优质资源，吸引外商投资合作。进一步加快现代服务业对外开放，大力发展生产性服务业，争取在软件和信息服务、科研和技术服务、现代物流、现代商贸等重点领域实现更大力度的开放。[责任单位：市发改委、市经信局、市交通运输局、市口岸物流办、市商务局、市投促局、市国资委、市市场监管局按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-9e156617fff9772c7e2a",
+          "page_number": 186,
+          "text": "支持国外知名金融机构来蓉设立金融租赁、消费金融等银行业金融机构，支持设立外资控股或参股的证券公司、基金管理公司。积极引进符合条件的外资金融机构在蓉设立全国或区域总部，支持在蓉外资金融机构引入功能性机构。支持外资通过设立天使投资基金、股权投资基金等方式，参与企业上市培育、并购重组。推动"
+        },
+        {
+          "block_id": "blk-e6373b272192f370e567",
+          "page_number": 187,
+          "text": "企业发行外债，鼓励企业利用债务融资工具、项目投资、境外上市等方式“走出去”。探索建设“一带一路”金融服务中心，争取设立人民币国际投贷基金、“一带一路”风险管理中心。[责任单位：市金融监管局、人行成都分行营管部按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-b147b93e237c4562abb8",
+          "page_number": 187,
+          "text": "完善跨国公司地区总部认定条件和支持政策，推动跨国公司在蓉设立在华区域总部或功能型总部机构，强化人才落户、租购住房、子女就学等全要素的服务支撑，打造国际化标准的外资总部产业链、生态圈。鼓励有条件的区（市）县研究制定外资总部经济规划和配套政策。[责任单位：市商务局、市总部经济发展领导小组成员单位按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-a8aa83c0a71f4a76570f",
+          "page_number": 187,
+          "text": "支持外商投资企业建设高水平研发机构，鼓励跨国公司与本土企业、科研机构、高等院校联合建立研发机构、开展研发合作，符合条件的可按规定给予经费支持。支持外商投资企业引进全球前沿技术和适应产业发展需要的高层次人才。[责任单位：市委组织部（市人才办）、市科技局、市投促局按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-13fd62a65b2c851dfc8a",
+          "page_number": 187,
+          "text": "推进中国（四川）自由贸易试验区成都片区（以下简称自贸试验区）投资自由化便利化，鼓励自贸试验区在法定权限内制定外商投资促进政策，加大项目招引力度。支持四川天府新区、成都东部新区、成都高新区、成都经开区、成都国际铁路港经开区发挥产业优势和制度优势，深化开放领域制度创新探索，优化开发建设主体和运营主体管理机制，提高吸引外资质量。推进中法、中德、新川、中意、中韩、中日等国别合作园区载体建设，进一步加强区域合作，寻求国际合作项目，打造我市对外开放综合服务平台及贸易、投资和技术合作窗口。[责任单位：市发改委、市经信局、市科技局、市商务局、市投促局、市文广旅局按职责分工负责，相关区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-eda311e65a6c025d872c",
+          "page_number": 187,
+          "text": "强化外资重大项目专班协调机制，对投资总额1亿美元以上的重大项目，实施“项目直通车”方式，定期召开形势研判和工作调度会，及时协调解决需市级层面支"
+        },
+        {
+          "block_id": "blk-947f45a3747a57f3e0b1",
+          "page_number": 188,
+          "text": "持的问题，推动项目签约落地。对符合条件的世界500强、行业龙头及细分行业领军企业的重点项目和我市重点产业链补链固链的重点项目，可优先纳入成都市重点项目计划清单，按照相关政策优先保障供地、用能等要素。[责任单位：市发改委、市投促局，重点产业生态圈责任单位按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-cda846664b3a2935ee29",
+          "page_number": 188,
+          "text": "对年外商直接投资5000万美元及以上的新设项目、增资项目（不含房地产、金融业项目），符合项目申报条件的，按其当年外商直接投资金额的 \\(2\\%\\) 进行奖励，单个项目年度奖励金额最高1000万元人民币。对新引进符合我市产业发展方向的国际中小企业，符合项目申报条件的，按照政策规定，最高给予500万元人民币的资金奖励。对成功引进项目的中介及机构，最高给予150万元人民币的资金奖励。所需资金由市、区（市）县两级按比例承担。[责任单位：市投促局，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-65d140dd577b73afa234",
+          "page_number": 188,
+          "text": "与银行业金融机构共享重点外商投资企业信息，推动开展“银企对接”。引导金融机构加大对外商投资企业信贷投放力度，协调银行业金融机构按照市场化原则积极保障重点外商投资企业合理融资需求，提升服务水平，提高服务效率。[责任单位：市金融监管局、人行成都分行营管部，市经信局、市商务局、市投促局按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-d5fb9287e31541f804d7",
+          "page_number": 188,
+          "text": "借助“投资成都”等市级服务平台，归集、汇总、发布城市规划、城市机会清单、外商投资法律法规、项目信息等，线上线下联动提供投资资讯、投资对接等服务。定期编制和发布成都投资指南，外籍人士在蓉生活指引，为外国投资者和外商投资企业投资提供咨询、指导等便利化服务。充实区（市）县外商投资咨询服务点功能，开展外商投资企业政策宣传解读，协助企业用足用好各项政策。[责任单位：市政府外办、市投促局、市网络理政办按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-224d47cd749b373c951c",
+          "page_number": 188,
+          "text": "设立市、区（市）县两级服务和投诉工作机构，定期召开联席会议，研究解决外商投资企业面临的困难和问题。健全政企沟通交流机制，市、区（市）县两级定期召开外商投资企业座谈会，听取外商投资企业、外商协会对我市营商环境的意见"
+        },
+        {
+          "block_id": "blk-450609c1c75f09108026",
+          "page_number": 189,
+          "text": "和建议。健全市、区（市）县、功能区三级外商投资企业服务专员制度，对重点外商投资企业开展“一对一”服务保障，提供专业化、全流程、全生命周期服务。[责任单位：市投促局，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-896e982eb05617aa9591",
+          "page_number": 189,
+          "text": "全面落实国家和省、市惠企援企政策，协调解决疫情防控下外商投资企业用工、物资、物流等困难和问题。支持重点外商投资企业增产扩能，保持产业链、供应链稳定。在严格落实“外防输入”要求的前提下，指导外籍商务人士办理来蓉手续。[责任单位：市政府外办、市发改委、市经信局、市人社局、市口岸物流办、市农业农村局、市商务局、市投促局、市新经济委按职责分工负责，各区（市）县政府（管委会）]"
+        },
+        {
+          "block_id": "blk-d8504cee1d9d91b6f18e",
+          "page_number": 189,
+          "text": "充分发挥成都知识产权审判庭的示范引领作用，深化知识产权民事、行政、刑事“三合一”工作，加大对侵权违法行为的惩治力度。充分发挥知识产权案件多元化调解的作用，完善知识产权仲裁、调解、公证工作机制，培育和发展仲裁机构、调解组织和公证机构。[责任单位：市公安局、市司法局、市市场监管局按职责分工负责]"
+        },
+        {
+          "block_id": "blk-1b46e102b011b0ff0473",
+          "page_number": 189,
+          "text": "落实公平竞争审查制度，保障外资市场主体依法平等准入相关行业、领域和业务。支持外商投资企业参与我市标准化工作，严格执行政府采购有关法律制度规定，采购人、采购代理机构不得设置不合理条件限制或排斥外商投资企业，为外商投资企业参与政府采购营造公平的市场环境。（责任单位：市市场监管局，市发改委、市财政局、市商务局、公平竞争审查工作联席会议成员单位按职责分工负责）"
+        },
+        {
+          "block_id": "blk-179bb2fc5f24e12abf34",
+          "page_number": 189,
+          "text": "推进本外币合一银行结算账户体系试点工作。持续推进资本项目结汇支付便利化工作，落实跨境投融资便利化措施。按照国家规定开展跨境人民币优质企业便利化结算试点，落实简化结算流程、优化投融资管理等人民币跨境使用便利化措施，提升人民币跨境投融资便利化水平。探索开展合格境外有限合伙人（QFLP）试点。积极争取支持符合条件的企业参与跨国公司总部外汇资金集中运营管理和跨境双向人民币资金池业务。按照国家规定深化外汇管理体制改革，进一步简化经常项目"
+        },
+        {
+          "block_id": "blk-8005ef9e20449595a817",
+          "page_number": 190,
+          "text": "外汇收支手续。支持自贸试验区内法人金融机构和企业按规定在境外发行人民币和外币债券。（责任单位：市发改委、市金融监管局、人行成都分行营管部按职责分工负责）"
+        },
+        {
+          "block_id": "blk-1dea38ff4d522eddfee0",
+          "page_number": 190,
+          "text": "进一步提升涉外服务能力。持续办好“外籍人士之家”，为外籍人士提供全方位多广度服务。优化出入境停居留服务，创造更便捷、更高效的出入境环境。加快建设中外人文交流特色学校，保障提出申请并符合条件的外籍子女入学。提升医疗机构国际化医疗服务能力。（责任单位：市政府外办、市教育局、市科技局、市公安局、市卫健委按职责分工负责）"
+        },
+        {
+          "block_id": "blk-90dd8516236970cd2b75",
+          "page_number": 190,
+          "text": "本意见实行中的具体问题由市投促局会同相关部门负责解释。本意见自2021年6月6日起施行，有效期5年。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-4e1ee34daa23",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-6c8baca2c33f",
+    "ref-d3960cd1125c"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

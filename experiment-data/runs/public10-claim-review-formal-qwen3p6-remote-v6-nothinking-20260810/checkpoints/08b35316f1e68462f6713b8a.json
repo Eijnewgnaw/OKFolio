@@ -1,0 +1,1670 @@
+{
+  "contract": {
+    "canonical_question": "2020—2022年成渝地区双城经济圈建设在综合发展水平、经济、科技、开放及宜居方面取得了哪些具体进展，与长三角、粤港澳、京津冀相比存在哪些差距，以及成都与重庆在交通、产业、科技、金融、民生等领域开展了哪些协同合作？",
+    "claims": [
+      {
+        "claim": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略。",
+        "claim_id": "claim-b9582574d813a3fd",
+        "evidence_block_ids": [
+          "blk-2e01364d410388ad55b8"
+        ],
+        "evidence_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          83
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020—2022年成渝地区双城经济圈建设综合指数由0.2194提高至0.9101。",
+        "claim_id": "claim-56a8713873e8894b",
+        "evidence_block_ids": [
+          "blk-75503471757c9152b9ad"
+        ],
+        "evidence_excerpt": "2020—2022年①成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3。",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          84
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2020",
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020—2022年成渝地区双城经济圈GDP总量从6.6万亿元增长至7.8万亿元。",
+        "claim_id": "claim-6a11cef277c271b6",
+        "evidence_block_ids": [
+          "blk-8e6df247feb327e7a752",
+          "blk-8bb8e0d5b84e378072d6"
+        ],
+        "evidence_excerpt": "经济规模不断壮大，成渝\n\n地区双城经济圈GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元、占全国GDP比重达到 \\(6.4\\%",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          84,
+          85
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2020",
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年成渝地区双城经济圈人均GDP为7.5万元。",
+        "claim_id": "claim-a536e82b6ac7d17b",
+        "evidence_block_ids": [
+          "blk-8bb8e0d5b84e378072d6"
+        ],
+        "evidence_excerpt": "2022年的7.8万亿元、占全国GDP比重达到 \\(6.4\\%\\) ；经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达 \\(17.6\\%\\) ；人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高 \\(17.3\\%",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          85
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年成渝地区双城经济圈R&D经费投入强度为2.42%。",
+        "claim_id": "claim-5468e478689a8ef1",
+        "evidence_block_ids": [
+          "blk-eb13e58949f01ed9131a"
+        ],
+        "evidence_excerpt": "2022年，成渝地区双城经济圈科技创新中心建设指数持续上升，由0.0678增加至0.2272。科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度 \\(2.35\\%\\) 增加至 \\(2.42\\%",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          85
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年成渝地区双城经济圈有效国家高新技术企业为20743家。",
+        "claim_id": "claim-012ad7d9ac61b327",
+        "evidence_block_ids": [
+          "blk-670e0a7b3a4f909452e1"
+        ],
+        "evidence_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长 \\(69.9\\%",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          86
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年成渝地区双城经济圈进出口总额为18016亿元。",
+        "claim_id": "claim-0cae52f3e43538cd",
+        "evidence_block_ids": [
+          "blk-c4ab4fa3295da2ea38a5"
+        ],
+        "evidence_excerpt": "进出口总额由14552.5亿元增加至18016亿元、增长 \\(23.8\\%\\) ，外贸依存度达到 \\(23.2\\%\\) 、增长\\(1.2\\%\\) ；航空枢纽运输能力受疫情影响严重，2022年",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          86
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年成渝地区双城经济圈城镇居民人均可支配收入为44259.7元。",
+        "claim_id": "claim-5d8997fad90979c3",
+        "evidence_block_ids": [
+          "blk-aa76c419478311ef9867"
+        ],
+        "evidence_excerpt": "2022年，城镇居民人均可支配收入、农村居民人均可支配收入分别为44259.7元、21825.7元，较2020年分别增长 \\(13.6\\%\\) 、 \\(17.6\\%",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          87
+        ],
+        "ref_id": "ref-c9cd3d91393a",
+        "scope": {
+          "time": [
+            "2022"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b9582574d813a3fd",
+          "claim-56a8713873e8894b",
+          "claim-6a11cef277c271b6",
+          "claim-a536e82b6ac7d17b",
+          "claim-5468e478689a8ef1",
+          "claim-012ad7d9ac61b327",
+          "claim-0cae52f3e43538cd",
+          "claim-5d8997fad90979c3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+        "reason": "该Bundle包含回答中心问题所需的所有核心事实，包括战略定位、发展指数、对比差距及协同合作细节。"
+      }
+    ],
+    "group_id": "topic-8c50594a6dc6",
+    "members": [
+      {
+        "contribution": "该证据Bundle全面覆盖了成渝地区双城经济圈建设的战略定位、2020-2022年综合发展水平及分项指标进展、与三大城市群的横向对比差距，以及成都与重庆在交通、产业、科技、金融、民生等领域的具体协同合作举措。",
+        "ref_id": "ref-c9cd3d91393a",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "human_review",
+    "rows": [
+      {
+        "claim_id": "claim-b9582574d813a3fd",
+        "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-56a8713873e8894b",
+        "draft_excerpt": "2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6a11cef277c271b6",
+        "draft_excerpt": "成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a536e82b6ac7d17b",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-a536e82b6ac7d17b is missing hard anchors from the claim: ['2022年']; claim='2022年成渝地区双城经济圈人均GDP为7.5万元。'; excerpt='人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-5468e478689a8ef1",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-5468e478689a8ef1 is missing hard anchors from the claim: ['2022年']; claim='2022年成渝地区双城经济圈R&D经费投入强度为2.42%。'; excerpt='科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-012ad7d9ac61b327",
+        "draft_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0cae52f3e43538cd",
+        "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+        "finding": "草稿句包含推断性判断'数据未完全体现增长态势'，且提及'航空枢纽'，但Claim Contract中claim-0cae52f3e43538cd仅陈述进出口总额事实，未涉及航空枢纽或数据完整性判断。草稿句后半部分关于'2022年数据'的表述与evidence_excerpt中'2022年'的上下文衔接存在语义模糊，且evidence_excerpt中'2022年'后紧跟的内容在截断处不完整，无法确认草稿句是否准确反映了原始证据的完整含义或是否存在OCR/解析异常导致的语义偏差。根据规则8，若遗留known source anomaly短语需标uncertain，此处虽无直接匹配短语，但鉴于推断性判断缺乏直接证据支持且涉及数据解读的不确定性，标为uncertain。",
+        "status": "uncertain"
+      },
+      {
+        "claim_id": "claim-5d8997fad90979c3",
+        "draft_excerpt": "民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-b9582574d813a3fd"
+        ],
+        "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，该战略既是时代赋予的重大职责使命，也是成渝地区发展的重大机遇。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-83d09f703e3a14ad",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b9582574d813a3fd"
+        ],
+        "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-de6468b0dec3f80b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-56a8713873e8894b"
+        ],
+        "draft_excerpt": "2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-418c4bf3575fabeb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6a11cef277c271b6"
+        ],
+        "draft_excerpt": "成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9da33a9a6efa359e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e3aeb0663551599d",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-a536e82b6ac7d17b"
+        ],
+        "draft_excerpt": "人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-77bb4d627719a4cf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5d8997fad90979c3"
+        ],
+        "draft_excerpt": "民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-05893d3b3f6838a1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "科技创新中心建设指数持续上升，由0.0678增加至0.2272。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-32b91357dbd5d770",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-5468e478689a8ef1"
+        ],
+        "draft_excerpt": "科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8a1b3fb9db48e0a0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-012ad7d9ac61b327"
+        ],
+        "draft_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-31fc83189500c138",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0cae52f3e43538cd"
+        ],
+        "draft_excerpt": "对外开放水平稳步提升，进出口总额由14552.5亿元增加至18016亿元，增长23.8%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d0d49fb2bbba2498",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "外贸依存度达到23.2%，增长1.2%。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-393855f0e2329dd7",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+        "finding": "该句包含'航空枢纽运输能力受疫情影响严重'和'2022年数据未完全体现增长态势'两个判断。Claim Contract中的claim-0cae52f3e43538cd仅涉及进出口总额数值，未提及航空枢纽或数据体现问题。evidence_excerpt中虽有'航空枢纽运输能力受疫情影响严重，2022年'字样，但草稿句将其",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-13e637118177a4c5",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "科技创新中心建设指数持续上升，由0.0678增加至0.2272。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "外贸依存度达到23.2%，增长1.2%。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+        "finding": "草稿句中的'航空枢纽运输能力受疫情影响严重'和'2022年数据未完全体现增长态势'属于合同外事实或判断，Claim Contract中无对应claim支持这些具体描述。"
+      },
+      {
+        "draft_excerpt": "6.4%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "17.6%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "17.3%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "13.6%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2.35%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "69.9%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "23.8%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "23.2%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "1.2%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-b9582574d813a3fd",
+          "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-56a8713873e8894b",
+          "draft_excerpt": "2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6a11cef277c271b6",
+          "draft_excerpt": "成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a536e82b6ac7d17b",
+          "draft_excerpt": "人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5468e478689a8ef1",
+          "draft_excerpt": "科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-012ad7d9ac61b327",
+          "draft_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0cae52f3e43538cd",
+          "draft_excerpt": "对外开放水平稳步提升，进出口总额由14552.5亿元增加至18016亿元，增长23.8%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5d8997fad90979c3",
+          "draft_excerpt": "民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-b9582574d813a3fd"
+          ],
+          "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，该战略既是时代赋予的重大职责使命，也是成渝地区发展的重大机遇。",
+          "finding": "supported",
+          "sentence_id": "sentence-83d09f703e3a14ad",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b9582574d813a3fd"
+          ],
+          "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+          "finding": "supported",
+          "sentence_id": "sentence-de6468b0dec3f80b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-56a8713873e8894b"
+          ],
+          "draft_excerpt": "2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。",
+          "finding": "supported",
+          "sentence_id": "sentence-418c4bf3575fabeb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6a11cef277c271b6"
+          ],
+          "draft_excerpt": "成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。",
+          "finding": "supported",
+          "sentence_id": "sentence-9da33a9a6efa359e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-e3aeb0663551599d",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-a536e82b6ac7d17b"
+          ],
+          "draft_excerpt": "人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。",
+          "finding": "supported",
+          "sentence_id": "sentence-77bb4d627719a4cf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5d8997fad90979c3"
+          ],
+          "draft_excerpt": "民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。",
+          "finding": "supported",
+          "sentence_id": "sentence-05893d3b3f6838a1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "科技创新中心建设指数持续上升，由0.0678增加至0.2272。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-32b91357dbd5d770",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-5468e478689a8ef1"
+          ],
+          "draft_excerpt": "科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。",
+          "finding": "supported",
+          "sentence_id": "sentence-8a1b3fb9db48e0a0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-012ad7d9ac61b327"
+          ],
+          "draft_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。",
+          "finding": "supported",
+          "sentence_id": "sentence-31fc83189500c138",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0cae52f3e43538cd"
+          ],
+          "draft_excerpt": "对外开放水平稳步提升，进出口总额由14552.5亿元增加至18016亿元，增长23.8%。",
+          "finding": "supported",
+          "sentence_id": "sentence-d0d49fb2bbba2498",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "外贸依存度达到23.2%，增长1.2%。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-393855f0e2329dd7",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "科技创新中心建设指数持续上升，由0.0678增加至0.2272。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "外贸依存度达到23.2%，增长1.2%。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-0cae52f3e43538cd",
+          "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+          "finding": "草稿句包含推断性判断'数据未完全体现增长态势'，且提及'航空枢纽'，但Claim Contract中claim-0cae52f3e43538cd仅陈述进出口总额事实，未涉及航空枢纽或数据完整性判断。草稿句后半部分关于'2022年数据'的表述与evidence_excerpt中'2022年'的上下文衔接存在语义模糊，且evidence_excerpt中'2022年'后紧跟的内容在截断处不完整，无法确认草稿句是否准确反映了原始证据的完整含义或是否存在OCR/解析异常导致的语义偏差。根据规则8，若遗留known source anomaly短语需标uncertain，此处虽无直接匹配短语，但鉴于推断性判断缺乏直接证据支持且涉及数据解读的不确定性，标为uncertain。",
+          "status": "uncertain"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+          "finding": "该句包含'航空枢纽运输能力受疫情影响严重'和'2022年数据未完全体现增长态势'两个判断。Claim Contract中的claim-0cae52f3e43538cd仅涉及进出口总额数值，未提及航空枢纽或数据体现问题。evidence_excerpt中虽有'航空枢纽运输能力受疫情影响严重，2022年'字样，但草稿句将其",
+          "sentence_id": "sentence-13e637118177a4c5",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+          "finding": "草稿句中的'航空枢纽运输能力受疫情影响严重'和'2022年数据未完全体现增长态势'属于合同外事实或判断，Claim Contract中无对应claim支持这些具体描述。"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "5c41dcbf426617b830a8c6d474acb81eee79dbb2bd1619c755b0d2a2e754c00a",
+  "coverage_history": [
+    {
+      "draft_sha256": "5c41dcbf426617b830a8c6d474acb81eee79dbb2bd1619c755b0d2a2e754c00a",
+      "matrix": {
+        "decision": "human_review",
+        "rows": [
+          {
+            "claim_id": "claim-b9582574d813a3fd",
+            "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-56a8713873e8894b",
+            "draft_excerpt": "2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a11cef277c271b6",
+            "draft_excerpt": "成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a536e82b6ac7d17b",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-a536e82b6ac7d17b is missing hard anchors from the claim: ['2022年']; claim='2022年成渝地区双城经济圈人均GDP为7.5万元。'; excerpt='人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5468e478689a8ef1",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-5468e478689a8ef1 is missing hard anchors from the claim: ['2022年']; claim='2022年成渝地区双城经济圈R&D经费投入强度为2.42%。'; excerpt='科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-012ad7d9ac61b327",
+            "draft_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0cae52f3e43538cd",
+            "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+            "finding": "草稿句包含推断性判断'数据未完全体现增长态势'，且提及'航空枢纽'，但Claim Contract中claim-0cae52f3e43538cd仅陈述进出口总额事实，未涉及航空枢纽或数据完整性判断。草稿句后半部分关于'2022年数据'的表述与evidence_excerpt中'2022年'的上下文衔接存在语义模糊，且evidence_excerpt中'2022年'后紧跟的内容在截断处不完整，无法确认草稿句是否准确反映了原始证据的完整含义或是否存在OCR/解析异常导致的语义偏差。根据规则8，若遗留known source anomaly短语需标uncertain，此处虽无直接匹配短语，但鉴于推断性判断缺乏直接证据支持且涉及数据解读的不确定性，标为uncertain。",
+            "status": "uncertain"
+          },
+          {
+            "claim_id": "claim-5d8997fad90979c3",
+            "draft_excerpt": "民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b9582574d813a3fd"
+            ],
+            "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，该战略既是时代赋予的重大职责使命，也是成渝地区发展的重大机遇。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83d09f703e3a14ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b9582574d813a3fd"
+            ],
+            "draft_excerpt": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-de6468b0dec3f80b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-56a8713873e8894b"
+            ],
+            "draft_excerpt": "2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-418c4bf3575fabeb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a11cef277c271b6"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9da33a9a6efa359e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3aeb0663551599d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a536e82b6ac7d17b"
+            ],
+            "draft_excerpt": "人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-77bb4d627719a4cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5d8997fad90979c3"
+            ],
+            "draft_excerpt": "民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05893d3b3f6838a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "科技创新中心建设指数持续上升，由0.0678增加至0.2272。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-32b91357dbd5d770",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-5468e478689a8ef1"
+            ],
+            "draft_excerpt": "科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a1b3fb9db48e0a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-012ad7d9ac61b327"
+            ],
+            "draft_excerpt": "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-31fc83189500c138",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cae52f3e43538cd"
+            ],
+            "draft_excerpt": "对外开放水平稳步提升，进出口总额由14552.5亿元增加至18016亿元，增长23.8%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0d49fb2bbba2498",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "外贸依存度达到23.2%，增长1.2%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-393855f0e2329dd7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+            "finding": "该句包含'航空枢纽运输能力受疫情影响严重'和'2022年数据未完全体现增长态势'两个判断。Claim Contract中的claim-0cae52f3e43538cd仅涉及进出口总额数值，未提及航空枢纽或数据体现问题。evidence_excerpt中虽有'航空枢纽运输能力受疫情影响严重，2022年'字样，但草稿句将其",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-13e637118177a4c5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "科技创新中心建设指数持续上升，由0.0678增加至0.2272。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "外贸依存度达到23.2%，增长1.2%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+            "finding": "草稿句中的'航空枢纽运输能力受疫情影响严重'和'2022年数据未完全体现增长态势'属于合同外事实或判断，Claim Contract中无对应claim支持这些具体描述。"
+          },
+          {
+            "draft_excerpt": "6.4%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "17.6%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "17.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "13.6%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2.35%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "69.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "23.8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "23.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 战略定位与综合态势\n\n党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。2020—2022年，成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3，显示出区域协同发展的显著成效。\n\n## 经济规模与结构优化\n\n成渝地区双城经济圈经济规模不断壮大，GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元，占全国GDP比重达到6.4%。经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达17.6%。人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高17.3%。\n\n民生福祉持续改善，2022年城镇居民人均可支配收入为44259.7元，农村居民人均可支配收入为21825.7元，较2020年分别增长13.6%和17.6%。\n\n## 科技创新与对外开放\n\n科技创新中心建设指数持续上升，由0.0678增加至0.2272。科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度由2.35%增加至2.42%。截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长69.9%。\n\n对外开放水平稳步提升，进出口总额由14552.5亿元增加至18016亿元，增长23.8%。外贸依存度达到23.2%，增长1.2%。航空枢纽运输能力受疫情影响严重，2022年数据未完全体现增长态势。",
+    "description": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，该战略既是时代赋予的重大职责使命，也是成渝地区发展的重大机遇。",
+    "ref": {
+      "asset_hints": [
+        "image-059",
+        "image-060",
+        "image-061",
+        "image-062",
+        "image-063",
+        "image-064",
+        "image-065",
+        "image-066",
+        "image-067",
+        "image-068",
+        "image-069",
+        "image-070",
+        "image-071",
+        "image-072",
+        "image-073",
+        "image-074",
+        "image-075",
+        "image-076",
+        "image-077",
+        "image-078",
+        "image-079",
+        "image-080",
+        "image-081",
+        "image-082",
+        "image-083",
+        "image-084",
+        "image-085",
+        "image-086",
+        "image-087",
+        "image-088",
+        "image-089",
+        "image-090",
+        "image-091",
+        "image-092",
+        "image-093",
+        "image-094",
+        "image-095",
+        "image-096",
+        "image-097",
+        "image-098",
+        "image-099",
+        "image-100",
+        "image-101",
+        "image-102"
+      ],
+      "concept_id": "topic-8c50594a6dc6",
+      "description": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，该战略既是时代赋予的重大职责使命，也是成渝地区发展的重大机遇。",
+      "document_family_id": "a3416d58cffb469497b1",
+      "document_version_id": "e551b06ba3832ffdbb34",
+      "evidence": [
+        "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。",
+        "2020—2022年①成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3。",
+        "经济规模不断壮大，成渝\n\n地区双城经济圈GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元、占全国GDP比重达到 \\(6.4\\%",
+        "2022年的7.8万亿元、占全国GDP比重达到 \\(6.4\\%\\) ；经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达 \\(17.6\\%\\) ；人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高 \\(17.3\\%",
+        "2022年，成渝地区双城经济圈科技创新中心建设指数持续上升，由0.0678增加至0.2272。科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度 \\(2.35\\%\\) 增加至 \\(2.42\\%",
+        "截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长 \\(69.9\\%",
+        "进出口总额由14552.5亿元增加至18016亿元、增长 \\(23.8\\%\\) ，外贸依存度达到 \\(23.2\\%\\) 、增长\\(1.2\\%\\) ；航空枢纽运输能力受疫情影响严重，2022年",
+        "2022年，城镇居民人均可支配收入、农村居民人均可支配收入分别为44259.7元、21825.7元，较2020年分别增长 \\(13.6\\%\\) 、 \\(17.6\\%"
+      ],
+      "evidence_block_ids": [
+        "blk-2e01364d410388ad55b8",
+        "blk-75503471757c9152b9ad",
+        "blk-8e6df247feb327e7a752",
+        "blk-8bb8e0d5b84e378072d6",
+        "blk-eb13e58949f01ed9131a",
+        "blk-670e0a7b3a4f909452e1",
+        "blk-c4ab4fa3295da2ea38a5",
+        "blk-aa76c419478311ef9867"
+      ],
+      "page_end": 106,
+      "page_start": 71,
+      "ref_family_hint": "",
+      "ref_version_id": "e551b06ba3832ffdbb34",
+      "scope": {},
+      "section_path": [
+        "专题篇"
+      ],
+      "semantic_signature": {},
+      "source": "102a4976-6f08-42bc-b866-6b9f7b53cc31.md",
+      "title": "推动成渝地区双城经济圈建设的战略定位与宏观态势",
+      "type": "分析框架"
+    },
+    "title": "推动成渝地区双城经济圈建设的战略定位与宏观态势"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c9cd3d91393a:bundle-11238e0551fd",
+      "excluded_fragments": [],
+      "ref_id": "ref-c9cd3d91393a",
+      "source_blocks": [
+        {
+          "block_id": "blk-2e01364d410388ad55b8",
+          "page_number": 83,
+          "text": "党的二十大将成渝地区双城经济圈建设列为国家区域重大战略，推动成渝地区双城经济圈建设既是时代赋予的重大职责使命，也是成渝地区发展的重大战略机遇。2022年以来，成都坚持以成渝地区双城经济圈建设为总牵引，与重庆建立了多层级、多领域的双核联动联建工作机制，推动成渝“1+5”合作协议、第一批双核联动联建合作项目（事项）实施，共同聚焦国际性综合交通枢纽、世界级先进制造业集群、西部科学城、西部金融中心、现代化国际都市5个共建领域同向发力，以“清单制+责任制”推进年度重点任务落地落实，逐步将“施工图”转化为“实景画”，引领成渝地区走向更高发展水平。"
+        },
+        {
+          "block_id": "blk-3bff0602eb18746dba60",
+          "page_number": 83,
+          "text": "依据《成渝地区双城经济圈建设规划纲要》对成渝地区双城经济圈建设成为具有全"
+        },
+        {
+          "block_id": "blk-fd60b04fdd0aab263c6f",
+          "page_number": 84,
+          "text": "国影响力的重要经济中心、科技创新中心、改革开放新高地、高品质生活宜居地的战略定位要求，系统构建成渝地区双城经济圈建设发展水平评价指标体系，通过横纵向对比分析，客观全面评价成渝地区双城经济圈建设情况，精准研判成渝地区双城经济圈发展现状。"
+        },
+        {
+          "block_id": "blk-75503471757c9152b9ad",
+          "page_number": 84,
+          "text": "2022年以来，成渝地区双城经济圈经济发展能级持续提升，科技创新能力显著增强，改革开放持续拓展深化，高品质生活宜居地建设实现多点突破。总体来看，综合发展水平大幅跃升，区域高质量协同联动发展显著增强，2020—2022年①成渝地区双城经济圈建设综合指数由0.2194提高至0.9101，平均经济联系强度由3138.2提高至4165.3。"
+        },
+        {
+          "block_id": "blk-67366950598c2ea90796",
+          "page_number": 84,
+          "text": "原始 PDF 第 84 页图片"
+        },
+        {
+          "block_id": "blk-eab7c581f896babb951f",
+          "page_number": 84,
+          "text": "原始 PDF 第 84 页图片"
+        },
+        {
+          "block_id": "blk-51e6eefd21a3cd3d533d",
+          "page_number": 84,
+          "text": "原始 PDF 第 84 页图片"
+        },
+        {
+          "block_id": "blk-b9dcc1e6d3add12e2e9b",
+          "page_number": 84,
+          "text": "原始 PDF 第 84 页图片"
+        },
+        {
+          "block_id": "blk-fc33c8a0cb172ea395d6",
+          "page_number": 84,
+          "text": "图2-45 2020—2022年成渝地区双城经济圈综合发展水平指数与经济联系强度变化情况"
+        },
+        {
+          "block_id": "blk-a8f0b5c34471f5dd32cd",
+          "page_number": 84,
+          "text": "资料来源：根据2020—2022年各城市国民经济和社会发展统计公报、第七次人口普查数据计算绘制"
+        },
+        {
+          "block_id": "blk-8e6df247feb327e7a752",
+          "page_number": 84,
+          "text": "经济发展能级再上新台阶。2020—2022年，成渝地区双城经济圈经济中心建设指数持续上升，由0.0876增加至0.2861。经济引领作用持续增强，经济规模不断壮大，成渝"
+        },
+        {
+          "block_id": "blk-8bb8e0d5b84e378072d6",
+          "page_number": 85,
+          "text": "地区双城经济圈GDP总量从2020年的6.6万亿元增长至2022年的7.8万亿元、占全国GDP比重达到 \\(6.4\\%\\) ；经济密度大幅提升，地均GDP由2020年的3567.6万元/平方千米提高至4193.9万元/平方千米，增幅达 \\(17.6\\%\\) ；人均水平提升显著，人均GDP从2020年的6.4万元增长至7.5万元，提高 \\(17.3\\%\\) 。工业发展成效突出，成渝地区双城经济圈规模以上工业企业实现营业收入和利润总额分别为77044.1亿元、5916.5亿元，较2020年分别增长 \\(19.3\\%\\) 、 \\(13.0\\%\\) 。现代服务业加速发展，服务业增加值达到41227.9亿元，较2020年提升 \\(13.7\\%\\) ，占GDP的比重达到 \\(53.1\\%\\) 。其中，现代商贸规模进一步扩大，社会消费品零售总额达到34460.1亿元，较2020年增长 \\(12.7\\%\\) ；金融业发展取得实效，2022年成渝地区双城经济圈金融机构本外币存贷款余额达到27.7万亿元，较2020年增长 \\(19.4\\%\\) 。"
+        },
+        {
+          "block_id": "blk-4bde0dde45a84de14669",
+          "page_number": 85,
+          "text": "原始 PDF 第 85 页图片"
+        },
+        {
+          "block_id": "blk-b47666111740005c19e3",
+          "page_number": 85,
+          "text": "原始 PDF 第 85 页图片"
+        },
+        {
+          "block_id": "blk-3c6f3c1e640895c4ba80",
+          "page_number": 85,
+          "text": "原始 PDF 第 85 页图片"
+        },
+        {
+          "block_id": "blk-de89bff5cf396ae21551",
+          "page_number": 85,
+          "text": "原始 PDF 第 85 页图片"
+        },
+        {
+          "block_id": "blk-b5f346c6413ebca3ac89",
+          "page_number": 85,
+          "text": "图2-46 2020—2022年成渝地区双城经济圈经济中心建设相关指标变化情况"
+        },
+        {
+          "block_id": "blk-9da4bb685134ad72106d",
+          "page_number": 85,
+          "text": "资料来源：各城市2020—2022年各城市国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-eb13e58949f01ed9131a",
+          "page_number": 85,
+          "text": "科技创新能力稳步提升。2020—2022年，成渝地区双城经济圈科技创新中心建设指数持续上升，由0.0678增加至0.2272。科技创新投入总体呈现上升趋势，研究与试验发展（R&D）经费投入强度 \\(2.35\\%\\) 增加至 \\(2.42\\%\\) ；科技创新产出不断增加，万人发明专利授权量由2.1件增加至3.8件，提高 \\(76.9\\%\\) 。科技型企业“底盘”更加壮大，国家级科技"
+        },
+        {
+          "block_id": "blk-670e0a7b3a4f909452e1",
+          "page_number": 86,
+          "text": "企业孵化器数量由66家增加至84家。企业创新主体地位更加突出，截至2022年，成渝地区双城经济圈有效国家高新技术企业20743家，较2020年增长 \\(69.9\\%\\) ；全球独角兽企业10家，较2020年增长 \\(42.9\\%\\) ；科创板上市公司18家，是2020年的四倍多；国家专精特新“小巨人”企业610家，较2020年增长 \\(309.4\\%\\) 。"
+        },
+        {
+          "block_id": "blk-533d8013a0eba60264a4",
+          "page_number": 86,
+          "text": "原始 PDF 第 86 页图片"
+        },
+        {
+          "block_id": "blk-4bd85970213b88b94273",
+          "page_number": 86,
+          "text": "原始 PDF 第 86 页图片"
+        },
+        {
+          "block_id": "blk-1ee0792f737a599b5c30",
+          "page_number": 86,
+          "text": "原始 PDF 第 86 页图片"
+        },
+        {
+          "block_id": "blk-dd08eca8f3e4a7472dc1",
+          "page_number": 86,
+          "text": "图2-47 2020—2022年成渝地区双城经济圈科技创新中心建设相关指标变化情况"
+        },
+        {
+          "block_id": "blk-c992dd956d2bb46856dc",
+          "page_number": 86,
+          "text": "资料来源：2020—2022年各城市国民经济和社会发展统计公报、中国知网经济社会大数据平台、科技部《2018年度国家级科技企业孵化器评价结果》《2019—2022年国家级科技企业孵化器名单》"
+        },
+        {
+          "block_id": "blk-c4ab4fa3295da2ea38a5",
+          "page_number": 86,
+          "text": "改革开放持续拓展深化。2020—2022年，成渝地区双城经济圈改革开放新高地建设指数总体表现为上升趋势，由0.0287增加至0.1623。对外贸易发展呈现良好态势，进出口总额由14552.5亿元增加至18016亿元、增长 \\(23.8\\%\\) ，外贸依存度达到 \\(23.2\\%\\) 、增长\\(1.2\\%\\) ；航空枢纽运输能力受疫情影响严重，2022年机场旅客吞吐量5784.5万人次、下降\\(29.8\\%\\) ，机场航空货邮吞吐量104.3万吨、下降 \\(0.8\\%\\) 。对外交流交往内涵更加丰富，截至2022年，成渝地区双城经济圈领事机构数量达到36家、较2020年增加5家，国际友好城市和国际友好合作关系数量达到274对、较2020年增加18对。"
+        },
+        {
+          "block_id": "blk-19148ed1ff8a48765d74",
+          "page_number": 87,
+          "text": "改革开放新高地建设指数"
+        },
+        {
+          "block_id": "blk-7896a4dbb87b80e54ab5",
+          "page_number": 87,
+          "text": "原始 PDF 第 87 页图片"
+        },
+        {
+          "block_id": "blk-14ef6a0e2d5fcded09c9",
+          "page_number": 87,
+          "text": "原始 PDF 第 87 页图片"
+        },
+        {
+          "block_id": "blk-5ff50cb4a9bd33d4de2c",
+          "page_number": 87,
+          "text": "原始 PDF 第 87 页图片"
+        },
+        {
+          "block_id": "blk-b288e49cf661c0addc6b",
+          "page_number": 87,
+          "text": "原始 PDF 第 87 页图片"
+        },
+        {
+          "block_id": "blk-aed384bd01ad8e70f81c",
+          "page_number": 87,
+          "text": "图2-48 2020—2022年成渝地区双城经济圈改革开放新高地建设相关指标变化情况"
+        },
+        {
+          "block_id": "blk-952f67a3c8b3549e0faf",
+          "page_number": 87,
+          "text": "资料来源：2020—2022年各城市统计公报、2020—2022年中国民航局《全国机场吞吐量排名》"
+        },
+        {
+          "block_id": "blk-aa76c419478311ef9867",
+          "page_number": 87,
+          "text": "高品质生活宜居地建设多点突破。2020—2022年，成渝地区双城经济圈高品质生活宜居地建设指数持续上升，由0.0352增加至0.2345。居民收入水平稳步提升，2022年，城镇居民人均可支配收入、农村居民人均可支配收入分别为44259.7元、21825.7元，较2020年分别增长 \\(13.6\\%\\) 、 \\(17.6\\%\\) 。教育资源共建共享纵深推进，普通小学生师比、普通中学生师比分别为15.2、12.4，较2020年分别下降 \\(4.9\\%\\) 、 \\(1.9\\%\\) 。卫生服务更加均等化，2022年三甲医院达到153家、较2020年提高 \\(26.5\\%\\) ，每万人卫生技术人员79.9人、较2020年提高 \\(6.3\\%\\) 。公共文化服务供给发展态势良好，2022年，成渝地区双城经济圈累计拥有文化馆和公共图书馆356个，较2020年增加 \\(0.6\\%\\) 。生态环境共保共治成效初显，2022年平均空气质量优良天数达到317天，与2020年相比提高 \\(0.4\\%\\) ，环境空气质量持续改善。"
+        },
+        {
+          "block_id": "blk-62e095d7626363a789b2",
+          "page_number": 88,
+          "text": "原始 PDF 第 88 页图片"
+        },
+        {
+          "block_id": "blk-ddebb1141893fd733938",
+          "page_number": 88,
+          "text": "原始 PDF 第 88 页图片"
+        },
+        {
+          "block_id": "blk-91bde49c909e33256560",
+          "page_number": 88,
+          "text": "原始 PDF 第 88 页图片"
+        },
+        {
+          "block_id": "blk-2888a8e56a798d11304e",
+          "page_number": 88,
+          "text": "图2-49 2020—2022年成渝地区双城经济圈高品质生活宜居地建设相关指标变化情况"
+        },
+        {
+          "block_id": "blk-f768cc648099d444f2c1",
+          "page_number": 88,
+          "text": "资料来源：2020—2022年《四川省生态环境状况公报》、《重庆环境状况公报》、各城市国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-8c1df873f931404a341f",
+          "page_number": 88,
+          "text": "成渝地区双城经济圈综合发展水平与长三角城市群、粤港澳大湾区、京津冀城市群等相比，仍然存在一定差距，经济联系强度仍然不够紧密。2022年，成渝地区双城经济圈综合发展水平指数为0.161，远低于长三角城市群（0.732）、粤港澳大湾区（0.523），较京津冀城市群（0.268）还存在一定差距；成都与成渝地区双城经济圈内其他城市间的平均经济联系强度，分别仅相当于粤港澳大湾区（广州与粤港澳大湾区其他城市）、京津冀城市群（北京与京津冀城市群其他城市）、长三角城市群（上海与长三角城市群其他城市）的 \\(13.3\\%\\) 、 \\(28.6\\%\\) 、 \\(41.3\\%\\) 。"
+        },
+        {
+          "block_id": "blk-d8245f0a939d57d08296",
+          "page_number": 89,
+          "text": "原始 PDF 第 89 页图片"
+        },
+        {
+          "block_id": "blk-5f320e80a084f6956aee",
+          "page_number": 89,
+          "text": "原始 PDF 第 89 页图片"
+        },
+        {
+          "block_id": "blk-ca06a0fc86a0028e7aac",
+          "page_number": 89,
+          "text": "原始 PDF 第 89 页图片"
+        },
+        {
+          "block_id": "blk-0350e1bbd4bc2f35fa45",
+          "page_number": 89,
+          "text": "原始 PDF 第 89 页图片"
+        },
+        {
+          "block_id": "blk-c2039f25bdcd42202c69",
+          "page_number": 89,
+          "text": "原始 PDF 第 89 页图片"
+        },
+        {
+          "block_id": "blk-d7eb36311c6e9a5eea93",
+          "page_number": 89,
+          "text": "图2-50 2022年成渝地区双城经济圈与其他城市群综合发展水平指数对比"
+        },
+        {
+          "block_id": "blk-b8f4daba1c6e677f454d",
+          "page_number": 89,
+          "text": "图2-51 2022年成渝地区双城经济圈与其他城市经济联系强度对比"
+        },
+        {
+          "block_id": "blk-244037e757b6861b39ad",
+          "page_number": 89,
+          "text": "资料来源：根据各城市2022年各城市国民经济和社会发展统计公报计算绘制"
+        },
+        {
+          "block_id": "blk-067676e1db96314b5875",
+          "page_number": 89,
+          "text": "经济发展实力亟需提升。2022年，成渝地区双城经济圈经济综合实力指数为0.076，低于长三角城市群、粤港澳大湾区和京津冀城市群。经济规模仍然偏小，经济总量和人均GDP分别为7.8万亿元、7.5万元，与京津冀城市群、长三角城市群、粤港澳大"
+        },
+        {
+          "block_id": "blk-690177f261e150a97694",
+          "page_number": 90,
+          "text": "湾区差距较大。产业结构同质化现象较为突出，产业结构相似系数为0.9789，均高于京津冀城市群、长三角城市群、粤港澳大湾区；服务业增加值占GDP比重为 \\(53.1\\%\\) ，较京津冀城市群、粤港澳大湾区、长三角城市群分别少19、6.4、3.7个百分点；人均社会消费品零售总额为3.3万元，较长三角城市群、粤港澳大湾区分别少1.3万元、1.1万元。城镇化水平还有提升空间，常住人口城镇化率为 \\(63.7\\%\\) ，分别较粤港澳大湾区、京津冀城市群、长三角城市群低27.2、11.5、8.6个百分点。"
+        },
+        {
+          "block_id": "blk-4eee0d6d7daef3a2e698",
+          "page_number": 90,
+          "text": "原始 PDF 第 90 页图片"
+        },
+        {
+          "block_id": "blk-e724195189a545c5b640",
+          "page_number": 90,
+          "text": "原始 PDF 第 90 页图片"
+        },
+        {
+          "block_id": "blk-97a0d6dab0960681aa3a",
+          "page_number": 90,
+          "text": "原始 PDF 第 90 页图片"
+        },
+        {
+          "block_id": "blk-4df2577c9907795b299f",
+          "page_number": 90,
+          "text": "图2-52 2022年成渝地区双城经济圈与其他城市群经济综合发展相关情况"
+        },
+        {
+          "block_id": "blk-96b36f8ab8b53ec76fbd",
+          "page_number": 90,
+          "text": "资料来源：中国经济社会大数据研究平台整理计算、国家工业和信息化部《先进制造业集群决赛优胜者名单》、科技部火炬中心《关于开展2021年度创新型产业集群试点（培育）的通知》"
+        },
+        {
+          "block_id": "blk-d9bc7aa2bd4104f5ccb0",
+          "page_number": 90,
+          "text": "科技创新能力还需增强。2022年，成渝地区双城经济圈科技创新水平发展指数为0.025，低于长三角城市群、粤港澳大湾区和京津冀城市群。科技创新能力还需提升，R&D经费投入强度、每万人发明专利授权量分别为 \\(2.4\\%\\) 和3.7件，均低于京津冀城市群、长三角城市群、粤港澳大湾区①。科技创新载体建设有待加强，国家级科技企业孵化器与长三角城市群、粤港澳大湾区、京津冀城市群相比分别少了 \\(84.2\\%\\) 、 \\(54.3\\%\\) 、 \\(48.8\\%\\) 新增国家技术创新示范企业5个，较长三角城市群少3个。"
+        },
+        {
+          "block_id": "blk-d9759b4bd363a8642dfe",
+          "page_number": 91,
+          "text": "原始 PDF 第 91 页图片"
+        },
+        {
+          "block_id": "blk-667b60db84c2360e1c68",
+          "page_number": 91,
+          "text": "原始 PDF 第 91 页图片"
+        },
+        {
+          "block_id": "blk-7056b2ed8e524c66110f",
+          "page_number": 91,
+          "text": "原始 PDF 第 91 页图片"
+        },
+        {
+          "block_id": "blk-acd9e697437ca439e57b",
+          "page_number": 91,
+          "text": "原始 PDF 第 91 页图片"
+        },
+        {
+          "block_id": "blk-0d6ee52673c57d3d69ba",
+          "page_number": 91,
+          "text": "图2-53 2022年成渝地区双城经济圈与其他城市群科技创新发展相关情况"
+        },
+        {
+          "block_id": "blk-174c423e535974dad03f",
+          "page_number": 91,
+          "text": "资料来源：2022年各城市国民经济统计公报，《2022年四川省科技经费投入统计公报》、科技部《2018年度国家级科技企业孵化器评价结果》《2019—2022年国家级科技企业孵化器名单》、工业和信息化部《2022年国家技术创新示范企业名单》"
+        },
+        {
+          "block_id": "blk-a42a5226c7b91e396cf0",
+          "page_number": 91,
+          "text": "改革开放有待进一步突破。2022年，成渝地区双城经济圈改革开放水平指数为0.024，低于长三角城市群、粤港澳大湾区。开放枢纽运输能力亟需提升，机场旅客吞吐量较长三角城市群低39.3个百分点，机场货邮吞吐量较长三角城市群、粤港澳大湾区、京津冀城市群分别少393.4万吨、238.3万吨、24.9万吨，差距较大。进出口规模偏小，与京津冀城市群、粤港澳大湾区、长三角城市群相比分别少 \\(64.3\\%\\) 、 \\(88.9\\%\\) 、 \\(90.3\\%\\) 。"
+        },
+        {
+          "block_id": "blk-3e878596e02a3466257e",
+          "page_number": 91,
+          "text": "图2-54 2022年成渝地区双城经济圈与其他城市群改革开放发展相关指标对比"
+        },
+        {
+          "block_id": "blk-8bdeeddbaaa237235606",
+          "page_number": 91,
+          "text": "资料来源：2022年全国民用运输机场吞吐量排名，2022年各城市国民经济统计公报"
+        },
+        {
+          "block_id": "blk-5a6cee6e53fefb5d3dd2",
+          "page_number": 92,
+          "text": "生活宜居品质还需提升。2022年，成渝地区双城经济圈生活宜居品质指数为0.036，低于长三角城市群、粤港澳大湾区和京津冀城市群。生态环境有待持续优化，空气质量优良天数比率与粤港澳大湾区、京津冀城市群相比分别低0.7、0.2个百分点。医疗服务均等化建设有待加强，每千人卫生技术人员数与长三角城市群、京津冀城市群相比分别低 \\(16.3\\%\\) 、 \\(14.8\\%\\) 。公共文化均衡化水平亟需提升，每百万人公共图书馆个数较粤港澳大湾区和长三角城市群分别低 \\(90.8\\%\\) 、 \\(13.2\\%\\) 。"
+        },
+        {
+          "block_id": "blk-0616862ad270c46299db",
+          "page_number": 92,
+          "text": "原始 PDF 第 92 页图片"
+        },
+        {
+          "block_id": "blk-bc6bc651c1265c2a0e0e",
+          "page_number": 92,
+          "text": "原始 PDF 第 92 页图片"
+        },
+        {
+          "block_id": "blk-cfab4a6a2cacdbef2893",
+          "page_number": 92,
+          "text": "图2-55 2022年成渝地区双城经济圈与其他城市群生活宜居品质相关指标对比"
+        },
+        {
+          "block_id": "blk-91c68df815badcc2538c",
+          "page_number": 92,
+          "text": "资料来源：2022年各城市国民经济统计公报、中国知网经济社会大数据研究平台"
+        },
+        {
+          "block_id": "blk-6a4234e1ab0d96430797",
+          "page_number": 92,
+          "text": "成渝地区双城经济圈坚持一盘棋思想和一体化发展理念，聚焦交通互联、现代产业协同、科技创新协同、对外开放发展等多个领域开展互利合作和共同发展，携手谱写高质量合作新篇章。分析结果显示，成渝地区双城经济圈在交通、产业、科技、消费、开放、生态、民生等方面合作取得新突破，区域一体化水平持续提升，但是与京津冀城市群、粤港澳大湾区、长三角城市群相比，还存在提升空间。"
+        },
+        {
+          "block_id": "blk-7beae6b18e3b3759aafd",
+          "page_number": 92,
+          "text": "交通互联互通不断升级。持续加密成渝地区双城经济圈交通路网建设，建成及在建川渝间省际高速公路通道达20条①。成渝地区双城经济圈公路路网密度变异系数为0.35，低于粤港澳大湾区、京津冀城市群、长三角城市群；高速公路路网密度变异系数"
+        },
+        {
+          "block_id": "blk-d498604db2848d6256f8",
+          "page_number": 93,
+          "text": "为0.3，低于粤港澳大湾区，高于京津冀城市群、长三角城市群，表明成渝地区双城经济圈内部交通联系网络还需要进一步织密。"
+        },
+        {
+          "block_id": "blk-4d59dfa7a8952cdbb06c",
+          "page_number": 93,
+          "text": "原始 PDF 第 93 页图片"
+        },
+        {
+          "block_id": "blk-c52e20490669a40d1fbf",
+          "page_number": 93,
+          "text": "图2-56 2021年成渝地区双城经济圈与其他城市群公路路网密度、高速公路路网密度变异系数对比"
+        },
+        {
+          "block_id": "blk-066a3789ff0332c5ce3d",
+          "page_number": 93,
+          "text": "资料来源：《中国城市统计年鉴2022》"
+        },
+        {
+          "block_id": "blk-c07919aba8bad7848abd",
+          "page_number": 93,
+          "text": "现代产业协同合作提质增效。联合提升优势产业集群显示度，汽车、电子等产业协同合作成效明显，2022年川渝两地汽车产业总规模达到7500亿元，汽车产量合计318万辆，汽车产业相互配套企业超过400家①；电子信息产业集群日益壮大，2022年，电子信息产业规模达到1.7万亿元，占全国比重达到 \\(10.9\\%\\) 。共同优化产业生态，成渝地区双城经济圈发展基金正式投入运营，总规模达100亿元，首批子基金成功落地、规模超过60亿元③。"
+        },
+        {
+          "block_id": "blk-1d4c459e424ac423c7a3",
+          "page_number": 93,
+          "text": "协同创新能力持续提升。共建科技创新平台不断提速，联合推进超瞬态实验装置等9个重大科技基础设施加快建设，累计引进建设新型研发机构22个、科技创新基地137个。创新交流合作持续深化，联合成立川渝高校、高新区、产业园区、创新基地等联盟40余个，科技资源共享服务平台共享科研仪器设备1.2万台（套），成渝科技创新合作计"
+        },
+        {
+          "block_id": "blk-adcf2eabcf01a6e8d5b5",
+          "page_number": 94,
+          "text": "划累计联合实施攻关核心技术项目115项，资金超过1亿元①。成渝地区双城经济圈每万人发明专利拥有量变异系数为1.3，均高于粤港澳大湾区和长三角城市群，表明成渝地区双城经济圈各城市间科技创新差距较大。"
+        },
+        {
+          "block_id": "blk-5df373fba15a74a0c611",
+          "page_number": 94,
+          "text": "原始 PDF 第 94 页图片"
+        },
+        {
+          "block_id": "blk-adc3ce686309adb83af5",
+          "page_number": 71,
+          "text": "资料来源：根据《中国城市统计年鉴2022》整理计算"
+        },
+        {
+          "block_id": "blk-bc72e0758c4261f8a986",
+          "page_number": 94,
+          "text": "图2-57 2021年成渝地区双城经济圈与其他城市群万人发明专利拥有量变异系数对比"
+        },
+        {
+          "block_id": "blk-5719fe7bf974764ccf8b",
+          "page_number": 94,
+          "text": "资料来源：根据《中国城市统计年鉴2022》整理计算"
+        },
+        {
+          "block_id": "blk-ff0f4835ff84ac163870",
+          "page_number": 94,
+          "text": "国际消费目的地共建共育持续提速。2022年，成渝地区双城经济圈实现社会消费品零售总额34460.1亿元，占全国的比重为 \\(7.8\\%\\) ；限上企业通过互联网实现的商品零售额达2377.2亿元，同比增长 \\(15.6\\%\\) 。"
+        },
+        {
+          "block_id": "blk-2f6621a2deb8762dee19",
+          "page_number": 94,
+          "text": "合力推动对外开放不断扩大。西部陆海新通道建设深入推进，2022年新开通线路78条，同比增长4倍多，物流网络辐射全球119个国家和地区的393个港口③；中欧班列（成渝）开行超5000列，占全国开行总量近 \\(30\\%\\) 。开放平台建设不断加快，成渝地区双城经济圈10个综合保税区封关运营，重庆两路寸滩综合保税区规模以上工业产值突破1000亿元，成都高新综合保税区进出口总额连续5年居全国保税区第一。"
+        },
+        {
+          "block_id": "blk-85deb6f9ad71400008ba",
+          "page_number": 94,
+          "text": "长江上游生态屏障联合共建深入推进。联合开展跨界河流联防联控联治，2022年川"
+        },
+        {
+          "block_id": "blk-1a2a9eaac514bf51d6bb",
+          "page_number": 95,
+          "text": "渝跨界河流25个国控断面水质达标率 \\(100\\%\\) ；共建危险废物跨省转移“白名单”机制，2020年以来完成“白名单”跨省转移审批14.4万吨①。成渝地区双城经济圈空气质量优良天数比率变异系数为0.063，低于京津冀城市群、长三角城市群、粤港澳大湾区，反映出成渝地区双城经济圈各城市空气环境质量差异较小。"
+        },
+        {
+          "block_id": "blk-26a7e97ef87d8f23ae42",
+          "page_number": 95,
+          "text": "原始 PDF 第 95 页图片"
+        },
+        {
+          "block_id": "blk-492c90d9c4427cd18fc3",
+          "page_number": 95,
+          "text": "图2-58 2022年成渝地区双城经济圈与其他城市群空气质量情况对比"
+        },
+        {
+          "block_id": "blk-532fb4ca2f250b222aab",
+          "page_number": 95,
+          "text": "资料来源：根据2022年各城市国民经济和社会发展统计公报整理计算"
+        },
+        {
+          "block_id": "blk-c67ff0525a9d7fbae86a",
+          "page_number": 95,
+          "text": "基本公共服务资源共享持续加码。联合发布3批311项“川渝通办”事项，共同实施2批43项便捷生活行动举措，推动居民身份证等34类电子证照互认共享，推动小学入学、员工录用、创业服务等7个“一件事”川渝通办、34项服务“免证办”，20项证明事项在两地实行告知承诺制②，34家公共图书馆实现图书资源通借通还，医疗检查检验结果跨省互认超160万例次，办理住房公积金异地转移接续2.6万人次、发放异地贷款19.6亿元③。"
+        },
+        {
+          "block_id": "blk-ee191ff252188e920660",
+          "page_number": 95,
+          "text": "自成渝“1+5”合作协议签署以来，在川渝党政联席会议框架下，成渝两地共同组建起“双核联动联建会议、双核联动联建工作专班、联动联建工作协调组”三级工作机"
+        },
+        {
+          "block_id": "blk-c83fd4968f7158dee50a",
+          "page_number": 96,
+          "text": "制，双核联动联建第一批34个合作事项加快落地，两地区（市）县、市级部门间交流频率明显提升、合作领域不断拓展，同向发力推动成渝联动联建取得实效。"
+        },
+        {
+          "block_id": "blk-aa1e19aa5e2af783f11f",
+          "page_number": 96,
+          "text": "成都全力推动与重庆交通基础设施互联互通，协力构建管理协同、安全高效的现代基础设施网络，两地直接联系更加紧密，对外交通更加高效。一是世界级机场群共建稳步推进。合力争取民航局出台了《关于加快成渝世界级机场群建设的指导意见》，世界级机场群共建顶层设计更加健全。强化两地机场协同运营、航线合作、航班衔接，2022年成渝机场旅客吞吐量、货邮吞吐量均排名全国前2和前8位。二是国际大通道共建成效显著。协同推进中欧班列（成渝）高质量运行，截至2022年，中欧班列（成渝）累计开行量突破2万列大关、达到2.5万列，占全国中欧班列累计开行量约 \\(40\\%\\) ，运输线路覆盖欧亚超40个国家和100个城市，成为全国开行量最多、开行最均衡、运输货值最高、货源结构最优的中欧班列。深化共建西部陆海新通道，协同打造欧盟一成渝地区一东盟物流通道，拓展中老、中越、中缅印国际班列，物流网络辐射国内18个省份60个城市、通达全球119个国家（地区）393个港口。2022年成渝跨境公路班车共计开行约4200班次、发运货值约57亿元①，顺利实现“双向齐发、同频共振”，运输服务范围覆盖东盟、中亚及欧洲主要城市。三是成渝互联互通水平明显提升。成渝中线高铁实现开工建设，成达万高铁建设、成渝铁路扩能改造、成渝高速、成遂渝高速扩容稳步推进，基础设施互联互通加速成型。依托成都公路口岸和重庆果园港，合作开行“五定”公路班车，打造川渝集装箱公路运输网络，2022年试点开行以来，成渝“五定”公路货运班车累计开行750余趟、运输货物超1300TEU、货值超2.4亿元②，两地货物周转率提升 \\(40\\%\\) ③。"
+        },
+        {
+          "block_id": "blk-144ac0c957fad1b4f512",
+          "page_number": 97,
+          "text": "原始 PDF 第 97 页图片"
+        },
+        {
+          "block_id": "blk-05ab01aca8a39044e6b8",
+          "page_number": 97,
+          "text": "图2-59 四川跨境公路班车"
+        },
+        {
+          "block_id": "blk-67749edab6cf0eb6279d",
+          "page_number": 97,
+          "text": "聚焦汽车、电子信息、轨道交通、通航、生物医药五大重点领域，成都持续深化与重庆产业协作，产业集群共育共建取得突破性进展。一是电子信息产业集群竞争力明显提升。联合争取全国首个跨省域共建电子信息产业先进制造业集群，2022年产业规模达1.7万亿元、占全国的比重达到 \\(10.9\\%\\) ，成为全国第三、全球前十的电子信息制造业聚集地。成功获批成渝地区工业互联网一体化发展示范区、国家网络安全产业园，联手打造“云联数算用”要素集群、“芯屏器核网”全产业链。二是汽车产业上下游配套不断增强。联合举办线上线下汽车产业链供需对接活动，推进汽车企业零部件采购需求信息互通，截至2022年，促成重庆281家零部件企业参与成都市整车配套，成都23家零部件企业参与重庆整车配套。携手开通成渝“氢走廊”示范线，截至2022年两地协同投营氢燃料电池汽车440辆、建成加氢站15座。三是轨道交通产业协同发展稳步推进。成功促成成都中车长客与重庆中车长客互助合作，协同加工不同材质地铁零部件，编制形成成渝两地轨道交通龙头企业供应链清单，成渝两地轨道交通企业配套协作能力有效提升。四是通航产业核心技术协同攻关取得突破。成渝联合开展无人机研发合作，成功完成C145发动机平原与高原环境试飞和相应改装工作。成都新津624所航空发动机专业科技创新中心引进重庆大学机械传动国家重点实验室团队入驻，航空发动机和大部件研发制造“卡脖子”关键技术实现协同攻关。五是生物医药产业合作取得有效进展。重庆国际生物城GCP临床试验（温江）中心在成都医学城正式挂牌，成渝两地GCP临床试验合作"
+        },
+        {
+          "block_id": "blk-f9e7f7b985297e5c20d7",
+          "page_number": 98,
+          "text": "取得新进展。携手共建生物医药研发供应链平台、产业运营合作平台，联合实施国家易缺短小品种药品供应保障能力提升项目，共同举办成渝地区医药健康产业2022年Bio-Talent网络招聘活动、医药产业融合发展交流会等活动。"
+        },
+        {
+          "block_id": "blk-527d2c3d93237516cfcc",
+          "page_number": 98,
+          "text": "原始 PDF 第 98 页图片"
+        },
+        {
+          "block_id": "blk-de2d9cefda5cce62b0e1",
+          "page_number": 98,
+          "text": "图2-60 成都医学城"
+        },
+        {
+          "block_id": "blk-0cabef88bd899ed98789",
+          "page_number": 98,
+          "text": "成都联动重庆聚焦西部科学城建设，加快推进重大科技创新项目建设，协同推动科技创新资源开放共享，区域创新发展能力明显提升。一是西部科学城建设顶层设计更加完善。成渝共同争取国家部委印发科技创新中心总体方案、进一步加快建设西部科学城的意见等政策文件，联合编制实施成渝综合性科学中心建设方案，推动科技基础设施落地、创新政策先行试点。西部（重庆）科学城、西部（成都）科学城召开第一次联席会议，就共建成渝综合性科学中心、共建共享大装置大平台大成果等7个方面达成一致。二是重大创新平台集聚效应明显。天府兴隆湖实验室、天府永兴实验室、天府绛溪实验室、天府锦城实验室4个天府实验室实体化运行，成功构建形成“国家实验室+省级实验室+重点实验室”的高水平实验室体系。西部（成都）科学城已聚集“中科系”“中核系”等国家级科研机构26家以及国家川藏铁路技术创新中心等国家级创新平台96个、国家省级重大科技基础设施6个、宇宙线物理研究与探测技术研究平台等国家科教基础设施7个①。三是技术协同创新步伐加快。设立成渝科技创新合作专项，支持两地企业、高校"
+        },
+        {
+          "block_id": "blk-9a4e0ee445aa76ec122a",
+          "page_number": 99,
+          "text": "院所联合在电子信息、装备制造、生物医药等领域开展“卡脖子”关键核心技术攻关，成渝地区双城经济圈内国际科技合作基地总数达102家。启动成渝地区专利开放许可，首批面向四川大学、重庆邮电大学、腾讯、长安汽车等重点高校和企业，征集新材料、生物医药、通信等领域共421件专利。四是区域创新生态加速打造。重大科技创新平台开放共享成效显著，截至2022年推动成都超算中心、两江云计算基地为成渝地区400余家企业和机构提供算力服务。创新创业交流活动积极开展，协同开展成都“菁蓉汇”、重庆创新创业大赛等“双创”系列活动50余场①，促进成渝两地创业孵化主体对接交流。"
+        },
+        {
+          "block_id": "blk-40a78435b9dad1715d91",
+          "page_number": 99,
+          "text": "原始 PDF 第 99 页图片"
+        },
+        {
+          "block_id": "blk-5306be277ac1c0d96d27",
+          "page_number": 99,
+          "text": "原始 PDF 第 99 页图片"
+        },
+        {
+          "block_id": "blk-5e26d009aec7d357ff9a",
+          "page_number": 99,
+          "text": "原始 PDF 第 99 页图片"
+        },
+        {
+          "block_id": "blk-75e4976cff8ae61b9bd9",
+          "page_number": 99,
+          "text": "原始 PDF 第 99 页图片"
+        },
+        {
+          "block_id": "blk-ad46f6a5a92c545c2505",
+          "page_number": 99,
+          "text": "图2-61 4家天府实验室实体化运行"
+        },
+        {
+          "block_id": "blk-052e0991830c38282d70",
+          "page_number": 99,
+          "text": "成都扎实推进与重庆金融合作，构建区域金融发展共同体，西部金融中心共建提质加速、成效显著。一是金融合作体制机制不断完善。配合起草《成渝共建西部金融中心规划联合实施细则》《四川省〈成渝共建西部金融中心规划〉实施方案》，编制出台《成都市推动成渝地区双城经济圈建设西部金融中心建设专项行动计划》，建立两地省市一体、三方合作工作机制。二是金融机构组织合作不断深化。成都银行与重庆供销集团签"
+        },
+        {
+          "block_id": "blk-370e5490a58adace6f13",
+          "page_number": 100,
+          "text": "署战略合作协议，为重庆供销集团提供30亿元人民币意向性金融服务支持额度。成都银行、成都农商银行、锦泰财险分别与重庆银行、重庆农商银行、安诚财险签订协议，开展同业合作。成都知易融金融科技有限公司与重庆国家金融科技认证中心有限责任公司签署战略合作协议，协同推广基于区块链技术的知识产权融资服务平台。三是金融市场加速一体化。推动成都农交所与重庆土交所签署《合作备忘录》，实现重点项目在双方微信公众号互推共享，共同促进跨区域农村产权交易流转。截至2022年底，由西南联合产权交易所、重庆联合产权交易所集团联合打造的“川渝共同产权市场互联网平台”线上成交项目2.1万宗、成交金额1268.0亿元。总规模为100亿元的成渝地区双城经济圈发展基金正式启动运营。四是金融协同改革创新取得突破。共同争取异地办理外债登记、外债非资金划转类外债提款和还本付息备案、一次性外债登记管理改革等4项外债便利化试点获批，成渝成为全国首个跨地区开展外债便利化试点的地区。协同推动成渝两地10家银行、43家企业参与贸易收支便利化试点，截至2022年进口付汇、跨境运费支付办理时间分别由2天、30分钟缩减至2分钟、10分钟。"
+        },
+        {
+          "block_id": "blk-73489b516b54fee5c6bf",
+          "page_number": 100,
+          "text": "原始 PDF 第 100 页图片"
+        },
+        {
+          "block_id": "blk-a18d4cb0adc7466a7509",
+          "page_number": 100,
+          "text": "图2-62 基于区块链技术的知识产权融资服务平台"
+        },
+        {
+          "block_id": "blk-e6eeac22c3fe93cedc1d",
+          "page_number": 100,
+          "text": "成都携手重庆全面实施39项便捷生活行动，着力推动社会公共政策互联互通，协同提升公共服务质量和水平，两地人民群众获得感、幸福感、安全感更加充实。一是教育合作日益紧密。成都七中网校优质资源辐射重庆市11所中小学，惠及2940名学生。上"
+        },
+        {
+          "block_id": "blk-6db68b52c5147eeb86d6",
+          "page_number": 101,
+          "text": "线运行“成都市随迁子女就学服务管理平台”，截至2022年底共为2000余名重庆市户籍来蓉就业人员随迁子女安排学位。二是医疗协作成效明显。推动成都市中西医结合医院、成都市第二人民医院、成都市第三人民医院、成都大学附属医院纳入川渝检查检验结果互认首批次互认机构，实现16项临床检验、41项医学影像检查互认。携手组建成渝地区双城经济圈医学科技创新联盟，支持市妇儿中心医院加入国家儿童健康与疾病临床医学研究中心（重庆医科大学附属儿童医院）牵头组建的西部儿科样本库发展联盟。电子健康卡一码通实现互认，成都大部分省属、市直属及区县级医院可扫码识别重庆电子健康卡二维码。三是文体交流合作愈加频繁。成都都江堰市、青羊区、大邑县、崇州市和重庆渝中区、南川区、万盛经开区共同发起成立成渝友城文旅营销联盟，共同策划举办了“中国体育彩票”2022年成渝街舞公开赛、2022年成渝地区俱乐部游泳公开赛、“新龙CP文旅惠民消费季”等活动。四是人力资源和社会保障协同发展深入推进。两地共同签署《成渝双核人力资源和社会保障事业协同发展合作协议》，联合印发《成渝双核人社合作三年行动计划（2022—2024年）》，两地人社合作全面推进。人力资源实现互通共享，截至2022年，成渝两地共享就业岗位信息9.3万个，协同开展劳务转移10.9万人，联合开展技能人才培养1003人，流动人员人事档案转接服务3625人次①。全面实现成渝异地就医备案互免，截至2022年成都开通住院直接结算957家、门诊特殊疾病直接结算565家、普通门诊和药店购药直接结算17180家②。两地联合印发实施《成渝公积金一体化发展工作方案》，推动实现降比缓缴、租房按月提取等方面政策协同。"
+        },
+        {
+          "block_id": "blk-770448090b3dca894fce",
+          "page_number": 101,
+          "text": "紧扣发展实际，聚焦重点关键，成都下一年应扭住“提升交通互联互通水平、构建跨区域产业生态圈、打造协同创新共同体、共同推进金融服务拓展延伸、共建高品质生活宜居地”五件大事，扎实推动成渝地区双城经济圈建设走深走实。"
+        },
+        {
+          "block_id": "blk-dc30ac730e07fd693df2",
+          "page_number": 101,
+          "text": "联合做强世界级机场群，共同争取航权开放，协力争取扩大第五航权配额，尽力争取推动扩大包括第七航权在内的航权安排，扩大成渝航线网络全球覆盖范围。共同提升国际大通道服务能级，深化西部陆海新通道合作，加快推动四川省港投集团尽快加入西"
+        },
+        {
+          "block_id": "blk-f1b2f2d6e218a499b990",
+          "page_number": 102,
+          "text": "部陆海新通道跨区域综合运营平台，逐步实现“13+2”省（区、市）全覆盖深入推进“一单制”，推进铁路、海运作业单证电子化和数据共享，拓展国际贸易和金融增值服务；合力提升中欧班列运输质效，协同重庆探索“前展后仓”发展模式，共同向国铁集团争取班列计划支持及平衡车、平板电脑等带电产品扩大运输试点。协力提升交通外联内畅水平，加快成渝中线、成达万等高铁建设，实施成渝铁路成都至隆昌段扩能改造，协同推进叙毕、黄百铁路建设和隆叙铁路扩能改造，畅通以成都为枢纽节点的西部陆海新通道主线路。"
+        },
+        {
+          "block_id": "blk-717f35efc4fd07259890",
+          "page_number": 102,
+          "text": "推动产业错位良性竞争，联合编制双核重点产业链全景图，引导成渝两地产业在纵向产业链上错位发展、有序竞争；结合成渝自身产业比较优势、产业发展定位，梳理完善并联合制定企业招商清单，积极推进跨区域联合招商，协力提升成渝两地产业链稳定性、安全性和竞争性。强化产业协作配套发展，搭建成渝轨道交通、生物医药、通用航空等重点行业领域的产业链供应链供需信息对接平台，畅通产业链上下游企业供需信息；共同加强对上对外产业资源争取力度，紧抓国家部委谋划推动产业链关键环节产能储备和适度备份战略契机，共同争取央企在成渝两地布局更多总部、关键核心生产基地等重大生产力；共同向上争取低空空域管理部门支持，加快在成渝地区开展全域低空飞行试点；整合成渝两地生物医药产业优势，共同争取国家药品和医疗器械审评西部中心落户成渝。加大产业协作引导力度，共同出台成渝链主企业跨区域采购支持政策，鼓励成渝两地龙头企业以专业分工、服务外包、订单生产、产业联盟等形式开展跨区域采购配套，带动区域内中小微企业进入产业链或配套体系。"
+        },
+        {
+          "block_id": "blk-ae4aef191a91afa68e0e",
+          "page_number": 102,
+          "text": "推动创新服务互通共享，联合重庆共同开展成渝科技创新券通用通兑试点，探索构建成渝创新券跨区域通用通兑的政策协同机制，推动成渝两地创新券服务内容互通、服务机构互通、服务流程互通、资金兑现互通和补贴标准互通。联合重庆搭建集“信息、资源、政策、办事”于一体的跨区域双创服务平台，推动政策信息互通、服务内容和设施资源共享。推动创新人才流动共享，携手与电子科技大学、四川大学、重庆大学共同开发建设成渝高端人才云智库，推动成渝两地创新创业型专家教授资源开放共享；研究制定成渝双城“互认互通人才政策”，建立高端人才协同挖掘机制、跨区域公共服务和社会保障共享机制。协同推动创新成果就地就近转移转化，实施成渝科技创新共同体联"
+        },
+        {
+          "block_id": "blk-497c4cf21c3b4f69c7a3",
+          "page_number": 103,
+          "text": "合攻关计划，共同编制发布“成渝协同创新项目”指南，以“揭榜挂帅”“赛马制”等方式，集聚区域科研力量，加强跨区域核心技术联合攻关；共同加大政策引导和财政支持力度，支持成渝两地企业与中科院成都分院、电子科技大学、重庆大学等在蓉在渝高校院所共建概念验证、小试中试平台。"
+        },
+        {
+          "block_id": "blk-73c1cf846e4d327ef1ed",
+          "page_number": 103,
+          "text": "合力争取金融机构跨区域展业取得突破，持续加快金融领域协同改革和创新，推动建立成渝统一的抵押质押制度，推进区域异地存储、信用担保等业务同城化，允许两地城商行、大型农商行互相设立异地支行，打破金融机构跨区经营的障碍，保障和促进金融资源自由流动。共同争取金融创新政策同等待遇，加快破除金融创新政策共享行政壁垒，合力争取“国家赋予其中一地的金融改革创新举措和支持政策，在风险控制能力匹配前提下，在另一地同等适用”早日落地落实。完善成渝跨区域金融风险防范体系，推动成渝协同建立健全金融监测及风险预警体系，搭建多层次、系统化、与金融创新发展相配套的数字监管体系。"
+        },
+        {
+          "block_id": "blk-59beba7f0054e86eaded",
+          "page_number": 103,
+          "text": "协同扩大优质教育供给，推动成都石室祥云、七中网校等优质远程教育资源进一步向成渝教育资源薄弱地区延伸覆盖，鼓励有条件的中小学集团化办学，建立区域和跨区域教育集团、学校联盟和城乡学校共同体。合力提升医疗服务信息化协作水平，积极协调省卫健委加快建设省全民健康信息平台（二期)，探索与重庆依托此平台合作建立检查资料库或“云胶片”库等，加快实现双向转诊、转检、会诊、联网挂号等远程医疗服务。共同深化社保服务互联互通，加快建立两地医疗住院、民航高铁、购买商业保险等信息的共享机制，探索成渝两地城镇职工医疗保险缴费年限互认路径。促进成渝政务服务“一网通办”“同事同办”，积极争取四川省相关部门支持，推动“蓉易办”与“渝快办”系统互认对接，商议梳理“成渝通办”事项清单，对事项的承诺时限、申请材料等相关要素进行统一，着力做到“无差别受理，同标准办理”。"
+        },
+        {
+          "block_id": "blk-93e4063e1d94f31b8663",
+          "page_number": 103,
+          "text": "2022年，成渝中线高铁正式宣布开工建设。成渝中线高铁是我国“八纵八横”高铁网沿江通道的重要组成部分，线路位于已开通运营的成都至重庆高铁和成都至遂宁至重庆铁路中间，路网地位重要。成渝中线高铁自成都枢纽成都站起，向东经四川资阳市、"
+        },
+        {
+          "block_id": "blk-546226f660fb9a7971f0",
+          "page_number": 104,
+          "text": "重庆市大足区、铜梁区、璧山区、沙坪坝区、渝北区，终至重庆枢纽重庆北站，正线全长292公里，设计时速350公里，部分区段预留进一步提速条件（预留400公里/小时），总投资693亿元，建设工期5年。成渝中线高铁建成后，将成为我国建设标准最高、运行速度最快的高等级高速铁路。其将与已建成运营的西安至成都高铁、郑州至重庆高铁和在建的西宁至成都高铁、成都至达州至万州高铁、西安至重庆高铁、重庆至昆明高铁、重庆至万州高铁等多条线路连通，推动成渝地区路网结构更加完善，成渝两地出行时长将进一步压缩，极大便利沿线人民群众出行，对助力成渝地区双城经济圈建设，形成西部大开发新格局，具有十分重要的意义。"
+        },
+        {
+          "block_id": "blk-cf14d66ca3bafcef890f",
+          "page_number": 104,
+          "text": "原始 PDF 第 104 页图片"
+        },
+        {
+          "block_id": "blk-3d136995ecc1ae37c13b",
+          "page_number": 104,
+          "text": "图2-63 成渝中线高铁线路走向示意图"
+        },
+        {
+          "block_id": "blk-b82097f551d1d69523e6",
+          "page_number": 104,
+          "text": "2022年10月，重庆国际生物城GCP临床试验（温江）中心揭牌仪式在成都市温江区人民医院隆重举行。此举是重庆市巴南区、成都市温江区充分利用各自在生物医药产"
+        },
+        {
+          "block_id": "blk-4b92221fc78d71ae5569",
+          "page_number": 105,
+          "text": "业领域的发展优势，强强联合、优势互补，共同助推川渝两地生物医药产业高质量发展的又一重要举措。此次揭牌的重庆国际生物城GCP临床试验（温江）中心业务用房面积1600平方米，医疗器械备案临床医技专业12个，预留临床试验床位52张，同时具备医疗器械和药物临床试验资质，医疗器械备案专业基本覆盖临床医技各主要专业，药物备案专业为风湿免疫专业，正在积极培育呼吸与危重症学科、肿瘤科、肾内科、神经医学科等GCP临床专业。"
+        },
+        {
+          "block_id": "blk-ed824ca11114c3b60da8",
+          "page_number": 105,
+          "text": "原始 PDF 第 105 页图片"
+        },
+        {
+          "block_id": "blk-a5c1ae1e0b7188e2c843",
+          "page_number": 105,
+          "text": "图2-64 重庆国际生物城GCP临床试验（温江）中心在成都医学城正式挂牌"
+        },
+        {
+          "block_id": "blk-80c9cc153427162f0a5a",
+          "page_number": 105,
+          "text": "成都市成华区依托全国一体化在线政务服务平台，携手重庆市南岸区、九龙坡区、铜梁区深入打造“标准统一、异地受理、协同联动，无差别办理”的“成渝通办”政务服务新模式，构建数据畅通、要素融合、开放协作的政务服务合作新机制，为持续深化“放管服”改革优化营商环境。具体做法可概括为：一是统一标准、协同联动、两地互认。梳理制定实施与南岸区的成渝地区跨区域业务通办清单，发布与九龙坡区政务服务两地通办事项清单（第一批）51项、与铜梁区政务服务两地通办事项清单（第一批）64项。二是设置专窗、专人服务、极简快办。设置异地通办专窗，办税服务厅创新试点建立视频采集区，无感、自动、秒速完成实名验证，税务窗口实现平均等候时间从4分钟减少到1分钟甚至“0”等待，业务单窗办结时间提速近 \\(50\\%\\) ，已成为全省税务系统的窗口名片。三是数字赋能、一网通办、服务提质。依托“天府通办”“渝快办”“蓉易办”“电子税务局”平台，实现成渝两地常办政务服务事项全程网上办理。通过银联云"
+        },
+        {
+          "block_id": "blk-f069342a90fbd3012fb7",
+          "page_number": 106,
+          "text": "闪付、微信、支付宝等平台缴纳税费，“非接触式”办事比例达 \\(98\\%\\) 以上，单月平均网上申报比例达 \\(99\\%\\) 以上，网上发票领用比例达 \\(99\\%\\) 以上，实现办事“不见面”。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-8c50594a6dc6",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-c9cd3d91393a"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

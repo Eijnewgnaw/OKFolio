@@ -1,0 +1,1164 @@
+{
+  "contract": {
+    "canonical_question": "成都如何聚焦高端绿色智能提升先进制造业能级，并绘制投资促进路线图以全链条引进重大项目？",
+    "claims": [
+      {
+        "claim": "成都聚焦高端绿色智能，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展。",
+        "claim_id": "claim-45b9ef1dcaf5721f",
+        "evidence_block_ids": [
+          "blk-8fca4b37009e9923a824"
+        ],
+        "evidence_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展",
+        "evidence_id": "ref-30c07a264e90:bundle-0dff9edd791b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-30c07a264e90",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+        "claim_id": "claim-344d68cf570e409e",
+        "evidence_block_ids": [
+          "blk-8fca4b37009e9923a824"
+        ],
+        "evidence_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+        "evidence_id": "ref-30c07a264e90:bundle-0dff9edd791b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-30c07a264e90",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节。",
+        "claim_id": "claim-acf2ed055bff8064",
+        "evidence_block_ids": [
+          "blk-cac0d541f0d54fe337e5",
+          "blk-25c1a2256c16e8898a55"
+        ],
+        "evidence_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节",
+        "evidence_id": "ref-994aeb7a4fd7:bundle-53963c7f026a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64,
+          65
+        ],
+        "ref_id": "ref-994aeb7a4fd7",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+        "claim_id": "claim-2b46e56ae4af5da3",
+        "evidence_block_ids": [
+          "blk-25c1a2256c16e8898a55"
+        ],
+        "evidence_excerpt": "绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+        "evidence_id": "ref-994aeb7a4fd7:bundle-53963c7f026a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          65
+        ],
+        "ref_id": "ref-994aeb7a4fd7",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-45b9ef1dcaf5721f",
+          "claim-344d68cf570e409e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-30c07a264e90:bundle-0dff9edd791b",
+        "reason": "该证据包含提升先进制造业能级的具体产业方向、集群发展路径及万亿级/千亿级产业培育目标，是回答中心问题中“提升先进制造业能级”的核心事实。"
+      },
+      {
+        "claim_ids": [
+          "claim-acf2ed055bff8064",
+          "claim-2b46e56ae4af5da3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-994aeb7a4fd7:bundle-53963c7f026a",
+        "reason": "该证据包含绘制投资促进路线图、瞄准特定产业及全链条引进重大项目的具体策略，是回答中心问题中“绘制投资促进路线图”的核心事实。"
+      }
+    ],
+    "group_id": "topic-24217a54f203",
+    "members": [
+      {
+        "contribution": "明确先进制造业提升路径，聚焦高端绿色智能，以电子信息、装备制造等为重点，推动产业集群成链，培育万亿级和千亿级产业。",
+        "ref_id": "ref-30c07a264e90",
+        "relation": "supports"
+      },
+      {
+        "contribution": "明确招商引资策略，瞄准新兴产业、传统优势产业及互联网新业态，绘制投资促进路线图，全链条、成集群引进重大项目。",
+        "ref_id": "ref-994aeb7a4fd7",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-45b9ef1dcaf5721f",
+        "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-344d68cf570e409e",
+        "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-acf2ed055bff8064",
+        "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2b46e56ae4af5da3",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-45b9ef1dcaf5721f",
+          "claim-acf2ed055bff8064"
+        ],
+        "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0bce2f678e0e5b2c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45b9ef1dcaf5721f"
+        ],
+        "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ff5e721351b80301",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45b9ef1dcaf5721f"
+        ],
+        "draft_excerpt": "顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-467e0711b9f9f35f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-344d68cf570e409e"
+        ],
+        "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6c077b2719f0da23",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-acf2ed055bff8064",
+          "claim-2b46e56ae4af5da3"
+        ],
+        "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f1efb1b7d9c17f94",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45b9ef1dcaf5721f"
+        ],
+        "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b059cc4ca8496acb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-acf2ed055bff8064",
+          "claim-2b46e56ae4af5da3"
+        ],
+        "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-93c746879384af9a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-45b9ef1dcaf5721f",
+          "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-344d68cf570e409e",
+          "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-acf2ed055bff8064",
+          "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-45b9ef1dcaf5721f",
+            "claim-acf2ed055bff8064"
+          ],
+          "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+          "finding": "supported",
+          "sentence_id": "sentence-0bce2f678e0e5b2c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-45b9ef1dcaf5721f"
+          ],
+          "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+          "finding": "supported",
+          "sentence_id": "sentence-ff5e721351b80301",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-45b9ef1dcaf5721f"
+          ],
+          "draft_excerpt": "顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-467e0711b9f9f35f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-344d68cf570e409e"
+          ],
+          "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+          "finding": "supported",
+          "sentence_id": "sentence-6c077b2719f0da23",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-acf2ed055bff8064",
+            "claim-2b46e56ae4af5da3"
+          ],
+          "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+          "finding": "supported",
+          "sentence_id": "sentence-f1efb1b7d9c17f94",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-45b9ef1dcaf5721f"
+          ],
+          "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点",
+          "finding": "supported",
+          "sentence_id": "sentence-b059cc4ca8496acb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-acf2ed055bff8064",
+            "claim-2b46e56ae4af5da3"
+          ],
+          "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+          "finding": "supported",
+          "sentence_id": "sentence-93c746879384af9a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "993f27d35fcfd369846828a67a529df5ef893122ab222a29210be6d024fe4bc6",
+  "coverage_history": [
+    {
+      "draft_sha256": "e049ab14d8da4a7a536c0b29e3456cd2ef4ddd7745d56e53272f730897f33508",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45b9ef1dcaf5721f",
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-acf2ed055bff8064",
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2b46e56ae4af5da3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-344d68cf570e409e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f",
+              "claim-acf2ed055bff8064"
+            ],
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bce2f678e0e5b2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都推进开放经济高地建设需构建开放型现代产业体系，通过聚焦高端绿色智能提升先进制造业能级、聚焦高价值高品质提升新兴服务业质量以及发展新经济培育新动能，全面构建以“人工智能+”“大数据+”“5G+”“清洁能源+”“供应链+”为核心的高技术含量、高附加值开放型产业体系。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d4845504a2eb7993",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在提升“引进来”规模和质量方面，成都需加强引进跨国公司地区总部、鼓励国际中小企业来蓉发展并强化精准招商，通过制定个性化、订单式的招商引资方案推动企业在蓉投资或转移产能。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f49bd1410f2b52aa",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都需优化升级国际贸易结构，推进新外贸发展、扩大国际化消费并塑造服务贸易新优势；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a4539b9d49b9bdde",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时提升全球资源要素配置能力，通过吸引人才、促进金融发展和优化创新资源配置来增强城市竞争力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ab578ad59d2df66",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此外，成都应着力创造国际化营商环境，建设高效政务一流城市、完善国际化的生活服务环境并营造与国际接轨的法治环境，以广泛开展对外交往活动促进与“一带一路”沿线各国相互理解、相互尊重、相互信任，开辟更多合作渠道。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b97bdaa72fb2c1e8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c90a8e8cd0ae2a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-acf2ed055bff8064"
+            ],
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-209e9a6bf61520a8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加强引进跨国公司地区总部，依托66个市级重点产业园打造各具特色的总部经济骨干企业集群",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e1dc941e6d19f927",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "强化精准招商，制定个性化、订单式的招商引资方案推动企业在蓉投资或转移其他地区的产能",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3001ea3402341fe",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都推进开放经济高地建设需构建开放型现代产业体系，通过聚焦高端绿色智能提升先进制造业能级、聚焦高价值高品质提升新兴服务业质量以及发展新经济培育新动能，全面构建以“人工智能+”“大数据+”“5G+”“清洁能源+”“供应链+”为核心的高技术含量、高附加值开放型产业体系。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在提升“引进来”规模和质量方面，成都需加强引进跨国公司地区总部、鼓励国际中小企业来蓉发展并强化精准招商，通过制定个性化、订单式的招商引资方案推动企业在蓉投资或转移产能。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都需优化升级国际贸易结构，推进新外贸发展、扩大国际化消费并塑造服务贸易新优势；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "同时提升全球资源要素配置能力，通过吸引人才、促进金融发展和优化创新资源配置来增强城市竞争力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "此外，成都应着力创造国际化营商环境，建设高效政务一流城市、完善国际化的生活服务环境并营造与国际接轨的法治环境，以广泛开展对外交往活动促进与“一带一路”沿线各国相互理解、相互尊重、相互信任，开辟更多合作渠道。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "加强引进跨国公司地区总部，依托66个市级重点产业园打造各具特色的总部经济骨干企业集群",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "强化精准招商，制定个性化、订单式的招商引资方案推动企业在蓉投资或转移其他地区的产能",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "66",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "993f27d35fcfd369846828a67a529df5ef893122ab222a29210be6d024fe4bc6",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45b9ef1dcaf5721f",
+            "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-344d68cf570e409e",
+            "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-acf2ed055bff8064",
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2b46e56ae4af5da3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f",
+              "claim-acf2ed055bff8064"
+            ],
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bce2f678e0e5b2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff5e721351b80301",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-467e0711b9f9f35f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-344d68cf570e409e"
+            ],
+            "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c077b2719f0da23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-acf2ed055bff8064",
+              "claim-2b46e56ae4af5da3"
+            ],
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1efb1b7d9c17f94",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b059cc4ca8496acb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-acf2ed055bff8064",
+              "claim-2b46e56ae4af5da3"
+            ],
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-93c746879384af9a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "993f27d35fcfd369846828a67a529df5ef893122ab222a29210be6d024fe4bc6",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45b9ef1dcaf5721f",
+            "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-344d68cf570e409e",
+            "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-acf2ed055bff8064",
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2b46e56ae4af5da3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f",
+              "claim-acf2ed055bff8064"
+            ],
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bce2f678e0e5b2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "一是聚焦高端绿色智能，进一步提升先进制造业能级。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff5e721351b80301",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-467e0711b9f9f35f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-344d68cf570e409e"
+            ],
+            "draft_excerpt": "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c077b2719f0da23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-acf2ed055bff8064",
+              "claim-2b46e56ae4af5da3"
+            ],
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1efb1b7d9c17f94",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b9ef1dcaf5721f"
+            ],
+            "draft_excerpt": "聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b059cc4ca8496acb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-acf2ed055bff8064",
+              "claim-2b46e56ae4af5da3"
+            ],
+            "draft_excerpt": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-93c746879384af9a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n一是聚焦高端绿色智能，进一步提升先进制造业能级。顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展。将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。\n\n瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。\n\n- 聚焦高端绿色智能提升先进制造业能级，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点\n- 瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，绘制好投资促进“路线图”",
+    "description": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+    "ref": {
+      "asset_hints": [
+        "html-table-004",
+        "html-table-005",
+        "html-table-006",
+        "html-table-007",
+        "image-034",
+        "image-035"
+      ],
+      "concept_id": "topic-24217a54f203",
+      "description": "聚焦高端绿色智能提升先进制造业能级，并瞄准新兴产业、传统优势产业及互联网新业态绘制投资促进路线图以全链条引进重大项目。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "一是聚焦高端绿色智能，进一步提升先进制造业能级。顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展",
+        "将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。",
+        "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入分析研究产业链关键环节和上下游配套环节",
+        "绘制好投资促进“路线图”，全链条、成集群地引进重大项目。"
+      ],
+      "evidence_block_ids": [
+        "blk-8fca4b37009e9923a824",
+        "blk-cac0d541f0d54fe337e5",
+        "blk-25c1a2256c16e8898a55"
+      ],
+      "page_end": 173,
+      "page_start": 47,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "下一步推进成都开放经济高地建设的思路",
+      "type": "分析框架"
+    },
+    "title": "下一步推进成都开放经济高地建设的思路"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-30c07a264e90:bundle-0dff9edd791b",
+      "excluded_fragments": [],
+      "ref_id": "ref-30c07a264e90",
+      "source_blocks": [
+        {
+          "block_id": "blk-f01055f5330be2bd6192",
+          "page_number": 47,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-c3ee432ca9410dfd16b1",
+          "page_number": 54,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-51f00d49f49c0fc960a7",
+          "page_number": 84,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-8fca4b37009e9923a824",
+          "page_number": 71,
+          "text": "一是聚焦高端绿色智能，进一步提升先进制造业能级。顺应全球新一轮科技革命和产业变革大势，发挥比较优势提升国际竞争力，以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，全面推动产业集群成链发展，在产能规模、研发创新、标准品牌等方面提升核心竞争力，将逐步建成电子信息万亿级产业，培育装备制造、医药健康万亿级产业，壮大新型材料和绿色食品千亿级产业。二是聚焦高价值高品质，进一步提升新兴服务业质量。围绕建设消费市场引领、创新要素集聚、辐射带动明显的国家服务业核心城市，充分发挥新兴服务业引领转型发展、支撑经济增长的重要作用，着力发展会展经济、金融服务业、现代物流业、文旅产业和生活服务业五大重点领域，全面推进服务业供给侧结构性改革，深入推进新兴服务业质量提升，推动生产性服务业向专业化和价值链高端延伸、生活性服务业向精细化和高品质转变，将逐步培育形成会展、金融、物流、文旅、生活服务5个千亿级产业。三是聚焦构建开放型产业体系，发展新经济培育新动能。坚持以研发新技术、培育新组织、发展新产业、创造新业态、探索新模式为基本路径，深刻围绕智能经济、绿色经济等六大经济形态和智慧城市建设、绿色低碳发展等七大应用场景，大力推动数字经济与实体经济深度融合，全面构建“人工智能+”“大数据+”“5G+”“清洁能源+”“供应链+”为核心的高技术含量、高附加值开放型产业体系，着力将成都建成最适宜新发育成长的新型城市。"
+        },
+        {
+          "block_id": "blk-8c61b3c9cb296e2da171",
+          "page_number": 72,
+          "text": "一是加强引进跨国公司地区总部。按照产业生态圈理念，推动差异化的产业空间功能布局，依托66个市级重点产业园，打造各具特色的总部经济骨干企业集群。着力构建总部经济政策体系、服务体系，推进总部大楼、总部基地、总部经济产业园建设。对达到条件的新引进注册的企业给予“引进来”奖励，鼓励总部企业和成长型总部企业积极融入全球产业分工合作，更好地利用全球资源和市场。二是鼓励国际中小企业来蓉发展。制定鼓励国际中小企业来蓉发展的政策。设立国际中小企业招引专项资金，对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。三是强化精准招商。对已开展或未来将开展投资的企业制定详细的招商方案。梳理分析来蓉投资且已在“一带一路”沿线国家开展出口业务的企业，以及目前正在通过“蓉欧快铁”出口产品但未来蓉投资的企业情况，制定个性化、订单式的招商引资方案，通过高层推动和登门拜访推动其在蓉投资或转移其他地区的产能在蓉扩大生产规模。加强对目标企业的分析并制定招商方案。"
+        },
+        {
+          "block_id": "blk-e0f4f664ea0d189bf8f1",
+          "page_number": 72,
+          "text": "一是推进新外贸发展。打造跨境电商全球服务资源中心，加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。支持外贸综合服务企业发展，提升中小企业对外贸易便利化水平，壮大外贸企业主体。支持外贸企业开展技改和研发创新。二是扩大国际化消费。支持开展具有国内国际影响力的时尚经营及活动，开展时尚设计研发及本土设计师大赛等。支持在主要商圈及综合保税区开设跨境O2O体验店和线下展示区，给予运营、建设费用支持。优化消费环境和退税流程，培育一批离境退税示范商店，进一步优化完善离境退税办理流程，提升境外旅客购物退税便利化水平。三是塑造服务贸易新优势。依托成都现有的自由贸易试验区等载体，建设检测维修出口基地、服务外包基地、动漫手游出口基地、商贸物流基地等一批特色服务出口基地，增强服务贸易创新发展的空间载体支撑。整合公共资源，探索建立一批项目对接平台、共性技术支撑平台、国际"
+        },
+        {
+          "block_id": "blk-f8929c8a8ef5c111571f",
+          "page_number": 73,
+          "text": "市场推广平台等公共服务平台，支持创新型中小企业发展，引进和培育一批服务出口重点领域企业。"
+        },
+        {
+          "block_id": "blk-cd4fbb3ab5853785b021",
+          "page_number": 73,
+          "text": "一是吸引人才来蓉发展。对重点创新创业团队和知名企业引进“高精尖缺”海外人才给予引才奖励。培育本土国际化人才，依托中国成都人力资源服务产业园，引进国际知名人力资源机构海外培训师资和课程，建立本土人才国际化系列培训项目，鼓励本土人才“出海”。二是促进金融发展。推动自贸试验区金融改革创新，培育发展5个金融产业集聚区，推进N个特色鲜明的金融功能区建设。促进金融国际化建设，巩固对欧金融合作成果，探索与境外资本合作，加快设立中德、中法等国际合作基金。大力发展供应链金融。三是优化创新资源配置。构建高效协同的区域创新体系，持续深化科技创新体制改革。提升企业自主创新能力，以重点产业关键核心技术研发和产业化为突破口，部署实施一批重大科技项目，形成世界领先的高新技术产业集群。加快融入全球创新网络，积极引进全球创新资源，建设一批国际科技合作基地。"
+        },
+        {
+          "block_id": "blk-eb64368afef0d0cc934d",
+          "page_number": 73,
+          "text": "一是建设高效政务一流城市。深化简政放权改革，进一步优化商事制度，大力推行“互联网+政务服务”，实现外国人住宿登记、涉外单位信息网格化、智能化“一键式”掌上采集，提升政府服务效能。完善口岸通关环境，建立现代立体口岸开放体系，提升口岸通关服务水平。二是完善国际化的生活服务环境。创新涉外管理服务体系，继续实施“家在成都”工程，加强信息平台建设。编制国际化社区建设标准体系，构建政策支持和资金激励机制，开展国际化社区示范创建。推进公共服务国际化，建立面向国际的教育服务体系，完善国际化的医疗卫生体系。三是营造与国际接轨的法治环境。开展政府运作和行政执法的对外交流与合作，推动建立由政府主导和全社会推动的优质公共服务体系，提高政府部门和公共机构的国际化运作水平。"
+        },
+        {
+          "block_id": "blk-d3b4cec6af9e78ad66f1",
+          "page_number": 173,
+          "text": "编制国际化社区建设标准体系，构建政策支持和资金激励机制，开展国际化"
+        },
+        {
+          "block_id": "blk-d9c70bd4fa4018a24a38",
+          "page_number": 74,
+          "text": "广泛开展对外交往活动，能促进与“一带一路”沿线各国相互理解、相互尊重、相互信任，促进民心相通，开辟更多合作渠道。成都建设对外交往中心，通过开展形式多样的会展、旅游、文化、体育、科技等国际交流活动，引进国际机构和组织入驻落户，搭建多层次人文合作机制，不仅有利于推动成都与“一带一路”沿线国家和地区在各个领域广泛深入开展合作，而且能完善成都国际交流合作网络，提升城市软实力和国际影响力。"
+        },
+        {
+          "block_id": "blk-7ea8d84377ef7dafce6c",
+          "page_number": 74,
+          "text": "2017-2018年，成都加快推进“一带一路”对外交流合作，着力建设世界文创名城、世界旅游名城、世界赛事名城、国际美食之都、国际会展之都、国际音乐之都，对外交往中心建设取得了显著成效。"
+        },
+        {
+          "block_id": "blk-96e447bdf58082fad252",
+          "page_number": 74,
+          "text": "2017年，成都文化创意产业发展迅速，文创产业影响力不断增强，在国民经济中的地位和作用日益提升，全市文创产业增加值达到789亿元，同比增长\\(24.5\\%\\) ，占地区生产总值的比重为 \\(5.6\\%\\) ；成功入选世界文化名城论坛第34个会员，成功举办中国成都国际非物质文化遗产节、成都创意设计周、金砖国家电影节、中国一中东欧国家舞蹈夏令营等国际性活动，优势文创企业“走出去”参加第十四届中国一东盟博览会等国际展会活动。"
+        },
+        {
+          "block_id": "blk-152375305f25aef5eced",
+          "page_number": 74,
+          "text": "2018年，文化创意产业增加值达到1129亿元，占地区生产总值的比重上升到\\(7.4\\%\\)；成功举办世界文化名城论坛·天府论坛、第二届中国一中东欧国家艺术合作论坛，有效扩大了天府文化的全球影响。截至2018年底，全市共有国家级产业"
+        },
+        {
+          "block_id": "blk-7ff0445d6fdbf81e8040",
+          "page_number": 75,
+          "text": "园区1个、国家级基地7个、省级产业园区6个、市级文化产业园区31家；“熊猫星球”“川港合作文创园区”“蓉港合作园区”“凤凰国际时尚中心”“西部影视硅谷”在成都落户，摩登天空、爱奇艺等文创企业和许晓峰“音乐公社”、张靓颖“少城时代”、李宇春“黄色石头”等工作室在成都注册落地，全球知名iF设计中心落地成都；文化设施和服务体系不断完善，城市音乐厅、天府大剧院等大型公共文化设施建设稳步推进。"
+        },
+        {
+          "block_id": "blk-d2f9d07f1ee3638ad856",
+          "page_number": 75,
+          "text": "世界文化名城论坛成立于2012年，由伦敦市政府发起，由全球38个城市组成，包括伦敦、纽约、巴黎、悉尼、罗马、香港、上海、东京、米兰等。该论坛在城市文化发展、文化政策制定领域引领全球，同时也是世界最顶级的文化智库。"
+        },
+        {
+          "block_id": "blk-45a22b383130ca001661",
+          "page_number": 75,
+          "text": "2017年8月，在香港举行的成都建设国家西部文创中心专场活动上，成都成为第34个加入世界文化名城论坛的城市，也是中国第五个、内地第三个加入该论坛的城市。"
+        },
+        {
+          "block_id": "blk-88d789df4201efab76d8",
+          "page_number": 75,
+          "text": "2018年6月，世界文化名城论坛·天府论坛在成都开幕，本次论坛以“交流合作·开放共享”为主题，将“世界文化名城”与“一带一路”建设进行有机融合，聚焦全球城市文化建设，来自约22个国家的约22个世界文化名城论坛成员城市代表、约9个“一带一路”沿线重要节点城市代表以及约400名国内外知名文创机构代表齐聚成都，以世界知名文化城市为源点，共商文化交流合作与开放共享，为成都建设世界文化名城出谋划策。"
+        },
+        {
+          "block_id": "blk-504dd184fe246649fd2a",
+          "page_number": 75,
+          "text": "2017年，成都实现旅游产业增加值1405.9亿元，同比增长 \\(20.2\\%\\) ，占全市GDP比重为 \\(10.1\\%\\) ；实现旅游总收入3033.4亿元，其中旅游外汇收入13.1亿美元，同比增长 \\(5.2\\%\\) ；接待国内外游客2.1亿人次，其中接待入境游客301.3万人次，同比增长 \\(10.7\\%\\) ；成功举办联合国世界旅游组织（UNWTO）第22届全体大会，在境外主要客源市场设立成都旅游宣传营销总代理，利用国际友城、国际航线、72小时过境免签政策等资源，积极拓展境外客源市场；被《国家地理旅行者》评选为21个“全球最佳旅游目的地”之一，并被世界优秀旅游目的地城市中心（CED）授予“世界优秀目的地城市”。"
+        },
+        {
+          "block_id": "blk-bc6463951e0fc7416ce5",
+          "page_number": 75,
+          "text": "2018年，实现旅游总收入3712.6亿元，增长 \\(22.4\\%\\) ，其中旅游外汇收入14.5亿美元；接待国内外游客2.4亿人次，其中接待入境游客340.6万人次，增长\\(13\\%\\) ；都江堰玫瑰花溪谷一期、龙泉驿蔚然花海、崇州道明竹里文化旅游等项目竣工投用，成都数字文化产业园、温江星光影视文旅城、彭州葛仙山体育休闲旅"
+        },
+        {
+          "block_id": "blk-5488df8024f08ace2cb6",
+          "page_number": 76,
+          "text": "游小镇等项目开工建设，成都万达文化旅游城、崇州三郎国际旅游度假区、成都华熙528艺术村、成都安仁世界文博小镇等项目加快建设；连续四年位列万事达卡“世界旅游目的地指数”发布的全球最具活力旅游目的地榜单第二。"
+        },
+        {
+          "block_id": "blk-f80ce511150d7921e793",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-fb00248443ced4e3125e",
+          "page_number": 76,
+          "text": "图2-8 2014-2018年成都入境旅游发展情况"
+        },
+        {
+          "block_id": "blk-42fbe4fb71018ead808e",
+          "page_number": 76,
+          "text": "2017年，成都体育产业实现收入558.1亿元，同比增长 \\(23.6\\%\\) ；实现增加值189.8亿元，同比增长 \\(17.2\\%\\) ；在“2017最具体育活力城市排行榜”中，成都排名全国第4，仅次于北京、上海和天津；成功举办国际网联青少年巡回赛、铁人三项世界杯赛、“熊猫杯”国际青年足球锦标赛、国际乒联世界巡回赛中国公开赛、国际篮联三对三青年世界杯赛、ATP125成都国际网球挑战赛、“一带一路”国际业余乒乓球公开赛等19项国际赛事；其中，成功开发并创办了成都国际马拉松赛等全新大型国际赛事活动，并成为全球唯一被授予“国际乒联世界巡回赛最佳赛区”奖项的城市。"
+        },
+        {
+          "block_id": "blk-11379028b4406863546d",
+          "page_number": 76,
+          "text": "2018年，全市体育产业总收入突破600亿元，成功申办2021年第31届世界大学生夏季运动会，高质量举办了ATP250成都网球公开赛、国际自行车联盟都市自行车世界锦标赛、FISE世界极限运动巡回赛、世界体育舞蹈节、环中国国际公路自行车赛、“一带一路”成都一澳网国际大学生网球邀请赛等21项国际赛事；加快推进天府奥体城、凤凰山体育中心规划建设，制定了《成都天府奥体城建设三年行动方案（2018—2020年）》。"
+        },
+        {
+          "block_id": "blk-1d4371e54d3ed67d7c78",
+          "page_number": 77,
+          "text": "专栏2-14 2017-2018年成都举办的部分国际性赛事活动"
+        },
+        {
+          "block_id": "blk-8c4df568cf921dae5ec3",
+          "page_number": 77,
+          "text": "<table><tr><td>赛事名称</td><td>赛事情况</td></tr><tr><td>2017国际篮联三对三青\n年世界杯赛</td><td>6月28日在成都开幕，作为国际篮联的A级赛事，是首次在国内举办\n的篮球世界杯赛事。本届赛事为期5天，吸引了37个国家和地区\n的40支代表队参赛(男子组、女子组各20支参赛队)，还举行了男子\n扣篮大赛、女子技巧大赛、混合投篮大赛三个单项比赛。</td></tr><tr><td>2017“一带一路”国际\n业余乒乓球公开赛</td><td>2017年8月19日至20日在成都青白江举行，有来自美国、法国、\n西班牙、葡萄牙、新加坡、塞尔维亚、瓦努阿图等国家代表队以及\n来自西安、重庆、兰州、新疆等国内“一带一路”沿线城市代表队\n参赛。本次大赛主动融入“一带一路”发展倡议，以丝路精神推进\n“一带一路”沿线国家和地区体育文化传播、交流与发展。</td></tr><tr><td>2017世界体育舞蹈节</td><td>2017世界体育舞蹈节于9月8-10日在成都都江堰举行，该项赛事活\n动在成都已经举办了八年。本届舞蹈节吸引了来自全球42个国家和\n地区的100多对体育舞蹈高手参赛，大赛期间还举办了WDSF世界\n标准舞锦标赛、WDSF世界表演舞锦标赛（拉丁舞/标准舞）、第八届\n中国成都体育舞蹈国际公开赛3项赛事活动。</td></tr><tr><td>2017成都国际马拉松赛</td><td>2017首届成都国际马拉松赛于9月23日在成都举行，共有来自全世\n界的2万名跑友参与。比赛项目分为马拉松、半程马拉松、5.2公里\n的欢乐跑三个项目。赛事期间还举办了包括成马公益系列活动、成\n都国际马拉松博览会、成马音乐加油站、趣味定向跑、线上成马大\n师学院、线下成马官方备战训练营等丰富多彩的活动。</td></tr><tr><td>2018国际网联青少年巡\n回赛（U18）</td><td>3月18日到3月31日在成都双流举行，有来自中国、美国、俄罗斯、\n乌克兰、澳大利亚、新西兰、日本、韩国、泰国等16个国家和地区\n的128名运动员参加。国际网联青少年巡回赛（U18）在成都已经连\n续举办8年，是成都青少年网球国际交流的重要纽带，为成都乃至\n全国青少年网球水平起到了良好的推动作用。</td></tr><tr><td>2018“熊猫杯”国际青\n年足球锦标赛</td><td>5月23-27日在成都双流举行，英格兰、匈牙利、乌拉圭和中国国青\n四支U19队伍参赛。“熊猫杯”已经连续举办五届，“赛事+研讨\n会+球队进校园”的全新办赛模式，已成为成都独创的赛事亮点，“熊\n猫杯”逐渐成为全国知名的国际品牌足球赛事。</td></tr><tr><td>2018铁人三项世界杯赛</td><td>5月5-6日在成都金堂举行，这已是该赛事第七次走进金堂。此次\n共有来自中国、美国、俄罗斯、德国、意大利、澳大利亚、日本等\n27个国家（地区）的1072名运动员参赛。目前，金堂已成为中国西\n部地区铁人三项赛中心。</td></tr></table>"
+        },
+        {
+          "block_id": "blk-320c9b81d1f7a360b5e9",
+          "page_number": 78,
+          "text": "专栏2-15“2017最具体育活力城市排行榜”前10名"
+        },
+        {
+          "block_id": "blk-304b0aaf1801335498d6",
+          "page_number": 78,
+          "text": "<table><tr><td>排名</td><td>城市</td><td>城市大赛</td><td>体育场馆</td><td>全民健身</td><td>体育活力</td><td>总分</td></tr><tr><td>1</td><td>北京</td><td>99.92</td><td>90.93</td><td>100.00</td><td>100.00</td><td>97.71</td></tr><tr><td>2</td><td>上海</td><td>93.40</td><td>93.63</td><td>97.98</td><td>97.62</td><td>95.66</td></tr><tr><td>3</td><td>天津</td><td>95.04</td><td>77.81</td><td>96.53</td><td>95.52</td><td>91.22</td></tr><tr><td>4</td><td>成都</td><td>85.48</td><td>75.39</td><td>95.34</td><td>96.34</td><td>88.14</td></tr><tr><td>5</td><td>广州</td><td>84.99</td><td>75.08</td><td>95.70</td><td>96.35</td><td>88.03</td></tr><tr><td>6</td><td>深圳</td><td>87.59</td><td>70.31</td><td>96.36</td><td>97.38</td><td>87.91</td></tr><tr><td>7</td><td>南京</td><td>86.77</td><td>73.86</td><td>94.36</td><td>95.25</td><td>87.56</td></tr><tr><td>8</td><td>青岛</td><td>80.06</td><td>54.87</td><td>94.66</td><td>94.45</td><td>81.01</td></tr><tr><td>9</td><td>重庆</td><td>80.91</td><td>51.12</td><td>95.63</td><td>96.17</td><td>80.96</td></tr><tr><td>10</td><td>杭州</td><td>75.60</td><td>56.24</td><td>94.57</td><td>95.72</td><td>80.54</td></tr></table>"
+        },
+        {
+          "block_id": "blk-319ba3e02607ac2e0d13",
+          "page_number": 78,
+          "text": "2017年，成都举办了联合国世界旅游组织第二十二届全体大会、第96届全国糖酒商品交易会、2017成都全球创新创业交易会、第十二届中国一欧盟投资贸易科技合作洽谈会、2017国际可持续发展高峰论坛等重大展会活动596个，同比增长 \\(10.4\\%\\) ；展览总面积约366万平方米，同比增长 \\(6.4\\%\\) ；会展总收入达到932亿元，同比增长 \\(12\\%\\) ；会展国际化水平不断提升，共举办国际性会展活动140个，占展会活动数量的比重达 \\(23.5\\%\\) ，国际性展览面积占展览总面积比重超过\\(50\\%\\) ，举办国际大会与会议协会（ICCA）认证的国际会议12个；中国（西部）国际口腔设备与材料展览会、成都国际家具工业展览会已通过全球展览会协会(UFI)认证；会展场馆设施建设取得重大突破，2017年6月中国西部国际博览城一期正式投入使用。"
+        },
+        {
+          "block_id": "blk-a78c32b46584fa2a5d35",
+          "page_number": 78,
+          "text": "2018年，成功举办了第十七届中国西部国际博览会、第五届中非民间论坛、第98届中国糖酒商品交易会、第十九届成都国际家具工业展览会等重大会展活动689个，增长 \\(15.6\\%\\) ；实现会展总收入1091.9亿元，增长 \\(17.2\\%\\) ，其中直接收入110.2亿元，增长 \\(17.8\\%\\) ；会展国际化水平持续提升，举办重大国际展会活动"
+        },
+        {
+          "block_id": "blk-19a15300d7564404e795",
+          "page_number": 79,
+          "text": "163个，增长 \\(16.4\\%\\) ，西博会、糖酒会、创交会、家具展等品牌展会国际影响力进一步提升。2017、2018年全国城市会展业竞争力指数排名中，成都均居全国第四、中西部第一。"
+        },
+        {
+          "block_id": "blk-6e6d5977e2e335eb451e",
+          "page_number": 79,
+          "text": "成都国际家具工业展览会（以下简称“成都家具展”）作为成都市政府大力培育的本土重点展会之一，经过十八年的发展，成都家具展规模已经从首届不足500个展位的小型区域型展会，发展成为中国中西部规模最大、规格最高的专业展会，中西部家居行业最权威交易平台，中国家具行业三大专业展会之一，全球展览会协会（UFI）认证展会。成都家具展辐射西南、西北、华北、东北等地，触及终端深入国内各二三四级市场，是家具内销市场信息交流、产品展示、洽谈订货首选平台。"
+        },
+        {
+          "block_id": "blk-66470bb044f213b1dfc8",
+          "page_number": 79,
+          "text": "2017年6月7日—10日，第十八届成都国际家具工业展览会在成都举行。此次成都家具工业展览会实现了创办以来的最大突破——“一城双展”，并以此为契机，加速创新发展，呈现出“展览规模大幅度提升、国际化实现历史性突破、产业融合提质增效”等新特点。此次展会展出总面积达27万平方米，展位数达12000个。4天的展期里，西部国际会议展览中心和世纪城会展中心两大主会场，共接待专业观众和大众消费者26万人次，观展人数再创历史新高。现场成交额也刷新历史纪录，现场成交达171亿元，其中零售额超过3亿元，同比增长 \\(23.1\\%\\)"
+        },
+        {
+          "block_id": "blk-2e16d796b85dc424835f",
+          "page_number": 79,
+          "text": "2018年6月6日-9日，第十九届成都国际家具工业展览会继续实行“一城双展”模式，总展出面积30万平方米，参展企业近3000家，在中国西部博览城和世纪城新会展中心同时举行，展示包括成品家具、定制家居、软装家纺、家居饰品、红木、办公家具、智能家居、家具生产设备和原辅材料等板块，呈现家居全产业链的“泛家居展”。此次展会以“中国平台·全球共享”为主题，展出规模和参展企业数量创历届新高，稳居中西部第一、全国一流。"
+        },
+        {
+          "block_id": "blk-15500f356fa8ef91c854",
+          "page_number": 79,
+          "text": "2017年，成都餐饮业零售额达到794亿元，同比增长 \\(12.4\\%\\) ，在15个副省级城市中排名第二，仅次于广州；建成一批特色美食街区，成为成都餐饮集群化和规模化发展的重要载体；川菜“走出去”步伐加快，成都知名品牌餐饮品牌企业在全国及海外开设连锁店近千家，在全球范围内影响力不断增强；“郫县豆瓣·川菜原辅料海外推广中心”授牌，为川菜原辅料进入海外市场、打响海外知名度搭建平台；成功举办了“旧金山·成都美食文化节”、第十四届成都美食旅游节暨第七届国际慢食全球大会、2017美食之都成都火锅文化月等活动。"
+        },
+        {
+          "block_id": "blk-da0d989fb693d5523a01",
+          "page_number": 79,
+          "text": "2018年，成都实现餐饮收入900亿元，同比增长 \\(13.7\\%\\) ；引进海内外知名美食品牌5个，培育年销售额亿元以上餐饮企业5家、全国百强餐饮企业2家；在奥地利维也纳授牌成立成都川菜海外推广中心、郫县豆瓣·川菜原辅料海外推广中"
+        },
+        {
+          "block_id": "blk-efbe5ab01e17d8e23ec7",
+          "page_number": 80,
+          "text": "心；举办2018欧洲·成都美食文化节、2018年俄罗斯莫斯科成都旅游体验中心旅游推介活动、第十五届成都美食旅游节暨2018美食之都成都火锅文化月等活动，进一步提升了成都作为美食之都的吸引力和影响力。"
+        },
+        {
+          "block_id": "blk-f80c47935a8171745935",
+          "page_number": 80,
+          "text": "——第十四届成都美食旅游节暨第七届国际慢食全球大会。本届成都美食旅游节于2017年9月29日至10月8日在成都举行。以“天府成都慢食之都”为主题，设立了大邑安仁美食主会场、香格里拉慢食主题会场两个主会场和十大体验区，举办了“天府盛宴”、硅谷名厨PK川菜大师和支付宝口碑网上美食节三大主题活动。来自全球92个国家和地区的500多位国际慢食协会嘉宾以及来自中国20多个省市的300多位代表参加了此次盛会，共接待境内外游客约309万人次，较上届增长超过 \\(40\\%\\) ；实现销售收入9648.8万元。成都“美食之都”城市品牌以及以美食文化为特征的天府文化得到全球广泛传播。"
+        },
+        {
+          "block_id": "blk-982700021d8a64f8857a",
+          "page_number": 80,
+          "text": "——2017美食之都成都火锅文化月。本届成都火锅文化月于2017年12月28日启动，历时15天，以“成都火锅，世界的火锅”为主题，举办了“过节要成都·成都吃火锅”“全城火锅狂欢”等特色活动，策划了《成都火锅》宣传片和歌曲、MV、明信片等文创产品。活动期间，上万家成都火锅门店共接待消费者数百万人次，美国、加拿大、澳大利亚、新加坡、日本、迪拜等全球各地的数十家海外门店同步开展活动，海外20余万消费者同享成都火锅；中英文制作的《成都火锅》宣传片在国外社交媒体和平台上播放，总浏览量已超过100万次，互动量超一万次。此次活动还搭上西成高铁和“复兴号”高铁开通的“快车”，通过线上线下、联动海内海外发起一场美食之约，让海内外宾朋品尝成都味道。"
+        },
+        {
+          "block_id": "blk-2a9b5a174ef7d1c426ab",
+          "page_number": 80,
+          "text": "——第十五届成都国际美食节暨2018美食之都火锅文化月。此次美食节首次创造性地将“第十五届成都美食旅游节”与“2018美食之都成都火锅文化月”双节合办，于2018年12月18日开幕。本届美食节以“美食文化——传承、创新、包容、开放”为主题，由“一场论坛、两轮行业对话、三个体验会场、若干主题活动以及成都全城美食联动”构成美食体验版图，推广成都美食文化，搭建国际美食文化交流平台，将成都美食旅游节打造成为集会、展、赛、评、游为一体的，具有国际影响力的品牌节会，助力成都市建设国际美食交往中心，彰显天府文化时代风采，推动成都全球传播力不断提升，让人文成都享誉世界。"
+        },
+        {
+          "block_id": "blk-6ac03b33183574eb6501",
+          "page_number": 80,
+          "text": "成都音乐休闲娱乐氛围浓郁，是中国原创音乐和音乐产品消费第二城；音乐人才和教育资源丰富，拥有四川音乐学院等12所音乐或设有音乐专业的院校，数量居全国第三，是独立音乐人的重要聚集地。音乐产业快速发展，2017年，音乐产业总产值达326.9亿元，比上年增长近20个百分点，总体规模居全国前列，仅次于北京、上海、广州等一线发达城市，现场音乐演出场馆数量达29个，位居全国第四；2018年，成都音乐产业产值达397.9亿元，成功举办2018中国音乐产业"
+        },
+        {
+          "block_id": "blk-ade135c167f9b7c77b4e",
+          "page_number": 81,
+          "text": "发展峰会、成都国际友城青年音乐周、成都国际音乐(演艺)设施设备博览会、“蓉城之秋”成都国际音乐季等活动。产业集聚效应日益显现，重点打造了武侯区“城市音乐坊”、青羊区“少城视听产业园区”、成华区“东郊记忆”国家音乐产业基地、龙泉驿区“321梵木创艺区”四个特色音乐产业园区。"
+        },
+        {
+          "block_id": "blk-082babafd6fc6ac7cc07",
+          "page_number": 81,
+          "text": "原始 PDF 第 81 页图片"
+        },
+        {
+          "block_id": "blk-ff988d68e2dbde684354",
+          "page_number": 81,
+          "text": "图2-9 成都音乐产业空间布局图"
+        },
+        {
+          "block_id": "blk-9954d7cfc3a04d74e87d",
+          "page_number": 81,
+          "text": "2017年，教育国际交流合作不断深入，成功举办了都江堰国际论坛、亚洲教育论坛、全球创新创业名校高峰对话等教育领域高质量高规格的国际会议，成立成都大学中国-东盟艺术学院；加快推动科技交流，在美国波士顿、韩国首尔等城市共设立离岸创新创业基地18个，首倡并实施全球顶级科技园合伙人计划，与法国索菲亚科技园共同牵头成立“世界一流科技园区联盟”；积极开展对外文化交流活动，先后赴摩洛哥、新西兰和澳大利亚参与“欢乐春节”文化交流活动，"
+        },
+        {
+          "block_id": "blk-995630e0061da71d37f6",
+          "page_number": 82,
+          "text": "赴突尼斯参加“苏塞之春”音乐节，赴埃及参加第五届“国际鼓乐节与传统艺术节”，赴德国柏林开展“感知中国——四川成都文化周”活动，组派优秀团队参加“中国文化周（非遗）”暨“天府文化周”东欧之旅、“天府文化周”走进斐济主题活动；“PANDA成都”国际影响力持续扩大，先后走进阿联酋迪拜、菲律宾宿务、南非开普敦等16个城市宣传推介成都。"
+        },
+        {
+          "block_id": "blk-fd546a8653c742f2f64b",
+          "page_number": 82,
+          "text": "2018年，出台《成都市“一带一路”留学生政府奖学金暨成都市东盟艺术奖学金管理办法》，设立“一带一路”留学生政府奖学金暨成都市东盟艺术奖学金，成功举办中外创新创业教育论坛、亚洲教育论坛；举办2018欧洲文化季、第四届阿拉伯艺术节等国际文化交流活动，开展南方丝路·熊猫之都、天府文化·美食之都等境外活动，持续开展“PANDA成都走世界”，先后走进玻利维亚圣克鲁斯、美国华盛顿、纽约、南非约翰内斯堡等城市举办推介活动。"
+        },
+        {
+          "block_id": "blk-f62fb9b1f9b151e2534c",
+          "page_number": 82,
+          "text": "1.都江堰国际论坛。2017年7月在都江堰市举办。此次论坛以“信息技术促进2030年教育议程实施”为主题，来自俄罗斯、德国、巴西、西班牙、芬兰、挪威、乌兹别克斯坦等27个国家，上海、江苏、深圳、青岛等9个省市，省内外高校及成都市教育系统的专家学者代表、教育同仁近300人参会。"
+        },
+        {
+          "block_id": "blk-c984b584f984665ab59f",
+          "page_number": 82,
+          "text": "2.2017亚洲教育论坛。2017年10月在成都开幕，本次论坛以“教育联结世界，创新引领未来”为主题，聚焦“一带一路”高校智库合作、科学普及、国际教育、青少年创意发明、“互联网+教育”等热点问题，吸引了来自29个国家和地区的600多位政府官员、驻华使节、专家学者等参会。这是亚洲教育论坛年会第6次在成都举办，其目标是进一步推动中西部地区与“一带一路”沿线国家和地区在教育领域的交流与合作。"
+        },
+        {
+          "block_id": "blk-2c2dac60b72bd8c1d5f3",
+          "page_number": 82,
+          "text": "3.2017全球创新创业名校高峰对话。2017年5月在成都世纪城国际会议中心举行，是2017成都全球创新创业交易会的重要活动之一。此次会议主题是“创新引领，共创未来”，聚焦并探讨全球化时代高校创新创业与人才培养、经济与社会发展的密切关联以及策略与方法。来自47个国家、58个友好城市的4位诺贝尔奖获得者、13位院士、国家有关部委领导同志、百所国内外高校负责同志、创新创业领域国际顶尖专家学者和众多知名投资机构、全球知名企业及机构负责人出席会议。"
+        },
+        {
+          "block_id": "blk-bb31924811b4731512c5",
+          "page_number": 88,
+          "text": "3.2017全球创新创业名校高峰对话。2017年5月在成都世纪城国际会议中心举行，是2017成都全球创新创业交易会的重要活动之一。此次会议主题是“创新引领，共创未来”，聚焦并探讨全球化时代高校创新创业与人才培养、经济与社会发展的密切关联以及策略与方法。来自47个国家、58个友好城市的4位诺贝尔奖获得者、13位院士、国家有关部委领导同志、百所国内外高校负责同志、创新创业领域国际顶尖专家学者和众多知名投资机构、全球知名企业及机构负责人出席会议。"
+        },
+        {
+          "block_id": "blk-2aeca015308b00272d2e",
+          "page_number": 82,
+          "text": "4.2018中外创新创业教育论坛。2018年5月18日在成都召开，本次论坛有来自10多个国家和地区的政府部门官员、诺奖得主、国内外知大学校长、全球顶尖专家学者、创新创业中心负责人、企业和媒体300多名代表参加，围绕“共创共享：新经济下的教育创新”主题，深入交流新经济下“双创”教育的改革，分析国际创新创业教育趋势，商讨高校“双创”协同育人机制的构建，并在现场发布“创新创业教育行动力成都宣言”，从而推进成都与全球院校创新创业资源的融合对接。"
+        },
+        {
+          "block_id": "blk-62e1eb578b0ec520be4c",
+          "page_number": 83,
+          "text": "2017年，成都新增拉普拉塔、马普托2个国际友城，与老挝琅勃拉邦省正式结为友好市省关系，与泰国曼谷市、斯里兰卡中央省、乌克兰利沃夫市、菲律宾宿务市、西班牙拉斯帕尔马斯省、希腊帕特雷市、爱尔兰邓莱里·拉斯当郡、西班牙瓦伦西亚市、德国杜伊斯堡市等9个城市建立友好合作关系，国际友好城市增至34个、友好合作关系城市增至51个；新增葡萄牙、加拿大、印度尼西亚3个海外成都工作站，累计建成16个“海外成都”工作站；“一带一路交往中心”建设不断加快，澳大利亚黄金海岸市、丹麦霍森斯市、法国蒙彼利埃市、英国谢菲尔德市签署“一带一路交往中心”入驻意向书，欧洲经济一体化委员会中国办事处落户成都并入驻“一带一路交往中心”；成功加入C40城市气候领导联盟，美国洛杉矶会议及旅游局在蓉设立办事处。"
+        },
+        {
+          "block_id": "blk-50cd8cee5b5a61400d79",
+          "page_number": 83,
+          "text": "2018年，奥地利驻蓉领事馆开馆，获批驻蓉领馆总数达17家，居中西部第一；与白俄罗斯戈梅利市建立国际友城关系，与玻利维亚圣克鲁斯、俄罗斯莫斯科、日本札幌、越南岘港等城市建立友好合作关系，国际友城总数达到35个，友好合作关系城市增至58个，连续第五次荣获“国际友好城市交流合作奖”；在坦桑尼亚、美国、菲律宾、老挝新增4个“海外成都”工作站，累计在“一带一路”沿线国家布点20个；推动法国蒙彼利埃、西班牙拉斯帕尔马斯、丹麦霍森斯、波兰罗兹、澳大利亚黄金海岸等友城入驻“中国—欧洲中心”。"
+        },
+        {
+          "block_id": "blk-ef3f69c08cb3b1287b53",
+          "page_number": 83,
+          "text": "专栏2-19 截至2018年成都友城建设情况"
+        },
+        {
+          "block_id": "blk-20bf8c4ca6ab2bc1e7bc",
+          "page_number": 83,
+          "text": "<table><tr><td>类别</td><td>数量</td><td>国家或城市名称</td></tr><tr><td>友好城市</td><td>35个</td><td>法国蒙彼利埃市、斯洛文尼亚卢布尔雅那市、奥地利林茨市、日本甲府市、美国菲尼克斯市、加拿大温尼伯市、比利时马林市、意大利巴勒莫市、韩国金泉市、印度尼西亚棉兰市、瑞典达拉那省、德国波恩市、英国谢菲尔德市、俄罗斯伏尔加格勒市、比利时布拉邦省、美国檀香山市、澳大利亚珀斯市、荷兰马斯特里赫特市、以色列海法市、丹麦霍森斯市、印度班加罗尔市、泰国清迈市、爱尔兰芬戈郡、巴基斯坦拉合尔市、新西兰哈密尔顿、波兰罗兹市、墨西哥萨博潘市、韩国大邱市、摩洛哥非斯市、尼泊尔加德满都市、巴西累西腓市、老挝琅勃拉邦市、阿根廷拉普拉塔市、莫桑比克马普托市、白俄罗斯戈梅利市</td></tr></table>"
+        },
+        {
+          "block_id": "blk-1a10cf697b94ddccf58f",
+          "page_number": 84,
+          "text": "<table><tr><td>友好合作城市</td><td>58个</td><td>俄罗斯圣彼得堡市、英国索尔福德市、德国柏林市、南非约翰内斯堡市、卢旺达基加利市、阿塞拜疆巴库市、尼泊尔巴丹市、泰国乌汶府、美国诺克斯威尔市、美国好莱坞市、美国蒙特利公园市、美国休斯敦市、美国亚特兰大市、加拿大埃德蒙特市、立陶宛希奥利艾市、希腊特利卡拉省、德国门兴格拉德巴赫市、肯尼亚内罗毕市、安哥拉罗安达市、阿根廷拉普拉塔市、巴西累西腓市、巴西伊太普市、巴西埃皮纳斯市、澳大利亚阿德其德市、澳大利亚悉尼市、新西兰怀卡托市、智利奥索尔诺市、智利科比亚波市、加拿大加蒂诺市、匈牙利佩奇市、美国路易维尔市、爱沙尼亚塔林市、澳大利亚黄金海岸市、芬兰罗瓦涅米市、突尼斯苏塞市、土耳其贝伊奥卢市、意大利米兰市、美国旧金山市、俄罗斯喀山市、墨西哥梅里达市、奥地利维也纳市、莫桑比克马普托市、白俄罗斯戈梅利市、泰国曼谷市、斯里兰卡中央省、乌克兰利沃夫市、菲律宾宿务市、西班牙拉斯帕尔马斯省、希腊帕特雷市、爱尔兰邓莱里·拉斯当郡、西班牙瓦伦西亚市、德国杜伊斯堡市、玻利维亚圣克鲁斯、俄罗斯莫斯科、日本札幌、越南岘港、俄罗斯叶卡捷琳堡、秘鲁阿雷基帕、乌干达坎帕拉、乌拉圭蒙得维的亚</td></tr></table>"
+        },
+        {
+          "block_id": "blk-11e98d5b933ac5ca2703",
+          "page_number": 84,
+          "text": "编制《西部对外交往中心行动计划（2017-2022）》，明确成都建设全国重要的对外交往中心的目标、任务，为对外交往中心建设提供指导。制定《成都市建设世界文创名城三年行动计划(2018-2020年)》《成都市建设世界旅游名城三年行动计划(2018-2020年)》《成都市建设世界赛事名城三年行动计划(2018-2020年)》《成都建设国际美食之都三年行动计划(2018-2020年)》《成都市建设国际音乐之都三年行动计划(2018-2020年)》《成都市建设国际会展之都三年行动计划(2018-2020年)》以及《成都市旅游业改革发展若干政策措施的意见》等相关行动计划和政策意见，进一步推动“三城三都”建设。"
+        },
+        {
+          "block_id": "blk-fe008e4d4615314ef7f7",
+          "page_number": 84,
+          "text": "建立健全国际仲裁和商事调解机制，2017年11月8日正式挂牌设立中国贸促"
+        },
+        {
+          "block_id": "blk-65fe5a3bf9983f97ac1a",
+          "page_number": 85,
+          "text": "会（四川）自由贸易试验区服务中心、中国贸促会（四川）自由贸易试验区调解中心、中国国际经济贸易仲裁委员会四川自贸区仲裁中心、中国国际经济贸易仲裁委员会四川分会。加快完善国际人才交流机制，稳步推进人力资源市场开放，积极参与人才交流合作，组织开展重点企业赴国外招聘急需紧缺专业人才活动，积极落实紧缺人才落户、企业引进急需高层次人才政府补贴等奖励政策，吸引国际国内创新创业人才来蓉发展。"
+        },
+        {
+          "block_id": "blk-f827034bf17c7d14cb41",
+          "page_number": 85,
+          "text": "稳步推进“海外中国文化中心”项目，与文化部共建的拉巴特中国文化中心建成并正式揭牌。积极设立海外人才工作站，2017年9月成都在加拿大设立继美国、德国后的第三个海外人才工作站，常态化宣传成都的产业发展状况、人才需求信息、人才政策、人才发展与服务环境，并就地组织人才招聘会引进海外优秀人才。有效发挥“海外成都”工作站的人脉、语言、熟悉社情等资源优势，推动友城结好，服务创新创造领域发展，助成都海外引资引智活动和企业“走出去”。强化在成都本地建设相关机构，成立了成都大学“中国-东盟艺术学院”，与四川大学共建“一带一路”教育协同创新研究中心，在中国-欧洲中心建设运营“一带一路”国际培训中心、国际预科中心。"
+        },
+        {
+          "block_id": "blk-c6cede12709f45680961",
+          "page_number": 85,
+          "text": "一是打造成都市对外综合宣传平台，及时宣传成都经济社会发展情况、重点产业布局与产业发展环境、人才引进需求、创新创业资源、政策信息等，实现对成都人才发展环境的常态化宣传，促进海外人才全面、深入了解成都，不断提升成都知名度和美誉度。"
+        },
+        {
+          "block_id": "blk-8a85c641ae67b772d1d1",
+          "page_number": 85,
+          "text": "二是围绕电子信息、汽车制造、食品饮料、装备制造、生物医药五大成都支柱产业，航空航天、轨道交通、节能环保、新材料、新能源五大优势产业，以及人工智能、精准医疗、虚拟现实、传感控制、增材制造等未来产业，加强对引进海外重点产业项目、重点企业，畅通国内外产业链对接渠道，促进与全球产业链、供应链、价值链、创新链、人才链的深度融合，加快推进成都具有国际竞争力和区域带动力的现代产业体系构建。"
+        },
+        {
+          "block_id": "blk-ad746db85c1f2fbe377f",
+          "page_number": 85,
+          "text": "三是积极开展人才引进服务工作，推介一批海外高层次人才和团队到成都创新创业，推动海外人才引进服务前移，实现国内人才需求与国外人才供给之间有效对接。同时，还将协助成都市委、市政府及相关职能部门赴海外开展招才引智活动、开展所在国家人才资源状况调查等服务。"
+        },
+        {
+          "block_id": "blk-15ae12f75ab6f19c2d92",
+          "page_number": 86,
+          "text": "打造海外推介品牌活动，进一步提升“PANDA成都走世界”的品牌效应，通过走进全球不同的城市，举办文艺演出、文化展示以及旅游推介活动，提升成都的国际美誉度和天府文化影响力。打造双边交流品牌活动，促成成都旅游·纽约体验中心在曼哈顿正式揭牌，与澳大利亚黄金海岸市联合举办“成都遇见黄金海岸”青少年视频大赛，成功举办2017西班牙成都周、2017英国切尔西花展、2018泰国成都风情文化周、2018欧洲文化季、俄罗斯成都美食文化节等国际交流活动，不断扩大成都国际知名度。打造友城交流品牌活动，举办成都国际友城青年音乐周、2018成都国际友城市长创新论坛等活动，向世界传播成都声音。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-994aeb7a4fd7:bundle-53963c7f026a",
+      "excluded_fragments": [],
+      "ref_id": "ref-994aeb7a4fd7",
+      "source_blocks": [
+        {
+          "block_id": "blk-cac0d541f0d54fe337e5",
+          "page_number": 64,
+          "text": "瞄准新兴产业、传统优势产业和以互联网产业为代表的新业态、新模式，深入"
+        },
+        {
+          "block_id": "blk-25c1a2256c16e8898a55",
+          "page_number": 65,
+          "text": "分析研究产业链关键环节和上下游配套环节，绘制好投资促进“路线图”，全链条、成集群地引进重大项目。以“一带一路”沿线国家和地区为重点，借助各类经贸文化活动平台开展宣传营销，围绕“知名企业四川行”和“中国西部（四川）进口展暨国际投资大会”组织开展投资推介，策划举办重点产业专题投促活动，力争新签约一批重大产业项目。梳理分析来蓉投资且已在“一带一路”沿线国家开展出口业务的企业，以及目前正在通过“蓉欧快铁”出口产品但未来蓉投资的企业情况，制定个性化、订单式的招商引资方案，通过高层推动和登门拜访推动其在蓉投资或转移其他地区的产能在蓉扩大生产规模。认真梳理目前尚未在蓉投资，但对“一带一路”沿线国家出口产品量大、产业发展前景好的国内企业，以及“一带一路”沿线国家对我国出口产品市场良好、符合全市产业发展规划的境外企业，有针对性地制定招商方案，开展精准招商。"
+        },
+        {
+          "block_id": "blk-71976d8ed3e3dc7d0d11",
+          "page_number": 65,
+          "text": "以优势产业项目引进、经贸洽谈活动等为载体，引进“一带一路”沿线发达国家先进的产业技术、品种、装备、管理经验等。支持科研院所和企业建设国际技术合作基地，促进成果分享和技术进出口，形成优势互补，拓展成都优势产业技术对外合作交流渠道。鼓励本土企业与外资企业深入开展投资贸易、技术交流等合作，构建投资、技术、管理等战略联盟，打造承接国际先进技术和对外交流合作新平台。发挥本土企业与跨国公司在价值链上的协同效应，扩大技术溢出效应，融入全球价值链分工和生产体系，搭建跨国公司技术转移平台。"
+        },
+        {
+          "block_id": "blk-4905b5670a7a5a0f67ad",
+          "page_number": 65,
+          "text": "推动国家级开发区和有实力的企业到“一带一路”沿线国家建设或参与建设各类产业合作园区。推动印度中国工业园、中乌农业产业园等园区建设国家级园区，加快建设天齐印度装备制造产业园、中非工业园和中柬商贸园，促进一批新项目开工建设。搭建海外园区与商（协）会、企业的对接交流平台，鼓励成都轻工建材、装备制造等行业的优势企业入驻境外产业园区。"
+        },
+        {
+          "block_id": "blk-8b21ad0961d2b5a4d425",
+          "page_number": 65,
+          "text": "鼓励和支持企业整合资源，抱团出海，采取收购、并购、新建等方式在境外建设产业合作园区和项目，打造一批规模化、集团化、整体竞争力强、在国内外具有较高知名度的行业领军企业。鼓励本市企业并购境外高新技术企业、战略新兴产业，"
+        },
+        {
+          "block_id": "blk-46495ba622f37eb5d867",
+          "page_number": 66,
+          "text": "促进本市企业“走出去”向产业链中高端延伸。支持有条件的企业在境外设立联合研发中心、实验室及科技型企业孵化器，提升企业核心竞争力。开展全市跨国领军企业、跨国成长企业评选工作，加快培育一批总部扎根成都、市场覆盖全球的本土跨国公司。"
+        },
+        {
+          "block_id": "blk-3d5cbbe048b74594cbab",
+          "page_number": 67,
+          "text": "对外交往中心是国际交往的枢纽、国际资源集聚平台和展示国家（地区）形象的重要窗口。建设对外交往中心，不仅能促进成都与“一带一路”沿线国家和地区政策沟通、民心相通，而且能完善成都国际交流合作网络，促进与全球城市和地区在各个领域广泛开展国际交往，成为国际国内各种资源进行交换、流通的桥梁和纽带，从而提升城市软实力和国际影响力。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-24217a54f203",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-30c07a264e90",
+    "ref-994aeb7a4fd7"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

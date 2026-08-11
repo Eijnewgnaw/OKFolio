@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[1].claims[1].evidence_excerpt (ref-ea6308fce155:bundle-76dff1186815) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都举办成都马拉松、全国射箭锦标赛、中国围棋西南棋王赛、中国羽毛球俱乐部超级联赛等12项全国级别的重大体育赛事。'; excerpt='举办成都马拉松、全国射箭锦标赛、中国围棋西南棋王赛、中国羽毛球俱乐部超级联赛等12项全国级别的重大体育赛事'",
+  "group_id": "topic-f2261896bb14",
+  "ref_ids": [
+    "ref-ab86d7e5454d",
+    "ref-ea6308fce155"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

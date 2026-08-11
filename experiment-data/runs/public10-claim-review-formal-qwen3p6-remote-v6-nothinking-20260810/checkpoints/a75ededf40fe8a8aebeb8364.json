@@ -1,0 +1,569 @@
+{
+  "contract": {
+    "canonical_question": "2021年12月17日，西部（重庆）与西部（成都）科学城管委会签署战略合作协议的具体内容、合作机制及战略目标是什么？",
+    "claims": [
+      {
+        "claim": "2021年12月17日，西部（重庆）科学城管委会与西部（成都）科学城管委会签署共同助推西部科学城建设战略合作协议。",
+        "claim_id": "claim-7d5a555eed3983f7",
+        "evidence_block_ids": [
+          "blk-e5adbdae7d22bd4a8344"
+        ],
+        "evidence_excerpt": "2021年12月17日，西部（重庆）科学城管委会、西部（成都）科学城管委会签署共同助推西部科学城建设战略合作协议",
+        "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          257
+        ],
+        "ref_id": "ref-6b7dbabe9d9e",
+        "scope": {
+          "time": "2021年12月17日"
+        },
+        "slot": "implementer",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面开展合作。",
+        "claim_id": "claim-a47ad316768246cd",
+        "evidence_block_ids": [
+          "blk-e5adbdae7d22bd4a8344"
+        ],
+        "evidence_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面",
+        "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          257
+        ],
+        "ref_id": "ref-6b7dbabe9d9e",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方建立联席会议机制、对上争取机制、工作推进机制。",
+        "claim_id": "claim-18c4fb414eceaaa9",
+        "evidence_block_ids": [
+          "blk-e5adbdae7d22bd4a8344"
+        ],
+        "evidence_excerpt": "建立联席会议机制、对上争取机制、工作推进机制",
+        "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          257
+        ],
+        "ref_id": "ref-6b7dbabe9d9e",
+        "scope": {},
+        "slot": "implementation_path",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方力争发挥两地创新平台优势和引领示范作用，推动成渝地区双城经济圈建设成为国家科技创新“第四极”。",
+        "claim_id": "claim-d5944a910829640c",
+        "evidence_block_ids": [
+          "blk-e5adbdae7d22bd4a8344"
+        ],
+        "evidence_excerpt": "力争发挥两地创新平台优势和引领示范作用，推动成渝地区双城经济圈建设成为国家科技创新“第四极”",
+        "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          257
+        ],
+        "ref_id": "ref-6b7dbabe9d9e",
+        "scope": {
+          "region": "成渝地区双城经济圈"
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方旨在打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+        "claim_id": "claim-be793060cbee1acf",
+        "evidence_block_ids": [
+          "blk-e5adbdae7d22bd4a8344"
+        ],
+        "evidence_excerpt": "打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”",
+        "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          257
+        ],
+        "ref_id": "ref-6b7dbabe9d9e",
+        "scope": {},
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-7d5a555eed3983f7",
+          "claim-a47ad316768246cd",
+          "claim-18c4fb414eceaaa9",
+          "claim-d5944a910829640c",
+          "claim-be793060cbee1acf"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+        "reason": "该Bundle包含政策建议所需的全部固定槽位信息，包括实施主体、具体措施、机制、目标及时间范围，是回答中心问题的唯一证据。"
+      }
+    ],
+    "group_id": "proposition-bd853dfef4f0",
+    "members": [
+      {
+        "contribution": "该证据直接提供了战略合作协议签署的时间、主体、十大合作领域、三大机制及战略目标，完整回答了政策建议的核心要素。",
+        "ref_id": "ref-6b7dbabe9d9e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-7d5a555eed3983f7",
+        "draft_excerpt": "西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a47ad316768246cd",
+        "draft_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-18c4fb414eceaaa9",
+        "draft_excerpt": "双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d5944a910829640c",
+        "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-be793060cbee1acf",
+        "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-7d5a555eed3983f7",
+          "claim-d5944a910829640c"
+        ],
+        "draft_excerpt": "2021年12月17日，重庆与成都科学城管委签署战略合作协议，旨在推动成渝地区双城经济圈成为国家科技创新“第四极”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3ab79ff60e6da58a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7d5a555eed3983f7"
+        ],
+        "draft_excerpt": "西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-704812b580c89e04",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a47ad316768246cd"
+        ],
+        "draft_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f43e36bbda03193a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-18c4fb414eceaaa9"
+        ],
+        "draft_excerpt": "双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-96e05447dee5b995",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d5944a910829640c",
+          "claim-be793060cbee1acf"
+        ],
+        "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0d618b373b701ff9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7d5a555eed3983f7"
+        ],
+        "draft_excerpt": "2021年12月17日签署战略合作协议",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-233982015edac80a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a47ad316768246cd"
+        ],
+        "draft_excerpt": "重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9633f918dc0ae74f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-18c4fb414eceaaa9"
+        ],
+        "draft_excerpt": "建立联席会议机制、对上争取机制、工作推进机制",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ce120386ec65d96a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-7d5a555eed3983f7",
+          "draft_excerpt": "西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a47ad316768246cd",
+          "draft_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-18c4fb414eceaaa9",
+          "draft_excerpt": "双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d5944a910829640c",
+          "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-be793060cbee1acf",
+          "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-7d5a555eed3983f7",
+            "claim-d5944a910829640c"
+          ],
+          "draft_excerpt": "2021年12月17日，重庆与成都科学城管委签署战略合作协议，旨在推动成渝地区双城经济圈成为国家科技创新“第四极”。",
+          "finding": "supported",
+          "sentence_id": "sentence-3ab79ff60e6da58a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7d5a555eed3983f7"
+          ],
+          "draft_excerpt": "西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。",
+          "finding": "supported",
+          "sentence_id": "sentence-704812b580c89e04",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a47ad316768246cd"
+          ],
+          "draft_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-f43e36bbda03193a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-18c4fb414eceaaa9"
+          ],
+          "draft_excerpt": "双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。",
+          "finding": "supported",
+          "sentence_id": "sentence-96e05447dee5b995",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d5944a910829640c",
+            "claim-be793060cbee1acf"
+          ],
+          "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+          "finding": "supported",
+          "sentence_id": "sentence-0d618b373b701ff9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7d5a555eed3983f7"
+          ],
+          "draft_excerpt": "2021年12月17日签署战略合作协议",
+          "finding": "supported",
+          "sentence_id": "sentence-233982015edac80a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a47ad316768246cd"
+          ],
+          "draft_excerpt": "重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面",
+          "finding": "supported",
+          "sentence_id": "sentence-9633f918dc0ae74f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-18c4fb414eceaaa9"
+          ],
+          "draft_excerpt": "建立联席会议机制、对上争取机制、工作推进机制",
+          "finding": "supported",
+          "sentence_id": "sentence-ce120386ec65d96a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "a9aeff6dae5ee9624b7d4d4ba7757bd22511513a51ecb15ae152e9486ca0dbd9",
+  "coverage_history": [
+    {
+      "draft_sha256": "a9aeff6dae5ee9624b7d4d4ba7757bd22511513a51ecb15ae152e9486ca0dbd9",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-7d5a555eed3983f7",
+            "draft_excerpt": "西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a47ad316768246cd",
+            "draft_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-18c4fb414eceaaa9",
+            "draft_excerpt": "双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d5944a910829640c",
+            "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-be793060cbee1acf",
+            "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-7d5a555eed3983f7",
+              "claim-d5944a910829640c"
+            ],
+            "draft_excerpt": "2021年12月17日，重庆与成都科学城管委签署战略合作协议，旨在推动成渝地区双城经济圈成为国家科技创新“第四极”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3ab79ff60e6da58a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7d5a555eed3983f7"
+            ],
+            "draft_excerpt": "西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-704812b580c89e04",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a47ad316768246cd"
+            ],
+            "draft_excerpt": "双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f43e36bbda03193a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-18c4fb414eceaaa9"
+            ],
+            "draft_excerpt": "双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-96e05447dee5b995",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d5944a910829640c",
+              "claim-be793060cbee1acf"
+            ],
+            "draft_excerpt": "该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d618b373b701ff9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7d5a555eed3983f7"
+            ],
+            "draft_excerpt": "2021年12月17日签署战略合作协议",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-233982015edac80a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a47ad316768246cd"
+            ],
+            "draft_excerpt": "重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9633f918dc0ae74f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-18c4fb414eceaaa9"
+            ],
+            "draft_excerpt": "建立联席会议机制、对上争取机制、工作推进机制",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce120386ec65d96a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n西部（重庆）科学城管委会与西部（成都）科学城管委会于2021年12月17日签署共同助推西部科学城建设战略合作协议。双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面展开合作。\n\n双方建立联席会议机制、对上争取机制和工作推进机制，力争发挥两地创新平台优势和引领示范作用。\n\n## 证据与影响\n\n该合作旨在推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。\n\n- 2021年12月17日签署战略合作协议\n- 重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面\n- 建立联席会议机制、对上争取机制、工作推进机制",
+    "description": "2021年12月17日，重庆与成都科学城管委签署战略合作协议，旨在推动成渝地区双城经济圈成为国家科技创新“第四极”。",
+    "ref": {
+      "asset_hints": [
+        "image-120",
+        "image-121"
+      ],
+      "concept_id": "proposition-bd853dfef4f0",
+      "description": "2021年12月17日，西部（重庆）科学城管委会、西部（成都）科学城管委会签署共同助推西部科学城建设战略合作协议。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "### 成渝携手共建西部科学城",
+        "2021年12月17日，西部（重庆）科学城管委会、西部（成都）科学城管委会签署共同助推西部科学城建设战略合作协议，双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面，建立联席会议机制、对上争取机制、工作推进机制，力争发挥两地创新平台优势和引领示范作用，推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。"
+      ],
+      "evidence_block_ids": [
+        "blk-e5adbdae7d22bd4a8344"
+      ],
+      "page_end": 257,
+      "page_start": 257,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "重庆、成都",
+        "time": "2021年12月17日"
+      },
+      "section_path": [
+        "重大事件",
+        "成渝携手共建西部科学城"
+      ],
+      "semantic_signature": {
+        "cooperation_type": "战略合作协议",
+        "project_name": "西部科学城"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成渝携手共建西部科学城",
+      "type": "政策建议"
+    },
+    "title": "成渝携手共建西部科学城"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-6b7dbabe9d9e:bundle-0f5a307817a4",
+      "excluded_fragments": [],
+      "ref_id": "ref-6b7dbabe9d9e",
+      "source_blocks": [
+        {
+          "block_id": "blk-e5adbdae7d22bd4a8344",
+          "page_number": 257,
+          "text": "2021年12月17日，西部（重庆）科学城管委会、西部（成都）科学城管委会签署共同助推西部科学城建设战略合作协议，双方重点围绕共建共享重大科技基础设施、协同开展核心技术联合攻关、协同推进高校院所交流互动等十个方面，建立联席会议机制、对上争取机制、工作推进机制，力争发挥两地创新平台优势和引领示范作用，推动成渝地区双城经济圈建设成为国家科技创新“第四极”，打造引领西部、辐射全国、面向全球的“科学高峰”和“科技高地”。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-bd853dfef4f0",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-6b7dbabe9d9e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

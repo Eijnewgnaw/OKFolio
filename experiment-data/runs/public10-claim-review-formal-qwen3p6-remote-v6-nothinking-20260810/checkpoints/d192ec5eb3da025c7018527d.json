@@ -1,0 +1,517 @@
+{
+  "contract": {
+    "canonical_question": "成都高新区与宜宾五粮液集团在新经济项目合作方面的具体举措及落地情况是什么？",
+    "claims": [
+      {
+        "claim": "成都高新区与宜宾五粮液集团正式签署投资合作协议。",
+        "claim_id": "claim-f79a544eb57f2e77",
+        "evidence_block_ids": [
+          "blk-b7c42b9bc59afd4d3943"
+        ],
+        "evidence_excerpt": "与宜宾五粮液集团正式签署投资合作协议",
+        "evidence_id": "ref-ea993424781f:bundle-b44c4491f30d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          60
+        ],
+        "ref_id": "ref-ea993424781f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都高新区注册成立了五粮液进出口（成都）有限公司。",
+        "claim_id": "claim-2664f3e8ef2c9d11",
+        "evidence_block_ids": [
+          "blk-b7c42b9bc59afd4d3943"
+        ],
+        "evidence_excerpt": "注册成立了五粮液进出口（成都）有限公司",
+        "evidence_id": "ref-ea993424781f:bundle-b44c4491f30d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          60
+        ],
+        "ref_id": "ref-ea993424781f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都高新区全力促进五粮液新经济中心落地。",
+        "claim_id": "claim-33353d85d342a951",
+        "evidence_block_ids": [
+          "blk-b7c42b9bc59afd4d3943"
+        ],
+        "evidence_excerpt": "全力促进五粮液新经济中心落地",
+        "evidence_id": "ref-ea993424781f:bundle-b44c4491f30d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          60
+        ],
+        "ref_id": "ref-ea993424781f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f79a544eb57f2e77",
+          "claim-2664f3e8ef2c9d11",
+          "claim-33353d85d342a951"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-ea993424781f:bundle-b44c4491f30d",
+        "reason": "该Bundle包含与五粮液合作的核心事实，是回答中心问题必须保留的证据。"
+      }
+    ],
+    "group_id": "topic-6d86a87d31c1",
+    "members": [
+      {
+        "contribution": "该证据直接描述了成都高新区与五粮液集团签署投资协议、成立合资公司以及推动新经济中心落地的具体事实，是回答中心问题的核心依据。",
+        "ref_id": "ref-ea993424781f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-f79a544eb57f2e77",
+        "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2664f3e8ef2c9d11",
+        "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-33353d85d342a951",
+        "draft_excerpt": "全力促进五粮液新经济中心落地",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-f79a544eb57f2e77",
+          "claim-2664f3e8ef2c9d11",
+          "claim-33353d85d342a951"
+        ],
+        "draft_excerpt": "成都高新区与宜宾五粮液集团签署投资协议并成立进出口公司，推动五粮液新经济中心落地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-399de8e2f04e064b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-33353d85d342a951"
+        ],
+        "draft_excerpt": "成都高新区深化与新经济项目的合作，重点推动五粮液新经济中心落地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-232b3533ea7a3d6b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-33353d85d342a951"
+        ],
+        "draft_excerpt": "通过深化合作，成都高新区致力于促进五粮液新经济中心的实质性落地与发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f59d26954176b14e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f79a544eb57f2e77",
+          "claim-2664f3e8ef2c9d11"
+        ],
+        "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-952f030d854cf30c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f79a544eb57f2e77"
+        ],
+        "draft_excerpt": "与宜宾五粮液集团正式签署投资合作协议",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1212440c4121444c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2664f3e8ef2c9d11"
+        ],
+        "draft_excerpt": "注册成立了五粮液进出口（成都）有限公司",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fb4644ce1968ebe6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-33353d85d342a951"
+        ],
+        "draft_excerpt": "全力促进五粮液新经济中心落地",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9da4f01631688598",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f79a544eb57f2e77",
+          "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2664f3e8ef2c9d11",
+          "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-33353d85d342a951",
+          "draft_excerpt": "全力促进五粮液新经济中心落地",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-f79a544eb57f2e77",
+            "claim-2664f3e8ef2c9d11",
+            "claim-33353d85d342a951"
+          ],
+          "draft_excerpt": "成都高新区与宜宾五粮液集团签署投资协议并成立进出口公司，推动五粮液新经济中心落地。",
+          "finding": "supported",
+          "sentence_id": "sentence-399de8e2f04e064b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-33353d85d342a951"
+          ],
+          "draft_excerpt": "成都高新区深化与新经济项目的合作，重点推动五粮液新经济中心落地。",
+          "finding": "supported",
+          "sentence_id": "sentence-232b3533ea7a3d6b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-33353d85d342a951"
+          ],
+          "draft_excerpt": "通过深化合作，成都高新区致力于促进五粮液新经济中心的实质性落地与发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-f59d26954176b14e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f79a544eb57f2e77",
+            "claim-2664f3e8ef2c9d11"
+          ],
+          "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+          "finding": "supported",
+          "sentence_id": "sentence-952f030d854cf30c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f79a544eb57f2e77"
+          ],
+          "draft_excerpt": "与宜宾五粮液集团正式签署投资合作协议",
+          "finding": "supported",
+          "sentence_id": "sentence-1212440c4121444c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2664f3e8ef2c9d11"
+          ],
+          "draft_excerpt": "注册成立了五粮液进出口（成都）有限公司",
+          "finding": "supported",
+          "sentence_id": "sentence-fb4644ce1968ebe6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-33353d85d342a951"
+          ],
+          "draft_excerpt": "全力促进五粮液新经济中心落地",
+          "finding": "supported",
+          "sentence_id": "sentence-9da4f01631688598",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "a4196d658c271418777216daf35d935612bae2f6e5c31fd432dcb5e4a8afe21a",
+  "coverage_history": [
+    {
+      "draft_sha256": "a4196d658c271418777216daf35d935612bae2f6e5c31fd432dcb5e4a8afe21a",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-f79a544eb57f2e77",
+            "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2664f3e8ef2c9d11",
+            "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-33353d85d342a951",
+            "draft_excerpt": "全力促进五粮液新经济中心落地",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f79a544eb57f2e77",
+              "claim-2664f3e8ef2c9d11",
+              "claim-33353d85d342a951"
+            ],
+            "draft_excerpt": "成都高新区与宜宾五粮液集团签署投资协议并成立进出口公司，推动五粮液新经济中心落地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-399de8e2f04e064b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33353d85d342a951"
+            ],
+            "draft_excerpt": "成都高新区深化与新经济项目的合作，重点推动五粮液新经济中心落地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-232b3533ea7a3d6b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33353d85d342a951"
+            ],
+            "draft_excerpt": "通过深化合作，成都高新区致力于促进五粮液新经济中心的实质性落地与发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f59d26954176b14e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f79a544eb57f2e77",
+              "claim-2664f3e8ef2c9d11"
+            ],
+            "draft_excerpt": "成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-952f030d854cf30c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f79a544eb57f2e77"
+            ],
+            "draft_excerpt": "与宜宾五粮液集团正式签署投资合作协议",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1212440c4121444c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2664f3e8ef2c9d11"
+            ],
+            "draft_excerpt": "注册成立了五粮液进出口（成都）有限公司",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fb4644ce1968ebe6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33353d85d342a951"
+            ],
+            "draft_excerpt": "全力促进五粮液新经济中心落地",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9da4f01631688598",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都高新区深化与新经济项目的合作，重点推动五粮液新经济中心落地。\n\n通过深化合作，成都高新区致力于促进五粮液新经济中心的实质性落地与发展。\n\n## 证据与影响\n\n成都高新区与宜宾五粮液集团正式签署投资合作协议，并在此基础上注册成立了五粮液进出口（成都）有限公司。\n\n- 与宜宾五粮液集团正式签署投资合作协议\n- 注册成立了五粮液进出口（成都）有限公司\n- 全力促进五粮液新经济中心落地",
+    "description": "成都高新区与宜宾五粮液集团签署投资协议并成立进出口公司，推动五粮液新经济中心落地。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6d86a87d31c1",
+      "description": "成都高新区深化与新经济项目的合作，与宜宾五粮液集团签署投资协议并成立进出口公司。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "与宜宾五粮液集团正式签署投资合作协议",
+        "注册成立了五粮液进出口（成都）有限公司",
+        "全力促进五粮液新经济中心落地"
+      ],
+      "evidence_block_ids": [
+        "blk-b7c42b9bc59afd4d3943"
+      ],
+      "page_end": 76,
+      "page_start": 60,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "成都高新区新经济项目合作",
+      "type": "分析框架"
+    },
+    "title": "成都高新区与新经济项目合作：五粮液进出口公司落地"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-ea993424781f:bundle-b44c4491f30d",
+      "excluded_fragments": [],
+      "ref_id": "ref-ea993424781f",
+      "source_blocks": [
+        {
+          "block_id": "blk-b7c42b9bc59afd4d3943",
+          "page_number": 60,
+          "text": "与宜宾五粮液集团正式签署投资合作协议，注册成立了五粮液进出口（成都）有限公司，全力促进五粮液新经济中心落地。启动成都广安生物医药协作研发基地项目勘察设计招标工作，已基本完成拆迁安置工作和产业规划、概念性规划、可行性研究报告编制，两地生物医药合作进展顺利。"
+        },
+        {
+          "block_id": "blk-78615d6c8eedffbfa362",
+          "page_number": 60,
+          "text": "2019年以来，成都高新区以深化新经济项目合作、推动临空产业带共建工作、加速推广盈创动力科技金融服务模式、持续与其他市（州）区县交流合作、推动跨区域干部挂职或跟班学习为工作重点，区域合作工作驶入“快车道”。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-443659705f2d1c7fd5c4",
+          "page_number": 60,
+          "text": "与资阳市临空经济区初步建立起“一区两片”产业协同发展机制，并启动自贸试验区协同改革先行工作，推动20余个产业项目信息流转。完成了成资大道第一批拆迁工作，启动了成自铁路项目石板凳镇、草池镇段拆迁补偿工作。"
+        },
+        {
+          "block_id": "blk-cafbd74eb03f0b6961fc",
+          "page_number": 60,
+          "text": "截至2019年底，盈创动力已在全省16个市（区县）签署了合作协议并设立工作站，累计为64个工业园区开展“园保贷”债权融资产品，放款金额35.8亿元；同时，其运营的四川创新融资基金已投全省12市（州）金融服务平台，累计为1720余家中小微企业提供金融服务近95.81亿元。"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-60499563826556cdcc4a",
+          "page_number": 60,
+          "text": "2019年，内江市、广安市、甘孜州德格县、眉山市、乐山市在成都高新区挂职或跟班学习干部36人，高新区在资阳市、甘孜州德格县挂职干部12人，干部队伍交流工作有序展开。"
+        },
+        {
+          "block_id": "blk-e275de0a8bab89982437",
+          "page_number": 60,
+          "text": "下一步，成都高新区应加快推进与重庆高新区、南岸区开展跨区域战略合作，主动融入成渝地区双城经济圈建设；继续与内江、宜宾等市（州）在干部队伍打造、产业协同等方面全域合作；持续拓展盈创动力覆盖面积，提升金融影响力；推进与西安、贵阳、南宁等地高新区形成战略联盟，探索与京津冀、长三角、粤港澳大湾区等重要城市群协同联动、资源共享。"
+        },
+        {
+          "block_id": "blk-a013f84a2f12ccaac2c0",
+          "page_number": 60,
+          "text": "会同温江区人民政府、资阳高新区、资阳市临空经济区、遂宁高新区、绵阳高新区、内江高新区等进行了10余次友好交流，并与资阳高新区、资阳市临空经济区、遂宁高新区、温江区人民政府签署了框架协议，持续扩大和深化成都高新区与环成都经济圈、川南、川东北的合作交流。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6d86a87d31c1",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-ea993424781f"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

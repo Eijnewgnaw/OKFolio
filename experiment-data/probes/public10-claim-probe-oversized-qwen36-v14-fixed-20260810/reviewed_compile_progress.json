@@ -1,0 +1,757 @@
+{
+  "accepted_groups": [],
+  "claim_reviews": {
+    "proposition-074dc85e74c6": {
+      "contract": {
+        "canonical_question": "成渝地区如何基于国家战略腹地建设逻辑与成德眉资同城化实践，构建区域协同发展的空间战略与实施路径？",
+        "claims": [
+          {
+            "claim": "国家战略腹地是邻近国家级的极核或先行地区，拥有经济高质量发展的基础和产业承接能力，能在一般或特殊时期支撑总体经济运行、承接产业转移、提供资源供给及保障生态安全，服务国家战略全局发展的内陆纵深区域。",
+            "claim_id": "claim-74e80b2a1710075e",
+            "evidence_block_ids": [
+              "blk-073b42306f3b8eb98411"
+            ],
+            "evidence_excerpt": "因此，本文认为，“国家战略腹地”是邻近国家级的极核或先行地区，拥有经济高质量发展的基础和产业承接能力，能在一般或特殊时期支撑总体经济运行、承接产业转移、提供资源供给及保障生态安全，服务国家战略全局发展的内陆纵深区域。",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              251
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {},
+            "slot": "target_problem",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成渝地区双城经济圈位于西部陆海新通道和长江经济带交汇处，在国家发展大局特别是实施西部大开发战略中具有独特而重要的战略地位。",
+            "claim_id": "claim-03720ac1aaa01076",
+            "evidence_block_ids": [
+              "blk-a10a0fa0808b059b1155"
+            ],
+            "evidence_excerpt": "成渝地区双城经济圈位于西部陆海新通道和长江经济带交汇处，在国家发展大局特别是实施西部大开发战略中具有独特而重要的战略地位。",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              250
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {
+              "region": [
+                "成渝地区双城经济圈"
+              ]
+            },
+            "slot": "target_group",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "2024年，川渝两地均提出了要建设国家战略腹地核心承载区的战略目标。",
+            "claim_id": "claim-ce48cf7811937790",
+            "evidence_block_ids": [
+              "blk-a10a0fa0808b059b1155"
+            ],
+            "evidence_excerpt": "2024年，川渝两地均提出了要建设国家战略腹地核心承载区的战略目标，为成渝地区双城经济圈进一步落实国家战略腹地建设提供了战略保障。",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              250
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {},
+            "slot": "time",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成渝地区2022年实现地区生产总值77587.99亿元，占全国的6.4%，西部的30.2%。",
+            "claim_id": "claim-5e3644860e8554c2",
+            "evidence_block_ids": [
+              "blk-1ceb728c5fd22b2ea72b"
+            ],
+            "evidence_excerpt": "2022年实现地区生产总值77587.99亿元，占全国的 \\(6.4\\%\\) ，西部的 \\(30.2\\%\\) ，增长极能级稳步提升",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              257
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {},
+            "slot": "expected_effect",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成渝地区初步建立了以电子信息、汽车制造、高端装备、食品轻纺、能源化工、先进材料、医药健康等特色优势产业为主体，涵盖全部41个工业大类的现代产业体系。",
+            "claim_id": "claim-07a947b32757a4db",
+            "evidence_block_ids": [
+              "blk-1ceb728c5fd22b2ea72b"
+            ],
+            "evidence_excerpt": "初步建立了以电子信息、汽车制造、高端装备、食品轻纺、能源化工、先进材料、医药健康等特色优势产业为主体，涵盖全部41个工业大类的现代产业体系。",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              257
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {},
+            "slot": "measure",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成渝地区拥有世界500强企业5家、中国500强26家，建成3个国家级先进制造业集群。",
+            "claim_id": "claim-670b41afd9cfd5e7",
+            "evidence_block_ids": [
+              "blk-743e84df1749286b6eb0"
+            ],
+            "evidence_excerpt": "2022年，成渝地区规模以上工业战略性新兴产业增加值和高技术制造业增加值占规模以上工业增加值的比重分别达 \\(30\\%\\) 和 \\(16.5\\%\\) ，拥有世界500强企业5家、中国500强26家，建成3个国家级先进制造业集群",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              259
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {},
+            "slot": "implementer",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成渝地区已具有支撑国家集成电路、工业母机、工程机械、重要化工等涉及安全稳定大局的重大生产力，以及无人机、卫星互联网、量子信息、人工智能等占据未来产业发展制高点的新型及未来产业新质生产力的基础实力。",
+            "claim_id": "claim-45b8cf1651c7ba0c",
+            "evidence_block_ids": [
+              "blk-c1c38a3868339c4fdd41"
+            ],
+            "evidence_excerpt": "此外，在东部沿海地区产业向东南亚及西部内陆转移分流过程中，成渝地区已能发挥“蓄水池”“拦水坝”作用，有效借力动力电池、晶硅光伏、大数据等产业的市场规模效应，确保了国家清洁能源、数字经济等重点产业链关键环节留在国内。",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              259
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {},
+            "slot": "expected_effect",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成渝地区陆海联动、四向拓展的大通道轮廓初显，西部陆海新通道现已覆盖全球120个国家和地区的近500个港口，中欧班列（成渝）累计开行超过1.4万列。",
+            "claim_id": "claim-8f24169ae9ba4820",
+            "evidence_block_ids": [
+              "blk-764ac5d03a9a679fde80"
+            ],
+            "evidence_excerpt": "具体而言，成渝世界级机场群加速形成与郑渝高铁、成渝中线高铁等“八纵八横”干线的建设和运行，将拓展成渝地区内外基础设施网络，加强与其他城市群的区域联系；此外，西部陆海新通道和中欧班列枢纽功能不断完善，西部陆海新通道现已覆盖全球120个国家和地区的近500个港口，中欧班列（成渝）累计开行超过1.4万列",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              259
+            ],
+            "ref_id": "ref-29f284429a5e",
+            "scope": {
+              "region": [
+                "成渝地区"
+              ]
+            },
+            "slot": "implementation_path",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成德眉资同城化是城市间区域合作最紧密、最高级的空间组织形式，是中心城市与周边城市不断合作深化、单一城市空间向跨城市空间转化的体现。",
+            "claim_id": "claim-821fbfe7141aa701",
+            "evidence_block_ids": [
+              "blk-78aa78e0f5109bbeb93b"
+            ],
+            "evidence_excerpt": "“同城化”是城市间区域合作最紧密、最高级的空间组织形式，是中心城市与周边城市不断合作深化、单一城市空间向跨城市空间转化的体现。",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              171
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {},
+            "slot": "target_problem",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "2020年1月召开的中央财经委员会第六次会议首次提出推动成渝地区双城经济圈建设，更强调尊重客观规律、发挥比较优势，突出中心城市带动作用。",
+            "claim_id": "claim-4fe8ff33e63dfa75",
+            "evidence_block_ids": [
+              "blk-763d8b374ed4363ca51b"
+            ],
+            "evidence_excerpt": "2020年1月召开的中央财经委员会第六次会议首次提出推动成渝地区双城经济圈建设，更强调尊重客观规律、发挥比较优势，突出中心城市带动作用，为成德眉资同城化发展提供了重要理论指引。",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              171
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {},
+            "slot": "time",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "《成德眉资同城化发展暨成都都市圈建设三年行动计划》的出台拉开了在成渝地区双城经济圈背景下构建成都都市圈的帷幕。",
+            "claim_id": "claim-8e692294a3b55ef4",
+            "evidence_block_ids": [
+              "blk-78aa78e0f5109bbeb93b"
+            ],
+            "evidence_excerpt": "成都市与德阳、眉山、资阳已经从区域规划、交通设施、公共服务等各领域持续推进同城化建设，出台了《成德眉资同城化发展暨成都都市圈建设三年行动计划》，拉开了在成渝地区双城经济圈背景下构建成都都市圈的帷幕。",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              171
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {
+              "object": [
+                "成德眉资"
+              ]
+            },
+            "slot": "measure",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "德阳横跨龙泉山、与成都东部区域紧密相连，资阳西连成都、东接重庆，眉山也在成都西南面。",
+            "claim_id": "claim-54cadff471ab7af7",
+            "evidence_block_ids": [
+              "blk-a2440b307b2703999bc2"
+            ],
+            "evidence_excerpt": "德阳横跨龙泉山、与成都东部区域紧密相连，资阳西连成都、东接重庆，眉山也在成都西南面，是成渝地区双城经济圈的重要区域。",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              171
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {
+              "object": [
+                "德阳",
+                "资阳",
+                "眉山"
+              ]
+            },
+            "slot": "target_group",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "加快成德眉资同城化发展，加强区域内产业链、创新链、供应链、价值链衔接配套，合力共建跨区域产业生态圈。",
+            "claim_id": "claim-8262926863ccda5c",
+            "evidence_block_ids": [
+              "blk-a2440b307b2703999bc2",
+              "blk-67f278925304074c15bf"
+            ],
+            "evidence_excerpt": "因此，加快成德眉资同城化发展，加强区域内产业链、创新链、供应链、价值链衔接配套，合力共\n\n建跨区域产业生态圈，这是对城市发展方式和经济组织方式的重大调整",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              171,
+              172
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {
+              "object": [
+                "成德眉资"
+              ]
+            },
+            "slot": "implementation_path",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成德眉资三市重点发展的产业门类中都包含汽车、轨道交通、电子信息、食品饮料产业。",
+            "claim_id": "claim-201409b81beda52d",
+            "evidence_block_ids": [
+              "blk-c22ecec6d698f2127796"
+            ],
+            "evidence_excerpt": "一方面，产业门类同质化现象明显。三市重点发展的产业门类中都包含汽车、轨道交通、电子信息、食品饮料产业，甚至在产业细分领域都高度重合",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              173
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {
+              "object": [
+                "成德眉资"
+              ]
+            },
+            "slot": "target_problem",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成都与德眉资三市主要通过共建产业园区的方式推进产业合作。",
+            "claim_id": "claim-aacca1e3fcdb591f",
+            "evidence_block_ids": [
+              "blk-c22ecec6d698f2127796"
+            ],
+            "evidence_excerpt": "另一方面，产业分工协作模式相对单一。目前成都与德眉资三市主要通过共建产业园区的方式推进产业合作，以产业生态圈理念和产业功能区模式推进上下游协作配套的合作尚处于起步阶段。",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              173
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {
+              "object": [
+                "成都",
+                "德阳",
+                "眉山",
+                "资阳"
+              ]
+            },
+            "slot": "implementation_path",
+            "source_text_anomalies": []
+          },
+          {
+            "claim": "成德眉资同城化涉及区域规划、基础设施、产业布局、生态环保、公共服务、户籍管理、人才流动、政策协调等众多领域。",
+            "claim_id": "claim-c97f15f5d129f934",
+            "evidence_block_ids": [
+              "blk-0376d1f6a4fc42ffed82"
+            ],
+            "evidence_excerpt": "成德资眉同城化是一项复杂的系统工程，涉及区域规划、基础设施、产业布局、生态环保、公共服务、户籍管理、人才流动、政策协调等众多领域。",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "kind": "policy",
+            "ocr_suspicions": [],
+            "page_numbers": [
+              175
+            ],
+            "ref_id": "ref-349e399145a3",
+            "scope": {
+              "object": [
+                "成德眉资"
+              ]
+            },
+            "slot": "target_problem",
+            "source_text_anomalies": []
+          }
+        ],
+        "evidence_units": [
+          {
+            "claim_ids": [
+              "claim-74e80b2a1710075e",
+              "claim-03720ac1aaa01076",
+              "claim-ce48cf7811937790",
+              "claim-5e3644860e8554c2",
+              "claim-07a947b32757a4db",
+              "claim-670b41afd9cfd5e7",
+              "claim-45b8cf1651c7ba0c",
+              "claim-8f24169ae9ba4820"
+            ],
+            "disposition": "required",
+            "evidence_id": "ref-29f284429a5e:bundle-18d19795711d",
+            "reason": "该Bundle详细阐述了国家战略腹地的定义、成渝地区的战略地位、现实基础（产业、科技、资源）及具体建设路径，是回答中心问题关于‘战略腹地建设逻辑与路径’的核心证据。"
+          },
+          {
+            "claim_ids": [
+              "claim-821fbfe7141aa701",
+              "claim-4fe8ff33e63dfa75",
+              "claim-8e692294a3b55ef4",
+              "claim-54cadff471ab7af7",
+              "claim-8262926863ccda5c",
+              "claim-201409b81beda52d",
+              "claim-aacca1e3fcdb591f",
+              "claim-c97f15f5d129f934"
+            ],
+            "disposition": "required",
+            "evidence_id": "ref-349e399145a3:bundle-03bf18f46dff",
+            "reason": "该Bundle详细阐述了成德眉资同城化的战略意义、现实基础、存在问题及具体对策，是回答中心问题关于‘同城化发展路径’的核心证据。"
+          }
+        ],
+        "group_id": "proposition-074dc85e74c6",
+        "members": [
+          {
+            "contribution": "从宏观战略层面阐述国家战略腹地建设的内在逻辑、现实基础与路径选择，为成渝地区双城经济圈提供战略定位与理论支撑。",
+            "ref_id": "ref-29f284429a5e",
+            "relation": "supports"
+          },
+          {
+            "contribution": "聚焦成德眉资同城化这一具体空间组织形式，提供微观层面的协同发展对策与实践案例，验证宏观战略的落地可行性。",
+            "ref_id": "ref-349e399145a3",
+            "relation": "applies_to"
+          }
+        ],
+        "schema_version": "okfolio.claim-contract.v1"
+      },
+      "coverage": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-74e80b2a1710075e",
+            "draft_excerpt": "因此，本文认为，“国家战略腹地”是邻近国家级的极核或先行地区，拥有经济高质量发展的基础和产业承接能力，能在一般或特殊时期支撑总体经济运行、承接产业转移、提供资源供给及保障生态安全，服务国家战略全局发展的内陆纵深区域。",
+            "finding": "本批句子完整复述了claim-74e80b2a1710075e的全部要素，包括定义、功能（支撑经济运行、承接转移、资源供给、生态安全）及区域属性（内陆纵深）。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-03720ac1aaa01076",
+            "draft_excerpt": "成渝地区双城经济圈位于西部陆海新通道和长江经济带交汇处，在国家发展大局特别是实施西部大开发战略中具有独特而重要的战略地位。",
+            "finding": "本批句子逐字匹配claim-03720ac1aaa01076，明确了地理位置（交汇处）及战略地位。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce48cf7811937790",
+            "draft_excerpt": "2024年，川渝两地均提出了要建设国家战略腹地核心承载区的战略目标。",
+            "finding": "本批句子准确表达了claim-ce48cf7811937790的时间（2024年）、主体（川渝两地）及目标内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e3644860e8554c2",
+            "draft_excerpt": "成渝地区2022年实现地区生产总值77587.99亿元，占全国的6.4%，西部的30.2%。",
+            "finding": "本批句子精确复现了claim-5e3644860e8554c2的年份、GDP数值及占比数据。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-07a947b32757a4db",
+            "draft_excerpt": "成渝地区初步建立了以电子信息、汽车制造、高端装备、食品轻纺、能源化工、先进材料、医药健康等特色优势产业为主体，涵盖全部41个工业大类的现代产业体系。",
+            "finding": "本批句子完整列出了claim-07a947b32757a4db中的特色优势产业及“全部41个工业大类”的范围。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-670b41afd9cfd5e7",
+            "draft_excerpt": "成渝地区拥有世界500强企业5家、中国500强26家，建成3个国家级先进制造业集群。",
+            "finding": "本批句子准确表达了claim-670b41afd9cfd5e7的企业数量及集群数量。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45b8cf1651c7ba0c",
+            "draft_excerpt": "成渝地区已具有支撑国家集成电路、工业母机、工程机械、重要化工等涉及安全稳定大局的重大生产力，以及无人机、卫星互联网、量子信息、人工智能等占据未来产业发展制高点的新型及未来产业新质生产力的基础实力。",
+            "finding": "本批句子完整覆盖了claim-45b8cf1651c7ba0c中列举的重大生产力及新质产业门类。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8f24169ae9ba4820",
+            "draft_excerpt": "成渝地区陆海联动、四向拓展的大通道轮廓初显，西部陆海新通道现已覆盖全球120个国家和地区的近500个港口，中欧班列（成渝）累计开行超过1.4万列。",
+            "finding": "本批句子准确表达了claim-8f24169ae9ba4820的通道覆盖范围及班列开行数据。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-821fbfe7141aa701",
+            "draft_excerpt": "“同城化”是城市间区域合作最紧密、最高级的空间组织形式，是中心城市与周边城市不断合作深化、单一城市空间向跨城市空间转化的体现。",
+            "finding": "本批句子逐字匹配claim-821fbfe7141aa701，明确了同城化的定义与空间转化特征。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4fe8ff33e63dfa75",
+            "draft_excerpt": "2020年1月召开的中央财经委员会第六次会议首次提出推动成渝地区双城经济圈建设，更强调尊重客观规律、发挥比较优势，突出中心城市带动作用。",
+            "finding": "本批句子准确表达了claim-4fe8ff33e63dfa75的时间、会议名称及核心原则。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8e692294a3b55ef4",
+            "draft_excerpt": "《成德眉资同城化发展暨成都都市圈建设三年行动计划》的出台拉开了在成渝地区双城经济圈背景下构建成都都市圈的帷幕。",
+            "finding": "本批句子完整复现了claim-8e692294a3b55ef4中的政策文件名及战略意义。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54cadff471ab7af7",
+            "draft_excerpt": "德阳横跨龙泉山、与成都东部区域紧密相连，资阳西连成都、东接重庆，眉山也在成都西南面。",
+            "finding": "本批句子中未直接表达claim-54cadff471ab7af7（德阳、资阳、眉山的地理位置描述）。该claim在本批句子中未被覆盖。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8262926863ccda5c",
+            "draft_excerpt": "加快成德眉资同城化发展，加强区域内产业链、创新链、供应链、价值链衔接配套，合力共建跨区域产业生态圈。",
+            "finding": "本批句子中未直接表达claim-8262926863ccda5c（加快成德眉资同城化发展...）。该claim在本批句子中未被覆盖。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-201409b81beda52d",
+            "draft_excerpt": "成德眉资三市重点发展的产业门类中都包含汽车、轨道交通、电子信息、食品饮料产业。",
+            "finding": "本批句子中未直接表达claim-201409b81beda52d（成德眉资三市重点发展的产业门类...）。该claim在本批句子中未被覆盖。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aacca1e3fcdb591f",
+            "draft_excerpt": "成都与德眉资三市主要通过共建产业园区的方式推进产业合作。",
+            "finding": "本批句子中未直接表达claim-aacca1e3fcdb591f（成都与德眉资三市主要通过共建产业园区...）。该claim在本批句子中未被覆盖。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c97f15f5d129f934",
+            "draft_excerpt": "成德眉资同城化涉及区域规划、基础设施、产业布局、生态环保、公共服务、户籍管理、人才流动、政策协调等众多领域。",
+            "finding": "本批句子中未直接表达claim-c97f15f5d129f934（成德眉资同城化涉及领域...）。该claim在本批句子中未被覆盖。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "综合探讨成渝地区作为国家战略腹地的建设逻辑与现实基础，并聚焦成德眉资同城化这一高级空间组织形式的深化发展与对策。",
+            "finding": "该句为描述性语句，未包含具体事实判断或claim中的核心要素。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-de3a811941245c8c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-74e80b2a1710075e"
+            ],
+            "draft_excerpt": "因此，本文认为，“国家战略腹地”是邻近国家级的极核或先行地区，拥有经济高质量发展的基础和产业承接能力，能在一般或特殊时期支撑总体经济运行、承接产业转移、提供资源供给及保障生态安全，服务国家战略全局发展的内陆纵深区域。",
+            "finding": "该句完整支持claim-74e80b2a1710075e。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d83e668ba538ab8f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-03720ac1aaa01076"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈位于西部陆海新通道和长江经济带交汇处，在国家发展大局特别是实施西部大开发战略中具有独特而重要的战略地位。",
+            "finding": "该句完整支持claim-03720ac1aaa01076。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14af2dc1ea100990",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce48cf7811937790"
+            ],
+            "draft_excerpt": "2024年，川渝两地均提出了要建设国家战略腹地核心承载区的战略目标。",
+            "finding": "该句完整支持claim-ce48cf7811937790。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36da82621c2c4155",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e3644860e8554c2"
+            ],
+            "draft_excerpt": "成渝地区2022年实现地区生产总值77587.99亿元，占全国的6.4%，西部的30.2%。",
+            "finding": "该句完整支持claim-5e3644860e8554c2。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-301117b88f4109f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-07a947b32757a4db"
+            ],
+            "draft_excerpt": "成渝地区初步建立了以电子信息、汽车制造、高端装备、食品轻纺、能源化工、先进材料、医药健康等特色优势产业为主体，涵盖全部41个工业大类的现代产业体系。",
+            "finding": "该句完整支持claim-07a947b32757a4db。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-62be8c1c8f6f1285",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-670b41afd9cfd5e7"
+            ],
+            "draft_excerpt": "成渝地区拥有世界500强企业5家、中国500强26家，建成3个国家级先进制造业集群。",
+            "finding": "该句完整支持claim-670b41afd9cfd5e7。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee9694bff77bdd9d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b8cf1651c7ba0c"
+            ],
+            "draft_excerpt": "成渝地区已具有支撑国家集成电路、工业母机、工程机械、重要化工等涉及安全稳定大局的重大生产力，以及无人机、卫星互联网、量子信息、人工智能等占据未来产业发展制高点的新型及未来产业新质生产力的基础实力。",
+            "finding": "该句完整支持claim-45b8cf1651c7ba0c。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-757c905267b8dbd5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8f24169ae9ba4820"
+            ],
+            "draft_excerpt": "成渝地区陆海联动、四向拓展的大通道轮廓初显，西部陆海新通道现已覆盖全球120个国家和地区的近500个港口，中欧班列（成渝）累计开行超过1.4万列。",
+            "finding": "该句完整支持claim-8f24169ae9ba4820。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ceb31b47c3d206d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-821fbfe7141aa701"
+            ],
+            "draft_excerpt": "“同城化”是城市间区域合作最紧密、最高级的空间组织形式，是中心城市与周边城市不断合作深化、单一城市空间向跨城市空间转化的体现。",
+            "finding": "该句完整支持claim-821fbfe7141aa701。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27b8bcac7bc59cab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4fe8ff33e63dfa75"
+            ],
+            "draft_excerpt": "2020年1月召开的中央财经委员会第六次会议首次提出推动成渝地区双城经济圈建设，更强调尊重客观规律、发挥比较优势，突出中心城市带动作用。",
+            "finding": "该句完整支持claim-4fe8ff33e63dfa75。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-165e0650921a5de4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8e692294a3b55ef4"
+            ],
+            "draft_excerpt": "《成德眉资同城化发展暨成都都市圈建设三年行动计划》的出台拉开了在成渝地区双城经济圈背景下构建成都都市圈的帷幕。",
+            "finding": "该句完整支持claim-8e692294a3b55ef4。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-96b67bbf10e4758c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54cadff471ab7af7"
+            ],
+            "draft_excerpt": "德阳横跨龙泉山、与成都东部区域紧密相连，资阳西连成都、东接重庆，眉山也在成都西南面。",
+            "finding": "该句完整表达了claim-54cadff471ab7af7的地理位置描述，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a9fb6d847b43204",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8262926863ccda5c"
+            ],
+            "draft_excerpt": "加快成德眉资同城化发展，加强区域内产业链、创新链、供应链、价值链衔接配套，合力共建跨区域产业生态圈。",
+            "finding": "该句完整表达了claim-8262926863ccda5c的同城化发展及产业链配套要求，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a6bc0a69b31283bc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-201409b81beda52d"
+            ],
+            "draft_excerpt": "成德眉资三市重点发展的产业门类中都包含汽车、轨道交通、电子信息、食品饮料产业。",
+            "finding": "该句完整表达了claim-201409b81beda52d的产业门类重合情况，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15ceebb87fed5a92",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aacca1e3fcdb591f"
+            ],
+            "draft_excerpt": "成都与德眉资三市主要通过共建产业园区的方式推进产业合作。",
+            "finding": "该句完整表达了claim-aacca1e3fcdb591f的产业合作方式，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bfb476c1617b1a51",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c97f15f5d129f934"
+            ],
+            "draft_excerpt": "成德眉资同城化涉及区域规划、基础设施、产业布局、生态环保、公共服务、户籍管理、人才流动、政策协调等众多领域。",
+            "finding": "该句完整表达了claim-c97f15f5d129f934的同城化涉及领域，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b5d9e8111e4064e7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "综合探讨成渝地区作为国家战略腹地的建设逻辑与现实基础，并聚焦成德眉资同城化这一高级空间组织形式的深化发展与对策。",
+            "finding": "该句为描述性语句，未包含具体事实判断或claim中的核心要素。"
+          }
+        ]
+      },
+      "decision": "human_review",
+      "recompile_attempts": 2
+    }
+  },
+  "completed_groups": [
+    "proposition-074dc85e74c6"
+  ],
+  "drafts": {
+    "proposition-074dc85e74c6": {
+      "body": "## 核心判断\n\n因此，本文认为，“国家战略腹地”是邻近国家级的极核或先行地区，拥有经济高质量发展的基础和产业承接能力，能在一般或特殊时期支撑总体经济运行、承接产业转移、提供资源供给及保障生态安全，服务国家战略全局发展的内陆纵深区域。\n\n成渝地区双城经济圈位于西部陆海新通道和长江经济带交汇处，在国家发展大局特别是实施西部大开发战略中具有独特而重要的战略地位。\n\n2024年，川渝两地均提出了要建设国家战略腹地核心承载区的战略目标。\n\n成渝地区2022年实现地区生产总值77587.99亿元，占全国的6.4%，西部的30.2%。\n\n成渝地区初步建立了以电子信息、汽车制造、高端装备、食品轻纺、能源化工、先进材料、医药健康等特色优势产业为主体，涵盖全部41个工业大类的现代产业体系。\n\n成渝地区拥有世界500强企业5家、中国500强26家，建成3个国家级先进制造业集群。\n\n成渝地区已具有支撑国家集成电路、工业母机、工程机械、重要化工等涉及安全稳定大局的重大生产力，以及无人机、卫星互联网、量子信息、人工智能等占据未来产业发展制高点的新型及未来产业新质生产力的基础实力。\n\n成渝地区陆海联动、四向拓展的大通道轮廓初显，西部陆海新通道现已覆盖全球120个国家和地区的近500个港口，中欧班列（成渝）累计开行超过1.4万列。\n\n“同城化”是城市间区域合作最紧密、最高级的空间组织形式，是中心城市与周边城市不断合作深化、单一城市空间向跨城市空间转化的体现。\n\n2020年1月召开的中央财经委员会第六次会议首次提出推动成渝地区双城经济圈建设，更强调尊重客观规律、发挥比较优势，突出中心城市带动作用。\n\n《成德眉资同城化发展暨成都都市圈建设三年行动计划》的出台拉开了在成渝地区双城经济圈背景下构建成都都市圈的帷幕。\n\n德阳横跨龙泉山、与成都东部区域紧密相连，资阳西连成都、东接重庆，眉山也在成都西南面。\n\n加快成德眉资同城化发展，加强区域内产业链、创新链、供应链、价值链衔接配套，合力共建跨区域产业生态圈。\n\n成德眉资三市重点发展的产业门类中都包含汽车、轨道交通、电子信息、食品饮料产业。\n\n成都与德眉资三市主要通过共建产业园区的方式推进产业合作。\n\n成德眉资同城化涉及区域规划、基础设施、产业布局、生态环保、公共服务、户籍管理、人才流动、政策协调等众多领域。",
+      "description": "综合探讨成渝地区作为国家战略腹地的建设逻辑与现实基础，并聚焦成德眉资同城化这一高级空间组织形式的深化发展与对策。",
+      "ref": {
+        "asset_hints": [
+          "html-table-032",
+          "html-table-033",
+          "image-160",
+          "image-161",
+          "image-162",
+          "image-163",
+          "image-164",
+          "image-165",
+          "image-166"
+        ],
+        "concept_id": "proposition-074dc85e74c6",
+        "description": "综合探讨成渝地区作为国家战略腹地的建设逻辑与现实基础，并聚焦成德眉资同城化这一高级空间组织形式的深化发展与对策。",
+        "document_family_id": "",
+        "document_version_id": "",
+        "evidence": [
+          "因此，本文认为，“国家战略腹地”是邻近国家级的极核或先行地区，拥有经济高质量发展的基础和产业承接能力，能在一般或特殊时期支撑总体经济运行、承接产业转移、提供资源供给及保障生态安全，服务国家战略全局发展的内陆纵深区域。",
+          "成渝地区双城经济圈位于西部陆海新通道和长江经济带交汇处，在国家发展大局特别是实施西部大开发战略中具有独特而重要的战略地位。",
+          "2024年，川渝两地均提出了要建设国家战略腹地核心承载区的战略目标，为成渝地区双城经济圈进一步落实国家战略腹地建设提供了战略保障。",
+          "2022年实现地区生产总值77587.99亿元，占全国的 \\(6.4\\%\\) ，西部的 \\(30.2\\%\\) ，增长极能级稳步提升",
+          "初步建立了以电子信息、汽车制造、高端装备、食品轻纺、能源化工、先进材料、医药健康等特色优势产业为主体，涵盖全部41个工业大类的现代产业体系。",
+          "2022年，成渝地区规模以上工业战略性新兴产业增加值和高技术制造业增加值占规模以上工业增加值的比重分别达 \\(30\\%\\) 和 \\(16.5\\%\\) ，拥有世界500强企业5家、中国500强26家，建成3个国家级先进制造业集群",
+          "此外，在东部沿海地区产业向东南亚及西部内陆转移分流过程中，成渝地区已能发挥“蓄水池”“拦水坝”作用，有效借力动力电池、晶硅光伏、大数据等产业的市场规模效应，确保了国家清洁能源、数字经济等重点产业链关键环节留在国内。",
+          "具体而言，成渝世界级机场群加速形成与郑渝高铁、成渝中线高铁等“八纵八横”干线的建设和运行，将拓展成渝地区内外基础设施网络，加强与其他城市群的区域联系；此外，西部陆海新通道和中欧班列枢纽功能不断完善，西部陆海新通道现已覆盖全球120个国家和地区的近500个港口，中欧班列（成渝）累计开行超过1.4万列",
+          "“同城化”是城市间区域合作最紧密、最高级的空间组织形式，是中心城市与周边城市不断合作深化、单一城市空间向跨城市空间转化的体现。",
+          "2020年1月召开的中央财经委员会第六次会议首次提出推动成渝地区双城经济圈建设，更强调尊重客观规律、发挥比较优势，突出中心城市带动作用，为成德眉资同城化发展提供了重要理论指引。",
+          "成都市与德阳、眉山、资阳已经从区域规划、交通设施、公共服务等各领域持续推进同城化建设，出台了《成德眉资同城化发展暨成都都市圈建设三年行动计划》，拉开了在成渝地区双城经济圈背景下构建成都都市圈的帷幕。",
+          "德阳横跨龙泉山、与成都东部区域紧密相连，资阳西连成都、东接重庆，眉山也在成都西南面，是成渝地区双城经济圈的重要区域。",
+          "因此，加快成德眉资同城化发展，加强区域内产业链、创新链、供应链、价值链衔接配套，合力共\n\n建跨区域产业生态圈，这是对城市发展方式和经济组织方式的重大调整",
+          "一方面，产业门类同质化现象明显。三市重点发展的产业门类中都包含汽车、轨道交通、电子信息、食品饮料产业，甚至在产业细分领域都高度重合",
+          "另一方面，产业分工协作模式相对单一。目前成都与德眉资三市主要通过共建产业园区的方式推进产业合作，以产业生态圈理念和产业功能区模式推进上下游协作配套的合作尚处于起步阶段。",
+          "成德资眉同城化是一项复杂的系统工程，涉及区域规划、基础设施、产业布局、生态环保、公共服务、户籍管理、人才流动、政策协调等众多领域。"
+        ],
+        "evidence_block_ids": [
+          "blk-073b42306f3b8eb98411",
+          "blk-a10a0fa0808b059b1155",
+          "blk-1ceb728c5fd22b2ea72b",
+          "blk-743e84df1749286b6eb0",
+          "blk-c1c38a3868339c4fdd41",
+          "blk-764ac5d03a9a679fde80",
+          "blk-78aa78e0f5109bbeb93b",
+          "blk-763d8b374ed4363ca51b",
+          "blk-a2440b307b2703999bc2",
+          "blk-67f278925304074c15bf",
+          "blk-c22ecec6d698f2127796",
+          "blk-0376d1f6a4fc42ffed82"
+        ],
+        "page_end": 267,
+        "page_start": 171,
+        "ref_family_hint": "",
+        "ref_version_id": "",
+        "scope": {},
+        "section_path": [],
+        "semantic_signature": {},
+        "source": "多来源联合编译",
+        "title": "成渝地区双城经济圈战略腹地建设与同城化发展路径",
+        "type": "政策建议"
+      },
+      "title": "成渝地区双城经济圈战略腹地建设与同城化发展路径"
+    }
+  },
+  "recompiles": 2,
+  "schema": "okfolio.reviewed-compile-progress.v1",
+  "withheld_groups": [
+    "proposition-074dc85e74c6"
+  ]
+}

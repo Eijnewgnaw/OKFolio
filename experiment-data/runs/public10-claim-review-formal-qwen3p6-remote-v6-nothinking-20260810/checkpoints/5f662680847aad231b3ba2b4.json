@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-f4e717ce04f8:bundle-7331b7d6989e; submitted='加快探索经济区与行政区适度分离改革。一是经济活动组织管理分离。二是项目报建分离。三是项目实施分离。四是建设用地指标分离。五是市场监管平台分离。六是统计核算分离。'; nearest_verbatim_span='加快探索经济区与行政区适度分离改革。一是经济活动组织管理分离'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-9f8c46c3e9e0",
+  "ref_ids": [
+    "ref-f4e717ce04f8"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

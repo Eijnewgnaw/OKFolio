@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-416648ecae14:bundle-effdb5f4a978; submitted='一是推进与名山共治生态环境。健全环境保护跨区域联防联控机制，召开联防联控联席会议3次，开展跨区域环境联合检查2次'; nearest_verbatim_span='一是推进与名山共治生态环境。健全环境保护跨区域联防联控机制，召开联防联控联席会议3次'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-f597dabffc75",
+  "ref_ids": [
+    "ref-416648ecae14"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

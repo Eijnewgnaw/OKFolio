@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-e3311087566e:bundle-748c134902f4) is missing hard anchors from the claim: ['59']; claim='2023年，简阳市与重庆长寿区、璧山区、铜梁区合作，实现59项政务服务事项通办。'; excerpt='2023年，围绕做优做强生态价值转化、促进乡村全面振兴、公园城市乡村表达、粮食安全等核心功能，简阳市、都江堰市等新城依托自身资源禀赋，依托产业配套协作、交通设施共建等合作方面，与都市圈、成渝地区双层经济圈以及省外城市等开展了多为合作，跨区域协同发展步伐持续加快。'",
+  "group_id": "topic-085400f9f7ce",
+  "ref_ids": [
+    "ref-e3311087566e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

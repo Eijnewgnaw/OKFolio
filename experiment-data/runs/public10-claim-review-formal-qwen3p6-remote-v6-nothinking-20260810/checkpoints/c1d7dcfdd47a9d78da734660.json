@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[4].evidence_excerpt (ref-74d42df93e1a:bundle-f358b5dede06) is missing hard anchors from the claim: ['2019年']; claim='2019年成都合作领域更加开放，作为全国首个中外人文交流教育试验区，将欧洲、亚洲和北美的先进教学方法、理念引入国内。'; excerpt='在教育领域，作为全国首个中外人文交流教育试验区，将欧洲、亚洲和北美的先进的教学方法、理念引入国内，开展省内外合作；'",
+  "group_id": "proposition-f8b453b0a036",
+  "ref_ids": [
+    "ref-74d42df93e1a"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

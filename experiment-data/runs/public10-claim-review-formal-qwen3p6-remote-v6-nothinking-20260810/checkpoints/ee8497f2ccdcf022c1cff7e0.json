@@ -1,0 +1,776 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在实施服务贸易创新发展计划中，针对服务贸易国际促进、生产性服务进口及公共服务平台建设提供了哪些具体支持措施？",
+    "claims": [
+      {
+        "claim": "鼓励服务贸易国际促进活动，支持服务贸易企业拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+        "claim_id": "claim-b687c33ac0e929a6",
+        "evidence_block_ids": [
+          "blk-2bc0a5b436a9af032f47"
+        ],
+        "evidence_excerpt": "鼓励服务贸易国际促进活动，支持服务贸易企业拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+        "evidence_id": "ref-e9173b9b5779:bundle-9d9c5cb5347f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          166
+        ],
+        "ref_id": "ref-e9173b9b5779",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+        "claim_id": "claim-26b172097715542e",
+        "evidence_block_ids": [
+          "blk-2bc0a5b436a9af032f47"
+        ],
+        "evidence_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+        "evidence_id": "ref-e9173b9b5779:bundle-9d9c5cb5347f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          166
+        ],
+        "ref_id": "ref-e9173b9b5779",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+        "claim_id": "claim-9697f072e9b4f0b6",
+        "evidence_block_ids": [
+          "blk-2bc0a5b436a9af032f47"
+        ],
+        "evidence_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+        "evidence_id": "ref-e9173b9b5779:bundle-9d9c5cb5347f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          166
+        ],
+        "ref_id": "ref-e9173b9b5779",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推动境内外重要交易市场在我市设立服务中心。",
+        "claim_id": "claim-65a3aae6c6953501",
+        "evidence_block_ids": [
+          "blk-2bc0a5b436a9af032f47"
+        ],
+        "evidence_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+        "evidence_id": "ref-e9173b9b5779:bundle-9d9c5cb5347f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          166
+        ],
+        "ref_id": "ref-e9173b9b5779",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b687c33ac0e929a6",
+          "claim-26b172097715542e",
+          "claim-9697f072e9b4f0b6",
+          "claim-65a3aae6c6953501"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e9173b9b5779:bundle-9d9c5cb5347f",
+        "reason": "该证据包含回答中心问题所需的全部核心事实，涉及国际拓展、进口支持、平台建设及市场设立，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-d417bc44e41c",
+    "members": [
+      {
+        "contribution": "该证据直接列举了服务贸易创新发展的具体支持措施，包括国际促进、进口贴息、平台建设及市场服务中心设立，完整覆盖了分析框架中“measure”和“impact”的核心事实。",
+        "ref_id": "ref-e9173b9b5779",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-b687c33ac0e929a6",
+        "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-26b172097715542e",
+        "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9697f072e9b4f0b6",
+        "draft_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-65a3aae6c6953501",
+        "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-b687c33ac0e929a6",
+          "claim-26b172097715542e",
+          "claim-9697f072e9b4f0b6",
+          "claim-65a3aae6c6953501"
+        ],
+        "draft_excerpt": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-372d4792d9d37f49",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cfe3f3904d60510a",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-b687c33ac0e929a6"
+        ],
+        "draft_excerpt": "该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fc195ff0acbbc53c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b687c33ac0e929a6"
+        ],
+        "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fe9d3417354672c4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-26b172097715542e"
+        ],
+        "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-04a7985bb93f6a72",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9697f072e9b4f0b6"
+        ],
+        "draft_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0bf1c81aa9842667",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-65a3aae6c6953501"
+        ],
+        "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-74ab7626fb77a32e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+        "finding": "unsupported_claim"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-b687c33ac0e929a6",
+          "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-26b172097715542e",
+          "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9697f072e9b4f0b6",
+          "draft_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-65a3aae6c6953501",
+          "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-b687c33ac0e929a6",
+            "claim-26b172097715542e",
+            "claim-9697f072e9b4f0b6",
+            "claim-65a3aae6c6953501"
+          ],
+          "draft_excerpt": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-372d4792d9d37f49",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-cfe3f3904d60510a",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-b687c33ac0e929a6"
+          ],
+          "draft_excerpt": "该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。",
+          "finding": "supported",
+          "sentence_id": "sentence-fc195ff0acbbc53c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b687c33ac0e929a6"
+          ],
+          "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-fe9d3417354672c4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-26b172097715542e"
+          ],
+          "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-04a7985bb93f6a72",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9697f072e9b4f0b6"
+          ],
+          "draft_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-0bf1c81aa9842667",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-65a3aae6c6953501"
+          ],
+          "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+          "finding": "supported",
+          "sentence_id": "sentence-74ab7626fb77a32e",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+          "finding": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "d36c22937102beaafdf8ec22348d216b02b7cb4e98f749004b981322358720d5",
+  "coverage_history": [
+    {
+      "draft_sha256": "975b112c20f43335747a7dd3b544e1bcbd33d732bf04209b76d37c686d32914c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b687c33ac0e929a6",
+            "draft_excerpt": "该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26b172097715542e",
+            "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9697f072e9b4f0b6",
+            "draft_excerpt": "支持服务贸易公共服务平台建设，对设备购买、软件开发及相关服务费用给予支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65a3aae6c6953501",
+            "draft_excerpt": "推动境内外重要交易市场在本地设立服务中心。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该计划通过支持企业拓展国际市场、贴息生产性服务进口、建设公共服务平台及推动境外交易中心设立，全面促进服务贸易创新发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12a101b38ada03fa",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfe3f3904d60510a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6"
+            ],
+            "draft_excerpt": "该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc195ff0acbbc53c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26b172097715542e"
+            ],
+            "draft_excerpt": "在产业支持与平台建设方面，计划对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持，以降低企业成本。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d9e40a67caa9ea23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9697f072e9b4f0b6"
+            ],
+            "draft_excerpt": "同时，支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予资金保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-94acf0045db8a051",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65a3aae6c6953501"
+            ],
+            "draft_excerpt": "此外，推动境内外重要交易市场在本地设立服务中心，进一步优化服务贸易生态。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e23e40edffc69609",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6"
+            ],
+            "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ffc6aafe2fc95ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26b172097715542e"
+            ],
+            "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e93d34d3fd58705b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9697f072e9b4f0b6"
+            ],
+            "draft_excerpt": "支持服务贸易公共服务平台建设，对设备购买、软件开发及相关服务费用给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43f58a272ba8c798",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65a3aae6c6953501"
+            ],
+            "draft_excerpt": "推动境内外重要交易市场在本地设立服务中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d38f8260e4ad9925",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该计划通过支持企业拓展国际市场、贴息生产性服务进口、建设公共服务平台及推动境外交易中心设立，全面促进服务贸易创新发展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "61ccedbe96379590f933ccc8c7fabe7ff841ddcf6f39daf17a1eefd75352688c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b687c33ac0e929a6",
+            "draft_excerpt": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26b172097715542e",
+            "draft_excerpt": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65a3aae6c6953501",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9697f072e9b4f0b6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6",
+              "claim-26b172097715542e",
+              "claim-9697f072e9b4f0b6",
+              "claim-65a3aae6c6953501"
+            ],
+            "draft_excerpt": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-372d4792d9d37f49",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfe3f3904d60510a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6"
+            ],
+            "draft_excerpt": "该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc195ff0acbbc53c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6"
+            ],
+            "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe9d3417354672c4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26b172097715542e"
+            ],
+            "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-04a7985bb93f6a72",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9697f072e9b4f0b6"
+            ],
+            "draft_excerpt": "支持服务贸易公共服务平台建设，对设备购买、软件开发及相关服务费用给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-67c567d9d5965450",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65a3aae6c6953501"
+            ],
+            "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74ab7626fb77a32e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d36c22937102beaafdf8ec22348d216b02b7cb4e98f749004b981322358720d5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b687c33ac0e929a6",
+            "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26b172097715542e",
+            "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9697f072e9b4f0b6",
+            "draft_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65a3aae6c6953501",
+            "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6",
+              "claim-26b172097715542e",
+              "claim-9697f072e9b4f0b6",
+              "claim-65a3aae6c6953501"
+            ],
+            "draft_excerpt": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-372d4792d9d37f49",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfe3f3904d60510a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6"
+            ],
+            "draft_excerpt": "该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc195ff0acbbc53c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b687c33ac0e929a6"
+            ],
+            "draft_excerpt": "鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe9d3417354672c4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26b172097715542e"
+            ],
+            "draft_excerpt": "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-04a7985bb93f6a72",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9697f072e9b4f0b6"
+            ],
+            "draft_excerpt": "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bf1c81aa9842667",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65a3aae6c6953501"
+            ],
+            "draft_excerpt": "推动境内外重要交易市场在我市设立服务中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74ab7626fb77a32e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n实施服务贸易创新发展计划旨在通过多维度的政策支持，提升服务贸易的国际竞争力与专业化水平。该计划重点鼓励服务贸易的国际促进活动，并支持企业拓展“一带一路”沿线等国际市场，同时对企业赴境外参展给予具体支持，以扩大国际市场份额。\n\n- 鼓励服务贸易国际促进活动，支持拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。\n- 对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。\n- 支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。\n- 推动境内外重要交易市场在我市设立服务中心。",
+    "description": "该计划通过鼓励国际促进活动、贴息生产性服务进口、支持公共服务平台建设及推动设立服务中心，促进服务贸易发展。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-d417bc44e41c",
+      "description": "鼓励服务贸易国际促进活动，支持服务贸易企业拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "鼓励服务贸易国际促进活动，支持服务贸易企业拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。",
+        "对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。",
+        "支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。",
+        "推动境内外重要交易市场在我市设立服务中心。"
+      ],
+      "evidence_block_ids": [
+        "blk-2bc0a5b436a9af032f47"
+      ],
+      "page_end": 166,
+      "page_start": 166,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（十六）实施服务贸易创新发展计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施服务贸易创新发展计划",
+      "type": "分析框架"
+    },
+    "title": "实施服务贸易创新发展计划"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e9173b9b5779:bundle-9d9c5cb5347f",
+      "excluded_fragments": [],
+      "ref_id": "ref-e9173b9b5779",
+      "source_blocks": [
+        {
+          "block_id": "blk-2bc0a5b436a9af032f47",
+          "page_number": 166,
+          "text": "鼓励服务贸易国际促进活动，支持服务贸易企业拓展“一带一路”沿线等国际市场，对企业赴境外参展给予支持。对研发设计、节能环保和环境服务等生产性服务进口给予贴息支持。支持服务贸易公共服务平台建设，对平台建设所需的设备购买、软件开发及相关服务费用给予支持。推动境内外重要交易市场在我市设立服务中心。在自贸试验区范围内，允许符合条件的融资租赁业务收取外币租金。（牵头单位：市商务委；责任单位：市金融局、市博览局、市旅游局、市文广新局、市体育局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d417bc44e41c",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-e9173b9b5779"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

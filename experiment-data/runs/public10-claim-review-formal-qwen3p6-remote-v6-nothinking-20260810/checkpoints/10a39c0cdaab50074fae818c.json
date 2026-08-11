@@ -1,0 +1,1381 @@
+{
+  "contract": {
+    "canonical_question": "交通基础设施建设如何影响成渝地区双城经济圈的一体化发展？",
+    "claims": [
+      {
+        "claim": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+        "claim_id": "claim-3ab2f69b78a1e5ec",
+        "evidence_block_ids": [
+          "blk-b93e9c6cb0083e8a7e9c"
+        ],
+        "evidence_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          72
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+        "claim_id": "claim-a91bd633cef4d134",
+        "evidence_block_ids": [
+          "blk-b93e9c6cb0083e8a7e9c"
+        ],
+        "evidence_excerpt": "交通基础设施建设是推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          72
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+        "claim_id": "claim-72c88f934f19d38c",
+        "evidence_block_ids": [
+          "blk-eb4c648705ea77b45847"
+        ],
+        "evidence_excerpt": "交通设施网络逐渐向多中心、均衡化的格局演变。2012-2018年间，城市在公路交通网络的中介中心度均值呈现下降的趋势，表明交通的网络化拓展削弱了一部分城市交通枢纽的地位，城市间的直达联系得到加强。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {
+          "time": [
+            "2012年",
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+        "claim_id": "claim-0794467d9059cc41",
+        "evidence_block_ids": [
+          "blk-0acf16dc166b0affe948"
+        ],
+        "evidence_excerpt": "经济圈目前双核心的客流网络空间结构特征依然十分显著。客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          76
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+        "claim_id": "claim-f6fbd4036aa7302c",
+        "evidence_block_ids": [
+          "blk-0acf16dc166b0affe948"
+        ],
+        "evidence_excerpt": "次级城市间的联系依然偏弱，城市客流网络的极化现象比较突出。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          76
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+        "claim_id": "claim-5be89822f7d46153",
+        "evidence_block_ids": [
+          "blk-4f6182a6e2d2b37aab84"
+        ],
+        "evidence_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          76
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+        "claim_id": "claim-4882022e9c52c09f",
+        "evidence_block_ids": [
+          "blk-1cf564f43cf368efa5e9"
+        ],
+        "evidence_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+        "claim_id": "claim-8484d151e07d252c",
+        "evidence_block_ids": [
+          "blk-1cf564f43cf368efa5e9"
+        ],
+        "evidence_excerpt": "尽管成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化，但当前客流网络所表现出的双核心极化格局依然十分显著。",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-5471a9548217",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-3ab2f69b78a1e5ec",
+          "claim-a91bd633cef4d134",
+          "claim-72c88f934f19d38c",
+          "claim-0794467d9059cc41",
+          "claim-f6fbd4036aa7302c",
+          "claim-5be89822f7d46153",
+          "claim-4882022e9c52c09f",
+          "claim-8484d151e07d252c"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+        "reason": "该Bundle包含回答中心问题所需的核心事实，包括交通对一体化的宏观作用、成渝地区的具体网络演变特征、客流极化现象及政策建议。"
+      }
+    ],
+    "group_id": "topic-84e9a49a8e8a",
+    "members": [
+      {
+        "contribution": "该证据通过对比2012-2018年交通设施网络与客流需求网络，论证了交通建设在形式一体化（多中心、网络化）与功能一体化（双核心极化、供需不匹配）上的不同影响，并提出了相应的政策建议。",
+        "ref_id": "ref-5471a9548217",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-3ab2f69b78a1e5ec",
+        "draft_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a91bd633cef4d134",
+        "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5be89822f7d46153",
+        "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-72c88f934f19d38c",
+        "draft_excerpt": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0794467d9059cc41",
+        "draft_excerpt": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f6fbd4036aa7302c",
+        "draft_excerpt": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8484d151e07d252c",
+        "draft_excerpt": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4882022e9c52c09f",
+        "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-3ab2f69b78a1e5ec",
+          "claim-a91bd633cef4d134"
+        ],
+        "draft_excerpt": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2d218146bac2b1c6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3ab2f69b78a1e5ec"
+        ],
+        "draft_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e24e27ab470725c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a91bd633cef4d134"
+        ],
+        "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6e6dbb6f1ce56637",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5be89822f7d46153"
+        ],
+        "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f31d08c50f2b4da7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-72c88f934f19d38c"
+        ],
+        "draft_excerpt": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-44464310129b9ee1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0794467d9059cc41"
+        ],
+        "draft_excerpt": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d50be0c2a8593657",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f6fbd4036aa7302c"
+        ],
+        "draft_excerpt": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-42b086688eef765a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8484d151e07d252c"
+        ],
+        "draft_excerpt": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c0a59886c5b8668e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4882022e9c52c09f"
+        ],
+        "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d0cb786cd36b2a69",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-3ab2f69b78a1e5ec",
+          "draft_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a91bd633cef4d134",
+          "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5be89822f7d46153",
+          "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-72c88f934f19d38c",
+          "draft_excerpt": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0794467d9059cc41",
+          "draft_excerpt": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f6fbd4036aa7302c",
+          "draft_excerpt": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8484d151e07d252c",
+          "draft_excerpt": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4882022e9c52c09f",
+          "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-3ab2f69b78a1e5ec",
+            "claim-a91bd633cef4d134"
+          ],
+          "draft_excerpt": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+          "finding": "supported",
+          "sentence_id": "sentence-2d218146bac2b1c6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3ab2f69b78a1e5ec"
+          ],
+          "draft_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+          "finding": "supported",
+          "sentence_id": "sentence-e24e27ab470725c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a91bd633cef4d134"
+          ],
+          "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+          "finding": "supported",
+          "sentence_id": "sentence-6e6dbb6f1ce56637",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5be89822f7d46153"
+          ],
+          "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+          "finding": "supported",
+          "sentence_id": "sentence-f31d08c50f2b4da7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-72c88f934f19d38c"
+          ],
+          "draft_excerpt": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+          "finding": "supported",
+          "sentence_id": "sentence-44464310129b9ee1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0794467d9059cc41"
+          ],
+          "draft_excerpt": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+          "finding": "supported",
+          "sentence_id": "sentence-d50be0c2a8593657",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f6fbd4036aa7302c"
+          ],
+          "draft_excerpt": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+          "finding": "supported",
+          "sentence_id": "sentence-42b086688eef765a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8484d151e07d252c"
+          ],
+          "draft_excerpt": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+          "finding": "supported",
+          "sentence_id": "sentence-c0a59886c5b8668e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4882022e9c52c09f"
+          ],
+          "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+          "finding": "supported",
+          "sentence_id": "sentence-d0cb786cd36b2a69",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "2f5d2e0090c06592ec03dd3bfb5cf508b4395d867bebc8a937cf23de844efcc5",
+  "coverage_history": [
+    {
+      "draft_sha256": "81a559117b218f4259908b32cc6104f086e187b82bb6f6f5b21fd15f1b662b94",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3ab2f69b78a1e5ec",
+            "draft_excerpt": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a91bd633cef4d134",
+            "draft_excerpt": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-72c88f934f19d38c",
+            "draft_excerpt": "2012-2018年间，城市在公路交通网络的中介中心度均值呈现下降的趋势，表明交通的网络化拓展削弱了一部分城市交通枢纽的地位，城市间的直达联系得到加强。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0794467d9059cc41",
+            "draft_excerpt": "经济圈目前双核心的客流网络空间结构特征依然十分显著。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f6fbd4036aa7302c",
+            "draft_excerpt": "次级城市间的联系依然偏弱，城市客流网络的极化现象比较突出。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5be89822f7d46153",
+            "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4882022e9c52c09f",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8484d151e07d252c",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3ab2f69b78a1e5ec",
+              "claim-a91bd633cef4d134"
+            ],
+            "draft_excerpt": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d218146bac2b1c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-72c88f934f19d38c"
+            ],
+            "draft_excerpt": "交通设施网络逐渐向多中心、均衡化的格局演变。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-628941fa6251934f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-72c88f934f19d38c"
+            ],
+            "draft_excerpt": "2012-2018年间，城市在公路交通网络的中介中心度均值呈现下降的趋势，表明交通的网络化拓展削弱了一部分城市交通枢纽的地位，城市间的直达联系得到加强。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11b7814ab581a410",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0794467d9059cc41"
+            ],
+            "draft_excerpt": "经济圈目前双核心的客流网络空间结构特征依然十分显著。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-81c6e33b59cd2a14",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0794467d9059cc41"
+            ],
+            "draft_excerpt": "客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-91e0443e6e39b669",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f6fbd4036aa7302c"
+            ],
+            "draft_excerpt": "次级城市间的联系依然偏弱，城市客流网络的极化现象比较突出。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1826c424b90c2ea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a91bd633cef4d134"
+            ],
+            "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0026d3d12da52067",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5be89822f7d46153"
+            ],
+            "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6f819e2ca15e7b90",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8484d151e07d252c"
+            ],
+            "draft_excerpt": "尽管成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化，但当前客流网络所表现出的双核心极化格局依然十分显著。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a8375920884b6f79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4882022e9c52c09f"
+            ],
+            "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d6541cc41502212f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "2f5d2e0090c06592ec03dd3bfb5cf508b4395d867bebc8a937cf23de844efcc5",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-3ab2f69b78a1e5ec",
+            "draft_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a91bd633cef4d134",
+            "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5be89822f7d46153",
+            "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-72c88f934f19d38c",
+            "draft_excerpt": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0794467d9059cc41",
+            "draft_excerpt": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f6fbd4036aa7302c",
+            "draft_excerpt": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8484d151e07d252c",
+            "draft_excerpt": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4882022e9c52c09f",
+            "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3ab2f69b78a1e5ec",
+              "claim-a91bd633cef4d134"
+            ],
+            "draft_excerpt": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d218146bac2b1c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3ab2f69b78a1e5ec"
+            ],
+            "draft_excerpt": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e24e27ab470725c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a91bd633cef4d134"
+            ],
+            "draft_excerpt": "交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6e6dbb6f1ce56637",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5be89822f7d46153"
+            ],
+            "draft_excerpt": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f31d08c50f2b4da7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-72c88f934f19d38c"
+            ],
+            "draft_excerpt": "2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44464310129b9ee1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0794467d9059cc41"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d50be0c2a8593657",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f6fbd4036aa7302c"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-42b086688eef765a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8484d151e07d252c"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c0a59886c5b8668e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4882022e9c52c09f"
+            ],
+            "draft_excerpt": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0cb786cd36b2a69",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。交通基础设施建设推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。高铁动车促进了城市间的日常人口流动，城市网络得到强化。\n\n- 2012-2018年间，成渝地区双城经济圈交通设施网络呈现多中心、均衡化的发展格局，拓展了城市间的联系渠道。\n- 成渝地区双城经济圈客流网络显示出以成都和重庆主城区为中心的双核心格局。\n- 成渝地区双城经济圈次级城市间联系偏弱，城市客流网络的极化现象比较突出。\n- 成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化。\n- 交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+    "description": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用，交通基础设施建设是推动区域一体化发展的重要保障。",
+    "ref": {
+      "asset_hints": [
+        "html-table-008",
+        "image-181",
+        "image-182",
+        "image-183",
+        "image-184",
+        "image-185",
+        "image-186",
+        "image-187",
+        "image-188",
+        "image-189",
+        "image-190",
+        "image-191",
+        "image-192",
+        "image-193",
+        "image-194",
+        "image-195",
+        "image-196",
+        "image-197",
+        "image-198",
+        "image-199",
+        "image-200",
+        "image-201",
+        "image-202",
+        "image-203",
+        "image-204",
+        "image-205",
+        "image-206",
+        "image-207",
+        "image-208",
+        "image-209",
+        "image-210"
+      ],
+      "concept_id": "topic-84e9a49a8e8a",
+      "description": "宗会明指出，在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。",
+        "交通基础设施建设是推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。",
+        "交通设施网络逐渐向多中心、均衡化的格局演变。2012-2018年间，城市在公路交通网络的中介中心度均值呈现下降的趋势，表明交通的网络化拓展削弱了一部分城市交通枢纽的地位，城市间的直达联系得到加强。",
+        "经济圈目前双核心的客流网络空间结构特征依然十分显著。客流网络显示出以成都和重庆主城区为中心的双核心格局。",
+        "次级城市间的联系依然偏弱，城市客流网络的极化现象比较突出。",
+        "高铁动车促进了城市间的日常人口流动，城市网络得到强化。",
+        "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。",
+        "尽管成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化，但当前客流网络所表现出的双核心极化格局依然十分显著。"
+      ],
+      "evidence_block_ids": [
+        "blk-b93e9c6cb0083e8a7e9c",
+        "blk-eb4c648705ea77b45847",
+        "blk-0acf16dc166b0affe948",
+        "blk-4f6182a6e2d2b37aab84",
+        "blk-1cf564f43cf368efa5e9"
+      ],
+      "page_end": 78,
+      "page_start": 45,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "交通网络建设与成渝地区双城经济圈一体化发展",
+      "type": "分析框架"
+    },
+    "title": "交通网络建设与成渝地区双城经济圈一体化发展"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5471a9548217:bundle-796fbf5a8307",
+      "excluded_fragments": [],
+      "ref_id": "ref-5471a9548217",
+      "source_blocks": [
+        {
+          "block_id": "blk-315426a127d6e3dc495b",
+          "page_number": 72,
+          "text": "宗会明 (西南大学)"
+        },
+        {
+          "block_id": "blk-b93e9c6cb0083e8a7e9c",
+          "page_number": 72,
+          "text": "在经济圈或城市群一体化发展过程中，交通运输发挥着先导作用。交通基础设施建设是推动了城市群内部人流、物流、经济流等传播扩散，强化了城市间的相互联系，成为实现区域一体化发展的重要保障。国内外主要城市群和大都市区都将交通基础设施建设作为促进区域一体化的重要工作。日本政府通过建设高速化、电气化和网络化的轨道交通系统，将东京大都市区的日常通勤半径扩到了 \\(70\\mathrm{km}\\)，加强了都市区范围内的日常人口流动，推动了东京大都市区的形成与成熟。在美国，公路运输成为城市群和大都市区交通运输最主要的方式，而州际高速公路建设推动了郊区化，强化了城市间的联系，促进了大都市区的形成，深刻地影响了美国的社会经济发展。在最新的“美国2050”空间战略规划当中，高速铁路的规划和建设得到重视，而高速铁路也将成为未来美国打造11个超级都市区有力工具。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-62c4105c9a5758e50b1e",
+          "page_number": 72,
+          "text": "20世纪90年代以来，中国交通基础设施建设取得了巨大的成就，日益扩张的高速公路与高速铁路网络正在深刻地影响着中国的经济发展格局和城市空间格局。既有研究已经证实交通网络建设促进了珠江三角洲、长江三角洲以及京津冀等沿海城市群区域可达性的提升、加速了人口跨城流动、加强产业联系与对外辐射，进而对城市群一体化发展带来重大的影响。作为中国经济发展第四增长极，成渝地区双城经济圈通过交通基础设施建设逐渐打破了内外联系的瓶颈，强化了内部城市间的相互联系，提升了对外开放水平。然而，既有关于成渝地区双城经济圈交通基础设施的研究依然十分有限，对于交通建设是否推动了区域一体化等问题认识不足。有鉴于此，本文将重点探讨交通基础设施如何影响成渝地区双城经济圈一体化发展等问题，进而为经济圈未来交通建设提出相关的政策建议。"
+        },
+        {
+          "block_id": "blk-a4025d9f8085f3dca23a",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-7d91cdcbc845a9044792",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-b7c1639335ec614abd2a",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-851579a2155fa653656f",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-0a7efaf7e2533b20cdeb",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-8d28c5e8d8947d0e633f",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-adb0bccfc0e5fc37991a",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-e4c755014367e9564c22",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-051f8a20b27d1542f68f",
+          "page_number": 73,
+          "text": "成渝地区双城经济圈处于长江经济带与“一带一路”的连结点，在中国国土空间格局中具有重要的战略地位。尽管在过去10年间成渝地区双城经济圈交通网络建设取得了巨大的成就，但与沿海城市群相比，依然存在较大的差距。既有研究表明，成渝地区双城经济圈在交通基础设施密度以及高等级交通网络（复线铁路、6车道以上高速公路等）比例上显著落后于沿海城市群；在经济圈或城市群内部联系上，高铁枢纽城市往往能获得较好的可达性，但外围非高铁城市与核心城市间联系时间较长，次级城市间联系不畅依然成为制约成渝地区双城经济圈一体化发展的重要因素。与此同时，成渝地区双城经济圈目前也存在着成都和重庆主城双核心背向发展，核心城市继续极化，次级城市发育不足等问题。经济圈一体化进程面临着诸多制约。"
+        },
+        {
+          "block_id": "blk-4176fe0173a0fd485e13",
+          "page_number": 74,
+          "text": "核心城市"
+        },
+        {
+          "block_id": "blk-68a8d1a410a8044f08eb",
+          "page_number": 73,
+          "text": "图9-1成渝地区双城经济圈范围示意图"
+        },
+        {
+          "block_id": "blk-d939c23935a4c449b606",
+          "page_number": 73,
+          "text": "资料来源：图片来源于《成渝城市群发展规划》，底图无修改"
+        },
+        {
+          "block_id": "blk-eda07d06633415f3f19c",
+          "page_number": 45,
+          "text": "数据来源"
+        },
+        {
+          "block_id": "blk-f0ebe38abc40e5cc5381",
+          "page_number": 73,
+          "text": "为了探讨既有交通基础设施对成渝地区双城经济圈一体化的影响，本文选择2012和2018年两个时间断面的交通基础设施网络数据开展研究。与此同时，本文收集2016年与2018年两个时间断面下经济圈主要城市间长途汽车班次（来源：https://www.tz12306.com/）与铁路列车班次数据（来源：https://www.12306.cn/index/），以城际客运班次数据来替代城市间人口的日常流动，从多角度反映交通网络格局下成渝地区双城经济圈内部城市间的联系情况。"
+        },
+        {
+          "block_id": "blk-f04c5e9bba78c0aa1aab",
+          "page_number": 73,
+          "text": "图9-2成渝地区双城经济圈交通网络示意图"
+        },
+        {
+          "block_id": "blk-0a4305b4168fee30627d",
+          "page_number": 74,
+          "text": "原始 PDF 第 74 页图片"
+        },
+        {
+          "block_id": "blk-a74d057d408247c164c6",
+          "page_number": 74,
+          "text": "原始 PDF 第 74 页图片"
+        },
+        {
+          "block_id": "blk-b9575bedb19a1c9e4d8c",
+          "page_number": 74,
+          "text": "原始 PDF 第 74 页图片"
+        },
+        {
+          "block_id": "blk-10da1a05e3e948a80005",
+          "page_number": 74,
+          "text": "原始 PDF 第 74 页图片"
+        },
+        {
+          "block_id": "blk-850d505406ee7163b1e5",
+          "page_number": 74,
+          "text": "原始 PDF 第 74 页图片"
+        },
+        {
+          "block_id": "blk-3dfbd98a42a06c5dcf27",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-78c0906bd9feb8d97c0f",
+          "page_number": 74,
+          "text": "复杂网络分析为研究大中尺度下交通网络的扩展提供了定量化的研究方法。本文将成渝地区双城经济圈交通网络设施抽象为由边（交通干线）和节点（主要城市）组成的平面无向“图”，通过复杂网络分析研究不同时间节点下成渝地区双城经济圈交通网络的整体特征以及各城市在网络中的地位。"
+        },
+        {
+          "block_id": "blk-3f84f4abfe40e698950f",
+          "page_number": 74,
+          "text": "\\[\nL = \\frac{2}{N(N - 1)}\\times \\sum_{\\substack{i,j\\in N\\\\ i\\neq j}}^{N}\\frac{1}{d_{ij}}\n\\]"
+        },
+        {
+          "block_id": "blk-b579a9eaee59a8426670",
+          "page_number": 74,
+          "text": "平均路径长度L为网络中所有节点对之间最短路径的平均值，用于表示网络的传输效率。式中，dij表示节点对i和j之间的最短路径（即需要通过的最少边的数量）；N表示节点的数量；2/N(N-1)表示理论上存在的最大边数。平均路径长度L值越大，表示网络的连通性越好，网络传输效率越高。"
+        },
+        {
+          "block_id": "blk-cefbb8b9c0a9ac9dcf9b",
+          "page_number": 74,
+          "text": "\\[\nC _ {i} = \\frac {2 \\left| \\sum_ {j \\in N} \\sum_ {k \\in N} \\alpha_ {j k} \\right|}{k _ {i} (k _ {i} - 1)}, \\forall j, k \\in \\{t | \\alpha_ {i t} = 1 \\}\n\\]"
+        },
+        {
+          "block_id": "blk-3afdb987d3ee776b7eb2",
+          "page_number": 74,
+          "text": "平均集聚系数表示网络中节点聚集程度的系数。其中Ci为节点i的聚类系数，表示节点i与邻域内连接节点的实际链路数与邻域内所有节点之间可能存在的链路数ki(ki-1)/2之比；节点i邻域表示与i直接相连的一组节点；C表示整体网络的平均集聚系数；其中， \\(0\\leq\\) \\(C\\leq 1\\) ，当 \\(C = 0\\) 时表示所有节点均为孤立节点， \\(C = 1\\) 时表示网络为全局耦合网络，C值越大，表明节点独立性越强（不依赖于其他节点进行联系）。"
+        },
+        {
+          "block_id": "blk-04e0e82067cbe6757477",
+          "page_number": 74,
+          "text": "\\[\n\\sigma = \\frac {2 M}{N (N - 1)}\n\\]"
+        },
+        {
+          "block_id": "blk-14dd50ec3ee15b055323",
+          "page_number": 74,
+          "text": "网络密度表示网络中所有节点间联系的紧密程度，通常用网络中实际存在的连边数M与最大可能的连边数之比。"
+        },
+        {
+          "block_id": "blk-a6d55563f6dce893e0de",
+          "page_number": 74,
+          "text": "\\[\nC _ {i} ^ {D} = \\sum_ {i = 1} ^ {N} \\alpha_ {i j}\n\\]"
+        },
+        {
+          "block_id": "blk-762271cba3dff62eab3e",
+          "page_number": 74,
+          "text": "节点i度数中心度表示与i直接相连的节点的数量，其值越大，表明节点i在网络中的中心地位越突出。式中，αij为一个二元变量，如果i和j之存在直接联系，αij=1，否则为0。"
+        },
+        {
+          "block_id": "blk-1165383cd5b7ed26dc67",
+          "page_number": 74,
+          "text": "\\[\nC _ {i} ^ {C} = \\sum_ {j = 1} ^ {N} \\frac {1}{d _ {i j}}\n\\]"
+        },
+        {
+          "block_id": "blk-9570c84644df12e3ba4d",
+          "page_number": 74,
+          "text": "接近中心度表示节点接近网络中心的程度，一般用与其他节点的距离dij之和的倒数来表示。点的接近中心度越大，表明节点越接近网络的中心，与其他节点的联系越便捷。"
+        },
+        {
+          "block_id": "blk-360e50992277447b72b0",
+          "page_number": 74,
+          "text": "\\[\nC _ {i} ^ {B} = \\sum_ {j \\neq k \\neq i} \\frac {\\varphi_ {j k} (i)}{\\varphi_ {j k}}, \\forall j, k \\in N\n\\]"
+        },
+        {
+          "block_id": "blk-667c8e3b5a18a6e2c941",
+          "page_number": 74,
+          "text": "中介中心度为衡量节点“中介”作用的指标；节点i的中介中心度表示为网络中任意两点j和k经过i点并连接这两点的最短路径数\\(\\varphi jk(i)\\)占这两点之间的最短路径线总数\\(\\varphi jk\\)之比；节点中介中心度值越大，该节点在网络中的中介调节效应越强，对网络的控制力也越强。"
+        },
+        {
+          "block_id": "blk-34253e006e00f2a976fc",
+          "page_number": 74,
+          "text": "相关指标计算利用Ucinet6软件完成。通过基础设施网络与客流网络的分析与比较，研究交通基础设施建设对城市群一体化的影响。"
+        },
+        {
+          "block_id": "blk-81fa475754c3994d9f13",
+          "page_number": 74,
+          "text": "交通网络系统由设施网络、径路网络、组织网络和需求网络组成。其中，交通设施网络（线路网）由港站、线路等基础设施构成，直观反映区域交通基础设施的分布格局，是交通系统得以运行和发挥功效的必要条件。基于复杂网络分析和可达性分析，成渝地区双城经济圈交通设施网络呈现以下特征："
+        },
+        {
+          "block_id": "blk-90ce7ca6ba3f9ab6c844",
+          "page_number": 74,
+          "text": "交通基础设施的网络化发展拓展了城市间的联系渠道。交通网络建设加强了城市对外出行的机动性，扩展和增强了城市间联系的渠道和便捷程度，从而推动了经济圈一体化的进程。在2012年，高速公路形成以成都和重庆主城区为中心的放射状格局，但依然有很多城市对在很大程度上依赖于国道和省道联系；成都-重庆-达州一线开通的动车组列车进一步加强了核心城市与东北部地区的联系。到2018年，大部分城市间都能通过高速公路实现便捷联系，城市对外出行的机动性得到极大提升；与此同时，高速铁路形成以成都和重庆主城区为核心的“轴-辐”格局，覆盖除川南和渝东南而外的大部分城市，城市间的联系时间进一步压缩。从交通网络的整体结构变化来看，公路和铁路网络的平均路径长度、集聚系数以及网络密度等指标值不断增加，表明交通基础设施建设完善了区域交通网络格局；交通网络的连通性和通行效率得到较大的提升。从网络整体的中心度来看，各城市在公路度数中心度和接近中心度平均值均有较大提升，中介中心度呈现下降趋势，而变异系数也呈现下降趋势。这表明公路网络建设拓展了城市间的联系渠道，使得更多的城市能够自由地建立便捷的直接联系，城市间的通行距离缩短，城市群一体化得以加强。与此同时，尽管铁路网络，尤其是高铁网络得到了极大扩展，但当前铁路网络依然处于相对极化的发展阶段；铁路网络扩张的同时，强化了成都和重庆主城区等铁路枢纽的核心地位，因此城市在铁路网络中的中介中心度均值和变异系数均有所增加。"
+        },
+        {
+          "block_id": "blk-d827d1f3563480b650d5",
+          "page_number": 74,
+          "text": "区域中心城市"
+        },
+        {
+          "block_id": "blk-550cb135a141f3838407",
+          "page_number": 74,
+          "text": "核心网络速度值"
+        },
+        {
+          "block_id": "blk-dafea98c0e3bce83254e",
+          "page_number": 74,
+          "text": "40-80km/h"
+        },
+        {
+          "block_id": "blk-e381cb8b84e7f796e178",
+          "page_number": 74,
+          "text": "81-140km/h"
+        },
+        {
+          "block_id": "blk-2bc56d16456c96e2ab1a",
+          "page_number": 74,
+          "text": "141-180km/h"
+        },
+        {
+          "block_id": "blk-d6a45ff09b828de57c00",
+          "page_number": 74,
+          "text": "181-300km/h"
+        },
+        {
+          "block_id": "blk-a5bb291da0a79c023805",
+          "page_number": 74,
+          "text": "图9-3成渝地区双城经济圈核心交通网络示意图"
+        },
+        {
+          "block_id": "blk-959e4c53654692eddbe3",
+          "page_number": 75,
+          "text": "表9-1 成渝地区双城经济圈公路和铁路整体网络特征变化"
+        },
+        {
+          "block_id": "blk-85baea5dfd2f7e8f4c0d",
+          "page_number": 75,
+          "text": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">公路网络</td><td colspan=\"2\">铁路网络</td></tr><tr><td>2012年</td><td>2018年</td><td>2012年</td><td>2018年</td></tr><tr><td>平均路径长度</td><td>4.58</td><td>5.48</td><td>2.31</td><td>3.17</td></tr><tr><td>平均集聚系数</td><td>0.59</td><td>0.59</td><td>0.14</td><td>0.17</td></tr><tr><td>网络密度</td><td>0.25</td><td>0.35</td><td>0.11</td><td>0.12</td></tr><tr><td>度数中心度均值</td><td>5.14</td><td>7.33</td><td>2.29</td><td>2.57</td></tr><tr><td>度数中心度变异系数</td><td>0.36</td><td>0.31</td><td>0.49</td><td>0.49</td></tr><tr><td>接近中心度均值</td><td>45.79</td><td>54.80</td><td>23.13</td><td>31.69</td></tr><tr><td>接近中心度变异系数</td><td>0.17</td><td>0.13</td><td>0.22</td><td>0.16</td></tr><tr><td>中介中心度均值</td><td>24.86</td><td>17.10</td><td>42.52</td><td>44.95</td></tr><tr><td>中介中心度变异系数</td><td>1.18</td><td>1.16</td><td>0.95</td><td>1.05</td></tr></table>"
+        },
+        {
+          "block_id": "blk-fa9ffac3df39891a0090",
+          "page_number": 75,
+          "text": "城市对外出行机动性的提升推动城市走廊和城市密集区的形成。基于ArcGIS10.2软件，生成2012和2018年成渝地区双城经济圈各中心城市对外出行的交通时空圈。2012年，成渝地区双城经济圈近一半的区域处于中心城市1小时交通圈的覆盖范围以内；与此同时，部分区域半小时交通圈呈现走廊化或连片现象，例如绵阳-成都-乐山走廊以及遂宁-南充-广安-合川片区等。到2018年，成渝地区双城经济圈走廊化和片区化的趋势进一步加强；绵阳-成都-乐山走廊，成都-内江-重庆走廊，遂宁-南充-广安-合川片区等逐渐发育成熟，半小时交通圈已经拓展成片；但成渝城市群发展规划中“一轴两带，双核三区”格局中的沿江城市带、川南城镇密集区、达万城镇密集区等次级空间组织依然处于发育当中。区域内部半小时交通圈覆盖的“真空”地带开始显现，例如成渝地区双城经济圈中部与东北部区域等，区域交通一体化仍然需要进一步强化。"
+        },
+        {
+          "block_id": "blk-045f42855ce6fe2a82ed",
+          "page_number": 75,
+          "text": "原始 PDF 第 75 页图片"
+        },
+        {
+          "block_id": "blk-33f49e9e67829dbba79a",
+          "page_number": 75,
+          "text": "原始 PDF 第 75 页图片"
+        },
+        {
+          "block_id": "blk-d9742dac8e52463c190d",
+          "page_number": 75,
+          "text": "原始 PDF 第 75 页图片"
+        },
+        {
+          "block_id": "blk-c0690199a3dc398f0ea7",
+          "page_number": 75,
+          "text": "原始 PDF 第 75 页图片"
+        },
+        {
+          "block_id": "blk-29a104c8177999c14547",
+          "page_number": 75,
+          "text": "图9-4成渝地区双城经济圈城市交通圈分布图"
+        },
+        {
+          "block_id": "blk-eb4c648705ea77b45847",
+          "page_number": 75,
+          "text": "交通设施网络逐渐向多中心、均衡化的格局演变。2012-2018年间，城市在公路交通网络的中介中心度均值呈现下降的趋势，表明交通的网络化拓展削弱了一部分城市交通枢纽的地位，城市间的直达联系得到加强。具体来看，在2012年，以遂宁为中心的中部地区成为公路交通网络的中心，拥有更高的中心度值。但到2018年，公路网络的中心逐渐向两侧的成都和重庆主城地区扩展；一方面，说明高速公路的建设逐渐强化了成渝的双核心地位，以成渝为中心的放射状路网在不断深化；另一方面，遂宁中心地位的下降以及网络中心区的扩展意味着公路网络的完善使得城市间联系渠道增加，多中心格局得到加强。从铁路网络中介中心度的整体变化来看，尽管城市在铁路网络中的中介中心度值呈现下降趋势，但变异系数并没有降低。这很大程度上是由于铁路网络依然处于外向扩展阶段，将更多的非铁路城市纳入区域铁路网络当中，并呈现多中心的布局模式，因此导致中介中心度指标变化并不显著。从中心度分布格局来看，2012-2018年铁路网络中心呈现以成都、重庆主城、遂宁/南充和内江为顶点的菱形格局；其中成都和重庆主城成为铁路网络主要枢纽，而遂宁、内江、南充成为次级枢纽，铁路网络空间结构变化并不显著。"
+        },
+        {
+          "block_id": "blk-9547b7d6f5a812c9f255",
+          "page_number": 75,
+          "text": "图9-5成渝地区双城经济圈中心城市在公路网络中的中心度值"
+        },
+        {
+          "block_id": "blk-ad90cd554eb05ade5690",
+          "page_number": 75,
+          "text": "图9-6成渝地区双城经济圈中心城市在铁路网络中的中心度值"
+        },
+        {
+          "block_id": "blk-2f04958260a73a560abc",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-00ea0989c79c3ce5b7eb",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-23667d943084f565fc2b",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-e1589de95ad5a3374a89",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-c1230be26d3a0862cecf",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-c0f2e4534fe85fe4451a",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-71a9277c184f42407267",
+          "page_number": 76,
+          "text": "交通设施网络仅仅反映了交通基础设施的布局情况，无法反映城市间真实的联系情况。交通基础设施直接服务的对象为客货需求，而客货流既是客货需求的重要表征，也是经济圈或城市群内部城市间内在联系的重要形式，因此使用城市间客货流对于分析交通对城市网络的塑造以及城市群的一体化格局具有重要意义。受限于数据的可获得性，本文仅分析了2016和2018年成渝地区双城经济圈城际客流网络。交通需求网络下的成渝地区双城经济圈一体化格局呈现以下特征："
+        },
+        {
+          "block_id": "blk-0acf16dc166b0affe948",
+          "page_number": 76,
+          "text": "经济圈目前双核心的客流网络空间结构特征依然十分显著。客流网络显示出以成都和重庆主城区为中心的双核心格局。将成渝城市群以达州-遂宁-内江-宜宾一线划分为两个片区，西部片区城市主要与成都市进行联系，而东部片区则与重庆主城联系更为密切。与此同时，次级城市对客流吸引力显著弱于双核心城市。尽管泸州、宜宾、绵阳等城市在对外客流联系总量上领先于区内其他城市，具备成为区域次级中心的发展趋势，但这些城市无一例外地都是通过与核心城市的高强度联系而实现客流总量的提升。次级城市间的联系依然偏弱，城市客流网络的极化现象比较突出。"
+        },
+        {
+          "block_id": "blk-b3c9c63f995bc7898bee",
+          "page_number": 76,
+          "text": "经济圈客流网络显示出明显的廊道格局。客流网络能够很好地识别出成渝城市群内部次级空间组织，例如成绵乐城市带、成渝发展轴、沿江城市带等，这些区域一般具有较强的客流组织网络。与此同时，交通网络对成渝城市群次级空间组织的塑造表现出一定的差异性。成绵乐城市带与成渝发展主轴南线（成都-内江-重庆走廊）在铁路（主要为高速铁路）以及公路网络的推动下成型，因此该区域铁路和公路客流都很密集。与此同时，沿江城市带重庆主城以西部分缺乏高速铁路，但现有交通需求量较大，因此公路客流更为密集；以东部分拥有高速铁路，因此重庆主城与万州、涪陵间的铁路客流联系强度更大。而成渝发展主轴北线（成都-遂宁-重庆走廊）以及成都-遂宁-达州走廊目前城际客流对公路运输的依赖较小，而走廊内部的铁路客流占比更大。"
+        },
+        {
+          "block_id": "blk-4f6182a6e2d2b37aab84",
+          "page_number": 76,
+          "text": "高铁动车促进了城市间的日常人口流动，城市网络得到强化。一方面，高速铁路的引入刺激了城市间的日常人口流动。在2016年，成都市对外高铁客流总量最大，其值为197，其次为重庆主城（134）。到2018年底，在高铁城市仅仅增加了雅安市的情况下，成都市和重庆主城对外高铁客流总量分别达到350和257，相比2016年分别增加 \\(77.66\\%\\) 和 \\(91.79\\%\\) 。而绵阳、德"
+        },
+        {
+          "block_id": "blk-e5f464a4fbddd5b66a1e",
+          "page_number": 76,
+          "text": "阳、内江等其他高铁城市对外客流总量也有所增加。另一方面，高速铁路加强了核心城市与次级城市间的联系。到2018年，成绵乐城市带、成渝发展主轴以及重庆主城与万州间的高铁客流均有显著的增加，城市网络在高铁的推动下得到强化。"
+        },
+        {
+          "block_id": "blk-28834d81535bd32f5432",
+          "page_number": 76,
+          "text": "图9-7成渝地区双城经济圈2016和2018年城际客流分布图"
+        },
+        {
+          "block_id": "blk-0b4feb02dc5cabbdd4b8",
+          "page_number": 76,
+          "text": "交通基础设施建设一体化是实现区域产业布局、区域市场建设、城乡统筹与城乡发展等一体化的重要保障。本文通过分析成渝地区双城经济圈交通设施网络和交通需求网络格局，发现交通基础设施建设对城市群一体化发展存在以下几方面的影响："
+        },
+        {
+          "block_id": "blk-b9bca98634c1df7a1292",
+          "page_number": 76,
+          "text": "交通基础设施建设增强了城市间联系的便捷度，强化了城市联系网络。通过交通基础设施建设，成渝地区双城经济圈中心城市间的联系渠道得以拓展。路径的优化和机动性的提升缩短了城市间的联系时间，增强了城市间联系的便捷度。与此同时，大运量、高速化的城际客运交通如高速铁路的引入刺激了区域内部的人口流动需求，加强了中心城市间的日常人口流动，强化了区域城市联系网络，对成渝城市群一体化发挥着积极的促进作用。由于城际联系时间的缩短，外围城市与中心城市的经济联系得到加强，而行政经济的模式也在被逐渐打破，进而推动了区域经济一体化的进程。"
+        },
+        {
+          "block_id": "blk-8952cd8efc2508b7cf98",
+          "page_number": 77,
+          "text": "原始 PDF 第 77 页图片"
+        },
+        {
+          "block_id": "blk-8e487fc78df9233d3deb",
+          "page_number": 77,
+          "text": "原始 PDF 第 77 页图片"
+        },
+        {
+          "block_id": "blk-87ce3e8e8952174f7b61",
+          "page_number": 77,
+          "text": "原始 PDF 第 77 页图片"
+        },
+        {
+          "block_id": "blk-2957f8d68179925fb250",
+          "page_number": 77,
+          "text": "原始 PDF 第 77 页图片"
+        },
+        {
+          "block_id": "blk-2d6433db5f2776eca228",
+          "page_number": 77,
+          "text": "原始 PDF 第 77 页图片"
+        },
+        {
+          "block_id": "blk-f79b83d1b7f3fc6caf7a",
+          "page_number": 77,
+          "text": "原始 PDF 第 77 页图片"
+        },
+        {
+          "block_id": "blk-643e3727d9aa0da99237",
+          "page_number": 77,
+          "text": "交通基础设施建设促进成渝城市群形成多中心、网络化的城市联系格局。公路和铁路的网络化拓展增加了城市间的联系渠道，使得更多的城市对能够获得便捷的直接联系。在公路和铁路网络当中，遂宁、内江、南充等更多的次级城市的地位得到提升，交通设施网络的“双核、多中心”的格局正在取代单一的双核心格局。尽管设施网络的多中心趋势在不断加强，但当前以成都和重庆主城两大核心依然对周边城市产生巨大的虹吸效应，导致人口和资源的不断涌入，以至于在成渝地区双城经济圈的中部形成“大都市阴影区”，并带来人口的全域式收缩。"
+        },
+        {
+          "block_id": "blk-6edf3bb47d8a3a186532",
+          "page_number": 77,
+          "text": "交通基础设施塑造了成渝城市群次级组织的空间形态。一方面，城市对外可达性的提升使得城市间核心交通圈融为一体，形成城市带和城镇密集区的基本雏形。另一方面，依托综合的交通运输通道，城市带与城镇密集区内部形成了高强度的日常人口流动网络，为推动区域产业协作、促进同城化发展提供了基础。例如，依托成绵乐交通走廊和城市带，四川省政府已经将提升环成都经济圈一体化发展水平作为推动全省区域协同发展的重要工作，并统筹经济圈内部产业和服务功能的布局，实现圈内交通、经济、生态和社会服务的协同发展。"
+        },
+        {
+          "block_id": "blk-1cf564f43cf368efa5e9",
+          "page_number": 77,
+          "text": "交通供需不平衡仍然是影响成渝地区双城经济圈区域一体化的重要因素。如果说交通设施网络体现了交通基础设施的供给水平，并反映了成渝城市群一体化的空间表象（形式一体化），那么交通需求网络从一个侧面反映了城市群一体化的内在本质（功能一体化）。一方面，交通供给网络和需求网络的空间不匹配很大程度上制约了区域一体化，尤其是功能一体化的实现。例如，川南地区城市（宜宾、泸州等）对外客流量较大，但在基础设施网络中却处于边缘地带。另一方面，成渝城市群功能一体化水平不高也在一定程度上制约了交通需求的提升，从而影响交通一体化的发展。当前，成渝地区双城经济圈在产业协作、市场整合、要素流动甚至城市体系构建上依然存在诸多瓶颈。在产业协作上，川渝两地产业发展缺乏分工与合作，核心城市成都和重庆在产业发展上竞争大于合作，大多数次级城市缺乏优势产业，影响区域产业一体化进程。此外，成渝地区双城经济圈城市体系缺乏合理的层级结构。核心城市成都和重庆主城在经济规模、人口规模等方面远超位于第二梯队的绵阳、泸州、万州等次级中心城市。从技术知识网络、生产性服务业网络、信息流动网络来看，成渝城市群依然呈现一个低能级的单中心格局。在核心城市的强大辐射力影响下，成渝地区双城经济圈空间结构呈现“双核极化、中间塌陷”的“哑铃型”格局，从而对城市群交通格局产生影响。因此，尽管成渝地区双城经济圈交通设施网络已经逐渐趋向均衡化和多中心化，但当前客流网络所表现出的双核心极化格局依然十分显著。而次级城市功能不突出、城市间产业协同能力不足也导致次级城市间客货流量不足，这在很大程度上又影响城市群功能一体化水平。"
+        },
+        {
+          "block_id": "blk-a9ab320a57d29236a487",
+          "page_number": 77,
+          "text": "图9-8 交通建设对城市群一体化发展影响理论框架"
+        },
+        {
+          "block_id": "blk-cf9023a27f2f154da53c",
+          "page_number": 77,
+          "text": "综上所述，从交通设施网络来看，交通基础设施建设拓展了成渝地区双城经济圈内部城市间的联系渠道，交通网络呈现多中心、均衡化的发展格局；交通廊道的建设和城市机动性的提升推动了城市核心交通圈的融合，塑造了城市带和城镇密集区的雏形。从交通需求网络来看，城际客流网络依然表现出以成都和重庆主城为中心的双核心格局；次级城市间客流联系强度偏低，双核心城市表现出极强的集聚能力，城际客流网络极化态势显著；高铁动车促进了城市间的日常人口流动，增强了城市网络。成渝地区双城经济圈交通设施网络的完善有力推动了城市群的形式一体化；但与交通设施网络的多中心化趋势不同的是，成渝城市群在人口、产业、信息等网络中依然表现为低能级的单中心格局；城市群的功能一体化存在着较大的发展空间，而交通的供需不匹配很大程度上制约了城市群一体化水平。"
+        },
+        {
+          "block_id": "blk-ea845f484da3482983e8",
+          "page_number": 77,
+          "text": "在未来的交通规划和建设中，成渝地区双城经济圈可以考虑成立高级别的规划委员会，以推动制定城市群层面的交通专项规划，并协调城市群内部的交通规划和建设。同时，交通规划要注重与区域内部经济、产业、社会发展的主方向相协调，并在此基础上协调公铁网络、机场、铁路站点等基础设施的布局，避免城市间的盲目竞争。"
+        },
+        {
+          "block_id": "blk-196ac9013b0b643d2410",
+          "page_number": 78,
+          "text": "加强城际轨道交通（城际高速铁路、通勤铁路等）和公路客运交通建设。在符合实际需求的情况下，在部分既有铁路上开通城际列车和大都市区市郊通勤火车；同时，在成渝大都市区内部以及部分客运需求较大的城市间（如内江与自贡、重庆主城与永川等）开通城际公交。与此同时，考虑加强成渝地区双城经济圈中部地区纵向的客运交通通道建设，引导产生南北向的人口日常流动格局，以增强遂宁-内江一线的城市联系，带动中部地区的发展。"
+        },
+        {
+          "block_id": "blk-3de7fe9a52ef7410bfcf",
+          "page_number": 78,
+          "text": "交通升级所带来的城际旅行时间的节约往往被市内交通通行时间所抵消。因此，缩短不同交通枢纽间的换乘时间，提高不同交通运输方式间换乘的便捷度，是建立高效的经济圈一体化交通系统亟待解决的问题。因此，考虑在城市群未来的交通发展中应将综合性的交通枢纽作为建设的重点，以整合区域内轨道交通和公路运输资源，实现客货的“无缝衔接”与“零距离换乘”。"
+        },
+        {
+          "block_id": "blk-db7acb6984603921116b",
+          "page_number": 78,
+          "text": "一方面，以交通走廊引导城市建设和产业布局。打破行政壁垒，依靠交通走廊的区位优势，培育优势产业集群，吸引人口、产业等要素的集聚，带动沿线城镇开发，引导城市群形成集约发展的布局模式。另一方面，以干线交通网络支撑绵阳、泸州等城市群区域中心城市的发展，培育次级交通枢纽，从而带动经济圈形成多中心的发展格局。"
+        },
+        {
+          "block_id": "blk-47b84df655602f21994b",
+          "page_number": 78,
+          "text": "长期以来，川渝地区各城市在社会经济发展过程中存在竞争大于合作，合作协调机制不健全等问题，制约了区域一体化的发展。未来，成渝地区双城经济圈应加强地方政府间的对话与合作，尤其强化成都和重庆两大核心城市间的协同发展，定期召开包含各地区主要领导的联席会议，建立经济圈合作协调机制。加强城市在产业分工协作、基础设施互联互通、公共服务对接共享、生态环境联防联控等方面的深度合作，推动成渝地区双城经济圈深度一体化发展。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-84e9a49a8e8a",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-5471a9548217"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

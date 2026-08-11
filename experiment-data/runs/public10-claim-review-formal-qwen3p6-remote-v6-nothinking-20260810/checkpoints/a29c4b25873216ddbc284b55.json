@@ -1,0 +1,623 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区建设三年行动计划中，关于加强宣传造势的具体措施及责任主体是什么？",
+    "claims": [
+      {
+        "claim": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+        "claim_id": "claim-3dd7da178af198e8",
+        "evidence_block_ids": [
+          "blk-0a6d5f22f6229c5ecbb7"
+        ],
+        "evidence_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+        "evidence_id": "ref-2663404e04e3:bundle-acf8ab06b559",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-2663404e04e3",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+        "claim_id": "claim-b04e300d0459f83c",
+        "evidence_block_ids": [
+          "blk-0a6d5f22f6229c5ecbb7"
+        ],
+        "evidence_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+        "evidence_id": "ref-2663404e04e3:bundle-acf8ab06b559",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-2663404e04e3",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "责任单位为市委宣传部，市商务委。",
+        "claim_id": "claim-8c9bcade8538d85b",
+        "evidence_block_ids": [
+          "blk-0a6d5f22f6229c5ecbb7"
+        ],
+        "evidence_excerpt": "（责任单位：市委宣传部，市商务委）",
+        "evidence_id": "ref-2663404e04e3:bundle-acf8ab06b559",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-2663404e04e3",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-3dd7da178af198e8",
+          "claim-b04e300d0459f83c",
+          "claim-8c9bcade8538d85b"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-2663404e04e3:bundle-acf8ab06b559",
+        "reason": "该Bundle包含回答分析框架中measure（措施）、implementer（实施者）及target_problem（目标问题）所需的全部原子事实，无冗余。"
+      }
+    ],
+    "group_id": "topic-efad94cd8c3c",
+    "members": [
+      {
+        "contribution": "该证据直接提供了加强宣传造势的具体行动内容（宣传加工贸易转型升级示范企业）及执行责任部门，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-2663404e04e3",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-3dd7da178af198e8",
+        "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b04e300d0459f83c",
+        "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8c9bcade8538d85b",
+        "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-3dd7da178af198e8",
+          "claim-b04e300d0459f83c"
+        ],
+        "draft_excerpt": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3c45bdc67877caa1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "该分析框架旨在通过加强宣传造势，落实相关责任。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c9441f569519309a",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-3dd7da178af198e8"
+        ],
+        "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2ba55891e8d90aae",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b04e300d0459f83c"
+        ],
+        "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7063de49f1f0d1e5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8c9bcade8538d85b"
+        ],
+        "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-17ea88727feec0a3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "该分析框架旨在通过加强宣传造势，落实相关责任。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-3dd7da178af198e8",
+          "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b04e300d0459f83c",
+          "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8c9bcade8538d85b",
+          "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-3dd7da178af198e8",
+            "claim-b04e300d0459f83c"
+          ],
+          "draft_excerpt": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+          "finding": "supported",
+          "sentence_id": "sentence-3c45bdc67877caa1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "该分析框架旨在通过加强宣传造势，落实相关责任。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-c9441f569519309a",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-3dd7da178af198e8"
+          ],
+          "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+          "finding": "supported",
+          "sentence_id": "sentence-2ba55891e8d90aae",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b04e300d0459f83c"
+          ],
+          "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+          "finding": "supported",
+          "sentence_id": "sentence-7063de49f1f0d1e5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8c9bcade8538d85b"
+          ],
+          "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+          "finding": "supported",
+          "sentence_id": "sentence-17ea88727feec0a3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "该分析框架旨在通过加强宣传造势，落实相关责任。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "feacaa36184934babc6ba64bff20893b804adf3b2a3b6016005f12d8af406e6d",
+  "coverage_history": [
+    {
+      "draft_sha256": "b0e7ee41f651af438805a2574fb09c883bb88e229db27cb2da6146d45a4637a5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3dd7da178af198e8",
+            "draft_excerpt": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b04e300d0459f83c",
+            "draft_excerpt": "具体措施包括进一步加强对加工贸易转型升级示范企业的宣传和经验推广，以点带面发挥示范效应。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8c9bcade8538d85b",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8"
+            ],
+            "draft_excerpt": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c45bdc67877caa1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该分析框架旨在通过加强宣传造势，引导企业重视并挖掘自身的文化内核与精神品质。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a07cb626e62373da",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "其核心在于尊重和发扬企业家精神，以此作为推动企业内在价值提升的重要动力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-669a688e9a7d22a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b04e300d0459f83c"
+            ],
+            "draft_excerpt": "具体措施包括进一步加强对加工贸易转型升级示范企业的宣传和经验推广，以点带面发挥示范效应。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f06b78302175f905",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c9bcade8538d85b"
+            ],
+            "draft_excerpt": "该项工作由市委宣传部与市商务委共同负责落实。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9df4df42c01f58a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8"
+            ],
+            "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4545a5e41f7518b6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b04e300d0459f83c"
+            ],
+            "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-38aeb0cc57854a2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c9bcade8538d85b"
+            ],
+            "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf4f8840fe03bc37",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该分析框架旨在通过加强宣传造势，引导企业重视并挖掘自身的文化内核与精神品质。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "其核心在于尊重和发扬企业家精神，以此作为推动企业内在价值提升的重要动力。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "fe00b77c3b9ae6e3f7f43d2f2ce6ec8d69f01db9eddd2d9d2aa376e899e0827b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3dd7da178af198e8",
+            "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b04e300d0459f83c",
+            "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8c9bcade8538d85b",
+            "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8",
+              "claim-b04e300d0459f83c"
+            ],
+            "draft_excerpt": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c45bdc67877caa1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该分析框架旨在通过加强宣传造势，引导企业重视并挖掘自身的文化内核与精神品质。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a07cb626e62373da",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8"
+            ],
+            "draft_excerpt": "其核心在于尊重和发扬企业家精神。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dca7a0e2a9dc0ed8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8"
+            ],
+            "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f78f71f3442e136a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b04e300d0459f83c"
+            ],
+            "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-324d997bd6aeeea1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c9bcade8538d85b"
+            ],
+            "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3b1f3410bf77fea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该分析框架旨在通过加强宣传造势，引导企业重视并挖掘自身的文化内核与精神品质。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "feacaa36184934babc6ba64bff20893b804adf3b2a3b6016005f12d8af406e6d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3dd7da178af198e8",
+            "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b04e300d0459f83c",
+            "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8c9bcade8538d85b",
+            "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8",
+              "claim-b04e300d0459f83c"
+            ],
+            "draft_excerpt": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c45bdc67877caa1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该分析框架旨在通过加强宣传造势，落实相关责任。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9441f569519309a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dd7da178af198e8"
+            ],
+            "draft_excerpt": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2ba55891e8d90aae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b04e300d0459f83c"
+            ],
+            "draft_excerpt": "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7063de49f1f0d1e5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c9bcade8538d85b"
+            ],
+            "draft_excerpt": "责任单位：市委宣传部，市商务委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-17ea88727feec0a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该分析框架旨在通过加强宣传造势，落实相关责任。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n该分析框架旨在通过加强宣传造势，落实相关责任。\n\n- 尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。\n- 进一步加强对加工贸易转型升级示范企业的宣传和经验推广。\n- 责任单位：市委宣传部，市商务委。",
+    "description": "通过尊重和发扬企业家精神及推广示范企业经验，支持企业挖掘文化内核与精神品质。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-efad94cd8c3c",
+      "description": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。",
+        "进一步加强对加工贸易转型升级示范企业的宣传和经验推广。",
+        "（责任单位：市委宣传部，市商务委）"
+      ],
+      "evidence_block_ids": [
+        "blk-0a6d5f22f6229c5ecbb7"
+      ],
+      "page_end": 182,
+      "page_start": 182,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（七）加强宣传造势"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "加强宣传造势",
+      "type": "分析框架"
+    },
+    "title": "加强宣传造势"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-2663404e04e3:bundle-acf8ab06b559",
+      "excluded_fragments": [],
+      "ref_id": "ref-2663404e04e3",
+      "source_blocks": [
+        {
+          "block_id": "blk-0a6d5f22f6229c5ecbb7",
+          "page_number": 182,
+          "text": "尊重和发扬企业家精神，支持企业挖掘文化内核和精神品质。进一步加强对加工贸易转型升级示范企业的宣传和经验推广。（责任单位：市委宣传部，市商务委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-efad94cd8c3c",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-2663404e04e3"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

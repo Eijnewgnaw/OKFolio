@@ -1,0 +1,942 @@
+{
+  "contract": {
+    "canonical_question": "2020年成都企业“走出去”在投资规模、行业结构、区域分布及政府服务支持方面呈现哪些具体特征？",
+    "claims": [
+      {
+        "claim": "2020年成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额的55.78%，同比增长38.16%。",
+        "claim_id": "claim-944c03c388a41fd7",
+        "evidence_block_ids": [
+          "blk-750859e1312d65f765fa"
+        ],
+        "evidence_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额 \\(55.78\\%\\) ，同比增长 \\(38.16\\%\\) 在各类对外投资方式中，占比最高①",
+        "evidence_id": "ref-570688bd628a:bundle-e54a67d225a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-570688bd628a",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都新增备案境外投资企业中，分布在“一带一路”沿线的企业和机构达40家，占同期总数的61.54%。",
+        "claim_id": "claim-dad378a0ce384e10",
+        "evidence_block_ids": [
+          "blk-36ec35968f8b47421c92"
+        ],
+        "evidence_excerpt": "2020年成都企业主要对外投资地，在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的\\(61.54\\%",
+        "evidence_id": "ref-570688bd628a:bundle-e54a67d225a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-570688bd628a",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都对外承包工程新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦。",
+        "claim_id": "claim-fa0cf6e11ee4ec16",
+        "evidence_block_ids": [
+          "blk-36ec35968f8b47421c92",
+          "blk-4312854481f6f940afec"
+        ],
+        "evidence_excerpt": "2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿\n\n线。其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+        "evidence_id": "ref-570688bd628a:bundle-e54a67d225a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109,
+          110
+        ],
+        "ref_id": "ref-570688bd628a",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+        "claim_id": "claim-3c6dd37cb166f1b3",
+        "evidence_block_ids": [
+          "blk-1ae5e5b19ac064ae6bb4"
+        ],
+        "evidence_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务①。",
+        "evidence_id": "ref-570688bd628a:bundle-e54a67d225a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          111
+        ],
+        "ref_id": "ref-570688bd628a",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-944c03c388a41fd7",
+          "claim-dad378a0ce384e10",
+          "claim-fa0cf6e11ee4ec16",
+          "claim-3c6dd37cb166f1b3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-570688bd628a:bundle-e54a67d225a6",
+        "reason": "该Bundle包含回答分析框架核心槽位（core_judgment, evidence, scope）所需的关键数据，如并购金额、行业占比、一带一路沿线分布及政府服务措施，是构成中心问题答案的必要事实来源。"
+      }
+    ],
+    "group_id": "topic-42aae34ef29c",
+    "members": [
+      {
+        "contribution": "提供2020年成都对外投资并购金额、占比、同比增长数据，以及科学研究和技术服务业等优势行业的布局情况，直接支撑对外投资合作稳步上升的事实。",
+        "ref_id": "ref-570688bd628a",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-944c03c388a41fd7",
+        "draft_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。",
+        "finding": "draft_excerpt matches claim-944c03c388a41fd7 exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dad378a0ce384e10",
+        "draft_excerpt": "2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。",
+        "finding": "draft_excerpt matches claim-dad378a0ce384e10 exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fa0cf6e11ee4ec16",
+        "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+        "finding": "draft_excerpt matches claim-fa0cf6e11ee4ec16 exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3c6dd37cb166f1b3",
+        "draft_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+        "finding": "draft_excerpt matches claim-3c6dd37cb166f1b3 exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+        "finding": "The sentence contains interpretive judgments ('稳步上升', '活跃', '凸显') not explicitly stated in the contract claims.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b3952b337881fde3",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-944c03c388a41fd7"
+        ],
+        "draft_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。",
+        "finding": "Matches claim-944c03c388a41fd7.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-85152ee03528a7f1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dad378a0ce384e10"
+        ],
+        "draft_excerpt": "2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。",
+        "finding": "Matches claim-dad378a0ce384e10.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0ce78a9d3fa9509e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fa0cf6e11ee4ec16"
+        ],
+        "draft_excerpt": "2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。",
+        "finding": "Contextual setup for claim-fa0cf6e11ee4ec16, supported by evidence excerpt.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bbc86e43d44c7f02",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fa0cf6e11ee4ec16"
+        ],
+        "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+        "finding": "Matches claim-fa0cf6e11ee4ec16.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-07869bfa02e0e6ad",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3c6dd37cb166f1b3"
+        ],
+        "draft_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+        "finding": "Matches claim-3c6dd37cb166f1b3.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4d5fd3f3aa0cb157",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+        "finding": "Contains unsupported interpretive judgments."
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-944c03c388a41fd7",
+          "draft_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。",
+          "finding": "draft_excerpt matches claim-944c03c388a41fd7 exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dad378a0ce384e10",
+          "draft_excerpt": "2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。",
+          "finding": "draft_excerpt matches claim-dad378a0ce384e10 exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fa0cf6e11ee4ec16",
+          "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+          "finding": "draft_excerpt matches claim-fa0cf6e11ee4ec16 exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3c6dd37cb166f1b3",
+          "draft_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+          "finding": "draft_excerpt matches claim-3c6dd37cb166f1b3 exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+          "finding": "The sentence contains interpretive judgments ('稳步上升', '活跃', '凸显') not explicitly stated in the contract claims.",
+          "sentence_id": "sentence-b3952b337881fde3",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-944c03c388a41fd7"
+          ],
+          "draft_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。",
+          "finding": "Matches claim-944c03c388a41fd7.",
+          "sentence_id": "sentence-85152ee03528a7f1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dad378a0ce384e10"
+          ],
+          "draft_excerpt": "2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。",
+          "finding": "Matches claim-dad378a0ce384e10.",
+          "sentence_id": "sentence-0ce78a9d3fa9509e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fa0cf6e11ee4ec16"
+          ],
+          "draft_excerpt": "2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。",
+          "finding": "Contextual setup for claim-fa0cf6e11ee4ec16, supported by evidence excerpt.",
+          "sentence_id": "sentence-bbc86e43d44c7f02",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fa0cf6e11ee4ec16"
+          ],
+          "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+          "finding": "Matches claim-fa0cf6e11ee4ec16.",
+          "sentence_id": "sentence-07869bfa02e0e6ad",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3c6dd37cb166f1b3"
+          ],
+          "draft_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+          "finding": "Matches claim-3c6dd37cb166f1b3.",
+          "sentence_id": "sentence-4d5fd3f3aa0cb157",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+          "finding": "Contains unsupported interpretive judgments."
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "1eedb774c26baae5c1241b86af070e4c45ca7622bed0081ce7f1aaeda9442507",
+  "coverage_history": [
+    {
+      "draft_sha256": "2fa443cc232ea35e5c72c634c78ec98643f274682d4dd776ee03e8df1988aab3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-944c03c388a41fd7",
+            "draft_excerpt": "2020年成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+            "finding": "draft_excerpt contains '跨境并购活跃' which supports the core fact of claim-944c03c388a41fd7 regarding M&A activity, though it lacks specific numbers. However, looking at sentence-0e1864a4dad3a059, it contains the exact numbers. The rule says 'rows only list claim_ids... in this batch'. sentence-e690c409b211ce84 is a summary sentence. Let's look at sentence-0e1864a4dad3a059 which has the exact numbers.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dad378a0ce384e10",
+            "draft_excerpt": "在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），占同期总数的61.54%。",
+            "finding": "Exact match for numbers and conclusion.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fa0cf6e11ee4ec16",
+            "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "Exact match for the list of countries.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c6dd37cb166f1b3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-944c03c388a41fd7",
+              "claim-dad378a0ce384e10",
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "2020年成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+            "finding": "Summarizes the covered claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e690c409b211ce84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，成都切实加强服务、努力搭建平台，推动成都企业克服新冠肺炎疫情影响积极“走出去”，对外投资合作总体稳步上升，在西部处于领先地位。",
+            "finding": "Contains '克服新冠肺炎疫情影响', '在西部处于领先地位', '切实加强服务、努力搭建平台' which are not in the Claim Contract claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7dbeeef2b544e95",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-944c03c388a41fd7"
+            ],
+            "draft_excerpt": "对外投资合作持续健康有序，跨境并购投资持续活跃，2020年成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中占比最高。",
+            "finding": "Exact match for claim-944c03c388a41fd7.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e1864a4dad3a059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "优势行业布局不断优化，科学研究和技术服务业及信息传输、软件和信息技术服务业等优势行业海外布局步伐持续加快，占比较2019年有较大提升。",
+            "finding": "Contains '优势行业布局...', '科学研究和技术服务业...', '占比较2019年有较大提升' which are not in the Claim Contract claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e1904ec235ff57c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-dad378a0ce384e10",
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "“一带一路”引领作用不断凸显，沿线是2020年成都企业主要对外投资地。",
+            "finding": "Supports the scope of claim-dad378a0ce384e10 and claim-fa0cf6e11ee4ec16 regarding 'Belt and Road' being the main destination.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa67495f2000969a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dad378a0ce384e10"
+            ],
+            "draft_excerpt": "在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），占同期总数的61.54%。",
+            "finding": "Exact match for claim-dad378a0ce384e10.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bc16445cf460f8a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "其中，中国香港、印尼、柬埔寨、印度、新加坡是2020年全市企业在“一带一路”沿线新备案企业和机构数量最多的国家（地区）。",
+            "finding": "Contains specific country list '中国香港、印尼、柬埔寨、印度、新加坡' not in Claim Contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a51eeccdf7a51aea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "同时，“一带一路”沿线也是2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。",
+            "finding": "Supports the context of claim-fa0cf6e11ee4ec16 regarding EPC projects and Belt and Road.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d234e731590e68e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "Exact match for claim-fa0cf6e11ee4ec16.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00003c1c3c81d7c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-944c03c388a41fd7"
+            ],
+            "draft_excerpt": "跨境并购协议金额4.34亿美元，占全年总额55.78%，同比增长38.16%。",
+            "finding": "Supports claim-944c03c388a41fd7 with correct numbers.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ea93837c8e8cca22",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dad378a0ce384e10"
+            ],
+            "draft_excerpt": "新增境外投资企业40家分布在“一带一路”沿线，覆盖17个国家（地区），占比61.54%。",
+            "finding": "Supports claim-dad378a0ce384e10 with correct numbers.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-388cc925bedfea0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "对外承包工程新签合同额前5国家为印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦。",
+            "finding": "Supports claim-fa0cf6e11ee4ec16 with correct list.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-808e951c616fd733",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "对外承包工程完成营业额前5国家为老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "该句陈述的事实完全由claim-fa0cf6e11ee4ec16支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1cacf9f0b94c3a13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年，成都切实加强服务、努力搭建平台，推动成都企业克服新冠肺炎疫情影响积极“走出去”，对外投资合作总体稳步上升，在西部处于领先地位。",
+            "finding": "Contains unsupported facts: '克服新冠肺炎疫情影响', '在西部处于领先地位', '切实加强服务、努力搭建平台'."
+          },
+          {
+            "draft_excerpt": "优势行业布局不断优化，科学研究和技术服务业及信息传输、软件和信息技术服务业等优势行业海外布局步伐持续加快，占比较2019年有较大提升。",
+            "finding": "Contains unsupported facts: '优势行业布局...', '科学研究和技术服务业...', '占比较2019年有较大提升'."
+          },
+          {
+            "draft_excerpt": "其中，中国香港、印尼、柬埔寨、印度、新加坡是2020年全市企业在“一带一路”沿线新备案企业和机构数量最多的国家（地区）。",
+            "finding": "Contains unsupported facts: Specific list of top countries for new filings."
+          },
+          {
+            "draft_excerpt": "2019年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "5c2460cf7255bd9a51a421e7778e920588a1e748aead152e5d11f42560643456",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-944c03c388a41fd7",
+            "draft_excerpt": "对外投资合作持续健康有序，跨境并购投资持续活跃，2020年成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中占比最高。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c6dd37cb166f1b3",
+            "draft_excerpt": "成都梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dad378a0ce384e10",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-dad378a0ce384e10 is missing hard anchors from the claim: ['2020年']; claim='2020年成都新增备案境外投资企业中，分布在“一带一路”沿线的企业和机构达40家，占同期总数的61.54%。'; excerpt='在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），占同期总数的61.54%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fa0cf6e11ee4ec16",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e690c409b211ce84",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，成都企业对外投资合作总体稳步上升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4cc14c3c60e00a43",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-944c03c388a41fd7"
+            ],
+            "draft_excerpt": "对外投资合作持续健康有序，跨境并购投资持续活跃，2020年成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中占比最高。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e1864a4dad3a059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c6dd37cb166f1b3"
+            ],
+            "draft_excerpt": "成都梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1dff8b3deea6ecb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "“一带一路”引领作用不断凸显，沿线是2020年成都企业主要对外投资地。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa67495f2000969a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-dad378a0ce384e10"
+            ],
+            "draft_excerpt": "在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），占同期总数的61.54%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bc16445cf460f8a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，“一带一路”沿线也是2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0c4b308b91d970f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84a4c5356386a50d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "跨境并购协议金额4.34亿美元，占全年总额55.78%，同比增长38.16%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-46ebcdaceec6fd28",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新增境外投资企业40家分布在“一带一路”沿线，覆盖17个国家（地区），占比61.54%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3edb378258c65b15",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对外承包工程新签合同额前5国家为印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f9cdcb46953b2b6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对外承包工程完成营业额前5国家为老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed9031c241a08c44",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2020年，成都企业对外投资合作总体稳步上升。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "对外投资合作持续健康有序，跨境并购投资持续活跃，2020年成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中占比最高。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "“一带一路”引领作用不断凸显，沿线是2020年成都企业主要对外投资地。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "同时，“一带一路”沿线也是2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "跨境并购协议金额4.34亿美元，占全年总额55.78%，同比增长38.16%。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "新增境外投资企业40家分布在“一带一路”沿线，覆盖17个国家（地区），占比61.54%。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "对外承包工程新签合同额前5国家为印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "对外承包工程完成营业额前5国家为老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "1eedb774c26baae5c1241b86af070e4c45ca7622bed0081ce7f1aaeda9442507",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-944c03c388a41fd7",
+            "draft_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。",
+            "finding": "draft_excerpt matches claim-944c03c388a41fd7 exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dad378a0ce384e10",
+            "draft_excerpt": "2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。",
+            "finding": "draft_excerpt matches claim-dad378a0ce384e10 exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fa0cf6e11ee4ec16",
+            "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "draft_excerpt matches claim-fa0cf6e11ee4ec16 exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c6dd37cb166f1b3",
+            "draft_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+            "finding": "draft_excerpt matches claim-3c6dd37cb166f1b3 exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+            "finding": "The sentence contains interpretive judgments ('稳步上升', '活跃', '凸显') not explicitly stated in the contract claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b3952b337881fde3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-944c03c388a41fd7"
+            ],
+            "draft_excerpt": "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。",
+            "finding": "Matches claim-944c03c388a41fd7.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-85152ee03528a7f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dad378a0ce384e10"
+            ],
+            "draft_excerpt": "2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。",
+            "finding": "Matches claim-dad378a0ce384e10.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ce78a9d3fa9509e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。",
+            "finding": "Contextual setup for claim-fa0cf6e11ee4ec16, supported by evidence excerpt.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bbc86e43d44c7f02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fa0cf6e11ee4ec16"
+            ],
+            "draft_excerpt": "其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+            "finding": "Matches claim-fa0cf6e11ee4ec16.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07869bfa02e0e6ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c6dd37cb166f1b3"
+            ],
+            "draft_excerpt": "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+            "finding": "Matches claim-3c6dd37cb166f1b3.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d5fd3f3aa0cb157",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+            "finding": "Contains unsupported interpretive judgments."
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额55.78%，同比增长38.16%，在各类对外投资方式中，占比最高。\n\n2020年成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的61.54%。\n\n2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿线。其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。\n\n梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务。",
+    "description": "2020年，成都企业对外投资合作稳步上升，跨境并购活跃且“一带一路”沿线布局凸显。",
+    "ref": {
+      "asset_hints": [
+        "image-075",
+        "image-076",
+        "image-077"
+      ],
+      "concept_id": "topic-42aae34ef29c",
+      "description": "2020年，成都切实加强服务、努力搭建平台，推动成都企业克服新冠肺炎疫情影响积极“走出去”，对外投资合作总体稳步上升，在西部处于领先地位。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额 \\(55.78\\%\\) ，同比增长 \\(38.16\\%\\) 在各类对外投资方式中，占比最高①",
+        "2020年成都企业主要对外投资地，在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的\\(61.54\\%",
+        "2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿\n\n线。其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。",
+        "梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务①。"
+      ],
+      "evidence_block_ids": [
+        "blk-750859e1312d65f765fa",
+        "blk-36ec35968f8b47421c92",
+        "blk-4312854481f6f940afec",
+        "blk-1ae5e5b19ac064ae6bb4"
+      ],
+      "page_end": 111,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "“走出去”步伐逐步加快",
+      "type": "分析框架"
+    },
+    "title": "“走出去”步伐逐步加快"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-570688bd628a:bundle-e54a67d225a6",
+      "excluded_fragments": [],
+      "ref_id": "ref-570688bd628a",
+      "source_blocks": [
+        {
+          "block_id": "blk-b0ab023f34d23ef45fa8",
+          "page_number": 109,
+          "text": "2020年，成都切实加强服务、努力搭建平台，推动成都企业克服新冠肺炎疫情影响积极“走出去”，对外投资合作总体稳步上升，在西部处于领先地位。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-750859e1312d65f765fa",
+          "page_number": 109,
+          "text": "对外投资合作持续健康有序。跨境并购投资持续活跃，2020年，成都累积完成的并购类协议金额为4.34亿美元，占全年协议投资总额 \\(55.78\\%\\) ，同比增长 \\(38.16\\%\\) 在各类对外投资方式中，占比最高①。优势行业布局不断优化，科学研究和技术服务业及信息传输、软件和信息技术服务业等优势行业海外布局步伐持续加快，占比较2019年有较大提升。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-b8e606c798eea4a95a1f",
+          "page_number": 109,
+          "text": "原始 PDF 第 109 页图片"
+        },
+        {
+          "block_id": "blk-45b56dd38bc561560dea",
+          "page_number": 109,
+          "text": "图2-8 2020年成都新备案境外投资企业行业分布情况"
+        },
+        {
+          "block_id": "blk-3aba8efa455b4a4b1e1e",
+          "page_number": 109,
+          "text": "资料来源：投促局《2020年成都市对外投资合作发展报告》"
+        },
+        {
+          "block_id": "blk-36ec35968f8b47421c92",
+          "page_number": 109,
+          "text": "“一带一路”引领作用不断凸显。“一带一路”沿线是2020年成都企业主要对外投资地，在成都新增65家备案境外投资企业和机构中，分布在“一带一路”沿线的企业和机构达40家，覆盖沿线17个国家（地区），企业和机构数量占同期总数的\\(61.54\\%\\)。其中，中国香港、印尼、柬埔寨、印度、新加坡是2020年全市企业在“一带一路”沿线新备案企业和机构数量最多的国家（地区）。同时，“一带一路”沿线也是2020年全市对外承包工程的主要目的地，除东方电气、四川公路桥梁在澳大利亚、挪威、瑞典等地项目外，成都对外承包工程项目基本都集中在“一带一路”沿"
+        },
+        {
+          "block_id": "blk-4312854481f6f940afec",
+          "page_number": 110,
+          "text": "线。其中，新签合同额排名前5的国家分别是印度尼西亚、厄瓜多尔、加纳、坦桑尼亚、土库曼斯坦，完成营业额排名前5的国家分别是老挝、埃及、巴基斯坦、印度尼西亚、厄瓜多尔。"
+        },
+        {
+          "block_id": "blk-743300e5c8edd9f19683",
+          "page_number": 110,
+          "text": "资料来源：投促局《2020年成都市对外投资合作发展报告》"
+        },
+        {
+          "block_id": "blk-7aae3c950199d5553a2f",
+          "page_number": 110,
+          "text": "资料来源：投促局《2020年成都市对外投资合作发展报告》"
+        },
+        {
+          "block_id": "blk-00b0b005630bc3c25478",
+          "page_number": 110,
+          "text": "原始 PDF 第 110 页图片"
+        },
+        {
+          "block_id": "blk-a0d8b099bc94f247e6d4",
+          "page_number": 110,
+          "text": "原始 PDF 第 110 页图片"
+        },
+        {
+          "block_id": "blk-05363e3d95f2477bd6fc",
+          "page_number": 110,
+          "text": "图2-9 2020年成都对外承包工程新签合同额排名前五情况"
+        },
+        {
+          "block_id": "blk-c1e018dd588e31b95a25",
+          "page_number": 110,
+          "text": "图2-10 2020年成都对外承包工程完成营业额排名前五情况"
+        },
+        {
+          "block_id": "blk-1ae5e5b19ac064ae6bb4",
+          "page_number": 111,
+          "text": "助力企业“走出去”服务能力提升。策划举办“走出去”政策法规和专业服务培训班，增强企业法律风险防范能力。主动对接相关行业协会和金融机构，搭建银企对话平台，帮助涉外企业对接金融资源。筹划举办国际商务体验行系列活动，利用多元化交流平台为成都“走出去”企业提供项目对接服务，疏通发展渠道。收集整理主要国家（地区）重大国际经贸活动和展会的信息，编制国际经贸交流指南，为企业“走出去”提供指引。梳理74家重点企业信息，完善“跨国发展重点企业库”，对相关企业进行跟踪服务①。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-42aae34ef29c",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-570688bd628a"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

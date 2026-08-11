@@ -1,0 +1,877 @@
+{
+  "contract": {
+    "canonical_question": "中国（四川）-东盟自由贸易合作中心何时成立、位于何处、由谁运营，以及其核心功能定位是什么？",
+    "claims": [
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立。",
+        "claim_id": "claim-71d81ebde74defd8",
+        "evidence_block_ids": [
+          "blk-45f2087b5f7f5f746a44"
+        ],
+        "evidence_excerpt": "2018年10月18日，中国（四川）-东盟自由贸易合作中心在蓉成立",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {
+          "time": [
+            "2018年10月18日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心位于成都高新综合保税区双流园区国际商品展示中心。",
+        "claim_id": "claim-3f6120c75bec295e",
+        "evidence_block_ids": [
+          "blk-6cff05672e34011cd243"
+        ],
+        "evidence_excerpt": "中国（四川）-东盟自由贸易合作中心位于成都高新综合保税区双流园区国际商品展示中心",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {
+          "region": [
+            "成都高新综合保税区双流园区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心由地方政府整体规划、企业市场化运营。",
+        "claim_id": "claim-d46c6411343ccaf8",
+        "evidence_block_ids": [
+          "blk-1a2aa228e2dd6837bfe3"
+        ],
+        "evidence_excerpt": "中国（四川）一东盟自由贸易合作中心由地方政府整体规划、企业市场化运营",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          120
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+        "claim_id": "claim-bc4cbcc8dad13deb",
+        "evidence_block_ids": [
+          "blk-6cff05672e34011cd243"
+        ],
+        "evidence_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+        "claim_id": "claim-57377fbb1230ac2a",
+        "evidence_block_ids": [
+          "blk-6cff05672e34011cd243"
+        ],
+        "evidence_excerpt": "其中，展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心配套商务楼主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+        "claim_id": "claim-fdcad31369d7866e",
+        "evidence_block_ids": [
+          "blk-6cff05672e34011cd243"
+        ],
+        "evidence_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心写字楼办公区主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+        "claim_id": "claim-2568c9c36f47f33d",
+        "evidence_block_ids": [
+          "blk-6cff05672e34011cd243",
+          "blk-c31526a3661bbd675447"
+        ],
+        "evidence_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119,
+          120
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国（四川）-东盟自由贸易合作中心将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+        "claim_id": "claim-eca54c7d68f0c46c",
+        "evidence_block_ids": [
+          "blk-1a2aa228e2dd6837bfe3"
+        ],
+        "evidence_excerpt": "该中心将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          120
+        ],
+        "ref_id": "ref-83362f830493",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-71d81ebde74defd8",
+          "claim-3f6120c75bec295e",
+          "claim-d46c6411343ccaf8",
+          "claim-bc4cbcc8dad13deb",
+          "claim-57377fbb1230ac2a",
+          "claim-fdcad31369d7866e",
+          "claim-2568c9c36f47f33d",
+          "claim-eca54c7d68f0c46c"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+        "reason": "该证据包含中心成立的时间、地点、运营主体及功能定位，是回答中心问题必须保留的事实。"
+      }
+    ],
+    "group_id": "topic-f3d39e57a3a1",
+    "members": [
+      {
+        "contribution": "该证据直接提供了中心成立的时间、地点、运营主体及功能定位，是回答中心问题的核心事实来源。",
+        "ref_id": "ref-83362f830493",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-71d81ebde74defd8",
+        "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3f6120c75bec295e",
+        "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d46c6411343ccaf8",
+        "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-eca54c7d68f0c46c",
+        "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bc4cbcc8dad13deb",
+        "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-57377fbb1230ac2a",
+        "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fdcad31369d7866e",
+        "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2568c9c36f47f33d",
+        "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-71d81ebde74defd8",
+          "claim-3f6120c75bec295e",
+          "claim-d46c6411343ccaf8",
+          "claim-eca54c7d68f0c46c"
+        ],
+        "draft_excerpt": "2018年10月18日在成都成立的由地方政府整体规划、企业市场化运营的综合战略合作平台，位于成都高新综合保税区双流园区国际商品展示中心。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fd9bc647e2cd0f1a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-71d81ebde74defd8",
+          "claim-3f6120c75bec295e"
+        ],
+        "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c65aa9ac42c36d41",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d46c6411343ccaf8",
+          "claim-eca54c7d68f0c46c"
+        ],
+        "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7eebbcf61b96a3ca",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bc4cbcc8dad13deb"
+        ],
+        "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c4a3b3cd40743614",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-57377fbb1230ac2a"
+        ],
+        "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7b54a87ee1ef30bf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fdcad31369d7866e"
+        ],
+        "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c3d1d7a6657f84bd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2568c9c36f47f33d"
+        ],
+        "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-eb5ce5b0078ff7bd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-71d81ebde74defd8",
+          "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3f6120c75bec295e",
+          "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d46c6411343ccaf8",
+          "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-eca54c7d68f0c46c",
+          "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bc4cbcc8dad13deb",
+          "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-57377fbb1230ac2a",
+          "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fdcad31369d7866e",
+          "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2568c9c36f47f33d",
+          "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-71d81ebde74defd8",
+            "claim-3f6120c75bec295e",
+            "claim-d46c6411343ccaf8",
+            "claim-eca54c7d68f0c46c"
+          ],
+          "draft_excerpt": "2018年10月18日在成都成立的由地方政府整体规划、企业市场化运营的综合战略合作平台，位于成都高新综合保税区双流园区国际商品展示中心。",
+          "finding": "supported",
+          "sentence_id": "sentence-fd9bc647e2cd0f1a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-71d81ebde74defd8",
+            "claim-3f6120c75bec295e"
+          ],
+          "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+          "finding": "supported",
+          "sentence_id": "sentence-c65aa9ac42c36d41",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d46c6411343ccaf8",
+            "claim-eca54c7d68f0c46c"
+          ],
+          "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+          "finding": "supported",
+          "sentence_id": "sentence-7eebbcf61b96a3ca",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bc4cbcc8dad13deb"
+          ],
+          "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+          "finding": "supported",
+          "sentence_id": "sentence-c4a3b3cd40743614",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-57377fbb1230ac2a"
+          ],
+          "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+          "finding": "supported",
+          "sentence_id": "sentence-7b54a87ee1ef30bf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fdcad31369d7866e"
+          ],
+          "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+          "finding": "supported",
+          "sentence_id": "sentence-c3d1d7a6657f84bd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2568c9c36f47f33d"
+          ],
+          "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+          "finding": "supported",
+          "sentence_id": "sentence-eb5ce5b0078ff7bd",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "17b0a9d52f2dfd7a0a15bf91affcd968d8139c6ffda93acd8fa316cd71a79cfd",
+  "coverage_history": [
+    {
+      "draft_sha256": "5623e376f9735417f64d55d222775348b9c877130538af8d2a6a2298e7b1bb0b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-71d81ebde74defd8",
+            "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3f6120c75bec295e",
+            "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d46c6411343ccaf8",
+            "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eca54c7d68f0c46c",
+            "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bc4cbcc8dad13deb",
+            "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分，分别承担不同的核心功能。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57377fbb1230ac2a",
+            "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdcad31369d7866e",
+            "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2568c9c36f47f33d",
+            "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-71d81ebde74defd8",
+              "claim-d46c6411343ccaf8",
+              "claim-eca54c7d68f0c46c"
+            ],
+            "draft_excerpt": "2018年10月18日在成都成立的由地方政府规划、企业运营的综合战略合作平台，旨在深化成都与东盟在贸易、投资、文化及技术领域的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f762539bda7372a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-71d81ebde74defd8",
+              "claim-3f6120c75bec295e"
+            ],
+            "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c65aa9ac42c36d41",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d46c6411343ccaf8",
+              "claim-eca54c7d68f0c46c"
+            ],
+            "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7f4853441e179801",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该中心的成立是成都主动融入“一带一路”、高水平建设西部国际门户枢纽和内陆开放高地的重要举措，对深化成都与东盟各国的产业合作、国际交往具有巨大推动作用，对成都向西向南全方位开放具有重要意义。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d36a504d0d0315e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-bc4cbcc8dad13deb"
+            ],
+            "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分，分别承担不同的核心功能。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8e661fc8bb02b5e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-57377fbb1230ac2a"
+            ],
+            "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1eb1a169bc1f1e4c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdcad31369d7866e"
+            ],
+            "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ede5e5f204ab0659",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2568c9c36f47f33d"
+            ],
+            "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4735f9b37422ab13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该中心的成立是成都主动融入“一带一路”、高水平建设西部国际门户枢纽和内陆开放高地的重要举措，对深化成都与东盟各国的产业合作、国际交往具有巨大推动作用，对成都向西向南全方位开放具有重要意义。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "17b0a9d52f2dfd7a0a15bf91affcd968d8139c6ffda93acd8fa316cd71a79cfd",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-71d81ebde74defd8",
+            "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3f6120c75bec295e",
+            "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d46c6411343ccaf8",
+            "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eca54c7d68f0c46c",
+            "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bc4cbcc8dad13deb",
+            "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57377fbb1230ac2a",
+            "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdcad31369d7866e",
+            "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2568c9c36f47f33d",
+            "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-71d81ebde74defd8",
+              "claim-3f6120c75bec295e",
+              "claim-d46c6411343ccaf8",
+              "claim-eca54c7d68f0c46c"
+            ],
+            "draft_excerpt": "2018年10月18日在成都成立的由地方政府整体规划、企业市场化运营的综合战略合作平台，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd9bc647e2cd0f1a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-71d81ebde74defd8",
+              "claim-3f6120c75bec295e"
+            ],
+            "draft_excerpt": "中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c65aa9ac42c36d41",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d46c6411343ccaf8",
+              "claim-eca54c7d68f0c46c"
+            ],
+            "draft_excerpt": "该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7eebbcf61b96a3ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bc4cbcc8dad13deb"
+            ],
+            "draft_excerpt": "合作中心包含展示区、配套商务楼、写字楼办公区三个部分。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c4a3b3cd40743614",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-57377fbb1230ac2a"
+            ],
+            "draft_excerpt": "展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b54a87ee1ef30bf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdcad31369d7866e"
+            ],
+            "draft_excerpt": "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c3d1d7a6657f84bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2568c9c36f47f33d"
+            ],
+            "draft_excerpt": "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb5ce5b0078ff7bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n中国（四川）-东盟自由贸易合作中心于2018年10月18日在成都成立，位于成都高新综合保税区双流园区国际商品展示中心。该中心由地方政府整体规划、企业市场化运营，将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台。\n\n## 功能布局\n\n合作中心包含展示区、配套商务楼、写字楼办公区三个部分。\n\n- 展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营。\n- 配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施。\n- 写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。",
+    "description": "2018年10月18日在成都成立的由地方政府整体规划、企业市场化运营的综合战略合作平台，位于成都高新综合保税区双流园区国际商品展示中心。",
+    "ref": {
+      "asset_hints": [
+        "image-048"
+      ],
+      "concept_id": "topic-f3d39e57a3a1",
+      "description": "2018年10月18日，中国（四川）-东盟自由贸易合作中心在蓉成立，成都主动融入“一带一路”、高水平建设西部国际门户枢纽和内陆开放高地又添新平台，对深化成都与东盟各国的产业合作、国际交往具有巨大推动作用，对成都向西向南全方位开放具有重要意义。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "2018年10月18日，中国（四川）-东盟自由贸易合作中心在蓉成立",
+        "中国（四川）-东盟自由贸易合作中心位于成都高新综合保税区双流园区国际商品展示中心",
+        "中国（四川）一东盟自由贸易合作中心由地方政府整体规划、企业市场化运营",
+        "合作中心包含展示区、配套商务楼、写字楼办公区三个部分",
+        "其中，展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营",
+        "配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施",
+        "写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部",
+        "该中心将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台"
+      ],
+      "evidence_block_ids": [
+        "blk-45f2087b5f7f5f746a44",
+        "blk-6cff05672e34011cd243",
+        "blk-1a2aa228e2dd6837bfe3",
+        "blk-c31526a3661bbd675447"
+      ],
+      "page_end": 122,
+      "page_start": 119,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "中国（四川）一东盟自由贸易合作中心落户"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "中国（四川）一东盟自由贸易合作中心落户",
+      "type": "分析框架"
+    },
+    "title": "中国（四川）一东盟自由贸易合作中心"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-83362f830493:bundle-f5c82d532d51",
+      "excluded_fragments": [],
+      "ref_id": "ref-83362f830493",
+      "source_blocks": [
+        {
+          "block_id": "blk-45f2087b5f7f5f746a44",
+          "page_number": 119,
+          "text": "2018年10月18日，中国（四川）-东盟自由贸易合作中心在蓉成立，成都主动融入“一带一路”、高水平建设西部国际门户枢纽和内陆开放高地又添新平台，对深化成都与东盟各国的产业合作、国际交往具有巨大推动作用，对成都向西向南全方位开放具有重要意义。"
+        },
+        {
+          "block_id": "blk-8dbe70ea49e60d6a0617",
+          "page_number": 119,
+          "text": "原始 PDF 第 119 页图片"
+        },
+        {
+          "block_id": "blk-b0c8c8a5b06c65ef464d",
+          "page_number": 119,
+          "text": "图3-13 中国（四川）一东盟自由贸易合作中心启动仪式"
+        },
+        {
+          "block_id": "blk-6cff05672e34011cd243",
+          "page_number": 119,
+          "text": "中国（四川）-东盟自由贸易合作中心位于成都高新综合保税区双流园区国际商品展示中心，项目占地47.1亩，总建筑面积超过11万平方米。合作中心包含展示区、配套商务楼、写字楼办公区三个部分。其中，展示区以展销功能为主，集中采用保税展销、跨境电商线下体验等新零售模式运营；配套商务楼以商务服务功能为主，主要布局会议展览中心、国际标准多功能会议厅、人才公寓、文化特色酒店以及东南亚主题餐厅等高端特色商务设施；写字楼办公区以总部经济功能为主，主要布局东盟中小企业（双创）孵化中心、东盟企业总部基地中心、东"
+        },
+        {
+          "block_id": "blk-c31526a3661bbd675447",
+          "page_number": 120,
+          "text": "盟国家经济发展促进机构办事中心及其他以临空自贸产业运营、研发、结算为核心的企业区域总部。"
+        },
+        {
+          "block_id": "blk-1a2aa228e2dd6837bfe3",
+          "page_number": 120,
+          "text": "中国（四川）一东盟自由贸易合作中心由地方政府整体规划、企业市场化运营，充分享有成都自贸试验区和综合保税区的特殊功能政策红利。该中心将围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台，助力双向投资自由化、贸易便利化，有利于成都知名度较高、市场拓展能力较强的自主品牌、外向型企业开拓东盟市场；有利于成都集聚东盟文化、能源、教育、医疗、商贸等优势资源，深化与东盟各国在贸易、投资、文化、技术等多领域的战略合作，为成都乃至四川扩大与东盟互利合作、加快构建向西向南全方位开放格局提供新的重要平台。"
+        },
+        {
+          "block_id": "blk-c29dc1c4caa2f5b7f55f",
+          "page_number": 121,
+          "text": "2018年11月，国务院复函同意设立成都高新西园综合保税区，这是继高新综合保税区之后成都市获批的第二个综合保税区，是成都开放型经济发展的又一平台，对成都构建内陆开放经济高地和西部国际门户枢纽具有重要意义。"
+        },
+        {
+          "block_id": "blk-16e03858d7aae7102c48",
+          "page_number": 121,
+          "text": "综合保税区是设立在内陆地区具有保税港区功能的海关特殊监管区域，是我国目前开放层次最高、优惠政策最多、功能最齐全的特殊开放区域。综合保税区享有很多种国家优惠政策，例如，国际货物入区保税，货物出区进入国内销售按货物进口的有关规定办理报关，并按货物实际状态征税；国内货物入区视同出口，实行退税；区内企业之间的货物交易不征收增值税和消费税等。综保区内主要开展存储进出口货物和其他未办结海关手续的货物，提供国际转口贸易，国际采购、分销和配送，国际中转；检测和售后服务维修，商品展示，研发、加工、制造，港口作业等业务。"
+        },
+        {
+          "block_id": "blk-a7ac42954a1856efb724",
+          "page_number": 121,
+          "text": "成都高新西园综合保税区位于成都高新西区清水河以南区域，规划面积1.39平方公里，可享受国外货物入区保税、国内货物入区退税、区内企业之间交易免征增值税和消费税等税收和外汇优惠政策，对推动成都保税加工、保税物流、保税服务以及相关行业发展具有重要意义，将进一步推动成都由内陆腹地转变为开放前沿，为成都发展开放型经济提供重要平台。"
+        },
+        {
+          "block_id": "blk-f453523b776a9b2b85f0",
+          "page_number": 121,
+          "text": "下一步，成都将继续深入推进高新西园综合保税区监管、查验等设施建设，确保综合保税区通过国家验收，如期封关运营。同时协调推成都高新综合保税区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）、天府新区成都片区保税物流中心（B型），优化完善口岸布局和功能，共同构筑立体口岸开放服务体系，有力推动成都建成内陆开放经济高地。"
+        },
+        {
+          "block_id": "blk-76263ea67beacda69ee8",
+          "page_number": 122,
+          "text": "成都高新综合保税区于2010年10月经国务院批准设立，2011年2月通过国家验收。综保区规划面积4.68平方公里，共分为A、B、C三个区域，其中A区规划面积0.47平方公里，为原成都保税物流中心，是综保区通关作业和保税仓储区；B区规划面积2.59平方公里，为原四川成都出口加工区，区内集中了英特尔、德州仪器等加工贸易企业；C区规划面积1.62平方公里，为新扩建区域。2012年1月，国务院办公厅批复同意成都高新综合保税区扩区设立双流园区，7月成都高新综合保税区双流园区通过国家验收。"
+        },
+        {
+          "block_id": "blk-f39ed2a4509dce7d170b",
+          "page_number": 122,
+          "text": "成都高新综合保税区依托政策优势，重点发展笔记本电脑、平板电脑制造，晶圆制造及芯片封装测试，电子元器件、精密机械加工以及生物制药产业，已吸引英特尔、富士康、德州仪器、戴尔、莫仕等世界500强及跨国企业入区发展，双流园区已引进仁宝、纬创等全球知名代工企业入区发展。2018年，成都高新综保区进出口值达3521.1亿元，位列全国综合保税区第一位，占全市货物贸易进出口值的 \\(70.7\\%\\) ，已经成为拉动成都开放型经济增长的有力引擎。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-f3d39e57a3a1",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-83362f830493"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

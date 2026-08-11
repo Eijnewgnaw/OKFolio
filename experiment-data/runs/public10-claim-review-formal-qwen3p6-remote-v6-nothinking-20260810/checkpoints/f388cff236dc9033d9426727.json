@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-69a1ae09fb0e:bundle-4144875dd8f9; submitted='成都与四川省内各城市公路路网总体平均密度为 81.1km / 100km^2 ，分别较广州、杭州与其省内各城市间公路路网总体平均密度低47.6、 39.8km / 100km^2 ，其中，从高速公路来看，成都与与四川省内各城市高速公路路网总体平均密度为 1.7km / 100km^2 ，分别较广州、杭州与其省内各城市间'; nearest_verbatim_span='2\\\\) ，其中，从高速公路来看，成都与与四川省内各城市高速公路路网总体平均密度为 \\\\(1.7'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-bac3ae7d9a30",
+  "ref_ids": [
+    "ref-69a1ae09fb0e",
+    "ref-b5b856255356"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

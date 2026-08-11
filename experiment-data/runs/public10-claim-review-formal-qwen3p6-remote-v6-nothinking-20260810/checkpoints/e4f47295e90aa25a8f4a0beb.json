@@ -1,0 +1,670 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年期间重点发展的先进制造业和新兴产业具体包括哪些领域？",
+    "claims": [
+      {
+        "claim": "成都自贸试验区重点发展的先进制造业包括电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药。",
+        "claim_id": "claim-6fd771c7e8b7108f",
+        "evidence_block_ids": [
+          "blk-d199f616d8e397ef831a"
+        ],
+        "evidence_excerpt": "重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          177
+        ],
+        "ref_id": "ref-0e6be8f9f75b",
+        "scope": {
+          "object": [
+            "电子终端产品",
+            "电子元器件",
+            "传感设备",
+            "航空零部件"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区重点发展的新兴产业包括物联网、新能源、新材料、节能环保、人工智能（AI）。",
+        "claim_id": "claim-101ff16f4a2a8e29",
+        "evidence_block_ids": [
+          "blk-d199f616d8e397ef831a"
+        ],
+        "evidence_excerpt": "物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          177
+        ],
+        "ref_id": "ref-0e6be8f9f75b",
+        "scope": {
+          "object": [
+            "物联网",
+            "新能源",
+            "新材料",
+            "节能环保"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易。",
+        "claim_id": "claim-c99c36f1cd66acb4",
+        "evidence_block_ids": [
+          "blk-1f1e0046587827d56eea"
+        ],
+        "evidence_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          177
+        ],
+        "ref_id": "ref-0e6be8f9f75b",
+        "scope": {
+          "region": [
+            "成都高新综合保税区",
+            "双流园区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区依托中德、中法等国家级合作平台，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+        "claim_id": "claim-646fc4a61131d8b3",
+        "evidence_block_ids": [
+          "blk-2bee4674318a8d00ac0b"
+        ],
+        "evidence_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          177
+        ],
+        "ref_id": "ref-0e6be8f9f75b",
+        "scope": {
+          "object": [
+            "汽车（新能源汽车）整车及零部件制造",
+            "节能环保",
+            "新能源",
+            "物联网"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修，延伸飞机维修产业链。",
+        "claim_id": "claim-180d1b6e4613d6d8",
+        "evidence_block_ids": [
+          "blk-8791c3667981fe344b5b"
+        ],
+        "evidence_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          177
+        ],
+        "ref_id": "ref-0e6be8f9f75b",
+        "scope": {
+          "region": [
+            "成都高新综合保税区（双流园区）",
+            "天府新区保税物流中心（B型）"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+        "claim_id": "claim-049cb1ded850712f",
+        "evidence_block_ids": [
+          "blk-4551b43d8c268c5d82ba"
+        ],
+        "evidence_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          177
+        ],
+        "ref_id": "ref-0e6be8f9f75b",
+        "scope": {
+          "region": [
+            "武侯区",
+            "新都区",
+            "邛崃市",
+            "崇州市"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-6fd771c7e8b7108f",
+          "claim-101ff16f4a2a8e29",
+          "claim-c99c36f1cd66acb4",
+          "claim-646fc4a61131d8b3",
+          "claim-180d1b6e4613d6d8",
+          "claim-049cb1ded850712f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+        "reason": "该证据包含回答中心问题所需的全部核心事实，包括具体的产业分类、重点发展的产品类型以及依托的政策平台（如综保区、跨境电商试验区）。"
+      }
+    ],
+    "group_id": "topic-d8b16a76e5db",
+    "members": [
+      {
+        "contribution": "该证据直接列出了成都自贸试验区在2017-2019年期间重点发展的先进制造业（如电子终端、航空零部件等）和新兴产业（如物联网、新能源等）的具体清单，并阐述了依托保税区和跨境电商平台发展加工贸易的具体路径。",
+        "ref_id": "ref-0e6be8f9f75b",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-6fd771c7e8b7108f",
+        "draft_excerpt": "成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-101ff16f4a2a8e29",
+        "draft_excerpt": "同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c99c36f1cd66acb4",
+        "draft_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-646fc4a61131d8b3",
+        "draft_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-180d1b6e4613d6d8",
+        "draft_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-049cb1ded850712f",
+        "draft_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-6fd771c7e8b7108f",
+          "claim-101ff16f4a2a8e29",
+          "claim-180d1b6e4613d6d8"
+        ],
+        "draft_excerpt": "成都自贸试验区依托综合保税区及国际合作平台，重点发展电子终端、航空零部件、汽车及生物医药等先进制造业，并推动物联网、新能源等新兴产业及航空维修等生产性服务业集聚发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a32fac7a33cd9e6e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6fd771c7e8b7108f"
+        ],
+        "draft_excerpt": "成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c51e58edaaf133ee",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-101ff16f4a2a8e29"
+        ],
+        "draft_excerpt": "同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-01a8c576690527e4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c99c36f1cd66acb4"
+        ],
+        "draft_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-76bf2ce8170c9de8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-646fc4a61131d8b3"
+        ],
+        "draft_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9672249ad56fcf43",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-180d1b6e4613d6d8"
+        ],
+        "draft_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-61f280f8d8c0db2e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-180d1b6e4613d6d8"
+        ],
+        "draft_excerpt": "延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3d1ca65255b26be5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-049cb1ded850712f"
+        ],
+        "draft_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-218165f7876560aa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-6fd771c7e8b7108f",
+          "draft_excerpt": "成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-101ff16f4a2a8e29",
+          "draft_excerpt": "同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c99c36f1cd66acb4",
+          "draft_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-646fc4a61131d8b3",
+          "draft_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-180d1b6e4613d6d8",
+          "draft_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-049cb1ded850712f",
+          "draft_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-6fd771c7e8b7108f",
+            "claim-101ff16f4a2a8e29",
+            "claim-180d1b6e4613d6d8"
+          ],
+          "draft_excerpt": "成都自贸试验区依托综合保税区及国际合作平台，重点发展电子终端、航空零部件、汽车及生物医药等先进制造业，并推动物联网、新能源等新兴产业及航空维修等生产性服务业集聚发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-a32fac7a33cd9e6e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6fd771c7e8b7108f"
+          ],
+          "draft_excerpt": "成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。",
+          "finding": "supported",
+          "sentence_id": "sentence-c51e58edaaf133ee",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-101ff16f4a2a8e29"
+          ],
+          "draft_excerpt": "同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+          "finding": "supported",
+          "sentence_id": "sentence-01a8c576690527e4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c99c36f1cd66acb4"
+          ],
+          "draft_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+          "finding": "supported",
+          "sentence_id": "sentence-76bf2ce8170c9de8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-646fc4a61131d8b3"
+          ],
+          "draft_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+          "finding": "supported",
+          "sentence_id": "sentence-9672249ad56fcf43",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-180d1b6e4613d6d8"
+          ],
+          "draft_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。",
+          "finding": "supported",
+          "sentence_id": "sentence-61f280f8d8c0db2e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-180d1b6e4613d6d8"
+          ],
+          "draft_excerpt": "延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。",
+          "finding": "supported",
+          "sentence_id": "sentence-3d1ca65255b26be5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-049cb1ded850712f"
+          ],
+          "draft_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-218165f7876560aa",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "8bff787327bb40433e6303ec307ee8459c84ca1361bcfcaa41f482bef6b72e85",
+  "coverage_history": [
+    {
+      "draft_sha256": "8bff787327bb40433e6303ec307ee8459c84ca1361bcfcaa41f482bef6b72e85",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-6fd771c7e8b7108f",
+            "draft_excerpt": "成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-101ff16f4a2a8e29",
+            "draft_excerpt": "同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c99c36f1cd66acb4",
+            "draft_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-646fc4a61131d8b3",
+            "draft_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-180d1b6e4613d6d8",
+            "draft_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-049cb1ded850712f",
+            "draft_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-6fd771c7e8b7108f",
+              "claim-101ff16f4a2a8e29",
+              "claim-180d1b6e4613d6d8"
+            ],
+            "draft_excerpt": "成都自贸试验区依托综合保税区及国际合作平台，重点发展电子终端、航空零部件、汽车及生物医药等先进制造业，并推动物联网、新能源等新兴产业及航空维修等生产性服务业集聚发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a32fac7a33cd9e6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fd771c7e8b7108f"
+            ],
+            "draft_excerpt": "成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c51e58edaaf133ee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-101ff16f4a2a8e29"
+            ],
+            "draft_excerpt": "同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-01a8c576690527e4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c99c36f1cd66acb4"
+            ],
+            "draft_excerpt": "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-76bf2ce8170c9de8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-646fc4a61131d8b3"
+            ],
+            "draft_excerpt": "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9672249ad56fcf43",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-180d1b6e4613d6d8"
+            ],
+            "draft_excerpt": "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-61f280f8d8c0db2e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-180d1b6e4613d6d8"
+            ],
+            "draft_excerpt": "延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d1ca65255b26be5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-049cb1ded850712f"
+            ],
+            "draft_excerpt": "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-218165f7876560aa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心产业布局\n\n成都自贸试验区重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业。同时，积极培育物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。\n\n利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。\n\n## 航空维修与特色优势产业\n\n紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。\n\n发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。",
+    "description": "成都自贸试验区依托综合保税区及国际合作平台，重点发展电子终端、航空零部件、汽车及生物医药等先进制造业，并推动物联网、新能源等新兴产业及航空维修等生产性服务业集聚发展。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-d8b16a76e5db",
+      "description": "重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业，以及物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业",
+        "物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。",
+        "利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。",
+        "依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。",
+        "紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。",
+        "发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。"
+      ],
+      "evidence_block_ids": [
+        "blk-d199f616d8e397ef831a",
+        "blk-1f1e0046587827d56eea",
+        "blk-2bee4674318a8d00ac0b",
+        "blk-8791c3667981fe344b5b",
+        "blk-4551b43d8c268c5d82ba"
+      ],
+      "page_end": 177,
+      "page_start": 177,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（三）发展重点"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "成都自贸试验区先进制造业发展重点",
+      "type": "分析框架"
+    },
+    "title": "成都自贸试验区先进制造业发展重点"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-0e6be8f9f75b:bundle-4058bf4d1214",
+      "excluded_fragments": [],
+      "ref_id": "ref-0e6be8f9f75b",
+      "source_blocks": [
+        {
+          "block_id": "blk-d199f616d8e397ef831a",
+          "page_number": 177,
+          "text": "重点发展电子终端产品、电子元器件、传感设备、航空零部件、机械装备、汽车及零部件、生物医药等先进制造业；物联网、新能源、新材料、节能环保、人工智能（AI）等新兴产业及生产性服务业。"
+        },
+        {
+          "block_id": "blk-0c269b094a332d64ea06",
+          "page_number": 177,
+          "text": "1.发挥成都在中国（四川）自由贸易试验区的核心作用，全面改革创新加工贸易发展方式，以模式创新和通关便利化改革为重点，营造良好的加工贸易发展环境。"
+        },
+        {
+          "block_id": "blk-1f1e0046587827d56eea",
+          "page_number": 177,
+          "text": "2.利用成都高新综合保税区（含双流园区）外资企业集聚优势，大力发展大中小微型计算机、通信设备、集成电路、精密机械、航空零部件、生物制药类产品加工贸易，做强先进制造业和新兴产业。"
+        },
+        {
+          "block_id": "blk-2bee4674318a8d00ac0b",
+          "page_number": 177,
+          "text": "3.依托中德、中法等国家级合作平台，着力引进国外技术先进型的加工贸易企业，突出“创新和智能制造”核心理念，积极推动国际先进制造技术与本地资本及消费市场有机结合，重点发展汽车（新能源汽车）整车及零部件制造、节能环保、新能源和物联网等战略性新兴产业。"
+        },
+        {
+          "block_id": "blk-9f9e300110764ec31c44",
+          "page_number": 177,
+          "text": "4.依托中国（成都）跨境电商综合试验区平台，加快推动成都高新区、龙泉驿区、青白江区、双流区等有条件的区（市）县加工贸易与跨境电商融合发展，吸引和鼓励加工贸易企业探索建立全球用户网上下单、综合保税区生产组织、跨境电商方式进出口的新型商业模式。"
+        },
+        {
+          "block_id": "blk-8791c3667981fe344b5b",
+          "page_number": 177,
+          "text": "5. 紧抓国家服务贸易创新发展试点机遇，以成都高新综合保税区（双流园区）保税航空维修产业园为基础，大力发展飞机发动机维修。延伸飞机维修产业链，以成都国际航空综合枢纽口岸和综合保税区双流园区、天府新区保税物流中心（B型）为中心，加大力度引进一批航材检修企业入驻，按相关规定发展定期维护保养业务，飞机退役后的拆解，以及有用零部件销售、租赁等业务，做大航空维修业务规模。"
+        },
+        {
+          "block_id": "blk-4551b43d8c268c5d82ba",
+          "page_number": 177,
+          "text": "6.发挥武侯区、新都区、邛崃市、崇州市等地在鞋类、纺织服装、家居家具、农产品等产业聚集优势，促进传统特色优势产品加工贸易发展。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d8b16a76e5db",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-0e6be8f9f75b"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

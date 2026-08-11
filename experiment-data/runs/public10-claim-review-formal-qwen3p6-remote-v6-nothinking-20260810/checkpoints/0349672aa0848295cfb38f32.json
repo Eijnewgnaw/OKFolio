@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-1f8c17a01c1c:bundle-e3deaa7cd495; submitted='2018年川渝界7个出川国考断面地表水水质优良比例提升至 85.7%'; nearest_verbatim_span='川渝界7个出川国考断面地表水水质优良比例提升至 \\\\(85.7\\\\%'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-a6699a33b963",
+  "ref_ids": [
+    "ref-1f8c17a01c1c",
+    "ref-2b801f7e0f87"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

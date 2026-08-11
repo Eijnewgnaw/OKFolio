@@ -1,0 +1,934 @@
+{
+  "contract": {
+    "canonical_question": "成都实施新外贸发展计划中，关于跨境电商及外贸发展的具体量化目标、重点支持领域及实施主体分别是什么？",
+    "claims": [
+      {
+        "claim": "集聚跨境电商企业1万家以上。",
+        "claim_id": "claim-524339a189375b9d",
+        "evidence_block_ids": [
+          "blk-0ba4fed95d42c7d61548"
+        ],
+        "evidence_excerpt": "集聚跨境电商企业1万家以上",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "集聚跨境电商服务企业5000家以上。",
+        "claim_id": "claim-d3a8bb27ec85f16e",
+        "evidence_block_ids": [
+          "blk-0ba4fed95d42c7d61548"
+        ],
+        "evidence_excerpt": "跨境电商服务企业5000家以上",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "吸引创新创业人才10万人以上。",
+        "claim_id": "claim-9f3b1acef4dfa0f3",
+        "evidence_block_ids": [
+          "blk-0ba4fed95d42c7d61548"
+        ],
+        "evidence_excerpt": "吸引创新创业人才10万人以上",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业。",
+        "claim_id": "claim-ecfd8b8f7d032515",
+        "evidence_block_ids": [
+          "blk-0ba4fed95d42c7d61548"
+        ],
+        "evidence_excerpt": "加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "培育跨境电商独角兽企业。",
+        "claim_id": "claim-00a063f3e05733b1",
+        "evidence_block_ids": [
+          "blk-0ba4fed95d42c7d61548"
+        ],
+        "evidence_excerpt": "培育跨境电商独角兽企业",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持跨境电商产业园区和专业楼宇建设。",
+        "claim_id": "claim-7cb949ff4af19869",
+        "evidence_block_ids": [
+          "blk-0ba4fed95d42c7d61548",
+          "blk-d88ab46c1d03a0b3efaa"
+        ],
+        "evidence_excerpt": "支持跨境电商产业园区和专业楼宇建设",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165,
+          166
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "积极推进供应链金融、跨境电商支付结算业务发展。",
+        "claim_id": "claim-64fe0f30b567df81",
+        "evidence_block_ids": [
+          "blk-d88ab46c1d03a0b3efaa"
+        ],
+        "evidence_excerpt": "积极推进供应链金融、跨境电商支付结算业务发展",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          166
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "实施国际品牌培育行动，扶持和认定一批成都原创国际品牌。",
+        "claim_id": "claim-5b6f48ab93b3600d",
+        "evidence_block_ids": [
+          "blk-d88ab46c1d03a0b3efaa"
+        ],
+        "evidence_excerpt": "实施国际品牌培育行动，扶持和认定一批成都原创国际品牌",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          166
+        ],
+        "ref_id": "ref-4c021ef725a8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-524339a189375b9d",
+          "claim-d3a8bb27ec85f16e",
+          "claim-9f3b1acef4dfa0f3",
+          "claim-ecfd8b8f7d032515",
+          "claim-00a063f3e05733b1",
+          "claim-7cb949ff4af19869",
+          "claim-64fe0f30b567df81",
+          "claim-5b6f48ab93b3600d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+        "reason": "该证据包含回答中心问题所需的所有固定槽位事实，包括量化目标、支持领域、实施路径及责任主体，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-2e6f6398f219",
+    "members": [
+      {
+        "contribution": "该证据直接提供了新外贸发展计划的核心量化指标（企业数量、人才数量）、重点支持对象（交易平台、供应链、服务商、独角兽）以及具体的实施路径（园区建设、金融支持、品牌培育、市场拓展），并明确了牵头与责任单位，完整覆盖了分析框架的关键槽位。",
+        "ref_id": "ref-4c021ef725a8",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-ecfd8b8f7d032515",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-00a063f3e05733b1",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7cb949ff4af19869",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-64fe0f30b567df81",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5b6f48ab93b3600d",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9f3b1acef4dfa0f3",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-524339a189375b9d",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d3a8bb27ec85f16e",
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-ecfd8b8f7d032515",
+          "claim-00a063f3e05733b1",
+          "claim-7cb949ff4af19869",
+          "claim-64fe0f30b567df81",
+          "claim-5b6f48ab93b3600d",
+          "claim-9f3b1acef4dfa0f3",
+          "claim-524339a189375b9d",
+          "claim-d3a8bb27ec85f16e"
+        ],
+        "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8c2917dc953005e7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5767cd3246a00250",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-9f3b1acef4dfa0f3",
+          "claim-524339a189375b9d",
+          "claim-d3a8bb27ec85f16e"
+        ],
+        "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2498a40a3aeac201",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7cb949ff4af19869",
+          "claim-64fe0f30b567df81"
+        ],
+        "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2c3a177055b941f5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5b6f48ab93b3600d"
+        ],
+        "draft_excerpt": "此外，计划实施国际品牌培育行动，扶持和认定一批成都原创国际品牌。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-913c0ee4fea290ad",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ecfd8b8f7d032515",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-00a063f3e05733b1",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7cb949ff4af19869",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-64fe0f30b567df81",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5b6f48ab93b3600d",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9f3b1acef4dfa0f3",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-524339a189375b9d",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d3a8bb27ec85f16e",
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-ecfd8b8f7d032515",
+            "claim-00a063f3e05733b1",
+            "claim-7cb949ff4af19869",
+            "claim-64fe0f30b567df81",
+            "claim-5b6f48ab93b3600d",
+            "claim-9f3b1acef4dfa0f3",
+            "claim-524339a189375b9d",
+            "claim-d3a8bb27ec85f16e"
+          ],
+          "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+          "finding": "supported",
+          "sentence_id": "sentence-8c2917dc953005e7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-5767cd3246a00250",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-9f3b1acef4dfa0f3",
+            "claim-524339a189375b9d",
+            "claim-d3a8bb27ec85f16e"
+          ],
+          "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+          "finding": "supported",
+          "sentence_id": "sentence-2498a40a3aeac201",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7cb949ff4af19869",
+            "claim-64fe0f30b567df81"
+          ],
+          "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-2c3a177055b941f5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5b6f48ab93b3600d"
+          ],
+          "draft_excerpt": "此外，计划实施国际品牌培育行动，扶持和认定一批成都原创国际品牌。",
+          "finding": "supported",
+          "sentence_id": "sentence-913c0ee4fea290ad",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "e1331d8a4967ad707777cd391b1611ca2e69bdd5f2105936b4f08fb1eacf8890",
+  "coverage_history": [
+    {
+      "draft_sha256": "d5da64ac1f5b64dee83b1e669ed5f3d1706a736c4bb9cf140c159d4c0691aa5d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-00a063f3e05733b1",
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链及第三方服务商企业，并培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都以服务全球。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ecfd8b8f7d032515",
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链及第三方服务商企业，并培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都以服务全球。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9f3b1acef4dfa0f3",
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-524339a189375b9d",
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3a8bb27ec85f16e",
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7cb949ff4af19869",
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融与跨境电商支付结算业务发展，并支持公用型保税仓、海外仓的建设以及利用成都物流配送体系开展跨境贸易。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-64fe0f30b567df81",
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融与跨境电商支付结算业务发展，并支持公用型保税仓、海外仓的建设以及利用成都物流配送体系开展跨境贸易。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b6f48ab93b3600d",
+            "draft_excerpt": "此外，计划实施国际品牌培育行动以扶持和认定一批成都原创国际品牌，支持企业境外注册自有商标和开展产品国际认证；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该计划旨在通过打造跨境电商全球服务资源中心、培育独角兽企业并引导全国服务资源落地成都，以实现集聚万家企业及十万人才的目标。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e003cd5ecf96fb3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecfd8b8f7d032515",
+              "claim-00a063f3e05733b1"
+            ],
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链及第三方服务商企业，并培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都以服务全球。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3fba6200ff5c816",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f3b1acef4dfa0f3",
+              "claim-524339a189375b9d",
+              "claim-d3a8bb27ec85f16e"
+            ],
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2498a40a3aeac201",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7cb949ff4af19869",
+              "claim-64fe0f30b567df81"
+            ],
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融与跨境电商支付结算业务发展，并支持公用型保税仓、海外仓的建设以及利用成都物流配送体系开展跨境贸易。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a91f47b8508001a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，计划支持外贸综合服务企业发展以提升中小企业对外贸易便利化水平并壮大外贸企业主体；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3907a99a73eab6ef",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "支持企业开展技改和研发创新以培育以技术、标准、品牌、质量、服务为核心的外贸竞争新优势。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8204e8fdf436ce54",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b6f48ab93b3600d"
+            ],
+            "draft_excerpt": "此外，计划实施国际品牌培育行动以扶持和认定一批成都原创国际品牌，支持企业境外注册自有商标和开展产品国际认证；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c43705b6a1314d2a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "并通过实施“一带一路”经贸拓展专项行动及“成都造·全球行”活动，巩固欧美日等传统贸易市场并拓展东南亚、南亚、非洲、拉美等新兴市场。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41c7d51103b2c56b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "牵头单位：市商务委",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af67e57d0d84c476",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "责任单位：市口岸物流办、市科技局、市金融局、市经信委、市工商局",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d1fa170e3b941ea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该计划旨在通过打造跨境电商全球服务资源中心、培育独角兽企业并引导全国服务资源落地成都，以实现集聚万家企业及十万人才的目标。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "同时，计划支持外贸综合服务企业发展以提升中小企业对外贸易便利化水平并壮大外贸企业主体；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "支持企业开展技改和研发创新以培育以技术、标准、品牌、质量、服务为核心的外贸竞争新优势。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "并通过实施“一带一路”经贸拓展专项行动及“成都造·全球行”活动，巩固欧美日等传统贸易市场并拓展东南亚、南亚、非洲、拉美等新兴市场。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "牵头单位：市商务委",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "责任单位：市口岸物流办、市科技局、市金融局、市经信委、市工商局",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "6c8b89738dad623b7024139c15057a067cdc508848b1ff883198d121e6889d0d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ecfd8b8f7d032515",
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链及第三方服务商企业，并培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都以服务全球。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00a063f3e05733b1",
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链及第三方服务商企业，并培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都以服务全球。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9f3b1acef4dfa0f3",
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-524339a189375b9d",
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3a8bb27ec85f16e",
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7cb949ff4af19869",
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融与跨境电商支付结算业务发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-64fe0f30b567df81",
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融与跨境电商支付结算业务发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b6f48ab93b3600d",
+            "draft_excerpt": "此外，计划实施国际品牌培育行动以扶持和认定一批成都原创国际品牌。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过引进知名平台及服务商、培育独角兽企业，并支持园区建设与金融业务发展，以实现集聚万家企业及十万人才的目标。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-60136322a292b331",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecfd8b8f7d032515",
+              "claim-00a063f3e05733b1"
+            ],
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链及第三方服务商企业，并培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都以服务全球。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3fba6200ff5c816",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f3b1acef4dfa0f3",
+              "claim-524339a189375b9d",
+              "claim-d3a8bb27ec85f16e"
+            ],
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2498a40a3aeac201",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7cb949ff4af19869",
+              "claim-64fe0f30b567df81"
+            ],
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融与跨境电商支付结算业务发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e02004a9e9b52d0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b6f48ab93b3600d"
+            ],
+            "draft_excerpt": "此外，计划实施国际品牌培育行动以扶持和认定一批成都原创国际品牌。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1aacb4f1db61cf3e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过引进知名平台及服务商、培育独角兽企业，并支持园区建设与金融业务发展，以实现集聚万家企业及十万人才的目标。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e1331d8a4967ad707777cd391b1611ca2e69bdd5f2105936b4f08fb1eacf8890",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ecfd8b8f7d032515",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00a063f3e05733b1",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7cb949ff4af19869",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-64fe0f30b567df81",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b6f48ab93b3600d",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9f3b1acef4dfa0f3",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-524339a189375b9d",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3a8bb27ec85f16e",
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ecfd8b8f7d032515",
+              "claim-00a063f3e05733b1",
+              "claim-7cb949ff4af19869",
+              "claim-64fe0f30b567df81",
+              "claim-5b6f48ab93b3600d",
+              "claim-9f3b1acef4dfa0f3",
+              "claim-524339a189375b9d",
+              "claim-d3a8bb27ec85f16e"
+            ],
+            "draft_excerpt": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c2917dc953005e7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5767cd3246a00250",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f3b1acef4dfa0f3",
+              "claim-524339a189375b9d",
+              "claim-d3a8bb27ec85f16e"
+            ],
+            "draft_excerpt": "该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2498a40a3aeac201",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7cb949ff4af19869",
+              "claim-64fe0f30b567df81"
+            ],
+            "draft_excerpt": "为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c3a177055b941f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b6f48ab93b3600d"
+            ],
+            "draft_excerpt": "此外，计划实施国际品牌培育行动，扶持和认定一批成都原创国际品牌。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-913c0ee4fea290ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n实施新外贸发展计划的核心目标是打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球。\n\n该计划设定了明确的量化集聚目标，旨在吸引创新创业人才10万人以上，并集聚跨境电商企业1万家以上以及跨境电商服务企业5000家以上。\n\n## 证据与影响\n\n为支撑上述目标，计划支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展。\n\n此外，计划实施国际品牌培育行动，扶持和认定一批成都原创国际品牌。",
+    "description": "该计划旨在打造跨境电商全球服务资源中心，通过加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，支持跨境电商产业园区和专业楼宇建设，积极推进供应链金融、跨境电商支付结算业务发展，实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，以集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-2e6f6398f219",
+      "description": "打造跨境电商全球服务资源中心，加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球，集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "集聚跨境电商企业1万家以上",
+        "跨境电商服务企业5000家以上",
+        "吸引创新创业人才10万人以上",
+        "加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业",
+        "培育跨境电商独角兽企业",
+        "支持跨境电商产业园区和专业楼宇建设",
+        "积极推进供应链金融、跨境电商支付结算业务发展",
+        "实施国际品牌培育行动，扶持和认定一批成都原创国际品牌"
+      ],
+      "evidence_block_ids": [
+        "blk-0ba4fed95d42c7d61548",
+        "blk-d88ab46c1d03a0b3efaa"
+      ],
+      "page_end": 166,
+      "page_start": 165,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（十五）实施新外贸发展计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施新外贸发展计划",
+      "type": "分析框架"
+    },
+    "title": "实施新外贸发展计划"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-4c021ef725a8:bundle-96aac2f1549d",
+      "excluded_fragments": [],
+      "ref_id": "ref-4c021ef725a8",
+      "source_blocks": [
+        {
+          "block_id": "blk-0ba4fed95d42c7d61548",
+          "page_number": 165,
+          "text": "打造跨境电商全球服务资源中心，加快引进国内外知名跨境电商交易平台、综合供应链、第三方服务商企业，培育跨境电商独角兽企业，引导全国跨境电商服务资源落地成都服务全球，集聚跨境电商企业1万家以上、跨境电商服务企业5000家以上，吸引创新创业人才10万人以上。支持跨境电商产业园区和专业楼宇"
+        },
+        {
+          "block_id": "blk-d88ab46c1d03a0b3efaa",
+          "page_number": 166,
+          "text": "建设，积极推进供应链金融、跨境电商支付结算业务发展，支持公用型保税仓、海外仓建设和利用成都物流配送体系开展跨境贸易。支持外贸综合服务企业发展，提升中小企业对外贸易便利化水平，壮大外贸企业主体。支持外贸企业开展技改和研发创新，培育以技术、标准、品牌、质量、服务为核心的外贸竞争新优势。实施国际品牌培育行动，扶持和认定一批成都原创国际品牌，支持企业境外注册自有商标和开展产品国际认证。实施“一带一路”经贸拓展专项行动，开展“成都造·全球行”活动，巩固欧美日等传统贸易市场，拓展东南亚、南亚、非洲、拉美等新兴市场。（牵头单位：市商务委；责任单位：市口岸物流办、市科技局、市金融局、市经信委、市工商局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-2e6f6398f219",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-4c021ef725a8"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

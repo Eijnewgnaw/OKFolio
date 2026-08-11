@@ -1,0 +1,942 @@
+{
+  "contract": {
+    "canonical_question": "2023年成都如何通过项目配套、基地共建及核心技术攻关与周边城市构建航空航天产业联动格局？",
+    "claims": [
+      {
+        "claim": "2023年，成都与自贡、广元、重庆等城市开展积极合作，聚焦航空发动机、工业无人机、低空经济等产业链。",
+        "claim_id": "claim-05dab4674131bebf",
+        "evidence_block_ids": [
+          "blk-42cd8a07872addb9dabb"
+        ],
+        "evidence_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          45
+        ],
+        "ref_id": "ref-7cbdb8ce3218",
+        "scope": {
+          "time": [
+            "2023年"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+        "claim_id": "claim-690ee2f3949640ef",
+        "evidence_block_ids": [
+          "blk-93dd8d9dcf7a2e772ca9"
+        ],
+        "evidence_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          45
+        ],
+        "ref_id": "ref-7cbdb8ce3218",
+        "scope": {
+          "object": [
+            "成都成飞",
+            "成都西南信息控制研究院",
+            "银河航天（成都）",
+            "广元零八一电子集团有限公司"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都联合自贡共建无人机产业基地，引进13户成飞配套企业，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+        "claim_id": "claim-721675a4459e4b3e",
+        "evidence_block_ids": [
+          "blk-93dd8d9dcf7a2e772ca9",
+          "blk-464831b40bcbf0ddeb27"
+        ],
+        "evidence_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造 业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          45,
+          46
+        ],
+        "ref_id": "ref-7cbdb8ce3218",
+        "scope": {
+          "object": [
+            "成都",
+            "自贡"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+        "claim_id": "claim-a3e1b60533bf7f71",
+        "evidence_block_ids": [
+          "blk-b20cf7441caa69b8de82"
+        ],
+        "evidence_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          46
+        ],
+        "ref_id": "ref-7cbdb8ce3218",
+        "scope": {
+          "object": [
+            "中国航发成都发动机有限公司",
+            "重庆材料研究院",
+            "宝武特冶航研",
+            "西南铝业"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "四川省政府、航空工业共同签署国家高端航空装备技术创新中心合作共建协议，该中心在青羊区正式揭牌。",
+        "claim_id": "claim-fb29534ca3b0b86f",
+        "evidence_block_ids": [
+          "blk-b20cf7441caa69b8de82"
+        ],
+        "evidence_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          46
+        ],
+        "ref_id": "ref-7cbdb8ce3218",
+        "scope": {
+          "object": [
+            "四川省政府",
+            "航空工业",
+            "青羊区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都东部新区与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署4个临空产业发展战略合作项目。",
+        "claim_id": "claim-52f7d957cb259f02",
+        "evidence_block_ids": [
+          "blk-bab7ad22b12a20171559"
+        ],
+        "evidence_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空 \\(^+\\) ”产业发展战略合作、航空管路研发制造等4个项目",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          46
+        ],
+        "ref_id": "ref-7cbdb8ce3218",
+        "scope": {
+          "object": [
+            "成都东部新区",
+            "中国航空规划设计研究总院有限公司",
+            "中国航空工业文化中心",
+            "亚洲航空"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-05dab4674131bebf",
+          "claim-690ee2f3949640ef",
+          "claim-721675a4459e4b3e",
+          "claim-a3e1b60533bf7f71",
+          "claim-fb29534ca3b0b86f",
+          "claim-52f7d957cb259f02"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+        "reason": "该Bundle包含回答中心问题所需的所有核心事实，包括合作对象、具体项目、产值数据、基地共建模式及技术攻关细节，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-d4fc888326ef",
+    "members": [
+      {
+        "contribution": "提供2023年成都与自贡、广元、重庆在航空发动机、无人机及低空经济领域的具体合作案例，涵盖产值数据、基地共建模式、技术攻关主体及创新平台揭牌等事实，直接支撑中心问题。",
+        "ref_id": "ref-7cbdb8ce3218",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-05dab4674131bebf",
+        "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-690ee2f3949640ef",
+        "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-721675a4459e4b3e",
+        "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a3e1b60533bf7f71",
+        "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fb29534ca3b0b86f",
+        "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-52f7d957cb259f02",
+        "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-05dab4674131bebf",
+          "claim-690ee2f3949640ef",
+          "claim-721675a4459e4b3e",
+          "claim-a3e1b60533bf7f71",
+          "claim-fb29534ca3b0b86f",
+          "claim-52f7d957cb259f02"
+        ],
+        "draft_excerpt": "2023年，成都与自贡、广元、重庆等城市开展积极合作，聚焦航空发动机、工业无人机、低空经济等产业链，通过院所合作、基地共建及联合攻关等方式构建产业联动格局。",
+        "finding": "Summary sentence covering all claims.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-faf54d8a2f1c3ac5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-05dab4674131bebf"
+        ],
+        "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+        "finding": "Matches claim-05dab4674131bebf.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bbb5454cbc88b4a7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-690ee2f3949640ef"
+        ],
+        "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+        "finding": "Matches claim-690ee2f3949640ef.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c22410a8fd53b5f8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-721675a4459e4b3e"
+        ],
+        "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+        "finding": "Matches claim-721675a4459e4b3e.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aeae8534716239b5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a3e1b60533bf7f71"
+        ],
+        "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+        "finding": "Matches claim-a3e1b60533bf7f71.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4a1e794749860f1f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fb29534ca3b0b86f"
+        ],
+        "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+        "finding": "Matches claim-fb29534ca3b0b86f.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5f67d0904f1824f4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-52f7d957cb259f02"
+        ],
+        "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+        "finding": "Matches claim-52f7d957cb259f02.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-90e3b362d32615e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-05dab4674131bebf",
+          "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-690ee2f3949640ef",
+          "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-721675a4459e4b3e",
+          "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a3e1b60533bf7f71",
+          "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fb29534ca3b0b86f",
+          "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-52f7d957cb259f02",
+          "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-05dab4674131bebf",
+            "claim-690ee2f3949640ef",
+            "claim-721675a4459e4b3e",
+            "claim-a3e1b60533bf7f71",
+            "claim-fb29534ca3b0b86f",
+            "claim-52f7d957cb259f02"
+          ],
+          "draft_excerpt": "2023年，成都与自贡、广元、重庆等城市开展积极合作，聚焦航空发动机、工业无人机、低空经济等产业链，通过院所合作、基地共建及联合攻关等方式构建产业联动格局。",
+          "finding": "Summary sentence covering all claims.",
+          "sentence_id": "sentence-faf54d8a2f1c3ac5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-05dab4674131bebf"
+          ],
+          "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+          "finding": "Matches claim-05dab4674131bebf.",
+          "sentence_id": "sentence-bbb5454cbc88b4a7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-690ee2f3949640ef"
+          ],
+          "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+          "finding": "Matches claim-690ee2f3949640ef.",
+          "sentence_id": "sentence-c22410a8fd53b5f8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-721675a4459e4b3e"
+          ],
+          "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+          "finding": "Matches claim-721675a4459e4b3e.",
+          "sentence_id": "sentence-aeae8534716239b5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a3e1b60533bf7f71"
+          ],
+          "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+          "finding": "Matches claim-a3e1b60533bf7f71.",
+          "sentence_id": "sentence-4a1e794749860f1f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fb29534ca3b0b86f"
+          ],
+          "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+          "finding": "Matches claim-fb29534ca3b0b86f.",
+          "sentence_id": "sentence-5f67d0904f1824f4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-52f7d957cb259f02"
+          ],
+          "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+          "finding": "Matches claim-52f7d957cb259f02.",
+          "sentence_id": "sentence-90e3b362d32615e8",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "dd81872e06aceb2e80f5d0be10b56f32acc676db38ed7f3c73d501523dd18803",
+  "coverage_history": [
+    {
+      "draft_sha256": "e1407d84f257954e99279c7ec4e533c5eb9d1efb3f67e1da9e3626cf9dd2ab51",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-05dab4674131bebf",
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作，航空航天产业联动格局加速构建。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb29534ca3b0b86f",
+            "draft_excerpt": "四川省政府与航空工业共同签署国家高端航空装备技术创新中心合作共建协议，该中心在青羊区正式揭牌，标志着高端航空装备技术创新能力的进一步提升。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-721675a4459e4b3e",
+            "draft_excerpt": "在跨区域合作与基地共建方面，成都联合自贡共建无人机产业基地，成功引进13户成飞配套企业，协同构建“研发在成都、生产在自贡”的跨区域发展模式，并联合争创国家高端航空航天装备先进制造业集群。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-690ee2f3949640ef",
+            "draft_excerpt": "同时，成都推动成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a3e1b60533bf7f71",
+            "draft_excerpt": "在核心技术联合攻关方面，推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52f7d957cb259f02",
+            "draft_excerpt": "此外，成都东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2023年成都通过跨区域合作、基地共建及核心技术联合攻关，加速构建以航空发动机、工业无人机和低空经济为核心的航空航天产业生态圈。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-424f3b939aaf730f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-05dab4674131bebf"
+            ],
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作，航空航天产业联动格局加速构建。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44ca4db38274f34f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb29534ca3b0b86f"
+            ],
+            "draft_excerpt": "四川省政府与航空工业共同签署国家高端航空装备技术创新中心合作共建协议，该中心在青羊区正式揭牌，标志着高端航空装备技术创新能力的进一步提升。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e577a164892e0c7f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-721675a4459e4b3e"
+            ],
+            "draft_excerpt": "在跨区域合作与基地共建方面，成都联合自贡共建无人机产业基地，成功引进13户成飞配套企业，协同构建“研发在成都、生产在自贡”的跨区域发展模式，并联合争创国家高端航空航天装备先进制造业集群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6fba3c1e847c721",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-690ee2f3949640ef"
+            ],
+            "draft_excerpt": "同时，成都推动成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5187dcd0a4b91e6b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a3e1b60533bf7f71"
+            ],
+            "draft_excerpt": "在核心技术联合攻关方面，推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eeb5e5559d0f52ec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52f7d957cb259f02"
+            ],
+            "draft_excerpt": "此外，成都东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-986293e61e3c10ed",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2023年成都通过跨区域合作、基地共建及核心技术联合攻关，加速构建以航空发动机、工业无人机和低空经济为核心的航空航天产业生态圈。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "四川省政府与航空工业共同签署国家高端航空装备技术创新中心合作共建协议，该中心在青羊区正式揭牌，标志着高端航空装备技术创新能力的进一步提升。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "85b91d9e7c0b0512216e8789e7c5336ea2a82f11e1a17f42e69b2371208389a4",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-05dab4674131bebf",
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb29534ca3b0b86f",
+            "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-690ee2f3949640ef",
+            "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-721675a4459e4b3e",
+            "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a3e1b60533bf7f71",
+            "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52f7d957cb259f02",
+            "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-05dab4674131bebf"
+            ],
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2ac87e6bf72c67a8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作，航空航天产业联动格局加速构建。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44ca4db38274f34f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb29534ca3b0b86f"
+            ],
+            "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4f2bf8a3894c9af3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-690ee2f3949640ef"
+            ],
+            "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9edb8246f733b52e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-721675a4459e4b3e"
+            ],
+            "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-731f2335696eea60",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a3e1b60533bf7f71"
+            ],
+            "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6d94ea24dea16040",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52f7d957cb259f02"
+            ],
+            "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-90e3b362d32615e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作，航空航天产业联动格局加速构建。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "dd81872e06aceb2e80f5d0be10b56f32acc676db38ed7f3c73d501523dd18803",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-05dab4674131bebf",
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-690ee2f3949640ef",
+            "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-721675a4459e4b3e",
+            "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a3e1b60533bf7f71",
+            "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb29534ca3b0b86f",
+            "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52f7d957cb259f02",
+            "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-05dab4674131bebf",
+              "claim-690ee2f3949640ef",
+              "claim-721675a4459e4b3e",
+              "claim-a3e1b60533bf7f71",
+              "claim-fb29534ca3b0b86f",
+              "claim-52f7d957cb259f02"
+            ],
+            "draft_excerpt": "2023年，成都与自贡、广元、重庆等城市开展积极合作，聚焦航空发动机、工业无人机、低空经济等产业链，通过院所合作、基地共建及联合攻关等方式构建产业联动格局。",
+            "finding": "Summary sentence covering all claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-faf54d8a2f1c3ac5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-05dab4674131bebf"
+            ],
+            "draft_excerpt": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。",
+            "finding": "Matches claim-05dab4674131bebf.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bbb5454cbc88b4a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-690ee2f3949640ef"
+            ],
+            "draft_excerpt": "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+            "finding": "Matches claim-690ee2f3949640ef.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c22410a8fd53b5f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-721675a4459e4b3e"
+            ],
+            "draft_excerpt": "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+            "finding": "Matches claim-721675a4459e4b3e.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aeae8534716239b5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a3e1b60533bf7f71"
+            ],
+            "draft_excerpt": "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。",
+            "finding": "Matches claim-a3e1b60533bf7f71.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a1e794749860f1f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb29534ca3b0b86f"
+            ],
+            "draft_excerpt": "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。",
+            "finding": "Matches claim-fb29534ca3b0b86f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f67d0904f1824f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52f7d957cb259f02"
+            ],
+            "draft_excerpt": "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+            "finding": "Matches claim-52f7d957cb259f02.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-90e3b362d32615e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作。\n\n- 推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。\n- 联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。\n- 推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关。\n- 四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌。\n- 东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空+”产业发展战略合作、航空管路研发制造等4个项目。",
+    "description": "2023年，成都与自贡、广元、重庆等城市开展积极合作，聚焦航空发动机、工业无人机、低空经济等产业链，通过院所合作、基地共建及联合攻关等方式构建产业联动格局。",
+    "ref": {
+      "asset_hints": [
+        "image-011",
+        "image-012"
+      ],
+      "concept_id": "topic-d4fc888326ef",
+      "description": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作，以航空项目配套合作、无人机产业基地建设、核心技术联合攻关等方式为主，航空航天产业联动格局加速构建。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作",
+        "推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。",
+        "联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造 业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。",
+        "推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关",
+        "四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌",
+        "东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空 \\(^+\\) ”产业发展战略合作、航空管路研发制造等4个项目"
+      ],
+      "evidence_block_ids": [
+        "blk-42cd8a07872addb9dabb",
+        "blk-93dd8d9dcf7a2e772ca9",
+        "blk-464831b40bcbf0ddeb27",
+        "blk-b20cf7441caa69b8de82",
+        "blk-bab7ad22b12a20171559"
+      ],
+      "page_end": 47,
+      "page_start": 45,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "年度主题篇",
+        "三、航空航天产业生态圈：项目及基地共建、核心技术联合攻关"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "航空航天产业生态圈：项目及基地共建、核心技术联合攻关",
+      "type": "分析框架"
+    },
+    "title": "航空航天产业生态圈：项目及基地共建、核心技术联合攻关"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-7cbdb8ce3218:bundle-65c24ec6da40",
+      "excluded_fragments": [],
+      "ref_id": "ref-7cbdb8ce3218",
+      "source_blocks": [
+        {
+          "block_id": "blk-42cd8a07872addb9dabb",
+          "page_number": 45,
+          "text": "2023年，成都围绕建设航空航天产业生态圈，聚焦打造航空发动机、工业无人机、低空经济等产业链，与自贡、广元、重庆等城市开展了积极合作，以航空项目配套合作、无人机产业基地建设、核心技术联合攻关等方式为主，航空航天产业联动格局加速构建。"
+        },
+        {
+          "block_id": "blk-93dd8d9dcf7a2e772ca9",
+          "page_number": 45,
+          "text": "产业上下游配套方面，推动成都成飞、成都西南信息控制研究院、银河航天（成都）等院所与广元零八一电子集团有限公司合作，实现产值约1亿元。联合自贡共建无人机产业基地，成功引进13户成飞配套企业，联合争创国家高端航空航天装备先进制造"
+        },
+        {
+          "block_id": "blk-464831b40bcbf0ddeb27",
+          "page_number": 46,
+          "text": "业集群，协同构建“研发在成都、生产在自贡”的跨区域发展模式。"
+        },
+        {
+          "block_id": "blk-b20cf7441caa69b8de82",
+          "page_number": 46,
+          "text": "核心技术联合攻关方面，推动中国航发成都发动机有限公司联合重庆材料研究院、宝武特冶航研和西南铝业开展航空发动机先进技术联合攻关，共同打造航空发动机产业链双核联动模式。四川省政府、航空工业共同签署了国家高端航空装备技术创新中心合作共建协议，国家高端航空装备技术创新中心在青羊区正式揭牌，联合成飞·青羊协同创新中心、611青羊飞行器设计中心等重大创新平台，共同打造相互协同的跨区域开放式创新联合体，着力实现先进科研仪器设备及场地开放共享。"
+        },
+        {
+          "block_id": "blk-6b300b25c7ba05370a4e",
+          "page_number": 46,
+          "text": "原始 PDF 第 46 页图片"
+        },
+        {
+          "block_id": "blk-94015688fbd7af96d22e",
+          "page_number": 46,
+          "text": "图2-3 国家高端航空装备技术创新中心在青羊区正式揭牌"
+        },
+        {
+          "block_id": "blk-bab7ad22b12a20171559",
+          "page_number": 46,
+          "text": "产业交流协作方面，成功举办第三届空中丝路国际航空合作论坛，东部新区分别与中国航空规划设计研究总院有限公司、中国航空工业文化中心、亚洲航空、派铂宇航签署临空产业发展战略合作、共建航空文化综合体、“航空 \\(^+\\) ”产业发展战略合作、航空管路研发制造等4个项目。高标准举办2023成都卫星互联网与卫星应用产业发展大会，吸引院士专家、重点企业、金融机构、中介机构、政府代表、产业媒体等200余人参与，共同商讨成都卫星互联网与卫星应用产业发展。"
+        },
+        {
+          "block_id": "blk-b322b3391698e4c54999",
+          "page_number": 46,
+          "text": "2023年11月，第三届空中丝路国际航空合作论坛在东部新区召开。论坛上，东部新区成功签订4个项目。包括："
+        },
+        {
+          "block_id": "blk-c58bdc03dbd62564c658",
+          "page_number": 46,
+          "text": "- 临空产业发展战略合作项目：依托中国航空规划设计研究总院在临空经济领域的研究能力与项目经验，为成都东部新区临空产业的发展提供持续的咨询研究服务，结合新区具体的园区开发建设提供技术支持，推动优质产业项目落地。"
+        },
+        {
+          "block_id": "blk-2d87a42293890038a5bf",
+          "page_number": 47,
+          "text": "- 亚洲航空“航空+”产业发展战略合作项目：利用亚航集团航线、运力及在东南亚资源优势，适度加密国际航线，探索投资发展相关产业机会。"
+        },
+        {
+          "block_id": "blk-0888ce7e9d362779b472",
+          "page_number": 47,
+          "text": "- 航空文化综合体项目：推动成都东部新区举办国际临空产业发展展览会等系列航空主题会展。"
+        },
+        {
+          "block_id": "blk-a3c12b869b30bee9ada5",
+          "page_number": 47,
+          "text": "- 航空管路研发制造项目：建设航空管路智造基地，开展航空航天各类型号航空发动机管路研发制造，并向管路设计、集成延伸。"
+        },
+        {
+          "block_id": "blk-110b1cbebdd8a46cc939",
+          "page_number": 47,
+          "text": "原始 PDF 第 47 页图片"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d4fc888326ef",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-7cbdb8ce3218"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

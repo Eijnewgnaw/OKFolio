@@ -1,0 +1,505 @@
+{
+  "contract": {
+    "canonical_question": "成德眉资河长制E平台建成投用的时间、建设主体、核心功能及战略意义是什么？",
+    "claims": [
+      {
+        "claim": "成德眉资河长制E平台于2021年7月13日正式启用。",
+        "claim_id": "claim-f565f03138e58ea5",
+        "evidence_block_ids": [
+          "blk-d600664ac4eb4e16f455"
+        ],
+        "evidence_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用。",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          265
+        ],
+        "ref_id": "ref-4499db618d96",
+        "scope": {
+          "time": [
+            "2021年7月13日"
+          ]
+        },
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德眉资河长制E平台由成都河长办联合德阳、眉山、资阳河长办共同建设。",
+        "claim_id": "claim-60f12ca7d95983b8",
+        "evidence_block_ids": [
+          "blk-d600664ac4eb4e16f455"
+        ],
+        "evidence_excerpt": "该平台是成都河长办联合德阳、眉山、资阳河长办共同建设的智慧化河湖规范化保护管理平台",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          265
+        ],
+        "ref_id": "ref-4499db618d96",
+        "scope": {
+          "actor": [
+            "成都河长办",
+            "资阳河长办"
+          ]
+        },
+        "slot": "implementer",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德眉资河长制E平台是智慧化河湖规范化保护管理平台。",
+        "claim_id": "claim-fe9571ea35b4f3bd",
+        "evidence_block_ids": [
+          "blk-d600664ac4eb4e16f455"
+        ],
+        "evidence_excerpt": "该平台是成都河长办联合德阳、眉山、资阳河长办共同建设的智慧化河湖规范化保护管理平台",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          265
+        ],
+        "ref_id": "ref-4499db618d96",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德眉资河长制E平台旨在推动成德眉资流域间系统共融、信息共享、问题共决。",
+        "claim_id": "claim-779a40bf906bbfb3",
+        "evidence_block_ids": [
+          "blk-d600664ac4eb4e16f455"
+        ],
+        "evidence_excerpt": "目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          265
+        ],
+        "ref_id": "ref-4499db618d96",
+        "scope": {
+          "region": [
+            "成德眉资"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德眉资河长制E平台是助力成德眉资同城化发展、成渝双城经济圈推进的信息化建设基础。",
+        "claim_id": "claim-47eecddb35bc238d",
+        "evidence_block_ids": [
+          "blk-d600664ac4eb4e16f455"
+        ],
+        "evidence_excerpt": "是助力成德眉资同城化发展、成渝双城经济圈推进的信息化建设基础",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          265
+        ],
+        "ref_id": "ref-4499db618d96",
+        "scope": {
+          "region": [
+            "成德眉资",
+            "成渝双城经济圈"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德眉资河长制E平台的启用标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+        "claim_id": "claim-e14fbbb0ecc80bea",
+        "evidence_block_ids": [
+          "blk-d600664ac4eb4e16f455"
+        ],
+        "evidence_excerpt": "标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          265
+        ],
+        "ref_id": "ref-4499db618d96",
+        "scope": {
+          "region": [
+            "成德眉资"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f565f03138e58ea5",
+          "claim-60f12ca7d95983b8",
+          "claim-fe9571ea35b4f3bd",
+          "claim-779a40bf906bbfb3",
+          "claim-47eecddb35bc238d",
+          "claim-e14fbbb0ecc80bea"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+        "reason": "该Bundle包含平台启用时间、建设主体、功能定义及战略意义，是回答中心问题及填充政策建议类固定槽位的必要证据。"
+      }
+    ],
+    "group_id": "proposition-df609c7c006a",
+    "members": [
+      {
+        "contribution": "该证据直接提供了政策建议类Concept所需的核心事实：平台启用时间、联合建设主体、平台功能定位及在同城化发展中的战略意义，完整覆盖了固定槽位要求。",
+        "ref_id": "ref-4499db618d96",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-f565f03138e58ea5",
+        "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e14fbbb0ecc80bea",
+        "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-60f12ca7d95983b8",
+        "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fe9571ea35b4f3bd",
+        "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-779a40bf906bbfb3",
+        "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-47eecddb35bc238d",
+        "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-f565f03138e58ea5",
+          "claim-e14fbbb0ecc80bea"
+        ],
+        "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1db7f5ec4803bc75",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f565f03138e58ea5",
+          "claim-e14fbbb0ecc80bea"
+        ],
+        "draft_excerpt": "成德眉资河长制E平台于2021年7月13日正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3fdbf5eac3387194",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-60f12ca7d95983b8",
+          "claim-fe9571ea35b4f3bd"
+        ],
+        "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1dcaa334a5de8a55",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-779a40bf906bbfb3",
+          "claim-47eecddb35bc238d"
+        ],
+        "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-589f60a49842ef56",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f565f03138e58ea5",
+          "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e14fbbb0ecc80bea",
+          "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-60f12ca7d95983b8",
+          "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fe9571ea35b4f3bd",
+          "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-779a40bf906bbfb3",
+          "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-47eecddb35bc238d",
+          "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-f565f03138e58ea5",
+            "claim-e14fbbb0ecc80bea"
+          ],
+          "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+          "finding": "supported",
+          "sentence_id": "sentence-1db7f5ec4803bc75",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f565f03138e58ea5",
+            "claim-e14fbbb0ecc80bea"
+          ],
+          "draft_excerpt": "成德眉资河长制E平台于2021年7月13日正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+          "finding": "supported",
+          "sentence_id": "sentence-3fdbf5eac3387194",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-60f12ca7d95983b8",
+            "claim-fe9571ea35b4f3bd"
+          ],
+          "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+          "finding": "supported",
+          "sentence_id": "sentence-1dcaa334a5de8a55",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-779a40bf906bbfb3",
+            "claim-47eecddb35bc238d"
+          ],
+          "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+          "finding": "supported",
+          "sentence_id": "sentence-589f60a49842ef56",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "4d44d232e5ebadad67cd0640f24107235afba0cf4b747c42bdd8c9dbc37c2a4e",
+  "coverage_history": [
+    {
+      "draft_sha256": "4d44d232e5ebadad67cd0640f24107235afba0cf4b747c42bdd8c9dbc37c2a4e",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-f565f03138e58ea5",
+            "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e14fbbb0ecc80bea",
+            "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-60f12ca7d95983b8",
+            "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe9571ea35b4f3bd",
+            "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-779a40bf906bbfb3",
+            "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-47eecddb35bc238d",
+            "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f565f03138e58ea5",
+              "claim-e14fbbb0ecc80bea"
+            ],
+            "draft_excerpt": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1db7f5ec4803bc75",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f565f03138e58ea5",
+              "claim-e14fbbb0ecc80bea"
+            ],
+            "draft_excerpt": "成德眉资河长制E平台于2021年7月13日正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3fdbf5eac3387194",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-60f12ca7d95983b8",
+              "claim-fe9571ea35b4f3bd"
+            ],
+            "draft_excerpt": "该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1dcaa334a5de8a55",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-779a40bf906bbfb3",
+              "claim-47eecddb35bc238d"
+            ],
+            "draft_excerpt": "平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-589f60a49842ef56",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成德眉资河长制E平台于2021年7月13日正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。\n\n该平台由成都河长办联合德阳、眉山、资阳河长办共同建设，定位为智慧化河湖规范化保护管理平台。\n\n## 证据与影响\n\n平台建设的目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展以及成渝双城经济圈推进的信息化建设基础。",
+    "description": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+    "ref": {
+      "asset_hints": [
+        "image-127"
+      ],
+      "concept_id": "proposition-df609c7c006a",
+      "description": "2021年7月13日，成德眉资河长制E平台正式启用，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "### 成德眉资河长制E平台建成投用",
+        "2021年7月13日，成德眉资河长制E平台正式启用。该平台是成都河长办联合德阳、眉山、资阳河长办共同建设的智慧化河湖规范化保护管理平台，目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展、成渝双城经济圈推进的信息化建设基础，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。"
+      ],
+      "evidence_block_ids": [
+        "blk-d600664ac4eb4e16f455"
+      ],
+      "page_end": 265,
+      "page_start": 265,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成德眉资",
+        "time": "2021年7月13日"
+      },
+      "section_path": [
+        "重大事件",
+        "成德眉资河长制E平台建成投用"
+      ],
+      "semantic_signature": {
+        "milestone": "正式启用",
+        "platform_name": "成德眉资河长制E平台"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成德眉资河长制E平台建成投用",
+      "type": "政策建议"
+    },
+    "title": "成德眉资河长制E平台建成投用"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-4499db618d96:bundle-b862be7bd7b4",
+      "excluded_fragments": [],
+      "ref_id": "ref-4499db618d96",
+      "source_blocks": [
+        {
+          "block_id": "blk-d600664ac4eb4e16f455",
+          "page_number": 265,
+          "text": "2021年7月13日，成德眉资河长制E平台正式启用。该平台是成都河长办联合德阳、眉山、资阳河长办共同建设的智慧化河湖规范化保护管理平台，目的在于推动成德眉资流域间“系统共融、信息共享、问题共决”，是助力成德眉资同城化发展、成渝双城经济圈推进的信息化建设基础，标志着成德眉资河长制工作“四地同城”迈出实质性关键一步。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-df609c7c006a",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-4499db618d96"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

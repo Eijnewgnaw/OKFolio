@@ -1,0 +1,831 @@
+{
+  "contract": {
+    "canonical_question": "2020年11月成都市与上海交通大学签署合作协议共建了哪些高能级平台与研究中心，其核心功能与建设目标是什么？",
+    "claims": [
+      {
+        "claim": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+        "claim_id": "claim-dd7beed18accc734",
+        "evidence_block_ids": [
+          "blk-5c283f92c19331108b08"
+        ],
+        "evidence_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          191
+        ],
+        "ref_id": "ref-129c64d3012e",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方共建上海交大天府科技园，围绕信息技术、航空航天、生物医药等重点领域，打造集技术转移转化、高端教育、研发平台、创新金融等功能于一体的综合性科技园区。",
+        "claim_id": "claim-3956350c7cc1fa8a",
+        "evidence_block_ids": [
+          "blk-5c283f92c19331108b08"
+        ],
+        "evidence_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          191
+        ],
+        "ref_id": "ref-129c64d3012e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+        "claim_id": "claim-293d602c7a25c428",
+        "evidence_block_ids": [
+          "blk-fe891a2de653bbd44c3d"
+        ],
+        "evidence_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          191
+        ],
+        "ref_id": "ref-129c64d3012e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+        "claim_id": "claim-1d9e7cdd73965386",
+        "evidence_block_ids": [
+          "blk-fe891a2de653bbd44c3d"
+        ],
+        "evidence_excerpt": "双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“\\(5+5+1\\)”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          191
+        ],
+        "ref_id": "ref-129c64d3012e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方共建高端数控制造装备研究院，采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设。",
+        "claim_id": "claim-e4104b515d5a210d",
+        "evidence_block_ids": [
+          "blk-fe891a2de653bbd44c3d"
+        ],
+        "evidence_excerpt": "将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，创建从基础研究、技术创新到工业应用的高端智能制造装备创新体系，打造高端智能制造装备持续创新和自主发展的引擎，共建高端数控制造装备研究院。",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          191
+        ],
+        "ref_id": "ref-129c64d3012e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "此次签约着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+        "claim_id": "claim-2fa75c0e85388b89",
+        "evidence_block_ids": [
+          "blk-5c283f92c19331108b08"
+        ],
+        "evidence_excerpt": "着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          191
+        ],
+        "ref_id": "ref-129c64d3012e",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-dd7beed18accc734",
+          "claim-3956350c7cc1fa8a",
+          "claim-293d602c7a25c428",
+          "claim-1d9e7cdd73965386",
+          "claim-e4104b515d5a210d",
+          "claim-2fa75c0e85388b89"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+        "reason": "该Bundle包含协议签署时间、共建平台名称、具体功能领域及建设目标等核心事实，是回答中心问题所必需的原子事实来源。"
+      }
+    ],
+    "group_id": "topic-153a0de0e945",
+    "members": [
+      {
+        "contribution": "该证据详细列出了2020年11月25日成都市与上海交通大学签署协议后共建的具体平台（天府科技园、研究生培养基地、先进推进技术研究中心、高端数控制造装备研究院），并明确了各平台的功能定位、技术领域及助力成都建设科技创新中心的目标，直接回答了校",
+        "ref_id": "ref-129c64d3012e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-dd7beed18accc734",
+        "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+        "finding": "sentence-942ec03a9df9b010",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3956350c7cc1fa8a",
+        "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+        "finding": "sentence-7f4eb5ba434818ce",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-293d602c7a25c428",
+        "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+        "finding": "sentence-2ede021de55f7f71",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1d9e7cdd73965386",
+        "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+        "finding": "sentence-314ee098a5bf9035",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e4104b515d5a210d",
+        "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+        "finding": "sentence-ecdc5a208895b9ef",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2fa75c0e85388b89",
+        "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+        "finding": "sentence-7f4eb5ba434818ce",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-dd7beed18accc734",
+          "claim-3956350c7cc1fa8a",
+          "claim-2fa75c0e85388b89"
+        ],
+        "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议，共建上海交大天府科技园、研究生培养基地、先进推进技术研究中心及高端数控制造装备研究院等平台，助力成都建设具有全国影响力的科技创新中心。",
+        "finding": "sentence-5ec02ea56ab8f5ff",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5ec02ea56ab8f5ff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dd7beed18accc734"
+        ],
+        "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+        "finding": "sentence-942ec03a9df9b010",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-942ec03a9df9b010",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3956350c7cc1fa8a",
+          "claim-2fa75c0e85388b89"
+        ],
+        "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+        "finding": "sentence-7f4eb5ba434818ce",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7f4eb5ba434818ce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3956350c7cc1fa8a"
+        ],
+        "draft_excerpt": "根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园。",
+        "finding": "sentence-9ee55676a6c2b79d",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9ee55676a6c2b79d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-293d602c7a25c428"
+        ],
+        "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+        "finding": "sentence-2ede021de55f7f71",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2ede021de55f7f71",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1d9e7cdd73965386"
+        ],
+        "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+        "finding": "sentence-314ee098a5bf9035",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-314ee098a5bf9035",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e4104b515d5a210d"
+        ],
+        "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+        "finding": "sentence-ecdc5a208895b9ef",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ecdc5a208895b9ef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-dd7beed18accc734",
+          "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+          "finding": "sentence-942ec03a9df9b010",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3956350c7cc1fa8a",
+          "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+          "finding": "sentence-7f4eb5ba434818ce",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-293d602c7a25c428",
+          "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+          "finding": "sentence-2ede021de55f7f71",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1d9e7cdd73965386",
+          "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+          "finding": "sentence-314ee098a5bf9035",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e4104b515d5a210d",
+          "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+          "finding": "sentence-ecdc5a208895b9ef",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2fa75c0e85388b89",
+          "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+          "finding": "sentence-7f4eb5ba434818ce",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-dd7beed18accc734",
+            "claim-3956350c7cc1fa8a",
+            "claim-2fa75c0e85388b89"
+          ],
+          "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议，共建上海交大天府科技园、研究生培养基地、先进推进技术研究中心及高端数控制造装备研究院等平台，助力成都建设具有全国影响力的科技创新中心。",
+          "finding": "sentence-5ec02ea56ab8f5ff",
+          "sentence_id": "sentence-5ec02ea56ab8f5ff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dd7beed18accc734"
+          ],
+          "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+          "finding": "sentence-942ec03a9df9b010",
+          "sentence_id": "sentence-942ec03a9df9b010",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3956350c7cc1fa8a",
+            "claim-2fa75c0e85388b89"
+          ],
+          "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+          "finding": "sentence-7f4eb5ba434818ce",
+          "sentence_id": "sentence-7f4eb5ba434818ce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3956350c7cc1fa8a"
+          ],
+          "draft_excerpt": "根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园。",
+          "finding": "sentence-9ee55676a6c2b79d",
+          "sentence_id": "sentence-9ee55676a6c2b79d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-293d602c7a25c428"
+          ],
+          "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+          "finding": "sentence-2ede021de55f7f71",
+          "sentence_id": "sentence-2ede021de55f7f71",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1d9e7cdd73965386"
+          ],
+          "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+          "finding": "sentence-314ee098a5bf9035",
+          "sentence_id": "sentence-314ee098a5bf9035",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e4104b515d5a210d"
+          ],
+          "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+          "finding": "sentence-ecdc5a208895b9ef",
+          "sentence_id": "sentence-ecdc5a208895b9ef",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "93ad0d6841bef663c15b85a9d04e0a09ac7df5db6193656031c19d146e4fb707",
+  "coverage_history": [
+    {
+      "draft_sha256": "5a379c16bf8446ddc20a1143f2fcce68a245b35b0a41dffb65784b7fe39e1f9b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dd7beed18accc734",
+            "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+            "finding": "sentence-942ec03a9df9b010",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3956350c7cc1fa8a",
+            "draft_excerpt": "根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园，围绕信息技术、航空航天、生物医药等重点领域，打造集技术转移转化、高端教育、研发平台、创新金融等功能于一体的综合性科技园区。",
+            "finding": "sentence-5a58f74537f9d962",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-293d602c7a25c428",
+            "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+            "finding": "sentence-821d19c104f7f422",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1d9e7cdd73965386",
+            "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+            "finding": "sentence-3524a62e33653f1e",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e4104b515d5a210d",
+            "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地。",
+            "finding": "sentence-7351313718acbac5",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2fa75c0e85388b89",
+            "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+            "finding": "sentence-7f4eb5ba434818ce",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dd7beed18accc734",
+              "claim-3956350c7cc1fa8a",
+              "claim-293d602c7a25c428",
+              "claim-1d9e7cdd73965386",
+              "claim-e4104b515d5a210d"
+            ],
+            "draft_excerpt": "2020年11月，成都市与上海交通大学签署系列合作协议，共建多个高能级平台与研究中心。",
+            "finding": "sentence-1a5f797f40238e5a",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1a5f797f40238e5a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd7beed18accc734"
+            ],
+            "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+            "finding": "sentence-942ec03a9df9b010",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-942ec03a9df9b010",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3956350c7cc1fa8a",
+              "claim-293d602c7a25c428",
+              "claim-1d9e7cdd73965386",
+              "claim-e4104b515d5a210d",
+              "claim-2fa75c0e85388b89"
+            ],
+            "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+            "finding": "sentence-7f4eb5ba434818ce",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7f4eb5ba434818ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此次签约从人才培育到项目研发，从园区孵化再到市场应用，几乎覆盖全创新链条，技术、资本、市场产业链全部打通，为区域创新发展提供源动力。",
+            "finding": "sentence-83a912b632cf4f67",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83a912b632cf4f67",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与上海交大的合作，能切实加强加深对科研成果转化和人才结构优化培养的了解，促进成都吸收先进理念、激发西部城市的后发优势。",
+            "finding": "sentence-7db6332b6ca33aa5",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7db6332b6ca33aa5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3956350c7cc1fa8a"
+            ],
+            "draft_excerpt": "根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园，围绕信息技术、航空航天、生物医药等重点领域，打造集技术转移转化、高端教育、研发平台、创新金融等功能于一体的综合性科技园区。",
+            "finding": "sentence-5a58f74537f9d962",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a58f74537f9d962",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-293d602c7a25c428"
+            ],
+            "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+            "finding": "sentence-821d19c104f7f422",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-821d19c104f7f422",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1d9e7cdd73965386"
+            ],
+            "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+            "finding": "sentence-3524a62e33653f1e",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3524a62e33653f1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e4104b515d5a210d"
+            ],
+            "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地。",
+            "finding": "sentence-7351313718acbac5",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7351313718acbac5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，成都与上海进一步深化区域合作，携手推进长江经济带建设，将有利于率先形成新发展格局，实现互利共赢、优势互补、深入共振。",
+            "finding": "sentence-54b67b89a5bc786f",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-54b67b89a5bc786f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "上海交大四川研究院聚焦新信息技术、先进材料、生态健康等领域，在蓉积极推进产学研项目成果转化落地",
+            "finding": "sentence-ca1ddbc792b42c40",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca1ddbc792b42c40",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "上海交通大学成都先进推进技术研究中心落地，该研究中心在国产航空发动机燃烧室模拟仿真方面取得突出成果，产业化进程正加速推进",
+            "finding": "sentence-f78efbf4009a9092",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f78efbf4009a9092",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "此次签约从人才培育到项目研发，从园区孵化再到市场应用，几乎覆盖全创新链条，技术、资本、市场产业链全部打通，为区域创新发展提供源动力。",
+            "finding": "sentence-83a912b632cf4f67"
+          },
+          {
+            "draft_excerpt": "与上海交大的合作，能切实加强加深对科研成果转化和人才结构优化培养的了解，促进成都吸收先进理念、激发西部城市的后发优势。",
+            "finding": "sentence-7db6332b6ca33aa5"
+          },
+          {
+            "draft_excerpt": "同时，成都与上海进一步深化区域合作，携手推进长江经济带建设，将有利于率先形成新发展格局，实现互利共赢、优势互补、深入共振。",
+            "finding": "sentence-54b67b89a5bc786f"
+          },
+          {
+            "draft_excerpt": "上海交大四川研究院聚焦新信息技术、先进材料、生态健康等领域，在蓉积极推进产学研项目成果转化落地",
+            "finding": "sentence-ca1ddbc792b42c40"
+          },
+          {
+            "draft_excerpt": "上海交通大学成都先进推进技术研究中心落地，该研究中心在国产航空发动机燃烧室模拟仿真方面取得突出成果，产业化进程正加速推进",
+            "finding": "sentence-f78efbf4009a9092"
+          },
+          {
+            "draft_excerpt": "2020年11月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "93ad0d6841bef663c15b85a9d04e0a09ac7df5db6193656031c19d146e4fb707",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-dd7beed18accc734",
+            "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+            "finding": "sentence-942ec03a9df9b010",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3956350c7cc1fa8a",
+            "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+            "finding": "sentence-7f4eb5ba434818ce",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-293d602c7a25c428",
+            "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+            "finding": "sentence-2ede021de55f7f71",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1d9e7cdd73965386",
+            "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+            "finding": "sentence-314ee098a5bf9035",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e4104b515d5a210d",
+            "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+            "finding": "sentence-ecdc5a208895b9ef",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2fa75c0e85388b89",
+            "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+            "finding": "sentence-7f4eb5ba434818ce",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dd7beed18accc734",
+              "claim-3956350c7cc1fa8a",
+              "claim-2fa75c0e85388b89"
+            ],
+            "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议，共建上海交大天府科技园、研究生培养基地、先进推进技术研究中心及高端数控制造装备研究院等平台，助力成都建设具有全国影响力的科技创新中心。",
+            "finding": "sentence-5ec02ea56ab8f5ff",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5ec02ea56ab8f5ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd7beed18accc734"
+            ],
+            "draft_excerpt": "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+            "finding": "sentence-942ec03a9df9b010",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-942ec03a9df9b010",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3956350c7cc1fa8a",
+              "claim-2fa75c0e85388b89"
+            ],
+            "draft_excerpt": "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。",
+            "finding": "sentence-7f4eb5ba434818ce",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7f4eb5ba434818ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3956350c7cc1fa8a"
+            ],
+            "draft_excerpt": "根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园。",
+            "finding": "sentence-9ee55676a6c2b79d",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9ee55676a6c2b79d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-293d602c7a25c428"
+            ],
+            "draft_excerpt": "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+            "finding": "sentence-2ede021de55f7f71",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2ede021de55f7f71",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1d9e7cdd73965386"
+            ],
+            "draft_excerpt": "在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。",
+            "finding": "sentence-314ee098a5bf9035",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-314ee098a5bf9035",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e4104b515d5a210d"
+            ],
+            "draft_excerpt": "在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+            "finding": "sentence-ecdc5a208895b9ef",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ecdc5a208895b9ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2020年11月25日，成都市与上海交通大学签署系列合作协议。双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。\n\n## 证据与影响\n\n根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园。共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“5+5+1”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目。在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，共建高端数控制造装备研究院。",
+    "description": "2020年11月25日，成都市与上海交通大学签署系列合作协议，共建上海交大天府科技园、研究生培养基地、先进推进技术研究中心及高端数控制造装备研究院等平台，助力成都建设具有全国影响力的科技创新中心。",
+    "ref": {
+      "asset_hints": [
+        "image-095"
+      ],
+      "concept_id": "topic-153a0de0e945",
+      "description": "2020年11月，成都市与上海交通大学签署系列合作协议，共建多个高能级平台与研究中心。",
+      "document_family_id": "28e2a49e271094505210",
+      "document_version_id": "24023fd3da9de6ac6517",
+      "evidence": [
+        "2020年11月25日，成都市与上海交通大学签署系列合作协议。",
+        "双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目",
+        "共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。",
+        "双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“\\(5+5+1\\)”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目",
+        "将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，创建从基础研究、技术创新到工业应用的高端智能制造装备创新体系，打造高端智能制造装备持续创新和自主发展的引擎，共建高端数控制造装备研究院。",
+        "着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。"
+      ],
+      "evidence_block_ids": [
+        "blk-5c283f92c19331108b08",
+        "blk-fe891a2de653bbd44c3d"
+      ],
+      "page_end": 194,
+      "page_start": 191,
+      "ref_family_hint": "",
+      "ref_version_id": "24023fd3da9de6ac6517",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成都市与上海交通大学进一步加深校院地合作关系"
+      ],
+      "semantic_signature": {},
+      "source": "c4fa936d-bb21-4b09-931b-345720909d3a.md",
+      "title": "成都市与上海交通大学深化校院地合作",
+      "type": "分析框架"
+    },
+    "title": "成都市与上海交通大学深化校院地合作"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-129c64d3012e:bundle-9af01414e2fb",
+      "excluded_fragments": [],
+      "ref_id": "ref-129c64d3012e",
+      "source_blocks": [
+        {
+          "block_id": "blk-5c283f92c19331108b08",
+          "page_number": 191,
+          "text": "2020年11月25日，成都市与上海交通大学签署系列合作协议。双方将共建上海交大天府科技园、上海交大（成都）研究生培养基地、上海交大成都先进推进技术研究中心和高端数控制造装备研究院等一批高能级平台和项目，着力提升创新策源能力，深化校地协同合作，助力成都加快建设具有全国影响力的科技创新中心。"
+        },
+        {
+          "block_id": "blk-fe891a2de653bbd44c3d",
+          "page_number": 191,
+          "text": "根据协议，在校院地协同创新平台方面，双方将共建上海交大天府科技园，围绕信息技术、航空航天、生物医药等重点领域，打造集技术转移转化、高端教育、研发平台、创新金融等功能于一体的综合性科技园区，推动国家重大科技基础设施在蓉布局，助力成都以成都科学城为核心争创综合性国家科学中心；共同推动建设上海交通大学成都先进推进技术研究中心，为航空发动机、燃气轮机、组合动力迭代升级等智能制造体系提供基础支撑。在创新人才协同培育方面，双方将在天府新区共同建设上海交大（成都）研究生培养基地，围绕成都“\\(5+5+1\\)”重点产业发展方向，选取自动化、信息工程、机械工程、材料学等优势学科，合作开展全日制研究生教育以及各类高端人才非学历教育培训项目，为区域创新发展提供源动力。在平台创新成果转化方面，将采用“政府支持-企业投资-服务转化”的政校企联合运行模式，重点推进智能制造工艺研究和智能装备研究两个项目建设，建设国际一流的航空航天高端智能制造装备与加工工艺研究基地，创建从基础研究、技术创新到工业应用的高端智能制造装备创新体系，打造高端智能制造装备持续创新和自主发展的引擎，共建高端数控制造装备研究院。"
+        },
+        {
+          "block_id": "blk-f56d29a4d8951808dec2",
+          "page_number": 191,
+          "text": "近年来，成都的校院地协同创新平台加速聚集，成都针对不同高校特点和需求，量身定制合作政策，目前已与清华、北大、上海交大等18所高校签订战略合作协议，引聚一批创新项目落地，为城市高质量发展注入源源不断的创新资源。与上海交大合作成果方面，上海交大四川研究院聚焦新信息技术、先进材料、生态健康等领域，在蓉积极推进产学研项目成果转化落地；上海交通大学成都先进推进技术研究中心落地，该研究中心在国产航空发动机燃烧室模拟仿真方面取得突出成果，产业化进程正加速推进。与省外其他高校的合作方面，北航已在成都天府新区初步建立起航空大数据研究中心、航空电子系统研究中心等多个科研实验室，北航成都创新研究院园区也正式投用；清华四川能源互联网研"
+        },
+        {
+          "block_id": "blk-1ce6f6b130bbb4dac83c",
+          "page_number": 192,
+          "text": "究院累计引进高层次研究团队超过30个，累计申请知识专利400余件，先后培育创新企业13家，包括5家高新技术企业和1家准独角兽企业①；清华大学电力系统国家重点实验室能源互联网分室和大连理工大学精细化工国家重点实验室分室均落地成都。同时，成都市科技局2019年、2020年连续两年举办“校企双进”等系列活动，开展上海交通大学、同济大学、香港城市大学、中科院、中物院、四川大学、电子科技大学等知名高校专场云对接活动，有效搭建了校地合作精准对接平台，促进5000家企业与近700余项高校科技成果进行对接，推动企业与高校院所达成成果转化、技术开发合作项目超过1000项。②"
+        },
+        {
+          "block_id": "blk-2570d542fd0607a3c8ed",
+          "page_number": 192,
+          "text": "原始 PDF 第 192 页图片"
+        },
+        {
+          "block_id": "blk-9213919b8d9f1f337d4c",
+          "page_number": 192,
+          "text": "图5-5 “菁蓉汇——校企双进·科学家进园区”成都科学城专场活动"
+        },
+        {
+          "block_id": "blk-414010ed07fcfe3c3e77",
+          "page_number": 192,
+          "text": "此次签约从人才培育到项目研发，从园区孵化再到市场应用，几乎覆盖全创新链条，技术、资本、市场产业链全部打通，为区域创新发展提供源动力，并通过深入推进市校合作，加速推动一批创新平台及创新项目落地，打造成都成为带动全国高质量发展的重要增长极和新的动力源。与上海交大的合作，能切实加强加深对科研成果转化和人才结构优化培养的了解，促进成都吸收先进理念、激发西部城市的后发优势，在既往合作的基础上，促进新的全面合作落实落地，促进新的技术应用、新的经济合作和全面发展，共同为国家西部发展和高校发展做出贡献。同时，成都与上海进一步深化区域合作，携手推进长江经济带建设，将有利于率先形成新发展格局，实现互利共赢、优势互补、深入共振。"
+        },
+        {
+          "block_id": "blk-4e23189435c1176dd818",
+          "page_number": 193,
+          "text": "2020年12月24日，《成德眉资同城化暨成都市圈公共服务共建共享三年实施方案（2020-2022年）》（以下简称《实施方案》）发布，并提出了一系列重点任务，目标是到2022年都市圈公共服务共建共享总体水平实现跃升，都市圈基本公共服务均衡化、普惠化水平持续提升，跨区域政策协同机制不断完善。"
+        },
+        {
+          "block_id": "blk-5a22ed20d83a62deea62",
+          "page_number": 193,
+          "text": "近年来，成都市市圈公共服务一体化效能渐显，成德眉资公共服务共享工作有序实施。延伸共享优质医疗保障服务，成都与德阳、眉山、资阳三市共同制定了《关于推进成德眉资医疗保障同城化发展暨成都市市圈建设三年行动计划（2020-2022）》，先后签订了《成德眉资医疗保障同城化发展暨成都市市圈建设战略合作备忘录》《成德眉资医疗保障基金监管同城化合作协议》《成德眉资医疗保障经办服务同城化合作协议》，在经办服务、异地就医、转移接续、服务协议等方面展开深入合作，增进互惠互利和优势互补，建立完善区域间临床用血紧急调配机制和突发公共卫生事件联防联控机制，皮肤、呼吸、心血管、神经内科等专科联盟正式组建，实现都市圈内居民就医“一码通”，200余家医疗机构发放电子居民健康码200余万张①。共建共享优质教育资源，四市签署了《成德眉资教育督导同城化发展框架协议》《成德眉资同城化发展智慧教育联盟合作协议》，德眉资100余所学校与成都学校结对共建②，组建跨区域教育联盟，共建教育“八大共享平台”，探索推动教育提档升级和产教融合发展，建设文旅职教城，四川大学眉山校区、电子科大成都学院什邡校区加快建设，成都石室中学、成都七中与眉山中学、仁寿一中开展校际合作，有效提升都市圈整体教育教学管理水平。共享互通政务服务和社会保障，四市先后签订了《成都平原经济区人力资源和社会保障事业协同发展协议》《“成德眉资”防疫期间劳务区域合作协议》《成德眉资人力协同发展三年行动计划协议》，上线运行四川公共就业创业服务管理信息系统V2.0版，实现就业登记、税收减免认定等信息互通互认，建立就业服务、养老保险认证、流动人口档案办理、社保可办理和信息化系统“4+1”协作体系；推动基本"
+        },
+        {
+          "block_id": "blk-48085673e9e7db75d959",
+          "page_number": 194,
+          "text": "公共服务标准统一，结合15分钟基本公服圈“818”标准配置城市基本公服设施；德阳市政府服务中心设立公安、人社、税务、公积金等5个“同城化无差别”受理窗口，开启首批55项成德眉资审批服务事项跨城通办；成资推动形成“高品质成资公共服务圈”，推动户籍管理、人才流动等共享互通，促进两地人才高效聚集、自由流动。①"
+        },
+        {
+          "block_id": "blk-24d62bb7b31cecd96314",
+          "page_number": 194,
+          "text": "《实施方案》旨在进一步推动都市圈公共服务均衡普惠，在医疗卫生方面，将加快推进异地同城化便捷就医、优质医疗卫生资源扩容延伸、联合推动医疗人才交流培育等，不断提升都市圈医疗卫生水平；在教育方面，通过推进优质教育资源辐射共享、联合开展教育领域国际交流等方式推动都市圈教育领域合作共享；在养老方面，通过构建都市圈养老服务体系、推动适老服务提档升级、推动养老服务协同发展等方式整体提升都市圈养老公共服务水平；在人力资源方面，通过促进人力资源同城化发展、提升公共就业服务能力、完善社会保险政策制度等方式推动人力资源协同发展；在文化体育旅游方面，通过完善都市圈公共文化服务体系、推动文体产业交流不断深入、加强旅游产业开发合作等方式共同促进文化体育旅游发展；在社会治理方面，通过创新党委领导双线融合的社会治理机制、健全城乡社区发展与治理一体推进机制、完善诉求响应和矛盾纠纷多元化解机制等方式共同提升社会治理水平；在公共安全保障和风险应对方面，通过联合应对重大公共卫生风险、联合应对重大社会治安风险、联合开展重大自然灾害和生产事故防控、建立应急物资保障体系等方式协同提升公共安全保障和风险应对能力；在安居乐业方面，通过推进住房保障同城化、推动公积金租购房同城化、推动交通运营同城化等方式共同推进都市圈安居乐业；在政务服务方面，通过推动政务便民服务同城化、惠企服务同城化、户籍管理同城化等方式共同提升都市圈政务服务高效便捷水平。同时，《实施方案》提出，将积极搭建一批公共服务重大功能性平台，包括打造优质医疗服务平台、构建教育共享平台、共建共享政务服务平台等，并谋划一批公共服务重大项目，建立公共服务基础设施项目三年滚动计划。"
+        },
+        {
+          "block_id": "blk-1398cdc62678b5049149",
+          "page_number": 194,
+          "text": "2020年8月20日，习近平总书记在扎实推进长三角一体化发展的座谈会上强调，区域一体化发展中要促进基本公共服务的便利共享。成德眉资在同城化的进程中，充分借助四市公共服务资源优势，持续深化平台共建、资源共享、体系同构，跨域推动公共服务协同发展，将有利于推进成德眉资区域公共服务均等化、地方治理现代化、同城化高质量发展，不断增强人民群众在公共服务便民共享中的幸福感、获得感和安全感。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-153a0de0e945",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-129c64d3012e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

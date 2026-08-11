@@ -1,0 +1,944 @@
+{
+  "contract": {
+    "canonical_question": "2021年共建“一带一路”及成都作为节点城市在推动高质量发展中呈现的主要特点与成效是什么？",
+    "claims": [
+      {
+        "claim": "2021年共建“一带一路”呈现出“促发展、惠民生、高质量”特点。",
+        "claim_id": "claim-249c3f827ca52a97",
+        "evidence_block_ids": [
+          "blk-8ed8d275f95d33112d36"
+        ],
+        "evidence_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年共建“一带一路”为共建国家经济复苏与发展注入新动能。",
+        "claim_id": "claim-3427d437ea099519",
+        "evidence_block_ids": [
+          "blk-8ed8d275f95d33112d36"
+        ],
+        "evidence_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都主动服务“双循环”新发展格局，深度融入“一带一路”建设。",
+        "claim_id": "claim-2cba70a124b42ad1",
+        "evidence_block_ids": [
+          "blk-978c92fcb0ea1e988f7d"
+        ],
+        "evidence_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都对外开放呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+        "claim_id": "claim-ff4fccb42bccbe67",
+        "evidence_block_ids": [
+          "blk-978c92fcb0ea1e988f7d"
+        ],
+        "evidence_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年天府国际机场建成投运。",
+        "claim_id": "claim-0d5cf5a54a2abe10",
+        "evidence_block_ids": [
+          "blk-978c92fcb0ea1e988f7d"
+        ],
+        "evidence_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都国际铁路港国家级经济技术开发区获批。",
+        "claim_id": "claim-9a8ad5b37be92cbd",
+        "evidence_block_ids": [
+          "blk-978c92fcb0ea1e988f7d"
+        ],
+        "evidence_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年本土世界500强企业实现零的突破。",
+        "claim_id": "claim-5a2602a451035052",
+        "evidence_block_ids": [
+          "blk-978c92fcb0ea1e988f7d"
+        ],
+        "evidence_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年第十八届中国西部国际博览会成功举办。",
+        "claim_id": "claim-8a540b59b6e851cf",
+        "evidence_block_ids": [
+          "blk-978c92fcb0ea1e988f7d"
+        ],
+        "evidence_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          13
+        ],
+        "ref_id": "ref-c070ce604ff4",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-249c3f827ca52a97",
+          "claim-3427d437ea099519",
+          "claim-2cba70a124b42ad1",
+          "claim-ff4fccb42bccbe67",
+          "claim-0d5cf5a54a2abe10",
+          "claim-9a8ad5b37be92cbd",
+          "claim-5a2602a451035052",
+          "claim-8a540b59b6e851cf"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+        "reason": "该Bundle包含回答中心问题所需的全部关键事实，包括国家层面的“一带一路”特点和成都层面的具体成效，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-29ddebded25f",
+    "members": [
+      {
+        "contribution": "该证据直接描述了2021年共建“一带一路”的整体特点（促发展、惠民生、高质量）以及成都作为节点城市的具体成效（硬件、制度、经贸等），是回答中心问题的核心事实来源。",
+        "ref_id": "ref-c070ce604ff4",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-249c3f827ca52a97",
+        "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+        "finding": "draft_excerpt matches evidence for claim-249c3f827ca52a97",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3427d437ea099519",
+        "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+        "finding": "draft_excerpt matches evidence for claim-3427d437ea099519",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2cba70a124b42ad1",
+        "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+        "finding": "draft_excerpt matches evidence for claim-2cba70a124b42ad1",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ff4fccb42bccbe67",
+        "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+        "finding": "draft_excerpt matches evidence for claim-ff4fccb42bccbe67",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0d5cf5a54a2abe10",
+        "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+        "finding": "draft_excerpt matches evidence for claim-0d5cf5a54a2abe10",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9a8ad5b37be92cbd",
+        "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+        "finding": "draft_excerpt matches evidence for claim-9a8ad5b37be92cbd",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5a2602a451035052",
+        "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+        "finding": "draft_excerpt matches evidence for claim-5a2602a451035052",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8a540b59b6e851cf",
+        "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+        "finding": "draft_excerpt matches evidence for claim-8a540b59b6e851cf",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-249c3f827ca52a97",
+          "claim-3427d437ea099519"
+        ],
+        "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+        "finding": "Sentence covers claim-249c3f827ca52a97 and claim-3427d437ea099519",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-edd92bba3522efff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2cba70a124b42ad1",
+          "claim-ff4fccb42bccbe67",
+          "claim-0d5cf5a54a2abe10",
+          "claim-9a8ad5b37be92cbd",
+          "claim-5a2602a451035052",
+          "claim-8a540b59b6e851cf"
+        ],
+        "draft_excerpt": "成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+        "finding": "Sentence covers claim-2cba70a124b42ad1, claim-ff4fccb42bccbe67, claim-0d5cf5a54a2abe10, claim-9a8ad5b37be92cbd, claim-5a2602a451035052, and claim-8a540b59b6e851",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e153892493e03a4c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-249c3f827ca52a97"
+        ],
+        "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础。",
+        "finding": "Sentence covers claim-249c3f827ca52a97",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fd18662900babb98",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-249c3f827ca52a97",
+          "claim-3427d437ea099519"
+        ],
+        "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能。",
+        "finding": "Sentence covers claim-249c3f827ca52a97 and claim-3427d437ea099519",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-abcd79de2a3fd9e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2cba70a124b42ad1",
+          "claim-ff4fccb42bccbe67"
+        ],
+        "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+        "finding": "Sentence covers claim-2cba70a124b42ad1 and claim-ff4fccb42bccbe67",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d8fc6b9a026b76c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0d5cf5a54a2abe10",
+          "claim-9a8ad5b37be92cbd",
+          "claim-5a2602a451035052",
+          "claim-8a540b59b6e851cf"
+        ],
+        "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+        "finding": "Sentence covers claim-0d5cf5a54a2abe10, claim-9a8ad5b37be92cbd, claim-5a2602a451035052, and claim-8a540b59b6e851cf",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d4dbd7ba2d9e17ca",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-249c3f827ca52a97",
+          "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+          "finding": "draft_excerpt matches evidence for claim-249c3f827ca52a97",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3427d437ea099519",
+          "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+          "finding": "draft_excerpt matches evidence for claim-3427d437ea099519",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2cba70a124b42ad1",
+          "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+          "finding": "draft_excerpt matches evidence for claim-2cba70a124b42ad1",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ff4fccb42bccbe67",
+          "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+          "finding": "draft_excerpt matches evidence for claim-ff4fccb42bccbe67",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0d5cf5a54a2abe10",
+          "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+          "finding": "draft_excerpt matches evidence for claim-0d5cf5a54a2abe10",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9a8ad5b37be92cbd",
+          "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+          "finding": "draft_excerpt matches evidence for claim-9a8ad5b37be92cbd",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5a2602a451035052",
+          "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+          "finding": "draft_excerpt matches evidence for claim-5a2602a451035052",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8a540b59b6e851cf",
+          "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+          "finding": "draft_excerpt matches evidence for claim-8a540b59b6e851cf",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-249c3f827ca52a97",
+            "claim-3427d437ea099519"
+          ],
+          "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+          "finding": "Sentence covers claim-249c3f827ca52a97 and claim-3427d437ea099519",
+          "sentence_id": "sentence-edd92bba3522efff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2cba70a124b42ad1",
+            "claim-ff4fccb42bccbe67",
+            "claim-0d5cf5a54a2abe10",
+            "claim-9a8ad5b37be92cbd",
+            "claim-5a2602a451035052",
+            "claim-8a540b59b6e851cf"
+          ],
+          "draft_excerpt": "成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+          "finding": "Sentence covers claim-2cba70a124b42ad1, claim-ff4fccb42bccbe67, claim-0d5cf5a54a2abe10, claim-9a8ad5b37be92cbd, claim-5a2602a451035052, and claim-8a540b59b6e851",
+          "sentence_id": "sentence-e153892493e03a4c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-249c3f827ca52a97"
+          ],
+          "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础。",
+          "finding": "Sentence covers claim-249c3f827ca52a97",
+          "sentence_id": "sentence-fd18662900babb98",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-249c3f827ca52a97",
+            "claim-3427d437ea099519"
+          ],
+          "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能。",
+          "finding": "Sentence covers claim-249c3f827ca52a97 and claim-3427d437ea099519",
+          "sentence_id": "sentence-abcd79de2a3fd9e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2cba70a124b42ad1",
+            "claim-ff4fccb42bccbe67"
+          ],
+          "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+          "finding": "Sentence covers claim-2cba70a124b42ad1 and claim-ff4fccb42bccbe67",
+          "sentence_id": "sentence-d8fc6b9a026b76c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0d5cf5a54a2abe10",
+            "claim-9a8ad5b37be92cbd",
+            "claim-5a2602a451035052",
+            "claim-8a540b59b6e851cf"
+          ],
+          "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+          "finding": "Sentence covers claim-0d5cf5a54a2abe10, claim-9a8ad5b37be92cbd, claim-5a2602a451035052, and claim-8a540b59b6e851cf",
+          "sentence_id": "sentence-d4dbd7ba2d9e17ca",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "c296c13202a3a1a77a5d07ade8ddaab9a0ad9f5e76d751edcdf54d8acea988d7",
+  "coverage_history": [
+    {
+      "draft_sha256": "a212cc6c9b68e3f559a4f99d9e40ab026fe8270b0cef08b0b5a9e24e1c0a0170",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-249c3f827ca52a97",
+            "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能、为沿线国家和地区人民谋幸福、为新发展阶段进行成功探索，各项建设事业继续表现出逆势向上、快速发展的良好势头。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3427d437ea099519",
+            "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能、为沿线国家和地区人民谋幸福、为新发展阶段进行成功探索，各项建设事业继续表现出逆势向上、快速发展的良好势头。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2cba70a124b42ad1",
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff4fccb42bccbe67",
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0d5cf5a54a2abe10",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-0d5cf5a54a2abe10 is missing hard anchors from the claim: ['2021年']; claim='2021年天府国际机场建成投运。'; excerpt='天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办、尼泊尔与智利驻成都总领事馆正式开馆等成效亮点纷呈。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9a8ad5b37be92cbd",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-9a8ad5b37be92cbd is missing hard anchors from the claim: ['2021年']; claim='2021年成都国际铁路港国家级经济技术开发区获批。'; excerpt='天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办、尼泊尔与智利驻成都总领事馆正式开馆等成效亮点纷呈。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5a2602a451035052",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-5a2602a451035052 is missing hard anchors from the claim: ['2021年']; claim='2021年本土世界500强企业实现零的突破。'; excerpt='天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办、尼泊尔与智利驻成都总领事馆正式开馆等成效亮点纷呈。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8a540b59b6e851cf",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8a540b59b6e851cf is missing hard anchors from the claim: ['2021年']; claim='2021年第十八届中国西部国际博览会成功举办。'; excerpt='天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办、尼泊尔与智利驻成都总领事馆正式开馆等成效亮点纷呈。'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年“一带一路”建设以硬联通、软联通和心联通为核心，呈现促发展、惠民生、高质量特点，成都作为节点城市通过硬件支撑与制度接轨实现逆势向上发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a44816a404e6c9f1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97",
+              "claim-3427d437ea099519"
+            ],
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd18662900babb98",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97",
+              "claim-3427d437ea099519"
+            ],
+            "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能、为沿线国家和地区人民谋幸福、为新发展阶段进行成功探索，各项建设事业继续表现出逆势向上、快速发展的良好势头。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a25a6254080b7fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都作为“一带一路”沿线重要节点城市，持续推动更高水平对外开放，逐步由内陆腹地迈向开放高地。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e0948ef6cc8ee37c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-2cba70a124b42ad1",
+              "claim-ff4fccb42bccbe67"
+            ],
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b4ecf0926b93a1b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d5cf5a54a2abe10",
+              "claim-9a8ad5b37be92cbd",
+              "claim-5a2602a451035052",
+              "claim-8a540b59b6e851cf"
+            ],
+            "draft_excerpt": "天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办、尼泊尔与智利驻成都总领事馆正式开馆等成效亮点纷呈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ccb21b9ba25a91fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年“一带一路”建设以硬联通、软联通和心联通为核心，呈现促发展、惠民生、高质量特点，成都作为节点城市通过硬件支撑与制度接轨实现逆势向上发展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都作为“一带一路”沿线重要节点城市，持续推动更高水平对外开放，逐步由内陆腹地迈向开放高地。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "5c2b101916f8df983a0c8341351c113730b47c6d3f99efa4fa434dc7cbfe06a2",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-249c3f827ca52a97",
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3427d437ea099519",
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2cba70a124b42ad1",
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff4fccb42bccbe67",
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0d5cf5a54a2abe10",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-0d5cf5a54a2abe10 is missing hard anchors from the claim: ['2021年']; claim='2021年天府国际机场建成投运。'; excerpt='成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。\\n天府国际机场建成投运'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9a8ad5b37be92cbd",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-9a8ad5b37be92cbd is missing hard anchors from the claim: ['2021年']; claim='2021年成都国际铁路港国家级经济技术开发区获批。'; excerpt='成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。\\n天府国际机场建成投运'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5a2602a451035052",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-5a2602a451035052 is missing hard anchors from the claim: ['2021年']; claim='2021年本土世界500强企业实现零的突破。'; excerpt='成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。\\n天府国际机场建成投运'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8a540b59b6e851cf",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8a540b59b6e851cf is missing hard anchors from the claim: ['2021年']; claim='2021年第十八届中国西部国际博览会成功举办。'; excerpt='成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。\\n天府国际机场建成投运'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97",
+              "claim-3427d437ea099519"
+            ],
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-edd92bba3522efff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2cba70a124b42ad1",
+              "claim-ff4fccb42bccbe67",
+              "claim-0d5cf5a54a2abe10",
+              "claim-9a8ad5b37be92cbd",
+              "claim-5a2602a451035052",
+              "claim-8a540b59b6e851cf"
+            ],
+            "draft_excerpt": "成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e153892493e03a4c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97"
+            ],
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd18662900babb98",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97",
+              "claim-3427d437ea099519"
+            ],
+            "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-abcd79de2a3fd9e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2cba70a124b42ad1",
+              "claim-ff4fccb42bccbe67"
+            ],
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8fc6b9a026b76c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d5cf5a54a2abe10",
+              "claim-9a8ad5b37be92cbd",
+              "claim-5a2602a451035052",
+              "claim-8a540b59b6e851cf"
+            ],
+            "draft_excerpt": "天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2eae4c92895befb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "c296c13202a3a1a77a5d07ade8ddaab9a0ad9f5e76d751edcdf54d8acea988d7",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-249c3f827ca52a97",
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+            "finding": "draft_excerpt matches evidence for claim-249c3f827ca52a97",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3427d437ea099519",
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+            "finding": "draft_excerpt matches evidence for claim-3427d437ea099519",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2cba70a124b42ad1",
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "draft_excerpt matches evidence for claim-2cba70a124b42ad1",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff4fccb42bccbe67",
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "draft_excerpt matches evidence for claim-ff4fccb42bccbe67",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0d5cf5a54a2abe10",
+            "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "draft_excerpt matches evidence for claim-0d5cf5a54a2abe10",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a8ad5b37be92cbd",
+            "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "draft_excerpt matches evidence for claim-9a8ad5b37be92cbd",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5a2602a451035052",
+            "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "draft_excerpt matches evidence for claim-5a2602a451035052",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8a540b59b6e851cf",
+            "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "draft_excerpt matches evidence for claim-8a540b59b6e851cf",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97",
+              "claim-3427d437ea099519"
+            ],
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；",
+            "finding": "Sentence covers claim-249c3f827ca52a97 and claim-3427d437ea099519",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-edd92bba3522efff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2cba70a124b42ad1",
+              "claim-ff4fccb42bccbe67",
+              "claim-0d5cf5a54a2abe10",
+              "claim-9a8ad5b37be92cbd",
+              "claim-5a2602a451035052",
+              "claim-8a540b59b6e851cf"
+            ],
+            "draft_excerpt": "成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "Sentence covers claim-2cba70a124b42ad1, claim-ff4fccb42bccbe67, claim-0d5cf5a54a2abe10, claim-9a8ad5b37be92cbd, claim-5a2602a451035052, and claim-8a540b59b6e851",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e153892493e03a4c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97"
+            ],
+            "draft_excerpt": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础。",
+            "finding": "Sentence covers claim-249c3f827ca52a97",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd18662900babb98",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-249c3f827ca52a97",
+              "claim-3427d437ea099519"
+            ],
+            "draft_excerpt": "共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能。",
+            "finding": "Sentence covers claim-249c3f827ca52a97 and claim-3427d437ea099519",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-abcd79de2a3fd9e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2cba70a124b42ad1",
+              "claim-ff4fccb42bccbe67"
+            ],
+            "draft_excerpt": "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。",
+            "finding": "Sentence covers claim-2cba70a124b42ad1 and claim-ff4fccb42bccbe67",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8fc6b9a026b76c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d5cf5a54a2abe10",
+              "claim-9a8ad5b37be92cbd",
+              "claim-5a2602a451035052",
+              "claim-8a540b59b6e851cf"
+            ],
+            "draft_excerpt": "2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+            "finding": "Sentence covers claim-0d5cf5a54a2abe10, claim-9a8ad5b37be92cbd, claim-5a2602a451035052, and claim-8a540b59b6e851cf",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d4dbd7ba2d9e17ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础。\n\n共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能。\n\n2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点。\n\n2021年，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+    "description": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能；成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-29ddebded25f",
+      "description": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能、为沿线国家和地区人民谋幸福、为新发展阶段进行成功",
+      "document_family_id": "3b48f7708ca2fd5e224b",
+      "document_version_id": "e6240784b5bdbcf0b12e",
+      "evidence": [
+        "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点",
+        "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能",
+        "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设",
+        "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点",
+        "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运",
+        "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批",
+        "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破",
+        "2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办"
+      ],
+      "evidence_block_ids": [
+        "blk-8ed8d275f95d33112d36",
+        "blk-978c92fcb0ea1e988f7d"
+      ],
+      "page_end": 13,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "e6240784b5bdbcf0b12e",
+      "scope": {},
+      "section_path": [
+        "编委会",
+        "综合篇 ①"
+      ],
+      "semantic_signature": {},
+      "source": "46a57605-7f91-4664-87f7-7ed1e58dade6.md",
+      "title": "综合篇 ①",
+      "type": "分析框架"
+    },
+    "title": "综合篇 ①"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c070ce604ff4:bundle-47baf1797ebb",
+      "excluded_fragments": [],
+      "ref_id": "ref-c070ce604ff4",
+      "source_blocks": [
+        {
+          "block_id": "blk-8ed8d275f95d33112d36",
+          "page_number": 13,
+          "text": "2021年，国家统筹谋划推动高质量发展、构建新发展格局和共建“一带一路”，把基础设施“硬联通”作为重要方向，把规则标准“软联通”作为重要支撑，把同共建国家人民“心联通”作为重要基础，共建“一带一路”呈现出“促发展、惠民生、高质量”特点，为共建国家经济复苏与发展注入新动能、为沿线国家和地区人民谋幸福、为新发展阶段进行成功探索，各项建设事业继续表现出逆势向上、快速发展的良好势头。"
+        },
+        {
+          "block_id": "blk-978c92fcb0ea1e988f7d",
+          "page_number": 13,
+          "text": "成都作为“一带一路”沿线重要节点城市，持续推动更高水平对外开放，逐步由内陆腹地迈向开放高地。2021年，成都主动服务“双循环”新发展格局，深度融入“一带一路”建设，推动更高水平对外开放，呈现出“硬件支撑强劲、制度接轨国际、经贸提质增效、要素高端高质、交流双向开展”特点，天府国际机场建成投运、成都国际铁路港国家级经济技术开发区获批、本土世界500强企业实现零的突破、第十八届中国西部国际博览会成功举办、尼泊尔与智利驻成都总领事馆正式开馆等成效亮点纷呈。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-29ddebded25f",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-c070ce604ff4"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

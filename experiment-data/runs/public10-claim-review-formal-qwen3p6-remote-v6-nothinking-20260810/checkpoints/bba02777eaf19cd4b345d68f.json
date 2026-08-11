@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[3].evidence_excerpt (ref-119cae7c75e6:bundle-eb96121a9987) is missing hard anchors from the claim: ['2024年']; claim='2024年世界园艺博览会园区选址于成都东部新区空港新城核心区绛溪河生态廊道中部。'; excerpt='世园会园区选址于成都东部新区空港新城核心区绛溪河生态廊道中部'",
+  "group_id": "topic-00c88c64afd2",
+  "ref_ids": [
+    "ref-119cae7c75e6"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

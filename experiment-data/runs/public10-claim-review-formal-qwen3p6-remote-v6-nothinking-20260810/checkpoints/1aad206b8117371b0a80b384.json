@@ -1,0 +1,938 @@
+{
+  "contract": {
+    "canonical_question": "成都天府国际机场的规划定位、建设规模、投资金额及关键审批时间节点是什么？",
+    "claims": [
+      {
+        "claim": "成都天府国际机场定位为国家级国际航空枢纽，建成后将与北上广遥相呼应，成为中国第四个国家级国际航空枢纽。",
+        "claim_id": "claim-55ad1b07f7fd391d",
+        "evidence_block_ids": [
+          "blk-935bf0edc56d1039b35b"
+        ],
+        "evidence_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          86
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {
+          "region": [
+            "成都",
+            "简阳市芦葭镇"
+          ]
+        },
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+        "claim_id": "claim-c7c8f904626d802b",
+        "evidence_block_ids": [
+          "blk-935bf0edc56d1039b35b"
+        ],
+        "evidence_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          86
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场一期工程将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨。",
+        "claim_id": "claim-b7479fdd413199cd",
+        "evidence_block_ids": [
+          "blk-935bf0edc56d1039b35b"
+        ],
+        "evidence_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          86
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场一期工程总投资718.6亿元，其中机场工程投资511.8亿元。",
+        "claim_id": "claim-23b14a6df6ddc3f7",
+        "evidence_block_ids": [
+          "blk-935bf0edc56d1039b35b"
+        ],
+        "evidence_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          86
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场计划2019年基本建成，2020年投入使用。",
+        "claim_id": "claim-ec95be1cdf157555",
+        "evidence_block_ids": [
+          "blk-f614f311db2b8639df80"
+        ],
+        "evidence_excerpt": "计划2019年基本建成，2020年投入使用",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          87
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年5月27日，成都天府国际机场正式开工建设。",
+        "claim_id": "claim-fcf67ba66dcd0434",
+        "evidence_block_ids": [
+          "blk-2f4d2809848c5e994b54"
+        ],
+        "evidence_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          87
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+        "claim_id": "claim-2adad7462db581cd",
+        "evidence_block_ids": [
+          "blk-3fef40bb2e128a7bbc26"
+        ],
+        "evidence_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          87
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+        "claim_id": "claim-824b0c4124158263",
+        "evidence_block_ids": [
+          "blk-be73c47f3db0191add66"
+        ],
+        "evidence_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          87
+        ],
+        "ref_id": "ref-2519b150af48",
+        "scope": {},
+        "slot": "time",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-55ad1b07f7fd391d",
+          "claim-c7c8f904626d802b",
+          "claim-b7479fdd413199cd",
+          "claim-23b14a6df6ddc3f7",
+          "claim-ec95be1cdf157555",
+          "claim-fcf67ba66dcd0434",
+          "claim-2adad7462db581cd",
+          "claim-824b0c4124158263"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+        "reason": "该证据包含回答国际比较类型Concept所需的所有固定槽位事实，包括比较主体、测量依据、适用地区、时间及基准差异等，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-bf1ca19174a6",
+    "members": [
+      {
+        "contribution": "该证据提供了成都天府国际机场的完整事实链条，包括其国家级国际航空枢纽的定位、具体的跑道与吞吐量规划、一期投资额、建设时间表以及从选址到开工的关键审批节点，直接回答了关于该机场建设事实的核心问题。",
+        "ref_id": "ref-2519b150af48",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-55ad1b07f7fd391d",
+        "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c7c8f904626d802b",
+        "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b7479fdd413199cd",
+        "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-23b14a6df6ddc3f7",
+        "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ec95be1cdf157555",
+        "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+        "finding": "draft_excerpt contains the required time facts.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fcf67ba66dcd0434",
+        "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2adad7462db581cd",
+        "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-824b0c4124158263",
+        "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-55ad1b07f7fd391d",
+          "claim-23b14a6df6ddc3f7",
+          "claim-b7479fdd413199cd",
+          "claim-fcf67ba66dcd0434"
+        ],
+        "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设，定位为国家级国际航空枢纽，一期工程总投资718.6亿元，设计年旅客吞吐量4000万人次。",
+        "finding": "Combines facts from multiple claims. Note: '设计年旅客吞吐量4000万人次' refers to Phase I capacity (claim-b7479fdd413199cd), not the total design capacity of the airport (",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ff323b821635894f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-55ad1b07f7fd391d"
+        ],
+        "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+        "finding": "Matches claim-55ad1b07f7fd391d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1507f7216c90c221",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c7c8f904626d802b"
+        ],
+        "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+        "finding": "Matches claim-c7c8f904626d802b.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-74972a4f9b023cb1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b7479fdd413199cd"
+        ],
+        "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+        "finding": "Matches claim-b7479fdd413199cd.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8c2d57c1c9215d26",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-23b14a6df6ddc3f7",
+          "claim-ec95be1cdf157555"
+        ],
+        "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+        "finding": "Combines facts from claim-23b14a6df6ddc3f7 and claim-ec95be1cdf157555.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-12a5fa2aad6c2bf8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-824b0c4124158263"
+        ],
+        "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+        "finding": "Matches claim-824b0c4124158263.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d10e636fe6449029",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2adad7462db581cd"
+        ],
+        "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+        "finding": "Matches claim-2adad7462db581cd.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3d69ade8d6e74548",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fcf67ba66dcd0434"
+        ],
+        "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+        "finding": "Matches claim-fcf67ba66dcd0434.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-08b6c4ef8a7bd035",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-55ad1b07f7fd391d",
+          "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c7c8f904626d802b",
+          "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b7479fdd413199cd",
+          "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-23b14a6df6ddc3f7",
+          "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ec95be1cdf157555",
+          "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+          "finding": "draft_excerpt contains the required time facts.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fcf67ba66dcd0434",
+          "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2adad7462db581cd",
+          "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-824b0c4124158263",
+          "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-55ad1b07f7fd391d",
+            "claim-23b14a6df6ddc3f7",
+            "claim-b7479fdd413199cd",
+            "claim-fcf67ba66dcd0434"
+          ],
+          "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设，定位为国家级国际航空枢纽，一期工程总投资718.6亿元，设计年旅客吞吐量4000万人次。",
+          "finding": "Combines facts from multiple claims. Note: '设计年旅客吞吐量4000万人次' refers to Phase I capacity (claim-b7479fdd413199cd), not the total design capacity of the airport (",
+          "sentence_id": "sentence-ff323b821635894f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-55ad1b07f7fd391d"
+          ],
+          "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+          "finding": "Matches claim-55ad1b07f7fd391d.",
+          "sentence_id": "sentence-1507f7216c90c221",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c7c8f904626d802b"
+          ],
+          "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+          "finding": "Matches claim-c7c8f904626d802b.",
+          "sentence_id": "sentence-74972a4f9b023cb1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b7479fdd413199cd"
+          ],
+          "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+          "finding": "Matches claim-b7479fdd413199cd.",
+          "sentence_id": "sentence-8c2d57c1c9215d26",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-23b14a6df6ddc3f7",
+            "claim-ec95be1cdf157555"
+          ],
+          "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+          "finding": "Combines facts from claim-23b14a6df6ddc3f7 and claim-ec95be1cdf157555.",
+          "sentence_id": "sentence-12a5fa2aad6c2bf8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-824b0c4124158263"
+          ],
+          "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+          "finding": "Matches claim-824b0c4124158263.",
+          "sentence_id": "sentence-d10e636fe6449029",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2adad7462db581cd"
+          ],
+          "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+          "finding": "Matches claim-2adad7462db581cd.",
+          "sentence_id": "sentence-3d69ade8d6e74548",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fcf67ba66dcd0434"
+          ],
+          "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+          "finding": "Matches claim-fcf67ba66dcd0434.",
+          "sentence_id": "sentence-08b6c4ef8a7bd035",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "142f9ccd4629ddbfa8a8efbdfda0d3d4de87ef7f141c0118a0b07709565469dc",
+  "coverage_history": [
+    {
+      "draft_sha256": "833658fa2d998b4235e9fc1f3a6f3725e16235bf68df7c30e2160b1130d2e76d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-55ad1b07f7fd391d",
+            "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，旨在建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-55ad1b07f7fd391d.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c7c8f904626d802b",
+            "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-c7c8f904626d802b.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7479fdd413199cd",
+            "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-b7479fdd413199cd.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-23b14a6df6ddc3f7",
+            "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-23b14a6df6ddc3f7.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ec95be1cdf157555",
+            "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+            "finding": "draft_excerpt contains the time facts for claim-ec95be1cdf157555.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fcf67ba66dcd0434",
+            "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-fcf67ba66dcd0434.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2adad7462db581cd",
+            "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-2adad7462db581cd.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-824b0c4124158263",
+            "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-824b0c4124158263.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-55ad1b07f7fd391d",
+              "claim-fcf67ba66dcd0434",
+              "claim-23b14a6df6ddc3f7",
+              "claim-b7479fdd413199cd"
+            ],
+            "draft_excerpt": "成都天府国际机场于2016年5月正式开工，定位为国家级国际航空枢纽，一期工程总投资718.6亿元，设计年旅客吞吐量4000万人次。",
+            "finding": "Sentence covers multiple claims. '2016年5月正式开工' supports claim-fcf67ba66dcd0434 (specifically the date 2016年5月27日). '定位为国家级国际航空枢纽' supports claim-55ad1b07f7fd391",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-315c432a638c0411",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-55ad1b07f7fd391d"
+            ],
+            "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，旨在建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+            "finding": "Sentence matches evidence for claim-55ad1b07f7fd391d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-80e8d816f4203749",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c7c8f904626d802b"
+            ],
+            "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+            "finding": "Sentence matches evidence for claim-c7c8f904626d802b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74972a4f9b023cb1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7479fdd413199cd"
+            ],
+            "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+            "finding": "Sentence matches evidence for claim-b7479fdd413199cd.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c2d57c1c9215d26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-23b14a6df6ddc3f7",
+              "claim-ec95be1cdf157555"
+            ],
+            "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+            "finding": "Sentence covers claim-23b14a6df6ddc3f7 (investment) and claim-ec95be1cdf157555 (time).",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12a5fa2aad6c2bf8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-824b0c4124158263"
+            ],
+            "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+            "finding": "Sentence matches evidence for claim-824b0c4124158263.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d10e636fe6449029",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2adad7462db581cd"
+            ],
+            "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+            "finding": "Sentence matches evidence for claim-2adad7462db581cd.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d69ade8d6e74548",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fcf67ba66dcd0434"
+            ],
+            "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+            "finding": "Sentence matches evidence for claim-fcf67ba66dcd0434.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08b6c4ef8a7bd035",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年5月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "142f9ccd4629ddbfa8a8efbdfda0d3d4de87ef7f141c0118a0b07709565469dc",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-55ad1b07f7fd391d",
+            "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c7c8f904626d802b",
+            "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7479fdd413199cd",
+            "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-23b14a6df6ddc3f7",
+            "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ec95be1cdf157555",
+            "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+            "finding": "draft_excerpt contains the required time facts.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fcf67ba66dcd0434",
+            "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2adad7462db581cd",
+            "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-824b0c4124158263",
+            "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-55ad1b07f7fd391d",
+              "claim-23b14a6df6ddc3f7",
+              "claim-b7479fdd413199cd",
+              "claim-fcf67ba66dcd0434"
+            ],
+            "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设，定位为国家级国际航空枢纽，一期工程总投资718.6亿元，设计年旅客吞吐量4000万人次。",
+            "finding": "Combines facts from multiple claims. Note: '设计年旅客吞吐量4000万人次' refers to Phase I capacity (claim-b7479fdd413199cd), not the total design capacity of the airport (",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff323b821635894f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-55ad1b07f7fd391d"
+            ],
+            "draft_excerpt": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+            "finding": "Matches claim-55ad1b07f7fd391d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1507f7216c90c221",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c7c8f904626d802b"
+            ],
+            "draft_excerpt": "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+            "finding": "Matches claim-c7c8f904626d802b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74972a4f9b023cb1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7479fdd413199cd"
+            ],
+            "draft_excerpt": "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+            "finding": "Matches claim-b7479fdd413199cd.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c2d57c1c9215d26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-23b14a6df6ddc3f7",
+              "claim-ec95be1cdf157555"
+            ],
+            "draft_excerpt": "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。",
+            "finding": "Combines facts from claim-23b14a6df6ddc3f7 and claim-ec95be1cdf157555.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12a5fa2aad6c2bf8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-824b0c4124158263"
+            ],
+            "draft_excerpt": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。",
+            "finding": "Matches claim-824b0c4124158263.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d10e636fe6449029",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2adad7462db581cd"
+            ],
+            "draft_excerpt": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+            "finding": "Matches claim-2adad7462db581cd.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d69ade8d6e74548",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fcf67ba66dcd0434"
+            ],
+            "draft_excerpt": "2016年5月27日，成都天府国际机场正式开工建设。",
+            "finding": "Matches claim-fcf67ba66dcd0434.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08b6c4ef8a7bd035",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。\n\n一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。一期工程总投资718.6亿元，其中机场工程投资511.8亿元，计划2019年基本建成，2020年投入使用。\n\n2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。2016年5月27日，成都天府国际机场正式开工建设。",
+    "description": "2016年5月27日，成都天府国际机场正式开工建设，定位为国家级国际航空枢纽，一期工程总投资718.6亿元，设计年旅客吞吐量4000万人次。",
+    "ref": {
+      "asset_hints": [
+        "image-031"
+      ],
+      "concept_id": "topic-bf1ca19174a6",
+      "description": "2016年5月，成都天府国际机场正式开工，标志着天府国际机场进入全面建设阶段，对成都巩固强化航空第四城地位，加速构建国际性综合交通枢纽具有重要意义。",
+      "document_family_id": "9e3ac4bb851dccd2e74c",
+      "document_version_id": "bfdd46d8149bb22ebd84",
+      "evidence": [
+        "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。",
+        "机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。",
+        "一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。",
+        "一期工程总投资718.6亿元，其中机场工程投资511.8亿元，",
+        "计划2019年基本建成，2020年投入使用",
+        "2016年5月27日，成都天府国际机场正式开工建设。",
+        "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。",
+        "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。"
+      ],
+      "evidence_block_ids": [
+        "blk-935bf0edc56d1039b35b",
+        "blk-f614f311db2b8639df80",
+        "blk-2f4d2809848c5e994b54",
+        "blk-3fef40bb2e128a7bbc26",
+        "blk-be73c47f3db0191add66"
+      ],
+      "page_end": 87,
+      "page_start": 86,
+      "ref_family_hint": "",
+      "ref_version_id": "bfdd46d8149bb22ebd84",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成都天府国际机场开工建设"
+      ],
+      "semantic_signature": {},
+      "source": "2f27f8b7-c83d-49c6-96ff-95ff655ed6c4.md",
+      "title": "成都天府国际机场开工建设",
+      "type": "国际比较"
+    },
+    "title": "成都天府国际机场开工建设"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-2519b150af48:bundle-19260d845ee4",
+      "excluded_fragments": [],
+      "ref_id": "ref-2519b150af48",
+      "source_blocks": [
+        {
+          "block_id": "blk-a9603469138d0f6ee6d0",
+          "page_number": 86,
+          "text": "2016年5月，成都天府国际机场正式开工，标志着天府国际机场进入全面建设阶段，对成都巩固强化航空第四城地位，加速构建国际性综合交通枢纽具有重要意义。"
+        },
+        {
+          "block_id": "blk-61b68d4d0d9673552f6c",
+          "page_number": 86,
+          "text": "原始 PDF 第 86 页图片"
+        },
+        {
+          "block_id": "blk-797696ad3f6e6e83ec38",
+          "page_number": 86,
+          "text": "图3-3 成都天府国际机场开工仪式图"
+        },
+        {
+          "block_id": "blk-935bf0edc56d1039b35b",
+          "page_number": 86,
+          "text": "成都天府国际机场位于简阳市芦葭镇，定位为国家级国际航空枢纽，将建成“国际一流、国内领先”的人文、智慧、绿色机场。机场远期规划建设“四纵两横”6条跑道、4个航站楼，设计年旅客吞吐量9000万人次、年货邮吞吐量200万吨。一期工程是国家“十三五”期间规划建设的最大民用运输枢纽机场项目，将建设3条跑道及航站楼，设计旅客吞吐量为4000万人次、货邮吞吐量70万吨，并配套建设空港经济区。一期工程总投资718.6亿元，其中机场工程投资511.8亿元，"
+        },
+        {
+          "block_id": "blk-f614f311db2b8639df80",
+          "page_number": 87,
+          "text": "计划2019年基本建成，2020年投入使用"
+        },
+        {
+          "block_id": "blk-5dbb3619ff4fcc8e8421",
+          "page_number": 87,
+          "text": "成都天府国际机场建成投用后，在“一市两场”航空运输新格局下，成都双流国际机场和成都天府国际机场两座枢纽机场将采用“互补模式”分工定位，实施差异化的市场划分和运行管理，合力打造成都国家级国际航空枢纽。"
+        },
+        {
+          "block_id": "blk-c17885a70c2aa956f71d",
+          "page_number": 87,
+          "text": "成都天府国际机场建设，是国家着眼经济社会发展全局、完善综合运输体系、促进区域协调发展的战略举措。新机场将成为与北上广遥相呼应、贯通南北、连接东西的中国第四个国家级国际航空枢纽，成为中国面向欧洲、东南亚、南亚、中东和中亚的国际空中门户，成为成都建设内陆开放高地和国际门户枢纽城市的重要引擎。"
+        },
+        {
+          "block_id": "blk-3418702d65a46fe1672e",
+          "page_number": 87,
+          "text": "2011年5月，四川省正式启动成都新机场选址工作。"
+        },
+        {
+          "block_id": "blk-ee03249b9640992b26fa",
+          "page_number": 87,
+          "text": "2013年6月20日，国家民航局正式批准确定简阳芦葭优化场址为成都新机场场址。"
+        },
+        {
+          "block_id": "blk-b51042de4df3ddb8d509",
+          "page_number": 87,
+          "text": "2013年12月23日，成都新机场预可研报告经省政府第32次常务会审定并通过，新机场立项请示文件已正式上报国务院、中央军委。"
+        },
+        {
+          "block_id": "blk-df7a436f13b2381c806b",
+          "page_number": 87,
+          "text": "2014年4月，成都新机场及空港经济区规划建设协调领导小组成立。"
+        },
+        {
+          "block_id": "blk-ae4712d270065c9ad6cd",
+          "page_number": 87,
+          "text": "2014年2月17至19日，国家发改委委托中国国际工程咨询公司组织各相关单位领导及专家现场踏勘成都新机场场址，召开预可研报告评估会，形成了关于成都新机场（预可研报告）的咨询评估专家组意见。"
+        },
+        {
+          "block_id": "blk-be73c47f3db0191add66",
+          "page_number": 87,
+          "text": "2015年1月，国务院和中央军委正式下发文件，同意成都新机场立项。"
+        },
+        {
+          "block_id": "blk-c04eeb762966a30b84f3",
+          "page_number": 87,
+          "text": "2015年6月，新机场航站楼方案确定，构型取意驮日飞翔的太阳神鸟。"
+        },
+        {
+          "block_id": "blk-703fe1baeee277d4584f",
+          "page_number": 87,
+          "text": "2015年9月，国家民航局批准同意成都新机场命名为“成都天府国际机场”。"
+        },
+        {
+          "block_id": "blk-f57740c1d34dce47dc24",
+          "page_number": 87,
+          "text": "2015年12月，民航局委托中咨公司组织召开新机场可研报告论证会，同月，新机场岩土工程现场试验项目（试验段）开工建设。"
+        },
+        {
+          "block_id": "blk-fe27bdd89819f13368fc",
+          "page_number": 87,
+          "text": "2016年3月，环境保护部对“成都新机场环境影响报告书”做出批复。"
+        },
+        {
+          "block_id": "blk-3fef40bb2e128a7bbc26",
+          "page_number": 87,
+          "text": "2016年4月18日，国家发展改革委正式批复成都新机场项目工程可行性研究报告，标志着成都天府国际机场建设走完所有审批程序。"
+        },
+        {
+          "block_id": "blk-2f4d2809848c5e994b54",
+          "page_number": 87,
+          "text": "2016年5月27日，成都天府国际机场正式开工建设。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-bf1ca19174a6",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-2519b150af48"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

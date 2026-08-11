@@ -1,0 +1,388 @@
+{
+  "contract": {
+    "canonical_question": "2018年至2021年间，成都与四川省内各城市间的经济联系强度平均值发生了怎样的变化？",
+    "claims": [
+      {
+        "claim": "2018年，成都与四川省内各城市间的经济联系强度平均值为1563.6。",
+        "claim_id": "claim-6b582f05f4fa6e33",
+        "evidence_block_ids": [
+          "blk-0e664fdbd54680ee182f"
+        ],
+        "evidence_excerpt": "与四川省内各城市间的经济联系强度平均值由2018年的1563.6",
+        "evidence_id": "ref-e2f18170353e:bundle-4a85620d30b9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          74
+        ],
+        "ref_id": "ref-e2f18170353e",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2018年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都与四川省内各城市间的经济联系强度平均值为2159.0。",
+        "claim_id": "claim-d1779d9fe5c39a77",
+        "evidence_block_ids": [
+          "blk-0e664fdbd54680ee182f"
+        ],
+        "evidence_excerpt": "提高至2021年的2159.0",
+        "evidence_id": "ref-e2f18170353e:bundle-4a85620d30b9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          74
+        ],
+        "ref_id": "ref-e2f18170353e",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2021年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值大幅增长38.1个百分点。",
+        "claim_id": "claim-c461a65d2409588c",
+        "evidence_block_ids": [
+          "blk-0e664fdbd54680ee182f"
+        ],
+        "evidence_excerpt": "2018年的1563.6提高至2021年的2159.0，大幅增长38.1个百分点",
+        "evidence_id": "ref-e2f18170353e:bundle-4a85620d30b9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          74
+        ],
+        "ref_id": "ref-e2f18170353e",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2018-2021年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-6b582f05f4fa6e33",
+          "claim-d1779d9fe5c39a77",
+          "claim-c461a65d2409588c"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e2f18170353e:bundle-4a85620d30b9",
+        "reason": "该证据包含回答中心问题所需的核心数据，即经济联系强度平均值的变化情况，属于分析框架中'evidence'槽位的必要事实。"
+      }
+    ],
+    "group_id": "topic-6f285ae9b561",
+    "members": [
+      {
+        "contribution": "提供2018至2021年成都与省内城市经济联系强度平均值的具体数值及增长幅度，直接回答中心问题。",
+        "ref_id": "ref-e2f18170353e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-6b582f05f4fa6e33",
+        "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d1779d9fe5c39a77",
+        "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c461a65d2409588c",
+        "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-6b582f05f4fa6e33",
+          "claim-d1779d9fe5c39a77",
+          "claim-c461a65d2409588c"
+        ],
+        "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ef0c16e525abac57",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6b582f05f4fa6e33",
+          "claim-d1779d9fe5c39a77",
+          "claim-c461a65d2409588c"
+        ],
+        "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c83141bb0199ed9c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-6b582f05f4fa6e33",
+          "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d1779d9fe5c39a77",
+          "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c461a65d2409588c",
+          "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-6b582f05f4fa6e33",
+            "claim-d1779d9fe5c39a77",
+            "claim-c461a65d2409588c"
+          ],
+          "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+          "finding": "supported",
+          "sentence_id": "sentence-ef0c16e525abac57",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6b582f05f4fa6e33",
+            "claim-d1779d9fe5c39a77",
+            "claim-c461a65d2409588c"
+          ],
+          "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+          "finding": "supported",
+          "sentence_id": "sentence-c83141bb0199ed9c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "8dc28b47b100167d665906e3a20ab20cafc843e86846d91471855df983ec460a",
+  "coverage_history": [
+    {
+      "draft_sha256": "94546df64ca44fc35b63e8d560e4d38fe08fc53fa581b90b291a2b00471ea071",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c461a65d2409588c",
+            "draft_excerpt": "2018年至2021年间，成都与四川省内各城市间的经济联系强度平均值大幅增长38.1个百分点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6b582f05f4fa6e33",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d1779d9fe5c39a77",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-c461a65d2409588c"
+            ],
+            "draft_excerpt": "2018年至2021年间，成都与四川省内各城市间的经济联系强度平均值大幅增长38.1个百分点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af8ea35bdab3a075",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年至2021年期间，成都与四川省内各城市间的经济联系强度平均值呈现显著增长态势，整体联系紧密度大幅提升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a4de256870f3c81d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-6b582f05f4fa6e33",
+              "claim-d1779d9fe5c39a77",
+              "claim-c461a65d2409588c"
+            ],
+            "draft_excerpt": "数据显示，成都与四川省内各城市间的经济联系强度平均值由2018年的1563.6提高至2021年的2159.0，大幅增长38.1个百分点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf27defd650dafe8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2018年至2021年期间，成都与四川省内各城市间的经济联系强度平均值呈现显著增长态势，整体联系紧密度大幅提升。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "8dc28b47b100167d665906e3a20ab20cafc843e86846d91471855df983ec460a",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-6b582f05f4fa6e33",
+            "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d1779d9fe5c39a77",
+            "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c461a65d2409588c",
+            "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-6b582f05f4fa6e33",
+              "claim-d1779d9fe5c39a77",
+              "claim-c461a65d2409588c"
+            ],
+            "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef0c16e525abac57",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6b582f05f4fa6e33",
+              "claim-d1779d9fe5c39a77",
+              "claim-c461a65d2409588c"
+            ],
+            "draft_excerpt": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c83141bb0199ed9c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+    "description": "2018年至2021年，成都与四川省内各城市间的经济联系强度平均值由1563.6提高至2159.0，大幅增长38.1个百分点。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6f285ae9b561",
+      "description": "2021年，成都与四川省内各城市地区生产总值达到5.4万亿元，同比增长25.5%；与四川省内各城市间的经济联系强度平均值由2018年的1563.6提高至2021年的2159.0，大幅增长38.1个百分点。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "与四川省内各城市间的经济联系强度平均值由2018年的1563.6",
+        "提高至2021年的2159.0",
+        "2018年的1563.6提高至2021年的2159.0，大幅增长38.1个百分点"
+      ],
+      "evidence_block_ids": [
+        "blk-0e664fdbd54680ee182f"
+      ],
+      "page_end": 74,
+      "page_start": 74,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "四川省内各城市",
+        "time": "2018-2021年"
+      },
+      "section_path": [
+        "专题篇",
+        "二、辐射带动全省协同发展",
+        "（一）成都与省内区域合作发展总体评价",
+        "1.纵向对比分析"
+      ],
+      "semantic_signature": {
+        "key": "经济联系度提升"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成都与省内城市经济联系度提升",
+      "type": "分析框架"
+    },
+    "title": "成都与省内城市经济联系度提升"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e2f18170353e:bundle-4a85620d30b9",
+      "excluded_fragments": [],
+      "ref_id": "ref-e2f18170353e",
+      "source_blocks": [
+        {
+          "block_id": "blk-0e664fdbd54680ee182f",
+          "page_number": 74,
+          "text": "区域经济总量大幅增长，城市间经济联系度持续提升。2021年，成都与四川省内各城市地区生产总值达到5.4万亿元，同比增长\\(25.5\\%\\)；与四川省内各城市间的经济联系强度平均值由2018年的1563.6提高至2021年的2159.0，大幅增长38.1个百分点，成都与省内城市间联系度日益增强。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6f285ae9b561",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-e2f18170353e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

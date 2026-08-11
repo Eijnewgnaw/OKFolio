@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-f8cbc25aea76:bundle-83deb4ddcbba) is missing hard anchors from the claim: ['2018年']; claim='2018年以来，蒲江县与眉山市丹棱县深化柑橘产业合作，建立长期联席会议机制。'; excerpt='重点深化与眉山市丹棱县开展柑橘产业合作，建立长期的联席会议机制'",
+  "group_id": "topic-4f3ede754b46",
+  "ref_ids": [
+    "ref-f8cbc25aea76"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,1124 @@
+{
+  "contract": {
+    "canonical_question": "成都市在实施医疗卫生开放合作工程中，针对外资/港澳台资联合办医、国际医疗合作、国际认证及医保接轨提供了哪些具体的财政奖励政策？",
+    "claims": [
+      {
+        "claim": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+        "claim_id": "claim-867c74246fdfed79",
+        "evidence_block_ids": [
+          "blk-52ccbea0ebeeabd5c22a"
+        ],
+        "evidence_excerpt": "对本市三级医院与国外知名医疗机构建立合作中心（研究院、所）的奖励100万元",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          169
+        ],
+        "ref_id": "ref-9bbe6b493322",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+        "claim_id": "claim-389556a9a6e795cf",
+        "evidence_block_ids": [
+          "blk-52ccbea0ebeeabd5c22a"
+        ],
+        "evidence_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的分别给予奖励500万元、200万元、50万元",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          169
+        ],
+        "ref_id": "ref-9bbe6b493322",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+        "claim_id": "claim-c381ecc7dc3d4bc8",
+        "evidence_block_ids": [
+          "blk-52ccbea0ebeeabd5c22a",
+          "blk-51c03b8e71362ed486b7"
+        ],
+        "evidence_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          169,
+          170
+        ],
+        "ref_id": "ref-9bbe6b493322",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+        "claim_id": "claim-1da300fbc8798966",
+        "evidence_block_ids": [
+          "blk-51c03b8e71362ed486b7"
+        ],
+        "evidence_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          170
+        ],
+        "ref_id": "ref-9bbe6b493322",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+        "claim_id": "claim-a9bf301b7ff6d540",
+        "evidence_block_ids": [
+          "blk-51c03b8e71362ed486b7"
+        ],
+        "evidence_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          170
+        ],
+        "ref_id": "ref-9bbe6b493322",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+        "claim_id": "claim-1303c916af003473",
+        "evidence_block_ids": [
+          "blk-51c03b8e71362ed486b7"
+        ],
+        "evidence_excerpt": "（牵头单位：市卫计委；责任单位：市投促委、市商务委、市财政局、市金融局、市外事侨务办）",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          170
+        ],
+        "ref_id": "ref-9bbe6b493322",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-867c74246fdfed79",
+          "claim-389556a9a6e795cf",
+          "claim-c381ecc7dc3d4bc8",
+          "claim-1da300fbc8798966",
+          "claim-a9bf301b7ff6d540",
+          "claim-1303c916af003473"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+        "reason": "该证据包含回答中心问题所需的所有核心事实，包括具体的奖励金额、适用场景及责任主体，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-c983cd9ff84b",
+    "members": [
+      {
+        "contribution": "该证据直接提供了成都市在医疗卫生开放合作领域的具体财政激励措施，包括对引进外资/港澳台资机构、建立国际合作中心、达到特定专科标准、获得国际认证以及开展国际医保直付服务的奖励金额和牵头责任单位，完整覆盖了政策建议中的措施与实施路径。",
+        "ref_id": "ref-9bbe6b493322",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-867c74246fdfed79",
+        "draft_excerpt": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-389556a9a6e795cf",
+        "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c381ecc7dc3d4bc8",
+        "draft_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1da300fbc8798966",
+        "draft_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a9bf301b7ff6d540",
+        "draft_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1303c916af003473",
+        "draft_excerpt": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-867c74246fdfed79",
+          "claim-c381ecc7dc3d4bc8",
+          "claim-1da300fbc8798966",
+          "claim-a9bf301b7ff6d540"
+        ],
+        "draft_excerpt": "通过财政奖励机制推动医疗机构国际化，包括建立国际合作中心、获取国际认证及接轨国际商保，并支持中医服务出海。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f0ccdeb567abc83d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-48f622b874a9bbd1",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-1303c916af003473"
+        ],
+        "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-43c16076fe639a5f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-867c74246fdfed79",
+          "claim-389556a9a6e795cf"
+        ],
+        "draft_excerpt": "政策重点支持三级医院与国外知名医疗机构建立合作中心（研究院、所），并对达到国际、国内及省内一流标准的专科建设给予分级奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-84e567724f8a5c31",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c381ecc7dc3d4bc8",
+          "claim-1da300fbc8798966",
+          "claim-a9bf301b7ff6d540"
+        ],
+        "draft_excerpt": "同时，鼓励医疗机构开展国际相关认证，推动与国际商业医疗保险接轨，并支持中医服务走出国门，形成全方位的国际合作格局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e31c3b43e566cd84",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-867c74246fdfed79"
+        ],
+        "draft_excerpt": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b08d1fa00f2e45fe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-389556a9a6e795cf"
+        ],
+        "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-eb49e7c05dc2991d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c381ecc7dc3d4bc8"
+        ],
+        "draft_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-518801c6d4285655",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1da300fbc8798966"
+        ],
+        "draft_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-97b3e641f3e16623",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a9bf301b7ff6d540"
+        ],
+        "draft_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-43eab395ad059c13",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1303c916af003473"
+        ],
+        "draft_excerpt": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-105adadc28f40c4a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-867c74246fdfed79",
+          "draft_excerpt": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-389556a9a6e795cf",
+          "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c381ecc7dc3d4bc8",
+          "draft_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1da300fbc8798966",
+          "draft_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a9bf301b7ff6d540",
+          "draft_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1303c916af003473",
+          "draft_excerpt": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-867c74246fdfed79",
+            "claim-c381ecc7dc3d4bc8",
+            "claim-1da300fbc8798966",
+            "claim-a9bf301b7ff6d540"
+          ],
+          "draft_excerpt": "通过财政奖励机制推动医疗机构国际化，包括建立国际合作中心、获取国际认证及接轨国际商保，并支持中医服务出海。",
+          "finding": "supported",
+          "sentence_id": "sentence-f0ccdeb567abc83d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-48f622b874a9bbd1",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-1303c916af003473"
+          ],
+          "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责。",
+          "finding": "supported",
+          "sentence_id": "sentence-43c16076fe639a5f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-867c74246fdfed79",
+            "claim-389556a9a6e795cf"
+          ],
+          "draft_excerpt": "政策重点支持三级医院与国外知名医疗机构建立合作中心（研究院、所），并对达到国际、国内及省内一流标准的专科建设给予分级奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-84e567724f8a5c31",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c381ecc7dc3d4bc8",
+            "claim-1da300fbc8798966",
+            "claim-a9bf301b7ff6d540"
+          ],
+          "draft_excerpt": "同时，鼓励医疗机构开展国际相关认证，推动与国际商业医疗保险接轨，并支持中医服务走出国门，形成全方位的国际合作格局。",
+          "finding": "supported",
+          "sentence_id": "sentence-e31c3b43e566cd84",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-867c74246fdfed79"
+          ],
+          "draft_excerpt": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-b08d1fa00f2e45fe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-389556a9a6e795cf"
+          ],
+          "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-eb49e7c05dc2991d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c381ecc7dc3d4bc8"
+          ],
+          "draft_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+          "finding": "supported",
+          "sentence_id": "sentence-518801c6d4285655",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1da300fbc8798966"
+          ],
+          "draft_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-97b3e641f3e16623",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a9bf301b7ff6d540"
+          ],
+          "draft_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+          "finding": "supported",
+          "sentence_id": "sentence-43eab395ad059c13",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1303c916af003473"
+          ],
+          "draft_excerpt": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+          "finding": "supported",
+          "sentence_id": "sentence-105adadc28f40c4a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "c678bebb72d30bc4bb4a71d375c0e7a705d258b9f1df06e7ecc3e48d7445a9bc",
+  "coverage_history": [
+    {
+      "draft_sha256": "4da77ed81bc952fad984b6dd4a835054f49ae4b6fb44c12d8eda87789bf8c0b3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-867c74246fdfed79",
+            "draft_excerpt": "对于三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-389556a9a6e795cf",
+            "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c381ecc7dc3d4bc8",
+            "draft_excerpt": "在国际化认证与服务接轨方面，每通过一项高水平国际认证奖励20至500万元；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1da300fbc8798966",
+            "draft_excerpt": "每开通一家国际商业医疗保险直付服务并办理实际业务的，给予最高5万元奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a9bf301b7ff6d540",
+            "draft_excerpt": "此外，对建成的中医服务重点合作项目，给予5至20万元奖励，以鼓励中医服务走出国门。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1303c916af003473",
+            "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责，通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过财政奖励机制推动医疗机构国际化，包括引进外资办医、建立国际合作中心、获取国际认证及接轨国际商保，以提升医疗服务水平并促进中医服务出海。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-acf2cfc19066f841",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施医疗卫生开放合作工程旨在积极引进外资及港澳台资品牌医疗机构来蓉联合办医，持续推动国际医疗健康合作项目落地。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-03259c77020bc73a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1303c916af003473"
+            ],
+            "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责，通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5c285115eff2f50",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79",
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "政策重点支持三级医院与国外知名医疗机构建立合作中心（研究院、所），并对达到国际、国内及省内一流标准的专科建设给予分级奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84e567724f8a5c31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8",
+              "claim-1da300fbc8798966",
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "同时，鼓励医疗机构开展国际相关认证，推动与国际商业医疗保险接轨，并支持中医服务走出国门，形成全方位的国际合作格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e31c3b43e566cd84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "具体的奖励标准涵盖了机构合作、专科建设、国际认证、商保接轨及中医出海五个方面。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69ab2616e7e0393c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79"
+            ],
+            "draft_excerpt": "对于三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d259d04b2be80de5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4ffd988e66ea1ff2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8"
+            ],
+            "draft_excerpt": "在国际化认证与服务接轨方面，每通过一项高水平国际认证奖励20至500万元；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0aad60523d578989",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1da300fbc8798966"
+            ],
+            "draft_excerpt": "每开通一家国际商业医疗保险直付服务并办理实际业务的，给予最高5万元奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b324a9e0742da225",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "此外，对建成的中医服务重点合作项目，给予5至20万元奖励，以鼓励中医服务走出国门。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-055cfd24adfe1729",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79"
+            ],
+            "draft_excerpt": "三级医院与国外知名医疗机构建立合作中心（研究院、所）奖励100万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3713f6db4193f04f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "专科建设达国际、国内、省内一流标准分别奖励500万、200万、50万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dc67c0d3f32c3370",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8"
+            ],
+            "draft_excerpt": "通过一项高水平国际认证奖励20至500万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a785fed9325cf6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1da300fbc8798966"
+            ],
+            "draft_excerpt": "开通国际商业医疗保险直付服务并办理业务奖励最高5万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5818e00e471c1427",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "建成的中医服务重点合作项目奖励5至20万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-510bad8c94d12904",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过财政奖励机制推动医疗机构国际化，包括引进外资办医、建立国际合作中心、获取国际认证及接轨国际商保，以提升医疗服务水平并促进中医服务出海。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "实施医疗卫生开放合作工程旨在积极引进外资及港澳台资品牌医疗机构来蓉联合办医，持续推动国际医疗健康合作项目落地。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "具体的奖励标准涵盖了机构合作、专科建设、国际认证、商保接轨及中医出海五个方面。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d7e6befb1f4d84228fb59d63b9591e743a135f830a0fd4a97be733b5ef63a652",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1303c916af003473",
+            "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-867c74246fdfed79",
+            "draft_excerpt": "三级医院与国外知名医疗机构建立合作中心（研究院、所）奖励100万元",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-389556a9a6e795cf",
+            "draft_excerpt": "专科建设达国际、国内、省内一流标准分别奖励500万、200万、50万元",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c381ecc7dc3d4bc8",
+            "draft_excerpt": "通过一项高水平国际认证奖励20至500万元",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1da300fbc8798966",
+            "draft_excerpt": "开通国际商业医疗保险直付服务并办理业务奖励最高5万元",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a9bf301b7ff6d540",
+            "draft_excerpt": "建成的中医服务重点合作项目奖励5至20万元",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79",
+              "claim-c381ecc7dc3d4bc8",
+              "claim-1da300fbc8798966",
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "通过财政奖励机制推动医疗机构国际化，包括建立国际合作中心、获取国际认证及接轨国际商保，并支持中医服务出海。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0ccdeb567abc83d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-48f622b874a9bbd1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1303c916af003473"
+            ],
+            "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43c16076fe639a5f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79",
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "政策重点支持三级医院与国外知名医疗机构建立合作中心（研究院、所），并对达到国际、国内及省内一流标准的专科建设给予分级奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84e567724f8a5c31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8",
+              "claim-1da300fbc8798966",
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "同时，鼓励医疗机构开展国际相关认证，推动与国际商业医疗保险接轨，并支持中医服务走出国门，形成全方位的国际合作格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e31c3b43e566cd84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79"
+            ],
+            "draft_excerpt": "三级医院与国外知名医疗机构建立合作中心（研究院、所）奖励100万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84b3716a1449d897",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "专科建设达国际、国内、省内一流标准分别奖励500万、200万、50万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fb8292461f7a2fa9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8"
+            ],
+            "draft_excerpt": "通过一项高水平国际认证奖励20至500万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2adfd5a0c7aab0ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1da300fbc8798966"
+            ],
+            "draft_excerpt": "开通国际商业医疗保险直付服务并办理业务奖励最高5万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-793a038ff5733ff0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "建成的中医服务重点合作项目奖励5至20万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4614f05ba7be6b3a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "c678bebb72d30bc4bb4a71d375c0e7a705d258b9f1df06e7ecc3e48d7445a9bc",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-867c74246fdfed79",
+            "draft_excerpt": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-389556a9a6e795cf",
+            "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c381ecc7dc3d4bc8",
+            "draft_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1da300fbc8798966",
+            "draft_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a9bf301b7ff6d540",
+            "draft_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1303c916af003473",
+            "draft_excerpt": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79",
+              "claim-c381ecc7dc3d4bc8",
+              "claim-1da300fbc8798966",
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "通过财政奖励机制推动医疗机构国际化，包括建立国际合作中心、获取国际认证及接轨国际商保，并支持中医服务出海。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0ccdeb567abc83d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-48f622b874a9bbd1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1303c916af003473"
+            ],
+            "draft_excerpt": "该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43c16076fe639a5f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79",
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "政策重点支持三级医院与国外知名医疗机构建立合作中心（研究院、所），并对达到国际、国内及省内一流标准的专科建设给予分级奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84e567724f8a5c31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8",
+              "claim-1da300fbc8798966",
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "同时，鼓励医疗机构开展国际相关认证，推动与国际商业医疗保险接轨，并支持中医服务走出国门，形成全方位的国际合作格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e31c3b43e566cd84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-867c74246fdfed79"
+            ],
+            "draft_excerpt": "对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b08d1fa00f2e45fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-389556a9a6e795cf"
+            ],
+            "draft_excerpt": "专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb49e7c05dc2991d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c381ecc7dc3d4bc8"
+            ],
+            "draft_excerpt": "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-518801c6d4285655",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1da300fbc8798966"
+            ],
+            "draft_excerpt": "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-97b3e641f3e16623",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9bf301b7ff6d540"
+            ],
+            "draft_excerpt": "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43eab395ad059c13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1303c916af003473"
+            ],
+            "draft_excerpt": "该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-105adadc28f40c4a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n实施医疗卫生开放合作工程旨在通过多维度的财政激励措施，引导本市医疗机构提升国际化水平。该工程由市卫计委牵头，市投促委、市商务委、市财政局、市金融局、市外事侨务办共同负责。\n\n政策重点支持三级医院与国外知名医疗机构建立合作中心（研究院、所），并对达到国际、国内及省内一流标准的专科建设给予分级奖励。同时，鼓励医疗机构开展国际相关认证，推动与国际商业医疗保险接轨，并支持中医服务走出国门，形成全方位的国际合作格局。\n\n- 对成都市三级医院与国外知名医疗机构建立合作中心（研究院、所）的，给予100万元奖励。\n- 专科建设达到国际一流、国内一流、省内一流标准的，分别给予500万元、200万元、50万元奖励。\n- 鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元。\n- 鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。\n- 鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。\n- 该政策的牵头单位为市卫计委，责任单位包括市投促委、市商务委、市财政局、市金融局、市外事侨务办。",
+    "description": "通过财政奖励机制推动医疗机构国际化，包括建立国际合作中心、获取国际认证及接轨国际商保，并支持中医服务出海。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-c983cd9ff84b",
+      "description": "积极引进外资及港澳台资品牌医疗机构来蓉联合办医，持续推动国际医疗健康合作项目落地。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "对本市三级医院与国外知名医疗机构建立合作中心（研究院、所）的奖励100万元",
+        "专科建设达到国际一流、国内一流、省内一流标准的分别给予奖励500万元、200万元、50万元",
+        "鼓励有条件的医疗机构积极开展国际相关认证，每通过一项高水平国际认证奖励20至500万元",
+        "鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励",
+        "鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元",
+        "（牵头单位：市卫计委；责任单位：市投促委、市商务委、市财政局、市金融局、市外事侨务办）"
+      ],
+      "evidence_block_ids": [
+        "blk-52ccbea0ebeeabd5c22a",
+        "blk-51c03b8e71362ed486b7"
+      ],
+      "page_end": 170,
+      "page_start": 169,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二十五）实施医疗卫生开放合作工程"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施医疗卫生开放合作工程",
+      "type": "分析框架"
+    },
+    "title": "实施医疗卫生开放合作工程"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-9bbe6b493322:bundle-670595f38fa5",
+      "excluded_fragments": [],
+      "ref_id": "ref-9bbe6b493322",
+      "source_blocks": [
+        {
+          "block_id": "blk-52ccbea0ebeeabd5c22a",
+          "page_number": 169,
+          "text": "积极引进外资及港澳台资品牌医疗机构来蓉联合办医，持续推动国际医疗健康合作项目落地。对本市三级医院与国外知名医疗机构建立合作中心（研究院、所）的奖励100万元，专科建设达到国际一流、国内一流、省内一流标准的分别给予奖励500万元、200万元、50万元。鼓励有条件的医疗机构积极开展国际相关"
+        },
+        {
+          "block_id": "blk-51c03b8e71362ed486b7",
+          "page_number": 170,
+          "text": "认证，每通过一项高水平国际认证奖励20至500万元。鼓励本市医疗机构与国际商业医疗保险接轨，每开通一家国际商业医疗保险直付服务并办理实际业务的给予最高5万元奖励。鼓励中医服务走出国门，对建成的重点合作项目奖励5至20万元。（牵头单位：市卫计委；责任单位：市投促委、市商务委、市财政局、市金融局、市外事侨务办）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-c983cd9ff84b",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-9bbe6b493322"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,978 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年期间，针对服务贸易建立了哪些具体的协调机制、支持制度及重点开放行业？",
+    "claims": [
+      {
+        "claim": "建立服务贸易跨部门协调机制。",
+        "claim_id": "claim-27ea71d708f8386f",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "建立服务贸易跨部门协调机制",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+        "claim_id": "claim-6bb90dec49f6eac5",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "建立健全“政府 \\(+\\) 协会 \\(+\\) 企业”协同配合的服务贸易促进和服务体系",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立服务贸易重点企业联系支持制度。",
+        "claim_id": "claim-a12a74a24679f11f",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "建立服务贸易重点企业联系支持制度",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放。",
+        "claim_id": "claim-5120c5d093621f64",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {
+          "object": [
+            "教育",
+            "文化",
+            "医疗",
+            "医药"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "牵头单位为市商务委。",
+        "claim_id": "claim-af5253aabb755c68",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "（牵头单位：市商务委）",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立完善服务贸易公共服务体系和贸易促进平台。",
+        "claim_id": "claim-1c453d432868a09e",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "建立完善服务贸易公共服务体系和贸易促进平台",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动。",
+        "claim_id": "claim-e26045f5ab242027",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {
+          "region": "成都自贸试验区"
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场。",
+        "claim_id": "claim-8fd671841fbc97be",
+        "evidence_block_ids": [
+          "blk-63b43e9ab0d71519e94b"
+        ],
+        "evidence_excerpt": "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-9f0341884b8f",
+        "scope": {
+          "region": "成都自贸试验区"
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-27ea71d708f8386f",
+          "claim-6bb90dec49f6eac5",
+          "claim-a12a74a24679f11f",
+          "claim-5120c5d093621f64",
+          "claim-af5253aabb755c68",
+          "claim-1c453d432868a09e",
+          "claim-e26045f5ab242027",
+          "claim-8fd671841fbc97be"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+        "reason": "该Bundle包含回答分析框架核心槽位（subject, measure, implementer, target_group, scope）所需的所有原子事实，无重复或纯背景信息。"
+      }
+    ],
+    "group_id": "topic-7e0b72d6840b",
+    "members": [
+      {
+        "contribution": "该证据直接提供了服务贸易领域的具体实施措施，包括跨部门协调机制、政企协协同体系、重点企业支持制度、重点开放行业清单（教育、文化等）以及公共服务平台建设，完整回答了分析框架中关于措施、主体和范围的核心义务。",
+        "ref_id": "ref-9f0341884b8f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-27ea71d708f8386f",
+        "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6bb90dec49f6eac5",
+        "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a12a74a24679f11f",
+        "draft_excerpt": "同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5120c5d093621f64",
+        "draft_excerpt": "在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1c453d432868a09e",
+        "draft_excerpt": "通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e26045f5ab242027",
+        "draft_excerpt": "以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8fd671841fbc97be",
+        "draft_excerpt": "支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-af5253aabb755c68",
+        "draft_excerpt": "该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-27ea71d708f8386f",
+          "claim-6bb90dec49f6eac5",
+          "claim-a12a74a24679f11f",
+          "claim-5120c5d093621f64",
+          "claim-e26045f5ab242027",
+          "claim-8fd671841fbc97be"
+        ],
+        "draft_excerpt": "通过建立跨部门协调机制、政企协协同体系及重点企业支持制度，重点推进教育、文化、医疗等行业开放，并依托成都自贸试验区促进要素聚集与跨国经营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2ea66e5a4f3c028b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-27ea71d708f8386f",
+          "claim-6bb90dec49f6eac5"
+        ],
+        "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cc5240e671df0156",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a12a74a24679f11f"
+        ],
+        "draft_excerpt": "同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6c8866b19c7e7cc1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5120c5d093621f64"
+        ],
+        "draft_excerpt": "在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9595197be7801c1b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1c453d432868a09e"
+        ],
+        "draft_excerpt": "通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c5a990e4696aeaa2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e26045f5ab242027"
+        ],
+        "draft_excerpt": "以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ce32b4de717bc41",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8fd671841fbc97be"
+        ],
+        "draft_excerpt": "支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-80edb6f2868b3aa8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-af5253aabb755c68"
+        ],
+        "draft_excerpt": "该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dbbde2d304fe7380",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-27ea71d708f8386f"
+        ],
+        "draft_excerpt": "建立服务贸易跨部门协调机制",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-db8bfbdb1bd79754",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6bb90dec49f6eac5"
+        ],
+        "draft_excerpt": "建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-699b676863560db5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a12a74a24679f11f"
+        ],
+        "draft_excerpt": "建立服务贸易重点企业联系支持制度",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f1ab22394eb184a4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5120c5d093621f64"
+        ],
+        "draft_excerpt": "重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-456aa9251edbe17a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1c453d432868a09e"
+        ],
+        "draft_excerpt": "建立完善服务贸易公共服务体系和贸易促进平台",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6587b7ed414f214a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e26045f5ab242027"
+        ],
+        "draft_excerpt": "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e7944c1cb90bd882",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8fd671841fbc97be"
+        ],
+        "draft_excerpt": "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c6e70ebb399ca864",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-af5253aabb755c68"
+        ],
+        "draft_excerpt": "牵头单位：市商务委",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-326dbc820470753c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-27ea71d708f8386f",
+          "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6bb90dec49f6eac5",
+          "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a12a74a24679f11f",
+          "draft_excerpt": "同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5120c5d093621f64",
+          "draft_excerpt": "在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1c453d432868a09e",
+          "draft_excerpt": "通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e26045f5ab242027",
+          "draft_excerpt": "以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8fd671841fbc97be",
+          "draft_excerpt": "支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-af5253aabb755c68",
+          "draft_excerpt": "该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-27ea71d708f8386f",
+            "claim-6bb90dec49f6eac5",
+            "claim-a12a74a24679f11f",
+            "claim-5120c5d093621f64",
+            "claim-e26045f5ab242027",
+            "claim-8fd671841fbc97be"
+          ],
+          "draft_excerpt": "通过建立跨部门协调机制、政企协协同体系及重点企业支持制度，重点推进教育、文化、医疗等行业开放，并依托成都自贸试验区促进要素聚集与跨国经营。",
+          "finding": "supported",
+          "sentence_id": "sentence-2ea66e5a4f3c028b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-27ea71d708f8386f",
+            "claim-6bb90dec49f6eac5"
+          ],
+          "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-cc5240e671df0156",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a12a74a24679f11f"
+          ],
+          "draft_excerpt": "同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。",
+          "finding": "supported",
+          "sentence_id": "sentence-6c8866b19c7e7cc1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5120c5d093621f64"
+          ],
+          "draft_excerpt": "在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。",
+          "finding": "supported",
+          "sentence_id": "sentence-9595197be7801c1b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1c453d432868a09e"
+          ],
+          "draft_excerpt": "通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。",
+          "finding": "supported",
+          "sentence_id": "sentence-c5a990e4696aeaa2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e26045f5ab242027"
+          ],
+          "draft_excerpt": "以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。",
+          "finding": "supported",
+          "sentence_id": "sentence-1ce32b4de717bc41",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8fd671841fbc97be"
+          ],
+          "draft_excerpt": "支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。",
+          "finding": "supported",
+          "sentence_id": "sentence-80edb6f2868b3aa8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-af5253aabb755c68"
+          ],
+          "draft_excerpt": "该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。",
+          "finding": "supported",
+          "sentence_id": "sentence-dbbde2d304fe7380",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-27ea71d708f8386f"
+          ],
+          "draft_excerpt": "建立服务贸易跨部门协调机制",
+          "finding": "supported",
+          "sentence_id": "sentence-db8bfbdb1bd79754",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6bb90dec49f6eac5"
+          ],
+          "draft_excerpt": "建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系",
+          "finding": "supported",
+          "sentence_id": "sentence-699b676863560db5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a12a74a24679f11f"
+          ],
+          "draft_excerpt": "建立服务贸易重点企业联系支持制度",
+          "finding": "supported",
+          "sentence_id": "sentence-f1ab22394eb184a4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5120c5d093621f64"
+          ],
+          "draft_excerpt": "重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放",
+          "finding": "supported",
+          "sentence_id": "sentence-456aa9251edbe17a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-1c453d432868a09e",
+          "draft_excerpt": "建立完善服务贸易公共服务体系和贸易促进平台",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e26045f5ab242027",
+          "draft_excerpt": "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8fd671841fbc97be",
+          "draft_excerpt": "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-af5253aabb755c68",
+          "draft_excerpt": "牵头单位：市商务委",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1c453d432868a09e"
+          ],
+          "draft_excerpt": "建立完善服务贸易公共服务体系和贸易促进平台",
+          "finding": "supported",
+          "sentence_id": "sentence-6587b7ed414f214a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e26045f5ab242027"
+          ],
+          "draft_excerpt": "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动",
+          "finding": "supported",
+          "sentence_id": "sentence-e7944c1cb90bd882",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8fd671841fbc97be"
+          ],
+          "draft_excerpt": "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场",
+          "finding": "supported",
+          "sentence_id": "sentence-c6e70ebb399ca864",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-af5253aabb755c68"
+          ],
+          "draft_excerpt": "牵头单位：市商务委",
+          "finding": "supported",
+          "sentence_id": "sentence-326dbc820470753c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "518b8ed2a2341e00538e1b7e52a34732d176f6fc18c35ad0ca43ba5472f57ff6",
+  "coverage_history": [
+    {
+      "draft_sha256": "518b8ed2a2341e00538e1b7e52a34732d176f6fc18c35ad0ca43ba5472f57ff6",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-27ea71d708f8386f",
+            "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6bb90dec49f6eac5",
+            "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a12a74a24679f11f",
+            "draft_excerpt": "同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5120c5d093621f64",
+            "draft_excerpt": "在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c453d432868a09e",
+            "draft_excerpt": "通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e26045f5ab242027",
+            "draft_excerpt": "以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8fd671841fbc97be",
+            "draft_excerpt": "支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-af5253aabb755c68",
+            "draft_excerpt": "该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-27ea71d708f8386f",
+              "claim-6bb90dec49f6eac5",
+              "claim-a12a74a24679f11f",
+              "claim-5120c5d093621f64",
+              "claim-e26045f5ab242027",
+              "claim-8fd671841fbc97be"
+            ],
+            "draft_excerpt": "通过建立跨部门协调机制、政企协协同体系及重点企业支持制度，重点推进教育、文化、医疗等行业开放，并依托成都自贸试验区促进要素聚集与跨国经营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2ea66e5a4f3c028b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27ea71d708f8386f",
+              "claim-6bb90dec49f6eac5"
+            ],
+            "draft_excerpt": "重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cc5240e671df0156",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a12a74a24679f11f"
+            ],
+            "draft_excerpt": "同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c8866b19c7e7cc1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5120c5d093621f64"
+            ],
+            "draft_excerpt": "在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9595197be7801c1b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1c453d432868a09e"
+            ],
+            "draft_excerpt": "通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5a990e4696aeaa2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e26045f5ab242027"
+            ],
+            "draft_excerpt": "以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ce32b4de717bc41",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fd671841fbc97be"
+            ],
+            "draft_excerpt": "支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-80edb6f2868b3aa8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-af5253aabb755c68"
+            ],
+            "draft_excerpt": "该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dbbde2d304fe7380",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27ea71d708f8386f"
+            ],
+            "draft_excerpt": "建立服务贸易跨部门协调机制",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db8bfbdb1bd79754",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6bb90dec49f6eac5"
+            ],
+            "draft_excerpt": "建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-699b676863560db5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a12a74a24679f11f"
+            ],
+            "draft_excerpt": "建立服务贸易重点企业联系支持制度",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1ab22394eb184a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5120c5d093621f64"
+            ],
+            "draft_excerpt": "重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-456aa9251edbe17a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1c453d432868a09e"
+            ],
+            "draft_excerpt": "建立完善服务贸易公共服务体系和贸易促进平台",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6587b7ed414f214a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e26045f5ab242027"
+            ],
+            "draft_excerpt": "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e7944c1cb90bd882",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fd671841fbc97be"
+            ],
+            "draft_excerpt": "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6e70ebb399ca864",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-af5253aabb755c68"
+            ],
+            "draft_excerpt": "牵头单位：市商务委",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-326dbc820470753c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n重点推进服务贸易发展，旨在建立服务贸易跨部门协调机制，并建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系。同时，建立服务贸易重点企业联系支持制度，以强化政策落地与主体扶持。\n\n在行业开放方面，重点推进教育、文化、医疗、医药、旅游、全球维修等行业的开放进程。通过建立完善服务贸易公共服务体系和贸易促进平台，为行业发展提供基础支撑。\n\n## 实施路径与载体\n\n以成都自贸试验区为核心载体，促进资金、技术、人才等要素在区内聚集并自由流动。支持区内服务贸易企业开展跨国经营，积极拓展国际市场，提升服务贸易的国际竞争力。\n\n该项工作的牵头单位为市商务委，负责统筹推动上述机制建设与行业开放任务的落实。\n\n- 建立服务贸易跨部门协调机制\n- 建立健全“政府+协会+企业”协同配合的服务贸易促进和服务体系\n- 建立服务贸易重点企业联系支持制度\n- 重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放\n- 建立完善服务贸易公共服务体系和贸易促进平台\n- 促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动\n- 支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场\n- 牵头单位：市商务委",
+    "description": "通过建立跨部门协调机制、政企协协同体系及重点企业支持制度，重点推进教育、文化、医疗等行业开放，并依托成都自贸试验区促进要素聚集与跨国经营。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-7e0b72d6840b",
+      "description": "建立服务贸易跨部门协调机制，建立健全“政府 \\(+\\) 协会 \\(+\\) 企业”协同配合的服务贸易促进和服务体系，建立服务贸易重点企业联系支持制度。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "建立服务贸易跨部门协调机制",
+        "建立健全“政府 \\(+\\) 协会 \\(+\\) 企业”协同配合的服务贸易促进和服务体系",
+        "建立服务贸易重点企业联系支持制度",
+        "重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放",
+        "（牵头单位：市商务委）",
+        "建立完善服务贸易公共服务体系和贸易促进平台",
+        "促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动",
+        "支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场"
+      ],
+      "evidence_block_ids": [
+        "blk-63b43e9ab0d71519e94b"
+      ],
+      "page_end": 147,
+      "page_start": 147,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（五）重点推进服务贸易。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "重点推进服务贸易。",
+      "type": "分析框架"
+    },
+    "title": "重点推进服务贸易"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-9f0341884b8f:bundle-992b2af2c099",
+      "excluded_fragments": [],
+      "ref_id": "ref-9f0341884b8f",
+      "source_blocks": [
+        {
+          "block_id": "blk-63b43e9ab0d71519e94b",
+          "page_number": 147,
+          "text": "建立服务贸易跨部门协调机制，建立健全“政府 \\(+\\) 协会 \\(+\\) 企业”协同配合的服务贸易促进和服务体系，建立服务贸易重点企业联系支持制度。突出对欧开放合作特色，重点推进教育、文化、医疗、医药、旅游、全球维修等行业开放。建立完善服务贸易公共服务体系和贸易促进平台，探索服务贸易发展新模式，促进资金、技术、人才等要素在成都自贸试验区聚集并自由流动。支持成都自贸试验区服务贸易企业开展跨国经营，拓展国际市场。建立便利化的知识产权公共服务平台，大力发展知识产权专业服务业。在海关特殊监管区拓展保税维修、检测、研发等业务，探索发展服务贸易新模式。（牵头单位：市商务委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-7e0b72d6840b",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-9f0341884b8f"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

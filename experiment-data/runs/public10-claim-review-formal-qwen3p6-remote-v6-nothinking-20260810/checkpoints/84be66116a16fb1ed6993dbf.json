@@ -1,0 +1,520 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年期间，针对加工贸易企业建设公共服务平台及促进内外贸协调发展的具体支持措施与责任主体是什么？",
+    "claims": [
+      {
+        "claim": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+        "claim_id": "claim-c71d29747eba1c03",
+        "evidence_block_ids": [
+          "blk-13b9b088ad8a6621abd1"
+        ],
+        "evidence_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+        "evidence_id": "ref-050ed4402e07:bundle-f7ffff763adc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-050ed4402e07",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+        "claim_id": "claim-e25319c8a19d2964",
+        "evidence_block_ids": [
+          "blk-13b9b088ad8a6621abd1"
+        ],
+        "evidence_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+        "evidence_id": "ref-050ed4402e07:bundle-f7ffff763adc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-050ed4402e07",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+        "claim_id": "claim-9ecd336b1b23fbdd",
+        "evidence_block_ids": [
+          "blk-13b9b088ad8a6621abd1"
+        ],
+        "evidence_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+        "evidence_id": "ref-050ed4402e07:bundle-f7ffff763adc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-050ed4402e07",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "责任单位为市经信委、市科技局、市商务委。",
+        "claim_id": "claim-3c34833f71c0ce6e",
+        "evidence_block_ids": [
+          "blk-13b9b088ad8a6621abd1"
+        ],
+        "evidence_excerpt": "（责任单位：市经信委、市科技局、市商务委）",
+        "evidence_id": "ref-050ed4402e07:bundle-f7ffff763adc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-050ed4402e07",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c71d29747eba1c03",
+          "claim-e25319c8a19d2964",
+          "claim-9ecd336b1b23fbdd",
+          "claim-3c34833f71c0ce6e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-050ed4402e07:bundle-f7ffff763adc",
+        "reason": "该Bundle包含回答中心问题所需的全部核心事实，包括支持建设的具体平台类型、合作方向、内外贸融合措施及责任单位，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-163a8125fa66",
+    "members": [
+      {
+        "contribution": "该证据直接列出了支持加工贸易企业建设公共技术研发平台、实验室等公共服务平台的具体政策，明确了鼓励产学研合作及搭建内外贸融合平台的方向，并指定了市经信委、市科技局、市商务委为责任单位，完整覆盖了分析框架中的措施、主体及目标。",
+        "ref_id": "ref-050ed4402e07",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-c71d29747eba1c03",
+        "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e25319c8a19d2964",
+        "draft_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9ecd336b1b23fbdd",
+        "draft_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3c34833f71c0ce6e",
+        "draft_excerpt": "责任单位：市经信委、市科技局、市商务委",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-c71d29747eba1c03",
+          "claim-e25319c8a19d2964"
+        ],
+        "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台，并鼓励企业与高等院校和科研院所合作以促进技术进步。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b4d68d8d443c5217",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c71d29747eba1c03"
+        ],
+        "draft_excerpt": "建设公共服务平台旨在支持加工贸易企业依托工业园区，构建包括公共技术研发平台、公共实验室、产品设计中心以及标准和检测认证中心在内的综合性公共服务体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9bd53b83c064f08c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9ecd336b1b23fbdd"
+        ],
+        "draft_excerpt": "通过搭建内外贸融合发展平台，促进内外企业之间的沟通、交流与采购对接，从而推动内外贸易的协调发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-da31949270e8dad2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3c34833f71c0ce6e",
+          "claim-e25319c8a19d2964"
+        ],
+        "draft_excerpt": "该举措由责任单位市经信委、市科技局、市商务委共同负责实施，旨在通过鼓励企业与高等院校和科研院所的合作，有效促进企业技术进步。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-446737998db89132",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c71d29747eba1c03"
+        ],
+        "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cd8857f91b059a00",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e25319c8a19d2964"
+        ],
+        "draft_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2a02a8c4db08b461",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9ecd336b1b23fbdd"
+        ],
+        "draft_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a0374211dcf52ca0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3c34833f71c0ce6e"
+        ],
+        "draft_excerpt": "责任单位：市经信委、市科技局、市商务委",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f4b87767621c43ab",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-c71d29747eba1c03",
+          "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e25319c8a19d2964",
+          "draft_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9ecd336b1b23fbdd",
+          "draft_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3c34833f71c0ce6e",
+          "draft_excerpt": "责任单位：市经信委、市科技局、市商务委",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-c71d29747eba1c03",
+            "claim-e25319c8a19d2964"
+          ],
+          "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台，并鼓励企业与高等院校和科研院所合作以促进技术进步。",
+          "finding": "supported",
+          "sentence_id": "sentence-b4d68d8d443c5217",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c71d29747eba1c03"
+          ],
+          "draft_excerpt": "建设公共服务平台旨在支持加工贸易企业依托工业园区，构建包括公共技术研发平台、公共实验室、产品设计中心以及标准和检测认证中心在内的综合性公共服务体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-9bd53b83c064f08c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9ecd336b1b23fbdd"
+          ],
+          "draft_excerpt": "通过搭建内外贸融合发展平台，促进内外企业之间的沟通、交流与采购对接，从而推动内外贸易的协调发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-da31949270e8dad2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3c34833f71c0ce6e",
+            "claim-e25319c8a19d2964"
+          ],
+          "draft_excerpt": "该举措由责任单位市经信委、市科技局、市商务委共同负责实施，旨在通过鼓励企业与高等院校和科研院所的合作，有效促进企业技术进步。",
+          "finding": "supported",
+          "sentence_id": "sentence-446737998db89132",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c71d29747eba1c03"
+          ],
+          "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+          "finding": "supported",
+          "sentence_id": "sentence-cd8857f91b059a00",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e25319c8a19d2964"
+          ],
+          "draft_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+          "finding": "supported",
+          "sentence_id": "sentence-2a02a8c4db08b461",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9ecd336b1b23fbdd"
+          ],
+          "draft_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-a0374211dcf52ca0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3c34833f71c0ce6e"
+          ],
+          "draft_excerpt": "责任单位：市经信委、市科技局、市商务委",
+          "finding": "supported",
+          "sentence_id": "sentence-f4b87767621c43ab",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "aca332fd7bc08d08fe5058f9eeeacdb839e4ef02f0e3a364db2ba9c4800f2008",
+  "coverage_history": [
+    {
+      "draft_sha256": "aca332fd7bc08d08fe5058f9eeeacdb839e4ef02f0e3a364db2ba9c4800f2008",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-c71d29747eba1c03",
+            "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e25319c8a19d2964",
+            "draft_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9ecd336b1b23fbdd",
+            "draft_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c34833f71c0ce6e",
+            "draft_excerpt": "责任单位：市经信委、市科技局、市商务委",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-c71d29747eba1c03",
+              "claim-e25319c8a19d2964"
+            ],
+            "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台，并鼓励企业与高等院校和科研院所合作以促进技术进步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b4d68d8d443c5217",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c71d29747eba1c03"
+            ],
+            "draft_excerpt": "建设公共服务平台旨在支持加工贸易企业依托工业园区，构建包括公共技术研发平台、公共实验室、产品设计中心以及标准和检测认证中心在内的综合性公共服务体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9bd53b83c064f08c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9ecd336b1b23fbdd"
+            ],
+            "draft_excerpt": "通过搭建内外贸融合发展平台，促进内外企业之间的沟通、交流与采购对接，从而推动内外贸易的协调发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da31949270e8dad2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c34833f71c0ce6e",
+              "claim-e25319c8a19d2964"
+            ],
+            "draft_excerpt": "该举措由责任单位市经信委、市科技局、市商务委共同负责实施，旨在通过鼓励企业与高等院校和科研院所的合作，有效促进企业技术进步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-446737998db89132",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c71d29747eba1c03"
+            ],
+            "draft_excerpt": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd8857f91b059a00",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e25319c8a19d2964"
+            ],
+            "draft_excerpt": "鼓励企业与高等院校和科研院所合作，促进企业技术进步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2a02a8c4db08b461",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9ecd336b1b23fbdd"
+            ],
+            "draft_excerpt": "搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a0374211dcf52ca0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c34833f71c0ce6e"
+            ],
+            "draft_excerpt": "责任单位：市经信委、市科技局、市商务委",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f4b87767621c43ab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n建设公共服务平台旨在支持加工贸易企业依托工业园区，构建包括公共技术研发平台、公共实验室、产品设计中心以及标准和检测认证中心在内的综合性公共服务体系。\n\n通过搭建内外贸融合发展平台，促进内外企业之间的沟通、交流与采购对接，从而推动内外贸易的协调发展。\n\n## 证据与影响\n\n该举措由责任单位市经信委、市科技局、市商务委共同负责实施，旨在通过鼓励企业与高等院校和科研院所的合作，有效促进企业技术进步。\n\n- 支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。\n- 鼓励企业与高等院校和科研院所合作，促进企业技术进步。\n- 搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。\n- 责任单位：市经信委、市科技局、市商务委",
+    "description": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台，并鼓励企业与高等院校和科研院所合作以促进技术进步。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-163a8125fa66",
+      "description": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "#### （六）建设公共服务平台",
+        "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。鼓励企业与高等院校和科研院所合作，促进企业技术进步。搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。（责任单位：市经信委、市科技局、市商务委）"
+      ],
+      "evidence_block_ids": [
+        "blk-13b9b088ad8a6621abd1"
+      ],
+      "page_end": 181,
+      "page_start": 181,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（六）建设公共服务平台"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "建设公共服务平台",
+      "type": "分析框架"
+    },
+    "title": "建设公共服务平台"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-050ed4402e07:bundle-f7ffff763adc",
+      "excluded_fragments": [],
+      "ref_id": "ref-050ed4402e07",
+      "source_blocks": [
+        {
+          "block_id": "blk-13b9b088ad8a6621abd1",
+          "page_number": 181,
+          "text": "支持加工贸易企业依托工业园区建设公共技术研发平台、公共实验室、产品设计中心和标准、检测认证中心等公共服务平台。鼓励企业与高等院校和科研院所合作，促进企业技术进步。搭建内外贸融合发展平台，促进内外企业沟通、交流和采购对接，推动内外贸协调发展。（责任单位：市经信委、市科技局、市商务委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-163a8125fa66",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-050ed4402e07"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

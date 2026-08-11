@@ -1,0 +1,1485 @@
+{
+  "contract": {
+    "canonical_question": "西成高铁与成自宜高铁的建成通车如何具体拓展成都对外高速铁路网络并提升其枢纽辐射能级？",
+    "claims": [
+      {
+        "claim": "2017年12月6日，成都至西安的高铁正式开通运营。",
+        "claim_id": "claim-838088cda76045a8",
+        "evidence_block_ids": [
+          "blk-1170ed0ba232fad4628e"
+        ],
+        "evidence_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西成高铁是中国第一条北上出川的高速铁路。",
+        "claim_id": "claim-7f1f3cfe50e28b31",
+        "evidence_block_ids": [
+          "blk-b7bc89dc35c1bc4b6b02"
+        ],
+        "evidence_excerpt": "是中国第一条北上出川的高速铁路",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西成高铁全长658千米，共设有成都东、绵阳、江油等22个车站。",
+        "claim_id": "claim-f2662fec64a3d75a",
+        "evidence_block_ids": [
+          "blk-b7bc89dc35c1bc4b6b02",
+          "blk-ad098ae605a8386b8647"
+        ],
+        "evidence_excerpt": "西成高铁全长658千米，共设有成都东、绵阳、江油等22个车站",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109,
+          110
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西成高铁全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+        "claim_id": "claim-5d6cb50cc57e3a61",
+        "evidence_block_ids": [
+          "blk-ad098ae605a8386b8647"
+        ],
+        "evidence_excerpt": "全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          110
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西成高铁连通了“成都一重庆”和“关中一天水”两大经济区。",
+        "claim_id": "claim-02c3dafc5e422f24",
+        "evidence_block_ids": [
+          "blk-43501bb4623b6570ad3c"
+        ],
+        "evidence_excerpt": "西城高铁还连通了“成都一重庆”和“关中一天水”两大经济区",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          110
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西成高铁是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步。",
+        "claim_id": "claim-3e4323907e5860ea",
+        "evidence_block_ids": [
+          "blk-43501bb4623b6570ad3c"
+        ],
+        "evidence_excerpt": "是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          110
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西成高铁标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+        "claim_id": "claim-8aaf0f3124968318",
+        "evidence_block_ids": [
+          "blk-43501bb4623b6570ad3c"
+        ],
+        "evidence_excerpt": "这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          110
+        ],
+        "ref_id": "ref-24bb1e491755",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2023年12月26日成自宜列车正式通车。",
+        "claim_id": "claim-aad041dc1eea9f41",
+        "evidence_block_ids": [
+          "blk-77f162a87ec51dcc6b6e"
+        ],
+        "evidence_excerpt": "2023年12月26日成自宜列车正式通车",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          195
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分。",
+        "claim_id": "claim-a7e023e6c83c0932",
+        "evidence_block_ids": [
+          "blk-77f162a87ec51dcc6b6e"
+        ],
+        "evidence_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          195
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成自宜高铁全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站。",
+        "claim_id": "claim-52e24c0571d269e0",
+        "evidence_block_ids": [
+          "blk-77f162a87ec51dcc6b6e"
+        ],
+        "evidence_excerpt": "全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          195
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成自宜高铁以350公里时速实现成都与川南经济区的快速连接。",
+        "claim_id": "claim-8bf3c609b5c137e9",
+        "evidence_block_ids": [
+          "blk-e821c5105d7bb5e2b428"
+        ],
+        "evidence_excerpt": "成自宜高铁以350公里时速实现成都与川南经济区的快速连接",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          196
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都到自贡仅需40分钟，到宜宾70分钟。",
+        "claim_id": "claim-0fd20e3b393c64ef",
+        "evidence_block_ids": [
+          "blk-e821c5105d7bb5e2b428"
+        ],
+        "evidence_excerpt": "成都到自贡仅需40分钟，到宜宾70分钟",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          196
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+        "claim_id": "claim-faa695244bb7d907",
+        "evidence_block_ids": [
+          "blk-e821c5105d7bb5e2b428"
+        ],
+        "evidence_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          196
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+        "claim_id": "claim-52458d8c42b80dea",
+        "evidence_block_ids": [
+          "blk-41a1354d27977e5f02ac"
+        ],
+        "evidence_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          197
+        ],
+        "ref_id": "ref-9d904a5c74ff",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-838088cda76045a8",
+          "claim-7f1f3cfe50e28b31",
+          "claim-f2662fec64a3d75a",
+          "claim-5d6cb50cc57e3a61",
+          "claim-02c3dafc5e422f24",
+          "claim-3e4323907e5860ea",
+          "claim-8aaf0f3124968318"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+        "reason": "包含西成高铁开通时间、线路地位、时空缩短数据及枢纽功能提升等核心事实，直接回答中心问题。"
+      },
+      {
+        "claim_ids": [
+          "claim-aad041dc1eea9f41",
+          "claim-a7e023e6c83c0932",
+          "claim-52e24c0571d269e0",
+          "claim-8bf3c609b5c137e9",
+          "claim-0fd20e3b393c64ef",
+          "claim-faa695244bb7d907",
+          "claim-52458d8c42b80dea"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+        "reason": "包含成自宜高铁通车时间、线路地位、时空缩短数据及区域连接成效等核心事实，直接回答中心问题。"
+      }
+    ],
+    "group_id": "topic-2298bb13acb5",
+    "members": [
+      {
+        "contribution": "提供西成高铁作为北上出川首条高铁的开通事实，阐述其缩短时空距离、连接两大经济区及融入国家高铁网的具体成效。",
+        "ref_id": "ref-24bb1e491755",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成自宜高铁作为京昆通道组成部分的通车事实，阐述其串联川南经济区、形成半小时经济圈及完善对外大通道的具体成效。",
+        "ref_id": "ref-9d904a5c74ff",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-838088cda76045a8",
+        "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7f1f3cfe50e28b31",
+        "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f2662fec64a3d75a",
+        "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5d6cb50cc57e3a61",
+        "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-02c3dafc5e422f24",
+        "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3e4323907e5860ea",
+        "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8aaf0f3124968318",
+        "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-aad041dc1eea9f41",
+        "draft_excerpt": "2023年12月26日成自宜列车正式通车。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a7e023e6c83c0932",
+        "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-52e24c0571d269e0",
+        "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8bf3c609b5c137e9",
+        "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0fd20e3b393c64ef",
+        "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-faa695244bb7d907",
+        "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-52458d8c42b80dea",
+        "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+        "finding": "draft_excerpt contains the required claim text.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+        "finding": "The sentence contains interpretive judgments ('标志着...构建起...新动脉', '大幅提升了...辐射能级') that are not explicitly supported by the specific evidence excerpts in the fact",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6bbb8032e54c0a2b",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-838088cda76045a8"
+        ],
+        "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营。",
+        "finding": "Matches claim-838088cda76045a8 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d0d128701753e0cd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7f1f3cfe50e28b31",
+          "claim-f2662fec64a3d75a",
+          "claim-5d6cb50cc57e3a61"
+        ],
+        "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+        "finding": "Contains facts supporting claim-7f1f3cfe50e28b31, claim-f2662fec64a3d75a, and claim-5d6cb50cc57e3a61.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1d02f785be6d8791",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-02c3dafc5e422f24",
+          "claim-3e4323907e5860ea",
+          "claim-8aaf0f3124968318"
+        ],
+        "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+        "finding": "Contains facts supporting claim-02c3dafc5e422f24, claim-3e4323907e5860ea, and claim-8aaf0f3124968318.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fd20bc0ec98f0670",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-aad041dc1eea9f41"
+        ],
+        "draft_excerpt": "2023年12月26日成自宜列车正式通车。",
+        "finding": "Matches claim-aad041dc1eea9f41 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f09e854fdb147308",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a7e023e6c83c0932",
+          "claim-52e24c0571d269e0",
+          "claim-8bf3c609b5c137e9",
+          "claim-0fd20e3b393c64ef"
+        ],
+        "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+        "finding": "Contains facts supporting claim-a7e023e6c83c0932, claim-52e24c0571d269e0, claim-8bf3c609b5c137e9, and claim-0fd20e3b393c64ef.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-221b1f779005a790",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-faa695244bb7d907"
+        ],
+        "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+        "finding": "Matches claim-faa695244bb7d907 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-337de5837382df3d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-52458d8c42b80dea"
+        ],
+        "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+        "finding": "Matches claim-52458d8c42b80dea exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ba1fe0c4c0fcf6f3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+        "finding": "The sentence contains interpretive judgments ('标志着...构建起...新动脉', '大幅提升了...辐射能级') that are not explicitly supported by the specific evidence excerpts in the fact"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-838088cda76045a8",
+          "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7f1f3cfe50e28b31",
+          "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f2662fec64a3d75a",
+          "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5d6cb50cc57e3a61",
+          "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-02c3dafc5e422f24",
+          "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3e4323907e5860ea",
+          "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8aaf0f3124968318",
+          "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-aad041dc1eea9f41",
+          "draft_excerpt": "2023年12月26日成自宜列车正式通车。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a7e023e6c83c0932",
+          "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-52e24c0571d269e0",
+          "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8bf3c609b5c137e9",
+          "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0fd20e3b393c64ef",
+          "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-faa695244bb7d907",
+          "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-52458d8c42b80dea",
+          "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+          "finding": "draft_excerpt contains the required claim text.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+          "finding": "The sentence contains interpretive judgments ('标志着...构建起...新动脉', '大幅提升了...辐射能级') that are not explicitly supported by the specific evidence excerpts in the fact",
+          "sentence_id": "sentence-6bbb8032e54c0a2b",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-838088cda76045a8"
+          ],
+          "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营。",
+          "finding": "Matches claim-838088cda76045a8 exactly.",
+          "sentence_id": "sentence-d0d128701753e0cd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7f1f3cfe50e28b31",
+            "claim-f2662fec64a3d75a",
+            "claim-5d6cb50cc57e3a61"
+          ],
+          "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+          "finding": "Contains facts supporting claim-7f1f3cfe50e28b31, claim-f2662fec64a3d75a, and claim-5d6cb50cc57e3a61.",
+          "sentence_id": "sentence-1d02f785be6d8791",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-02c3dafc5e422f24",
+            "claim-3e4323907e5860ea",
+            "claim-8aaf0f3124968318"
+          ],
+          "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+          "finding": "Contains facts supporting claim-02c3dafc5e422f24, claim-3e4323907e5860ea, and claim-8aaf0f3124968318.",
+          "sentence_id": "sentence-fd20bc0ec98f0670",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-aad041dc1eea9f41"
+          ],
+          "draft_excerpt": "2023年12月26日成自宜列车正式通车。",
+          "finding": "Matches claim-aad041dc1eea9f41 exactly.",
+          "sentence_id": "sentence-f09e854fdb147308",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a7e023e6c83c0932",
+            "claim-52e24c0571d269e0",
+            "claim-8bf3c609b5c137e9",
+            "claim-0fd20e3b393c64ef"
+          ],
+          "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+          "finding": "Contains facts supporting claim-a7e023e6c83c0932, claim-52e24c0571d269e0, claim-8bf3c609b5c137e9, and claim-0fd20e3b393c64ef.",
+          "sentence_id": "sentence-221b1f779005a790",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-faa695244bb7d907"
+          ],
+          "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+          "finding": "Matches claim-faa695244bb7d907 exactly.",
+          "sentence_id": "sentence-337de5837382df3d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-52458d8c42b80dea"
+          ],
+          "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+          "finding": "Matches claim-52458d8c42b80dea exactly.",
+          "sentence_id": "sentence-ba1fe0c4c0fcf6f3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+          "finding": "The sentence contains interpretive judgments ('标志着...构建起...新动脉', '大幅提升了...辐射能级') that are not explicitly supported by the specific evidence excerpts in the fact"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "04d9c0c7faeb85d868bfee4a9d02af9468dba827f1bb3dd2b61916df365e30f6",
+  "coverage_history": [
+    {
+      "draft_sha256": "8e5691ef293b1ab4276d474ccb59daef87412a34b2db5f36a8c288b5902e2933",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-7f1f3cfe50e28b31",
+            "draft_excerpt": "西成高铁是国家中长期铁路网规划“八纵八横”高速铁路主通道中京昆通道的重要组成部分，与徐州至兰州高铁、大西高铁、成渝高铁相连接，是中国第一条北上出川的高速铁路。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a7e023e6c83c0932",
+            "draft_excerpt": "成自宜高铁同样是“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府等12座车站。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f2662fec64a3d75a",
+            "draft_excerpt": "西成高铁全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5d6cb50cc57e3a61",
+            "draft_excerpt": "西成高铁全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8bf3c609b5c137e9",
+            "draft_excerpt": "成自宜高铁是四川第一条设计和新建速度为350公里/小时的高铁，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0fd20e3b393c64ef",
+            "draft_excerpt": "成自宜高铁是四川第一条设计和新建速度为350公里/小时的高铁，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8aaf0f3124968318",
+            "draft_excerpt": "西成高铁建成后，使成都与西安实现了“同城效应”，拓展了成渝城市群的辐射范围，标志着成都真正融入国家高速铁路网。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52458d8c42b80dea",
+            "draft_excerpt": "成自宜高铁的开通将有效缩短成都与眉山、乐山、资阳、内江、自贡、宜宾等城市的时空距离，并与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-838088cda76045a8",
+            "draft_excerpt": "西成高铁：2017年12月6日正式开通运营，是我国首条穿越秦岭山脉的高速铁路。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aad041dc1eea9f41",
+            "draft_excerpt": "成自宜高铁：2023年12月26日正式通车，是全球首条实现不减速直接下穿机场高铁。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02c3dafc5e422f24",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-3e4323907e5860ea",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-52e24c0571d269e0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-faa695244bb7d907",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [
+          {
+            "claim_ids": [
+              "claim-7f1f3cfe50e28b31"
+            ],
+            "draft_excerpt": "西成高铁是国家中长期铁路网规划“八纵八横”高速铁路主通道中京昆通道的重要组成部分，与徐州至兰州高铁、大西高铁、成渝高铁相连接，是中国第一条北上出川的高速铁路。",
+            "finding": "scope_violation"
+          },
+          {
+            "claim_ids": [
+              "claim-8bf3c609b5c137e9"
+            ],
+            "draft_excerpt": "成自宜高铁是四川第一条设计和新建速度为350公里/小时的高铁，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "scope_violation"
+          },
+          {
+            "claim_ids": [
+              "claim-838088cda76045a8"
+            ],
+            "draft_excerpt": "西成高铁：2017年12月6日正式开通运营，是我国首条穿越秦岭山脉的高速铁路。",
+            "finding": "scope_violation"
+          },
+          {
+            "claim_ids": [
+              "claim-aad041dc1eea9f41"
+            ],
+            "draft_excerpt": "成自宜高铁：2023年12月26日正式通车，是全球首条实现不减速直接下穿机场高铁。",
+            "finding": "scope_violation"
+          }
+        ],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6bbb8032e54c0a2b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab3a8a5e71aa9200",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7f1f3cfe50e28b31"
+            ],
+            "draft_excerpt": "西成高铁是国家中长期铁路网规划“八纵八横”高速铁路主通道中京昆通道的重要组成部分，与徐州至兰州高铁、大西高铁、成渝高铁相连接，是中国第一条北上出川的高速铁路。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e781694ef6d8e2a6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a7e023e6c83c0932"
+            ],
+            "draft_excerpt": "成自宜高铁同样是“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府等12座车站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-efda08a9880f41a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2662fec64a3d75a",
+              "claim-5d6cb50cc57e3a61"
+            ],
+            "draft_excerpt": "西成高铁全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-536514ab09c22c15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8bf3c609b5c137e9",
+              "claim-0fd20e3b393c64ef"
+            ],
+            "draft_excerpt": "成自宜高铁是四川第一条设计和新建速度为350公里/小时的高铁，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f3b187e2f9a74b9d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8aaf0f3124968318"
+            ],
+            "draft_excerpt": "西成高铁建成后，使成都与西安实现了“同城效应”，拓展了成渝城市群的辐射范围，标志着成都真正融入国家高速铁路网。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-442099e199139d54",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52458d8c42b80dea"
+            ],
+            "draft_excerpt": "成自宜高铁的开通将有效缩短成都与眉山、乐山、资阳、内江、自贡、宜宾等城市的时空距离，并与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c335cd35e963a75d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-838088cda76045a8"
+            ],
+            "draft_excerpt": "西成高铁：2017年12月6日正式开通运营，是我国首条穿越秦岭山脉的高速铁路。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e69380ec295c3e73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aad041dc1eea9f41"
+            ],
+            "draft_excerpt": "成自宜高铁：2023年12月26日正式通车，是全球首条实现不减速直接下穿机场高铁。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-191772a9663956fd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "西成高铁是国家中长期铁路网规划“八纵八横”高速铁路主通道中京昆通道的重要组成部分，与徐州至兰州高铁、大西高铁、成渝高铁相连接，是中国第一条北上出川的高速铁路。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成自宜高铁是四川第一条设计和新建速度为350公里/小时的高铁，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "西成高铁建成后，使成都与西安实现了“同城效应”，拓展了成渝城市群的辐射范围，标志着成都真正融入国家高速铁路网。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成自宜高铁的开通将有效缩短成都与眉山、乐山、资阳、内江、自贡、宜宾等城市的时空距离，并与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "西成高铁：2017年12月6日正式开通运营，是我国首条穿越秦岭山脉的高速铁路。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成自宜高铁：2023年12月26日正式通车，是全球首条实现不减速直接下穿机场高铁。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e81f7681dc7f697f4ce32f4dfc7f24cd471a38bd7e25e057088753b75c1e9dbe",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-7f1f3cfe50e28b31",
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f2662fec64a3d75a",
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5d6cb50cc57e3a61",
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02c3dafc5e422f24",
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e4323907e5860ea",
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8aaf0f3124968318",
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a7e023e6c83c0932",
+            "draft_excerpt": "成自宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52e24c0571d269e0",
+            "draft_excerpt": "成自宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8bf3c609b5c137e9",
+            "draft_excerpt": "成自宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0fd20e3b393c64ef",
+            "draft_excerpt": "成自宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-faa695244bb7d907",
+            "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52458d8c42b80dea",
+            "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-838088cda76045a8",
+            "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aad041dc1eea9f41",
+            "draft_excerpt": "2023年12月26日成自宜列车正式通车",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6bbb8032e54c0a2b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab3a8a5e71aa9200",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7f1f3cfe50e28b31",
+              "claim-f2662fec64a3d75a",
+              "claim-5d6cb50cc57e3a61"
+            ],
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d02f785be6d8791",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02c3dafc5e422f24",
+              "claim-3e4323907e5860ea",
+              "claim-8aaf0f3124968318"
+            ],
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd20bc0ec98f0670",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a7e023e6c83c0932",
+              "claim-52e24c0571d269e0",
+              "claim-8bf3c609b5c137e9",
+              "claim-0fd20e3b393c64ef"
+            ],
+            "draft_excerpt": "成自宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5ae620a1a3b8e79e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-faa695244bb7d907"
+            ],
+            "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-baa0c955a50b639f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52458d8c42b80dea"
+            ],
+            "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a7ad0627c472ba9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-838088cda76045a8"
+            ],
+            "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0abf3dc46438ce53",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aad041dc1eea9f41"
+            ],
+            "draft_excerpt": "2023年12月26日成自宜列车正式通车",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a358a102fc039e47",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "04d9c0c7faeb85d868bfee4a9d02af9468dba827f1bb3dd2b61916df365e30f6",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-838088cda76045a8",
+            "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7f1f3cfe50e28b31",
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f2662fec64a3d75a",
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5d6cb50cc57e3a61",
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02c3dafc5e422f24",
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e4323907e5860ea",
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8aaf0f3124968318",
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aad041dc1eea9f41",
+            "draft_excerpt": "2023年12月26日成自宜列车正式通车。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a7e023e6c83c0932",
+            "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52e24c0571d269e0",
+            "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8bf3c609b5c137e9",
+            "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0fd20e3b393c64ef",
+            "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-faa695244bb7d907",
+            "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52458d8c42b80dea",
+            "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "The sentence contains interpretive judgments ('标志着...构建起...新动脉', '大幅提升了...辐射能级') that are not explicitly supported by the specific evidence excerpts in the fact",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6bbb8032e54c0a2b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-838088cda76045a8"
+            ],
+            "draft_excerpt": "2017年12月6日，成都至西安的高铁正式开通运营。",
+            "finding": "Matches claim-838088cda76045a8 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0d128701753e0cd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7f1f3cfe50e28b31",
+              "claim-f2662fec64a3d75a",
+              "claim-5d6cb50cc57e3a61"
+            ],
+            "draft_excerpt": "西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。",
+            "finding": "Contains facts supporting claim-7f1f3cfe50e28b31, claim-f2662fec64a3d75a, and claim-5d6cb50cc57e3a61.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d02f785be6d8791",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02c3dafc5e422f24",
+              "claim-3e4323907e5860ea",
+              "claim-8aaf0f3124968318"
+            ],
+            "draft_excerpt": "西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。",
+            "finding": "Contains facts supporting claim-02c3dafc5e422f24, claim-3e4323907e5860ea, and claim-8aaf0f3124968318.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd20bc0ec98f0670",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aad041dc1eea9f41"
+            ],
+            "draft_excerpt": "2023年12月26日成自宜列车正式通车。",
+            "finding": "Matches claim-aad041dc1eea9f41 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f09e854fdb147308",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a7e023e6c83c0932",
+              "claim-52e24c0571d269e0",
+              "claim-8bf3c609b5c137e9",
+              "claim-0fd20e3b393c64ef"
+            ],
+            "draft_excerpt": "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。",
+            "finding": "Contains facts supporting claim-a7e023e6c83c0932, claim-52e24c0571d269e0, claim-8bf3c609b5c137e9, and claim-0fd20e3b393c64ef.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-221b1f779005a790",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-faa695244bb7d907"
+            ],
+            "draft_excerpt": "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。",
+            "finding": "Matches claim-faa695244bb7d907 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-337de5837382df3d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52458d8c42b80dea"
+            ],
+            "draft_excerpt": "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+            "finding": "Matches claim-52458d8c42b80dea exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba1fe0c4c0fcf6f3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+            "finding": "The sentence contains interpretive judgments ('标志着...构建起...新动脉', '大幅提升了...辐射能级') that are not explicitly supported by the specific evidence excerpts in the fact"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2017年12月6日，成都至西安的高铁正式开通运营。西成高铁是中国第一条北上出川的高速铁路，全长658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时。西成高铁还连通了“成都一重庆”和“关中一天水”两大经济区，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步，这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。\n\n2023年12月26日成自宜列车正式通车。成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站，成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道。",
+    "description": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+    "ref": {
+      "asset_hints": [
+        "image-044",
+        "image-139"
+      ],
+      "concept_id": "topic-2298bb13acb5",
+      "description": "西成高铁与成自宜高铁的相继建成通车，标志着成都成功构建起连接西北（西安）与川南经济区（自贡、宜宾）的快速铁路新动脉，大幅提升了成都作为国家综合交通枢纽的辐射能级与区域联通效率。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2017年12月6日，成都至西安的高铁正式开通运营",
+        "是中国第一条北上出川的高速铁路",
+        "西成高铁全长658千米，共设有成都东、绵阳、江油等22个车站",
+        "全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时",
+        "西城高铁还连通了“成都一重庆”和“关中一天水”两大经济区",
+        "是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步",
+        "这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能",
+        "2023年12月26日成自宜列车正式通车",
+        "成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分",
+        "全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站",
+        "成自宜高铁以350公里时速实现成都与川南经济区的快速连接",
+        "成都到自贡仅需40分钟，到宜宾70分钟",
+        "随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”",
+        "成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道"
+      ],
+      "evidence_block_ids": [
+        "blk-1170ed0ba232fad4628e",
+        "blk-b7bc89dc35c1bc4b6b02",
+        "blk-ad098ae605a8386b8647",
+        "blk-43501bb4623b6570ad3c",
+        "blk-77f162a87ec51dcc6b6e",
+        "blk-e821c5105d7bb5e2b428",
+        "blk-41a1354d27977e5f02ac"
+      ],
+      "page_end": 197,
+      "page_start": 109,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都对外高铁网络关键动脉建设",
+      "type": "分析框架"
+    },
+    "title": "成都对外高铁网络关键动脉建设"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-24bb1e491755:bundle-6f1b9fa64646",
+      "excluded_fragments": [],
+      "ref_id": "ref-24bb1e491755",
+      "source_blocks": [
+        {
+          "block_id": "blk-1170ed0ba232fad4628e",
+          "page_number": 109,
+          "text": "2017年12月6日，成都至西安的高铁正式开通运营，这是我国首条穿越秦岭山脉的高速铁路，彻底改变了过去西南到西北地区交通不便的格局，被称为“中国最穿越高铁”。"
+        },
+        {
+          "block_id": "blk-f8e2b9ff686cfe473723",
+          "page_number": 109,
+          "text": "原始 PDF 第 109 页图片"
+        },
+        {
+          "block_id": "blk-23499b70bb82b8793d81",
+          "page_number": 109,
+          "text": "图3-9 西成高铁路线图"
+        },
+        {
+          "block_id": "blk-b7bc89dc35c1bc4b6b02",
+          "page_number": 109,
+          "text": "西成高铁是国家中长期铁路网规划“八纵八横”高速铁路主通道中京昆通道的重要组成部分，与徐州至兰州高铁、大西高铁、成渝高铁相连接，是中国第一条北上出川的高速铁路，是我国快速客运通道的重要组成部分。西成高铁全长"
+        },
+        {
+          "block_id": "blk-ad098ae605a8386b8647",
+          "page_number": 110,
+          "text": "658千米，共设有成都东、绵阳、江油等22个车站，全线贯通后，成都至西安两地旅途时间从以往的11个小时缩短至4小时，为中国西部交通版图增添了新“动脉”。西城高铁建设施工创新性的克服了地质条件复杂、桥隧比例大、山区大坡度等诸多技术难题，同时还率先使用了无线信号释放技术，是中国首条4G手机信号设备全覆盖的山区高铁。"
+        },
+        {
+          "block_id": "blk-43501bb4623b6570ad3c",
+          "page_number": 110,
+          "text": "西成高铁建成后，对于促进成都经济社会发展具有重要意义。一方面，西成高铁的建成通车使成都与西安实现了“同城效应”，为成都和西安实现产业互补创造了条件，对推动两地旅游、信息产业、科研、教育等领域合作发展具有积极意义。另一方面，西城高铁还连通了“成都一重庆”和“关中一天水”两大经济区，拓展了成渝城市群的辐射范围。此外，西成高铁进一步完善了区域高速铁路网络，是成都构建至武汉、西安、贵阳、昆明4小时，至京津冀、长三角、珠三角经济区8小时的高铁交通圈迈出的重要一步。这标志着成都真正融入国家高速铁路网，显著增强了成都国际性综合交通枢纽功能。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-9d904a5c74ff:bundle-807ee6aef455",
+      "excluded_fragments": [],
+      "ref_id": "ref-9d904a5c74ff",
+      "source_blocks": [
+        {
+          "block_id": "blk-77f162a87ec51dcc6b6e",
+          "page_number": 195,
+          "text": "国家发展和改革委员会、交通运输部、中国国家铁路集团有限公司共同发布的《中长期铁路网规划》提出要构建以“八纵八横”主通道为骨架、区域连接线衔接、城际铁路补充的高速铁路网。成宜高铁是我国“八纵八横”高速铁路网京昆通道的重要组成部分，全长约300公里，共设成都东、天府、三岔湖、天府机场、资阳西、资中西、威远、自贡、沿滩、南溪北、宜宾东、宜宾12座车站。2023年12月26日成自宜列车正式通车。"
+        },
+        {
+          "block_id": "blk-ba597ee73c9caf16179d",
+          "page_number": 196,
+          "text": "原始 PDF 第 196 页图片"
+        },
+        {
+          "block_id": "blk-5cc4378765e3e63a37d8",
+          "page_number": 196,
+          "text": "图5-3 成自宜高速铁路走向示意图"
+        },
+        {
+          "block_id": "blk-bb07dcabef920dee5807",
+          "page_number": 196,
+          "text": "一是采用领先设计标准。成自宜高铁是四川第一条设计和新建速度为350公里/小时的高铁，也是目前四川速度最快的高铁，历经五年时间建成。同时，成自宜高铁是全球首条实现不减速直接下穿机场高铁，成自宜高铁通过天府机场隧道下穿成都天府国际机场，在世界上首次尝试了高铁不减速直接下穿航站楼、滑行区和跑道，并将自助值机系统、自助行李托运系统引入综合交通换乘中心，实现空铁一体化。"
+        },
+        {
+          "block_id": "blk-e821c5105d7bb5e2b428",
+          "page_number": 196,
+          "text": "二是高效串联成都与川南经济区。成自宜高铁以350公里时速实现成都与川南经济区的快速连接，成都到自贡仅需40分钟，到宜宾70分钟。随着成自宜高铁的通车，内江、自贡、宜宾、泸州4市也实现高铁连接，自贡半小时可达其他3市，形成了以自贡为中间点的川南四市“半小时经济圈”。"
+        },
+        {
+          "block_id": "blk-9e5133fdc6cd0329c306",
+          "page_number": 196,
+          "text": "成自宜高铁的开通将有效缩短成都与眉山、乐山、资阳、内江、自贡、宜宾等城市"
+        },
+        {
+          "block_id": "blk-41a1354d27977e5f02ac",
+          "page_number": 197,
+          "text": "的时空距离，对带动沿线社会经济发展等具有重要意义；同时成自宜将与渝昆高铁、成贵高铁、贵广铁路相接，形成了成都至昆明、贵阳、广州的高速铁路大通道，进一步完善成都对外大通道网络。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-2298bb13acb5",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-24bb1e491755",
+    "ref-9d904a5c74ff"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

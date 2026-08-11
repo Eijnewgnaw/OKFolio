@@ -1,0 +1,1962 @@
+{
+  "contract": {
+    "canonical_question": "成都市为加快建设具有全国影响力的科技创新中心，在体制机制、平台载体、人才引育等方面提出了哪些具体政策措施？",
+    "claims": [
+      {
+        "claim": "政策旨在加快建设具有全国影响力的科技创新中心，助推全面体现新发展理念的城市建设。",
+        "claim_id": "claim-e7f60f1f9668e86c",
+        "evidence_block_ids": [
+          "blk-82cf1e4e340562e12cba"
+        ],
+        "evidence_excerpt": "为贯彻落实中央财经委员会第六次会议精神，推动实施中央关于创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心，助推全面体现新发展理念的城市建设，结合我市实际，制定本政策措施。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "政策按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+        "claim_id": "claim-861fcbea2fee9874",
+        "evidence_block_ids": [
+          "blk-acacc3fa7544ccfed1ac"
+        ],
+        "evidence_excerpt": "按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展，辐射带动产业功能区高质量发展。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "implementation_path",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+        "claim_id": "claim-0813e2c0cc8b0b50",
+        "evidence_block_ids": [
+          "blk-c708f89278e0df19562e"
+        ],
+        "evidence_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群，规划建设国家重点实验室、前沿引领技术创新平台等重大创新平台，开展基础前沿技术、关键核心技术攻关。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+        "claim_id": "claim-d5264fa547b8e633",
+        "evidence_block_ids": [
+          "blk-576a9ed92404fd785f56"
+        ],
+        "evidence_excerpt": "建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制，开展基础研究和原始创新。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+        "claim_id": "claim-0ed0203bb0a92139",
+        "evidence_block_ids": [
+          "blk-724ab7fd1cdf823b3965"
+        ],
+        "evidence_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的 \\(30\\%\\) ，给予最高300万元一次性补助",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          205
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持中科院等知名科研机构、知名大学来蓉建设科研分支机构或新型研发机构，开展产学研协同创新，按照“一所（院、校）一策”方式给予综合支持。",
+        "claim_id": "claim-63c7ad25b7ad9420",
+        "evidence_block_ids": [
+          "blk-49577d6bbb79e6fcd7a4"
+        ],
+        "evidence_excerpt": "聚焦电子信息、装备制造、医药健康、新型材料等重点产业，支持中科院等知名科研机构、知名大学来蓉建设科研分支机构或新型研发机构，开展产学研协同创新，按照“一所（院、校）一策”方式给予综合支持。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          205
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励龙头企业以“众创、众包、众筹”等开放创新方式，整合集成产业链上下游企业、高校院所和技术创新联盟等实施产业集群协同创新，给予最高1000万元补助。",
+        "claim_id": "claim-84ed04d96ca3e47f",
+        "evidence_block_ids": [
+          "blk-c47771363ee359159d3c"
+        ],
+        "evidence_excerpt": "鼓励龙头企业以“众创、众包、众筹”等开放创新方式，整合集成产业链上下游企业、高校院所和技术创新联盟等实施产业集群协同创新，给予最高1000万元补助。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          205
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持科技型中小企业融入本地龙头企业创新链、供应链，对自主立项、先行投入开发“硬核科技”重大创新产品并实现本地配套的，给予最高200万元补助。",
+        "claim_id": "claim-769748e700f9b129",
+        "evidence_block_ids": [
+          "blk-b6b00940cf1306b7050a"
+        ],
+        "evidence_excerpt": "支持科技型中小企业融入本地龙头企业创新链、供应链，对自主立项、先行投入开发“硬核科技”重大创新产品并实现本地配套的，给予最高200万元补助。",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          205
+        ],
+        "ref_id": "ref-1999d149f46a",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-e7f60f1f9668e86c",
+          "claim-861fcbea2fee9874",
+          "claim-0813e2c0cc8b0b50",
+          "claim-d5264fa547b8e633",
+          "claim-0ed0203bb0a92139",
+          "claim-63c7ad25b7ad9420",
+          "claim-84ed04d96ca3e47f",
+          "claim-769748e700f9b129"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+        "reason": "该Bundle包含政策全文，涵盖政策目标、空间布局、平台建设、资金支持、人才引育、体制改革等所有固定槽位所需事实，是回答中心问题的必要证据。"
+      }
+    ],
+    "group_id": "proposition-decc0d627d72",
+    "members": [
+      {
+        "contribution": "该证据为《全面加强科技创新能力建设的若干政策措施》全文，直接提供了关于科技创新中心建设的体制机制改革、平台载体建设、人才引育及资金支持等具体政策建议，是回答中心问题的核心依据。",
+        "ref_id": "ref-1999d149f46a",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "human_review",
+    "rows": [
+      {
+        "claim_id": "claim-e7f60f1f9668e86c",
+        "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+        "finding": "本句提及财政投入保障及翻番，属于政策目标/措施范畴，但Claim Contract中claim-e7f60f1f9668e86c仅陈述政策旨在加快建设中心及助推城市建设，未包含具体的财政投入金额或翻番承诺。本句内容在Claim Contract中无直接对应的claim_id进行覆盖或反驳，且known source anomaly列表为空，但根据规则3，covered必须保留必要范围，此处无直接对应claim，故归为uncertain或omitted。但考虑到规则1要求只列出在本批句子中表达了covered/contradicted/uncertain的claim_id，且本句内容（财政投入）在Claim Contract的8个claims中均无直接对应（claims主要涉及空间布局、平台、具体补助金额等，未提及财政投入总量翻番），因此本句实际上没有覆盖任何现有的claim_id。然而，通常这类宏观目标会被归入target_problem。若严格对照，本句未覆盖任何列出的claim。但根据规则1，未表达的claim不写入rows。若必须判断，本句内容超出了现有claim的范围。鉴于规则1“本批未表达的 claim 一律不写入 rows”，且本句未覆盖任何claim_id，理论上rows应为空。但通常审计任务中，如果句子包含政策目标相关的宏观描述，可能会关联到target_problem claim。让我们再仔细看claim-e7f60f1f9668e86c，它只说了“旨在...”，没说“财政投入”。因此本句未覆盖该claim。本句也未反驳任何claim。因此，本句没有覆盖任何claim_id。根据规则1，不应输出rows。但是，如果必须输出，可能是因为本句属于“unsupported”的新事实。规则7提到scope_violations，规则6提到unsupported_claims。输出格式只要求rows, sentence_attributions, unsupported_claims, scope_violations。rows只包含claim_id。如果本句没有覆盖任何claim_id，rows为空。",
+        "status": "uncertain"
+      },
+      {
+        "claim_id": "claim-861fcbea2fee9874",
+        "draft_excerpt": "政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-861fcbea2fee9874.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0813e2c0cc8b0b50",
+        "draft_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-0813e2c0cc8b0b50.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0ed0203bb0a92139",
+        "draft_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-0ed0203bb0a92139.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d5264fa547b8e633",
+        "draft_excerpt": "政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-d5264fa547b8e633.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-63c7ad25b7ad9420",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-769748e700f9b129",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-84ed04d96ca3e47f",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+        "finding": "Unsupported: General summary not directly mapped to specific claims in this batch.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-074e2123b9e9167c",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-e7f60f1f9668e86c"
+        ],
+        "draft_excerpt": "该政策旨在贯彻落实中央财经委员会第六次会议精神，推动实施创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心。",
+        "finding": "Supported: Matches claim-e7f60f1f9668e86c.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d53342a490a39cb0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。",
+        "finding": "Unsupported: Lists measures not fully covered by specific claims in this batch (e.g., open industry ecosystem, high-quality sci-tech space).",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f4ceff2c0d8becc7",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。",
+        "finding": "Unsupported: Mentions institutional innovations not covered by claims in this batch.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b4e92fd4457ee9df",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。",
+        "finding": "Unsupported: Mentions international cooperation and fiscal input not covered by claims in this batch.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c50a9cad2e51aea8",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-861fcbea2fee9874"
+        ],
+        "draft_excerpt": "政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+        "finding": "Supported: Matches claim-861fcbea2fee9874.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5332d2a71611be2c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0813e2c0cc8b0b50"
+        ],
+        "draft_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+        "finding": "Supported: Matches claim-0813e2c0cc8b0b50.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9900711e747ca7e6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+        "finding": "Unsupported: New fact about open industry ecosystem and chain strengthening not in claims.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7a1e16c974331dac",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-0ed0203bb0a92139"
+        ],
+        "draft_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+        "finding": "Supported: Matches claim-0ed0203bb0a92139.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-57cd0cea1ef8c4bf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d5264fa547b8e633"
+        ],
+        "draft_excerpt": "政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+        "finding": "Supported: Matches claim-d5264fa547b8e633.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e225dbca48b41996",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。",
+        "finding": "Unsupported: New fact about high-quality sci-tech space not in claims.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c76db03e5532d02c",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。",
+        "finding": "Unsupported: New fact about 5G and industrial internet not in claims.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-38ca44076039918b",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；",
+        "finding": "Claim Contract中未提及支持建设世界一流大学和一流学科，也未提及支持四川大学、电子科技大学。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a2e987a56d0083a2",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。",
+        "finding": "Claim Contract中未提及支持西南交通大学等高校建设世界一流学科。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-491f31b00660c032",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；",
+        "finding": "Claim Contract中未提及对国家产业创新中心等给予50%配套支持。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dcd344625ac206d7",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+        "finding": "Claim Contract中未提及对国家重点实验室等给予最高300万元支持。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a64e39873656f99d",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。",
+        "finding": "Claim Contract中未提及支持建设“城市未来场景实验室”及相应资助。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ad941af8c935ccff",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。",
+        "finding": "Claim Contract中未提及扩大天使投资引导基金规模或引导组建天使投资基金。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ec930ae18ef140f2",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。",
+        "finding": "Claim Contract中未提及对科创板上市给予奖励。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-042e4f6baae89ca1",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。",
+        "finding": "Claim Contract中未提及建立“揭榜挂帅”制度或经费“包干制+负面清单”制度。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-be4591f2baeab49c",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。",
+        "finding": "Claim Contract中未提及大学生创业贷款支持。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f84b873c352a8e6a",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。",
+        "finding": "Claim Contract中未提及建立知识产权保护工作体系或快速查处机制。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6878905f070f6af7",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+        "finding": "Claim Contract中未提及规划建设天府国际技术转移中心或给予资金支持。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8127e4ed20ec446d",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。",
+        "finding": "Claim Contract中未提及实施国际创新团队集聚计划或招引科研团队。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6264b3d1ed9c76ac",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+        "finding": "该句子陈述了财政科技投入的具体保障措施（纳入保障、逐年加大、3年翻番），这些具体细节在提供的Claim Contract的8个claims中均未出现。因此，该句子包含合同外事实，标为unsupported。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-20bfe09d1db7943c",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+        "finding": "General summary statement not supported by specific claims in this batch."
+      },
+      {
+        "draft_excerpt": "政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。",
+        "finding": "Mentions 'open industry ecosystem', 'industrial functional zones', and 'high-quality sci-tech space' which are not covered by the specific claims in this batch."
+      },
+      {
+        "draft_excerpt": "政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。",
+        "finding": "Mentions 'researcher autonomy', 'IP protection', and 'tech services' which are not covered by the specific claims in this batch."
+      },
+      {
+        "draft_excerpt": "同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。",
+        "finding": "Mentions 'international cooperation' and 'fiscal input' which are not covered by the specific claims in this batch."
+      },
+      {
+        "draft_excerpt": "政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+        "finding": "New fact about 'open industry ecosystem' and 'chain strengthening' not in claims."
+      },
+      {
+        "draft_excerpt": "政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。",
+        "finding": "New fact about 'high-quality sci-tech space' (10 million sqm) not in claims."
+      },
+      {
+        "draft_excerpt": "政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。",
+        "finding": "New fact about '5G network coverage' and 'industrial internet' not in claims."
+      },
+      {
+        "draft_excerpt": "政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；",
+        "finding": "Claim Contract中未提及支持建设世界一流大学和一流学科，也未提及支持四川大学、电子科技大学。"
+      },
+      {
+        "draft_excerpt": "支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。",
+        "finding": "Claim Contract中未提及支持西南交通大学等高校建设世界一流学科。"
+      },
+      {
+        "draft_excerpt": "政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；",
+        "finding": "Claim Contract中未提及对国家产业创新中心等给予50%配套支持。"
+      },
+      {
+        "draft_excerpt": "对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+        "finding": "Claim Contract中未提及对国家重点实验室等给予最高300万元支持。"
+      },
+      {
+        "draft_excerpt": "政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。",
+        "finding": "Claim Contract中未提及支持建设“城市未来场景实验室”及相应资助。"
+      },
+      {
+        "draft_excerpt": "政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。",
+        "finding": "Claim Contract中未提及扩大天使投资引导基金规模或引导组建天使投资基金。"
+      },
+      {
+        "draft_excerpt": "政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。",
+        "finding": "Claim Contract中未提及对科创板上市给予奖励。"
+      },
+      {
+        "draft_excerpt": "政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。",
+        "finding": "Claim Contract中未提及建立“揭榜挂帅”制度或经费“包干制+负面清单”制度。"
+      },
+      {
+        "draft_excerpt": "政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。",
+        "finding": "Claim Contract中未提及大学生创业贷款支持。"
+      },
+      {
+        "draft_excerpt": "政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。",
+        "finding": "Claim Contract中未提及建立知识产权保护工作体系或快速查处机制。"
+      },
+      {
+        "draft_excerpt": "政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+        "finding": "Claim Contract中未提及规划建设天府国际技术转移中心或给予资金支持。"
+      },
+      {
+        "draft_excerpt": "政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。",
+        "finding": "Claim Contract中未提及实施国际创新团队集聚计划或招引科研团队。"
+      },
+      {
+        "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+        "finding": "句子中提到的“将财政科技投入纳入各级财政重点保障范围”、“逐年加大投入力度”、“确保财政科技投入3年翻一番”等具体财政支持措施，在Claim Contract中无对应claim支持。"
+      },
+      {
+        "draft_excerpt": "5",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2020年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "50%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "15%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "800",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "50",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "3",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "100",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-e7f60f1f9668e86c",
+          "draft_excerpt": "该政策旨在贯彻落实中央财经委员会第六次会议精神，推动实施创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-e7f60f1f9668e86c.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-861fcbea2fee9874",
+          "draft_excerpt": "政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-861fcbea2fee9874.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0813e2c0cc8b0b50",
+          "draft_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-0813e2c0cc8b0b50.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0ed0203bb0a92139",
+          "draft_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-0ed0203bb0a92139.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d5264fa547b8e633",
+          "draft_excerpt": "政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-d5264fa547b8e633.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+          "finding": "Unsupported: General summary not directly mapped to specific claims in this batch.",
+          "sentence_id": "sentence-074e2123b9e9167c",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-e7f60f1f9668e86c"
+          ],
+          "draft_excerpt": "该政策旨在贯彻落实中央财经委员会第六次会议精神，推动实施创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心。",
+          "finding": "Supported: Matches claim-e7f60f1f9668e86c.",
+          "sentence_id": "sentence-d53342a490a39cb0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。",
+          "finding": "Unsupported: Lists measures not fully covered by specific claims in this batch (e.g., open industry ecosystem, high-quality sci-tech space).",
+          "sentence_id": "sentence-f4ceff2c0d8becc7",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。",
+          "finding": "Unsupported: Mentions institutional innovations not covered by claims in this batch.",
+          "sentence_id": "sentence-b4e92fd4457ee9df",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。",
+          "finding": "Unsupported: Mentions international cooperation and fiscal input not covered by claims in this batch.",
+          "sentence_id": "sentence-c50a9cad2e51aea8",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-861fcbea2fee9874"
+          ],
+          "draft_excerpt": "政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+          "finding": "Supported: Matches claim-861fcbea2fee9874.",
+          "sentence_id": "sentence-5332d2a71611be2c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0813e2c0cc8b0b50"
+          ],
+          "draft_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+          "finding": "Supported: Matches claim-0813e2c0cc8b0b50.",
+          "sentence_id": "sentence-9900711e747ca7e6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+          "finding": "Unsupported: New fact about open industry ecosystem and chain strengthening not in claims.",
+          "sentence_id": "sentence-7a1e16c974331dac",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-0ed0203bb0a92139"
+          ],
+          "draft_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+          "finding": "Supported: Matches claim-0ed0203bb0a92139.",
+          "sentence_id": "sentence-57cd0cea1ef8c4bf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d5264fa547b8e633"
+          ],
+          "draft_excerpt": "政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+          "finding": "Supported: Matches claim-d5264fa547b8e633.",
+          "sentence_id": "sentence-e225dbca48b41996",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。",
+          "finding": "Unsupported: New fact about high-quality sci-tech space not in claims.",
+          "sentence_id": "sentence-c76db03e5532d02c",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。",
+          "finding": "Unsupported: New fact about 5G and industrial internet not in claims.",
+          "sentence_id": "sentence-38ca44076039918b",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+          "finding": "General summary statement not supported by specific claims in this batch."
+        },
+        {
+          "draft_excerpt": "政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。",
+          "finding": "Mentions 'open industry ecosystem', 'industrial functional zones', and 'high-quality sci-tech space' which are not covered by the specific claims in this batch."
+        },
+        {
+          "draft_excerpt": "政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。",
+          "finding": "Mentions 'researcher autonomy', 'IP protection', and 'tech services' which are not covered by the specific claims in this batch."
+        },
+        {
+          "draft_excerpt": "同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。",
+          "finding": "Mentions 'international cooperation' and 'fiscal input' which are not covered by the specific claims in this batch."
+        },
+        {
+          "draft_excerpt": "政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+          "finding": "New fact about 'open industry ecosystem' and 'chain strengthening' not in claims."
+        },
+        {
+          "draft_excerpt": "政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。",
+          "finding": "New fact about 'high-quality sci-tech space' (10 million sqm) not in claims."
+        },
+        {
+          "draft_excerpt": "政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。",
+          "finding": "New fact about '5G network coverage' and 'industrial internet' not in claims."
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；",
+          "finding": "Claim Contract中未提及支持建设世界一流大学和一流学科，也未提及支持四川大学、电子科技大学。",
+          "sentence_id": "sentence-a2e987a56d0083a2",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。",
+          "finding": "Claim Contract中未提及支持西南交通大学等高校建设世界一流学科。",
+          "sentence_id": "sentence-491f31b00660c032",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；",
+          "finding": "Claim Contract中未提及对国家产业创新中心等给予50%配套支持。",
+          "sentence_id": "sentence-dcd344625ac206d7",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+          "finding": "Claim Contract中未提及对国家重点实验室等给予最高300万元支持。",
+          "sentence_id": "sentence-a64e39873656f99d",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。",
+          "finding": "Claim Contract中未提及支持建设“城市未来场景实验室”及相应资助。",
+          "sentence_id": "sentence-ad941af8c935ccff",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。",
+          "finding": "Claim Contract中未提及扩大天使投资引导基金规模或引导组建天使投资基金。",
+          "sentence_id": "sentence-ec930ae18ef140f2",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。",
+          "finding": "Claim Contract中未提及对科创板上市给予奖励。",
+          "sentence_id": "sentence-042e4f6baae89ca1",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。",
+          "finding": "Claim Contract中未提及建立“揭榜挂帅”制度或经费“包干制+负面清单”制度。",
+          "sentence_id": "sentence-be4591f2baeab49c",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。",
+          "finding": "Claim Contract中未提及大学生创业贷款支持。",
+          "sentence_id": "sentence-f84b873c352a8e6a",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。",
+          "finding": "Claim Contract中未提及建立知识产权保护工作体系或快速查处机制。",
+          "sentence_id": "sentence-6878905f070f6af7",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+          "finding": "Claim Contract中未提及规划建设天府国际技术转移中心或给予资金支持。",
+          "sentence_id": "sentence-8127e4ed20ec446d",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。",
+          "finding": "Claim Contract中未提及实施国际创新团队集聚计划或招引科研团队。",
+          "sentence_id": "sentence-6264b3d1ed9c76ac",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；",
+          "finding": "Claim Contract中未提及支持建设世界一流大学和一流学科，也未提及支持四川大学、电子科技大学。"
+        },
+        {
+          "draft_excerpt": "支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。",
+          "finding": "Claim Contract中未提及支持西南交通大学等高校建设世界一流学科。"
+        },
+        {
+          "draft_excerpt": "政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；",
+          "finding": "Claim Contract中未提及对国家产业创新中心等给予50%配套支持。"
+        },
+        {
+          "draft_excerpt": "对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+          "finding": "Claim Contract中未提及对国家重点实验室等给予最高300万元支持。"
+        },
+        {
+          "draft_excerpt": "政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。",
+          "finding": "Claim Contract中未提及支持建设“城市未来场景实验室”及相应资助。"
+        },
+        {
+          "draft_excerpt": "政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。",
+          "finding": "Claim Contract中未提及扩大天使投资引导基金规模或引导组建天使投资基金。"
+        },
+        {
+          "draft_excerpt": "政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。",
+          "finding": "Claim Contract中未提及对科创板上市给予奖励。"
+        },
+        {
+          "draft_excerpt": "政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。",
+          "finding": "Claim Contract中未提及建立“揭榜挂帅”制度或经费“包干制+负面清单”制度。"
+        },
+        {
+          "draft_excerpt": "政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。",
+          "finding": "Claim Contract中未提及大学生创业贷款支持。"
+        },
+        {
+          "draft_excerpt": "政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。",
+          "finding": "Claim Contract中未提及建立知识产权保护工作体系或快速查处机制。"
+        },
+        {
+          "draft_excerpt": "政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+          "finding": "Claim Contract中未提及规划建设天府国际技术转移中心或给予资金支持。"
+        },
+        {
+          "draft_excerpt": "政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。",
+          "finding": "Claim Contract中未提及实施国际创新团队集聚计划或招引科研团队。"
+        }
+      ]
+    },
+    "2": {
+      "batch_index": 2,
+      "rows": [
+        {
+          "claim_id": "claim-e7f60f1f9668e86c",
+          "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+          "finding": "本句提及财政投入保障及翻番，属于政策目标/措施范畴，但Claim Contract中claim-e7f60f1f9668e86c仅陈述政策旨在加快建设中心及助推城市建设，未包含具体的财政投入金额或翻番承诺。本句内容在Claim Contract中无直接对应的claim_id进行覆盖或反驳，且known source anomaly列表为空，但根据规则3，covered必须保留必要范围，此处无直接对应claim，故归为uncertain或omitted。但考虑到规则1要求只列出在本批句子中表达了covered/contradicted/uncertain的claim_id，且本句内容（财政投入）在Claim Contract的8个claims中均无直接对应（claims主要涉及空间布局、平台、具体补助金额等，未提及财政投入总量翻番），因此本句实际上没有覆盖任何现有的claim_id。然而，通常这类宏观目标会被归入target_problem。若严格对照，本句未覆盖任何列出的claim。但根据规则1，未表达的claim不写入rows。若必须判断，本句内容超出了现有claim的范围。鉴于规则1“本批未表达的 claim 一律不写入 rows”，且本句未覆盖任何claim_id，理论上rows应为空。但通常审计任务中，如果句子包含政策目标相关的宏观描述，可能会关联到target_problem claim。让我们再仔细看claim-e7f60f1f9668e86c，它只说了“旨在...”，没说“财政投入”。因此本句未覆盖该claim。本句也未反驳任何claim。因此，本句没有覆盖任何claim_id。根据规则1，不应输出rows。但是，如果必须输出，可能是因为本句属于“unsupported”的新事实。规则7提到scope_violations，规则6提到unsupported_claims。输出格式只要求rows, sentence_attributions, unsupported_claims, scope_violations。rows只包含claim_id。如果本句没有覆盖任何claim_id，rows为空。",
+          "status": "uncertain"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+          "finding": "该句子陈述了财政科技投入的具体保障措施（纳入保障、逐年加大、3年翻番），这些具体细节在提供的Claim Contract的8个claims中均未出现。因此，该句子包含合同外事实，标为unsupported。",
+          "sentence_id": "sentence-20bfe09d1db7943c",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+          "finding": "句子中提到的“将财政科技投入纳入各级财政重点保障范围”、“逐年加大投入力度”、“确保财政科技投入3年翻一番”等具体财政支持措施，在Claim Contract中无对应claim支持。"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "395a59cd08e7bf9a9121d8bd00b05b74e3cb86dfec4c323e14757db02046e07c",
+  "coverage_history": [
+    {
+      "draft_sha256": "395a59cd08e7bf9a9121d8bd00b05b74e3cb86dfec4c323e14757db02046e07c",
+      "matrix": {
+        "decision": "human_review",
+        "rows": [
+          {
+            "claim_id": "claim-e7f60f1f9668e86c",
+            "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+            "finding": "本句提及财政投入保障及翻番，属于政策目标/措施范畴，但Claim Contract中claim-e7f60f1f9668e86c仅陈述政策旨在加快建设中心及助推城市建设，未包含具体的财政投入金额或翻番承诺。本句内容在Claim Contract中无直接对应的claim_id进行覆盖或反驳，且known source anomaly列表为空，但根据规则3，covered必须保留必要范围，此处无直接对应claim，故归为uncertain或omitted。但考虑到规则1要求只列出在本批句子中表达了covered/contradicted/uncertain的claim_id，且本句内容（财政投入）在Claim Contract的8个claims中均无直接对应（claims主要涉及空间布局、平台、具体补助金额等，未提及财政投入总量翻番），因此本句实际上没有覆盖任何现有的claim_id。然而，通常这类宏观目标会被归入target_problem。若严格对照，本句未覆盖任何列出的claim。但根据规则1，未表达的claim不写入rows。若必须判断，本句内容超出了现有claim的范围。鉴于规则1“本批未表达的 claim 一律不写入 rows”，且本句未覆盖任何claim_id，理论上rows应为空。但通常审计任务中，如果句子包含政策目标相关的宏观描述，可能会关联到target_problem claim。让我们再仔细看claim-e7f60f1f9668e86c，它只说了“旨在...”，没说“财政投入”。因此本句未覆盖该claim。本句也未反驳任何claim。因此，本句没有覆盖任何claim_id。根据规则1，不应输出rows。但是，如果必须输出，可能是因为本句属于“unsupported”的新事实。规则7提到scope_violations，规则6提到unsupported_claims。输出格式只要求rows, sentence_attributions, unsupported_claims, scope_violations。rows只包含claim_id。如果本句没有覆盖任何claim_id，rows为空。",
+            "status": "uncertain"
+          },
+          {
+            "claim_id": "claim-861fcbea2fee9874",
+            "draft_excerpt": "政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-861fcbea2fee9874.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0813e2c0cc8b0b50",
+            "draft_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-0813e2c0cc8b0b50.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0ed0203bb0a92139",
+            "draft_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-0ed0203bb0a92139.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d5264fa547b8e633",
+            "draft_excerpt": "政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-d5264fa547b8e633.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63c7ad25b7ad9420",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-769748e700f9b129",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-84ed04d96ca3e47f",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+            "finding": "Unsupported: General summary not directly mapped to specific claims in this batch.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-074e2123b9e9167c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-e7f60f1f9668e86c"
+            ],
+            "draft_excerpt": "该政策旨在贯彻落实中央财经委员会第六次会议精神，推动实施创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心。",
+            "finding": "Supported: Matches claim-e7f60f1f9668e86c.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d53342a490a39cb0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。",
+            "finding": "Unsupported: Lists measures not fully covered by specific claims in this batch (e.g., open industry ecosystem, high-quality sci-tech space).",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f4ceff2c0d8becc7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。",
+            "finding": "Unsupported: Mentions institutional innovations not covered by claims in this batch.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b4e92fd4457ee9df",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。",
+            "finding": "Unsupported: Mentions international cooperation and fiscal input not covered by claims in this batch.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c50a9cad2e51aea8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-861fcbea2fee9874"
+            ],
+            "draft_excerpt": "政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。",
+            "finding": "Supported: Matches claim-861fcbea2fee9874.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5332d2a71611be2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0813e2c0cc8b0b50"
+            ],
+            "draft_excerpt": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。",
+            "finding": "Supported: Matches claim-0813e2c0cc8b0b50.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9900711e747ca7e6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+            "finding": "Unsupported: New fact about open industry ecosystem and chain strengthening not in claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a1e16c974331dac",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0ed0203bb0a92139"
+            ],
+            "draft_excerpt": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。",
+            "finding": "Supported: Matches claim-0ed0203bb0a92139.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57cd0cea1ef8c4bf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d5264fa547b8e633"
+            ],
+            "draft_excerpt": "政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。",
+            "finding": "Supported: Matches claim-d5264fa547b8e633.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e225dbca48b41996",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。",
+            "finding": "Unsupported: New fact about high-quality sci-tech space not in claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c76db03e5532d02c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。",
+            "finding": "Unsupported: New fact about 5G and industrial internet not in claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-38ca44076039918b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；",
+            "finding": "Claim Contract中未提及支持建设世界一流大学和一流学科，也未提及支持四川大学、电子科技大学。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a2e987a56d0083a2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。",
+            "finding": "Claim Contract中未提及支持西南交通大学等高校建设世界一流学科。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-491f31b00660c032",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；",
+            "finding": "Claim Contract中未提及对国家产业创新中心等给予50%配套支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dcd344625ac206d7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+            "finding": "Claim Contract中未提及对国家重点实验室等给予最高300万元支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a64e39873656f99d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。",
+            "finding": "Claim Contract中未提及支持建设“城市未来场景实验室”及相应资助。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad941af8c935ccff",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。",
+            "finding": "Claim Contract中未提及扩大天使投资引导基金规模或引导组建天使投资基金。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ec930ae18ef140f2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。",
+            "finding": "Claim Contract中未提及对科创板上市给予奖励。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-042e4f6baae89ca1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。",
+            "finding": "Claim Contract中未提及建立“揭榜挂帅”制度或经费“包干制+负面清单”制度。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be4591f2baeab49c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。",
+            "finding": "Claim Contract中未提及大学生创业贷款支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f84b873c352a8e6a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。",
+            "finding": "Claim Contract中未提及建立知识产权保护工作体系或快速查处机制。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6878905f070f6af7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+            "finding": "Claim Contract中未提及规划建设天府国际技术转移中心或给予资金支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8127e4ed20ec446d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。",
+            "finding": "Claim Contract中未提及实施国际创新团队集聚计划或招引科研团队。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6264b3d1ed9c76ac",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+            "finding": "该句子陈述了财政科技投入的具体保障措施（纳入保障、逐年加大、3年翻番），这些具体细节在提供的Claim Contract的8个claims中均未出现。因此，该句子包含合同外事实，标为unsupported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-20bfe09d1db7943c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+            "finding": "General summary statement not supported by specific claims in this batch."
+          },
+          {
+            "draft_excerpt": "政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。",
+            "finding": "Mentions 'open industry ecosystem', 'industrial functional zones', and 'high-quality sci-tech space' which are not covered by the specific claims in this batch."
+          },
+          {
+            "draft_excerpt": "政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。",
+            "finding": "Mentions 'researcher autonomy', 'IP protection', and 'tech services' which are not covered by the specific claims in this batch."
+          },
+          {
+            "draft_excerpt": "同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。",
+            "finding": "Mentions 'international cooperation' and 'fiscal input' which are not covered by the specific claims in this batch."
+          },
+          {
+            "draft_excerpt": "政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+            "finding": "New fact about 'open industry ecosystem' and 'chain strengthening' not in claims."
+          },
+          {
+            "draft_excerpt": "政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。",
+            "finding": "New fact about 'high-quality sci-tech space' (10 million sqm) not in claims."
+          },
+          {
+            "draft_excerpt": "政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。",
+            "finding": "New fact about '5G network coverage' and 'industrial internet' not in claims."
+          },
+          {
+            "draft_excerpt": "政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；",
+            "finding": "Claim Contract中未提及支持建设世界一流大学和一流学科，也未提及支持四川大学、电子科技大学。"
+          },
+          {
+            "draft_excerpt": "支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。",
+            "finding": "Claim Contract中未提及支持西南交通大学等高校建设世界一流学科。"
+          },
+          {
+            "draft_excerpt": "政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；",
+            "finding": "Claim Contract中未提及对国家产业创新中心等给予50%配套支持。"
+          },
+          {
+            "draft_excerpt": "对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+            "finding": "Claim Contract中未提及对国家重点实验室等给予最高300万元支持。"
+          },
+          {
+            "draft_excerpt": "政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。",
+            "finding": "Claim Contract中未提及支持建设“城市未来场景实验室”及相应资助。"
+          },
+          {
+            "draft_excerpt": "政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。",
+            "finding": "Claim Contract中未提及扩大天使投资引导基金规模或引导组建天使投资基金。"
+          },
+          {
+            "draft_excerpt": "政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。",
+            "finding": "Claim Contract中未提及对科创板上市给予奖励。"
+          },
+          {
+            "draft_excerpt": "政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。",
+            "finding": "Claim Contract中未提及建立“揭榜挂帅”制度或经费“包干制+负面清单”制度。"
+          },
+          {
+            "draft_excerpt": "政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。",
+            "finding": "Claim Contract中未提及大学生创业贷款支持。"
+          },
+          {
+            "draft_excerpt": "政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。",
+            "finding": "Claim Contract中未提及建立知识产权保护工作体系或快速查处机制。"
+          },
+          {
+            "draft_excerpt": "政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+            "finding": "Claim Contract中未提及规划建设天府国际技术转移中心或给予资金支持。"
+          },
+          {
+            "draft_excerpt": "政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。",
+            "finding": "Claim Contract中未提及实施国际创新团队集聚计划或招引科研团队。"
+          },
+          {
+            "draft_excerpt": "政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+            "finding": "句子中提到的“将财政科技投入纳入各级财政重点保障范围”、“逐年加大投入力度”、“确保财政科技投入3年翻一番”等具体财政支持措施，在Claim Contract中无对应claim支持。"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "50%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "15%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "800",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "50",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "100",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n该政策旨在贯彻落实中央财经委员会第六次会议精神，推动实施创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心。政策结合成都市实际，从高标准规划建设中国西部（成都）科学城、构建开放型产业生态圈创新生态链、大力推进特色鲜明的产业功能区建设、高水平建设高品质科创空间等方面提出具体措施。\n\n政策强调通过体制机制创新，如赋予科研人员更大自主权、建立完善知识产权保护工作体系、大力发展科技服务业等，激发创新活力。同时，通过扩大科技创新国际合作、持续提高财政科技投入等措施，为科技创新提供全方位支持。\n\n## 证据与影响\n\n政策提出高标准规划建设中国西部（成都）科学城，按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展。围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群。\n\n政策还提出构建开放型产业生态圈创新生态链，梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的30%，给予最高300万元一次性补助。\n\n- 政策明确支持建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制。\n- 政策提出高水平建设高品质科创空间，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。\n- 政策强调加快工业互联网和城市物联网平台建设，加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖。\n- 政策提出支持建设世界一流大学和一流学科，支持四川大学、电子科技大学加快建设世界一流大学；支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科。\n- 政策鼓励企业创办研发机构，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的50%给予配套支持；对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。\n- 政策提出支持建设“城市未来场景实验室”，对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本15%、最高200万元资助。\n- 政策鼓励风险投资与科技企业合作，扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。\n- 政策激励科技企业资产证券化，对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励。\n- 政策赋予科研人员更大自主权，建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。\n- 政策鼓励大学生在蓉创新创业，毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。\n- 政策建立完善知识产权保护工作体系，加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制。\n- 政策大力发展科技服务业，规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。\n- 政策扩大科技创新国际合作，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业。\n- 政策持续提高财政科技投入，将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。",
+    "description": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "proposition-decc0d627d72",
+      "description": "围绕建设具有全国影响力的科技创新中心，从体制机制、平台载体、人才引育等方面提出全面加强科技创新能力的具体政策措施。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "### 全面加强科技创新能力建设的若干政策措施",
+        "成委办〔2020〕6号\n\n为贯彻落实中央财经委员会第六次会议精神，推动实施中央关于创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心，助推全面体现新发展理念的城市建设，结合我市实际，制定本政策措施。",
+        "#### 一、高标准规划建设中国西部（成都）科学城",
+        "按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展，辐射带动产业功能区高质量发展。",
+        "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群，规划建设国家重点实验室、前沿引领技术创新平台等重大创新平台，开展基础前沿技术、关键核心技术攻关。",
+        "建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制，开展基础研究和原始创新。",
+        "聚焦新一代信息技术、人工智能、生物医药、智能制造等重点领域，创造新技术、转化新成果、孵化新业态、发展新经济，打造创新驱动动力源、高质量发展增长极。",
+        "[责任单位：市科技局、市发改委、市规划和自然资源局，各区（市）县。逗号前为牵头单位，下同]",
+        "#### 二、构建开放型产业生态圈创新生态链",
+        "梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技\n\n术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。",
+        "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的 \\(30\\%\\) ，给予最高300万元一次性补助。实施重点产业专利导航计划，支持建设高价值专利培育中心，给予最高300万元资助。",
+        "聚焦电子信息、装备制造、医药健康、新型材料等重点产业，支持中科院等知名科研机构、知名大学来蓉建设科研分支机构或新型研发机构，开展产学研协同创新，按照“一所（院、校）一策”方式给予综合支持。",
+        "支持行业头部企业、创新型平台企业依托产业功能区，搭建线上线下融通的开放创新平台，整合人力、技术、信息、资本等创新资源要素，为供需双方提供技术研发、产品创新的交互对接场景和工具，引领打造共创共赢的创新生态。",
+        "鼓励龙头企业以“众创、众包、众筹”等开放创新方式，整合集成产业链上下游企业、高校院所和技术创新联盟等实施产业集群协同创新，给予最高1000万元补助。支持制定国际标准，对主导制定国际标准的单位（组织）每项标准给予100万元奖励。",
+        "支持科技型中小企业融入本地龙头企业创新链、供应链，对自主立项、先行投入开发“硬核科技”重大创新产品并实现本地配套的，给予最高200万元补助。",
+        "鼓励企业参与国家“卡脖子”关键核心技术攻关和科技创新2030-重大项目，对承担的国家重大科技计划项目给予最高200万元配套支持。对引进、新建的重大创新链功能项目，可“一事一议”予以资金等配套支持。",
+        "[责任单位：市发改委、14个产业生态圈责任部门，市科技局、市口岸物流办、各区（市）县]",
+        "#### 三、大力推进特色鲜明的产业功能区建设",
+        "推动产业功能区和龙头企业“双千兆”网络全覆盖，加快5G技术与工业网络、工业软件、控制系统融合，促进产业功能区数字化、网络化、智能化转型升级，在电子信息、轨道交通等领域打造智慧标杆园区。",
+        "规划建设行业大数据中心、通用型工业互联网平台、现代数字城市底座等新型基础设施，促进“算力+算法+数据+应用”服务共享共用，在新经济、电子信息、文博文创等领域打造业态鲜明、功能突出的产业功能区。",
+        "加快建设转化医学设施、新药安全性评价中心、药物及医疗器械临床研究、医\n\n药定制研发生产、制药合同生产等服务平台，构建临床前研发、临床试验等功能完善的生物医药产业功能区。",
+        "支持企业联合高校院所依托产业功能区建设科技基础设施及技术研发、检测检验、技术交易、创业孵化等科技创新平台，对国有企业在创新平台建设等方面的投入，在经营业绩考核中视同于利润。",
+        "建立新型产业用地（M0）管理机制，在产业功能区内合理规划布局用于融合研发、设计、检测、中试、新经济等创新性业态的产业用地，可按新型产业用地类型管理，并兼容配套一定比例的职住平衡生活性服务设施。对科技型企业新建总部、研发中心等使用商务用地的，实行差异化土地供应价格。对重大科技基础设施、重大科学装置等项目用地，予以重点保障。",
+        "[责任单位：市发改委、市经信局、市商务局、市农业农村局，市科技局、市规划和自然资源局、市国资委、各区（市）县]",
+        "#### 四、高水平建设高品质科创空间",
+        "聚焦打造全链条、全周期、全要素、全流程、全方位的产业创新生态系统，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。构建“科创空间+专业化运营队伍+创新创业载体+创新服务平台+科创基金”的创新综合服务体系。",
+        "在科创空间布局建设创业苗圃、科技企业孵化器、硬核科技“二次开发”实验室、中试共享生产线以及重点产业垂直孵化器等载体。支持高校院所、头部企业独立或牵头设立产业技术研究院、创新中心等新型研发机构和检验检测、成果孵化基地等功能性平台。大力吸引创新创业团队、科技型企业、创投机构、孵化平台等入驻科创空间，对符合条件的3年内每年给予不低于 \\(50\\%\\) 的场地租金减免。",
+        "创新科创空间国有建设运营企业考核激励办法，按照经营业绩考核特殊事项管理相关规定，突出功能属性和公益属性考核，把专职服务团队、在孵项目数量、知识产权质量等作为重要指标，引导提升创新服务保障能力。",
+        "（责任单位：市发改委，市经信局、市科技局、市规划和自然资源局、市住建局、中心城区、空港新城、淮州新城、简州新城）",
+        "#### 五、加快工业互联网和城市物联网平台建设",
+        "加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖，推动实现全域规模应用。",
+        "支持5G、人工智能公共服务平台建设和行业融合创新应用，加快建设成都5G智慧城，培育5G在垂直领域的特色场景，打造5G、人工智能创新应用先导区，加快下一代规模互联网部署，推广工业互联网标识解析，壮大工业APP，探索园区数字化资源共享模式，培育工业互联网优势平台。深化工业设备联网和核心业务上云，支持生产线智能化改造和数字化车间、智能工厂建设。",
+        "打造工业互联网一体化发展示范区，加速区域内要素配置、技术服务、产业协同的一体化发展。对5G、人工智能、工业互联网的优秀产品和标杆应用，给予最高500万元补助。",
+        "[责任单位：市经信局，市发改委、市科技局、市网络理政办、各区（市）县]",
+        "#### 六、支持建设世界一流大学和一流学科",
+        "支持四川大学、电子科技大学加快建设世界一流大学；支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科，按“一事一议”给予综合支持。聚焦城市发展战略和重点产业需求，引进世界一流大学、国内“双一流”大学来蓉创设特色学院，按“一事一议”给予综合支持。",
+        "（责任单位：市教育局、市科技局，青羊区、金牛区、武侯区、成华区、新都区、温江区）",
+        "#### 七、支持大学在蓉创办专业学院培训基地",
+        "在东部新区未来科技城规划建设国际合作高层次办学集聚区，引进世界级大学共建特色学院和研究生院。",
+        "支持高校和龙头企业围绕电子信息、智能制造、生物医药、新材料、现代金融等产业发展需要联合设立学科（专业），给予高校最高2000万元补助。",
+        "鼓励采取“产业功能区+龙头企业+高校院所”方式创办高水平办学机构，联合开展研究生培养及科研活动，给予高校院所最高500万元补助。",
+        "支持采取“产业功能区+校区”“企业 \\(+\\) 高校”方式联合创办实训（实习）基地，给予高校最高100万元补助。",
+        "鼓励采取“校企共用、政企校共同分担相关费用”方式，开展校地企联合引进高层次科技人才和博士后人才。支持采取“高校教学+企业实践”“企业提需求、高校出师资、政府给资助”和“校企双导师”方式，联合培养硕（博）士，给予 \\(50\\%\\) 的学费补助。",
+        "（责任单位：市科技局、市教育局、市人社局，市发改委、市规划和自然资源局、市投促局、成都东部新区）",
+        "#### 八、鼓励企业创办研发机构",
+        "鼓励行业龙头企业创建国家级研发平台，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的 \\(50\\%\\) 给予配套支持；对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。",
+        "支持龙头骨干企业联合高校院所共建市场化运行的高水平新型研发机构，引入国际高端创新资源，对符合要求的给予最高1亿元综合资助，并在科研人员科技项目申报资助等方面享受科研事业单位同等待遇。",
+        "支持科技型中小企业联合高校院所共建市级工程技术研究中心、产学研联合实验室，给予最高50万元资助。",
+        "[责任单位：市科技局，市发改委、市经信局、各区（市）县]",
+        "#### 九、支持建设“城市未来场景实验室”",
+        "支持科技企业、新型研发机构等独立或牵头组建“城市未来场景实验室”。",
+        "支持实验室围绕生产生活、城市治理等领域，开展新技术、新模式、新业态融合创新的场景实测，商业模型验证，市场前景评估。",
+        "对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本 \\(15\\%\\) 、最高200万元资助。",
+        "持续推出1000个示范新场景。对经实验室验证成功的应用场景项目，纳入成都新经济创新产品目录，在全市范围内开展示范建设，打造创新应用标杆。",
+        "[责任单位：市新经济委，各区（市）县]",
+        "#### 十、支持创新产品首购首用",
+        "持续推出1000个新经济新产品（服务）。建立创新产品政府购买制度，支持政府重点工程、政府投资项目及国有投资项目采购使用创新产品。对获得重大装备首台（套）、新材料首批次、软件首版次等认定的产品，分别给予生产企业、应用企业最高300万元补助。建立创新产品交易平台，按照包容审慎的原则构建创新产品（服务）推广应用新通道，促进创新产品的推广应用和新技术、新产业、新业态、新模式的发展。",
+        "（责任单位：市经信局、市财政局，市科技局、市国资委、市新经济委）",
+        "#### 十一、鼓励风险投资与科技企业合作",
+        "扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。改进国有创投企业的投入机制和管理模式，强化引导和杠杆作用，由直接投入转为以组建基金间接投入为主。鼓励我市国有创投企业以跟投的方式与社会知名创投资本联合投资科技型企业。创投企业引进其域外（省外、境外）已投高新技术企业或项目落地我市，给予创投企业实际投资额 \\(2\\%\\) 、累计不超过1000万元奖励。对天使投资机构投资的本地（或外地迁入）的科技企业，给予企业实际获得股权融资额 \\(10\\%\\) 、最高100万元资助。",
+        "（责任单位：市金融监管局，市科技局、市财政局、市国资委、市新经济委）",
+        "#### 十二、激励科技企业资产证券化",
+        "支持符合条件的企业在多层次资本市场开展上市挂牌、发行债券、并购重组、再融资等活动。实施交子之星经济证券化倍增行动计划，建立科创板上市企业后备库，提供专项服务。对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励，对新迁入我市的科创板上市企业给予600万元奖励。支持天府股权交易中心设立科技创新专板，支持科技型中小企业在天府股权交易中心发行可转债。支持企业以专利权、商标权、著作权等知识产权形成的底层基础资产，在沪深交易所发行资产证券化产品。",
+        "（责任单位：市金融监管局，市经信局、市科技局、市文广旅局、市国资委、市\n\n市场监管局、市新经济委）",
+        "#### 十三、赋予科研人员更大自主权",
+        "建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。在研究方向不变、不降低考核指标的前提下，允许科研人员自主调整研究方案和技术路线、自主组织科研团队，由项目牵头单位报项目管理专业机构备案。",
+        "科研事业单位的专业技术人员经所在单位同意，可到企业和其他科研机构、高校、社会组织等专职、兼职开展创新活动，并取得合法报酬；可离岗从事科技成果转化、在职创办科技型企业等创新创业活动。对科研人员（包括“双肩挑”科研人员）因学术交流合作需要临时出国的，在出访次数、团组人数、在外天数和证件管理要求等方面，根据工作需要据实安排。",
+        "深化开展赋予科技人员职务科技成果所有权或长期使用权改革。对尚未完成或处于研发阶段的科技成果，除法律、行政法规另有规定的以外，高校院所可以与科研人员约定由双方共同申请和享有专利权或者相关知识产权。对与企业、其他社会组织合作的职务科技成果，允许合同相关方自主约定成果所有权归属。对不能确权分割的科技成果，高校院所可采取普通许可、独占许可或排他许可等方式给予科研人员长期使用权。",
+        "支持高校院所、国资管理部门探索以知识产权等技术类无形资产作价投资的国有资产差别化管理制度，建立适应市场规律、符合成果转化规律的综合绩效考核机制。",
+        "（责任单位：市科技局，市发改委、市教育局、市财政局、市人社局、市国资委、市政府外办）",
+        "#### 十四、鼓励大学生在蓉创新创业",
+        "鼓励海内外优秀大学生和青年人才来蓉实习见习，为其购买商业保险，留蓉工作的给予5000元/人的奖励。支持企业建立高校毕业生就业见习基地，给予毕业2年内的见习人员不低于当地最低工资标准 \\(80\\%\\) 的生活补助。市和区（市）县两级国有企事业单位在年度招聘计划中安排不低于 \\(30\\%\\) 的就业岗位，定向招聘应届高校毕业生。毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。符合条件的大学生创业项目，可优先入驻科创空间、创业苗圃、青年（大学\n\n生）创业园，享受最长3年的租金减免。硕士研究生及以上人才来蓉前即可线上申请人才公寓，来蓉工作且符合安居资格的，购买人才公寓享受政策面积85折优惠；全日制普通高校毕业3年内的本科学历人才可按规定购买人才公寓。",
+        "（责任单位：市人社局，市委组织部、市科技局、市住建局、团市委）",
+        "#### 十五、建立完善知识产权保护工作体系",
+        "加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制，指导和帮助企业维权。加强成都知识产权审判庭建设，推动设立成都知识产权法院，争取设立中国（成都）知识产权保护中心，构建快速审查、快速确权、快速维权一体化和行政执法、审判执行、仲裁协调多渠道的协同保护体系。",
+        "（责任单位：市市场监管局，市法院、市检察院、市委宣传部、市公安局、市司法局、市农业农村局、市文广旅局）",
+        "#### 十六、大力发展科技服务业",
+        "规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。",
+        "支持企业独立或牵头建设“科学家经纪人”“工程师共享平台”“虚拟实验与制造平台”等新型创新服务平台，培育研发众包、网络众筹等服务新业态，给予最高100万元资助。",
+        "扩大科技创新券资助范围，支持科技服务机构向科技型中小企业、创新创业团队提供检验检测、标准认证、科技评估、科技咨询等专业服务。",
+        "发展专业技术经纪人队伍，深化开展技术经纪人职称评定改革，鼓励在蓉高校、科研院所设立技术转移专业岗位，支持绩效工资分配向作出贡献的技术转移人员倾斜。",
+        "（责任单位：市科技局、市商务局，市委组织部、市人社局、成都天府新区）",
+        "#### 十七、扩大科技创新国际合作",
+        "强化开放促创新，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业，给\n\n予场地租金减免、研发项目资助、股权融资跟投等综合支持。全面接轨国际人才评价标准，对取得有关国际职业资格证书的人才，比照认定或享受相应等级待遇。",
+        "办好“一带一路”科技交流大会，对在蓉举办线上线下一体的大型国际性科技博览会，给予实际投入 \\(30\\%\\) 、最高200万元补助；对定期或永久落户我市的国际高水平科技交流活动，连续3年每年给予最高100万元补助。",
+        "鼓励产业功能区、科技企业、新型研发机构赴境外创新资源集聚区建设离岸研发中心、协同创新中心、孵化中心、国际联合实验室、国际技术转移中心等创新平台，每家给予最高200万元资助。",
+        "支持世界500强企业、全球知名大学和科研机构在蓉设立具有独立法人资格的外资研发机构、跨国公司联合实验室，按实际投入的 \\(30\\%\\) 给予配套支持。",
+        "[责任单位：市科技局、市人才办，市人社局、市投促局、市政府外办、市博览局、各区（市）县]",
+        "#### 十八、持续提高财政科技投入",
+        "将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。发挥财政资金的杠杆作用，引导激励企业和社会力量加大科技投入，加快建立完善多元化、多层次、多渠道的科技投入体系。加强向上争取，强化资金统筹使用，重点保障重大科技基础设施建设、产业关键技术研发、科技创新能力提升等方面。",
+        "[责任单位：市财政局，市发改委、市科技局、各区（市）县]",
+        "本市相关政策与本政策措施不一致的部分，以本政策措施为准。",
+        "本政策措施自印发之日起施行，有效期5年。",
+        "##### 成都市国际科技合作资助管理办法（2020年3月修订）",
+        "成科字〔2020〕12号"
+      ],
+      "evidence_block_ids": [
+        "blk-99ba0ddc00415383896d",
+        "blk-82cf1e4e340562e12cba",
+        "blk-acacc3fa7544ccfed1ac",
+        "blk-c708f89278e0df19562e",
+        "blk-576a9ed92404fd785f56",
+        "blk-0552783bfde285463c74",
+        "blk-f7ef4eef143fff14d5f4",
+        "blk-2f4b6a6b647408fe7162",
+        "blk-be93d17ca1f65c67ba76",
+        "blk-724ab7fd1cdf823b3965",
+        "blk-49577d6bbb79e6fcd7a4",
+        "blk-45e871aff4225ddbe0b6",
+        "blk-95b7ba2c9d4b5fd78db7",
+        "blk-c47771363ee359159d3c",
+        "blk-b6b00940cf1306b7050a",
+        "blk-3bdd12a4969b19c4d024",
+        "blk-342de71c3da5c1d52d98",
+        "blk-65730ce92a9ccccd2ad8",
+        "blk-26680b7555c57c6dd622",
+        "blk-5477e3fc33a53cf0e58c",
+        "blk-ae10cc78c238bfd5aa1e",
+        "blk-3988477d90cca5c7bdf0",
+        "blk-4ced028d7fa6bcfceaa3",
+        "blk-63c6fd95bf017c0db018",
+        "blk-dd9d0c8e9a4e36a0ba3f",
+        "blk-fdf986c6aed389c98eb0",
+        "blk-1addc13c54270f1180f5",
+        "blk-bf04c95cc55a76a30acb",
+        "blk-7e33735cd74ef0fb0eb7",
+        "blk-2f7e56273b17fa955e94",
+        "blk-d2579babb0cfe65facb4",
+        "blk-455dee851b2dc87f95fb",
+        "blk-170418d4007910f5ff83",
+        "blk-2508f67d190b466437b0",
+        "blk-46f682db94612a80dcb6",
+        "blk-760145f8f7820b5bd39d",
+        "blk-fa38b7e57255fb2668d6",
+        "blk-676b94321f778aa8120b",
+        "blk-0be7ecb9e2005264be38",
+        "blk-431214aef42112797254",
+        "blk-4be70c084e019504eb39",
+        "blk-4d12fcd73e8daa729cb2",
+        "blk-0f9b6e796bcfdf7ffb21",
+        "blk-a59d4a4301fbdb49bdd5",
+        "blk-3e7e1f36a8390adb85d6",
+        "blk-484423ff0bd83e0b5545",
+        "blk-2452fe66885fbe5800aa",
+        "blk-8a4976dea099b928ede1",
+        "blk-62da276c6974a994796e",
+        "blk-1df1fa2671c71a0bd6b6",
+        "blk-3104486c582873fe8b66",
+        "blk-0f47bc0514455adbaf30",
+        "blk-287be9cf56efcc4b681c",
+        "blk-b928bd8cf20e44aee247",
+        "blk-3bf79ffb617727f366cd",
+        "blk-4b02755d3f6555a81e69",
+        "blk-5edb548eca8975789a9d",
+        "blk-255018501bcfbd154760",
+        "blk-c25bbac58ee42e7e1b5a",
+        "blk-bc9268297b71f0ca6f42",
+        "blk-80934110f3825850b862",
+        "blk-f500bab202f0522331da",
+        "blk-b089024e3427ab315f3a",
+        "blk-10d2a15f6635872ff942",
+        "blk-95c2a9e13079a00772b5",
+        "blk-150e85b4dfe187f5069a",
+        "blk-5df60200caa37f5fb7d7",
+        "blk-245c773719bb3691d7d8",
+        "blk-d58c7da81ec42e73aa5f",
+        "blk-abc56d3ef0fc480b1bdd",
+        "blk-b8f008a675a628cb07d5",
+        "blk-ac784e9a372ba5a459c5",
+        "blk-efa8723e4a65941b518c",
+        "blk-44239f6897ff0827fcc1",
+        "blk-001ca165dd9d8752640a",
+        "blk-5ab18c08acf601c9db66",
+        "blk-8b2571d5fe8c2180448d",
+        "blk-2bafcd0d5c9152b714c6",
+        "blk-fa21308ce4a34dd47584",
+        "blk-3ee25b433c55ee814a46",
+        "blk-28d44899b75551ec327b",
+        "blk-699f52d8b80989d8824d"
+      ],
+      "page_end": 213,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "成渝地区双城经济圈科技创新能力建设政策措施",
+      "type": "政策建议"
+    },
+    "title": "成渝地区双城经济圈科技创新能力建设政策措施"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1999d149f46a:bundle-4ec15842424a",
+      "excluded_fragments": [],
+      "ref_id": "ref-1999d149f46a",
+      "source_blocks": [
+        {
+          "block_id": "blk-99ba0ddc00415383896d",
+          "page_number": 204,
+          "text": "成委办〔2020〕6号"
+        },
+        {
+          "block_id": "blk-82cf1e4e340562e12cba",
+          "page_number": 204,
+          "text": "为贯彻落实中央财经委员会第六次会议精神，推动实施中央关于创新驱动发展和成渝地区双城经济圈建设等重大决策部署，加快建设具有全国影响力的科技创新中心，助推全面体现新发展理念的城市建设，结合我市实际，制定本政策措施。"
+        },
+        {
+          "block_id": "blk-acacc3fa7544ccfed1ac",
+          "page_number": 204,
+          "text": "按照“一核四区”空间布局，推动成都科学城与新经济活力区、天府国际生物城、东部新区未来科技城、新一代信息技术创新基地联动发展，辐射带动产业功能区高质量发展。"
+        },
+        {
+          "block_id": "blk-c708f89278e0df19562e",
+          "page_number": 204,
+          "text": "围绕网络安全、航空航天、轨道交通、生命科学、量子信息、脑科学等领域，积极创建综合性国家科学中心，前瞻布局重大科技基础设施集群，规划建设国家重点实验室、前沿引领技术创新平台等重大创新平台，开展基础前沿技术、关键核心技术攻关。"
+        },
+        {
+          "block_id": "blk-576a9ed92404fd785f56",
+          "page_number": 204,
+          "text": "建设天府实验室，面向世界科技前沿、国家重大战略和城市发展需求，围绕前沿医学、能源互联网、航空研发、区块链等领域，对标国家实验室，探索新型科研管理体制，开展基础研究和原始创新。"
+        },
+        {
+          "block_id": "blk-0552783bfde285463c74",
+          "page_number": 204,
+          "text": "聚焦新一代信息技术、人工智能、生物医药、智能制造等重点领域，创造新技术、转化新成果、孵化新业态、发展新经济，打造创新驱动动力源、高质量发展增长极。"
+        },
+        {
+          "block_id": "blk-f7ef4eef143fff14d5f4",
+          "page_number": 204,
+          "text": "[责任单位：市科技局、市发改委、市规划和自然资源局，各区（市）县。逗号前为牵头单位，下同]"
+        },
+        {
+          "block_id": "blk-2f4b6a6b647408fe7162",
+          "page_number": 204,
+          "text": "梳理分析集成电路、智能制造、航空航天、生物医药等重点领域的产业链、技"
+        },
+        {
+          "block_id": "blk-be93d17ca1f65c67ba76",
+          "page_number": 205,
+          "text": "术链、创新链“薄弱缺”环节，实施补链强链专项行动计划。"
+        },
+        {
+          "block_id": "blk-724ab7fd1cdf823b3965",
+          "page_number": 205,
+          "text": "支持建设集成研发设计、金融服务、供应链保障等功能性综合服务平台，按照平台项目实际投入的 \\(30\\%\\) ，给予最高300万元一次性补助。实施重点产业专利导航计划，支持建设高价值专利培育中心，给予最高300万元资助。"
+        },
+        {
+          "block_id": "blk-49577d6bbb79e6fcd7a4",
+          "page_number": 205,
+          "text": "聚焦电子信息、装备制造、医药健康、新型材料等重点产业，支持中科院等知名科研机构、知名大学来蓉建设科研分支机构或新型研发机构，开展产学研协同创新，按照“一所（院、校）一策”方式给予综合支持。"
+        },
+        {
+          "block_id": "blk-45e871aff4225ddbe0b6",
+          "page_number": 205,
+          "text": "支持行业头部企业、创新型平台企业依托产业功能区，搭建线上线下融通的开放创新平台，整合人力、技术、信息、资本等创新资源要素，为供需双方提供技术研发、产品创新的交互对接场景和工具，引领打造共创共赢的创新生态。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-c47771363ee359159d3c",
+          "page_number": 205,
+          "text": "鼓励龙头企业以“众创、众包、众筹”等开放创新方式，整合集成产业链上下游企业、高校院所和技术创新联盟等实施产业集群协同创新，给予最高1000万元补助。支持制定国际标准，对主导制定国际标准的单位（组织）每项标准给予100万元奖励。"
+        },
+        {
+          "block_id": "blk-b6b00940cf1306b7050a",
+          "page_number": 205,
+          "text": "支持科技型中小企业融入本地龙头企业创新链、供应链，对自主立项、先行投入开发“硬核科技”重大创新产品并实现本地配套的，给予最高200万元补助。"
+        },
+        {
+          "block_id": "blk-3bdd12a4969b19c4d024",
+          "page_number": 205,
+          "text": "鼓励企业参与国家“卡脖子”关键核心技术攻关和科技创新2030-重大项目，对承担的国家重大科技计划项目给予最高200万元配套支持。对引进、新建的重大创新链功能项目，可“一事一议”予以资金等配套支持。"
+        },
+        {
+          "block_id": "blk-342de71c3da5c1d52d98",
+          "page_number": 205,
+          "text": "[责任单位：市发改委、14个产业生态圈责任部门，市科技局、市口岸物流办、各区（市）县]"
+        },
+        {
+          "block_id": "blk-65730ce92a9ccccd2ad8",
+          "page_number": 205,
+          "text": "推动产业功能区和龙头企业“双千兆”网络全覆盖，加快5G技术与工业网络、工业软件、控制系统融合，促进产业功能区数字化、网络化、智能化转型升级，在电子信息、轨道交通等领域打造智慧标杆园区。"
+        },
+        {
+          "block_id": "blk-26680b7555c57c6dd622",
+          "page_number": 205,
+          "text": "规划建设行业大数据中心、通用型工业互联网平台、现代数字城市底座等新型基础设施，促进“算力+算法+数据+应用”服务共享共用，在新经济、电子信息、文博文创等领域打造业态鲜明、功能突出的产业功能区。"
+        },
+        {
+          "block_id": "blk-5477e3fc33a53cf0e58c",
+          "page_number": 205,
+          "text": "加快建设转化医学设施、新药安全性评价中心、药物及医疗器械临床研究、医"
+        },
+        {
+          "block_id": "blk-ae10cc78c238bfd5aa1e",
+          "page_number": 206,
+          "text": "药定制研发生产、制药合同生产等服务平台，构建临床前研发、临床试验等功能完善的生物医药产业功能区。"
+        },
+        {
+          "block_id": "blk-3988477d90cca5c7bdf0",
+          "page_number": 206,
+          "text": "支持企业联合高校院所依托产业功能区建设科技基础设施及技术研发、检测检验、技术交易、创业孵化等科技创新平台，对国有企业在创新平台建设等方面的投入，在经营业绩考核中视同于利润。"
+        },
+        {
+          "block_id": "blk-4ced028d7fa6bcfceaa3",
+          "page_number": 206,
+          "text": "建立新型产业用地（M0）管理机制，在产业功能区内合理规划布局用于融合研发、设计、检测、中试、新经济等创新性业态的产业用地，可按新型产业用地类型管理，并兼容配套一定比例的职住平衡生活性服务设施。对科技型企业新建总部、研发中心等使用商务用地的，实行差异化土地供应价格。对重大科技基础设施、重大科学装置等项目用地，予以重点保障。"
+        },
+        {
+          "block_id": "blk-63c6fd95bf017c0db018",
+          "page_number": 206,
+          "text": "[责任单位：市发改委、市经信局、市商务局、市农业农村局，市科技局、市规划和自然资源局、市国资委、各区（市）县]"
+        },
+        {
+          "block_id": "blk-dd9d0c8e9a4e36a0ba3f",
+          "page_number": 206,
+          "text": "聚焦打造全链条、全周期、全要素、全流程、全方位的产业创新生态系统，在中心城区和东进区域的产业功能区重点打造集研发设计、创新转化、场景营造、社区服务等为一体的1000万平方米高质量、低成本科创空间。构建“科创空间+专业化运营队伍+创新创业载体+创新服务平台+科创基金”的创新综合服务体系。"
+        },
+        {
+          "block_id": "blk-fdf986c6aed389c98eb0",
+          "page_number": 206,
+          "text": "在科创空间布局建设创业苗圃、科技企业孵化器、硬核科技“二次开发”实验室、中试共享生产线以及重点产业垂直孵化器等载体。支持高校院所、头部企业独立或牵头设立产业技术研究院、创新中心等新型研发机构和检验检测、成果孵化基地等功能性平台。大力吸引创新创业团队、科技型企业、创投机构、孵化平台等入驻科创空间，对符合条件的3年内每年给予不低于 \\(50\\%\\) 的场地租金减免。"
+        },
+        {
+          "block_id": "blk-1addc13c54270f1180f5",
+          "page_number": 206,
+          "text": "创新科创空间国有建设运营企业考核激励办法，按照经营业绩考核特殊事项管理相关规定，突出功能属性和公益属性考核，把专职服务团队、在孵项目数量、知识产权质量等作为重要指标，引导提升创新服务保障能力。"
+        },
+        {
+          "block_id": "blk-bf04c95cc55a76a30acb",
+          "page_number": 206,
+          "text": "（责任单位：市发改委，市经信局、市科技局、市规划和自然资源局、市住建局、中心城区、空港新城、淮州新城、简州新城）"
+        },
+        {
+          "block_id": "blk-7e33735cd74ef0fb0eb7",
+          "page_number": 207,
+          "text": "加快建设5G引领的“双千兆”宽带城市，2020年实现中心城区和郊区市县城区、产业功能区、重点景区5G网络基本覆盖，推动实现全域规模应用。"
+        },
+        {
+          "block_id": "blk-2f7e56273b17fa955e94",
+          "page_number": 207,
+          "text": "支持5G、人工智能公共服务平台建设和行业融合创新应用，加快建设成都5G智慧城，培育5G在垂直领域的特色场景，打造5G、人工智能创新应用先导区，加快下一代规模互联网部署，推广工业互联网标识解析，壮大工业APP，探索园区数字化资源共享模式，培育工业互联网优势平台。深化工业设备联网和核心业务上云，支持生产线智能化改造和数字化车间、智能工厂建设。"
+        },
+        {
+          "block_id": "blk-d2579babb0cfe65facb4",
+          "page_number": 207,
+          "text": "打造工业互联网一体化发展示范区，加速区域内要素配置、技术服务、产业协同的一体化发展。对5G、人工智能、工业互联网的优秀产品和标杆应用，给予最高500万元补助。"
+        },
+        {
+          "block_id": "blk-455dee851b2dc87f95fb",
+          "page_number": 207,
+          "text": "[责任单位：市经信局，市发改委、市科技局、市网络理政办、各区（市）县]"
+        },
+        {
+          "block_id": "blk-170418d4007910f5ff83",
+          "page_number": 207,
+          "text": "支持四川大学、电子科技大学加快建设世界一流大学；支持西南交通大学、西南财经大学、西南石油大学、成都理工大学、四川农业大学、成都中医药大学建设世界一流学科，按“一事一议”给予综合支持。聚焦城市发展战略和重点产业需求，引进世界一流大学、国内“双一流”大学来蓉创设特色学院，按“一事一议”给予综合支持。"
+        },
+        {
+          "block_id": "blk-2508f67d190b466437b0",
+          "page_number": 207,
+          "text": "（责任单位：市教育局、市科技局，青羊区、金牛区、武侯区、成华区、新都区、温江区）"
+        },
+        {
+          "block_id": "blk-46f682db94612a80dcb6",
+          "page_number": 207,
+          "text": "在东部新区未来科技城规划建设国际合作高层次办学集聚区，引进世界级大学共建特色学院和研究生院。"
+        },
+        {
+          "block_id": "blk-760145f8f7820b5bd39d",
+          "page_number": 207,
+          "text": "支持高校和龙头企业围绕电子信息、智能制造、生物医药、新材料、现代金融等产业发展需要联合设立学科（专业），给予高校最高2000万元补助。"
+        },
+        {
+          "block_id": "blk-fa38b7e57255fb2668d6",
+          "page_number": 207,
+          "text": "鼓励采取“产业功能区+龙头企业+高校院所”方式创办高水平办学机构，联合开展研究生培养及科研活动，给予高校院所最高500万元补助。"
+        },
+        {
+          "block_id": "blk-676b94321f778aa8120b",
+          "page_number": 208,
+          "text": "支持采取“产业功能区+校区”“企业 \\(+\\) 高校”方式联合创办实训（实习）基地，给予高校最高100万元补助。"
+        },
+        {
+          "block_id": "blk-0be7ecb9e2005264be38",
+          "page_number": 208,
+          "text": "鼓励采取“校企共用、政企校共同分担相关费用”方式，开展校地企联合引进高层次科技人才和博士后人才。支持采取“高校教学+企业实践”“企业提需求、高校出师资、政府给资助”和“校企双导师”方式，联合培养硕（博）士，给予 \\(50\\%\\) 的学费补助。"
+        },
+        {
+          "block_id": "blk-431214aef42112797254",
+          "page_number": 208,
+          "text": "（责任单位：市科技局、市教育局、市人社局，市发改委、市规划和自然资源局、市投促局、成都东部新区）"
+        },
+        {
+          "block_id": "blk-4be70c084e019504eb39",
+          "page_number": 208,
+          "text": "鼓励行业龙头企业创建国家级研发平台，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的 \\(50\\%\\) 给予配套支持；对新获批建设的国家重点实验室、国家工程研究中心等创新平台，给予最高300万元支持。"
+        },
+        {
+          "block_id": "blk-4d12fcd73e8daa729cb2",
+          "page_number": 208,
+          "text": "支持龙头骨干企业联合高校院所共建市场化运行的高水平新型研发机构，引入国际高端创新资源，对符合要求的给予最高1亿元综合资助，并在科研人员科技项目申报资助等方面享受科研事业单位同等待遇。"
+        },
+        {
+          "block_id": "blk-0f9b6e796bcfdf7ffb21",
+          "page_number": 208,
+          "text": "支持科技型中小企业联合高校院所共建市级工程技术研究中心、产学研联合实验室，给予最高50万元资助。"
+        },
+        {
+          "block_id": "blk-a59d4a4301fbdb49bdd5",
+          "page_number": 208,
+          "text": "[责任单位：市科技局，市发改委、市经信局、各区（市）县]"
+        },
+        {
+          "block_id": "blk-3e7e1f36a8390adb85d6",
+          "page_number": 208,
+          "text": "支持科技企业、新型研发机构等独立或牵头组建“城市未来场景实验室”。"
+        },
+        {
+          "block_id": "blk-484423ff0bd83e0b5545",
+          "page_number": 208,
+          "text": "支持实验室围绕生产生活、城市治理等领域，开展新技术、新模式、新业态融合创新的场景实测，商业模型验证，市场前景评估。"
+        },
+        {
+          "block_id": "blk-2452fe66885fbe5800aa",
+          "page_number": 208,
+          "text": "对承担“城市未来场景实验室”项目的企业，根据股权融资、市场订单、营收规模等绩效目标分阶段给予项目成本 \\(15\\%\\) 、最高200万元资助。"
+        },
+        {
+          "block_id": "blk-8a4976dea099b928ede1",
+          "page_number": 208,
+          "text": "持续推出1000个示范新场景。对经实验室验证成功的应用场景项目，纳入成都新经济创新产品目录，在全市范围内开展示范建设，打造创新应用标杆。"
+        },
+        {
+          "block_id": "blk-62da276c6974a994796e",
+          "page_number": 208,
+          "text": "[责任单位：市新经济委，各区（市）县]"
+        },
+        {
+          "block_id": "blk-1df1fa2671c71a0bd6b6",
+          "page_number": 209,
+          "text": "持续推出1000个新经济新产品（服务）。建立创新产品政府购买制度，支持政府重点工程、政府投资项目及国有投资项目采购使用创新产品。对获得重大装备首台（套）、新材料首批次、软件首版次等认定的产品，分别给予生产企业、应用企业最高300万元补助。建立创新产品交易平台，按照包容审慎的原则构建创新产品（服务）推广应用新通道，促进创新产品的推广应用和新技术、新产业、新业态、新模式的发展。"
+        },
+        {
+          "block_id": "blk-3104486c582873fe8b66",
+          "page_number": 209,
+          "text": "（责任单位：市经信局、市财政局，市科技局、市国资委、市新经济委）"
+        },
+        {
+          "block_id": "blk-0f47bc0514455adbaf30",
+          "page_number": 209,
+          "text": "扩大天使投资引导基金规模，放宽政府引导基金出资期限、杠杆要求和财政出资返投比例，引导组建硬核科技、知识产权运营、新经济等天使投资基金。改进国有创投企业的投入机制和管理模式，强化引导和杠杆作用，由直接投入转为以组建基金间接投入为主。鼓励我市国有创投企业以跟投的方式与社会知名创投资本联合投资科技型企业。创投企业引进其域外（省外、境外）已投高新技术企业或项目落地我市，给予创投企业实际投资额 \\(2\\%\\) 、累计不超过1000万元奖励。对天使投资机构投资的本地（或外地迁入）的科技企业，给予企业实际获得股权融资额 \\(10\\%\\) 、最高100万元资助。"
+        },
+        {
+          "block_id": "blk-287be9cf56efcc4b681c",
+          "page_number": 209,
+          "text": "（责任单位：市金融监管局，市科技局、市财政局、市国资委、市新经济委）"
+        },
+        {
+          "block_id": "blk-b928bd8cf20e44aee247",
+          "page_number": 209,
+          "text": "支持符合条件的企业在多层次资本市场开展上市挂牌、发行债券、并购重组、再融资等活动。实施交子之星经济证券化倍增行动计划，建立科创板上市企业后备库，提供专项服务。对申请科创板上市并被上海证券交易所正式受理的给予200万元奖励，对成功在科创板首发上市的给予800万元奖励，对新迁入我市的科创板上市企业给予600万元奖励。支持天府股权交易中心设立科技创新专板，支持科技型中小企业在天府股权交易中心发行可转债。支持企业以专利权、商标权、著作权等知识产权形成的底层基础资产，在沪深交易所发行资产证券化产品。"
+        },
+        {
+          "block_id": "blk-3bf79ffb617727f366cd",
+          "page_number": 209,
+          "text": "（责任单位：市金融监管局，市经信局、市科技局、市文广旅局、市国资委、市"
+        },
+        {
+          "block_id": "blk-4b02755d3f6555a81e69",
+          "page_number": 210,
+          "text": "市场监管局、市新经济委）"
+        },
+        {
+          "block_id": "blk-5edb548eca8975789a9d",
+          "page_number": 210,
+          "text": "建立重大科技项目、重大关键核心技术攻关“揭榜挂帅”制度、科研项目经费“包干制+负面清单”制度。在研究方向不变、不降低考核指标的前提下，允许科研人员自主调整研究方案和技术路线、自主组织科研团队，由项目牵头单位报项目管理专业机构备案。"
+        },
+        {
+          "block_id": "blk-255018501bcfbd154760",
+          "page_number": 210,
+          "text": "科研事业单位的专业技术人员经所在单位同意，可到企业和其他科研机构、高校、社会组织等专职、兼职开展创新活动，并取得合法报酬；可离岗从事科技成果转化、在职创办科技型企业等创新创业活动。对科研人员（包括“双肩挑”科研人员）因学术交流合作需要临时出国的，在出访次数、团组人数、在外天数和证件管理要求等方面，根据工作需要据实安排。"
+        },
+        {
+          "block_id": "blk-c25bbac58ee42e7e1b5a",
+          "page_number": 210,
+          "text": "深化开展赋予科技人员职务科技成果所有权或长期使用权改革。对尚未完成或处于研发阶段的科技成果，除法律、行政法规另有规定的以外，高校院所可以与科研人员约定由双方共同申请和享有专利权或者相关知识产权。对与企业、其他社会组织合作的职务科技成果，允许合同相关方自主约定成果所有权归属。对不能确权分割的科技成果，高校院所可采取普通许可、独占许可或排他许可等方式给予科研人员长期使用权。"
+        },
+        {
+          "block_id": "blk-bc9268297b71f0ca6f42",
+          "page_number": 210,
+          "text": "支持高校院所、国资管理部门探索以知识产权等技术类无形资产作价投资的国有资产差别化管理制度，建立适应市场规律、符合成果转化规律的综合绩效考核机制。"
+        },
+        {
+          "block_id": "blk-80934110f3825850b862",
+          "page_number": 210,
+          "text": "（责任单位：市科技局，市发改委、市教育局、市财政局、市人社局、市国资委、市政府外办）"
+        },
+        {
+          "block_id": "blk-f500bab202f0522331da",
+          "page_number": 210,
+          "text": "鼓励海内外优秀大学生和青年人才来蓉实习见习，为其购买商业保险，留蓉工作的给予5000元/人的奖励。支持企业建立高校毕业生就业见习基地，给予毕业2年内的见习人员不低于当地最低工资标准 \\(80\\%\\) 的生活补助。市和区（市）县两级国有企事业单位在年度招聘计划中安排不低于 \\(30\\%\\) 的就业岗位，定向招聘应届高校毕业生。毕业5年内在蓉创业的青年大学生，可申请最高50万元、最长3年全额贴息的贷款支持。符合条件的大学生创业项目，可优先入驻科创空间、创业苗圃、青年（大学"
+        },
+        {
+          "block_id": "blk-b089024e3427ab315f3a",
+          "page_number": 211,
+          "text": "生）创业园，享受最长3年的租金减免。硕士研究生及以上人才来蓉前即可线上申请人才公寓，来蓉工作且符合安居资格的，购买人才公寓享受政策面积85折优惠；全日制普通高校毕业3年内的本科学历人才可按规定购买人才公寓。"
+        },
+        {
+          "block_id": "blk-10d2a15f6635872ff942",
+          "page_number": 211,
+          "text": "（责任单位：市人社局，市委组织部、市科技局、市住建局、团市委）"
+        },
+        {
+          "block_id": "blk-95c2a9e13079a00772b5",
+          "page_number": 211,
+          "text": "加强知识产权行政保护与司法保护有机衔接，建立重点行业和领域的知识产权侵权行为快速查处机制，指导和帮助企业维权。加强成都知识产权审判庭建设，推动设立成都知识产权法院，争取设立中国（成都）知识产权保护中心，构建快速审查、快速确权、快速维权一体化和行政执法、审判执行、仲裁协调多渠道的协同保护体系。"
+        },
+        {
+          "block_id": "blk-150e85b4dfe187f5069a",
+          "page_number": 211,
+          "text": "（责任单位：市市场监管局，市法院、市检察院、市委宣传部、市公安局、市司法局、市农业农村局、市文广旅局）"
+        },
+        {
+          "block_id": "blk-5df60200caa37f5fb7d7",
+          "page_number": 211,
+          "text": "规划建设天府国际技术转移中心，对落户的国内外知名技术交易（转移）机构给予最高100万元资金支持。"
+        },
+        {
+          "block_id": "blk-245c773719bb3691d7d8",
+          "page_number": 211,
+          "text": "支持企业独立或牵头建设“科学家经纪人”“工程师共享平台”“虚拟实验与制造平台”等新型创新服务平台，培育研发众包、网络众筹等服务新业态，给予最高100万元资助。"
+        },
+        {
+          "block_id": "blk-d58c7da81ec42e73aa5f",
+          "page_number": 211,
+          "text": "扩大科技创新券资助范围，支持科技服务机构向科技型中小企业、创新创业团队提供检验检测、标准认证、科技评估、科技咨询等专业服务。"
+        },
+        {
+          "block_id": "blk-abc56d3ef0fc480b1bdd",
+          "page_number": 211,
+          "text": "发展专业技术经纪人队伍，深化开展技术经纪人职称评定改革，鼓励在蓉高校、科研院所设立技术转移专业岗位，支持绩效工资分配向作出贡献的技术转移人员倾斜。"
+        },
+        {
+          "block_id": "blk-b8f008a675a628cb07d5",
+          "page_number": 211,
+          "text": "（责任单位：市科技局、市商务局，市委组织部、市人社局、成都天府新区）"
+        },
+        {
+          "block_id": "blk-ac784e9a372ba5a459c5",
+          "page_number": 211,
+          "text": "强化开放促创新，实施国际创新团队集聚计划，聚焦新一代信息技术、人工智能、航空航天、生物医药、轨道交通等领域，大力招引科研团队来蓉创新创业，给"
+        },
+        {
+          "block_id": "blk-efa8723e4a65941b518c",
+          "page_number": 212,
+          "text": "予场地租金减免、研发项目资助、股权融资跟投等综合支持。全面接轨国际人才评价标准，对取得有关国际职业资格证书的人才，比照认定或享受相应等级待遇。"
+        },
+        {
+          "block_id": "blk-44239f6897ff0827fcc1",
+          "page_number": 212,
+          "text": "办好“一带一路”科技交流大会，对在蓉举办线上线下一体的大型国际性科技博览会，给予实际投入 \\(30\\%\\) 、最高200万元补助；对定期或永久落户我市的国际高水平科技交流活动，连续3年每年给予最高100万元补助。"
+        },
+        {
+          "block_id": "blk-001ca165dd9d8752640a",
+          "page_number": 212,
+          "text": "鼓励产业功能区、科技企业、新型研发机构赴境外创新资源集聚区建设离岸研发中心、协同创新中心、孵化中心、国际联合实验室、国际技术转移中心等创新平台，每家给予最高200万元资助。"
+        },
+        {
+          "block_id": "blk-5ab18c08acf601c9db66",
+          "page_number": 212,
+          "text": "支持世界500强企业、全球知名大学和科研机构在蓉设立具有独立法人资格的外资研发机构、跨国公司联合实验室，按实际投入的 \\(30\\%\\) 给予配套支持。"
+        },
+        {
+          "block_id": "blk-8b2571d5fe8c2180448d",
+          "page_number": 212,
+          "text": "[责任单位：市科技局、市人才办，市人社局、市投促局、市政府外办、市博览局、各区（市）县]"
+        },
+        {
+          "block_id": "blk-2bafcd0d5c9152b714c6",
+          "page_number": 212,
+          "text": "将财政科技投入纳入各级财政重点保障范围，逐年加大投入力度，确保财政科技投入3年翻一番。发挥财政资金的杠杆作用，引导激励企业和社会力量加大科技投入，加快建立完善多元化、多层次、多渠道的科技投入体系。加强向上争取，强化资金统筹使用，重点保障重大科技基础设施建设、产业关键技术研发、科技创新能力提升等方面。"
+        },
+        {
+          "block_id": "blk-fa21308ce4a34dd47584",
+          "page_number": 212,
+          "text": "[责任单位：市财政局，市发改委、市科技局、各区（市）县]"
+        },
+        {
+          "block_id": "blk-3ee25b433c55ee814a46",
+          "page_number": 212,
+          "text": "本市相关政策与本政策措施不一致的部分，以本政策措施为准。"
+        },
+        {
+          "block_id": "blk-28d44899b75551ec327b",
+          "page_number": 212,
+          "text": "本政策措施自印发之日起施行，有效期5年。"
+        },
+        {
+          "block_id": "blk-699f52d8b80989d8824d",
+          "page_number": 213,
+          "text": "成科字〔2020〕12号"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-decc0d627d72",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-1999d149f46a"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,801 @@
+{
+  "contract": {
+    "canonical_question": "2020年成都外商投资规模、招引力度及营商环境改善的具体表现与数据支撑是什么？",
+    "claims": [
+      {
+        "claim": "2020年成都外商投资总额为323.3亿元。",
+        "claim_id": "claim-f36b5928022572a6",
+        "evidence_block_ids": [
+          "blk-8276b5eac12756a013a1"
+        ],
+        "evidence_excerpt": "2020年，成都外商投资总额为323.3亿元",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          107
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都外商投资总额较2019年增长了60.8%。",
+        "claim_id": "claim-f154948b6d30e64f",
+        "evidence_block_ids": [
+          "blk-8276b5eac12756a013a1"
+        ],
+        "evidence_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          107
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都荣获“2020中国最具投资吸引力城市”第一名。",
+        "claim_id": "claim-4c259883a73018c9",
+        "evidence_block_ids": [
+          "blk-8276b5eac12756a013a1"
+        ],
+        "evidence_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%\\) ，荣获“2020中国最具投资吸引力城市”第一名",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          107
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都连续八年稳居“最具投资吸引力城市”第一名。",
+        "claim_id": "claim-8886720cbf2861e7",
+        "evidence_block_ids": [
+          "blk-8276b5eac12756a013a1"
+        ],
+        "evidence_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%\\) ，荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          107
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都全年招引外商投资项目数699个。",
+        "claim_id": "claim-4664bf6d5b171797",
+        "evidence_block_ids": [
+          "blk-e64e3604d9dc6a324cb0"
+        ],
+        "evidence_excerpt": "2020年，全年招引外商投资项目数699个",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          108
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都招引外商投资项目数同比增长20.9%。",
+        "claim_id": "claim-f0169bb6ef760c07",
+        "evidence_block_ids": [
+          "blk-e64e3604d9dc6a324cb0"
+        ],
+        "evidence_excerpt": "2020年，全年招引外商投资项目数699个，同比增长 \\(20.9\\%",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          108
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都制定印发《成都市促进外资外贸稳定发展行动方案》。",
+        "claim_id": "claim-b0f8401fd39217ce",
+        "evidence_block_ids": [
+          "blk-e64e3604d9dc6a324cb0"
+        ],
+        "evidence_excerpt": "制定印发《成都市促进外资外贸稳定发展行动方案》",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          108
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "《成都市促进外资外贸稳定发展行动方案》形成12方面34条重点任务。",
+        "claim_id": "claim-ab4d78201f34027f",
+        "evidence_block_ids": [
+          "blk-e64e3604d9dc6a324cb0"
+        ],
+        "evidence_excerpt": "《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          108
+        ],
+        "ref_id": "ref-8a5d6a28b87e",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f36b5928022572a6",
+          "claim-f154948b6d30e64f",
+          "claim-4c259883a73018c9",
+          "claim-8886720cbf2861e7",
+          "claim-4664bf6d5b171797",
+          "claim-f0169bb6ef760c07",
+          "claim-b0f8401fd39217ce",
+          "claim-ab4d78201f34027f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+        "reason": "该Bundle包含回答外商投资规模、招引力度、营商环境三个核心维度的所有必要事实，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-f2d099395f3a",
+    "members": [
+      {
+        "contribution": "该证据直接提供了2020年成都外商投资总额、增长率、项目数量、政策文件及资金兑现等核心数据，完整覆盖了分析框架中关于规模、力度和环境的固定槽位要求。",
+        "ref_id": "ref-8a5d6a28b87e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-f36b5928022572a6",
+        "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f154948b6d30e64f",
+        "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4664bf6d5b171797",
+        "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f0169bb6ef760c07",
+        "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b0f8401fd39217ce",
+        "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ab4d78201f34027f",
+        "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4c259883a73018c9",
+        "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8886720cbf2861e7",
+        "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-f36b5928022572a6",
+          "claim-f154948b6d30e64f",
+          "claim-4664bf6d5b171797",
+          "claim-f0169bb6ef760c07",
+          "claim-4c259883a73018c9",
+          "claim-8886720cbf2861e7"
+        ],
+        "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%，全年招引外商投资项目数699个，同比增长20.9%，并荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-47809db8ba33928a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f36b5928022572a6",
+          "claim-f154948b6d30e64f"
+        ],
+        "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5dfe37edc97af62b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b0f8401fd39217ce",
+          "claim-ab4d78201f34027f"
+        ],
+        "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-467b2915ce659325",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4664bf6d5b171797",
+          "claim-f0169bb6ef760c07"
+        ],
+        "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d0594e0c1e5684d2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4c259883a73018c9",
+          "claim-8886720cbf2861e7"
+        ],
+        "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-059e4d5661ff3c1a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f36b5928022572a6",
+          "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f154948b6d30e64f",
+          "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4664bf6d5b171797",
+          "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f0169bb6ef760c07",
+          "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b0f8401fd39217ce",
+          "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ab4d78201f34027f",
+          "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4c259883a73018c9",
+          "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8886720cbf2861e7",
+          "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-f36b5928022572a6",
+            "claim-f154948b6d30e64f",
+            "claim-4664bf6d5b171797",
+            "claim-f0169bb6ef760c07",
+            "claim-4c259883a73018c9",
+            "claim-8886720cbf2861e7"
+          ],
+          "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%，全年招引外商投资项目数699个，同比增长20.9%，并荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+          "finding": "supported",
+          "sentence_id": "sentence-47809db8ba33928a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f36b5928022572a6",
+            "claim-f154948b6d30e64f"
+          ],
+          "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+          "finding": "supported",
+          "sentence_id": "sentence-5dfe37edc97af62b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b0f8401fd39217ce",
+            "claim-ab4d78201f34027f"
+          ],
+          "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+          "finding": "supported",
+          "sentence_id": "sentence-467b2915ce659325",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4664bf6d5b171797",
+            "claim-f0169bb6ef760c07"
+          ],
+          "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+          "finding": "supported",
+          "sentence_id": "sentence-d0594e0c1e5684d2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4c259883a73018c9",
+            "claim-8886720cbf2861e7"
+          ],
+          "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+          "finding": "supported",
+          "sentence_id": "sentence-059e4d5661ff3c1a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "5954ccc52006cc1e7a6ccb54483f14aee4a27d1ce710d385a06b21e65e688668",
+  "coverage_history": [
+    {
+      "draft_sha256": "58f29ff70dd082305452c8ee59d900a5046f24671c7754c1dbde895129e6c5bc",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b0f8401fd39217ce",
+            "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务，为外资稳定发展提供制度保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ab4d78201f34027f",
+            "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务，为外资稳定发展提供制度保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f36b5928022572a6",
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f154948b6d30e64f",
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4664bf6d5b171797",
+            "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f0169bb6ef760c07",
+            "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4c259883a73018c9",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-4c259883a73018c9 is missing hard anchors from the claim: ['2020年']; claim='2020年成都荣获“2020中国最具投资吸引力城市”第一名。'; excerpt='荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8886720cbf2861e7",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8886720cbf2861e7 is missing hard anchors from the claim: ['2020年']; claim='2020年成都连续八年稳居“最具投资吸引力城市”第一名。'; excerpt='荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年成都通过创新举措巩固外商投资基本盘，实现外资总额大幅增长并荣获多项投资吸引力荣誉。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ebe10993bcaf36bf",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，面对新冠肺炎疫情影响全球外商投资的不利形势，成都以招引优质项目为抓手，以构筑国际化营商环境为保障，主动创新作为，巩固外商投资基本盘，做大吸引外资引力场，外资招引水平持续提升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-31c2f20096890ca5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0f8401fd39217ce",
+              "claim-ab4d78201f34027f"
+            ],
+            "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务，为外资稳定发展提供制度保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-511bb1762decff8d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f36b5928022572a6",
+              "claim-f154948b6d30e64f"
+            ],
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9da83f17ad533eaa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4664bf6d5b171797",
+              "claim-f0169bb6ef760c07"
+            ],
+            "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aae22785519eca05",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4c259883a73018c9",
+              "claim-8886720cbf2861e7"
+            ],
+            "draft_excerpt": "荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c92ef55125d6f6a8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年成都通过创新举措巩固外商投资基本盘，实现外资总额大幅增长并荣获多项投资吸引力荣誉。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年，面对新冠肺炎疫情影响全球外商投资的不利形势，成都以招引优质项目为抓手，以构筑国际化营商环境为保障，主动创新作为，巩固外商投资基本盘，做大吸引外资引力场，外资招引水平持续提升。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "5954ccc52006cc1e7a6ccb54483f14aee4a27d1ce710d385a06b21e65e688668",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-f36b5928022572a6",
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f154948b6d30e64f",
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4664bf6d5b171797",
+            "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f0169bb6ef760c07",
+            "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0f8401fd39217ce",
+            "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ab4d78201f34027f",
+            "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4c259883a73018c9",
+            "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8886720cbf2861e7",
+            "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f36b5928022572a6",
+              "claim-f154948b6d30e64f",
+              "claim-4664bf6d5b171797",
+              "claim-f0169bb6ef760c07",
+              "claim-4c259883a73018c9",
+              "claim-8886720cbf2861e7"
+            ],
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%，全年招引外商投资项目数699个，同比增长20.9%，并荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-47809db8ba33928a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f36b5928022572a6",
+              "claim-f154948b6d30e64f"
+            ],
+            "draft_excerpt": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5dfe37edc97af62b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0f8401fd39217ce",
+              "claim-ab4d78201f34027f"
+            ],
+            "draft_excerpt": "成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-467b2915ce659325",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4664bf6d5b171797",
+              "claim-f0169bb6ef760c07"
+            ],
+            "draft_excerpt": "2020年，全年招引外商投资项目数699个，同比增长20.9%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0594e0c1e5684d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4c259883a73018c9",
+              "claim-8886720cbf2861e7"
+            ],
+            "draft_excerpt": "2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-059e4d5661ff3c1a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%。\n\n## 政策举措与成效\n\n成都制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务。\n\n- 2020年，全年招引外商投资项目数699个，同比增长20.9%。\n- 2020年，成都荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+    "description": "2020年，成都外商投资总额为323.3亿元，较2019年增长了60.8%，全年招引外商投资项目数699个，同比增长20.9%，并荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+    "ref": {
+      "asset_hints": [
+        "image-074"
+      ],
+      "concept_id": "topic-f2d099395f3a",
+      "description": "2020年，面对新冠肺炎疫情影响全球外商投资的不利形势，成都以招引优质项目为抓手，以构筑国际化营商环境为保障，主动创新作为，巩固外商投资基本盘，做大吸引外资引力场，外资招引水平持续提升。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "2020年，成都外商投资总额为323.3亿元",
+        "2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%",
+        "2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%\\) ，荣获“2020中国最具投资吸引力城市”第一名",
+        "2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%\\) ，荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。",
+        "2020年，全年招引外商投资项目数699个",
+        "2020年，全年招引外商投资项目数699个，同比增长 \\(20.9\\%",
+        "制定印发《成都市促进外资外贸稳定发展行动方案》",
+        "《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务"
+      ],
+      "evidence_block_ids": [
+        "blk-8276b5eac12756a013a1",
+        "blk-e64e3604d9dc6a324cb0"
+      ],
+      "page_end": 108,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "“引进来”水平持续提升",
+      "type": "分析框架"
+    },
+    "title": "“引进来”水平持续提升"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-8a5d6a28b87e:bundle-81d149cd0a3d",
+      "excluded_fragments": [],
+      "ref_id": "ref-8a5d6a28b87e",
+      "source_blocks": [
+        {
+          "block_id": "blk-57163a6340c92d1df208",
+          "page_number": 107,
+          "text": "2020年，面对新冠肺炎疫情影响全球外商投资的不利形势，成都以招引优质项目为抓手，以构筑国际化营商环境为保障，主动创新作为，巩固外商投资基本盘，做大吸引外资引力场，外资招引水平持续提升。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-8276b5eac12756a013a1",
+          "page_number": 107,
+          "text": "外商投资规模继续扩大。2020年，成都外商投资总额为323.3亿元，较2019年增长了 \\(60.8\\%\\) ，荣获“2020中国最具投资吸引力城市”第一名和“2020中国十佳外商投资最满意城市”荣誉称号，连续八年稳居“最具投资吸引力城市”第一名。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-954e0565ec0fa3c4bcd7",
+          "page_number": 108,
+          "text": "原始 PDF 第 108 页图片"
+        },
+        {
+          "block_id": "blk-8a5b1e337bdebed249ea",
+          "page_number": 108,
+          "text": "图2-7 2016—2020年成都外商投资总额情况"
+        },
+        {
+          "block_id": "blk-4ad1294729ccede10895",
+          "page_number": 108,
+          "text": "资料来源：2016—2020成都市对外投资合作发展报告"
+        },
+        {
+          "block_id": "blk-e64e3604d9dc6a324cb0",
+          "page_number": 108,
+          "text": "外资招引力度不断加大。成立由成都市领导挂帅的跨国公司及外资企业产业项目招商专班，强力推动重大外资项目落地，2020年，全年招引外商投资项目数699个，同比增长 \\(20.9\\%\\) 。制定印发《成都市促进外资外贸稳定发展行动方案》，形成12方面34条重点任务，全力稳住外资外贸基本盘。实施“项目招引攻坚”“百日擂台赛”“外资攻坚季”等投资促进专项行动，创新开展“云端商务”活动，搭建招商引资“云端会客厅”，有效促进外资企稳回升。推动中法、中德、新川等6大国别园区投资促进，制定并组织实施国别园区投资促进行动计划，强化国别园区定向招商。"
+        },
+        {
+          "block_id": "blk-7656ac5a050e99345593",
+          "page_number": 108,
+          "text": "国际化营商环境持续改善。全面落实最新版全国和自贸试验区外商投资准入负面清单加准入前国民待遇制度，推进“非禁即入”普遍落实，加大外资企业保障力度，建立实施市区（市）县功能区三级外资企业服务专员机制和外商投资促进服务联席会议制度，持续推进外资企业在蓉投资全生命周期的跟踪服务，外商投资便利化水平不断提升。贯彻落实《外商投资法》及相关法规政策，启动《成都市国际中小企业招引专项资金管理暂行办法》政策，兑现外资企业资金奖励约1766万元②。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-f2d099395f3a",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-8a5d6a28b87e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

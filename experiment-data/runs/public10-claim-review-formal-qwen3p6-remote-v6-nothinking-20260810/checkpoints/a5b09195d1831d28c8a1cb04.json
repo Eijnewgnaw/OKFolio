@@ -1,0 +1,2402 @@
+{
+  "contract": {
+    "canonical_question": "成都资源要素运筹配置能力在中西部城市的相对地位如何，以及与国际顶尖城市相比存在哪些具体差距？",
+    "claims": [
+      {
+        "claim": "2021年，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名。",
+        "claim_id": "claim-f5ed6d300e1aa88b",
+        "evidence_block_ids": [
+          "blk-ac6f7915fa98d8264d6c"
+        ],
+        "evidence_excerpt": "在2021年全球创新指数榜单中，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名，城市创新策源能力稳步提升。",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都实现输出技术成交额1189.4亿元。",
+        "claim_id": "claim-54da88c80bbc579d",
+        "evidence_block_ids": [
+          "blk-a01b59398e58b4b3129e"
+        ],
+        "evidence_excerpt": "2021年，成都实现输出技术成交额1189.4亿元①。",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          99
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首。",
+        "claim_id": "claim-65f61e03ebd87bf0",
+        "evidence_block_ids": [
+          "blk-bfca6001501b66860d62",
+          "blk-dd95447d550fd970f903"
+        ],
+        "evidence_excerpt": "2021年，成都加快建设服务共建“一带一路”国家和地区的西部金融中心，持续引进境内外金融机构，积极促进跨境投融资便利化，加速国际化金融科技研究与\n\n应用实践，助推开放型经济发展迈上新台阶。在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位，金融影响力进一步提升。",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          102,
+          103
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都金融科技排名大幅提升16位。",
+        "claim_id": "claim-5a770f8455fc0dbd",
+        "evidence_block_ids": [
+          "blk-bfca6001501b66860d62",
+          "blk-dd95447d550fd970f903"
+        ],
+        "evidence_excerpt": "2021年，成都加快建设服务共建“一带一路”国家和地区的西部金融中心，持续引进境内外金融机构，积极促进跨境投融资便利化，加速国际化金融科技研究与\n\n应用实践，助推开放型经济发展迈上新台阶。在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位，金融影响力进一步提升。",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          102,
+          103
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2021年底，在蓉外国专家数量达3575人。",
+        "claim_id": "claim-a2685b75a85a3379",
+        "evidence_block_ids": [
+          "blk-c817ea0d9615c13eb82c"
+        ],
+        "evidence_excerpt": "截至2021年底，在蓉外国专家数量达3575人①，其中，成都天府国际生物城落户5个“诺奖”团队、4个国家级院士团队和51个高层次人才团队②。",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都实现跨境人民币结算额为1459.6亿元，同比增长25.7%。",
+        "claim_id": "claim-425154e701683986",
+        "evidence_block_ids": [
+          "blk-e3c54beb0c6f670e89cc",
+          "blk-f655c87bd113079a72cb"
+        ],
+        "evidence_excerpt": "2021年，提供跨境人民币结算业务的银行机构达46家，实现人民币跨境结算额为1459.6亿元，同比增长 \\(25.7\\%\\) ，贸易和直接投资项目下业务规\n\n模增长 \\(67\\%",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          104,
+          105
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都与香港、新加坡、伦敦等地区的证券交易所建立合作，在蓉外资金融机构增加至95家。",
+        "claim_id": "claim-9533b99653b1d728",
+        "evidence_block_ids": [
+          "blk-456f70d6d81209b7de03"
+        ],
+        "evidence_excerpt": "2021年，成都与香港、新加坡、伦敦等地区的证券交易所建立合作，中银金科、浦银金科在蓉设立基地，成方金融科技有限公司暨中国人民银行软件开发中心（成都）基地实现注册，在蓉外资金融机构增加至95家①。",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          103
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+        "claim_id": "claim-72790a2a42a79555",
+        "evidence_block_ids": [
+          "blk-456f70d6d81209b7de03"
+        ],
+        "evidence_excerpt": "在蓉国际资本规模扩大，天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元；与韩国最大风险投资机构——韩国投资伙伴株式会社合作，中韩创新创业产业基金规模达8.7亿元，总投资比例达到\\(60.6\\%\\)②。本土企业境外发债保持良好势头，2021年",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          103
+        ],
+        "ref_id": "ref-07c40aee600d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都资源要素运筹力在中西部城市中领先优势明显，金融方面在全球金融中心指数中排名第74位，高于西安（112位）、武汉（137位）、重庆（150位）。",
+        "claim_id": "claim-f7ea9f22b52852f0",
+        "evidence_block_ids": [
+          "blk-e01be97e60a2061a5d4d"
+        ],
+        "evidence_excerpt": "对比分析发现，成都资源要素运筹力在中西部城市中领先优势明显。金融方面，2019年，成都在全球金融中心指数中排名第74位，与西安（112位）、武汉（137位）、重庆（150位）等中西部城市相比，优势明显，尤其在金融科技方面表现突出，但与上海、深圳、广州等城市差距较大。",
+        "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          58
+        ],
+        "ref_id": "ref-11f51009582f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+        "claim_id": "claim-8fbe19037fc6fed7",
+        "evidence_block_ids": [
+          "blk-e01be97e60a2061a5d4d"
+        ],
+        "evidence_excerpt": "人才方面，据《2020中国人才指数》结果显示，北京、上海、广州人才指数明显引领，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市；",
+        "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          58
+        ],
+        "ref_id": "ref-11f51009582f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%。",
+        "claim_id": "claim-8c067ee59c97403e",
+        "evidence_block_ids": [
+          "blk-e01be97e60a2061a5d4d"
+        ],
+        "evidence_excerpt": "但成都外籍人才数量仅为上海外籍人才数量的 \\(5.5\\%\\) 、北京的 \\(14\\%\\) 、深圳的 \\(23\\%\\) 、广州的 \\(29\\%\\) ，外籍人才总量有待提升",
+        "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          58
+        ],
+        "ref_id": "ref-11f51009582f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+        "claim_id": "claim-400bff228cb5c03d",
+        "evidence_block_ids": [
+          "blk-e01be97e60a2061a5d4d"
+        ],
+        "evidence_excerpt": "成都外籍人才以教科文卫类为主，重点产业对国外人才吸引力较弱，截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的 \\(16.7\\%\\) ，与上海（\\(17.7\\%\\)）、苏州（\\(37.4\\%\\)）尚有一定差距",
+        "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          58
+        ],
+        "ref_id": "ref-11f51009582f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+        "claim_id": "claim-fd96a4d0ac63bcf8",
+        "evidence_block_ids": [
+          "blk-e01be97e60a2061a5d4d"
+        ],
+        "evidence_excerpt": "科技方面，2019年，成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显；",
+        "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          58
+        ],
+        "ref_id": "ref-11f51009582f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f5ed6d300e1aa88b",
+          "claim-54da88c80bbc579d",
+          "claim-65f61e03ebd87bf0",
+          "claim-5a770f8455fc0dbd",
+          "claim-a2685b75a85a3379",
+          "claim-425154e701683986",
+          "claim-9533b99653b1d728",
+          "claim-72790a2a42a79555"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+        "reason": "包含回答中心问题所需的核心事实，包括成都GII排名、技术输出成交额、金融排名、人才政策成效及金融机构集聚情况，对应分析框架的subject、core_judgment、evidence、impact等槽位。"
+      },
+      {
+        "claim_ids": [
+          "claim-f7ea9f22b52852f0",
+          "claim-8fbe19037fc6fed7",
+          "claim-8c067ee59c97403e",
+          "claim-400bff228cb5c03d",
+          "claim-fd96a4d0ac63bcf8"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+        "reason": "包含回答中心问题所需的核心事实，包括成都与中西部城市及国际一线城市的金融、人才、科技对比数据，对应分析框架的subject、core_judgment、evidence、constraint等槽位。"
+      }
+    ],
+    "group_id": "topic-e792487bf739",
+    "members": [
+      {
+        "contribution": "提供成都国际创新环境、人才政策体系及金融开放体系的建设成效，涵盖GII排名、技术输出成交额、金融机构集聚及跨境金融服务等核心指标，构成回答中心问题的内部能力基础。",
+        "ref_id": "ref-07c40aee600d",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成都资源要素运筹力在中西部城市的领先优势对比，以及与国际一线及新一线城市在金融排名、外籍人才结构、科技研发实力方面的具体差距，构成回答中心问题的外部参照系。",
+        "ref_id": "ref-11f51009582f",
+        "relation": "qualifies"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-f7ea9f22b52852f0",
+        "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8fbe19037fc6fed7",
+        "draft_excerpt": "人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fd96a4d0ac63bcf8",
+        "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8c067ee59c97403e",
+        "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-400bff228cb5c03d",
+        "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f5ed6d300e1aa88b",
+        "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-54da88c80bbc579d",
+        "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-65f61e03ebd87bf0",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-65f61e03ebd87bf0 is missing hard anchors from the claim: ['31', '40']; claim='2021年，成都在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首。'; excerpt='2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-9533b99653b1d728",
+        "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-72790a2a42a79555",
+        "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-425154e701683986",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-5a770f8455fc0dbd",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-a2685b75a85a3379",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-91b64f10adb873b7",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-f7ea9f22b52852f0"
+        ],
+        "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2e3aadfb843bb595",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f7ea9f22b52852f0"
+        ],
+        "draft_excerpt": "金融方面，2019年成都在全球金融中心指数中排名第74位，高于西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-50d3611e7e609721",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8fbe19037fc6fed7"
+        ],
+        "draft_excerpt": "人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d6d7fd8ddd45fd72",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fd96a4d0ac63bcf8"
+        ],
+        "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dd8b1570351a80e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ebbff24c59790e77",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-faae4b38b04fcb79",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-8c067ee59c97403e"
+        ],
+        "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a7cc8a7ef9d9a04c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-400bff228cb5c03d"
+        ],
+        "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4a005cec1dcec059",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f5ed6d300e1aa88b"
+        ],
+        "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-77cf94966855cfc8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-54da88c80bbc579d"
+        ],
+        "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e84abdac44563ec7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-65f61e03ebd87bf0",
+          "claim-5a770f8455fc0dbd"
+        ],
+        "draft_excerpt": "2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-eec507fb7dcf0d82",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9533b99653b1d728",
+          "claim-425154e701683986"
+        ],
+        "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c3e153e77d8261ce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-72790a2a42a79555"
+        ],
+        "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ad6b3e8a595533e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f7ea9f22b52852f0"
+        ],
+        "draft_excerpt": "2019年成都GFCI排名74位，显著领先西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-72bb231bdf94dc9d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8fbe19037fc6fed7"
+        ],
+        "draft_excerpt": "据《2020中国人才指数》结果显示，2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-08d5b6c0cbb58ca7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8c067ee59c97403e"
+        ],
+        "draft_excerpt": "成都外籍人才数量仅为上海的5.5%、北京的14%、深圳的23%、广州的29%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b5930009cf957d1d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fd96a4d0ac63bcf8"
+        ],
+        "draft_excerpt": "2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8332a77608b14e31",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-400bff228cb5c03d"
+        ],
+        "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a7a6b13bcaffaefa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "2020年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f7ea9f22b52852f0",
+          "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8fbe19037fc6fed7",
+          "draft_excerpt": "人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fd96a4d0ac63bcf8",
+          "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8c067ee59c97403e",
+          "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-400bff228cb5c03d",
+          "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f5ed6d300e1aa88b",
+          "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-54da88c80bbc579d",
+          "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-65f61e03ebd87bf0",
+          "draft_excerpt": "2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-91b64f10adb873b7",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-f7ea9f22b52852f0"
+          ],
+          "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+          "finding": "supported",
+          "sentence_id": "sentence-2e3aadfb843bb595",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f7ea9f22b52852f0"
+          ],
+          "draft_excerpt": "金融方面，2019年成都在全球金融中心指数中排名第74位，高于西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-50d3611e7e609721",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8fbe19037fc6fed7"
+          ],
+          "draft_excerpt": "人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-d6d7fd8ddd45fd72",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fd96a4d0ac63bcf8"
+          ],
+          "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+          "finding": "supported",
+          "sentence_id": "sentence-dd8b1570351a80e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-ebbff24c59790e77",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-faae4b38b04fcb79",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-8c067ee59c97403e"
+          ],
+          "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+          "finding": "supported",
+          "sentence_id": "sentence-a7cc8a7ef9d9a04c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-400bff228cb5c03d"
+          ],
+          "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+          "finding": "supported",
+          "sentence_id": "sentence-4a005cec1dcec059",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f5ed6d300e1aa88b"
+          ],
+          "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+          "finding": "supported",
+          "sentence_id": "sentence-77cf94966855cfc8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-54da88c80bbc579d"
+          ],
+          "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-e84abdac44563ec7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-65f61e03ebd87bf0",
+            "claim-5a770f8455fc0dbd"
+          ],
+          "draft_excerpt": "2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。",
+          "finding": "supported",
+          "sentence_id": "sentence-eec507fb7dcf0d82",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-9533b99653b1d728",
+          "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-72790a2a42a79555",
+          "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f7ea9f22b52852f0",
+          "draft_excerpt": "2019年成都GFCI排名74位，显著领先西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8fbe19037fc6fed7",
+          "draft_excerpt": "据《2020中国人才指数》结果显示，2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8c067ee59c97403e",
+          "draft_excerpt": "成都外籍人才数量仅为上海的5.5%、北京的14%、深圳的23%、广州的29%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fd96a4d0ac63bcf8",
+          "draft_excerpt": "2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-400bff228cb5c03d",
+          "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-9533b99653b1d728",
+            "claim-425154e701683986"
+          ],
+          "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-c3e153e77d8261ce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-72790a2a42a79555"
+          ],
+          "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-ad6b3e8a595533e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f7ea9f22b52852f0"
+          ],
+          "draft_excerpt": "2019年成都GFCI排名74位，显著领先西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-72bb231bdf94dc9d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8fbe19037fc6fed7"
+          ],
+          "draft_excerpt": "据《2020中国人才指数》结果显示，2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。",
+          "finding": "supported",
+          "sentence_id": "sentence-08d5b6c0cbb58ca7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8c067ee59c97403e"
+          ],
+          "draft_excerpt": "成都外籍人才数量仅为上海的5.5%、北京的14%、深圳的23%、广州的29%。",
+          "finding": "supported",
+          "sentence_id": "sentence-b5930009cf957d1d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fd96a4d0ac63bcf8"
+          ],
+          "draft_excerpt": "2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。",
+          "finding": "supported",
+          "sentence_id": "sentence-8332a77608b14e31",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-400bff228cb5c03d"
+          ],
+          "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+          "finding": "supported",
+          "sentence_id": "sentence-a7a6b13bcaffaefa",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "9c17f9cfb3ee57bcbb279ca290ccd45c50f8d6b14b16f80e9c248152bf5efab9",
+  "coverage_history": [
+    {
+      "draft_sha256": "cc77c25689628ee63e55580e0f7ddac0d14444da97e0a09bac01352d90d50b4f",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f7ea9f22b52852f0",
+            "draft_excerpt": "2019年，成都在全球金融中心指数中排名第74位，显著领先于西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54da88c80bbc579d",
+            "draft_excerpt": "实现输出技术成交额1189.4亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65f61e03ebd87bf0",
+            "draft_excerpt": "金融方面，2021年成都在全球金融中心指数（GFCI31）排名为37位，金融科技排名大幅提升16位；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5a770f8455fc0dbd",
+            "draft_excerpt": "金融方面，2021年成都在全球金融中心指数（GFCI31）排名为37位，金融科技排名大幅提升16位；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9533b99653b1d728",
+            "draft_excerpt": "成都正通过加快建设西部金融中心、引进境内外金融机构及促进跨境投融资便利化，助推开放型经济发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2685b75a85a3379",
+            "draft_excerpt": "同时，城市创新策源能力稳步提升，高端要素集聚效应初步显现，但外籍人才总量及重点产业吸引力有待加强。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-425154e701683986",
+            "draft_excerpt": "金融方面，2021年成都在全球金融中心指数（GFCI31）排名为37位，金融科技排名大幅提升16位；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8fbe19037fc6fed7",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8fbe19037fc6fed7 is missing hard anchors from the claim: ['《2020中国人才指数》']; claim='据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。'; excerpt='在人才领域，成都城市人才指数保持较高水平，但外籍人才数量及高端人才占比与一线城市相比仍有较大提升空间。\\n人才方面，2020年成都城市人才指数为46.9，高于天津、重庆、武汉、郑州等城市；\\n2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8c067ee59c97403e",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8c067ee59c97403e is missing hard anchors from the claim: ['23%', '29%']; claim='成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%。'; excerpt='在人才领域，成都城市人才指数保持较高水平，但外籍人才数量及高端人才占比与一线城市相比仍有较大提升空间。\\n但截至2021年底，在蓉外国专家数量达3575人，仅为上海外籍人才数量的5.5%、北京的14%。\\n成都外籍人才数量仅为上海的5.5%、北京的14%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-400bff228cb5c03d",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-400bff228cb5c03d has unsupported temporal qualifier ['截至2019年']; remove the qualifier from the claim or cite an excerpt containing the exact phrase",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fd96a4d0ac63bcf8",
+            "draft_excerpt": "在科技领域，成都输出技术成交额在国内主要城市中排名靠前，但与国际顶尖科技中心相比差距明显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f5ed6d300e1aa88b",
+            "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-72790a2a42a79555",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过完善国际创新合作环境与人才政策体系，实现高端要素合理流动与高效集聚；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-53ed182c748347db",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在中西部城市中运筹力领先，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9199232eb5c289e0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但在与国际顶尖城市对比中，金融、人才结构及科技输出方面仍存在显著差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a99e3a11bdb2d5c0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9533b99653b1d728"
+            ],
+            "draft_excerpt": "成都正通过加快建设西部金融中心、引进境内外金融机构及促进跨境投融资便利化，助推开放型经济发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9da92652a28f081",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2685b75a85a3379"
+            ],
+            "draft_excerpt": "同时，城市创新策源能力稳步提升，高端要素集聚效应初步显现，但外籍人才总量及重点产业吸引力有待加强。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d31d561da92b101",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65f61e03ebd87bf0",
+              "claim-5a770f8455fc0dbd"
+            ],
+            "draft_excerpt": "在金融领域，成都连续三期稳居全球金融中心指数（GFCI）40强，位列国内新一线城市榜首，金融科技排名大幅提升。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70e1ba8a60cf1f4b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7",
+              "claim-8c067ee59c97403e",
+              "claim-400bff228cb5c03d"
+            ],
+            "draft_excerpt": "在人才领域，成都城市人才指数保持较高水平，但外籍人才数量及高端人才占比与一线城市相比仍有较大提升空间。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd868c32c791c51d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "在科技领域，成都输出技术成交额在国内主要城市中排名靠前，但与国际顶尖科技中心相比差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0a99ef8311c8e207",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都创新策源能力与金融影响力显著提升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83ca219469cb4b7c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f5ed6d300e1aa88b"
+            ],
+            "draft_excerpt": "2021年，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb579413cb8e7d12",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54da88c80bbc579d"
+            ],
+            "draft_excerpt": "实现输出技术成交额1189.4亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-04f01fa943ab42d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65f61e03ebd87bf0",
+              "claim-5a770f8455fc0dbd",
+              "claim-425154e701683986"
+            ],
+            "draft_excerpt": "金融方面，2021年成都在全球金融中心指数（GFCI31）排名为37位，金融科技排名大幅提升16位；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7833a4882018e35",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9533b99653b1d728",
+              "claim-425154e701683986"
+            ],
+            "draft_excerpt": "在蓉外资金融机构增加至95家，提供跨境人民币结算业务的银行机构达46家，实现人民币跨境结算额1459.6亿元，同比增长25.7%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-28b5664f2871de26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "中西部城市对比显示成都金融优势明显，但人才结构存在短板。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b26ee35e4f58a77e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "2019年，成都在全球金融中心指数中排名第74位，显著领先于西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c87c3e5d6405f585",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7"
+            ],
+            "draft_excerpt": "人才方面，2020年成都城市人才指数为46.9，高于天津、重庆、武汉、郑州等城市；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e498842f3c1ac45a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2685b75a85a3379",
+              "claim-8c067ee59c97403e"
+            ],
+            "draft_excerpt": "但截至2021年底，在蓉外国专家数量达3575人，仅为上海外籍人才数量的5.5%、北京的14%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df6387a01bd51bf2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-400bff228cb5c03d"
+            ],
+            "draft_excerpt": "此外，成都外籍人才以教科文卫类为主，外国高端人才（A类）占比仅16.7%，低于上海（17.7%）和苏州（37.4%）。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-64ca482545e73507",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "科技输出能力国内领先但与国际顶尖城市差距较大。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5fd83f9dbfe3d634",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "2019年，成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-205d6d648a80922a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f5ed6d300e1aa88b"
+            ],
+            "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-565bf0d0ff9dc39f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54da88c80bbc579d"
+            ],
+            "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7c2b8f54b58c192a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65f61e03ebd87bf0",
+              "claim-5a770f8455fc0dbd"
+            ],
+            "draft_excerpt": "2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fed2b1bf07f653e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9533b99653b1d728",
+              "claim-425154e701683986"
+            ],
+            "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1539593aeffc671",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "2019年成都GFCI排名74位，显著领先西安、武汉、重庆等中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56326213d23c0110",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7"
+            ],
+            "draft_excerpt": "2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf44d9bfdfb4e1ae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c067ee59c97403e"
+            ],
+            "draft_excerpt": "成都外籍人才数量仅为上海的5.5%、北京的14%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae5033675e814074",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e476948b3991764b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过完善国际创新合作环境与人才政策体系，实现高端要素合理流动与高效集聚；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在中西部城市中运筹力领先，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但在与国际顶尖城市对比中，金融、人才结构及科技输出方面仍存在显著差距。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都创新策源能力与金融影响力显著提升。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "中西部城市对比显示成都金融优势明显，但人才结构存在短板。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "科技输出能力国内领先但与国际顶尖城市差距较大。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a7affa2e5093b2e96754b763c06acaab2701fe5dd45fd29374cd1033b53937ba",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f7ea9f22b52852f0",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-f7ea9f22b52852f0 is missing hard anchors from the claim: ['112', '137', '150']; claim='2019年，成都资源要素运筹力在中西部城市中领先优势明显，金融方面在全球金融中心指数中排名第74位，高于西安（112位）、武汉（137位）、重庆（150位）。'; excerpt='成都资源要素运筹力在中西部城市中领先优势明显。\\n金融方面，2019年成都在全球金融中心指数中排名第74位，显著领先于西安、武汉、重庆等中西部城市。\\n2019年成都GFCI排名74位，显著领先西安、武汉、重庆等中西部城市。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8fbe19037fc6fed7",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8fbe19037fc6fed7 is missing hard anchors from the claim: ['《2020中国人才指数》']; claim='据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。'; excerpt='人才方面，2020年成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。\\n2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fd96a4d0ac63bcf8",
+            "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，与上海、西安、广州较为接近，但与北京相比差距明显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8c067ee59c97403e",
+            "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-400bff228cb5c03d",
+            "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f5ed6d300e1aa88b",
+            "draft_excerpt": "2021年，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54da88c80bbc579d",
+            "draft_excerpt": "2021年，成都实现输出技术成交额1189.4亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65f61e03ebd87bf0",
+            "draft_excerpt": "金融方面，2021年，成都在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5a770f8455fc0dbd",
+            "draft_excerpt": "金融方面，2021年，成都在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9533b99653b1d728",
+            "draft_excerpt": "2021年，成都与香港、新加坡、伦敦等地区的证券交易所建立合作，中银金科、浦银金科在蓉设立基地，成方金融科技有限公司暨中国人民银行软件开发中心（成都）基地实现注册，在蓉外资金融机构增加至95家。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-425154e701683986",
+            "draft_excerpt": "2021年，提供跨境人民币结算业务的银行机构达46家，实现人民币跨境结算额为1459.6亿元，同比增长25.7%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-72790a2a42a79555",
+            "draft_excerpt": "2021年，成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2685b75a85a3379",
+            "draft_excerpt": "截至2021年底，在蓉外国专家数量达3575人，其中，成都天府国际生物城落户5个“诺奖”团队、4个国家级院士团队和51个高层次人才团队。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3283fc088e07ca8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e3aadfb843bb595",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "金融方面，2019年成都在全球金融中心指数中排名第74位，显著领先于西安、武汉、重庆等中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0cb0421b443aee86",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7"
+            ],
+            "draft_excerpt": "人才方面，2020年成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3433c521fa8be55",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，与上海、西安、广州较为接近，但与北京相比差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8286ec79ca50705a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ebbff24c59790e77",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-faae4b38b04fcb79",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c067ee59c97403e"
+            ],
+            "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7cc8a7ef9d9a04c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-400bff228cb5c03d"
+            ],
+            "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a005cec1dcec059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都创新策源能力与金融影响力持续提升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a8474c1056f11564",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f5ed6d300e1aa88b"
+            ],
+            "draft_excerpt": "2021年，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a1865969318806f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54da88c80bbc579d"
+            ],
+            "draft_excerpt": "2021年，成都实现输出技术成交额1189.4亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-906641fbc4011103",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65f61e03ebd87bf0",
+              "claim-5a770f8455fc0dbd"
+            ],
+            "draft_excerpt": "金融方面，2021年，成都在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d6e9e7cca98eedd5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9533b99653b1d728"
+            ],
+            "draft_excerpt": "2021年，成都与香港、新加坡、伦敦等地区的证券交易所建立合作，中银金科、浦银金科在蓉设立基地，成方金融科技有限公司暨中国人民银行软件开发中心（成都）基地实现注册，在蓉外资金融机构增加至95家。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-826fbbf73fe13bf7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-425154e701683986"
+            ],
+            "draft_excerpt": "2021年，提供跨境人民币结算业务的银行机构达46家，实现人民币跨境结算额为1459.6亿元，同比增长25.7%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57a6a3dcad6148dd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-72790a2a42a79555"
+            ],
+            "draft_excerpt": "2021年，成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-322f5df526a9e558",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "人才集聚效应显现但结构有待优化。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9e5c6de865d1a68",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2685b75a85a3379"
+            ],
+            "draft_excerpt": "截至2021年底，在蓉外国专家数量达3575人，其中，成都天府国际生物城落户5个“诺奖”团队、4个国家级院士团队和51个高层次人才团队。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-97a46d3292a282a6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f5ed6d300e1aa88b"
+            ],
+            "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-32245ba46e279fd0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54da88c80bbc579d"
+            ],
+            "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4264536f8c55a6c0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65f61e03ebd87bf0",
+              "claim-5a770f8455fc0dbd"
+            ],
+            "draft_excerpt": "2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2b2c8dd9e8ed7c8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9533b99653b1d728",
+              "claim-425154e701683986"
+            ],
+            "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1057101cdbe84cfa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-72790a2a42a79555"
+            ],
+            "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e904e3561d77ca40",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "2019年成都GFCI排名74位，显著领先西安、武汉、重庆等中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56326213d23c0110",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7"
+            ],
+            "draft_excerpt": "2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf44d9bfdfb4e1ae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c067ee59c97403e"
+            ],
+            "draft_excerpt": "成都外籍人才数量仅为上海的5.5%、北京的14%、深圳的23%、广州的29%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a582c1c07bbeec34",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e476948b3991764b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-400bff228cb5c03d"
+            ],
+            "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b319dbdcb9bd1ee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都创新策源能力与金融影响力持续提升。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "人才集聚效应显现但结构有待优化。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9c17f9cfb3ee57bcbb279ca290ccd45c50f8d6b14b16f80e9c248152bf5efab9",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f7ea9f22b52852f0",
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8fbe19037fc6fed7",
+            "draft_excerpt": "人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fd96a4d0ac63bcf8",
+            "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8c067ee59c97403e",
+            "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-400bff228cb5c03d",
+            "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f5ed6d300e1aa88b",
+            "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54da88c80bbc579d",
+            "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65f61e03ebd87bf0",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-65f61e03ebd87bf0 is missing hard anchors from the claim: ['31', '40']; claim='2021年，成都在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首。'; excerpt='2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9533b99653b1d728",
+            "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-72790a2a42a79555",
+            "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-425154e701683986",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5a770f8455fc0dbd",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a2685b75a85a3379",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-91b64f10adb873b7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e3aadfb843bb595",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "金融方面，2019年成都在全球金融中心指数中排名第74位，高于西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-50d3611e7e609721",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7"
+            ],
+            "draft_excerpt": "人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d6d7fd8ddd45fd72",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dd8b1570351a80e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ebbff24c59790e77",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-faae4b38b04fcb79",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c067ee59c97403e"
+            ],
+            "draft_excerpt": "人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7cc8a7ef9d9a04c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-400bff228cb5c03d"
+            ],
+            "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a005cec1dcec059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f5ed6d300e1aa88b"
+            ],
+            "draft_excerpt": "2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-77cf94966855cfc8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54da88c80bbc579d"
+            ],
+            "draft_excerpt": "2021年成都实现输出技术成交额1189.4亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e84abdac44563ec7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65f61e03ebd87bf0",
+              "claim-5a770f8455fc0dbd"
+            ],
+            "draft_excerpt": "2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eec507fb7dcf0d82",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9533b99653b1d728",
+              "claim-425154e701683986"
+            ],
+            "draft_excerpt": "2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c3e153e77d8261ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-72790a2a42a79555"
+            ],
+            "draft_excerpt": "2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad6b3e8a595533e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7ea9f22b52852f0"
+            ],
+            "draft_excerpt": "2019年成都GFCI排名74位，显著领先西安（112位）、武汉（137位）、重庆（150位）等中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-72bb231bdf94dc9d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8fbe19037fc6fed7"
+            ],
+            "draft_excerpt": "据《2020中国人才指数》结果显示，2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08d5b6c0cbb58ca7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8c067ee59c97403e"
+            ],
+            "draft_excerpt": "成都外籍人才数量仅为上海的5.5%、北京的14%、深圳的23%、广州的29%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b5930009cf957d1d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fd96a4d0ac63bcf8"
+            ],
+            "draft_excerpt": "2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8332a77608b14e31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-400bff228cb5c03d"
+            ],
+            "draft_excerpt": "截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7a6b13bcaffaefa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "金融方面，与上海、深圳、广州等城市差距较大。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都资源要素运筹力在中西部城市中领先优势明显。金融方面，2019年成都在全球金融中心指数中排名第74位，高于西安（112位）、武汉（137位）、重庆（150位）等中西部城市。人才方面，据《2020中国人才指数》结果显示，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市。科技方面，2019年成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显。\n\n与国际顶尖城市相比，成都在金融、人才结构及科技输出方面仍有差距。金融方面，与上海、深圳、广州等城市差距较大。人才方面，成都外籍人才数量仅为上海外籍人才数量的5.5%、北京的14%、深圳的23%、广州的29%，外籍人才总量有待提升；截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。\n\n- 2021年成都最佳科技集群GII排名跃升至第39位，国内排名第8。\n- 2021年成都实现输出技术成交额1189.4亿元。\n- 2021年成都GFCI排名37位，位列国内新一线城市榜首，金融科技排名提升16位。\n- 2021年在蓉外资金融机构增加至95家，跨境人民币结算额1459.6亿元。\n- 2021年成都天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元。\n- 2019年成都GFCI排名74位，显著领先西安（112位）、武汉（137位）、重庆（150位）等中西部城市。\n- 据《2020中国人才指数》结果显示，2020年成都人才指数46.9，高于天津、重庆、武汉、郑州。\n- 成都外籍人才数量仅为上海的5.5%、北京的14%、深圳的23%、广州的29%。\n- 2019年成都输出技术成交额1152.4亿元，国内排名第5，与北京差距明显。\n- 截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的16.7%，与上海（17.7%）、苏州（37.4%）尚有一定差距。",
+    "description": "成都资源要素运筹力在中西部城市中领先优势明显，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+    "ref": {
+      "asset_hints": [
+        "html-table-006",
+        "html-table-010",
+        "html-table-011",
+        "html-table-012",
+        "image-046",
+        "image-057",
+        "image-058",
+        "image-059",
+        "image-060"
+      ],
+      "concept_id": "topic-e792487bf739",
+      "description": "成都通过完善国际创新合作环境与人才政策体系，实现高端要素合理流动与高效集聚；在中西部城市中运筹力领先，但与国际顶尖城市相比在金融、人才结构及科技输出方面仍有差距。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "在2021年全球创新指数榜单中，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名，城市创新策源能力稳步提升。",
+        "2021年，成都实现输出技术成交额1189.4亿元①。",
+        "2021年，成都加快建设服务共建“一带一路”国家和地区的西部金融中心，持续引进境内外金融机构，积极促进跨境投融资便利化，加速国际化金融科技研究与\n\n应用实践，助推开放型经济发展迈上新台阶。在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位，金融影响力进一步提升。",
+        "截至2021年底，在蓉外国专家数量达3575人①，其中，成都天府国际生物城落户5个“诺奖”团队、4个国家级院士团队和51个高层次人才团队②。",
+        "2021年，提供跨境人民币结算业务的银行机构达46家，实现人民币跨境结算额为1459.6亿元，同比增长 \\(25.7\\%\\) ，贸易和直接投资项目下业务规\n\n模增长 \\(67\\%",
+        "2021年，成都与香港、新加坡、伦敦等地区的证券交易所建立合作，中银金科、浦银金科在蓉设立基地，成方金融科技有限公司暨中国人民银行软件开发中心（成都）基地实现注册，在蓉外资金融机构增加至95家①。",
+        "在蓉国际资本规模扩大，天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元；与韩国最大风险投资机构——韩国投资伙伴株式会社合作，中韩创新创业产业基金规模达8.7亿元，总投资比例达到\\(60.6\\%\\)②。本土企业境外发债保持良好势头，2021年",
+        "对比分析发现，成都资源要素运筹力在中西部城市中领先优势明显。金融方面，2019年，成都在全球金融中心指数中排名第74位，与西安（112位）、武汉（137位）、重庆（150位）等中西部城市相比，优势明显，尤其在金融科技方面表现突出，但与上海、深圳、广州等城市差距较大。",
+        "人才方面，据《2020中国人才指数》结果显示，北京、上海、广州人才指数明显引领，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市；",
+        "但成都外籍人才数量仅为上海外籍人才数量的 \\(5.5\\%\\) 、北京的 \\(14\\%\\) 、深圳的 \\(23\\%\\) 、广州的 \\(29\\%\\) ，外籍人才总量有待提升",
+        "成都外籍人才以教科文卫类为主，重点产业对国外人才吸引力较弱，截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的 \\(16.7\\%\\) ，与上海（\\(17.7\\%\\)）、苏州（\\(37.4\\%\\)）尚有一定差距",
+        "科技方面，2019年，成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显；"
+      ],
+      "evidence_block_ids": [
+        "blk-ac6f7915fa98d8264d6c",
+        "blk-a01b59398e58b4b3129e",
+        "blk-bfca6001501b66860d62",
+        "blk-dd95447d550fd970f903",
+        "blk-c817ea0d9615c13eb82c",
+        "blk-e3c54beb0c6f670e89cc",
+        "blk-f655c87bd113079a72cb",
+        "blk-456f70d6d81209b7de03",
+        "blk-e01be97e60a2061a5d4d"
+      ],
+      "page_end": 107,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都资源要素运筹配置与集聚现状",
+      "type": "分析框架"
+    },
+    "title": "成都资源要素运筹配置与集聚现状"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-07c40aee600d:bundle-d1899c1b68a0",
+      "excluded_fragments": [],
+      "ref_id": "ref-07c40aee600d",
+      "source_blocks": [
+        {
+          "block_id": "blk-4324c7e2ad0967c8a98a",
+          "page_number": 45,
+          "text": "<table><tr><td>序号</td><td>国别</td><td>人次</td><td>金额(万元)</td></tr><tr><td>1</td><td>泰国</td><td>127</td><td>183.3</td></tr><tr><td>2</td><td>印度</td><td>76</td><td>143</td></tr><tr><td>3</td><td>斯里兰卡</td><td>73</td><td>135</td></tr><tr><td>4</td><td>孟加拉国</td><td>69</td><td>130.5</td></tr><tr><td>5</td><td>老挝</td><td>73</td><td>119</td></tr></table>"
+        },
+        {
+          "block_id": "blk-aa50baf04ac13fd78061",
+          "page_number": 101,
+          "text": "<table><tr><td>序号</td><td>国别</td><td>人次</td><td>金额(万元)</td></tr><tr><td>1</td><td>泰国</td><td>127</td><td>183.3</td></tr><tr><td>2</td><td>印度</td><td>76</td><td>143</td></tr><tr><td>3</td><td>斯里兰卡</td><td>73</td><td>135</td></tr><tr><td>4</td><td>孟加拉国</td><td>69</td><td>130.5</td></tr><tr><td>5</td><td>老挝</td><td>73</td><td>119</td></tr></table>"
+        },
+        {
+          "block_id": "blk-42112f936807f9032679",
+          "page_number": 97,
+          "text": "2021年，成都加快完善更加开放、更加便利、更加公平的国际创新合作环境，构筑全覆盖、多层次国际人才政策体系，建设支持全球资本配置的内陆金融开放体系，国际高端要素资源实现合理流动和高效集聚。"
+        },
+        {
+          "block_id": "blk-ac6f7915fa98d8264d6c",
+          "page_number": 97,
+          "text": "2021年，成都加快建设具有全国影响力的科技创新中心，创新策源能力不断增强，产业技术创新能力稳步提高，城市创新生态进一步优化，与“一带一路”建设参与国的创新合作逐步升级。在2021年全球创新指数榜单中，成都最佳科技集群在全球创新指数（GII）榜单中排名跃升至第39位，较上年提升8个位次，国内排名上升至第8名，城市创新策源能力稳步提升。"
+        },
+        {
+          "block_id": "blk-c8973c61fc68a8f26b93",
+          "page_number": 97,
+          "text": "表 2-3 2021 全球创新指数 (GII) 榜单中国前 9 位科学技术集群表现情况"
+        },
+        {
+          "block_id": "blk-ca993822f91650dfb9a0",
+          "page_number": 97,
+          "text": "<table><tr><td>集群名称</td><td>排名</td><td>国际合作专利(PCT) 全球占比(%)</td><td>科技出版物(论文发 表量)全球占比(%)</td><td>总计 (%)</td><td>排名变化</td></tr><tr><td>深圳-香港-广州</td><td>2</td><td>7.79</td><td>1.51</td><td>9.30</td><td>0</td></tr><tr><td>北京</td><td>3</td><td>2.62</td><td>2.95</td><td>5.57</td><td>1</td></tr><tr><td>上海</td><td>8</td><td>1.36</td><td>1.49</td><td>2.85</td><td>1</td></tr><tr><td>南京</td><td>18</td><td>0.21</td><td>1.07</td><td>1.28</td><td>3</td></tr><tr><td>杭州</td><td>21</td><td>0.60</td><td>0.60</td><td>1.20</td><td>4</td></tr><tr><td>武汉</td><td>25</td><td>0.24</td><td>0.82</td><td>1.05</td><td>4</td></tr><tr><td>台北-新竹</td><td>28</td><td>0.29</td><td>0.69</td><td>0.97</td><td>-1</td></tr><tr><td>西安</td><td>33</td><td>0.08</td><td>0.77</td><td>0.86</td><td>7</td></tr><tr><td>成都</td><td>39</td><td>0.15</td><td>0.62</td><td>0.77</td><td>8</td></tr></table>"
+        },
+        {
+          "block_id": "blk-a74b87101283edf9d2e8",
+          "page_number": 97,
+          "text": "数据来源：世界知识产权组织（WIPO）发布的《2021年全球创新指数（GII）报告》"
+        },
+        {
+          "block_id": "blk-500f74f2c6aac8a1e979",
+          "page_number": 97,
+          "text": "国际创新载体合作建设卓有成效。深化“一带一路”科技创新合作平台和双创基地建设，支持中国-巴基斯坦地球科学研究中心、中国-克罗地亚“生物多样性和生"
+        },
+        {
+          "block_id": "blk-351db1410f2a62291aa1",
+          "page_number": 98,
+          "text": "态系统服务”一带一路联合实验室、“一带一路”科技创新合作区和天府国际技术专业中心等创新平台建设；与韩国仁川革新创造中心、韩国西原大学、韩国中小风险贸易协会、首尔产业振兴研究院首尔创业中心等签订合作协议，并设立6家“成都高新区离岸创新创业基地”。创新创业园孵化培育功能不断完善，中韩创新创业园的成都·韩国国际客厅建成运营，新一代智慧园区服务系统正加速打造，对韩服务众创空间达5家，新增中韩创新创业企业和团队155家，注册韩资企业12家①。新川创新科技园创新平台能级显著增强，新加坡南洋理工大学EcoLabs能源创新中心签约落地，共建首个“新经济场景创新实验平台”；新加坡科创中心项目引入新加坡奇迹世界成都研发中心、新加坡innowave（瑛纳威科技）成都研发中心等企业及机构23家，入驻率达 \\(87\\%\\) ，聚集人才1000余人②。"
+        },
+        {
+          "block_id": "blk-778fa4e192420866ec55",
+          "page_number": 98,
+          "text": "2019年6月，中国一克罗地亚“生物多样性和生态系统服务”一带一路联合实验室成为科技部批准的首14家“一带一路”联合实验室之一。该实验室以中国科学院成都生物研究所为中方依托单位，以提升生物多样性保护水平和推动绿色“一带一路”战略实施为目标，与克罗地亚萨格勒布大学开展合作研究、技术示范、政策咨询、学术交流，共享先进理念和技术，建设具有国际影响力、国内一流的生物多样性与生态系统服务国际合作研究平台，将增强我国在生物多样性保护领域的国际话语权和影响力，同时为四川省长沙上游生态屏障、成都市公园城市和生态宜居美丽乡村建设等战略的实施提供科技支撑。"
+        },
+        {
+          "block_id": "blk-3333cdf4c3666a4b3c5d",
+          "page_number": 98,
+          "text": "国际科技创新合作走深走实。成都持续优化国际创新制度环境，加大国际科技合作资助力度，2021年，资助经费达987.8万元，包括中国一巴基斯坦地球科学研究中心和芯片存储技术研发美国中心国际性研发机构2家、重点国际科技合作项目5个、国家级国际科技合作项目配套15个、国际科技合作项目2个<sup>③</sup>。积极推进对外科学研究及技术服务合作，通过成立中日科学研究及技术服务合作专项工作小组、编制相关规划和推进方案，全面梳理了中日科技合作领域先进技术、产品需求53条，对日机构供给条件36项和示范项目16项，包括富士通西南研发中心项目、日本神户"
+        },
+        {
+          "block_id": "blk-a01b59398e58b4b3129e",
+          "page_number": 99,
+          "text": "医疗·天府国际转化中心项目、神户医疗产业都市推进机构（TRI）中国总部项目等。2021年，成都实现输出技术成交额1189.4亿元①。"
+        },
+        {
+          "block_id": "blk-ff4b1c3b938ebfb1fde8",
+          "page_number": 99,
+          "text": "原始 PDF 第 99 页图片"
+        },
+        {
+          "block_id": "blk-11a5060eb5f55a74e084",
+          "page_number": 99,
+          "text": "图2-13 2017—2021年成都输出技术成交额"
+        },
+        {
+          "block_id": "blk-c5a521b149411466ef81",
+          "page_number": 99,
+          "text": "数据来源：成都市科技局，关于“一带一路”建设工作的推进情况及工作计划"
+        },
+        {
+          "block_id": "blk-6763a9a20944479b905c",
+          "page_number": 99,
+          "text": "国际科技合作交流活动创新开展。创新线上线下相结合的活动模式，中日韩（成都）中小企业经贸创新峰会利用云直播、云计算等新兴技术，精准发布中小企业需求，高效搭建了中日韩三国中小企业交流合作平台；继续举办“2021国际双城链云对接”活动，以网上直播 \\(+\\) 线上对接的活动模式，通过创新创业服务平台“科创通”举行了7场系列专题活动，收集来自全世界共计200余个国际科技创新项目，甄选出重点路演项目20余个，达成合作对接意向10余个②。进一步拓宽科技对外开放交流渠道，举办全球创新创业交易会、中日韩（成都）中小企业经贸创新峰会等系列国际创新创业活动，2021年第七届全球创新创业交易会线上线下参会人数超100万人次，发布绿色能源、生命健康等领域供需信息986条，释放融资需求近34亿元，签约重大项目30个，交易总额突破330亿元，并为重点产业企业引进急需紧缺人才\\(1197\\)人③。"
+        },
+        {
+          "block_id": "blk-6fc5e4e699f7996c37eb",
+          "page_number": 100,
+          "text": "专栏2-15 2021成都全球创新创业交易会现场"
+        },
+        {
+          "block_id": "blk-1367cb50e772c9c62189",
+          "page_number": 100,
+          "text": "原始 PDF 第 100 页图片"
+        },
+        {
+          "block_id": "blk-84ae5597b1c34d0fb503",
+          "page_number": 100,
+          "text": "2021年，成都加快搭建平台，持续完善海外人才政策体系，不断优化外籍人才工作和生活环境，已连续3年获评“中国最佳引才城市”，对海外人才的吸引力显著提升。在2021年“魅力中国——外籍人才眼中最具有吸引力的中国城市”中居于第6位，较上年提升2个位次。"
+        },
+        {
+          "block_id": "blk-5d81b3b1fa89df0e6347",
+          "page_number": 100,
+          "text": "海内外高端人才引进体系不断完善。常态化举办引才引智品牌活动，通过举办创业天府·菁蓉汇等系列国际创新创业大赛等品牌活动，大力营造良好的引才引智氛围；连续六年举办成都外籍人才招聘会，已成为近 \\(80\\%\\) 外籍人才求职的重要途径，岗位匹配度以每年 \\(10\\%\\) 的速度递增①。针对高层次人才定向创新招引机制，提出全球高端人才招引计划、留学生回引工程等举措，吸引超过48万名海内外青年人才落户成都②；面向全球“揭榜挂帅”，招募顶尖科技创新团队开展技术攻关、成果转化，鼓励海内外科技创新团队来蓉。搭建高能级平台加速“高精尖缺”人才集聚，成都高水平建设中国西部（成都）科学城，面向海内外加速汇聚战略科学家、科技领军人"
+        },
+        {
+          "block_id": "blk-c817ea0d9615c13eb82c",
+          "page_number": 101,
+          "text": "才和创新团队，截至2021年底，在蓉外国专家数量达3575人①，其中，成都天府国际生物城落户5个“诺奖”团队、4个国家级院士团队和51个高层次人才团队②。"
+        },
+        {
+          "block_id": "blk-00907347a298ec7c2181",
+          "page_number": 101,
+          "text": "专栏2-16 2021成都外籍人才招聘会"
+        },
+        {
+          "block_id": "blk-eb83dbca8c9825145606",
+          "page_number": 101,
+          "text": "原始 PDF 第 101 页图片"
+        },
+        {
+          "block_id": "blk-3ceafae2c9790195e98d",
+          "page_number": 101,
+          "text": "多措并举加强国际人才教育培养。健全海外人才评价激励机制，采取“一事一议”对顶尖科研团队予以支持，出台境外专业人才执业管理、优秀海外高校毕业生创新创业激励等政策。截至2021年底，向97家企业215位人才兑现安家补贴和引才奖励1634万元；持续开设“一带一路”留学生奖学金，累计753人次获得奖学金，金额达到1479.8万元。2021年，成功落地全国第六个、西部地区首个国际标准化人才培训基地，依托南亚标准化（成都）研究中心国家平台，面向“一带一路”沿线国家培养标准化技术专家，筑牢国际标准化人才支撑。"
+        },
+        {
+          "block_id": "blk-20c14302f0dabba97cd3",
+          "page_number": 101,
+          "text": "表2-4 2018年以来成都市“一带一路”留学生奖学金申请国别、人次、金额统计TOP5"
+        },
+        {
+          "block_id": "blk-86a9858c140586bf64f8",
+          "page_number": 101,
+          "text": "数据来源：成都市教育局，关于融入“一带一路”建设情况汇报"
+        },
+        {
+          "block_id": "blk-680dc13f19b604dc5b99",
+          "page_number": 102,
+          "text": "开放型工作和生活环境持续优化。提升外籍人员往来便利化水平，进一步优化外国人来蓉工作许可、工作类居留许可“单一窗口”办理流程，“蓉城人才绿卡”绿色通道办理时限缩短至3个工作日；成都自贸试验区出台13项外籍高层次人才和创新创业人才出入境、停留居留便利化具体举措。针对性提供特色化涉外公共服务，设立自贸试验区首家外籍人员子女学校——成都高新区晟珀外籍人员子女学校；连续组织开展外籍人士“家在成都”工程，开展了外籍人士“家在成都”传统民俗系列等8次活动，吸引来自47个国家，超过1200人次在蓉外籍人士参与①，“家在成都”品牌活动获得广泛认可。邀请外籍人士积极参与城市国际化共建共享，举办成都市外国人服务管理工作专题座谈会外商专场系列活动，宣讲成都工作许可证办理、出入境、个税办理等相关政策。"
+        },
+        {
+          "block_id": "blk-cd301a8e12c543a43cf0",
+          "page_number": 102,
+          "text": "专栏2-17 2021年成都市外国人服务管理工作专题座谈会外商专场现场"
+        },
+        {
+          "block_id": "blk-22cc98a3c6293b76ff10",
+          "page_number": 102,
+          "text": "原始 PDF 第 102 页图片"
+        },
+        {
+          "block_id": "blk-bfca6001501b66860d62",
+          "page_number": 102,
+          "text": "2021年，成都加快建设服务共建“一带一路”国家和地区的西部金融中心，持续引进境内外金融机构，积极促进跨境投融资便利化，加速国际化金融科技研究与"
+        },
+        {
+          "block_id": "blk-dd95447d550fd970f903",
+          "page_number": 103,
+          "text": "应用实践，助推开放型经济发展迈上新台阶。在全球金融中心指数（GFCI31）排名为37位，连续三期稳居全球40强，位列国内新一线城市榜首，其中，金融科技排名大幅提升16位，金融影响力进一步提升。"
+        },
+        {
+          "block_id": "blk-a52e23402bd4eddc18b8",
+          "page_number": 103,
+          "text": "表 2-5 《第 31 期全国金融中心指数》中国内地城市 TOP10"
+        },
+        {
+          "block_id": "blk-aff71635682af9f884c1",
+          "page_number": 103,
+          "text": "<table><tr><td>城市</td><td>内地城市排名</td><td>全球金融中心指数排名及变化</td><td>全球金融科技指数排名及变化</td></tr><tr><td>上海</td><td>1</td><td>4(↑2)</td><td>2(0)</td></tr><tr><td>北京</td><td>2</td><td>8(0)</td><td>3(↑1)</td></tr><tr><td>深圳</td><td>3</td><td>10(↑6)</td><td>6(↑1)</td></tr><tr><td>广州</td><td>4</td><td>24(↑8)</td><td>12(↑1)</td></tr><tr><td>成都</td><td>5</td><td>37(0)</td><td>44(↑16)</td></tr><tr><td>青岛</td><td>6</td><td>38(0)</td><td>25(↑1)</td></tr><tr><td>杭州</td><td>7</td><td>93(↑18)</td><td>66(↑11)</td></tr><tr><td>大连</td><td>8</td><td>94(↑19)</td><td>67(↑18)</td></tr><tr><td>天津</td><td>9</td><td>105(↑7)</td><td>61(↑12)</td></tr><tr><td>南京</td><td>10</td><td>107(↑7)</td><td>80(↑13)</td></tr></table>"
+        },
+        {
+          "block_id": "blk-de368fa89dd61a087f1d",
+          "page_number": 103,
+          "text": "数据来源：中国（深圳）综合开发研究院、权威智库英国Z/Yen集团，《第31期全国金融中心指数》"
+        },
+        {
+          "block_id": "blk-456f70d6d81209b7de03",
+          "page_number": 103,
+          "text": "境内外金融要素加快集聚。金融机构吸引力提升，2021年，成都与香港、新加坡、伦敦等地区的证券交易所建立合作，中银金科、浦银金科在蓉设立基地，成方金融科技有限公司暨中国人民银行软件开发中心（成都）基地实现注册，在蓉外资金融机构增加至95家①。在蓉国际资本规模扩大，天府国际基金小镇新增注册投资类企业31家，新增管理资金规模约67亿元；与韩国最大风险投资机构——韩国投资伙伴株式会社合作，中韩创新创业产业基金规模达8.7亿元，总投资比例达到\\(60.6\\%\\)②。本土企业境外发债保持良好势头，2021年，成都交子金控集团发行美元债券吸引30多家来自欧洲、新加坡等地金融机构关注③，成为西部首家港澳两地债券上市企业。"
+        },
+        {
+          "block_id": "blk-0355678f00a74cc9b321",
+          "page_number": 104,
+          "text": "成都交子金融控股集团有限公司是在成都市委、市政府为整合地方金融资源、提升地方金融机构竞争力的背景下，于2008年10月31日正式挂牌成立的成都市市属大型国有企业，注册资本金50亿元，投资覆盖银行、证券、保险、融资担保、小额贷款、融资租赁、典当、产业基金、创业投资、产权市场、资产经营、金融服务等多个领域。"
+        },
+        {
+          "block_id": "blk-766497c85bf86cada813",
+          "page_number": 104,
+          "text": "2019年11月6日，成都交子金融控股集团以 \\(3.24\\%\\) 票息率，成功平价发行三年期3亿美元高级无抵押债券，实现了在国际资本市场的首秀。本次3亿美元债券发行吸引了包括摩根士丹利、元大证券、汇丰银行、星展银行、澳门国际银行在内的众多国际投资机构踊跃认购，最高认购倍数超过6倍，体现出国际资本市场对成都金融市场的高度认可。从最终定价水平看，本次发行刷新了全国金控类国企同类债券最低定价，也是近三年西南地区企业美元债券发行最低利率，创四川省企业境外美元债券收益率历史新低。"
+        },
+        {
+          "block_id": "blk-5b6fbdfd3b807e38aa5a",
+          "page_number": 104,
+          "text": "2021年3月31日，成都交子金控集团再次成功发行5年期2亿美元高级无抵押债券，票面利率 \\(2.6\\%\\) ，发行收益率 \\(2.6\\%\\) ，本次发行获得了境外投资者的广泛认可，定价当天吸引了30多家来自欧洲、新加坡等地不同类型金融机构的关注，其中，包括星展银行（DBS）、瑞信资管（Credit Suisse Asset Management）和瑞士银行（UBS）等知名投资企业。虽然面对美国国债收益率上升的不利影响，但本次发行最高吸引了7.5亿美元的订单和约3.5倍的超额认购，实现了超低发行利率、超高认购倍数和投资者多元化的良好簿记表现。从最终定价水平看，作为西部地区首支在中华（澳门）金融资产交易股份有限公司（MOX）上市的债券，本次发行不但刷新了全国金控类国企同期限债券最低定价，也是西部地区同期限美元债券最低发行收益率，创西部地方国企发行利率新低。"
+        },
+        {
+          "block_id": "blk-e3c54beb0c6f670e89cc",
+          "page_number": 104,
+          "text": "跨境金融服务功能持续增强。跨境人民币结算功能筑强，2021年，成都自贸试验区跨境人民币优质企业便利化结算试点范围拓展延伸，推动建立跨境人民币国际化结算中心。目前，已有15家企业集团开展外汇资金池、9家开设双向人民币资金池，数量居于中西部前列①。2021年，提供跨境人民币结算业务的银行机构达46家，实现人民币跨境结算额为1459.6亿元，同比增长 \\(25.7\\%\\) ，贸易和直接投资项目下业务规"
+        },
+        {
+          "block_id": "blk-f655c87bd113079a72cb",
+          "page_number": 105,
+          "text": "模增长 \\(67\\%\\) 。本外币账户一体化试点、合格境内投资企业（QDIE）、合格境外有限合伙人（QFLP）试点稳步推进。金融开放服务平台体系不断完善，2021年，“一带一路”金融资产交易中心、科创板企业培育中心（西部）在蓉落地，设立人民币国际投贷基金。金融制度改革创新持续深化，首创两项汇率避险支持政策，完善中小微外贸企业金融支持体系。2020—2021年度，在全国自贸区“金融改革与服务创新”与第三批自贸区“金融管理与服务创新”中，分别居第4位、第1位②。"
+        },
+        {
+          "block_id": "blk-81ddf209eb2b60185ae7",
+          "page_number": 105,
+          "text": "金融科技中心国际影响力不断提升。深入推进多式联运金融科技创新，创设跨区域区块链“数字成渝号”场景，支持成渝两地中欧班列和西部陆海新通道跨区域贸易融资。上线“中欧e单通”2.0版本，融合多式联运“一单制”线上签发和“外贸e贷”两大功能，2021年1—10月，一单制签发2648单，涉及金额约5164.8万元③。金融科技开放合作平台加快搭建，2021年，中国以色列数字金融创新中心落地，国际金融合作“朋友圈”不断扩大。成都自由贸易试验区首创“分布式共享模式实现‘银政互通’”创新业务，联合重庆开展成渝外债便利化试点业务。"
+        },
+        {
+          "block_id": "blk-15c00acfd2e228019584",
+          "page_number": 105,
+          "text": "2021年4月1日，作为全国首个基于中欧班列多式联运“一单制”的跨境区块链平台，中欧e单通于4月1日正式升级为2.0版本。"
+        },
+        {
+          "block_id": "blk-d2f0403f2f99c8c49b4e",
+          "page_number": 105,
+          "text": "本次启动的“中欧e单通”2.0版本，增加了与中国（四川）国际贸易单一窗口和四川自贸区成都青白江国际铁路港片区合作的“外贸e贷”和“一单制”线上签发功能。增加的“外贸e贷”功能将利用平台上“一单制”单据的签发数据结合中国工商银行的内部大数据以及其它可靠数据来源，运用区块链、大数据OCR、API、数字认证等技术，针对小微外贸企业经营特点、跨境物流、资金路径，为企业进行“多信息画像”，具有“纯信用、全线上、随借随还、利率低”等特点。不仅适用于使用中欧班列的沿线企业，也延伸惠及具有真实跨境贸易的省内所有小微外贸企业。"
+        },
+        {
+          "block_id": "blk-5bd5661252280947adbf",
+          "page_number": 106,
+          "text": "围绕成渝地区双城经济圈、西部（成都）科学城、西部金融中心等建设，加强与“一带一路”沿线国家（地区）国际科技合作交流、人才互引互培互用、金融资本互融互通，加快形成高端要素集聚辐射效应，推动创新链、人才链、资金链深度融合。"
+        },
+        {
+          "block_id": "blk-f287c84f71f1199dda4f",
+          "page_number": 106,
+          "text": "建立健全高水平开放创新合作机制。拓展国际创新合作新路径，构建完善政府间国际创新合作机制，探索推动国际创新合作政策突破。以全球视野谋划创新，强化全球创新资源配置，积极融入全球科技创新网络，增强国别产业园区协同创新功能，推动“中国-欧洲中心”上升为国家级平台，打造“一带一路”科技创新枢纽。加强国际科技合作支持。支持与“一带一路”国家共建国际性研发机构、联合实验室和国合基地等创新平台，与重庆共推“一带一路”科技创新合作区实质性落地。加强对“一带一路”联合实验室建设在资金、人才、政策等方面的支持与倾斜。支持大型国际科技博览会等定期或永久落户成都。持续深化创新交流对接。深入搭建国别创新创业合作交流平台，重点与“一带一路”国家及科技强国开展线上对接，鼓励国外高校科研院所和创新型企业参加活动。积极推动国内外高校、院所、企业等开展优质科技创新项目合作。主动配合办好“一带一路”科技交流大会，持续开展“国际双城链云对接”“外商座谈会”“外国专家成都行”等国际科技合作交流活动。"
+        },
+        {
+          "block_id": "blk-df5a9fcaa2310e631a1d",
+          "page_number": 106,
+          "text": "以政策牵引推动国际人才加速集聚。加快推动成都人才新政3.0出炉实施，加紧出台《成都市人才发展“十四五”规划》《成都市建设全国创新人才高地五年行动计划》及有关配套政策，以政策为牵引，赋权用人主体、赋能创新平台。深入实施“蓉漂计划”“天府实验室全球高端人才招引计划”等举措，积蓄海内外人才力量。聚焦“高精尖缺”优化国际人才结构。整合现有海外人才工作站和双创基地，打造知名引才平台，以平台吸引高层次人才集聚。围绕物联网工程、大数据技术工程、生物医药、人工智能、网络安全等领域，深入实施面向全球招募天府实验室首席科学家、顶尖科技创新团队“双招双引”，加快构建带动力强的科技领军人才队伍。深"
+        },
+        {
+          "block_id": "blk-0242a5637a34c158fcde",
+          "page_number": 107,
+          "text": "入实施“产业建圈强链人才计划”，持续创新“候鸟型专家”“云端工程师”等人才共享模式。以优质服务提升国际人才吸引力。加快健全国际人才服务机制，深化“蓉城人才绿卡”定制化服务，提升蓉漂青年人才驿站、国际化社区和外籍人士社区服务中心涉外公共服务水平，着力营造国际化生活氛围，全方位培养、服务、留存各领域国际化人才。"
+        },
+        {
+          "block_id": "blk-167458dc6651ec36d7b3",
+          "page_number": 107,
+          "text": "大力推动金融机构“走出去”“引进来”。紧抓国家深化金融供给侧结构性改革机遇，充分利用人民银行大区分行、商业银行区域性总部在蓉集聚优势，吸引集聚各类持牌金融机构，推动各类金融机构在蓉设立清分结算、资产管理、产品研发等功能性总部；积极推动国际金融组织、境外交易所等在蓉设立驻华代表机构。鼓励本地金融机构依托中欧班列、西部陆海通道等对外贸易发展平台，设置境外分支机构、提供金融服务。提升金融资本市场对外开放便利化水平。积极推进“一带一路”金融服务中心建设，探索打造“一带一路”金融资产交易服务平台，推动“一带一路”金融资产交易中心在蓉落地，为本地企业“走出去”夯实服务支撑。加强与重庆协同建设跨境投融资综合服务中心，优化法律、税收、风险评估等“一站式”对外投融资多元化服务。探索设立保险增信基金和资产证券化基金，支持企业在“一带一路”沿线国家和地区开展投资并购、产能合作。深入推动跨境金融创新发展。推进天府金融科技研究院加快落地，大力推进金融科技实验室等创新载体建设，积极强化资管行业、养老领域、绿色金融等领域金融科技发展，加快提升金融科技水平。借助成都自贸试验区改革创新，探索实施更高水平的贸易投融资便利化试点，加快建设与自贸区发展相适应的金融服务体系。落地本外币账户合一试点、QDLP、QFLP等跨境金融试点，联合设立人民币国际投贷基金，进一步深化多式联运金融服务，扩大跨境金融区块链服务平台范围。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-11f51009582f:bundle-2a69b8a59980",
+      "excluded_fragments": [],
+      "ref_id": "ref-11f51009582f",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-e01be97e60a2061a5d4d",
+          "page_number": 58,
+          "text": "对比分析发现，成都资源要素运筹力在中西部城市中领先优势明显。金融方面，2019年，成都在全球金融中心指数中排名第74位，与西安（112位）、武汉（137位）、重庆（150位）等中西部城市相比，优势明显，尤其在金融科技方面表现突出，但与上海、深圳、广州等城市差距较大。人才方面，据《2020中国人才指数》结果显示，北京、上海、广州人才指数明显引领，成都城市人才指数保持较高水平，达到46.9，高于天津、重庆、武汉、郑州等城市；但成都外籍人才数量仅为上海外籍人才数量的 \\(5.5\\%\\) 、北京的 \\(14\\%\\) 、深圳的 \\(23\\%\\) 、广州的 \\(29\\%\\) ，外籍人才总量有待提升；成都外籍人才以教科文卫类为主，重点产业对国外人才吸引力较弱，截至2019年底，来蓉工作的外国人中，外国高端人才（A类）仅占总数的 \\(16.7\\%\\) ，与上海（\\(17.7\\%\\)）、苏州（\\(37.4\\%\\)）尚有一定差距。科技方面，2019年，成都输出技术成交额达1152.4亿元，在主要城市中排名第5位，领先于天津、武汉、深圳等城市，与上海、西安、广州较为接近，但与北京相比差距明显；成都正加快建设西部（成都）科学城，筹建天府实验室，创新策源能力加速提升，但横向来看，北京、上海、深圳、合肥等城市已成为综合性国家科学中心，同时，杭州拥有之江实验室，深圳拥有鹏城实验室，科技研发实力强劲①。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-373a75956c4573f1f382",
+          "page_number": 59,
+          "text": "原始 PDF 第 59 页图片"
+        },
+        {
+          "block_id": "blk-a72e5ea8ec08fe158f65",
+          "page_number": 59,
+          "text": "图1-27 2019年成都与主要城市输出技术成交额对比"
+        },
+        {
+          "block_id": "blk-eaf589922976db8e1d78",
+          "page_number": 59,
+          "text": "资料来源：2020年中国城市统计年鉴"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-e792487bf739",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-07c40aee600d",
+    "ref-11f51009582f"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

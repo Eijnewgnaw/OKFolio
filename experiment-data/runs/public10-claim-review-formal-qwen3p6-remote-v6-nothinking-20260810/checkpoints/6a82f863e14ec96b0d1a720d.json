@@ -1,0 +1,546 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区建设专项经费如何纳入财政预算并保障重点工作的顺利开展？",
+    "claims": [
+      {
+        "claim": "将成都自贸试验区建设专项经费纳入财政预算。",
+        "claim_id": "claim-830c2e4ae691b457",
+        "evidence_block_ids": [
+          "blk-8c9e21c47b4b07b84ecf"
+        ],
+        "evidence_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+        "evidence_id": "ref-846b1bd77510:bundle-b236a9702e99",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-846b1bd77510",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经费保障用于课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作。",
+        "claim_id": "claim-0b1a56eed2ebca0b",
+        "evidence_block_ids": [
+          "blk-8c9e21c47b4b07b84ecf"
+        ],
+        "evidence_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+        "evidence_id": "ref-846b1bd77510:bundle-b236a9702e99",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-846b1bd77510",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "市级相关部门和落地区域负责结合各自重点工作落实经费保障。",
+        "claim_id": "claim-a1dc146aa2742ce7",
+        "evidence_block_ids": [
+          "blk-8c9e21c47b4b07b84ecf"
+        ],
+        "evidence_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+        "evidence_id": "ref-846b1bd77510:bundle-b236a9702e99",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-846b1bd77510",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-830c2e4ae691b457",
+          "claim-0b1a56eed2ebca0b",
+          "claim-a1dc146aa2742ce7"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-846b1bd77510:bundle-b236a9702e99",
+        "reason": "该证据包含回答资金保障机制、实施主体及保障范围等核心槽位所需的全部事实，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-47db7bab78bc",
+    "members": [
+      {
+        "contribution": "明确将专项经费纳入财政预算，并规定市级相关部门和落地区域负责落实经费保障，以支持课题研究、改革试验、重大项目及宣传推介等工作。",
+        "ref_id": "ref-846b1bd77510",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-830c2e4ae691b457",
+        "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+        "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0b1a56eed2ebca0b",
+        "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+        "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a1dc146aa2742ce7",
+        "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+        "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-830c2e4ae691b457",
+          "claim-0b1a56eed2ebca0b"
+        ],
+        "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+        "finding": "该句前半部分覆盖 claim-830c2e4ae691b457，后半部分覆盖 claim-0b1a56eed2ebca0b。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5c117b78072ed089",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-830c2e4ae691b457",
+          "claim-0b1a56eed2ebca0b"
+        ],
+        "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+        "finding": "该句前半部分覆盖 claim-830c2e4ae691b457，后半部分覆盖 claim-0b1a56eed2ebca0b。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8f740842b29a3358",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a1dc146aa2742ce7"
+        ],
+        "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障。",
+        "finding": "该句完整覆盖 claim-a1dc146aa2742ce7。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e511359598a978e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-830c2e4ae691b457"
+        ],
+        "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+        "finding": "该句完整覆盖 claim-830c2e4ae691b457。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-47b3960c83b2211c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0b1a56eed2ebca0b"
+        ],
+        "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+        "finding": "该句完整覆盖 claim-0b1a56eed2ebca0b。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-991cd4db508e92e9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a1dc146aa2742ce7"
+        ],
+        "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+        "finding": "该句完整覆盖 claim-a1dc146aa2742ce7。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0ef6caec59d209e3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-830c2e4ae691b457",
+          "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+          "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0b1a56eed2ebca0b",
+          "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+          "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a1dc146aa2742ce7",
+          "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+          "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-830c2e4ae691b457",
+            "claim-0b1a56eed2ebca0b"
+          ],
+          "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+          "finding": "该句前半部分覆盖 claim-830c2e4ae691b457，后半部分覆盖 claim-0b1a56eed2ebca0b。",
+          "sentence_id": "sentence-5c117b78072ed089",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-830c2e4ae691b457",
+            "claim-0b1a56eed2ebca0b"
+          ],
+          "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+          "finding": "该句前半部分覆盖 claim-830c2e4ae691b457，后半部分覆盖 claim-0b1a56eed2ebca0b。",
+          "sentence_id": "sentence-8f740842b29a3358",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a1dc146aa2742ce7"
+          ],
+          "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障。",
+          "finding": "该句完整覆盖 claim-a1dc146aa2742ce7。",
+          "sentence_id": "sentence-1e511359598a978e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-830c2e4ae691b457"
+          ],
+          "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+          "finding": "该句完整覆盖 claim-830c2e4ae691b457。",
+          "sentence_id": "sentence-47b3960c83b2211c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0b1a56eed2ebca0b"
+          ],
+          "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+          "finding": "该句完整覆盖 claim-0b1a56eed2ebca0b。",
+          "sentence_id": "sentence-991cd4db508e92e9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a1dc146aa2742ce7"
+          ],
+          "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+          "finding": "该句完整覆盖 claim-a1dc146aa2742ce7。",
+          "sentence_id": "sentence-0ef6caec59d209e3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "615fd5ccc0851813a2b48375569aba65facce04d8226dea68b1cf9d55186fe63",
+  "coverage_history": [
+    {
+      "draft_sha256": "3c3e7ce0dfabf3864a0aa983e021b2b3cc3691b732be0694194fc6ce8d7b1917",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-830c2e4ae691b457",
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算以保障课题研究、重点改革试验任务探索及重大项目支持等建设工作顺利开展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b1a56eed2ebca0b",
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算以保障课题研究、重点改革试验任务探索及重大项目支持等建设工作顺利开展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a1dc146aa2742ce7",
+            "draft_excerpt": "市级相关部门与落地区域需结合各自重点工作，共同落实经费保障责任。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-830c2e4ae691b457",
+              "claim-0b1a56eed2ebca0b"
+            ],
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算以保障课题研究、重点改革试验任务探索及重大项目支持等建设工作顺利开展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c97c20dc4912f02c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-830c2e4ae691b457",
+              "claim-0b1a56eed2ebca0b"
+            ],
+            "draft_excerpt": "成都自贸试验区建设专项经费需纳入财政预算，以确保课题研究、重点改革试验任务探索、重大项目支持及宣传推介等建设工作顺利推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92f4bc49a5b8d5a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1dc146aa2742ce7"
+            ],
+            "draft_excerpt": "市级相关部门与落地区域需结合各自重点工作，共同落实经费保障责任。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3ff5202b5cb07d3d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该机制通过预算纳入方式，为自贸试验区各项建设任务提供明确的资金支持路径。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-070256833f7ba7c2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1dc146aa2742ce7"
+            ],
+            "draft_excerpt": "经费保障责任被明确分配至市级相关部门和落地区域，确保重点工作与资金落实相匹配。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac04a679644e2181",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-830c2e4ae691b457"
+            ],
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df1ef1fce27d6a26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b1a56eed2ebca0b"
+            ],
+            "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36ef53152aa59d04",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1dc146aa2742ce7"
+            ],
+            "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa959da7990167d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该机制通过预算纳入方式，为自贸试验区各项建设任务提供明确的资金支持路径。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "615fd5ccc0851813a2b48375569aba65facce04d8226dea68b1cf9d55186fe63",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-830c2e4ae691b457",
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+            "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b1a56eed2ebca0b",
+            "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+            "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a1dc146aa2742ce7",
+            "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+            "finding": "draft_excerpt 逐字包含 claim 中的关键事实要素，与 evidence_excerpt 一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-830c2e4ae691b457",
+              "claim-0b1a56eed2ebca0b"
+            ],
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+            "finding": "该句前半部分覆盖 claim-830c2e4ae691b457，后半部分覆盖 claim-0b1a56eed2ebca0b。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c117b78072ed089",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-830c2e4ae691b457",
+              "claim-0b1a56eed2ebca0b"
+            ],
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+            "finding": "该句前半部分覆盖 claim-830c2e4ae691b457，后半部分覆盖 claim-0b1a56eed2ebca0b。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f740842b29a3358",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1dc146aa2742ce7"
+            ],
+            "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障。",
+            "finding": "该句完整覆盖 claim-a1dc146aa2742ce7。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e511359598a978e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-830c2e4ae691b457"
+            ],
+            "draft_excerpt": "将成都自贸试验区建设专项经费纳入财政预算",
+            "finding": "该句完整覆盖 claim-830c2e4ae691b457。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-47b3960c83b2211c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b1a56eed2ebca0b"
+            ],
+            "draft_excerpt": "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+            "finding": "该句完整覆盖 claim-0b1a56eed2ebca0b。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-991cd4db508e92e9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1dc146aa2742ce7"
+            ],
+            "draft_excerpt": "市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+            "finding": "该句完整覆盖 claim-a1dc146aa2742ce7。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ef6caec59d209e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。市级相关部门和落地区域负责结合各自重点工作落实经费保障。\n\n- 将成都自贸试验区建设专项经费纳入财政预算\n- 保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展\n- 市级相关部门和落地区域负责结合各自重点工作落实经费保障",
+    "description": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-47db7bab78bc",
+      "description": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "将成都自贸试验区建设专项经费纳入财政预算",
+        "保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展",
+        "市级相关部门和落地区域负责结合各自重点工作落实经费保障"
+      ],
+      "evidence_block_ids": [
+        "blk-8c9e21c47b4b07b84ecf"
+      ],
+      "page_end": 149,
+      "page_start": 149,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（三）强化资金保障。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "强化资金保障。",
+      "type": "分析框架"
+    },
+    "title": "强化资金保障。"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-846b1bd77510:bundle-b236a9702e99",
+      "excluded_fragments": [],
+      "ref_id": "ref-846b1bd77510",
+      "source_blocks": [
+        {
+          "block_id": "blk-8c9e21c47b4b07b84ecf",
+          "page_number": 149,
+          "text": "将成都自贸试验区建设专项经费纳入财政预算，保障课题研究、重点改革试验任务探索、重大项目支持、宣传推介等建设工作顺利开展。市级相关部门和落地区域负责结合各自重点工作落实经费保障。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-47db7bab78bc",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-846b1bd77510"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

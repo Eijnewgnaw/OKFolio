@@ -1,0 +1,1488 @@
+{
+  "contract": {
+    "canonical_question": "成都市加快跨境电商发展三年行动计划的核心目标与实施路径是什么？",
+    "claims": [
+      {
+        "claim": "成都市制定三年行动计划，旨在打造中西部跨境电商最优产业生态圈。",
+        "claim_id": "claim-45db6d10d01d4ac8",
+        "evidence_block_ids": [
+          "blk-763e8a1480128ed9eac3"
+        ],
+        "evidence_excerpt": "通过实施三年行动计划，积极打造中西部跨境电商最优产业生态圈",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          184
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "region": [
+            "成都"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年跨境电商交易额目标为100亿元以上，传统实体企业应用跨境电商目标为1000家以上。",
+        "claim_id": "claim-24b2125d3fb213bd",
+        "evidence_block_ids": [
+          "blk-7fd2d5357e3330a1cbb1"
+        ],
+        "evidence_excerpt": "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          183
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年跨境电商交易额目标为200亿元以上，传统实体企业应用跨境电商目标为2000家以上。",
+        "claim_id": "claim-e4dc253a00204165",
+        "evidence_block_ids": [
+          "blk-c28daa84550dd3942738"
+        ],
+        "evidence_excerpt": "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          183
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年跨境电商交易额目标为400亿元以上，传统实体企业应用跨境电商目标为3000家以上。",
+        "claim_id": "claim-7b12672f54f94df2",
+        "evidence_block_ids": [
+          "blk-d496aaee9da9f72062cb"
+        ],
+        "evidence_excerpt": "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          184
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市重点引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。",
+        "claim_id": "claim-f130f4427c6c9e7e",
+        "evidence_block_ids": [
+          "blk-a63467b8621878264511"
+        ],
+        "evidence_excerpt": "争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          184
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "object": [
+            "跨境电商平台类企业"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市梯度培育高品质跨境电商供应链、支付、软件、代运营等第三方服务商及新型服务商。",
+        "claim_id": "claim-3c5b4269262a5e9c",
+        "evidence_block_ids": [
+          "blk-fa164869cf9becdecd9f"
+        ],
+        "evidence_excerpt": "重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          184
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "object": [
+            "跨境电商服务企业"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市引导传统实体制造企业应用跨境电商，大力推进跨境出口B2B发展。",
+        "claim_id": "claim-bc6109a6dc8ab4ab",
+        "evidence_block_ids": [
+          "blk-9e943c071af360751d57",
+          "blk-dda691323dc431edb6a1"
+        ],
+        "evidence_excerpt": "引导培育传统实体制造企业应用跨境电商。结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和\n\n推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          184,
+          185
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "object": [
+            "传统实体制造企业"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+        "claim_id": "claim-f31852e45c0cbb29",
+        "evidence_block_ids": [
+          "blk-dacd11ef1745968aa23f"
+        ],
+        "evidence_excerpt": "重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-64aa3031e8a2",
+        "scope": {
+          "object": [
+            "贸易型总部企业"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-45db6d10d01d4ac8",
+          "claim-24b2125d3fb213bd",
+          "claim-e4dc253a00204165",
+          "claim-7b12672f54f94df2",
+          "claim-f130f4427c6c9e7e",
+          "claim-3c5b4269262a5e9c",
+          "claim-bc6109a6dc8ab4ab",
+          "claim-f31852e45c0cbb29"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+        "reason": "该Bundle完整包含计划原文，涵盖目标、措施与保障机制，是回答中心问题的唯一证据源。"
+      }
+    ],
+    "group_id": "proposition-4c19f8848dea",
+    "members": [
+      {
+        "contribution": "该Ref完整呈现成都市跨境电商三年行动计划的总体目标、分阶段量化指标及21项具体实施措施，直接回答中心问题。",
+        "ref_id": "ref-64aa3031e8a2",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-45db6d10d01d4ac8",
+        "draft_excerpt": "成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。",
+        "finding": "草稿完整复现了合同中的核心目标与实施路径，包括'中西部跨境电商最优产业生态圈'的表述。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-24b2125d3fb213bd",
+        "draft_excerpt": "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上。",
+        "finding": "草稿逐字包含了2018年的交易额与实体企业应用目标。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e4dc253a00204165",
+        "draft_excerpt": "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上。",
+        "finding": "草稿逐字包含了2019年的交易额与实体企业应用目标。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7b12672f54f94df2",
+        "draft_excerpt": "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上。",
+        "finding": "草稿逐字包含了2020年的交易额与实体企业应用目标。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f130f4427c6c9e7e",
+        "draft_excerpt": "争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。",
+        "finding": "草稿逐字包含了引进国内排名前列的跨境电商平台类企业的目标。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3c5b4269262a5e9c",
+        "draft_excerpt": "重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商。",
+        "finding": "草稿逐字包含了培育第三方服务商及新型服务商的措施。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bc6109a6dc8ab4ab",
+        "draft_excerpt": "引导培育传统实体制造企业应用跨境电商，结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展。",
+        "finding": "草稿逐字包含了引导传统实体制造企业应用跨境电商及推进跨境出口B2B发展的措施。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f31852e45c0cbb29",
+        "draft_excerpt": "重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+        "finding": "草稿逐字包含了招引具有国际国内资源配置能力的企业设立贸易型总部的措施。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-45db6d10d01d4ac8"
+        ],
+        "draft_excerpt": "成都市结合实际情况制定的加快跨境电商发展的三年行动计划，旨在打造中西部跨境电商最优产业生态圈。",
+        "finding": "该句直接对应合同中的核心目标claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8fd474fa928f1ebc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45db6d10d01d4ac8"
+        ],
+        "draft_excerpt": "成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。",
+        "finding": "该句直接对应合同中的核心目标claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-11d656003e9dd599",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-24b2125d3fb213bd"
+        ],
+        "draft_excerpt": "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上。",
+        "finding": "该句直接对应合同中的2018年量化目标claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5db967245ae9237d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e4dc253a00204165"
+        ],
+        "draft_excerpt": "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上。",
+        "finding": "该句直接对应合同中的2019年量化目标claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2e2d0c28ac710a99",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7b12672f54f94df2"
+        ],
+        "draft_excerpt": "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上。",
+        "finding": "该句直接对应合同中的2020年量化目标claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9dc1d364ef3ea1a0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f130f4427c6c9e7e"
+        ],
+        "draft_excerpt": "争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。",
+        "finding": "该句直接对应合同中的引进平台类企业措施claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cd541fe0bc9b876e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3c5b4269262a5e9c"
+        ],
+        "draft_excerpt": "重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商。",
+        "finding": "该句直接对应合同中的培育第三方及新型服务商措施claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6ef27c1d6741bb03",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bc6109a6dc8ab4ab"
+        ],
+        "draft_excerpt": "引导培育传统实体制造企业应用跨境电商，结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展。",
+        "finding": "该句直接对应合同中的引导传统实体制造企业应用跨境电商及推进B2B发展措施claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-49cd6640f812796f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f31852e45c0cbb29"
+        ],
+        "draft_excerpt": "重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+        "finding": "该句直接对应合同中的招引贸易型总部企业措施claim，表述一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-859f1187e9fbaf53",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_draft_sha256": "8873f0ca0207a4057383307c008eca10edf0e06ce6a2da7c4c614af7cc403552",
+  "coverage_history": [
+    {
+      "draft_sha256": "cebd837a67b89dcb4b0654cfd8f1e32dc6424e9900c6112d742136fdbf218268",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45db6d10d01d4ac8",
+            "draft_excerpt": "通过实施三年行动计划，成都市积极打造中西部跨境电商最优产业生态圈，全面形成全球跨境电商服务资源中心竞争新优势。",
+            "finding": "草稿明确表述了'通过实施三年行动计划，成都市积极打造中西部跨境电商最优产业生态圈'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24b2125d3fb213bd",
+            "draft_excerpt": "2018年目标为跨境电商交易额100亿元以上，传统实体企业成功应用跨境电商1000家以上，集聚跨境电商服务企业2000家以上，吸引创新创业人才3万人以上。",
+            "finding": "草稿明确表述了'2018年目标为跨境电商交易额100亿元以上，传统实体企业成功应用跨境电商1000家以上'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e4dc253a00204165",
+            "draft_excerpt": "2019年目标为跨境电商交易额200亿元以上，传统实体企业成功应用跨境电商2000家以上，集聚跨境电商服务企业5000家以上，吸引创新创业人才5万人以上。",
+            "finding": "草稿明确表述了'2019年目标为跨境电商交易额200亿元以上，传统实体企业成功应用跨境电商2000家以上'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7b12672f54f94df2",
+            "draft_excerpt": "2020年目标为跨境电商交易额400亿元以上，传统实体企业成功应用跨境电商3000家以上，集聚跨境电商服务企业1万家以上，吸引创新创业人才10万人以上。",
+            "finding": "草稿明确表述了'2020年目标为跨境电商交易额400亿元以上，传统实体企业成功应用跨境电商3000家以上'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f130f4427c6c9e7e",
+            "draft_excerpt": "计划实施六大重点行动：一是市场主体引培，重点引进20家以上国内排名前列的跨境电商平台企业，梯度培育供应链、支付等第三方服务商，并引导传统实体制造企业应用跨境电商。",
+            "finding": "草稿明确表述了'重点引进20家以上国内排名前列的跨境电商平台企业'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c5b4269262a5e9c",
+            "draft_excerpt": "计划实施六大重点行动：一是市场主体引培，重点引进20家以上国内排名前列的跨境电商平台企业，梯度培育供应链、支付等第三方服务商，并引导传统实体制造企业应用跨境电商。",
+            "finding": "草稿明确表述了'梯度培育供应链、支付等第三方服务商'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bc6109a6dc8ab4ab",
+            "draft_excerpt": "计划实施六大重点行动：一是市场主体引培，重点引进20家以上国内排名前列的跨境电商平台企业，梯度培育供应链、支付等第三方服务商，并引导传统实体制造企业应用跨境电商。",
+            "finding": "草稿明确表述了'并引导传统实体制造企业应用跨境电商'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f31852e45c0cbb29",
+            "draft_excerpt": "二是产业补链强链，引进贸易型总部企业、物流供应链服务企业、支付收汇机构及供应链金融服务企业。",
+            "finding": "草稿明确表述了'引进贸易型总部企业'，与合同claim完全一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45db6d10d01d4ac8",
+              "claim-f130f4427c6c9e7e",
+              "claim-3c5b4269262a5e9c",
+              "claim-bc6109a6dc8ab4ab"
+            ],
+            "draft_excerpt": "成都市为构建西部国际门户枢纽和内陆开放高地，制定加快跨境电商发展的三年行动计划，涵盖市场主体引培、产业补链强链及营商环境提升等六大重点任务。",
+            "finding": "该句概括了计划的核心目标与重点任务，其中'市场主体引培、产业补链强链及营商环境提升等六大重点任务'对应合同中的claim-45db6d10d01d4ac8、claim-f130f4427c6c9e7e、claim-3c5b4269262a5e9c、claim-bc6109a6dc8ab4ab。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-265c755bcdfb5651",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都市结合“一带一路”倡议和“四向拓展、全域开放”的发展机遇，立足跨境电商产业基础和消费腹地优势，制定加快跨境电商发展的三年行动计划。",
+            "finding": "该句提到的'一带一路'倡议、'四向拓展、全域开放'发展机遇、消费腹地优势等背景信息，在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a424a600e94d098",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该计划旨在探索内陆城市跨境电商发展新模式、应用新场景和产业转型新路径，培育外贸发展新动能，助力构建西部国际门户枢纽和内陆对外开放高地。",
+            "finding": "该句提到的'探索内陆城市跨境电商发展新模式、应用新场景和产业转型新路径，培育外贸发展新动能'等目标在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2a9eb10d76bdce4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-45db6d10d01d4ac8"
+            ],
+            "draft_excerpt": "通过实施三年行动计划，成都市积极打造中西部跨境电商最优产业生态圈，全面形成全球跨境电商服务资源中心竞争新优势。",
+            "finding": "该句明确表述了'通过实施三年行动计划，成都市积极打造中西部跨境电商最优产业生态圈'，与合同claim-45db6d10d01d4ac8完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-59f10e4473b0a1ea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "计划帮助带动实体经济向新市场、新服务和新制造转型，构建融入国际市场分工合作的外向型经济体系，加快建设内陆开放型经济高地和西部国际门户枢纽城市。",
+            "finding": "该句提到的'带动实体经济向新市场、新服务和新制造转型，构建融入国际市场分工合作的外向型经济体系'等目标在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-860f1203198b846c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-24b2125d3fb213bd",
+              "claim-e4dc253a00204165",
+              "claim-7b12672f54f94df2"
+            ],
+            "draft_excerpt": "该计划设定了2018年至2020年的分阶段量化发展目标。",
+            "finding": "该句概括了合同claim-24b2125d3fb213bd、claim-e4dc253a00204165、claim-7b12672f54f94df2中关于分阶段量化发展目标的内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf13604418183f2d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24b2125d3fb213bd"
+            ],
+            "draft_excerpt": "2018年目标为跨境电商交易额100亿元以上，传统实体企业成功应用跨境电商1000家以上，集聚跨境电商服务企业2000家以上，吸引创新创业人才3万人以上。",
+            "finding": "该句明确表述了'2018年目标为跨境电商交易额100亿元以上，传统实体企业成功应用跨境电商1000家以上'，与合同claim-24b2125d3fb213bd完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce65b60f30f3634c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e4dc253a00204165"
+            ],
+            "draft_excerpt": "2019年目标为跨境电商交易额200亿元以上，传统实体企业成功应用跨境电商2000家以上，集聚跨境电商服务企业5000家以上，吸引创新创业人才5万人以上。",
+            "finding": "该句明确表述了'2019年目标为跨境电商交易额200亿元以上，传统实体企业成功应用跨境电商2000家以上'，与合同claim-e4dc253a00204165完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7bead3d4eb72aac8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b12672f54f94df2"
+            ],
+            "draft_excerpt": "2020年目标为跨境电商交易额400亿元以上，传统实体企业成功应用跨境电商3000家以上，集聚跨境电商服务企业1万家以上，吸引创新创业人才10万人以上。",
+            "finding": "该句明确表述了'2020年目标为跨境电商交易额400亿元以上，传统实体企业成功应用跨境电商3000家以上'，与合同claim-7b12672f54f94df2完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-beba41d99f723e00",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年：交易额100亿元以上，服务企业2000家以上。",
+            "finding": "该句提到的'服务企业2000家以上'在合同claim-24b2125d3fb213bd中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab83fec4f5623fc4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年：交易额200亿元以上，服务企业5000家以上。",
+            "finding": "该句提到的'服务企业5000家以上'在合同claim-e4dc253a00204165中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-47a7fc55f4c3bebb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年：交易额400亿元以上，服务企业1万家以上。",
+            "finding": "该句提到的'服务企业1万家以上'在合同claim-7b12672f54f94df2中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d71e5a36cfaaf37a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f130f4427c6c9e7e",
+              "claim-3c5b4269262a5e9c",
+              "claim-bc6109a6dc8ab4ab"
+            ],
+            "draft_excerpt": "计划实施六大重点行动：一是市场主体引培，重点引进20家以上国内排名前列的跨境电商平台企业，梯度培育供应链、支付等第三方服务商，并引导传统实体制造企业应用跨境电商。",
+            "finding": "该句明确表述了'重点引进20家以上国内排名前列的跨境电商平台企业，梯度培育供应链、支付等第三方服务商，并引导传统实体制造企业应用跨境电商'，与合同claim-f130f4427c6c9e7e、claim-3c5b4269262a5e9c、claim-bc6109a6dc8ab4ab完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed1b9c2450ad482d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f31852e45c0cbb29"
+            ],
+            "draft_excerpt": "二是产业补链强链，引进贸易型总部企业、物流供应链服务企业、支付收汇机构及供应链金融服务企业。",
+            "finding": "该句明确表述了'引进贸易型总部企业'，与合同claim-f31852e45c0cbb29完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f5eba7d052bbf92",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "三是“一核多点多极”全景发展，推进专业特色楼宇建设，依托设关地或特殊区域布局多点发展，并在主要商圈和综保区多极布局线下商业载体。",
+            "finding": "该句提到的'一核多点多极'全景发展、专业特色楼宇建设等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-47d16c69edb91abc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "四是营商环境提升，优化公共服务平台、海关监管流程及支付结售汇渠道，推进税收“免征不退”政策落地。",
+            "finding": "该句提到的'优化公共服务平台、海关监管流程及支付结售汇渠道，推进税收“免征不退”政策落地'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b6bc864491857774",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "五是产业要素保障，设立总规模10亿元的跨境电商股权投资基金，加大信贷支持，赋能全产业链大数据资源，并加强人才队伍培养。",
+            "finding": "该句提到的'设立总规模10亿元的跨境电商股权投资基金，加大信贷支持，赋能全产业链大数据资源，并加强人才队伍培养'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8e873a3f85eb0ff1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "六是产业营销行动，推动海外市场拓展，布局15个重点国家和地区的海外仓、国际物流采购中心等海外物流配套基础设施。",
+            "finding": "该句提到的'推动海外市场拓展，布局15个重点国家和地区的海外仓、国际物流采购中心等海外物流配套基础设施'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-065825e057f9a93f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f130f4427c6c9e7e"
+            ],
+            "draft_excerpt": "引进国内排名前列的跨境电商平台企业20家以上",
+            "finding": "该句明确表述了'引进国内排名前列的跨境电商平台企业20家以上'，与合同claim-f130f4427c6c9e7e完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a9bec100b4a3d75",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "设立总规模10亿元的成都市跨境电商股权投资基金",
+            "finding": "该句提到的'设立总规模10亿元的成都市跨境电商股权投资基金'在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e40f5ec9d9c58d7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在欧美、日韩等15个重点国家和地区布局总面积达10万平米以上的海外仓",
+            "finding": "该句提到的'在欧美、日韩等15个重点国家和地区布局总面积达10万平米以上的海外仓'在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-13cdb21127de3e47",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "为确保计划顺利实施，成都市加强组织领导，每年召开一次由市政府主要领导召集的综试区建设领导小组会议，每季度召开一次由分管副市长召集的跨境电商专题会议。",
+            "finding": "该句提到的'加强组织领导，每年召开一次由市政府主要领导召集的综试区建设领导小组会议，每季度召开一次由分管副市长召集的跨境电商专题会议'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a26c5640bf103ed",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "强化部门联动，公安、银行、海关、外管、税务等部门加强协作，形成跨境电商协同监管体系。",
+            "finding": "该句提到的'强化部门联动，公安、银行、海关、外管、税务等部门加强协作，形成跨境电商协同监管体系'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92654296205b7a84",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在资金保障方面，制定完善促进跨境电商产业发展的资金支持政策，从主体招引、主体培育等6个方面支持企业在蓉集聚发展。",
+            "finding": "该句提到的'制定完善促进跨境电商产业发展的资金支持政策，从主体招引、主体培育等6个方面支持企业在蓉集聚发展'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0bc028dcd9ef76d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时成立成都市跨境电商综试区工作专项检查组，定期开展工作任务完成情况检查，加强重点任务督促和考核。",
+            "finding": "该句提到的'成立成都市跨境电商综试区工作专项检查组，定期开展工作任务完成情况检查，加强重点任务督促和考核'等内容在合同claim中未提及。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-62306c74b5338de1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都市结合“一带一路”倡议和“四向拓展、全域开放”的发展机遇，立足跨境电商产业基础和消费腹地优势，制定加快跨境电商发展的三年行动计划。",
+            "finding": "该句提到的'一带一路'倡议、'四向拓展、全域开放'发展机遇、消费腹地优势等背景信息，在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "该计划旨在探索内陆城市跨境电商发展新模式、应用新场景和产业转型新路径，培育外贸发展新动能，助力构建西部国际门户枢纽和内陆对外开放高地。",
+            "finding": "该句提到的'探索内陆城市跨境电商发展新模式、应用新场景和产业转型新路径，培育外贸发展新动能'等目标在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "计划帮助带动实体经济向新市场、新服务和新制造转型，构建融入国际市场分工合作的外向型经济体系，加快建设内陆开放型经济高地和西部国际门户枢纽城市。",
+            "finding": "该句提到的'带动实体经济向新市场、新服务和新制造转型，构建融入国际市场分工合作的外向型经济体系'等目标在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "2018年：交易额100亿元以上，服务企业2000家以上。",
+            "finding": "该句提到的'服务企业2000家以上'在合同claim-24b2125d3fb213bd中未提及。"
+          },
+          {
+            "draft_excerpt": "2019年：交易额200亿元以上，服务企业5000家以上。",
+            "finding": "该句提到的'服务企业5000家以上'在合同claim-e4dc253a00204165中未提及。"
+          },
+          {
+            "draft_excerpt": "2020年：交易额400亿元以上，服务企业1万家以上。",
+            "finding": "该句提到的'服务企业1万家以上'在合同claim-7b12672f54f94df2中未提及。"
+          },
+          {
+            "draft_excerpt": "三是“一核多点多极”全景发展，推进专业特色楼宇建设，依托设关地或特殊区域布局多点发展，并在主要商圈和综保区多极布局线下商业载体。",
+            "finding": "该句提到的'一核多点多极'全景发展、专业特色楼宇建设等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "四是营商环境提升，优化公共服务平台、海关监管流程及支付结售汇渠道，推进税收“免征不退”政策落地。",
+            "finding": "该句提到的'优化公共服务平台、海关监管流程及支付结售汇渠道，推进税收“免征不退”政策落地'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "五是产业要素保障，设立总规模10亿元的跨境电商股权投资基金，加大信贷支持，赋能全产业链大数据资源，并加强人才队伍培养。",
+            "finding": "该句提到的'设立总规模10亿元的跨境电商股权投资基金，加大信贷支持，赋能全产业链大数据资源，并加强人才队伍培养'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "六是产业营销行动，推动海外市场拓展，布局15个重点国家和地区的海外仓、国际物流采购中心等海外物流配套基础设施。",
+            "finding": "该句提到的'推动海外市场拓展，布局15个重点国家和地区的海外仓、国际物流采购中心等海外物流配套基础设施'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "设立总规模10亿元的成都市跨境电商股权投资基金",
+            "finding": "该句提到的'设立总规模10亿元的成都市跨境电商股权投资基金'在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "在欧美、日韩等15个重点国家和地区布局总面积达10万平米以上的海外仓",
+            "finding": "该句提到的'在欧美、日韩等15个重点国家和地区布局总面积达10万平米以上的海外仓'在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "为确保计划顺利实施，成都市加强组织领导，每年召开一次由市政府主要领导召集的综试区建设领导小组会议，每季度召开一次由分管副市长召集的跨境电商专题会议。",
+            "finding": "该句提到的'加强组织领导，每年召开一次由市政府主要领导召集的综试区建设领导小组会议，每季度召开一次由分管副市长召集的跨境电商专题会议'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "强化部门联动，公安、银行、海关、外管、税务等部门加强协作，形成跨境电商协同监管体系。",
+            "finding": "该句提到的'强化部门联动，公安、银行、海关、外管、税务等部门加强协作，形成跨境电商协同监管体系'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "在资金保障方面，制定完善促进跨境电商产业发展的资金支持政策，从主体招引、主体培育等6个方面支持企业在蓉集聚发展。",
+            "finding": "该句提到的'制定完善促进跨境电商产业发展的资金支持政策，从主体招引、主体培育等6个方面支持企业在蓉集聚发展'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "同时成立成都市跨境电商综试区工作专项检查组，定期开展工作任务完成情况检查，加强重点任务督促和考核。",
+            "finding": "该句提到的'成立成都市跨境电商综试区工作专项检查组，定期开展工作任务完成情况检查，加强重点任务督促和考核'等内容在合同claim中未提及。"
+          },
+          {
+            "draft_excerpt": "3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5000",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "10",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "15",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d53d735ee97674b83e1c28488d3e81bd0456101c09e8b483822d691c5fec7856",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45db6d10d01d4ac8",
+            "draft_excerpt": "成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。",
+            "finding": "草稿明确提及'通过实施该计划积极打造中西部跨境电商最优产业生态圈'，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24b2125d3fb213bd",
+            "draft_excerpt": "",
+            "finding": "草稿未提及2018年跨境电商交易额及传统实体企业应用目标。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e4dc253a00204165",
+            "draft_excerpt": "",
+            "finding": "草稿未提及2019年跨境电商交易额及传统实体企业应用目标。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-7b12672f54f94df2",
+            "draft_excerpt": "",
+            "finding": "草稿未提及2020年跨境电商交易额及传统实体企业应用目标。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f130f4427c6c9e7e",
+            "draft_excerpt": "",
+            "finding": "草稿未提及引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-3c5b4269262a5e9c",
+            "draft_excerpt": "",
+            "finding": "草稿未提及梯度培育高品质跨境电商供应链、支付、软件、代运营等第三方服务商及新型服务商。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-bc6109a6dc8ab4ab",
+            "draft_excerpt": "",
+            "finding": "草稿未提及引导传统实体制造企业应用跨境电商及大力推进跨境出口B2B发展。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f31852e45c0cbb29",
+            "draft_excerpt": "计划涵盖市场主体引培、产业补链强链及营商环境提升等任务，重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+            "finding": "草稿明确提及'重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部'，与合同claim完全一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45db6d10d01d4ac8"
+            ],
+            "draft_excerpt": "成都市结合实际情况制定的加快跨境电商发展的三年行动计划，旨在打造中西部跨境电商最优产业生态圈。",
+            "finding": "该句核心内容'打造中西部跨境电商最优产业生态圈'由claim-45db6d10d01d4ac8支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8fd474fa928f1ebc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45db6d10d01d4ac8"
+            ],
+            "draft_excerpt": "成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。",
+            "finding": "该句核心内容'通过实施该计划积极打造中西部跨境电商最优产业生态圈'由claim-45db6d10d01d4ac8支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11d656003e9dd599",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f31852e45c0cbb29"
+            ],
+            "draft_excerpt": "计划涵盖市场主体引培、产业补链强链及营商环境提升等任务，重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+            "finding": "该句后半部分'重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部'由claim-f31852e45c0cbb29支持。前半部分'市场主体引培、产业补链强链及营商环境提升等任务'为合同未明确列出的概括性描述，但整体核心事实由claim支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-04b404aecd13bfbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "8873f0ca0207a4057383307c008eca10edf0e06ce6a2da7c4c614af7cc403552",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-45db6d10d01d4ac8",
+            "draft_excerpt": "成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。",
+            "finding": "草稿完整复现了合同中的核心目标与实施路径，包括'中西部跨境电商最优产业生态圈'的表述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24b2125d3fb213bd",
+            "draft_excerpt": "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上。",
+            "finding": "草稿逐字包含了2018年的交易额与实体企业应用目标。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e4dc253a00204165",
+            "draft_excerpt": "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上。",
+            "finding": "草稿逐字包含了2019年的交易额与实体企业应用目标。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7b12672f54f94df2",
+            "draft_excerpt": "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上。",
+            "finding": "草稿逐字包含了2020年的交易额与实体企业应用目标。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f130f4427c6c9e7e",
+            "draft_excerpt": "争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。",
+            "finding": "草稿逐字包含了引进国内排名前列的跨境电商平台类企业的目标。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c5b4269262a5e9c",
+            "draft_excerpt": "重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商。",
+            "finding": "草稿逐字包含了培育第三方服务商及新型服务商的措施。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bc6109a6dc8ab4ab",
+            "draft_excerpt": "引导培育传统实体制造企业应用跨境电商，结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展。",
+            "finding": "草稿逐字包含了引导传统实体制造企业应用跨境电商及推进跨境出口B2B发展的措施。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f31852e45c0cbb29",
+            "draft_excerpt": "重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+            "finding": "草稿逐字包含了招引具有国际国内资源配置能力的企业设立贸易型总部的措施。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45db6d10d01d4ac8"
+            ],
+            "draft_excerpt": "成都市结合实际情况制定的加快跨境电商发展的三年行动计划，旨在打造中西部跨境电商最优产业生态圈。",
+            "finding": "该句直接对应合同中的核心目标claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8fd474fa928f1ebc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45db6d10d01d4ac8"
+            ],
+            "draft_excerpt": "成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。",
+            "finding": "该句直接对应合同中的核心目标claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11d656003e9dd599",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24b2125d3fb213bd"
+            ],
+            "draft_excerpt": "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上。",
+            "finding": "该句直接对应合同中的2018年量化目标claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5db967245ae9237d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e4dc253a00204165"
+            ],
+            "draft_excerpt": "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上。",
+            "finding": "该句直接对应合同中的2019年量化目标claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e2d0c28ac710a99",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b12672f54f94df2"
+            ],
+            "draft_excerpt": "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上。",
+            "finding": "该句直接对应合同中的2020年量化目标claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9dc1d364ef3ea1a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f130f4427c6c9e7e"
+            ],
+            "draft_excerpt": "争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。",
+            "finding": "该句直接对应合同中的引进平台类企业措施claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd541fe0bc9b876e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c5b4269262a5e9c"
+            ],
+            "draft_excerpt": "重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商。",
+            "finding": "该句直接对应合同中的培育第三方及新型服务商措施claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6ef27c1d6741bb03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bc6109a6dc8ab4ab"
+            ],
+            "draft_excerpt": "引导培育传统实体制造企业应用跨境电商，结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展。",
+            "finding": "该句直接对应合同中的引导传统实体制造企业应用跨境电商及推进B2B发展措施claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49cd6640f812796f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f31852e45c0cbb29"
+            ],
+            "draft_excerpt": "重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+            "finding": "该句直接对应合同中的招引贸易型总部企业措施claim，表述一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-859f1187e9fbaf53",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都市结合实际情况制定加快跨境电商发展的三年行动计划，通过实施该计划积极打造中西部跨境电商最优产业生态圈。\n\n- 2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上。\n- 2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上。\n- 2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上。\n- 争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上。\n- 重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商。\n- 引导培育传统实体制造企业应用跨境电商，结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展。\n- 重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部。",
+    "description": "成都市结合实际情况制定的加快跨境电商发展的三年行动计划，旨在打造中西部跨境电商最优产业生态圈。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "proposition-4c19f8848dea",
+      "description": "成都市结合实际情况制定的加快跨境电商发展的三年行动计划。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "通过实施三年行动计划，积极打造中西部跨境电商最优产业生态圈",
+        "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上",
+        "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上",
+        "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上",
+        "争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上",
+        "重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商",
+        "引导培育传统实体制造企业应用跨境电商。结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和\n\n推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展",
+        "重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部"
+      ],
+      "evidence_block_ids": [
+        "blk-763e8a1480128ed9eac3",
+        "blk-7fd2d5357e3330a1cbb1",
+        "blk-c28daa84550dd3942738",
+        "blk-d496aaee9da9f72062cb",
+        "blk-a63467b8621878264511",
+        "blk-fa164869cf9becdecd9f",
+        "blk-9e943c071af360751d57",
+        "blk-dda691323dc431edb6a1",
+        "blk-dacd11ef1745968aa23f"
+      ],
+      "page_end": 200,
+      "page_start": 183,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都市加快跨境电商发展三年行动计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "成都市加快跨境电商发展三年行动计划",
+      "type": "政策建议"
+    },
+    "title": "成都市加快跨境电商发展三年行动计划"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-64aa3031e8a2:bundle-f5c21cab2284",
+      "excluded_fragments": [],
+      "ref_id": "ref-64aa3031e8a2",
+      "source_blocks": [
+        {
+          "block_id": "blk-1b37a367452e8f57eaa7",
+          "page_number": 183,
+          "text": "为推进成都跨境电商加快发展，结合成都实际，提出如下三年行动计划。"
+        },
+        {
+          "block_id": "blk-f0e7785e5c57331cb715",
+          "page_number": 183,
+          "text": "紧紧抓住“一带一路”倡议和“四向拓展、全域开放”的发展机遇，围绕市委市政府《关于营造新生态发展新经济培育新动能的意见》（成委发〔2017〕32号），立足成都跨境电商产业发展基础和消费腹地优势，积极探索内陆城市跨境电商发展新模式、应用新场景、产业转型新路径，培育外贸发展新动能，助力构建西部国际门户枢纽和内陆对外开放高地。"
+        },
+        {
+          "block_id": "blk-7fd2d5357e3330a1cbb1",
+          "page_number": 183,
+          "text": "2018年，实现跨境电商交易额100亿元以上，实现传统实体企业成功应用跨境电商1000家以上，集聚跨境电商服务企业2000家以上，吸引创新创业人才3万人以上，成功举办具有全国影响力的行业峰会2次以上，组织海内外市场对接营销及培训活动100次以上，探索制定行业认可的跨境电商B2B统计规则，启动成都全球跨境电商服务资源中心专业楼宇建设工作。"
+        },
+        {
+          "block_id": "blk-c28daa84550dd3942738",
+          "page_number": 183,
+          "text": "2019年，实现跨境电商交易额200亿元以上，实现传统实体企业成功应用跨境电商2000家以上，集聚跨境电商服务企业5000家以上，吸引创新创业人才5万人以上，成功举办具有全国影响力的行业峰会2次以上，组织海内外市场对接营销及培训活动100次以上，基本实现跨境电商B2B纳入海关统计，实现跨境电商全口径统计，基本完成成都全球跨境电商服务资源中心专业楼宇建设和招引工作。"
+        },
+        {
+          "block_id": "blk-d496aaee9da9f72062cb",
+          "page_number": 184,
+          "text": "2020年，实现跨境电商交易额400亿元以上，实现传统实体企业成功应用跨境电商3000家以上，集聚跨境电商服务企业1万家以上，吸引创新创业人才10万人以上，成功举办具有全国影响力的行业峰会2次以上，组织海内外市场对接营销及培训活动100次以上，成都全球跨境电商服务资源中心专业楼宇招引优质服务企业和机构入驻100家以上，形成产业集聚和规模效应。"
+        },
+        {
+          "block_id": "blk-763e8a1480128ed9eac3",
+          "page_number": 184,
+          "text": "通过实施三年行动计划，积极打造中西部跨境电商最优产业生态圈，全面形成全球跨境电商服务资源中心竞争新优势，帮助带动实体经济向新市场、新服务和新制造转型，构建融入国际市场分工合作的外向型经济体系，加快建设内陆开放型经济高地和西部国际门户枢纽城市。"
+        },
+        {
+          "block_id": "blk-a63467b8621878264511",
+          "page_number": 184,
+          "text": "1.重点引进跨境电商龙头平台企业。绘制跨境电商产业链全景图和产业重点招商图，紧盯跨境电商领域核心优势突出、行业影响力大、市场前景广阔、带动效应明显的龙头平台企业，强化项目合作洽谈、资源要素招引。争取引进国内排名前列的领军型、平台型、综合服务型跨境电商平台类企业20家以上，依托落户企业开展以商招商、补链招商和配套招商。[牵头单位：市商务委，责任单位：市投促委、各区（市）县政府（含成都天府新区、成都高新区管委会，下同）]"
+        },
+        {
+          "block_id": "blk-fa164869cf9becdecd9f",
+          "page_number": 184,
+          "text": "2.梯度培育跨境电商服务企业。绘制跨境电商产业生态发展路径图，重点培育一批高品质跨境电商供应链、支付、软件、代运营等第三方服务商，加快培育一批跨境电商品牌策划与推广、大数据、云计算、电商培训等新型服务商，引导一批本地信息服务、软件服务、大数据服务等科技研发企业向跨境电商服务商转型升级。积极构建由种子企业、瞪羚企业、独角兽企业、行业龙头企业构成的跨境电商服务企业梯度培育体系。（牵头单位：市商务委，责任单位：市大数据和电子政务办、市投促委、市口岸物流办）"
+        },
+        {
+          "block_id": "blk-9e943c071af360751d57",
+          "page_number": 184,
+          "text": "3.引导培育传统实体制造企业应用跨境电商。结合国家制造强市、国家服务业核心城市、国际消费城市建设，推动跨境电商数字贸易与实体经济深度融合和"
+        },
+        {
+          "block_id": "blk-dda691323dc431edb6a1",
+          "page_number": 185,
+          "text": "推广应用，培育一批传统实体制造企业成功运用跨境电商，大力推进跨境出口B2B发展，实现传统外贸产业转型升级，推动“成都服务”“成都制造”国际市场占有率快速增长。[牵头单位：市经信委、市商务委，责任单位：各区（市）县政府]"
+        },
+        {
+          "block_id": "blk-dacd11ef1745968aa23f",
+          "page_number": 185,
+          "text": "4. 引进贸易型总部企业。重点招引具有国际国内资源配置能力的企业在蓉设立贸易型总部，在人才引进、出入境、停居留、金融服务、通关便利化等方面给予政策倾斜，使其将决策中心、结算单元、人才培养基地、技术外延枢纽4个核心功能转移至成都。[牵头单位：市商务委，责任单位：市投促委、市人才办、市公安局、市金融局、各区（市）县政府]"
+        },
+        {
+          "block_id": "blk-3ab71aecedf55e3a4b25",
+          "page_number": 185,
+          "text": "5.引进跨境电商物流服务企业。引进一批服务质量好、资源整合能力强的物流供应链服务企业。支持本地物流货代企业围绕跨境电商服务需求，进一步优化业务流程。引导成都国际快递巨头和民营物流企业加大跨境电商服务体系建设力度，支持其设立公用型保税仓库。（牵头单位：市口岸物流办，责任单位：市投促委、市商务委，成都高新区管委会，双流区、青白江区、简阳市政府）"
+        },
+        {
+          "block_id": "blk-a7136af79be74144ba44",
+          "page_number": 185,
+          "text": "6.引进培育跨境电商支付、收汇机构和企业。大力引入具有跨境外汇支付资格的龙头型支付机构在成都市设立全国性或区域性功能中心，并在辖区内银行开立跨境人民币或外汇备付金账户，服务本地跨境电商企业跨境支付。同时，在政策条件允许的情况下，积极培育本地注册支付机构从事跨境支付业务。（牵头单位：市金融局，责任单位：市商务委、国家外汇管理局四川省分局）"
+        },
+        {
+          "block_id": "blk-6184772aca7cff8d60b8",
+          "page_number": 185,
+          "text": "7.引进跨境电商供应链金融服务企业。引进落地一批融资租赁、商业保理类供应链金融服务机构，为跨境电商供应链上下游企业提供高效便捷的融资渠道和一站式金融服务。重点支持金融机构利用区块链技术建设数据信息平台，开展预付、应收、仓单、保兑、票据、担保、质押、信用证等供应链金融业务。支持供应链核心企业、金融机构与人民银行征信中心建设的中征应收账款融资服务平台对接，发展线上应收账款融资等供应链金融模式。（牵头单位：市金融局，责任单位：市商务委、人行成都分行营管部）"
+        },
+        {
+          "block_id": "blk-a9f44c973e5b48eaf688",
+          "page_number": 186,
+          "text": "8.推进跨境电商专业特色楼宇建设。以跨境电商服务资源集聚为核心内容，打造引领性、地标性专业特色楼宇。按照专业楼宇专业运营、市场主导的原则，引入具有全国资源的行业组织或中介机构代为运营，以商招商，招引一批国际国内知名的营销服务、交易服务、交付服务、物流服务和技术服务等跨境电商企业集聚发展，做实成都全球跨境电商服务资源中心核心载体支撑。（牵头单位：市商务委，责任单位：成都产业集团）"
+        },
+        {
+          "block_id": "blk-dd55cbabf72395aad6e4",
+          "page_number": 186,
+          "text": "9.依托设关地或特殊区域布局推进跨境电商多点发展。依托设关地或特殊区域科学规划跨境电商产业载体区域，推动跨境电商产业园区建设，实现多点集聚发展。将跨境电商产业发展软、硬件需求纳入成都天府国际机场总体规划。依托成都空港保税物流中心（B型）、成都铁路港保税物流中心（B型）和天府新区保税物流中心（B型），吸引跨境供应链服务商入驻，重点发展特殊区域出口业务和网购保税进口业务。依托空港国际快件中心、双流国际快件中心监管场所，重点开展女鞋、服装、3C产品一般出口业务。依托青白江国际铁路口岸，拓展跨境电商出口B2B业务。依托成都高新综合保税区（含双流园区），探索实施面向全球网络直购的制造模式。依托简阳·西部电子商务集聚发展区（临空经济产业园）拓展跨境电商进出口B2B、B2C服务。依托成都国际商贸城，积极探索市场采购贸易方式与跨境电商两种新业态新模式互动发展。（牵头单位：市商务委，责任单位：成都海关，市口岸物流办，成都天府新区、成都高新区管委会，金牛区、双流区、青白江区、简阳市政府）"
+        },
+        {
+          "block_id": "blk-3fcaa8cf8cbe0dd37fd4",
+          "page_number": 186,
+          "text": "10.沿商业及消费中心推进跨境电商线下商业载体多极布局。根据各区（市）县产业发展优势和区位特点，进行跨境电商产业错位布局。积极引进基础好、规模大、竞争力强的跨境电商企业与本地企业加强对接合作，优化资源配置，在春熙路、盐市口、骡马市、新南天地、建设路等相关区（市）县主要商圈和综合保税区等海关特殊监管区域，开设跨境O2O体验店和线下展示区，力争形成总营业面积达30万平方米以上的跨境电商商业集群。（牵头单位：市商务委，责任单位：成都天府新区、成都高新区管委会，锦江区、青羊区、金牛区、武侯区、成华区政府）"
+        },
+        {
+          "block_id": "blk-cc806084761bd8a112e2",
+          "page_number": 187,
+          "text": "11. 提升跨境电商公共服务平台服务水平。在优化公共服务平台与海关跨境电商监管系统交互对接基础上，完成与外管、税务部门的信息共享互认，满足相关部门的监管需求。提升公共服务平台数据处理效率，加强身份验证功能，强化跨境电商风险管理，为海关、外管、税务等部门提供大数据分析功能。完成与银行系统、支付平台、金融机构、物流企业、供应链服务平台等业务系统对接。完成与1000家跨境电商进出口各类企业的系统对接。完成实货压力测试，确保平台数据传输稳定性、准确性、完整性，平台运行效率全国领先。（牵头单位：成都产业集团，责任单位：成都海关、国家外汇管理局四川省分局、市税务局）"
+        },
+        {
+          "block_id": "blk-854bb252eadd19f02d1d",
+          "page_number": 187,
+          "text": "12.优化跨境电商海关监管流程。根据《海关总署关于印发〈支持跨境电子商务发展可复制推广措施〉的通知》（署监发〔2018〕70号），实行“一线管住二线优出”，支持成都高新综合保税区（含双流园区）、成都空港保税物流中心（B型）和成都铁路港保税物流中心（B型）全面开展跨境电商进口保税备货模式，优化保税备货模式下货物进出区流程，提高与辅助系统、物流平台的数据传输准确性和效率，提升贸易便利化水平。依托跨境电商公共服务平台，向海关总署申请建立跨境电商商品质量安全风险监测分中心。[牵头单位：市口岸物流办，责任单位：成都海关、成都产业集团、相关区（市）县政府]"
+        },
+        {
+          "block_id": "blk-753e843eb39218e48588",
+          "page_number": 187,
+          "text": "13.畅通跨境电商支付与结售汇渠道。支持跨境电商各类企业办理跨境贸易人民币结算或正常收结汇，支持符合条件的支付机构在辖区内银行开设境外人民币及外币备付金账户。（牵头单位：市商务委，责任单位：国家外汇管理局四川省分局、人行成都分行营管部）"
+        },
+        {
+          "block_id": "blk-e6265a30a67daa56f018",
+          "page_number": 187,
+          "text": "14.推进跨境电商税收“免征不退”政策尽快落地实施。按照财政部关于跨境电商综试区零售出口货物税收政策要求，尽快制定出台具体免税管理办法，对在综试区注册的电子商务出口企业，出口未获得有效进货凭证的货物，同时符合相关政策条件的，试行增值税、消费税免税政策。（牵头单位：市商务委，责任单位：成都海关、市税务局、市财政局、人行成都分行营管部）"
+        },
+        {
+          "block_id": "blk-010085d81f9d441305a4",
+          "page_number": 187,
+          "text": "15.设立跨境电商股权投资基金。由国有资本联合社会资本共同出资成立总规模为10亿元的成都市跨境电商股权投资基金，用于支持跨境电商平台、综合供"
+        },
+        {
+          "block_id": "blk-361f67ba837d5f7ddf13",
+          "page_number": 188,
+          "text": "应链、跨境物流、第三方支付等跨境电商企业发展。成都市产业引导基金按照市场化方式给予支持。（牵头单位：市商务委，责任单位：市财政局、市国资委、市金融局、成都产业集团、成都金控集团）"
+        },
+        {
+          "block_id": "blk-8157a1baf8595b276565",
+          "page_number": 188,
+          "text": "16. 加大跨境电商企业信贷支持。将符合条件的跨境电商企业纳入我市中小企业“壮大贷”风险资金池，扶持其发展壮大。（牵头单位：市经信委，责任单位：市财政局、市商务委）"
+        },
+        {
+          "block_id": "blk-16345d7382a62d7b08bf",
+          "page_number": 188,
+          "text": "17.赋能跨境电商全产业链大数据资源。与监管部门及跨境电商服务企业建立数据获取和共享机制，形成围绕商品、交易、物流、报关、支付等多维度大数据，创新建立跨境电商数据统计模型，形成月度、季度、年度数据分析报告，为全市跨境电商发展提供态势感知、趋势预测、风控预警、政策设计、决策判断、平台运营、生态建设等方面的基础资料。（牵头单位：市商务委，责任单位：成都海关、国家外汇管理局四川省分局、市税务局、成都产业集团）"
+        },
+        {
+          "block_id": "blk-3fc919069c6f6f3b8811",
+          "page_number": 188,
+          "text": "18.加强跨境电商人才队伍培养。采取“校企地”深度合作的方式，开展跨境电商专业人才培养。招引一批扎根成都、服务成都的跨境电商等外向型经济领域的专业人才，构建吸纳国际国内跨境电商高端人才的成都跨境电商专家智库，3年内实现高端人才聚集1000人。围绕中国（成都）跨境电商综试区发展目标，进行新一轮产业发展研究，组织编写5轮次经验成果与模式发展案例，形成跨境电商成都经验，加大宣传报道力度，扩大成都跨境电商综试区国内外影响力和知名度。（牵头单位：市商务委，责任单位：市教育局、市科技局、市人社局、市政府新闻办）"
+        },
+        {
+          "block_id": "blk-b81aa5005acd2b2eed65",
+          "page_number": 188,
+          "text": "19.推动跨境电商海外市场拓展。支持跨境电商企业进行商标国际注册和产品国际认证，引导鼓励跨境电商企业应用国际搜索引擎进行海外营销，组织跨境电商企业参加境外展会、论坛交流、招商推介等活动。按照政府扶持、市场自建的原则，在欧美、日韩、澳新、拉美等15个重点国家和地区布局总面积达10万平米以上的海外仓、国际物流采购中心等海外物流配套基础设施。（牵头单位：市商务委，责任单位：市口岸物流办、市工商局、市质监局）"
+        },
+        {
+          "block_id": "blk-067bb680caa202acb2ff",
+          "page_number": 188,
+          "text": "20.加强跨境电商行业协会建设。加大对成都市跨境电商协会指导，加强协"
+        },
+        {
+          "block_id": "blk-49e573ab78b69e346dbb",
+          "page_number": 189,
+          "text": "会的规范管理，增强协会调查研究、组织协调能力，扩容服务内容，提升服务层级，确保协会充分发挥参谋助手、桥梁纽带、行业管理等作用。（牵头单位：市商务委，责任单位：市民政局）"
+        },
+        {
+          "block_id": "blk-39b0f24124450f700291",
+          "page_number": 189,
+          "text": "21.举办跨境电商全国行业峰会。丰富跨境电商的线下活动，举办多层次跨境电商产业交流及资源对接活动。在原有“中国（成都）跨境电商峰会”的基础上丰富活动内容和内涵，集中体现和推广成都全球跨境电商服务资源中心的城市名片，每年举办两次集经验分享、资源对接、项目招引、成果转化、产业联动于一体的看点迭出、亮点突出的国家顶级行业峰会。（牵头单位：市商务委，责任单位：各跨境电商综试区建设领导小组成员单位）"
+        },
+        {
+          "block_id": "blk-7f51c16088e5845043a7",
+          "page_number": 189,
+          "text": "每年召开一次由市政府主要领导召集的综试区建设领导小组（以下简称领导小组）会议，安排部署全年重点工作并协调解决产业发展中遇到的重大问题；每季度召开一次由分管副市长召集的跨境电商专题会议，检查落实领导小组安排部署的工作并协调解决产业发展中的具体问题。市商务委履行领导小组办公室职责，牵头做好统筹协调工作。"
+        },
+        {
+          "block_id": "blk-321c939c37a7348af681",
+          "page_number": 189,
+          "text": "成都海关、国家外汇管理局四川省分局、市税务局以及市政府相关部门、各区（市）县政府按照任务分工和产业布局，密切配合，履职尽责。尤其公安、银行、海关、外管、税务、工商等部门加强联动，加大对盗用个人身份信息刷单、传输虚假支付数据、低报价格等走私违法行为的综合管控力度，开展对出口骗退税和资金异常流动的监控、协查，做到信息互通、资源共享、联防联动，形成跨境电商协同监管体系。"
+        },
+        {
+          "block_id": "blk-e348d8dde0f2535037d5",
+          "page_number": 189,
+          "text": "在充分吸纳借鉴国际国内跨境电商发展先进经验基础上，结合我市产业新政50条，制定完善促进我市跨境电商产业发展的资金支持政策，加大政府对跨境电"
+        },
+        {
+          "block_id": "blk-5d7d410b96f6a5cba942",
+          "page_number": 190,
+          "text": "商产业的支持力度。从主体招引、主体培育、传统外贸企业转型升级、集聚发展、服务体系建设、基础功能建设6个方面支持跨境电商企业在蓉集聚发展。成都跨境电商产业扶持资金，纳入市级服务业引导专项资金统筹考虑，对经评审符合扶持条件的项目进行资金拨付。市级财政根据全市服务业发展需要特别是跨境电商快速发展实际，增加服务业引导专项资金。"
+        },
+        {
+          "block_id": "blk-a21611b952c55b17b5b4",
+          "page_number": 190,
+          "text": "成立成都市跨境电商综试区工作专项检查组，定期开展各项工作任务完成情况检查，加强重点任务督促和考核，确保全年各项工作任务顺利完成。市政府相关部门及区（市）县政府要制定具体工作方案，突出重点、明确分工、落实责任。"
+        },
+        {
+          "block_id": "blk-a732773b0b83ec9d18d7",
+          "page_number": 191,
+          "text": "为进一步促进成都航空中转货运的发展，吸引货运航空公司开行成都通达全球的货运航线，鼓励货代企业建立以成都为核心的区域分拨中心，快速构建成都航空货运集散枢纽，带动临空相关产业的发展。现结合我市实际，制定本政策。"
+        },
+        {
+          "block_id": "blk-dce6a9330757986377d2",
+          "page_number": 191,
+          "text": "（一）对新开洲际、亚洲（不包含地区）全货机定期航线的航空公司，市政府依据成都航空货运枢纽航线网络发展规划、视全货机定期航线航班情况（航程距离、机型大小、航班密度）和市场难易程度等因素与航空公司友好协商，在开航培育期第一年，新开洲际全货机定期航线给予20万—30万元/班（航线每班是指一个往返程航班，下同）的财政奖励，新开亚洲（不包含地区）全货机定期航线给予5万—15万元/班的财政奖励；开航培育期第二年财政奖励为第一年标准的\\(80\\%\\) ，第三年视航线实际运行情况而定，原则上新开洲际、亚洲（不包含地区）全货机定期航线的市场培育期为3年。"
+        },
+        {
+          "block_id": "blk-609a5ec17d746e035eaf",
+          "page_number": 191,
+          "text": "（二）对洲际、亚洲（不包含地区）全货机定期货运航线的加密航班，在航线航班未实现每天一班的前提下，经与加密航班的航空公司友好协商，市政府给予加密航班一年期的市场开拓费用财政奖励，奖励标准为不超过新开航线第一年财政奖励标准的 \\(30\\%\\)"
+        },
+        {
+          "block_id": "blk-7bcb71e060e6916dbce4",
+          "page_number": 191,
+          "text": "（三）对新开国内（含地区）全货机定期货运航线和加密航线航班（未达到每天一班货运航线）的航空公司，市政府给予新开国内（含地区）全货机定期航线一年培育期的财政奖励，奖励标准2万元/班；给予加密航班一年期的市场开拓"
+        },
+        {
+          "block_id": "blk-01e1019b0739a6dceae9",
+          "page_number": 192,
+          "text": "费用财政奖励，奖励标准1万元/班"
+        },
+        {
+          "block_id": "blk-8b280fd3684a297ee695",
+          "page_number": 192,
+          "text": "（四）对现有国际（含地区）全货机定期货运航线，在航空公司保持航线航班数量不减的情况下，继续在2017年给予维持航线航班的财政奖励，奖励标准洲际航班3万元/班、亚洲（含地区）航班1万元/班。"
+        },
+        {
+          "block_id": "blk-a6c041dec8b57ea1ede6",
+          "page_number": 192,
+          "text": "（一）对在我市注册纳税，且在成都机场投放3架以上（含3架）全货机的新设立基地货运航空公司（分公司），市政府根据其投放运力大小和机型给予一次性落户财政奖励，奖励标准500万—1000万元。"
+        },
+        {
+          "block_id": "blk-7e8d177354b823722be4",
+          "page_number": 192,
+          "text": "（二）对在成都机场新设立的基地货运航空公司（分公司），自开业年度起，参照基地货运航空公司对市区两级地方经济的贡献大小给予为期5年的财政奖励，用于支持基地货运航空公司的发展投入。"
+        },
+        {
+          "block_id": "blk-b0bd1f169504b184d41e",
+          "page_number": 192,
+          "text": "（三）对在成都机场新设立的基地货运航空公司（分公司），市政府将航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障，同时享受所在地政府有关重点项目建设的优惠扶持政策。"
+        },
+        {
+          "block_id": "blk-684ef351f5400db45292",
+          "page_number": 192,
+          "text": "（一）对全货机国际（含地区）定期航线和宽体客机国际直飞定期航线给予新增进出港国际货量的财政奖励。全货机国际定期航线新增货量的奖励标准：远程国际航线（8小时以上航距）5.0元/公斤，中程国际航线（5—8小时航距）3.0元/公斤，短程国际航线（5小时以内航距）2.0元/公斤。宽体客机国际直飞定期航线新增货量的奖励标准为全货机国际定期航线标准的 \\(70\\%\\) 。航空公司在新开和加密航班第一年不享受此项新增货量奖励政策，第一年航线货量为第二年新增货量的考核基数。"
+        },
+        {
+          "block_id": "blk-390b79cb99243e6cce0f",
+          "page_number": 192,
+          "text": "（二）对航空公司在成都机场库区内实现中转的国际（含地区）货物给予空"
+        },
+        {
+          "block_id": "blk-6b2609b496587c887cf9",
+          "page_number": 193,
+          "text": "空中转联运的财政奖励，奖励标准：国内转国际、国际转国内、国际转国际的中转货物2.0元/公斤。"
+        },
+        {
+          "block_id": "blk-dcea9faf39ee90a83f77",
+          "page_number": 193,
+          "text": "（一）对将国际（含地区）货物经成都机场进出港的货代企业给予财政奖励，奖励标准：全货机国际（含地区）货物0.3元/公斤，腹舱带货国际（含地区）货物0.1元/公斤。"
+        },
+        {
+          "block_id": "blk-1b05335fa172e1e1f6b6",
+          "page_number": 193,
+          "text": "（二）对采用地面运输将四川省行政区域范围以外国际货物通过成都机场进出港的货代企业，市政府给予空地联运集货费用财政奖励，奖励标准1.0元/公斤。"
+        },
+        {
+          "block_id": "blk-04b3abb3da390ab0251b",
+          "page_number": 193,
+          "text": "（三）采用全货机国际包机（军品运输、救灾物资等特殊包机除外）方式经成都机场进出港，且全年包机航班达到10班以上的货代企业或货主企业，市政府给予全货机国际包机租金费用财政奖励，奖励标准为新开同类国际全货机货运定期航线财政奖励标准的 \\(20\\%\\) （洲际包机4万—6万元/班、亚洲包机1万—3万元/班）。"
+        },
+        {
+          "block_id": "blk-915161c1e0fbb1b2d5c7",
+          "page_number": 193,
+          "text": "（四）对利用成都航空进境指定口岸政策功能（植物种苗、食用冰鲜、水生动物、药品、空运水果、空运肉类、国际邮件）直接进口特殊货物的货代企业或贸易企业，市政府给予应用指定口岸功能的财政奖励，奖励标准1.0元/公斤。"
+        },
+        {
+          "block_id": "blk-67d783777e8f31d1f38d",
+          "page_number": 193,
+          "text": "（一）鼓励四川省机场集团有限公司在省内城市（第一批试点广元、达州、攀枝花、泸州、西昌）设立成都机场航空集货服务点，市政府对年集货量达到500吨以上的集货服务点给予设点运行费用的财政奖励，奖励标准20万元/年。"
+        },
+        {
+          "block_id": "blk-c0f1678ab8f8e3535598",
+          "page_number": 193,
+          "text": "（二）各航空集货服务点将货代企业或货主的货物通过航空或地面运输方式经成都机场中转，市政府给予货代企业或货主企业运输费用的财政奖励，奖励标"
+        },
+        {
+          "block_id": "blk-a7ca5c1cccc234e204f4",
+          "page_number": 194,
+          "text": "准：国际出港货物1.0元/公斤、国内出港货物0.3元/公斤。"
+        },
+        {
+          "block_id": "blk-8e1180eed7f93a90ef79",
+          "page_number": 194,
+          "text": "（一）在我市注册纳税并列入统计，经成都空港口岸进出口货值达到5000万元/年以上的重点外贸企业，市政府给予企业空港口岸仓储租金、货站处置费、报关报检等口岸综合物流费用财政奖励，奖励标准为空港口岸综合物流费用的\\(80\\%\\)。"
+        },
+        {
+          "block_id": "blk-8f7321cf36b403ddd8da",
+          "page_number": 194,
+          "text": "（二）在我市注册纳税，利用成都空港进境指定口岸政策功能（植物种苗、食用冰鲜、水生动物、药品、空运水果、空运肉类、国际邮件）开展进出口业务的外贸企业，市政府给予企业空港口岸综合物流费用财政奖励，奖励标准为每1美元货值0.02元。"
+        },
+        {
+          "block_id": "blk-8d4b81d4b7515029a04c",
+          "page_number": 194,
+          "text": "对战略性洲际定期货运航线、特别重要急需货运航线和重大招商项目涉及大宗商品运输任务，经市政府批准同意，可根据实际需要，采取“一事一议”方式给予特殊的财政奖励。"
+        },
+        {
+          "block_id": "blk-2081687096879c1fcb03",
+          "page_number": 194,
+          "text": "在成都机场航空货量和国际（地区）货量实现正增长的前提下，市政府每年设立100万元的奖励资金，用于表扬奖励在促进航空货运业发展、机场货量增长、通关保障、提升中转效率等工作中做出突出贡献的先进集体和个人。"
+        },
+        {
+          "block_id": "blk-631d10d60f27297c22c7",
+          "page_number": 195,
+          "text": "（一）探索成都航空口岸一体化营运工作机制，建立国际贸易“单一窗口”服务模式，采取市政府购买口岸公共服务方式，免除空港口岸货物转运和操作费用。"
+        },
+        {
+          "block_id": "blk-e35fde7db31540431307",
+          "page_number": 195,
+          "text": "（二）在机场航空货站收入保持增加的前提下，降低机场航空货站的处置操作费用，同时调整现行国际货物单件超重费和贵重物品保管费等收费项目，使机场航空货站的收费标准不高于国内先进枢纽机场的收费标准。"
+        },
+        {
+          "block_id": "blk-d662ac1bf5515d7d926d",
+          "page_number": 195,
+          "text": "（一）本政策自印发之日起施行，有效期3年。"
+        },
+        {
+          "block_id": "blk-aea705ec789921a9a5cf",
+          "page_number": 195,
+          "text": "（二）本政策可根据年度绩效评估进行适当调整，调整方案报市政府批准后实施。"
+        },
+        {
+          "block_id": "blk-64cbc877ecb560affb80",
+          "page_number": 195,
+          "text": "（三）本政策扶持内容可以叠加享受。"
+        },
+        {
+          "block_id": "blk-4d781d32f77985cd3be3",
+          "page_number": 195,
+          "text": "（四）本政策由市口岸物流办负责解释"
+        },
+        {
+          "block_id": "blk-ebb89e03e11f8e363660",
+          "page_number": 196,
+          "text": "为全面贯彻党的十九大精神和习近平新时代中国特色社会主义思想，深入落实市第十三次党代会建设全面体现新发展理念国家中心城市的目标任务，结合市委、市政府城市空间战略布局，通过梳理国内外举办大型赛事与城市发展的实践经验，对标国内外主要体育名城，定位成都创建国际赛事名城实际阶段与发展差距，在《成都创建国际体育赛事名城专题研究与目标规划》基础上，力求通过打造国际体育赛事名城推动世界文化名城和世界旅游名城建设，提升城市品质和国际化程度，助力美丽中国典范城市建设，制定本行动计划。"
+        },
+        {
+          "block_id": "blk-7d2ec2a5f4c46571beb0",
+          "page_number": 196,
+          "text": "按照党的十九大“加快推进体育强国建设”要求和建设全面体现新发展理念国家中心城市的定位，以满足人民群众日益增长的体育健康需求为出发点，加速提档升级现有国际国内赛事，积极申办和自创具有国际影响力的高等级、品牌赛事，推进大型体育场馆和公共体育设施建设，积极引进和培育高水平职业俱乐部，大力实施运动休闲类赛事为主体的“一区一县一品牌”计划，逐步形成政府主导、市场主体、社会力量多元参与的体育产业发展格局和赛事运营体系，争取到2035年，建设成为国内一流、国际知名的国际赛事名城。"
+        },
+        {
+          "block_id": "blk-0abbfcf048a78d6d4da6",
+          "page_number": 196,
+          "text": "2018年—2020年（3年）：举办的国际体育赛事达到67个，其中，2018年21个，2019年22个，2020年24个，力争洲际锦标赛以上级别赛事达 \\(50\\%\\) ，具有自主品牌和成都文化特色的赛事达 \\(40\\%\\) 。重点打造足球、网球、篮球、乒乓球和山"
+        },
+        {
+          "block_id": "blk-a413ac80f40ae8e4e9d2",
+          "page_number": 197,
+          "text": "地户外运动项目。启动建设“天府奥体城”及山地自行车赛道，成都国际足球中心、冰篮球馆、网球中心。国际赛事名城建设初具规模。2021年—2025年（5年）：平均每年举办国际体育赛事29个，力争洲际锦标赛以上级别赛事达 \\(60\\%\\) ，具有自主品牌和成都文化特色赛事达 \\(45\\%\\) 。重点打造足球、篮球、冰球、游泳、自行车、马拉松项目。实施“天府奥体城”主体育场、主体育馆、游泳跳水馆、室内自行车馆、射击馆等场馆建设。基本建成国际赛事名城。2026年—2035年（10年）：平均每年举办国际体育赛事38个，力争洲际锦标赛以上级别赛事达\\(70\\%\\) ，具有自主品牌和成都文化特色赛事达 \\(50\\%\\) 。“天府奥体城”核心场馆区建成并投入使用。争取举办青奥会、亚运会、东亚运动会或全运会等综合性运动会。成为具有较强影响力的国际体育赛事名城。"
+        },
+        {
+          "block_id": "blk-801f2cbc22ebe821159b",
+          "page_number": 197,
+          "text": "一是按照城市发展“东进、南拓、西控、北改、中优”空间布局，特别是东进发展战略，以“一城两区多点”规划布局全市竞赛场馆。遵循统一规划、分期建设原则启动“天府奥体城”核心场馆规划建设，“天府奥体城”核心场馆区由“三场四馆”组成。除“天府奥体城”之外，全市竞赛场馆分为南北两区，其中，北区由专业足球场和综合体育馆组成，南区由网球中心和现代五项场馆组成，形成“综合赛事与单项赛事相结合、体育产业与城市功能相结合、现状利用与规划新建相结合、永久场馆与临时场馆相结合、赛事体育与群众体育相结合、近期实施与远期预留相结合”的城市体育场馆群。二是科学规划天府绿道体育设施体系，根据体育设施配套点位现状配建相应体育设施，融入运动休闲小镇建设，形成绿道体育设施一绿道一运动休闲小镇互联体系，满足体育赛事和市民健身休闲需求。同时启动龙泉山城市森林公园山地户外运动区域规划建设，以“一轴一环多点”打造中国户外运动度假区。三是大力推进区（市）县“一场一馆一池”和镇（街道）健身体育设施的建设，兼备中小型赛事、竞训和全民健身业余比赛的需要。通过市、区（市）县、镇（街道）三级场馆的建设，逐步形成布局"
+        },
+        {
+          "block_id": "blk-fa89d59ca9eb90e44372",
+          "page_number": 198,
+          "text": "合理、设施完备、功能齐全的体育赛事场馆体系，为成都打造国际赛事名城提供有力的硬件支撑和基础保障。"
+        },
+        {
+          "block_id": "blk-e7142c5363f4c272189f",
+          "page_number": 198,
+          "text": "一是加强与国际体育组织合作，提档升级现有国际赛事。通过广泛加强与相关国际体育组织和国家行业协会的联系合作，用3—5年时间，将国际乒联世界巡回赛中国乒乓球公开赛（成都）升级为乒乓球世界杯赛和锦标赛，ATP250成都网球公开赛升级为ATP500级别赛事，FISE世界极限运动巡回赛升级为年终总决赛。二是加强国际重大体育赛事引进工作。以足球、篮球、乒乓球、网球、马拉松、羽毛球、自行车、极限运动、户外运动、赛马、国际象棋、体育舞蹈等运动项目为重点，积极引进国际影响力大、群众基础好并与成都文化特征和自然禀赋相匹配的高级别单项国际体育赛事，如NBA季前赛等赛事。同时跟踪关注青奥会、亚运会、东亚青运会、全运会和青运会等综合性运动会，并在条件具备时积极启动申办工作。三是培育具有成都自主品牌和成都印迹的国际体育赛事。利用国家丝绸之路经济带建设契机，通过打造“一带一路”成都国际乒乓球公开赛，创办“一带一路”3X3成都国际篮球挑战赛、“一带一路”成都一澳网国际大学生网球邀请赛，逐步形成“一带一路”系列赛事。结合天府绿道规划建设，通过创办成都天府绿道国际马拉松赛、天府绿道国际公路自行车赛、天府绿道国际徒步大赛和天府绿道国际定向越野赛，逐步形成天府绿道系列赛事。依托成都龙泉山城市森林公园，以中国户外运动节为龙头，创办国际山地自行车赛、中国龙泉山登山徒步大赛、中国攀岩大赛等区域特色化时尚化自主品牌赛事，逐步形成龙泉山森林公园系列赛事。结合信息技术产业发展布局创办成都国际电子竞技大赛，加大对初具品牌效应的“熊猫杯”青年足球锦标赛、“成都杯”国际网联青年大师赛等自创品牌赛事的扶植培育力度，不断提升赛事国际影响力。四是继续办好中国成都自行车车迷健身节、中国围棋西南王赛、中国龙舟公开赛等全国和省市级各类比赛。五是加大“一区一县一品牌”的打造力度。充分利用各区（市）县的自然人文资源禀赋，促进国际体育赛事与体验休闲健身消费相结合，引导和扶植区（市）县从自身实际出发，坚持差异化、特色化、国际化的办赛思路，努力培育一批有发展前景、可持续运作的体育赛事项目，力争实现“一区一"
+        },
+        {
+          "block_id": "blk-56f7bbb1c820c3caade4",
+          "page_number": 199,
+          "text": "县一品牌”的目标。积极推进中国新津国际名校赛艇挑战赛、中国都江堰（虹口）国际漂流节、成都双遗马拉松赛、中国龙舟公开赛（成都金堂站）、中国马术节等区域特色品牌赛事的持续化、规模化、品牌化、国际化发展。通过这些赛事的持续举办，逐步形成国际与国内赛事相辉映，室内与室外赛事相交替，观赏性与参与性相结合，成年人与青少年赛事相补充，大中小赛事连绵不断，体育赛事与文化、旅游、会展、产业相融合的具有充沛活力的体育竞赛表演业体系。"
+        },
+        {
+          "block_id": "blk-2986bdef36ea2bb9aa86",
+          "page_number": 199,
+          "text": "一是按照体育产业发展的思路积极扶持本土职业体育俱乐部，通过引进和打造高水平的足球、篮球、网球、路跑、赛马、棋类等职业体育俱乐部，重点打造四川金强篮球俱乐部、成都围甲职业俱乐部、马术职业俱乐部，积极打造职业足球队伍，大力提升我市优势运动项目职业俱乐部水平，以职业体育发展带动群众体育和体育消费的增长；二是加强职业竞技体育后备人才培养，努力提高教练员队伍素质，采取走出去、请进来，国际合作、国际培养的办法，在网球、乒乓球、游泳、跳水、篮球、足球、田径等国际化项目方面，培育和打造更多具有国际影响的体育明星，带动引领全民健身的开展和运动项目的推广。"
+        },
+        {
+          "block_id": "blk-a953db5a18ba0bd51f2b",
+          "page_number": 199,
+          "text": "按照“立足本土、开放引进”原则，构建体育赛事运营管理的多元主体。一是建立和培育本土专业赛事执行机构，通过赋予职能、完善机制、充实队伍与合资合作等手段，加强和提升成都文旅集团下属体产公司的赛事运营管理能力，打造专业化体育赛事运营管理团队，使之成为我市体育赛事运营、体育场馆管理和体育产业发展的国有龙头企业，同时扶持成都传媒集团等市属国有平台公司，参与我市大型体育赛事的策划、举办，提高大型赛事的集约化、市场化、规范化运作能力，同时增强在国际国内大型赛事申办、营运、管理中的竞争力。二是通过大量赛事的举办引进国际、国内高水平大型赛事营运管理团队，形成专业化、国际化、市场化的大型体育赛事营运和体育场馆管理运作模式。三是取消商业性和群众性体育赛事审批，鼓励支持社会力量和社会资本参与我市重大体育赛事的运营管理，逐步形成高度专业化和商业化的赛事体系；出台“成都市体育赛事管理办法”，实行分级分类管理制度，加强赛事的事前、事中、事后监管，规范赛事"
+        },
+        {
+          "block_id": "blk-4785efd4686c4a64cbd2",
+          "page_number": 200,
+          "text": "执行机构营运，营造我市竞赛表演业发展的良好环境。"
+        },
+        {
+          "block_id": "blk-b013901145a0260aedf4",
+          "page_number": 200,
+          "text": "一是在充分利用现有文化产业发展政策，探索研究促进竞赛表演业与文化产业互动发展的实现路径，以蜀风雅韵的巴蜀文化为依托，着力培育深具天府文化的体育赛事，如天府绿道马拉松、龙泉山超百公里山地越野挑战赛、中国成都自行车车迷健身节等。二是促进体育赛事与城市旅游业的深度互动发展，实现赛事资源与旅游资源的有效整合，充分挖掘我市山水资源禀赋，开发山地户外旅游、水上运动旅游、冰雪运动旅游等新产品和新业态，积极规划建设中国成都龙泉山国际体育旅游度假区，支持金堂官仓港中旅体育旅游康养项目建设，打造具有影响力的体育旅游目的地和体育旅游示范基地。三是以体育为载体，以互联网技术为支撑，探索智慧体育的创新发展路径，大力推进我市电子竞技产业发展，深入挖掘体育与科技、培训、康养、金融等产业的融合发展潜力。"
+        },
+        {
+          "block_id": "blk-4c324c802af9268bd215",
+          "page_number": 200,
+          "text": "一是加强财政资金的统筹安排，打破市本级和区（市）县在重大体育赛事资金保障方面的界限，并逐年增加财政资金投入力度，构建起筹集渠道畅通、补助标准科学、资金管理规范、引导作用显著的重大体育赛事资金保障机制。二是加强对赛事运营主体的资助和扶持，建立民间资本介入竞赛表演业的动力机制，积极吸引社会资本参与，努力营造有利于竞赛表演业发展的办赛形式市场化、投资主体多元化、赛事组织专业化的良好格局，推动我市体育竞赛表演业的发展。"
+        },
+        {
+          "block_id": "blk-c3e85db26d0aa0a2f49c",
+          "page_number": 200,
+          "text": "一是创建成都文化体育旅游综合频道，借助媒体传播优势推动体育与文化旅游融合发展，宣传推广成都建设世界文化名城、打造国际赛事名城、构建世界旅游名城的各类活动，扩大成都影响力。二是整合传统媒体和新媒体、自媒体，加强与境外媒体合作，构建强大的体育宣传矩阵平台，宣传报道各类体育赛事、全民健身活动以及文化、旅游等活动，丰富人民群众精神生活，提高广大市民的文化素养和体育意识，提高广大市民的幸福感和归属感。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-4c19f8848dea",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-64aa3031e8a2"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "de43c7412bd3c47d5ea0b415c625c303e33519826b38c47c9e9b3c6fe32d63aa",
+    "prior_recompile_attempts": 2,
+    "run_name": "public10-claim-review-formal-qwen3p6-remote-v5-20260810"
+  },
+  "status": "complete"
+}

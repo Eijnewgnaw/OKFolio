@@ -1,0 +1,964 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在落实国家外商投资产业目录方面，具体采取了哪些放宽外资准入限制和扩大开放领域的措施？",
+    "claims": [
+      {
+        "claim": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+        "claim_id": "claim-adc93dc84b521026",
+        "evidence_block_ids": [
+          "blk-b164ce6f9c0abbfd17cc"
+        ],
+        "evidence_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制。",
+        "claim_id": "claim-5b356e075ce9e332",
+        "evidence_block_ids": [
+          "blk-15aa82f9fe6d20cff5ec"
+        ],
+        "evidence_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "制造业鼓励高端制造、智能制造、绿色制造等领域的外商投资。",
+        "claim_id": "claim-d7a9b3a639615121",
+        "evidence_block_ids": [
+          "blk-15aa82f9fe6d20cff5ec"
+        ],
+        "evidence_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制。",
+        "claim_id": "claim-27eaf20487ca39af",
+        "evidence_block_ids": [
+          "blk-3238bea5cb2d32425bdb"
+        ],
+        "evidence_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "服务业放开会计审计、建筑设计、评级服务等领域外资准入限制。",
+        "claim_id": "claim-03cd89912ac6c93d",
+        "evidence_block_ids": [
+          "blk-3238bea5cb2d32425bdb"
+        ],
+        "evidence_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "服务业有序开放电信、互联网、文化、教育、交通运输等领域。",
+        "claim_id": "claim-fe83b87a5f48ca42",
+        "evidence_block_ids": [
+          "blk-3238bea5cb2d32425bdb"
+        ],
+        "evidence_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "服务业鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "claim_id": "claim-83db609a45c7f642",
+        "evidence_block_ids": [
+          "blk-3238bea5cb2d32425bdb"
+        ],
+        "evidence_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石油、天然气对外合作项目审批制改为备案制。",
+        "claim_id": "claim-8913297646ac70f2",
+        "evidence_block_ids": [
+          "blk-c97c428de73a0949d8b2"
+        ],
+        "evidence_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          150
+        ],
+        "ref_id": "ref-b767b4b182af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-adc93dc84b521026",
+          "claim-5b356e075ce9e332",
+          "claim-d7a9b3a639615121",
+          "claim-27eaf20487ca39af",
+          "claim-03cd89912ac6c93d",
+          "claim-fe83b87a5f48ca42",
+          "claim-83db609a45c7f642",
+          "claim-8913297646ac70f2"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+        "reason": "该证据包含了回答中心问题所需的所有核心事实，包括制造业、服务业、能源及基础设施领域的具体开放措施。"
+      }
+    ],
+    "group_id": "topic-c37db88814ca",
+    "members": [
+      {
+        "contribution": "该证据详细列出了成都自贸试验区在制造业、服务业、能源合作及基础设施领域放宽外资准入的具体措施，直接回答了如何落实国家目录并拓宽投资领域的问题。",
+        "ref_id": "ref-b767b4b182af",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-adc93dc84b521026",
+        "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5b356e075ce9e332",
+        "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d7a9b3a639615121",
+        "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-27eaf20487ca39af",
+        "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-03cd89912ac6c93d",
+        "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fe83b87a5f48ca42",
+        "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-83db609a45c7f642",
+        "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8913297646ac70f2",
+        "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-adc93dc84b521026",
+          "claim-5b356e075ce9e332",
+          "claim-27eaf20487ca39af",
+          "claim-03cd89912ac6c93d",
+          "claim-8913297646ac70f2"
+        ],
+        "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度，制造业取消轨道交通设备制造等领域外资准入限制，服务业放宽金融机构及放开会计审计等领域准入，石油天然气对外合作项目审批制改为备案制。",
+        "finding": "This sentence is a summary. It covers claim-adc93dc84b521026, claim-5b356e075ce9e332 (partially, missing fuel ethanol), claim-27eaf20487ca39af (partially, simpl",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-019f3f02ecc90e7d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-adc93dc84b521026"
+        ],
+        "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+        "finding": "Exact match for claim-adc93dc84b521026.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d953d87a42f9e707",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5b356e075ce9e332",
+          "claim-d7a9b3a639615121"
+        ],
+        "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+        "finding": "Exact match for claim-5b356e075ce9e332 and claim-d7a9b3a639615121.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2479d731d7dab5cb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-27eaf20487ca39af",
+          "claim-03cd89912ac6c93d",
+          "claim-fe83b87a5f48ca42",
+          "claim-83db609a45c7f642"
+        ],
+        "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "finding": "Exact match for claim-27eaf20487ca39af, claim-03cd89912ac6c93d, claim-fe83b87a5f48ca42, and claim-83db609a45c7f642.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f30987e05de356bb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8913297646ac70f2"
+        ],
+        "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+        "finding": "Exact match for claim-8913297646ac70f2.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-779515621250121d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-adc93dc84b521026",
+          "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5b356e075ce9e332",
+          "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d7a9b3a639615121",
+          "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-27eaf20487ca39af",
+          "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-03cd89912ac6c93d",
+          "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fe83b87a5f48ca42",
+          "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-83db609a45c7f642",
+          "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8913297646ac70f2",
+          "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-adc93dc84b521026",
+            "claim-5b356e075ce9e332",
+            "claim-27eaf20487ca39af",
+            "claim-03cd89912ac6c93d",
+            "claim-8913297646ac70f2"
+          ],
+          "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度，制造业取消轨道交通设备制造等领域外资准入限制，服务业放宽金融机构及放开会计审计等领域准入，石油天然气对外合作项目审批制改为备案制。",
+          "finding": "This sentence is a summary. It covers claim-adc93dc84b521026, claim-5b356e075ce9e332 (partially, missing fuel ethanol), claim-27eaf20487ca39af (partially, simpl",
+          "sentence_id": "sentence-019f3f02ecc90e7d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-adc93dc84b521026"
+          ],
+          "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+          "finding": "Exact match for claim-adc93dc84b521026.",
+          "sentence_id": "sentence-d953d87a42f9e707",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5b356e075ce9e332",
+            "claim-d7a9b3a639615121"
+          ],
+          "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+          "finding": "Exact match for claim-5b356e075ce9e332 and claim-d7a9b3a639615121.",
+          "sentence_id": "sentence-2479d731d7dab5cb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-27eaf20487ca39af",
+            "claim-03cd89912ac6c93d",
+            "claim-fe83b87a5f48ca42",
+            "claim-83db609a45c7f642"
+          ],
+          "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+          "finding": "Exact match for claim-27eaf20487ca39af, claim-03cd89912ac6c93d, claim-fe83b87a5f48ca42, and claim-83db609a45c7f642.",
+          "sentence_id": "sentence-f30987e05de356bb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8913297646ac70f2"
+          ],
+          "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+          "finding": "Exact match for claim-8913297646ac70f2.",
+          "sentence_id": "sentence-779515621250121d",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "e97d0bf01a93d21d1a16b10ada67d8e84b0a2fb7e59480c2b3a7c4751d40a719",
+  "coverage_history": [
+    {
+      "draft_sha256": "344be61a70e1f52fd52a135801ab50df70b300e8d0cd2093eddaa7f3dd91d298",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-adc93dc84b521026",
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b356e075ce9e332",
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d7a9b3a639615121",
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-27eaf20487ca39af",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-03cd89912ac6c93d",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe83b87a5f48ca42",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-83db609a45c7f642",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8913297646ac70f2",
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "draft_excerpt 逐字匹配 claim 内容。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "依据国家外商投资产业指导目录，通过自贸试验区负面清单及制造业、服务业等重点领域开放措施，拓宽外商投资产业领域。",
+            "finding": "该句为描述性总结，未包含具体可归因的 claim 事实细节，且提及的《外商投资产业指导目录》等具体文件名称在 claim 证据中未出现。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd521a1e994e5f09",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "按照国家发展改革委、商务部发布的《外商投资产业指导目录》和《中西部地区外商投资优势产业目录（2017年修订）》确定的产业类别，拓宽外商投资产业领域。",
+            "finding": "该句提及的具体政策文件名称（《外商投资产业指导目录》、《中西部地区外商投资优势产业目录（2017年修订）》）在 Claim Contract 的证据中未出现，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b5340097f5b52ad",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-adc93dc84b521026"
+            ],
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+            "finding": "该句完全覆盖 claim-adc93dc84b521026。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c774f21b096a48d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b356e075ce9e332",
+              "claim-d7a9b3a639615121"
+            ],
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "该句同时覆盖 claim-5b356e075ce9e332 和 claim-d7a9b3a639615121。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c8a020fbc6edfaf7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27eaf20487ca39af",
+              "claim-03cd89912ac6c93d",
+              "claim-fe83b87a5f48ca42",
+              "claim-83db609a45c7f642"
+            ],
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "该句同时覆盖 claim-27eaf20487ca39af, claim-03cd89912ac6c93d, claim-fe83b87a5f48ca42, claim-83db609a45c7f642。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2584c90eefa86fad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8913297646ac70f2"
+            ],
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "该句完全覆盖 claim-8913297646ac70f2。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff553e0d8e03da53",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b356e075ce9e332",
+              "claim-d7a9b3a639615121"
+            ],
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "该句同时覆盖 claim-5b356e075ce9e332 和 claim-d7a9b3a639615121。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37d4d594abca305b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27eaf20487ca39af",
+              "claim-03cd89912ac6c93d",
+              "claim-fe83b87a5f48ca42",
+              "claim-83db609a45c7f642"
+            ],
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "该句同时覆盖 claim-27eaf20487ca39af, claim-03cd89912ac6c93d, claim-fe83b87a5f48ca42, claim-83db609a45c7f642。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c11e780afeb4e5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8913297646ac70f2"
+            ],
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "该句完全覆盖 claim-8913297646ac70f2。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b11d2cf127818f26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "依据国家外商投资产业指导目录，通过自贸试验区负面清单及制造业、服务业等重点领域开放措施，拓宽外商投资产业领域。",
+            "finding": "该句提及的《外商投资产业指导目录》及具体措施描述未在 Claim Contract 证据中直接支持，属于合同外事实。"
+          },
+          {
+            "draft_excerpt": "按照国家发展改革委、商务部发布的《外商投资产业指导目录》和《中西部地区外商投资优势产业目录（2017年修订）》确定的产业类别，拓宽外商投资产业领域。",
+            "finding": "该句提及的具体政策文件名称（《外商投资产业指导目录》、《中西部地区外商投资优势产业目录（2017年修订）》）在 Claim Contract 的证据中未出现，属于合同外事实。"
+          },
+          {
+            "draft_excerpt": "《外商投资产业指导目录》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《中西部地区外商投资优势产业目录（2017年修订）》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d83787dd53180530b47c818178dc57c9b6bbfa45d8c61e24192e180db37d583d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-adc93dc84b521026",
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+            "finding": "sentence-d953d87a42f9e707",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b356e075ce9e332",
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "sentence-2479d731d7dab5cb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d7a9b3a639615121",
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "sentence-2479d731d7dab5cb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-27eaf20487ca39af",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "sentence-f30987e05de356bb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-03cd89912ac6c93d",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "sentence-f30987e05de356bb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe83b87a5f48ca42",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "sentence-f30987e05de356bb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-83db609a45c7f642",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "sentence-f30987e05de356bb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8913297646ac70f2",
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "sentence-779515621250121d",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过自贸试验区负面清单及制造业、服务业等重点领域开放措施，拓宽外商投资产业领域。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a9837583a4e7e473",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-adc93dc84b521026"
+            ],
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d953d87a42f9e707",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b356e075ce9e332",
+              "claim-d7a9b3a639615121"
+            ],
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2479d731d7dab5cb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27eaf20487ca39af",
+              "claim-03cd89912ac6c93d",
+              "claim-fe83b87a5f48ca42",
+              "claim-83db609a45c7f642"
+            ],
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f30987e05de356bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8913297646ac70f2"
+            ],
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-779515621250121d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b356e075ce9e332",
+              "claim-d7a9b3a639615121"
+            ],
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aee3b7511b2acd5a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27eaf20487ca39af",
+              "claim-03cd89912ac6c93d",
+              "claim-fe83b87a5f48ca42",
+              "claim-83db609a45c7f642"
+            ],
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-416dd499cbc6756e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8913297646ac70f2"
+            ],
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-397b392d9df513e6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过自贸试验区负面清单及制造业、服务业等重点领域开放措施，拓宽外商投资产业领域。",
+            "finding": "sentence-a9837583a4e7e473"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e97d0bf01a93d21d1a16b10ada67d8e84b0a2fb7e59480c2b3a7c4751d40a719",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-adc93dc84b521026",
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b356e075ce9e332",
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d7a9b3a639615121",
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-27eaf20487ca39af",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-03cd89912ac6c93d",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe83b87a5f48ca42",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-83db609a45c7f642",
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8913297646ac70f2",
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-adc93dc84b521026",
+              "claim-5b356e075ce9e332",
+              "claim-27eaf20487ca39af",
+              "claim-03cd89912ac6c93d",
+              "claim-8913297646ac70f2"
+            ],
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度，制造业取消轨道交通设备制造等领域外资准入限制，服务业放宽金融机构及放开会计审计等领域准入，石油天然气对外合作项目审批制改为备案制。",
+            "finding": "This sentence is a summary. It covers claim-adc93dc84b521026, claim-5b356e075ce9e332 (partially, missing fuel ethanol), claim-27eaf20487ca39af (partially, simpl",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-019f3f02ecc90e7d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-adc93dc84b521026"
+            ],
+            "draft_excerpt": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+            "finding": "Exact match for claim-adc93dc84b521026.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d953d87a42f9e707",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b356e075ce9e332",
+              "claim-d7a9b3a639615121"
+            ],
+            "draft_excerpt": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+            "finding": "Exact match for claim-5b356e075ce9e332 and claim-d7a9b3a639615121.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2479d731d7dab5cb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27eaf20487ca39af",
+              "claim-03cd89912ac6c93d",
+              "claim-fe83b87a5f48ca42",
+              "claim-83db609a45c7f642"
+            ],
+            "draft_excerpt": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+            "finding": "Exact match for claim-27eaf20487ca39af, claim-03cd89912ac6c93d, claim-fe83b87a5f48ca42, and claim-83db609a45c7f642.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f30987e05de356bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8913297646ac70f2"
+            ],
+            "draft_excerpt": "石油、天然气对外合作项目审批制改为备案制。",
+            "finding": "Exact match for claim-8913297646ac70f2.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-779515621250121d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。\n\n- 制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。\n- 服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。\n- 石油、天然气对外合作项目审批制改为备案制。",
+    "description": "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度，制造业取消轨道交通设备制造等领域外资准入限制，服务业放宽金融机构及放开会计审计等领域准入，石油天然气对外合作项目审批制改为备案制。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-c37db88814ca",
+      "description": "按照国家发展改革委、商务部发布的《外商投资产业指导目录》和《中西部地区外商投资优势产业目录（2017年修订）》确定的产业类别，拓宽外商投资产业领域。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。",
+        "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。",
+        "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。",
+        "石油、天然气对外合作项目审批制改为备案制。"
+      ],
+      "evidence_block_ids": [
+        "blk-b164ce6f9c0abbfd17cc",
+        "blk-15aa82f9fe6d20cff5ec",
+        "blk-3238bea5cb2d32425bdb",
+        "blk-c97c428de73a0949d8b2"
+      ],
+      "page_end": 151,
+      "page_start": 150,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（一）落实国家外商投资产业目录。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "落实国家外商投资产业目录。",
+      "type": "分析框架"
+    },
+    "title": "落实国家外商投资产业目录。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-b767b4b182af:bundle-24be4810205b",
+      "excluded_fragments": [],
+      "ref_id": "ref-b767b4b182af",
+      "source_blocks": [
+        {
+          "block_id": "blk-b164ce6f9c0abbfd17cc",
+          "page_number": 150,
+          "text": "按照国家发展改革委、商务部发布的《外商投资产业指导目录》和《中西部地区外商投资优势产业目录（2017年修订）》确定的产业类别，拓宽外商投资产业领域。自贸试验区对外商投资实行准入前国民待遇加负面清单管理制度。（责任部门：市发改委、市商务委、市经信委、市农委）"
+        },
+        {
+          "block_id": "blk-15aa82f9fe6d20cff5ec",
+          "page_number": 150,
+          "text": "制造业重点取消轨道交通设备制造、燃料乙醇生产等领域外资准入限制，鼓励高端制造、智能制造、绿色制造等。（责任部门：市经信委）"
+        },
+        {
+          "block_id": "blk-3238bea5cb2d32425bdb",
+          "page_number": 150,
+          "text": "服务业重点放宽银行类金融机构、证券公司、证券投资基金管理公司、期货公司、保险机构、保险中介机构外资准入限制，放开会计审计、建筑设计、评级服务等领域外资准入限制，有序开放电信、互联网、文化、教育、交通运输等领域，鼓励外商投资工业设计和创意、工程咨询、现代物流、检验检测认证等生产性服务业。（责任部门：市商务委）"
+        },
+        {
+          "block_id": "blk-c97c428de73a0949d8b2",
+          "page_number": 150,
+          "text": "石油、天然气对外合作项目审批制改为备案制。（责任部门：市经信委）"
+        },
+        {
+          "block_id": "blk-5bba442861d3c3c07b6f",
+          "page_number": 150,
+          "text": "能源、交通、水利、环保、市政公用工程等基础设施建设的特许经营以及政"
+        },
+        {
+          "block_id": "blk-66cea5a7d00920d0a728",
+          "page_number": 151,
+          "text": "府采购项目允许外商公平参与。（责任部门：市发改委、市财政局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-c37db88814ca",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-b767b4b182af"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

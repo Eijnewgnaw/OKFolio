@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-4f6c63eb7b91:bundle-4b195740b914; submitted='成都枢纽环线位于成都主城区内，由东环线和西环线组成。东环线自成都站经成都东站至成都南站，西环线自成都南站经红牌楼、成都西、安靖站至成都站，环线全长54.51km 。'; nearest_verbatim_span='成都枢纽环线位于成都主城区内，由东环线和西环线组成。东环线自成都站经成都东站至成都南站，西环线自成都南站经红牌楼、成都西、安靖站至成都站，环线全长\\\\(54.51'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-98a982b69c3f",
+  "ref_ids": [
+    "ref-4f6c63eb7b91",
+    "ref-5bad877e88ab"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

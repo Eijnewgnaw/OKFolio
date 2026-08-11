@@ -1,0 +1,764 @@
+{
+  "contract": {
+    "canonical_question": "成都如何构建服务于跨国企业的全球配送服务体系？",
+    "claims": [
+      {
+        "claim": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+        "claim_id": "claim-6657462db59bbd26",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+        "claim_id": "claim-39673646c21bd451",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽。",
+        "claim_id": "claim-015edb28e3e46ef2",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {
+          "region": [
+            "成都",
+            "泛亚"
+          ]
+        },
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+        "claim_id": "claim-ec313be4153660a7",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+        "claim_id": "claim-7fd8b003931d07f5",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+        "claim_id": "claim-f49ae2ed8ac01e90",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局。",
+        "claim_id": "claim-cf377f3aa79601f4",
+        "evidence_block_ids": [
+          "blk-3cbd6d99ae2cd022c66a"
+        ],
+        "evidence_excerpt": "（牵头单位：市口岸物流办；责任单位：市商务委、市金融局、市国资委、市科技局）",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-8673be6fed61",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-6657462db59bbd26",
+          "claim-39673646c21bd451",
+          "claim-015edb28e3e46ef2",
+          "claim-ec313be4153660a7",
+          "claim-7fd8b003931d07f5",
+          "claim-f49ae2ed8ac01e90",
+          "claim-cf377f3aa79601f4"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+        "reason": "该证据包含回答中心问题所需的全部核心事实，包括建设目标、依托体系、枢纽定位、政策手段及牵头单位，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-d36803af19e7",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了成都构建全球配送服务体系的具体路径，包括依托国际物流网络搭建配送枢纽，以及通过设立基金、引进企业等政策手段满足跨国企业供应链管理需求。",
+        "ref_id": "ref-8673be6fed61",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-6657462db59bbd26",
+        "draft_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ec313be4153660a7",
+        "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-39673646c21bd451",
+        "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-015edb28e3e46ef2",
+        "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7fd8b003931d07f5",
+        "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f49ae2ed8ac01e90",
+        "draft_excerpt": "同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-cf377f3aa79601f4",
+        "draft_excerpt": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-6657462db59bbd26"
+        ],
+        "draft_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fc0a36a6176cb527",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ec313be4153660a7"
+        ],
+        "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8723b9acc8ff2897",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6657462db59bbd26",
+          "claim-39673646c21bd451"
+        ],
+        "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b52193e504fd4c39",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-015edb28e3e46ef2"
+        ],
+        "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-51e7cb8d06c11b24",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7fd8b003931d07f5"
+        ],
+        "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7ce1a4816719acf3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f49ae2ed8ac01e90"
+        ],
+        "draft_excerpt": "同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-743b19801172d7ff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cf377f3aa79601f4"
+        ],
+        "draft_excerpt": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bd4f0f4c5ccfdde7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-6657462db59bbd26",
+          "draft_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ec313be4153660a7",
+          "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-39673646c21bd451",
+          "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-015edb28e3e46ef2",
+          "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7fd8b003931d07f5",
+          "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f49ae2ed8ac01e90",
+          "draft_excerpt": "同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cf377f3aa79601f4",
+          "draft_excerpt": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-6657462db59bbd26"
+          ],
+          "draft_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-fc0a36a6176cb527",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ec313be4153660a7"
+          ],
+          "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+          "finding": "supported",
+          "sentence_id": "sentence-8723b9acc8ff2897",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6657462db59bbd26",
+            "claim-39673646c21bd451"
+          ],
+          "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+          "finding": "supported",
+          "sentence_id": "sentence-b52193e504fd4c39",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-015edb28e3e46ef2"
+          ],
+          "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+          "finding": "supported",
+          "sentence_id": "sentence-51e7cb8d06c11b24",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7fd8b003931d07f5"
+          ],
+          "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+          "finding": "supported",
+          "sentence_id": "sentence-7ce1a4816719acf3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f49ae2ed8ac01e90"
+          ],
+          "draft_excerpt": "同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+          "finding": "supported",
+          "sentence_id": "sentence-743b19801172d7ff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cf377f3aa79601f4"
+          ],
+          "draft_excerpt": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+          "finding": "supported",
+          "sentence_id": "sentence-bd4f0f4c5ccfdde7",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "18f4da6ef50afad407252ef5c057680ca1c1c2bbbd46547f956cfeef304ff19c",
+  "coverage_history": [
+    {
+      "draft_sha256": "9b95a3eb54fda05fa01133361aebddcfcc22fba63568f4e98d8e558299485f3e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-6657462db59bbd26",
+            "draft_excerpt": "以跨国企业需求为导向，依托全球物流体系构建高效配送网络，将成都打造为全球及泛亚区域配送枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-39673646c21bd451",
+            "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-015edb28e3e46ef2",
+            "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ec313be4153660a7",
+            "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7fd8b003931d07f5",
+            "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，并开展国家供应链体系建设和现代供应链创新应用试点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f49ae2ed8ac01e90",
+            "draft_excerpt": "同时，通过引进培育优质供应链管理企业，对符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf377f3aa79601f4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-6657462db59bbd26",
+              "claim-39673646c21bd451",
+              "claim-015edb28e3e46ef2"
+            ],
+            "draft_excerpt": "以跨国企业需求为导向，依托全球物流体系构建高效配送网络，将成都打造为全球及泛亚区域配送枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3930b2d3e6a18da",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ec313be4153660a7"
+            ],
+            "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8723b9acc8ff2897",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6657462db59bbd26",
+              "claim-39673646c21bd451"
+            ],
+            "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b52193e504fd4c39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-015edb28e3e46ef2"
+            ],
+            "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e40fd2c7cb3c643",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-015edb28e3e46ef2"
+            ],
+            "draft_excerpt": "将成都打造为面向泛亚的全球区域分销企业配送枢纽",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff209bd4a8cd882b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7fd8b003931d07f5"
+            ],
+            "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，并开展国家供应链体系建设和现代供应链创新应用试点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8a29e2a90cf03a8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f49ae2ed8ac01e90"
+            ],
+            "draft_excerpt": "同时，通过引进培育优质供应链管理企业，对符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c0c1e6c50d83549",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cf377f3aa79601f4"
+            ],
+            "draft_excerpt": "牵头单位：市口岸物流办",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1bed116d362e211d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cf377f3aa79601f4"
+            ],
+            "draft_excerpt": "责任单位：市商务委、市金融局、市国资委、市科技局",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e7d2f37904db42ea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "18f4da6ef50afad407252ef5c057680ca1c1c2bbbd46547f956cfeef304ff19c",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-6657462db59bbd26",
+            "draft_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ec313be4153660a7",
+            "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-39673646c21bd451",
+            "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-015edb28e3e46ef2",
+            "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7fd8b003931d07f5",
+            "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f49ae2ed8ac01e90",
+            "draft_excerpt": "同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf377f3aa79601f4",
+            "draft_excerpt": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-6657462db59bbd26"
+            ],
+            "draft_excerpt": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc0a36a6176cb527",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ec313be4153660a7"
+            ],
+            "draft_excerpt": "实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8723b9acc8ff2897",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6657462db59bbd26",
+              "claim-39673646c21bd451"
+            ],
+            "draft_excerpt": "该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b52193e504fd4c39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-015edb28e3e46ef2"
+            ],
+            "draft_excerpt": "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51e7cb8d06c11b24",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7fd8b003931d07f5"
+            ],
+            "draft_excerpt": "为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7ce1a4816719acf3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f49ae2ed8ac01e90"
+            ],
+            "draft_excerpt": "同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-743b19801172d7ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cf377f3aa79601f4"
+            ],
+            "draft_excerpt": "牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd4f0f4c5ccfdde7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n实施国际供应链体系建设计划旨在全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。该计划以跨国企业需求为导向，依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络。\n\n- 将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽\n\n## 证据与影响\n\n为支撑上述体系建设，计划设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点。同时，通过引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。\n\n- 牵头单位为市口岸物流办，责任单位包括市商务委、市金融局、市国资委、市科技局",
+    "description": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-d36803af19e7",
+      "description": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。",
+        "依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络",
+        "将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽",
+        "全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。",
+        "设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点",
+        "引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。",
+        "（牵头单位：市口岸物流办；责任单位：市商务委、市金融局、市国资委、市科技局）"
+      ],
+      "evidence_block_ids": [
+        "blk-3cbd6d99ae2cd022c66a"
+      ],
+      "page_end": 162,
+      "page_start": 162,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（八）实施国际供应链体系建设计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施国际供应链体系建设计划",
+      "type": "国际比较"
+    },
+    "title": "实施国际供应链体系建设计划"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-8673be6fed61:bundle-408185be936a",
+      "excluded_fragments": [],
+      "ref_id": "ref-8673be6fed61",
+      "source_blocks": [
+        {
+          "block_id": "blk-3cbd6d99ae2cd022c66a",
+          "page_number": 162,
+          "text": "以跨国企业需求为导向，构建服务于跨国企业的全球配送服务体系。依托基于国际航线、国际班列的全球物流体系，搭建高效、柔性、低成本的全球配送网络，将成都打造为面向全球的制造企业配送枢纽和面向泛亚的全球区域分销企业配送枢纽，全面提升成都对全球要素资源的配置和运用能力，满足跨国企业精益制造、广域分销、弹性交付的供应链管理需求。设立供应链产业发展基金，开展国家供应链体系建设和现代供应链创新应用试点，引进培育优质供应链管理企业，符合条件的供应链相关企业经认定为国家高新技术产业后可按规定享受相关优惠政策。（牵头单位：市口岸物流办；责任单位：市商务委、市金融局、市国资委、市科技局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d36803af19e7",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-8673be6fed61"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

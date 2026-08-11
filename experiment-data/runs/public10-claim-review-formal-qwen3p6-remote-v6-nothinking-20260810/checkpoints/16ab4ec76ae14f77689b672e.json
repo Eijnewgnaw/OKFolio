@@ -1,0 +1,1011 @@
+{
+  "contract": {
+    "canonical_question": "成都市针对“一带一路”金融服务中心建设及跨境金融服务发展，制定了哪些具体的机构引进奖励、业务补贴及融资支持政策？",
+    "claims": [
+      {
+        "claim": "成都市支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励。",
+        "claim_id": "claim-c78501f084991e88",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的 \\(1\\%\\) 给予最高4000万元奖励",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴。",
+        "claim_id": "claim-6fb18ad1c8a56993",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "对参保短期出口信用保险的企业，按实缴保费的 \\(40\\%\\) 给予最高不超过30万元补贴",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励。",
+        "claim_id": "claim-8beeb084b9a12424",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励。",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市对管理规模超过100亿元的国外知名财富管理机构，给予最高不超过1000万元的落户奖励。",
+        "claim_id": "claim-c1e64f3ccd65f89f",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励。",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+        "claim_id": "claim-13f536b2b5660cb8",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道。",
+        "claim_id": "claim-b64d4b929d95b524",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道。",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市鼓励自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+        "claim_id": "claim-c356ce3f376b5f20",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "鼓励自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；支持境外商业保理企业在我市自贸试验区设立机构。",
+        "claim_id": "claim-a6bc9826ac217784",
+        "evidence_block_ids": [
+          "blk-a4bb1a38326e29b97e27"
+        ],
+        "evidence_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；支持境外商业保理企业在我市自贸试验区设立机构",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-1f5f1d4d78c7",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c78501f084991e88",
+          "claim-6fb18ad1c8a56993",
+          "claim-8beeb084b9a12424",
+          "claim-c1e64f3ccd65f89f",
+          "claim-13f536b2b5660cb8",
+          "claim-b64d4b929d95b524",
+          "claim-c356ce3f376b5f20",
+          "claim-a6bc9826ac217784"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+        "reason": "该Bundle包含回答“国际比较”类型中关于具体政策工具、实施主体、适用对象及预期效果（通过奖励体现）所需的所有原子事实，无冗余或纯背景信息。"
+      }
+    ],
+    "group_id": "topic-6cca6ff57b37",
+    "members": [
+      {
+        "contribution": "该证据直接提供了成都自贸区在金融国际融通方面的具体政策细节，包括对持牌机构、商业保理、财富管理及出口信用保险的财政奖励与补贴标准，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-1f5f1d4d78c7",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-13f536b2b5660cb8",
+        "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b64d4b929d95b524",
+        "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c356ce3f376b5f20",
+        "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c78501f084991e88",
+        "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6fb18ad1c8a56993",
+        "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8beeb084b9a12424",
+        "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c1e64f3ccd65f89f",
+        "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a6bc9826ac217784",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-13f536b2b5660cb8"
+        ],
+        "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c10357597ab1a423",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-13f536b2b5660cb8"
+        ],
+        "draft_excerpt": "实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-336ba1908f8214a5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b64d4b929d95b524",
+          "claim-c356ce3f376b5f20"
+        ],
+        "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a3a3c2978b1b139e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c78501f084991e88"
+        ],
+        "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f13206b45fc69e65",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6fb18ad1c8a56993"
+        ],
+        "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ecfe1b7df9548519",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8beeb084b9a12424"
+        ],
+        "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e26259bc2160753a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c1e64f3ccd65f89f"
+        ],
+        "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e9acddd72b1f7be0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a6bc9826ac217784"
+        ],
+        "draft_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e46308ef9570e0d8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a6bc9826ac217784"
+        ],
+        "draft_excerpt": "支持境外商业保理企业在我市自贸试验区设立机构",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f71d8795252265d3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-13f536b2b5660cb8",
+          "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b64d4b929d95b524",
+          "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c356ce3f376b5f20",
+          "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c78501f084991e88",
+          "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6fb18ad1c8a56993",
+          "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8beeb084b9a12424",
+          "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c1e64f3ccd65f89f",
+          "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-13f536b2b5660cb8"
+          ],
+          "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+          "finding": "supported",
+          "sentence_id": "sentence-c10357597ab1a423",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-13f536b2b5660cb8"
+          ],
+          "draft_excerpt": "实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+          "finding": "supported",
+          "sentence_id": "sentence-336ba1908f8214a5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b64d4b929d95b524",
+            "claim-c356ce3f376b5f20"
+          ],
+          "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+          "finding": "supported",
+          "sentence_id": "sentence-a3a3c2978b1b139e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c78501f084991e88"
+          ],
+          "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+          "finding": "supported",
+          "sentence_id": "sentence-f13206b45fc69e65",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6fb18ad1c8a56993"
+          ],
+          "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+          "finding": "supported",
+          "sentence_id": "sentence-ecfe1b7df9548519",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8beeb084b9a12424"
+          ],
+          "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+          "finding": "supported",
+          "sentence_id": "sentence-e26259bc2160753a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c1e64f3ccd65f89f"
+          ],
+          "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+          "finding": "supported",
+          "sentence_id": "sentence-e9acddd72b1f7be0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a6bc9826ac217784"
+          ],
+          "draft_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；",
+          "finding": "supported",
+          "sentence_id": "sentence-e46308ef9570e0d8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a6bc9826ac217784"
+          ],
+          "draft_excerpt": "支持境外商业保理企业在我市自贸试验区设立机构",
+          "finding": "supported",
+          "sentence_id": "sentence-f71d8795252265d3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "155ea6162abb62da3dfb6dbefab33a4517512256fddf03a5d01e5a99390921f5",
+  "coverage_history": [
+    {
+      "draft_sha256": "cf928320313af5a9c93a095f16c2c5e02f10f7ec3a81cbc75effb01ccef99a53",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-13f536b2b5660cb8",
+            "draft_excerpt": "实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b64d4b929d95b524",
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c356ce3f376b5f20",
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c78501f084991e88",
+            "draft_excerpt": "为支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c1e64f3ccd65f89f",
+            "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6fb18ad1c8a56993",
+            "draft_excerpt": "针对特定金融业态，对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8beeb084b9a12424",
+            "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a6bc9826ac217784",
+            "draft_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务，并支持境外商业保理企业在我市自贸试验区设立机构。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过建立“一带一路”金融服务中心、提供机构落户奖励及跨境融资支持，推动成都打造金融合作先行区并拓展境外融资渠道。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07d38431049a176a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-13f536b2b5660cb8"
+            ],
+            "draft_excerpt": "实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-336ba1908f8214a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b64d4b929d95b524",
+              "claim-c356ce3f376b5f20"
+            ],
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3a3c2978b1b139e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c78501f084991e88"
+            ],
+            "draft_excerpt": "为支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0776e1736a69d0c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e64f3ccd65f89f"
+            ],
+            "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-825e2f23ae9e53ec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fb18ad1c8a56993"
+            ],
+            "draft_excerpt": "针对特定金融业态，对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-faaf3c35b6ff2eb1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8beeb084b9a12424"
+            ],
+            "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8eff906583281b2a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6bc9826ac217784"
+            ],
+            "draft_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务，并支持境外商业保理企业在我市自贸试验区设立机构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a1680efef651481",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过建立“一带一路”金融服务中心、提供机构落户奖励及跨境融资支持，推动成都打造金融合作先行区并拓展境外融资渠道。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "155ea6162abb62da3dfb6dbefab33a4517512256fddf03a5d01e5a99390921f5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-13f536b2b5660cb8",
+            "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b64d4b929d95b524",
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c356ce3f376b5f20",
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c78501f084991e88",
+            "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6fb18ad1c8a56993",
+            "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8beeb084b9a12424",
+            "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c1e64f3ccd65f89f",
+            "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a6bc9826ac217784",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-13f536b2b5660cb8"
+            ],
+            "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c10357597ab1a423",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13f536b2b5660cb8"
+            ],
+            "draft_excerpt": "实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-336ba1908f8214a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b64d4b929d95b524",
+              "claim-c356ce3f376b5f20"
+            ],
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3a3c2978b1b139e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c78501f084991e88"
+            ],
+            "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f13206b45fc69e65",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fb18ad1c8a56993"
+            ],
+            "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ecfe1b7df9548519",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8beeb084b9a12424"
+            ],
+            "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e26259bc2160753a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e64f3ccd65f89f"
+            ],
+            "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9acddd72b1f7be0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6bc9826ac217784"
+            ],
+            "draft_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e46308ef9570e0d8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6bc9826ac217784"
+            ],
+            "draft_excerpt": "支持境外商业保理企业在我市自贸试验区设立机构",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f71d8795252265d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "155ea6162abb62da3dfb6dbefab33a4517512256fddf03a5d01e5a99390921f5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-13f536b2b5660cb8",
+            "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b64d4b929d95b524",
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c356ce3f376b5f20",
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c78501f084991e88",
+            "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6fb18ad1c8a56993",
+            "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8beeb084b9a12424",
+            "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c1e64f3ccd65f89f",
+            "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a6bc9826ac217784",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-13f536b2b5660cb8"
+            ],
+            "draft_excerpt": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c10357597ab1a423",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13f536b2b5660cb8"
+            ],
+            "draft_excerpt": "实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-336ba1908f8214a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b64d4b929d95b524",
+              "claim-c356ce3f376b5f20"
+            ],
+            "draft_excerpt": "该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3a3c2978b1b139e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c78501f084991e88"
+            ],
+            "draft_excerpt": "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f13206b45fc69e65",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fb18ad1c8a56993"
+            ],
+            "draft_excerpt": "对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ecfe1b7df9548519",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8beeb084b9a12424"
+            ],
+            "draft_excerpt": "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e26259bc2160753a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e64f3ccd65f89f"
+            ],
+            "draft_excerpt": "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9acddd72b1f7be0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6bc9826ac217784"
+            ],
+            "draft_excerpt": "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e46308ef9570e0d8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6bc9826ac217784"
+            ],
+            "draft_excerpt": "支持境外商业保理企业在我市自贸试验区设立机构",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f71d8795252265d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n实施金融国际融通工程旨在推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。\n\n该工程鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道，并支持自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。\n\n- 支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的1%给予最高4000万元奖励\n- 对参保短期出口信用保险的企业，按实缴保费的40%给予最高不超过30万元补贴\n- 对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励\n- 对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励\n- 支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；支持境外商业保理企业在我市自贸试验区设立机构",
+    "description": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6cca6ff57b37",
+      "description": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的 \\(1\\%\\) 给予最高4000万元奖励",
+        "对参保短期出口信用保险的企业，按实缴保费的 \\(40\\%\\) 给予最高不超过30万元补贴",
+        "对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励。",
+        "对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励。",
+        "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。",
+        "鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道。",
+        "鼓励自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。",
+        "支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；支持境外商业保理企业在我市自贸试验区设立机构"
+      ],
+      "evidence_block_ids": [
+        "blk-a4bb1a38326e29b97e27"
+      ],
+      "page_end": 168,
+      "page_start": 168,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二十一）实施金融国际融通工程"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施金融国际融通工程",
+      "type": "国际比较"
+    },
+    "title": "实施金融国际融通工程"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1f5f1d4d78c7:bundle-223caf44be90",
+      "excluded_fragments": [],
+      "ref_id": "ref-1f5f1d4d78c7",
+      "source_blocks": [
+        {
+          "block_id": "blk-a4bb1a38326e29b97e27",
+          "page_number": 168,
+          "text": "推动建立“一带一路”金融服务中心，发展面向“一带一路”的跨境金融服务，打造“一带一路”金融合作先行区。支持国外知名金融机构来蓉发展，对落户的持牌法人金融机构，按其注册资本的 \\(1\\%\\) 给予最高4000万元奖励。鼓励企业运用债务融资工具、境外上市等方式拓展境外融资渠道。大力发展出口信用保险、综合物流保险等业务，对参保短期出口信用保险的企业，按实缴保费的 \\(40\\%\\) 给予最高不超过30万元补贴。鼓励自贸区银行业金融机构和企业运用离岸人民币市场拓展融资渠道，简化跨境结算业务流程。支持商业保理企业依法加入国际性保理组织，积极审慎开展国际保理业务；支持境外商业保理企业在我市自贸试验区设立机构，对实缴资本超过10亿元的新设商业保理企业，一次性给予200万元奖励。积极引进国外知名财富管理机构，对管理规模超过100亿元的机构给予最高不超过1000万元的落户奖励。（牵头单位：市金融局；责任单位：市商务委、市财政局、市自贸办）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6cca6ff57b37",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-1f5f1d4d78c7"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

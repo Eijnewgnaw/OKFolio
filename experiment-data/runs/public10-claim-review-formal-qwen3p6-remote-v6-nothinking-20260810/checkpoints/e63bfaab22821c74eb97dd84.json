@@ -1,0 +1,968 @@
+{
+  "contract": {
+    "canonical_question": "成宜高速公路全线建成开通的关键事实、技术特征、战略定位及未来规划是什么？",
+    "claims": [
+      {
+        "claim": "成宜高速公路于2020年12月31日举行通车仪式。",
+        "claim_id": "claim-bf4191a00d89934f",
+        "evidence_block_ids": [
+          "blk-9bb06a2f209825312e46"
+        ],
+        "evidence_excerpt": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速全线通车后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+        "claim_id": "claim-fdcfbcd893f66b03",
+        "evidence_block_ids": [
+          "blk-9bb06a2f209825312e46"
+        ],
+        "evidence_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速是成都到市州设计标准最高的一条高速。",
+        "claim_id": "claim-6f5c3e2fae9dc3c8",
+        "evidence_block_ids": [
+          "blk-9bb06a2f209825312e46"
+        ],
+        "evidence_excerpt": "成宜高速是成都到市州设计标准最高的一条高速",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速是经宜宾出川最便捷的南向通道。",
+        "claim_id": "claim-566baf2da08d0bdc",
+        "evidence_block_ids": [
+          "blk-9bb06a2f209825312e46"
+        ],
+        "evidence_excerpt": "也是经宜宾出川最便捷的南向通道",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速的通车标志着四川境内高速通车里程突破8000公里。",
+        "claim_id": "claim-54c77006819f2195",
+        "evidence_block_ids": [
+          "blk-9bb06a2f209825312e46"
+        ],
+        "evidence_excerpt": "同时也标志着四川境内高速通车里程突破8000公里",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，止于乐宜高速中峰寺枢纽。",
+        "claim_id": "claim-95f9f376ab848090",
+        "evidence_block_ids": [
+          "blk-959feadd84db968c91a7"
+        ],
+        "evidence_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速全线总投资246亿元，路线全长约157公里。",
+        "claim_id": "claim-f129a0043ced6ee5",
+        "evidence_block_ids": [
+          "blk-959feadd84db968c91a7"
+        ],
+        "evidence_excerpt": "全线总投资246亿元，路线全长约157公里",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成宜高速全线设计时速120公里，双向六车道建设。",
+        "claim_id": "claim-5c1432329a8e1d90",
+        "evidence_block_ids": [
+          "blk-959feadd84db968c91a7"
+        ],
+        "evidence_excerpt": "全线设计时速120公里，双向六车道建设",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          185
+        ],
+        "ref_id": "ref-bae51b4f8a8c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-bf4191a00d89934f",
+          "claim-fdcfbcd893f66b03",
+          "claim-6f5c3e2fae9dc3c8",
+          "claim-566baf2da08d0bdc",
+          "claim-54c77006819f2195",
+          "claim-95f9f376ab848090",
+          "claim-f129a0043ced6ee5",
+          "claim-5c1432329a8e1d90"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+        "reason": "该Bundle包含开通时间、里程、设计标准、战略定位及未来规划等核心事实，是回答中心问题所必需的原子事实来源。"
+      }
+    ],
+    "group_id": "topic-67897d05527a",
+    "members": [
+      {
+        "contribution": "该证据完整覆盖了成宜高速开通的时间、里程、设计标准、连接枢纽、投资规模、战略定位（南向通道、港航连接）及未来数字高速规划，直接回答中心问题。",
+        "ref_id": "ref-bae51b4f8a8c",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-bf4191a00d89934f",
+        "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6f5c3e2fae9dc3c8",
+        "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-566baf2da08d0bdc",
+        "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-54c77006819f2195",
+        "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-95f9f376ab848090",
+        "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f129a0043ced6ee5",
+        "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5c1432329a8e1d90",
+        "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fdcfbcd893f66b03",
+        "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-bf4191a00d89934f",
+          "claim-6f5c3e2fae9dc3c8",
+          "claim-566baf2da08d0bdc",
+          "claim-54c77006819f2195"
+        ],
+        "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-500a547ec44b985d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bf4191a00d89934f"
+        ],
+        "draft_excerpt": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b44c9d1c89b37674",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-95f9f376ab848090"
+        ],
+        "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cba11f5c0f0fa3f9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f129a0043ced6ee5",
+          "claim-5c1432329a8e1d90"
+        ],
+        "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-49d1a79bc39365c1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6f5c3e2fae9dc3c8",
+          "claim-566baf2da08d0bdc"
+        ],
+        "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f1a0913dfce5643c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fdcfbcd893f66b03"
+        ],
+        "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-05e5c26daf99ed6f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-54c77006819f2195"
+        ],
+        "draft_excerpt": "同时也标志着四川境内高速通车里程突破8000公里。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-33c3ad6fb67bd8a7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-bf4191a00d89934f",
+          "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6f5c3e2fae9dc3c8",
+          "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-566baf2da08d0bdc",
+          "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-54c77006819f2195",
+          "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-95f9f376ab848090",
+          "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f129a0043ced6ee5",
+          "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5c1432329a8e1d90",
+          "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fdcfbcd893f66b03",
+          "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-bf4191a00d89934f",
+            "claim-6f5c3e2fae9dc3c8",
+            "claim-566baf2da08d0bdc",
+            "claim-54c77006819f2195"
+          ],
+          "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+          "finding": "supported",
+          "sentence_id": "sentence-500a547ec44b985d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bf4191a00d89934f"
+          ],
+          "draft_excerpt": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行。",
+          "finding": "supported",
+          "sentence_id": "sentence-b44c9d1c89b37674",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-95f9f376ab848090"
+          ],
+          "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+          "finding": "supported",
+          "sentence_id": "sentence-cba11f5c0f0fa3f9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f129a0043ced6ee5",
+            "claim-5c1432329a8e1d90"
+          ],
+          "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-49d1a79bc39365c1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6f5c3e2fae9dc3c8",
+            "claim-566baf2da08d0bdc"
+          ],
+          "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+          "finding": "supported",
+          "sentence_id": "sentence-f1a0913dfce5643c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fdcfbcd893f66b03"
+          ],
+          "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+          "finding": "supported",
+          "sentence_id": "sentence-05e5c26daf99ed6f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-54c77006819f2195"
+          ],
+          "draft_excerpt": "同时也标志着四川境内高速通车里程突破8000公里。",
+          "finding": "supported",
+          "sentence_id": "sentence-33c3ad6fb67bd8a7",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "7ae76d486b9ee6aba82c7c28f4db09d2b6019cdd717300a5f5deffcad70092af",
+  "coverage_history": [
+    {
+      "draft_sha256": "dc671e5bfb59e89fe05246ae2f6d0ee7efed29bc2e8c1406f026fc48cd10eb20",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-bf4191a00d89934f",
+            "draft_excerpt": "成宜高速公路（成都至宜宾）于2020年12月31日举行通车仪式并全线开通。",
+            "finding": "draft_excerpt matches evidence_excerpt '2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-95f9f376ab848090",
+            "draft_excerpt": "该线路起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+            "finding": "draft_excerpt matches evidence_excerpt '成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6f5c3e2fae9dc3c8",
+            "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "draft_excerpt matches evidence_excerpt '成宜高速是成都到市州设计标准最高的一条高速'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-566baf2da08d0bdc",
+            "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "draft_excerpt matches evidence_excerpt '也是经宜宾出川最便捷的南向通道'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f129a0043ced6ee5",
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，设计时速120公里，采用双向六车道建设。",
+            "finding": "draft_excerpt matches evidence_excerpt '全线总投资246亿元，路线全长约157公里'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5c1432329a8e1d90",
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，设计时速120公里，采用双向六车道建设。",
+            "finding": "draft_excerpt matches evidence_excerpt '全线设计时速120公里，双向六车道建设'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdcfbcd893f66b03",
+            "draft_excerpt": "成宜高速的全线开通显著缩短了时空距离，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+            "finding": "draft_excerpt matches evidence_excerpt '全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟'.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54c77006819f2195",
+            "draft_excerpt": "同时，该项目的通车标志着四川境内高速通车里程突破8000公里。",
+            "finding": "draft_excerpt matches evidence_excerpt '同时也标志着四川境内高速通车里程突破8000公里'.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-bf4191a00d89934f",
+              "claim-6f5c3e2fae9dc3c8",
+              "claim-54c77006819f2195"
+            ],
+            "draft_excerpt": "2020年12月31日通车的成宜高速是成都至市州设计标准最高的高速，标志着四川高速里程突破8000公里。",
+            "finding": "Sentence covers claim-bf4191a00d89934f (date), claim-6f5c3e2fae9dc3c8 (design standard), and claim-54c77006819f2195 (mileage breakthrough).",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d08e850c051d9434",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bf4191a00d89934f"
+            ],
+            "draft_excerpt": "成宜高速公路（成都至宜宾）于2020年12月31日举行通车仪式并全线开通。",
+            "finding": "Sentence covers claim-bf4191a00d89934f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3d99c7e42b84be3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-95f9f376ab848090"
+            ],
+            "draft_excerpt": "该线路起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+            "finding": "Sentence covers claim-95f9f376ab848090.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e52c7f7c9ba4c089",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6f5c3e2fae9dc3c8",
+              "claim-566baf2da08d0bdc"
+            ],
+            "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "Sentence covers claim-6f5c3e2fae9dc3c8 and claim-566baf2da08d0bdc.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dca12f45ae0149d4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f129a0043ced6ee5",
+              "claim-5c1432329a8e1d90"
+            ],
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，设计时速120公里，采用双向六车道建设。",
+            "finding": "Sentence covers claim-f129a0043ced6ee5 and claim-5c1432329a8e1d90.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b6e919913218b40f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdcfbcd893f66b03"
+            ],
+            "draft_excerpt": "成宜高速的全线开通显著缩短了时空距离，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+            "finding": "Sentence covers claim-fdcfbcd893f66b03.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ba81dbaebaa174a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54c77006819f2195"
+            ],
+            "draft_excerpt": "同时，该项目的通车标志着四川境内高速通车里程突破8000公里。",
+            "finding": "Sentence covers claim-54c77006819f2195.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ffb5645b3ddb0a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年12月31日通车的成宜高速是成都至市州设计标准最高的高速，标志着四川高速里程突破8000公里。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e9d5b7b44fa905f2e71371b4a0911d032a2946c25531a4160e1a7f0359a658e8",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-bf4191a00d89934f",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6f5c3e2fae9dc3c8",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-566baf2da08d0bdc",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-95f9f376ab848090",
+            "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f129a0043ced6ee5",
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5c1432329a8e1d90",
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54c77006819f2195",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fdcfbcd893f66b03",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-bf4191a00d89934f",
+              "claim-6f5c3e2fae9dc3c8",
+              "claim-566baf2da08d0bdc"
+            ],
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eac8e04723e8baa6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bf4191a00d89934f"
+            ],
+            "draft_excerpt": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b44c9d1c89b37674",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-95f9f376ab848090"
+            ],
+            "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cba11f5c0f0fa3f9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f129a0043ced6ee5",
+              "claim-5c1432329a8e1d90"
+            ],
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49d1a79bc39365c1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6f5c3e2fae9dc3c8",
+              "claim-566baf2da08d0bdc"
+            ],
+            "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1a0913dfce5643c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdcfbcd893f66b03"
+            ],
+            "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05e5c26daf99ed6f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54c77006819f2195"
+            ],
+            "draft_excerpt": "同时也标志着四川境内高速通车里程突破8000公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-33c3ad6fb67bd8a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "7ae76d486b9ee6aba82c7c28f4db09d2b6019cdd717300a5f5deffcad70092af",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-bf4191a00d89934f",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6f5c3e2fae9dc3c8",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-566baf2da08d0bdc",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54c77006819f2195",
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-95f9f376ab848090",
+            "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f129a0043ced6ee5",
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5c1432329a8e1d90",
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdcfbcd893f66b03",
+            "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-bf4191a00d89934f",
+              "claim-6f5c3e2fae9dc3c8",
+              "claim-566baf2da08d0bdc",
+              "claim-54c77006819f2195"
+            ],
+            "draft_excerpt": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-500a547ec44b985d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bf4191a00d89934f"
+            ],
+            "draft_excerpt": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b44c9d1c89b37674",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-95f9f376ab848090"
+            ],
+            "draft_excerpt": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cba11f5c0f0fa3f9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f129a0043ced6ee5",
+              "claim-5c1432329a8e1d90"
+            ],
+            "draft_excerpt": "全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49d1a79bc39365c1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6f5c3e2fae9dc3c8",
+              "claim-566baf2da08d0bdc"
+            ],
+            "draft_excerpt": "成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1a0913dfce5643c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdcfbcd893f66b03"
+            ],
+            "draft_excerpt": "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05e5c26daf99ed6f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54c77006819f2195"
+            ],
+            "draft_excerpt": "同时也标志着四川境内高速通车里程突破8000公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-33c3ad6fb67bd8a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行。成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽。全线总投资246亿元，路线全长约157公里，全线设计时速120公里，双向六车道建设。\n\n成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道。\n\n## 证据与影响\n\n全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟。同时也标志着四川境内高速通车里程突破8000公里。",
+    "description": "2020年12月31日，成宜高速公路举行通车仪式，该线路是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，标志着四川境内高速通车里程突破8000公里。",
+    "ref": {
+      "asset_hints": [
+        "image-093"
+      ],
+      "concept_id": "topic-67897d05527a",
+      "description": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行，全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟，成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，同时也标志着四川境内高速通车里程突破8000公里。",
+      "document_family_id": "28e2a49e271094505210",
+      "document_version_id": "24023fd3da9de6ac6517",
+      "evidence": [
+        "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行",
+        "全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟",
+        "成宜高速是成都到市州设计标准最高的一条高速",
+        "也是经宜宾出川最便捷的南向通道",
+        "同时也标志着四川境内高速通车里程突破8000公里",
+        "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽",
+        "全线总投资246亿元，路线全长约157公里",
+        "全线设计时速120公里，双向六车道建设"
+      ],
+      "evidence_block_ids": [
+        "blk-9bb06a2f209825312e46",
+        "blk-959feadd84db968c91a7"
+      ],
+      "page_end": 186,
+      "page_start": 185,
+      "ref_family_hint": "",
+      "ref_version_id": "24023fd3da9de6ac6517",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成宜高速公路全线建成开通"
+      ],
+      "semantic_signature": {},
+      "source": "c4fa936d-bb21-4b09-931b-345720909d3a.md",
+      "title": "成宜高速公路全线建成开通",
+      "type": "分析框架"
+    },
+    "title": "成宜高速公路全线建成开通"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-bae51b4f8a8c:bundle-304136bfa063",
+      "excluded_fragments": [],
+      "ref_id": "ref-bae51b4f8a8c",
+      "source_blocks": [
+        {
+          "block_id": "blk-9bb06a2f209825312e46",
+          "page_number": 185,
+          "text": "2020年12月31日，四川成都至宜宾高速公路（简称成宜高速）通车仪式举行，全线开通后，从成都天府国际机场高速南线出发到宜宾仅需约90分钟，成宜高速是成都到市州设计标准最高的一条高速，也是经宜宾出川最便捷的南向通道，同时也标志着四川境内高速通车里程突破8000公里。"
+        },
+        {
+          "block_id": "blk-13b4c367e17fb9456f5e",
+          "page_number": 185,
+          "text": "原始 PDF 第 185 页图片"
+        },
+        {
+          "block_id": "blk-032f65ada51a0e61b103",
+          "page_number": 185,
+          "text": "图5-3 成宜高速公路航拍图"
+        },
+        {
+          "block_id": "blk-959feadd84db968c91a7",
+          "page_number": 185,
+          "text": "成宜高速起于成都“三绕”（成都经济区环线高速公路）简蒲段的清风枢纽，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽，对接宜宾城市过境高速公路西段。全线总投资246亿元，路线全长约157公里，其中成都简阳段9公里、眉山段56公里、内江段2公里、自贡段47公里、宜宾段43公里；全线设计时速120公里，双向六车道建设，全线共设置桥梁157座、隧道4座、互通式立交17处，其中5处枢纽互通，连接川内多条高速：清风枢纽对接成都天府国际机场高速公路南线，可转换至成都“三绕”简蒲高速；在富加枢纽可转换至遂资眉高速；在宝飞枢纽可转换至成自泸高速；在荣州枢纽可转换至乐自高速；在中峰寺枢纽可转换至乐宜高速，对接宜宾城市过境高速公路西段。"
+        },
+        {
+          "block_id": "blk-e349cee6b8305683e2c0",
+          "page_number": 186,
+          "text": "下一步，成宜高速项目作为四川省“交通强国”试点项目，将分阶段（3-5年）建设成宜数字高速。第一部分是“自动驾驶”，前期布设10公里“自动驾驶”基础设施，包括天气传感器、高精摄像头、车联网设备、边缘计算设备等路侧智能设备，达到L3.5级自动驾驶标准；第二部分为“车路协同”，构建包括云计算、大数据、人工智能、数字气象、全息感知等技术在内的高速公路网智能感知体系，实现全路段人工智能视频分析、预判、报警等功能，提升高速公路运营能力；第三部分为“智慧高速”，基于数字新基建的建设，成宜高速将达到全路段5G覆盖，为“数字交通”的信息传输提供更加方便快捷的服务支撑。同时，按照《四川省加快推进新型基础设施建设行动方案（2020-2022年）》“新基建示范工程”的要求，拟在天府新区眉山龙马镇境内建设超级服务区，提供餐饮、旅馆、康体、公园、广场、供应设施、文化活动、无人驾驶体验区、加油加气及充电桩等基本功能，打造“交通+旅游+科技体验”项目。"
+        },
+        {
+          "block_id": "blk-218fee32106f666d3e17",
+          "page_number": 186,
+          "text": "成宜高速是《四川省高速公路网规划（2014-2030年）》中16条成都放射线高速公路之一，是四川南向高速公路通道布局“两走廊、四通道”重要组成部分。一方面，是成都平原经济区与川南经济区最便捷的联系通道，成宜高速通车后，从成都三环出发经成宜高速到宜宾，比走其他通道至少节约1小时路程，作为连接成都平原经济区和川南经济区最便捷的通道，成宜高速将成都天府国际机场和长江宜宾港快速连接，构建“港航大通道”，经济支撑作用巨大，为四川构建“一干多支、五区协同”区域发展新格局提供新动能。另一方面，成宜高速也是从成都出发南下出川最直、最短的高速公路大通道，作为四川南向开放川滇走廊和川黔桂粤走廊的共用路段中的共同组成路段，结合“数字交通”试点规划，将进一步提升四川南向开放的通道能力，为深入实施四向拓展、全域开放战略部署提供有力的交通保障。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-67897d05527a",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-bae51b4f8a8c"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

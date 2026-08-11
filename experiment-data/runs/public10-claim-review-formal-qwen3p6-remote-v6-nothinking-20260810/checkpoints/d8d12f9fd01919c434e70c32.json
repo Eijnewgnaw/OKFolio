@@ -1,0 +1,646 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区如何通过校企合作与政策配套解决加工贸易企业的人才短缺问题？",
+    "claims": [
+      {
+        "claim": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制。",
+        "claim_id": "claim-891a9c0f896ba96b",
+        "evidence_block_ids": [
+          "blk-5bde9d7c8413ccde1a0b"
+        ],
+        "evidence_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-ff9712c9b9e3",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "实行人才定向培养、联合培养。",
+        "claim_id": "claim-a1dbd0a942269fad",
+        "evidence_block_ids": [
+          "blk-5bde9d7c8413ccde1a0b"
+        ],
+        "evidence_excerpt": "实行人才定向培养、联合培养",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-ff9712c9b9e3",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "旨在缓解企业“招工难”“用工荒”。",
+        "claim_id": "claim-c3d3e23495b9921f",
+        "evidence_block_ids": [
+          "blk-5bde9d7c8413ccde1a0b"
+        ],
+        "evidence_excerpt": "缓解企业“招工难”“用工荒”",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-ff9712c9b9e3",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "出台吸引高精尖人才和“蓝领”领军人才的配套政策。",
+        "claim_id": "claim-ea48956e89c55377",
+        "evidence_block_ids": [
+          "blk-5bde9d7c8413ccde1a0b"
+        ],
+        "evidence_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-ff9712c9b9e3",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "营造良好的人才聚集环境。",
+        "claim_id": "claim-791c36cc1c68a590",
+        "evidence_block_ids": [
+          "blk-5bde9d7c8413ccde1a0b"
+        ],
+        "evidence_excerpt": "营造良好的人才聚集环境",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-ff9712c9b9e3",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "责任单位包括市科技局、市教育局、市财政局、市人社局、市商务委。",
+        "claim_id": "claim-6bfc409a3d5a5242",
+        "evidence_block_ids": [
+          "blk-5bde9d7c8413ccde1a0b"
+        ],
+        "evidence_excerpt": "（责任单位：市科技局、市教育局、市财政局、市人社局、市商务委）",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-ff9712c9b9e3",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-891a9c0f896ba96b",
+          "claim-a1dbd0a942269fad",
+          "claim-c3d3e23495b9921f",
+          "claim-ea48956e89c55377",
+          "claim-791c36cc1c68a590",
+          "claim-6bfc409a3d5a5242"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+        "reason": "该证据包含解决用工荒的核心措施（校企合作、定向培养）及配套政策，是回答中心问题必须保留的事实。"
+      }
+    ],
+    "group_id": "topic-624d4bc10aec",
+    "members": [
+      {
+        "contribution": "该证据直接提供了缓解加工贸易企业用工荒的具体措施，包括建立校企合作机制和出台人才配套政策，构成了分析框架中解决核心问题的主要手段。",
+        "ref_id": "ref-ff9712c9b9e3",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-891a9c0f896ba96b",
+        "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+        "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a1dbd0a942269fad",
+        "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+        "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c3d3e23495b9921f",
+        "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+        "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ea48956e89c55377",
+        "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+        "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-791c36cc1c68a590",
+        "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+        "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6bfc409a3d5a5242",
+        "draft_excerpt": "责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+        "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-891a9c0f896ba96b",
+          "claim-a1dbd0a942269fad",
+          "claim-c3d3e23495b9921f",
+          "claim-ea48956e89c55377",
+          "claim-791c36cc1c68a590"
+        ],
+        "draft_excerpt": "通过建立加工贸易企业与院校及培训机构的合作机制，实行定向与联合培养，并出台配套政策吸引高精尖与蓝领领军人才以缓解用工难题。",
+        "finding": "该句是对前文多个 claim 的概括性描述，涵盖了校企合作、定向培养、缓解用工荒及出台配套政策等内容，所有事实点均有对应 claim 支持。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-be5184b8920576c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-891a9c0f896ba96b",
+          "claim-a1dbd0a942269fad",
+          "claim-c3d3e23495b9921f"
+        ],
+        "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。",
+        "finding": "该句直接对应 claim-891a9c0f896ba96b、claim-a1dbd0a942269fad 和 claim-c3d3e23495b9921f，文字完全匹配。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2f135963b8f0e346",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ea48956e89c55377",
+          "claim-791c36cc1c68a590"
+        ],
+        "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境。",
+        "finding": "该句直接对应 claim-ea48956e89c55377 和 claim-791c36cc1c68a590，文字完全匹配。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-135f5c4e293c3fd7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6bfc409a3d5a5242"
+        ],
+        "draft_excerpt": "该措施由多部门协同推进，具体责任单位包括市科技局、市教育局、市财政局、市人社局以及市商务委。",
+        "finding": "该句后半部分列出的责任单位与 claim-6bfc409a3d5a5242 完全一致。前半部分“多部门协同推进”是对责任主体行为的合理推断，未引入合同外新事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5695d9e61a7a672f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c3d3e23495b9921f"
+        ],
+        "draft_excerpt": "通过定向与联合培养机制及配套政策，旨在解决加工贸易企业面临的人才短缺问题。",
+        "finding": "该句描述了措施的目的，即解决人才短缺（对应 claim-c3d3e23495b9921f 中的缓解用工荒）。虽然用词略有不同（“人才短缺” vs “招工难/用工荒”），但在语境下指代同一问题，且未引入合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-db145b3c3c47e529",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-891a9c0f896ba96b"
+        ],
+        "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+        "finding": "该句直接对应 claim-891a9c0f896ba96b，文字完全匹配。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0001313af11a7a52",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a1dbd0a942269fad",
+          "claim-c3d3e23495b9921f"
+        ],
+        "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+        "finding": "该句前半部分对应 claim-a1dbd0a942269fad，后半部分对应 claim-c3d3e23495b9921f，文字完全匹配。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0e8faf1125ffa887",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ea48956e89c55377",
+          "claim-791c36cc1c68a590"
+        ],
+        "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+        "finding": "该句直接对应 claim-ea48956e89c55377 和 claim-791c36cc1c68a590，文字完全匹配。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a96085fab4decd81",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6bfc409a3d5a5242"
+        ],
+        "draft_excerpt": "责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+        "finding": "该句直接对应 claim-6bfc409a3d5a5242，文字完全匹配。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6618b8ad4828ec4a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-891a9c0f896ba96b",
+          "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+          "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a1dbd0a942269fad",
+          "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+          "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c3d3e23495b9921f",
+          "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+          "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ea48956e89c55377",
+          "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+          "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-791c36cc1c68a590",
+          "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+          "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6bfc409a3d5a5242",
+          "draft_excerpt": "责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+          "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-891a9c0f896ba96b",
+            "claim-a1dbd0a942269fad",
+            "claim-c3d3e23495b9921f",
+            "claim-ea48956e89c55377",
+            "claim-791c36cc1c68a590"
+          ],
+          "draft_excerpt": "通过建立加工贸易企业与院校及培训机构的合作机制，实行定向与联合培养，并出台配套政策吸引高精尖与蓝领领军人才以缓解用工难题。",
+          "finding": "该句是对前文多个 claim 的概括性描述，涵盖了校企合作、定向培养、缓解用工荒及出台配套政策等内容，所有事实点均有对应 claim 支持。",
+          "sentence_id": "sentence-be5184b8920576c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-891a9c0f896ba96b",
+            "claim-a1dbd0a942269fad",
+            "claim-c3d3e23495b9921f"
+          ],
+          "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。",
+          "finding": "该句直接对应 claim-891a9c0f896ba96b、claim-a1dbd0a942269fad 和 claim-c3d3e23495b9921f，文字完全匹配。",
+          "sentence_id": "sentence-2f135963b8f0e346",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ea48956e89c55377",
+            "claim-791c36cc1c68a590"
+          ],
+          "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境。",
+          "finding": "该句直接对应 claim-ea48956e89c55377 和 claim-791c36cc1c68a590，文字完全匹配。",
+          "sentence_id": "sentence-135f5c4e293c3fd7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6bfc409a3d5a5242"
+          ],
+          "draft_excerpt": "该措施由多部门协同推进，具体责任单位包括市科技局、市教育局、市财政局、市人社局以及市商务委。",
+          "finding": "该句后半部分列出的责任单位与 claim-6bfc409a3d5a5242 完全一致。前半部分“多部门协同推进”是对责任主体行为的合理推断，未引入合同外新事实。",
+          "sentence_id": "sentence-5695d9e61a7a672f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c3d3e23495b9921f"
+          ],
+          "draft_excerpt": "通过定向与联合培养机制及配套政策，旨在解决加工贸易企业面临的人才短缺问题。",
+          "finding": "该句描述了措施的目的，即解决人才短缺（对应 claim-c3d3e23495b9921f 中的缓解用工荒）。虽然用词略有不同（“人才短缺” vs “招工难/用工荒”），但在语境下指代同一问题，且未引入合同外事实。",
+          "sentence_id": "sentence-db145b3c3c47e529",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-891a9c0f896ba96b"
+          ],
+          "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+          "finding": "该句直接对应 claim-891a9c0f896ba96b，文字完全匹配。",
+          "sentence_id": "sentence-0001313af11a7a52",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a1dbd0a942269fad",
+            "claim-c3d3e23495b9921f"
+          ],
+          "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+          "finding": "该句前半部分对应 claim-a1dbd0a942269fad，后半部分对应 claim-c3d3e23495b9921f，文字完全匹配。",
+          "sentence_id": "sentence-0e8faf1125ffa887",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ea48956e89c55377",
+            "claim-791c36cc1c68a590"
+          ],
+          "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+          "finding": "该句直接对应 claim-ea48956e89c55377 和 claim-791c36cc1c68a590，文字完全匹配。",
+          "sentence_id": "sentence-a96085fab4decd81",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6bfc409a3d5a5242"
+          ],
+          "draft_excerpt": "责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+          "finding": "该句直接对应 claim-6bfc409a3d5a5242，文字完全匹配。",
+          "sentence_id": "sentence-6618b8ad4828ec4a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "3ac8b4a0371edcd721aff706603980f56533c3d0ab156b5cd635323a654af77a",
+  "coverage_history": [
+    {
+      "draft_sha256": "3ac8b4a0371edcd721aff706603980f56533c3d0ab156b5cd635323a654af77a",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-891a9c0f896ba96b",
+            "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+            "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a1dbd0a942269fad",
+            "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+            "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3d3e23495b9921f",
+            "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+            "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ea48956e89c55377",
+            "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+            "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-791c36cc1c68a590",
+            "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+            "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6bfc409a3d5a5242",
+            "draft_excerpt": "责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+            "finding": "draft_excerpt 完整包含 claim 核心事实，且与 evidence_excerpt 一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-891a9c0f896ba96b",
+              "claim-a1dbd0a942269fad",
+              "claim-c3d3e23495b9921f",
+              "claim-ea48956e89c55377",
+              "claim-791c36cc1c68a590"
+            ],
+            "draft_excerpt": "通过建立加工贸易企业与院校及培训机构的合作机制，实行定向与联合培养，并出台配套政策吸引高精尖与蓝领领军人才以缓解用工难题。",
+            "finding": "该句是对前文多个 claim 的概括性描述，涵盖了校企合作、定向培养、缓解用工荒及出台配套政策等内容，所有事实点均有对应 claim 支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be5184b8920576c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-891a9c0f896ba96b",
+              "claim-a1dbd0a942269fad",
+              "claim-c3d3e23495b9921f"
+            ],
+            "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。",
+            "finding": "该句直接对应 claim-891a9c0f896ba96b、claim-a1dbd0a942269fad 和 claim-c3d3e23495b9921f，文字完全匹配。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2f135963b8f0e346",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ea48956e89c55377",
+              "claim-791c36cc1c68a590"
+            ],
+            "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境。",
+            "finding": "该句直接对应 claim-ea48956e89c55377 和 claim-791c36cc1c68a590，文字完全匹配。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-135f5c4e293c3fd7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6bfc409a3d5a5242"
+            ],
+            "draft_excerpt": "该措施由多部门协同推进，具体责任单位包括市科技局、市教育局、市财政局、市人社局以及市商务委。",
+            "finding": "该句后半部分列出的责任单位与 claim-6bfc409a3d5a5242 完全一致。前半部分“多部门协同推进”是对责任主体行为的合理推断，未引入合同外新事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5695d9e61a7a672f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3d3e23495b9921f"
+            ],
+            "draft_excerpt": "通过定向与联合培养机制及配套政策，旨在解决加工贸易企业面临的人才短缺问题。",
+            "finding": "该句描述了措施的目的，即解决人才短缺（对应 claim-c3d3e23495b9921f 中的缓解用工荒）。虽然用词略有不同（“人才短缺” vs “招工难/用工荒”），但在语境下指代同一问题，且未引入合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db145b3c3c47e529",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-891a9c0f896ba96b"
+            ],
+            "draft_excerpt": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制",
+            "finding": "该句直接对应 claim-891a9c0f896ba96b，文字完全匹配。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0001313af11a7a52",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1dbd0a942269fad",
+              "claim-c3d3e23495b9921f"
+            ],
+            "draft_excerpt": "实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”",
+            "finding": "该句前半部分对应 claim-a1dbd0a942269fad，后半部分对应 claim-c3d3e23495b9921f，文字完全匹配。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e8faf1125ffa887",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ea48956e89c55377",
+              "claim-791c36cc1c68a590"
+            ],
+            "draft_excerpt": "出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境",
+            "finding": "该句直接对应 claim-ea48956e89c55377 和 claim-791c36cc1c68a590，文字完全匹配。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a96085fab4decd81",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6bfc409a3d5a5242"
+            ],
+            "draft_excerpt": "责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+            "finding": "该句直接对应 claim-6bfc409a3d5a5242，文字完全匹配。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6618b8ad4828ec4a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。\n\n出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境。\n\n## 证据与影响\n\n该措施由多部门协同推进，具体责任单位包括市科技局、市教育局、市财政局、市人社局以及市商务委。\n\n通过定向与联合培养机制及配套政策，旨在解决加工贸易企业面临的人才短缺问题。\n\n- 建立加工贸易企业与高等院校、职业学校和培训机构合作机制\n- 实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”\n- 出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境\n- 责任单位：市科技局、市教育局、市财政局、市人社局、市商务委",
+    "description": "通过建立加工贸易企业与院校及培训机构的合作机制，实行定向与联合培养，并出台配套政策吸引高精尖与蓝领领军人才以缓解用工难题。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-624d4bc10aec",
+      "description": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "#### （五）建强人才队伍",
+        "建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境。（责任单位：市科技局、市教育局、市财政局、市人社局、市商务委）"
+      ],
+      "evidence_block_ids": [
+        "blk-5bde9d7c8413ccde1a0b"
+      ],
+      "page_end": 181,
+      "page_start": 181,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（五）建强人才队伍"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "建强人才队伍",
+      "type": "分析框架"
+    },
+    "title": "建强人才队伍"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-ff9712c9b9e3:bundle-52d20b34cca4",
+      "excluded_fragments": [],
+      "ref_id": "ref-ff9712c9b9e3",
+      "source_blocks": [
+        {
+          "block_id": "blk-5bde9d7c8413ccde1a0b",
+          "page_number": 181,
+          "text": "建立加工贸易企业与高等院校、职业学校和培训机构合作机制，实行人才定向培养、联合培养，缓解企业“招工难”“用工荒”。出台吸引高精尖人才和“蓝领”领军人才的配套政策，营造良好的人才聚集环境。（责任单位：市科技局、市教育局、市财政局、市人社局、市商务委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-624d4bc10aec",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-ff9712c9b9e3"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

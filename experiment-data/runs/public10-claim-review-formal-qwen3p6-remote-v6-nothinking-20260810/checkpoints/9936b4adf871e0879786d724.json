@@ -1,0 +1,519 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在加大宣传推介方面采取了哪些具体工作措施？",
+    "claims": [
+      {
+        "claim": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案。",
+        "claim_id": "claim-335587c279ed7be8",
+        "evidence_block_ids": [
+          "blk-1571e5425e0d31fac667"
+        ],
+        "evidence_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案",
+        "evidence_id": "ref-43e0c2162eae:bundle-e7f1be8bdb22",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-43e0c2162eae",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "开展主题宣传、政策解读、项目推介等重点工作。",
+        "claim_id": "claim-fb8f3b245f447e0a",
+        "evidence_block_ids": [
+          "blk-1571e5425e0d31fac667"
+        ],
+        "evidence_excerpt": "开展主题宣传、政策解读、项目推介等重点工作",
+        "evidence_id": "ref-43e0c2162eae:bundle-e7f1be8bdb22",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-43e0c2162eae",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训。",
+        "claim_id": "claim-e24143541d5ea166",
+        "evidence_block_ids": [
+          "blk-1571e5425e0d31fac667"
+        ],
+        "evidence_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训",
+        "evidence_id": "ref-43e0c2162eae:bundle-e7f1be8bdb22",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-43e0c2162eae",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "通过培训提升干部的专业素养与工作能力。",
+        "claim_id": "claim-57116005995ba66e",
+        "evidence_block_ids": [
+          "blk-1571e5425e0d31fac667"
+        ],
+        "evidence_excerpt": "提升干部的专业素养与工作能力",
+        "evidence_id": "ref-43e0c2162eae:bundle-e7f1be8bdb22",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-43e0c2162eae",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-335587c279ed7be8",
+          "claim-fb8f3b245f447e0a",
+          "claim-e24143541d5ea166",
+          "claim-57116005995ba66e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-43e0c2162eae:bundle-e7f1be8bdb22",
+        "reason": "该证据包含宣传推介工作的具体实施措施，是回答中心问题所必需的原子事实来源。"
+      }
+    ],
+    "group_id": "topic-57faeee776ef",
+    "members": [
+      {
+        "contribution": "该证据直接描述了宣传推介工作的具体实施内容，包括制定实施方案、开展主题宣传、政策解读、项目推介以及组织干部培训，构成了回答中心问题的核心事实。",
+        "ref_id": "ref-43e0c2162eae",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-335587c279ed7be8",
+        "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fb8f3b245f447e0a",
+        "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e24143541d5ea166",
+        "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-57116005995ba66e",
+        "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-335587c279ed7be8",
+          "claim-fb8f3b245f447e0a",
+          "claim-e24143541d5ea166",
+          "claim-57116005995ba66e"
+        ],
+        "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作，并围绕改革创新主题开展培训以提升干部能力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-65cba88dcd59ee18",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-335587c279ed7be8",
+          "claim-fb8f3b245f447e0a"
+        ],
+        "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-747dcd4fa87229f8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e24143541d5ea166",
+          "claim-57116005995ba66e"
+        ],
+        "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b1a8d792f290f3c5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-335587c279ed7be8",
+          "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fb8f3b245f447e0a",
+          "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e24143541d5ea166",
+          "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-57116005995ba66e",
+          "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-335587c279ed7be8",
+            "claim-fb8f3b245f447e0a",
+            "claim-e24143541d5ea166",
+            "claim-57116005995ba66e"
+          ],
+          "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作，并围绕改革创新主题开展培训以提升干部能力。",
+          "finding": "supported",
+          "sentence_id": "sentence-65cba88dcd59ee18",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-335587c279ed7be8",
+            "claim-fb8f3b245f447e0a"
+          ],
+          "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+          "finding": "supported",
+          "sentence_id": "sentence-747dcd4fa87229f8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e24143541d5ea166",
+            "claim-57116005995ba66e"
+          ],
+          "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+          "finding": "supported",
+          "sentence_id": "sentence-b1a8d792f290f3c5",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "6586787854e21499227d055bbd6de9e98ac34ad4601101fe67f23c8a0041c240",
+  "coverage_history": [
+    {
+      "draft_sha256": "d5d0cb1de8162a3be22e60f88bc515733113f3e4a203f45062cba654ea042ab9",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-335587c279ed7be8",
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+            "finding": "该句完整包含了claim-335587c279ed7be8的核心事实描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb8f3b245f447e0a",
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+            "finding": "该句完整包含了claim-fb8f3b245f447e0a的核心事实描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e24143541d5ea166",
+            "draft_excerpt": "按照“全域自贸”要求，围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+            "finding": "该句完整包含了claim-e24143541d5ea166的核心事实描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57116005995ba66e",
+            "draft_excerpt": "按照“全域自贸”要求，围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+            "finding": "该句完整包含了claim-57116005995ba66e的核心事实描述。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-335587c279ed7be8",
+              "claim-fb8f3b245f447e0a"
+            ],
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读与项目推介等重点工作。",
+            "finding": "该句描述了实施方案及重点工作，直接支持claim-335587c279ed7be8和claim-fb8f3b245f447e0a。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7d69eb58d7218b5f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-335587c279ed7be8",
+              "claim-fb8f3b245f447e0a"
+            ],
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+            "finding": "该句描述了实施方案及重点工作，直接支持claim-335587c279ed7be8和claim-fb8f3b245f447e0a。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-747dcd4fa87229f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e24143541d5ea166",
+              "claim-57116005995ba66e"
+            ],
+            "draft_excerpt": "按照“全域自贸”要求，围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+            "finding": "该句描述了培训主题及目的，直接支持claim-e24143541d5ea166和claim-57116005995ba66e。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfc166cc3a612f69",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该宣传推介工作旨在深入贯彻落实国务院《关于扩大对外开放积极利用外资若干措施的通知》（国发〔2017〕5号）精神，进一步提高成都市对外开放水平和质量。",
+            "finding": "该句引入了具体的国务院文件名称及文号，以及提高对外开放水平的目标，这些内容在Claim Contract中未提及，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5a3cb7a7f84e4e0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过继续深化“放管服”改革，创造内外资公平竞争的营商环境，从而拓宽外资产业投向并提升对外开放程度。",
+            "finding": "该句引入了“放管服”改革、营商环境、外资产业投向等新概念，Claim Contract中未提及，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b0ddc54f487add20",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都市关于进一步扩大对外开放积极利用外资的意见",
+            "finding": "该句为文件名称，Claim Contract中未提及，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9ed9457ed7cbbd0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "国发〔2017〕5号",
+            "finding": "该句为文件文号，Claim Contract中未提及，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7540333013c84d8e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该宣传推介工作旨在深入贯彻落实国务院《关于扩大对外开放积极利用外资若干措施的通知》（国发〔2017〕5号）精神，进一步提高成都市对外开放水平和质量。",
+            "finding": "引入了具体的国务院文件名称及文号，以及提高对外开放水平的目标，这些内容在Claim Contract中未提及。"
+          },
+          {
+            "draft_excerpt": "通过继续深化“放管服”改革，创造内外资公平竞争的营商环境，从而拓宽外资产业投向并提升对外开放程度。",
+            "finding": "引入了“放管服”改革、营商环境、外资产业投向等新概念，Claim Contract中未提及。"
+          },
+          {
+            "draft_excerpt": "成都市关于进一步扩大对外开放积极利用外资的意见",
+            "finding": "引入了具体的成都市文件名称，Claim Contract中未提及。"
+          },
+          {
+            "draft_excerpt": "国发〔2017〕5号",
+            "finding": "引入了具体的国务院文件文号，Claim Contract中未提及。"
+          },
+          {
+            "draft_excerpt": "《关于扩大对外开放积极利用外资若干措施的通知》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2017",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "6586787854e21499227d055bbd6de9e98ac34ad4601101fe67f23c8a0041c240",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-335587c279ed7be8",
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb8f3b245f447e0a",
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e24143541d5ea166",
+            "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57116005995ba66e",
+            "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-335587c279ed7be8",
+              "claim-fb8f3b245f447e0a",
+              "claim-e24143541d5ea166",
+              "claim-57116005995ba66e"
+            ],
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作，并围绕改革创新主题开展培训以提升干部能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-65cba88dcd59ee18",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-335587c279ed7be8",
+              "claim-fb8f3b245f447e0a"
+            ],
+            "draft_excerpt": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-747dcd4fa87229f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e24143541d5ea166",
+              "claim-57116005995ba66e"
+            ],
+            "draft_excerpt": "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1a8d792f290f3c5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。",
+    "description": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作，并围绕改革创新主题开展培训以提升干部能力。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-57faeee776ef",
+      "description": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案",
+        "开展主题宣传、政策解读、项目推介等重点工作",
+        "围绕改革创新的认识和方法等主题，开展成员单位工作人员培训",
+        "提升干部的专业素养与工作能力"
+      ],
+      "evidence_block_ids": [
+        "blk-1571e5425e0d31fac667"
+      ],
+      "page_end": 150,
+      "page_start": 149,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（五）加大宣传推介。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "加大宣传推介。",
+      "type": "分析框架"
+    },
+    "title": "加大宣传推介。"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-43e0c2162eae:bundle-e7f1be8bdb22",
+      "excluded_fragments": [],
+      "ref_id": "ref-43e0c2162eae",
+      "source_blocks": [
+        {
+          "block_id": "blk-1571e5425e0d31fac667",
+          "page_number": 149,
+          "text": "将成都自贸试验区宣传推介工作细化为有重点项目支撑的工作实施方案，开展主题宣传、政策解读、项目推介等重点工作。按照“全域自贸”要求，围绕改革创新的认识和方法等主题，开展成员单位工作人员培训，提升干部的专业素养与工作能力。"
+        },
+        {
+          "block_id": "blk-8384c9687c542cff3f7b",
+          "page_number": 150,
+          "text": "为深入贯彻落实国务院《关于扩大对外开放积极利用外资若干措施的通知》（国发〔2017〕5号）精神，进一步提高我市对外开放水平和质量，继续深化“放管服”改革，创造内外资公平竞争的营商环境，现就扩大对外开放积极利用外资提出如下意见。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-57faeee776ef",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-43e0c2162eae"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

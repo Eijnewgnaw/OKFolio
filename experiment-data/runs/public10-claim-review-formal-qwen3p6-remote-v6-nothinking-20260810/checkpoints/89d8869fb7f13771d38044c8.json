@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[1].evidence_excerpt (ref-ec2da261b48c:bundle-3232393f6376) is missing hard anchors from the claim: ['7000', '110']; claim='总体目标包括全面建成国际门户枢纽，到2022年全市国际（地区）客货航线总数突破120条，航空旅客吞吐量突破7000万人次，航空货邮吞吐量突破110万吨。'; excerpt='——全面建成国际门户枢纽。聚焦“四向拓展”战略通道优势，大幅增强国际通达、洲际中转和国内连通能力，全面贯通“一带一路”六大经济走廊和长江经济带，构建全方位立体口岸，建设以成都为核心的供应链体系，完善法治化国际化便利化的营商环境，实现服务贸易的跨越式发展，“一带一路”重要节点地位更加凸显，全面提升对外交流和国际传播能力，'",
+  "group_id": "topic-5d9e2f8fea5f",
+  "ref_ids": [
+    "ref-ec2da261b48c"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

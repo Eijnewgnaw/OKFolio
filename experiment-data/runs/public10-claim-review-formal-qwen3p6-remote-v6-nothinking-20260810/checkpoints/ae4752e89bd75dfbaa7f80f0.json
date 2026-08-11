@@ -1,0 +1,653 @@
+{
+  "contract": {
+    "canonical_question": "成都建设国际化社区标杆城市的具体实施路径、分类建设模式及配套保障机制是什么？",
+    "claims": [
+      {
+        "claim": "成都加快打造彰显天府文化特色、与产业发展和创新驱动战略相匹配的国际化社区群落。",
+        "claim_id": "claim-222af15726b621c4",
+        "evidence_block_ids": [
+          "blk-9d4d20fd50a0203e001c"
+        ],
+        "evidence_excerpt": "加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-67c2243cf226",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国际化社区重点依托外向度高的国别产业园区、城市商圈和特色街区进行建设。",
+        "claim_id": "claim-2750fa825d3abd16",
+        "evidence_block_ids": [
+          "blk-9d4d20fd50a0203e001c"
+        ],
+        "evidence_excerpt": "重点依托外向度高的国别产业园区、城市商圈和特色街区",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-67c2243cf226",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+        "claim_id": "claim-ebddfb85e65a7a8a",
+        "evidence_block_ids": [
+          "blk-9d4d20fd50a0203e001c"
+        ],
+        "evidence_excerpt": "分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-67c2243cf226",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都同步完善国际化社区公共配套服务体系。",
+        "claim_id": "claim-59e68fbdc1b4b291",
+        "evidence_block_ids": [
+          "blk-9d4d20fd50a0203e001c"
+        ],
+        "evidence_excerpt": "同步完善国际化社区公共配套服务体系",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-67c2243cf226",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+        "claim_id": "claim-27e1f30b56be76e8",
+        "evidence_block_ids": [
+          "blk-9d4d20fd50a0203e001c"
+        ],
+        "evidence_excerpt": "（牵头单位：市委社治委",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-67c2243cf226",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+        "claim_id": "claim-4578e713d21d927f",
+        "evidence_block_ids": [
+          "blk-9d4d20fd50a0203e001c"
+        ],
+        "evidence_excerpt": "责任单位：市公安局、市教育局、市卫计委、市外事侨务办）",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-67c2243cf226",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-222af15726b621c4",
+          "claim-2750fa825d3abd16",
+          "claim-ebddfb85e65a7a8a",
+          "claim-59e68fbdc1b4b291",
+          "claim-27e1f30b56be76e8",
+          "claim-4578e713d21d927f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+        "reason": "该证据直接提供了国际化社区建设的实施路径、分类模式及配套机制，是回答中心问题关于‘如何建设’的核心事实依据。"
+      }
+    ],
+    "group_id": "topic-cbde2a4d899b",
+    "members": [
+      {
+        "contribution": "该证据明确了成都建设国际化社区标杆城市的实施路径，包括依托外向度高的园区、商圈和街区，分类建设四种类型的国际化社区，并完善了公共配套服务体系及责任分工。",
+        "ref_id": "ref-67c2243cf226",
+        "relation": "applies_to"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-222af15726b621c4",
+        "draft_excerpt": "成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2750fa825d3abd16",
+        "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ebddfb85e65a7a8a",
+        "draft_excerpt": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-59e68fbdc1b4b291",
+        "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-27e1f30b56be76e8",
+        "draft_excerpt": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4578e713d21d927f",
+        "draft_excerpt": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-222af15726b621c4",
+          "claim-ebddfb85e65a7a8a"
+        ],
+        "draft_excerpt": "加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落，分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5a8bda7e748edb94",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-222af15726b621c4"
+        ],
+        "draft_excerpt": "成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a0dd8ffd6f7214a5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2750fa825d3abd16",
+          "claim-59e68fbdc1b4b291"
+        ],
+        "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-639f1e5622a059ba",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ebddfb85e65a7a8a"
+        ],
+        "draft_excerpt": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4893d98a2eff6890",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-27e1f30b56be76e8"
+        ],
+        "draft_excerpt": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2aed2b1d52042000",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4578e713d21d927f"
+        ],
+        "draft_excerpt": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ab6f2f192701eddc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-222af15726b621c4",
+          "draft_excerpt": "成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2750fa825d3abd16",
+          "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ebddfb85e65a7a8a",
+          "draft_excerpt": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-59e68fbdc1b4b291",
+          "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-27e1f30b56be76e8",
+          "draft_excerpt": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4578e713d21d927f",
+          "draft_excerpt": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-222af15726b621c4",
+            "claim-ebddfb85e65a7a8a"
+          ],
+          "draft_excerpt": "加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落，分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+          "finding": "supported",
+          "sentence_id": "sentence-5a8bda7e748edb94",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-222af15726b621c4"
+          ],
+          "draft_excerpt": "成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+          "finding": "supported",
+          "sentence_id": "sentence-a0dd8ffd6f7214a5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2750fa825d3abd16",
+            "claim-59e68fbdc1b4b291"
+          ],
+          "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-639f1e5622a059ba",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ebddfb85e65a7a8a"
+          ],
+          "draft_excerpt": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+          "finding": "supported",
+          "sentence_id": "sentence-4893d98a2eff6890",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-27e1f30b56be76e8"
+          ],
+          "draft_excerpt": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+          "finding": "supported",
+          "sentence_id": "sentence-2aed2b1d52042000",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4578e713d21d927f"
+          ],
+          "draft_excerpt": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+          "finding": "supported",
+          "sentence_id": "sentence-ab6f2f192701eddc",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "f6d267ac51731c360548e3bf7d3cc489954bb8370d3ccc908e57ebacd6784521",
+  "coverage_history": [
+    {
+      "draft_sha256": "7fb258bc0dbc93ef2555aee49ed0f48e2dee8f7fb7eca8142bdfdb83e758e971",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ebddfb85e65a7a8a",
+            "draft_excerpt": "成都通过分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区，打造彰显天府文化特色且与产业发展相匹配的国际化社区群落。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-222af15726b621c4",
+            "draft_excerpt": "成都致力于加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2750fa825d3abd16",
+            "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-59e68fbdc1b4b291",
+            "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-27e1f30b56be76e8",
+            "draft_excerpt": "该项工作由市委社治委牵头，市公安局、市教育局、市卫计委、市外事侨务办作为责任单位协同推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4578e713d21d927f",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ebddfb85e65a7a8a",
+              "claim-222af15726b621c4"
+            ],
+            "draft_excerpt": "成都通过分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区，打造彰显天府文化特色且与产业发展相匹配的国际化社区群落。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d010cbde13ca1c92",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-222af15726b621c4"
+            ],
+            "draft_excerpt": "成都致力于加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf99268f9ee95f69",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2750fa825d3abd16",
+              "claim-59e68fbdc1b4b291"
+            ],
+            "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-639f1e5622a059ba",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ebddfb85e65a7a8a"
+            ],
+            "draft_excerpt": "在实施分类建设方面，重点推进产业服务型、文化教育型、商旅生态型、居住生活型国际化社区的发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8afcc3bbf89f768",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27e1f30b56be76e8",
+              "claim-4578e713d21d927f"
+            ],
+            "draft_excerpt": "该项工作由市委社治委牵头，市公安局、市教育局、市卫计委、市外事侨务办作为责任单位协同推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7258083424661dad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区，打造彰显天府文化特色且与产业发展相匹配的国际化社区群落。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "f6d267ac51731c360548e3bf7d3cc489954bb8370d3ccc908e57ebacd6784521",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-222af15726b621c4",
+            "draft_excerpt": "成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2750fa825d3abd16",
+            "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ebddfb85e65a7a8a",
+            "draft_excerpt": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-59e68fbdc1b4b291",
+            "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-27e1f30b56be76e8",
+            "draft_excerpt": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4578e713d21d927f",
+            "draft_excerpt": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-222af15726b621c4",
+              "claim-ebddfb85e65a7a8a"
+            ],
+            "draft_excerpt": "加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落，分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a8bda7e748edb94",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-222af15726b621c4"
+            ],
+            "draft_excerpt": "成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a0dd8ffd6f7214a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2750fa825d3abd16",
+              "claim-59e68fbdc1b4b291"
+            ],
+            "draft_excerpt": "该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-639f1e5622a059ba",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ebddfb85e65a7a8a"
+            ],
+            "draft_excerpt": "成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4893d98a2eff6890",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-27e1f30b56be76e8"
+            ],
+            "draft_excerpt": "建设国际化社区标杆城市的牵头单位为市委社治委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2aed2b1d52042000",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4578e713d21d927f"
+            ],
+            "draft_excerpt": "建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab6f2f192701eddc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落。\n\n该建设重点依托外向度高的国别产业园区、城市商圈和特色街区，同步完善国际化社区公共配套服务体系。\n\n成都分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。\n\n## 实施路径与责任\n\n建设国际化社区标杆城市的牵头单位为市委社治委。\n\n建设国际化社区标杆城市的责任单位包括市公安局、市教育局、市卫计委、市外事侨务办。",
+    "description": "加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落，分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-cbde2a4d899b",
+      "description": "编制国际化社区建设标准体系，构建政策支持和资金激励机制，开展国际化 社区示范创建。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落",
+        "重点依托外向度高的国别产业园区、城市商圈和特色街区",
+        "分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区",
+        "同步完善国际化社区公共配套服务体系",
+        "（牵头单位：市委社治委",
+        "责任单位：市公安局、市教育局、市卫计委、市外事侨务办）"
+      ],
+      "evidence_block_ids": [
+        "blk-9d4d20fd50a0203e001c"
+      ],
+      "page_end": 174,
+      "page_start": 173,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（三十四）建设国际化社区标杆城市"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "建设国际化社区标杆城市",
+      "type": "国际比较"
+    },
+    "title": "建设国际化社区标杆城市"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-67c2243cf226:bundle-72f54fb917fe",
+      "excluded_fragments": [],
+      "ref_id": "ref-67c2243cf226",
+      "source_blocks": [
+        {
+          "block_id": "blk-d3b4cec6af9e78ad66f1",
+          "page_number": 173,
+          "text": "编制国际化社区建设标准体系，构建政策支持和资金激励机制，开展国际化"
+        },
+        {
+          "block_id": "blk-9d4d20fd50a0203e001c",
+          "page_number": 174,
+          "text": "社区示范创建。加快打造彰显天府文化特色、与成都产业发展和创新驱动战略相匹配的国际化社区群落，重点依托外向度高的国别产业园区、城市商圈和特色街区，分类建设产业服务型、文化教育型、商旅生态型、居住生活型国际化社区，同步完善国际化社区公共配套服务体系。（牵头单位：市委社治委；责任单位：市公安局、市教育局、市卫计委、市外事侨务办）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-cbde2a4d899b",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-67c2243cf226"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

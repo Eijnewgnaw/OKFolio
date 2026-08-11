@@ -1,0 +1,872 @@
+{
+  "contract": {
+    "canonical_question": "先进技术成果西部转化中心的建设主体、运营模式及核心转化机制是什么？",
+    "claims": [
+      {
+        "claim": "先进技术成果西部转化中心由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建。",
+        "claim_id": "claim-ae1995a4eb2e3b3e",
+        "evidence_block_ids": [
+          "blk-4b4750d39ec89f706f4e"
+        ],
+        "evidence_excerpt": "先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，国家国防科技工业局、四川省人民政府及成都市人民政府共建",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          203
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心。",
+        "claim_id": "claim-69292afe46c4803b",
+        "evidence_block_ids": [
+          "blk-4b4750d39ec89f706f4e"
+        ],
+        "evidence_excerpt": "是继先进技术成果长三角转化中心之后的第二个国家级区域中心",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          203
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+        "claim_id": "claim-1269116b9216c155",
+        "evidence_block_ids": [
+          "blk-4b4750d39ec89f706f4e"
+        ],
+        "evidence_excerpt": "2023年11月23日，先进技术成果西部转化中心在成都正式揭牌，迈入实体化运营阶段。",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          203
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {
+          "time": [
+            "2023年11月23日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金。",
+        "claim_id": "claim-393a5ea53015e86c",
+        "evidence_block_ids": [
+          "blk-35f995a0cf82e57e1a0c"
+        ],
+        "evidence_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心构建“167”科技创新和科技成果转化体系，依托1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+        "claim_id": "claim-a59680069659b1e8",
+        "evidence_block_ids": [
+          "blk-51d4a5b3af6f201fc58a"
+        ],
+        "evidence_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+        "claim_id": "claim-5196ac3351b1b5b3",
+        "evidence_block_ids": [
+          "blk-51d4a5b3af6f201fc58a"
+        ],
+        "evidence_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+        "claim_id": "claim-bc72a03b61dd01fb",
+        "evidence_block_ids": [
+          "blk-51d4a5b3af6f201fc58a"
+        ],
+        "evidence_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部转化中心创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+        "claim_id": "claim-eaa4ae35e3887017",
+        "evidence_block_ids": [
+          "blk-51d4a5b3af6f201fc58a"
+        ],
+        "evidence_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          204
+        ],
+        "ref_id": "ref-952ae999b02c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-ae1995a4eb2e3b3e",
+          "claim-69292afe46c4803b",
+          "claim-1269116b9216c155",
+          "claim-393a5ea53015e86c",
+          "claim-a59680069659b1e8",
+          "claim-5196ac3351b1b5b3",
+          "claim-bc72a03b61dd01fb",
+          "claim-eaa4ae35e3887017"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+        "reason": "该Bundle包含回答分析框架中subject、core_judgment、evidence、problem、cause、constraint、impact、scope所有关键槽位的原子事实，包括主体、模式、机制及成效。"
+      }
+    ],
+    "group_id": "topic-87b8273186ca",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了西部转化中心的共建主体（国家国防科技工业局、四川省及成都市政府）、运营模式（理事会领导下的主任负责制、市场化运营公司、专项基金）以及核心转化机制（“167”体系、利益分配、供需匹配、全程服务），直接回答了关于其建设与运作框架",
+        "ref_id": "ref-952ae999b02c",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-ae1995a4eb2e3b3e",
+        "draft_excerpt": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+        "finding": "description字段中的句子完整包含了claim-ae1995a4eb2e3b3e关于共建主体的事实描述。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-69292afe46c4803b",
+        "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+        "finding": "body字段中的句子明确表达了该中心是继长三角中心之后的第二个国家级区域中心。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1269116b9216c155",
+        "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+        "finding": "body字段中的句子准确包含了2023年11月23日揭牌及实体化运营的时间与状态。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-393a5ea53015e86c",
+        "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。",
+        "finding": "body字段中的句子完整覆盖了理事会领导下的主任负责制、市场化运营公司及专项基金等运营模式。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a59680069659b1e8",
+        "draft_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+        "finding": "body字段中的句子准确描述了“167”体系及六位一体转化机制。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5196ac3351b1b5b3",
+        "draft_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+        "finding": "body字段中的句子完整表达了利益分配市场化确权机制及具体搭建内容。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bc72a03b61dd01fb",
+        "draft_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+        "finding": "body字段中的句子准确描述了供需匹配精准化对接机制及线上线下平台、大数据匹配内容。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-eaa4ae35e3887017",
+        "draft_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+        "finding": "body字段中的句子完整覆盖了转化服务全程化市场机制及社会资本参与环节。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-ae1995a4eb2e3b3e",
+          "claim-69292afe46c4803b",
+          "claim-1269116b9216c155"
+        ],
+        "draft_excerpt": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+        "finding": "该句综合了主体共建、中心定位及揭牌运营时间，所有事实均有对应claim支持。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-786a3d266510ca88",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ae1995a4eb2e3b3e"
+        ],
+        "draft_excerpt": "先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，由国家国防科技工业局、四川省人民政府及成都市人民政府共建。",
+        "finding": "该句详细描述了共建主体，与claim-ae1995a4eb2e3b3e完全一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-beb3108289156d15",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-69292afe46c4803b",
+          "claim-1269116b9216c155"
+        ],
+        "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+        "finding": "该句涵盖了中心的历史定位（第二个国家级区域中心）及揭牌运营时间，对应claim-69292afe46c4803b和claim-1269116b9216c155。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5b7162e7857deeda",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-393a5ea53015e86c"
+        ],
+        "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。",
+        "finding": "该句完整描述了运营管理模式，与claim-393a5ea53015e86c一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-76f5615ab32efcef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a59680069659b1e8"
+        ],
+        "draft_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+        "finding": "该句详细阐述了“167”体系及六位一体机制，与claim-a59680069659b1e8一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e904cd7a33b43037",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5196ac3351b1b5b3"
+        ],
+        "draft_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+        "finding": "该句描述了利益分配确权机制，与claim-5196ac3351b1b5b3一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b72a0224d492b8fc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bc72a03b61dd01fb"
+        ],
+        "draft_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+        "finding": "该句描述了供需匹配对接机制，与claim-bc72a03b61dd01fb一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-012bff40e11b0bbf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eaa4ae35e3887017"
+        ],
+        "draft_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+        "finding": "该句描述了转化服务全程化机制，与claim-eaa4ae35e3887017一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d62d4ee4282e690",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ae1995a4eb2e3b3e",
+          "draft_excerpt": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+          "finding": "description字段中的句子完整包含了claim-ae1995a4eb2e3b3e关于共建主体的事实描述。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-69292afe46c4803b",
+          "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+          "finding": "body字段中的句子明确表达了该中心是继长三角中心之后的第二个国家级区域中心。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1269116b9216c155",
+          "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+          "finding": "body字段中的句子准确包含了2023年11月23日揭牌及实体化运营的时间与状态。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-393a5ea53015e86c",
+          "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。",
+          "finding": "body字段中的句子完整覆盖了理事会领导下的主任负责制、市场化运营公司及专项基金等运营模式。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a59680069659b1e8",
+          "draft_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+          "finding": "body字段中的句子准确描述了“167”体系及六位一体转化机制。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5196ac3351b1b5b3",
+          "draft_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+          "finding": "body字段中的句子完整表达了利益分配市场化确权机制及具体搭建内容。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bc72a03b61dd01fb",
+          "draft_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+          "finding": "body字段中的句子准确描述了供需匹配精准化对接机制及线上线下平台、大数据匹配内容。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-eaa4ae35e3887017",
+          "draft_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+          "finding": "body字段中的句子完整覆盖了转化服务全程化市场机制及社会资本参与环节。",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-ae1995a4eb2e3b3e",
+            "claim-69292afe46c4803b",
+            "claim-1269116b9216c155"
+          ],
+          "draft_excerpt": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+          "finding": "该句综合了主体共建、中心定位及揭牌运营时间，所有事实均有对应claim支持。",
+          "sentence_id": "sentence-786a3d266510ca88",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ae1995a4eb2e3b3e"
+          ],
+          "draft_excerpt": "先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，由国家国防科技工业局、四川省人民政府及成都市人民政府共建。",
+          "finding": "该句详细描述了共建主体，与claim-ae1995a4eb2e3b3e完全一致。",
+          "sentence_id": "sentence-beb3108289156d15",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-69292afe46c4803b",
+            "claim-1269116b9216c155"
+          ],
+          "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+          "finding": "该句涵盖了中心的历史定位（第二个国家级区域中心）及揭牌运营时间，对应claim-69292afe46c4803b和claim-1269116b9216c155。",
+          "sentence_id": "sentence-5b7162e7857deeda",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-393a5ea53015e86c"
+          ],
+          "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。",
+          "finding": "该句完整描述了运营管理模式，与claim-393a5ea53015e86c一致。",
+          "sentence_id": "sentence-76f5615ab32efcef",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a59680069659b1e8"
+          ],
+          "draft_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+          "finding": "该句详细阐述了“167”体系及六位一体机制，与claim-a59680069659b1e8一致。",
+          "sentence_id": "sentence-e904cd7a33b43037",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5196ac3351b1b5b3"
+          ],
+          "draft_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+          "finding": "该句描述了利益分配确权机制，与claim-5196ac3351b1b5b3一致。",
+          "sentence_id": "sentence-b72a0224d492b8fc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bc72a03b61dd01fb"
+          ],
+          "draft_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+          "finding": "该句描述了供需匹配对接机制，与claim-bc72a03b61dd01fb一致。",
+          "sentence_id": "sentence-012bff40e11b0bbf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eaa4ae35e3887017"
+          ],
+          "draft_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+          "finding": "该句描述了转化服务全程化机制，与claim-eaa4ae35e3887017一致。",
+          "sentence_id": "sentence-5d62d4ee4282e690",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "4332b59bd8c933872fb6225fb7b2da4bcf3d39940591785013d20f20a0e5a4bf",
+  "coverage_history": [
+    {
+      "draft_sha256": "bd11962a2009e342e372d15fab5eb6154637dc326af32c5067fc28d578f29a3c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-69292afe46c4803b",
+            "draft_excerpt": "先进技术成果西部转化中心是继长三角转化中心之后的第二个国家级区域中心，由从事先进技术成果转化的专门服务机构组成。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ae1995a4eb2e3b3e",
+            "draft_excerpt": "该中心由国家国防科技工业局主导，并与四川省人民政府及成都市人民政府共同建设，于2023年11月23日在成都正式揭牌，标志着其迈入实体化运营阶段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1269116b9216c155",
+            "draft_excerpt": "该中心由国家国防科技工业局主导，并与四川省人民政府及成都市人民政府共同建设，于2023年11月23日在成都正式揭牌，标志着其迈入实体化运营阶段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-393a5ea53015e86c",
+            "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司并设立专项转化基金，采用市场化手段实现科技成果的孵化转化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a59680069659b1e8",
+            "draft_excerpt": "其核心是构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1个核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”的成果转化机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5196ac3351b1b5b3",
+            "draft_excerpt": "在机制创新方面，中心建立了创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权流程；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bc72a03b61dd01fb",
+            "draft_excerpt": "同时创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eaa4ae35e3887017",
+            "draft_excerpt": "此外，还创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化及产业化过程。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "由国家国防科技工业局主导，联合四川省及成都市政府共建的国家级区域中心，旨在通过实体化运营和市场化机制打通科技成果转化最后一公里。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a01e4a6c912e1342",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-69292afe46c4803b"
+            ],
+            "draft_excerpt": "先进技术成果西部转化中心是继长三角转化中心之后的第二个国家级区域中心，由从事先进技术成果转化的专门服务机构组成。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-403ae803f230d16f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae1995a4eb2e3b3e",
+              "claim-1269116b9216c155"
+            ],
+            "draft_excerpt": "该中心由国家国防科技工业局主导，并与四川省人民政府及成都市人民政府共同建设，于2023年11月23日在成都正式揭牌，标志着其迈入实体化运营阶段。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7510a4bec6d020e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-393a5ea53015e86c"
+            ],
+            "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司并设立专项转化基金，采用市场化手段实现科技成果的孵化转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6b11855e8253d40",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a59680069659b1e8"
+            ],
+            "draft_excerpt": "其核心是构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1个核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”的成果转化机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c5d2d53e3f58850",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5196ac3351b1b5b3"
+            ],
+            "draft_excerpt": "在机制创新方面，中心建立了创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权流程；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-622abf7c01f8ef0b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bc72a03b61dd01fb"
+            ],
+            "draft_excerpt": "同时创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d665591e8ad6c5c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eaa4ae35e3887017"
+            ],
+            "draft_excerpt": "此外，还创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化及产业化过程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfeb87ce0bef6e54",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "由国家国防科技工业局主导，联合四川省及成都市政府共建的国家级区域中心，旨在通过实体化运营和市场化机制打通科技成果转化最后一公里。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "该中心由国家国防科技工业局主导，并与四川省人民政府及成都市人民政府共同建设，于2023年11月23日在成都正式揭牌，标志着其迈入实体化运营阶段。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "4332b59bd8c933872fb6225fb7b2da4bcf3d39940591785013d20f20a0e5a4bf",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-ae1995a4eb2e3b3e",
+            "draft_excerpt": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+            "finding": "description字段中的句子完整包含了claim-ae1995a4eb2e3b3e关于共建主体的事实描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-69292afe46c4803b",
+            "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+            "finding": "body字段中的句子明确表达了该中心是继长三角中心之后的第二个国家级区域中心。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1269116b9216c155",
+            "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+            "finding": "body字段中的句子准确包含了2023年11月23日揭牌及实体化运营的时间与状态。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-393a5ea53015e86c",
+            "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。",
+            "finding": "body字段中的句子完整覆盖了理事会领导下的主任负责制、市场化运营公司及专项基金等运营模式。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a59680069659b1e8",
+            "draft_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+            "finding": "body字段中的句子准确描述了“167”体系及六位一体转化机制。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5196ac3351b1b5b3",
+            "draft_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+            "finding": "body字段中的句子完整表达了利益分配市场化确权机制及具体搭建内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bc72a03b61dd01fb",
+            "draft_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+            "finding": "body字段中的句子准确描述了供需匹配精准化对接机制及线上线下平台、大数据匹配内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eaa4ae35e3887017",
+            "draft_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+            "finding": "body字段中的句子完整覆盖了转化服务全程化市场机制及社会资本参与环节。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ae1995a4eb2e3b3e",
+              "claim-69292afe46c4803b",
+              "claim-1269116b9216c155"
+            ],
+            "draft_excerpt": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+            "finding": "该句综合了主体共建、中心定位及揭牌运营时间，所有事实均有对应claim支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-786a3d266510ca88",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae1995a4eb2e3b3e"
+            ],
+            "draft_excerpt": "先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，由国家国防科技工业局、四川省人民政府及成都市人民政府共建。",
+            "finding": "该句详细描述了共建主体，与claim-ae1995a4eb2e3b3e完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-beb3108289156d15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-69292afe46c4803b",
+              "claim-1269116b9216c155"
+            ],
+            "draft_excerpt": "该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+            "finding": "该句涵盖了中心的历史定位（第二个国家级区域中心）及揭牌运营时间，对应claim-69292afe46c4803b和claim-1269116b9216c155。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5b7162e7857deeda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-393a5ea53015e86c"
+            ],
+            "draft_excerpt": "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。",
+            "finding": "该句完整描述了运营管理模式，与claim-393a5ea53015e86c一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-76f5615ab32efcef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a59680069659b1e8"
+            ],
+            "draft_excerpt": "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。",
+            "finding": "该句详细阐述了“167”体系及六位一体机制，与claim-a59680069659b1e8一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e904cd7a33b43037",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5196ac3351b1b5b3"
+            ],
+            "draft_excerpt": "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。",
+            "finding": "该句描述了利益分配确权机制，与claim-5196ac3351b1b5b3一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b72a0224d492b8fc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bc72a03b61dd01fb"
+            ],
+            "draft_excerpt": "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+            "finding": "该句描述了供需匹配对接机制，与claim-bc72a03b61dd01fb一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-012bff40e11b0bbf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eaa4ae35e3887017"
+            ],
+            "draft_excerpt": "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+            "finding": "该句描述了转化服务全程化机制，与claim-eaa4ae35e3887017一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d62d4ee4282e690",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，由国家国防科技工业局、四川省人民政府及成都市人民政府共建。该中心是继先进技术成果长三角转化中心之后的第二个国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。\n\n## 运营机制与体系构建\n\n中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化。\n\n- 构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制。\n- 创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制。\n- 创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。\n- 创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。",
+    "description": "由国家国防科技工业局主导，与国家国防科技工业局、四川省人民政府及成都市人民政府共建的国家级区域中心，于2023年11月23日在成都正式揭牌，迈入实体化运营阶段。",
+    "ref": {
+      "asset_hints": [
+        "image-146"
+      ],
+      "concept_id": "topic-87b8273186ca",
+      "description": "《2024年国务院政府工作报告》提出，要充分发挥创新主导作用，以科技创新推动产业创新，推进关键核心技术协同攻关，加强颠覆性技术和前沿技术研究。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，国家国防科技工业局、四川省人民政府及成都市人民政府共建",
+        "是继先进技术成果长三角转化中心之后的第二个国家级区域中心",
+        "2023年11月23日，先进技术成果西部转化中心在成都正式揭牌，迈入实体化运营阶段。",
+        "中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化",
+        "构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制",
+        "创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制",
+        "创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。",
+        "创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。"
+      ],
+      "evidence_block_ids": [
+        "blk-4b4750d39ec89f706f4e",
+        "blk-35f995a0cf82e57e1a0c",
+        "blk-51d4a5b3af6f201fc58a"
+      ],
+      "page_end": 204,
+      "page_start": 203,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "典型案例篇",
+        "十、共建先进技术成果西部转化中心，打通成果转化最后一公里",
+        "（一）基本情况"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "共建先进技术成果西部转化中心，打通成果转化最后一公里",
+      "type": "分析框架"
+    },
+    "title": "共建先进技术成果西部转化中心，打通成果转化最后一公里"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-952ae999b02c:bundle-7be6659683d9",
+      "excluded_fragments": [],
+      "ref_id": "ref-952ae999b02c",
+      "source_blocks": [
+        {
+          "block_id": "blk-4b4750d39ec89f706f4e",
+          "page_number": 203,
+          "text": "《2024年国务院政府工作报告》提出，要充分发挥创新主导作用，以科技创新推动产业创新，推进关键核心技术协同攻关，加强颠覆性技术和前沿技术研究。先进技术成果西部转化中心作为从事先进技术成果转化的专门服务机构，由国家国防科技工业局主导，国家国防科技工业局、四川省人民政府及成都市人民政府共建，是继先进技术成果长三角转化中心之后的第二个国家级区域中心，具有辐射西部地区的重要使命，主要负责先进技术成果转化、孵化、产业化落地等活动。2023年11月23日，先进技术成果西部转化中心在成都正式揭牌，迈入实体化运营阶段。"
+        },
+        {
+          "block_id": "blk-87a9b8291a7e92e89116",
+          "page_number": 203,
+          "text": "原始 PDF 第 203 页图片"
+        },
+        {
+          "block_id": "blk-e9f3f81074c257116d36",
+          "page_number": 203,
+          "text": "图5-9 先进技术成果西部转化中心正式揭牌"
+        },
+        {
+          "block_id": "blk-55abb5a802febfdd5f3f",
+          "page_number": 204,
+          "text": "一是高标准保障发展要素。西部转化中心签约以来，全力推进中心建设，在场地、资金、人才、基金等方面建立了配套支撑体系，在金牛高新园区内实施“腾笼换鸟”，收回2000余亩连片低效工业用地保障成果转化落地；出台“一产一策”，围绕航空航天等领域出台专项政策吸引产业集聚；注重“招才引智”，加强与高校科研机构合作，专门出台人才新政；强化“金融赋能”，为企业提供股权投资、低息贷款等服务。"
+        },
+        {
+          "block_id": "blk-35f995a0cf82e57e1a0c",
+          "page_number": 204,
+          "text": "二是高起点建设国家平台。做优“平台 \\(+\\) 公司 \\(+\\) 基金”顶层设计，中心实行理事会领导下的主任负责制，成立市场化运营公司，设立专项转化基金，采用市场化手段，实现科技成果的孵化转化，充分体现“科技 \\(+\\) 产业 \\(+\\) 金融”的高质量发展模式。做实高精尖项目库建设，重点汇聚军工集团、国防七校及电子科大等川内高校和科研机构，以及省内科技成果资源，形成高质量成果项目库。搭建“军转民、民参军”渠道，推进相关机构入驻，打通成果转化和招商引资通道。"
+        },
+        {
+          "block_id": "blk-51d4a5b3af6f201fc58a",
+          "page_number": 204,
+          "text": "三是高水平创新转化机制。构建“167”科技创新和科技成果转化体系，即依托西部转化中心这1核心平台，构建创新链、产业链、资金链、政策链、人才链和服务链“六位一体”成果转化机制，着力培育科技创新、产业基础、政策支持、人才集聚、资金投入、市场需求和区域协同7大优势。创新利益分配市场化的确权机制，搭建专业评估、脱密解密、作价交易的确权机制，给成果供给方吃一颗“定心丸”。创新供需匹配精准化的对接机制，搭建线上线下两个平台，利用大数据精准匹配供给侧和需求侧。创新转化服务全程化的市场机制，调动各类社会资本，通过领投、引导等方式，全程参与孵化、二次开发、中试熟化、产业化。"
+        },
+        {
+          "block_id": "blk-f9dd0bf73e630245d517",
+          "page_number": 204,
+          "text": "截至2023年11月底，西部转化中心已从上千项成果中精选首批已转化和待转化优质成果500余项，筹备成果供需对接系列活动8场，带动转化落地广东通宇毫米波雷达等高能级项目15个，吸引中核动力院、成飞等20余家军民融合企业参与成果转化①。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-87b8273186ca",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-952ae999b02c"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

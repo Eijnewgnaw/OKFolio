@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-08b59340a92f:bundle-d7fb145fac5b; submitted='2019年，成都郫都区北京推介会上，共吸引中国航天科工集团有限公司、中国信息通信研究院、中关村东升科技园等120多家知名央企、民企参加，聚焦成都电子信息产业功能区（郫都区）建设。'; nearest_verbatim_span='成都郫都区北京推介会上，共吸引中国航天科工集团有限公司、中国信息通信研究院、中关村东升科技园等120多家知名央企、民企参加，聚焦成都电子信息产业功能区（郫都区）建设'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-895f02d30aa5",
+  "ref_ids": [
+    "ref-08b59340a92f",
+    "ref-299243110ba0"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

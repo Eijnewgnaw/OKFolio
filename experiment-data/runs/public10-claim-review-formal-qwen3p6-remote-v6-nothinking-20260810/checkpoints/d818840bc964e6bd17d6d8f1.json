@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[1].claims[2].evidence_excerpt (ref-798512699d22:bundle-7748024e6576) is missing hard anchors from the claim: ['2018年9月']; claim='2018年9月，成华区与雅安市名山区签署协同发展合作协议。'; excerpt='9月，与雅安市名山区签署协同发展合作协议'",
+  "group_id": "topic-b2eaf3f06867",
+  "ref_ids": [
+    "ref-43fe1ed14f73",
+    "ref-798512699d22"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,852 @@
+{
+  "contract": {
+    "canonical_question": "金堂县在区域产业协同与产业链互补方面取得了哪些具体合作成果及经济贡献？",
+    "claims": [
+      {
+        "claim": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作。",
+        "claim_id": "claim-d448f7af5d7e6600",
+        "evidence_block_ids": [
+          "blk-aaaebcfc1dddc21b06b2"
+        ],
+        "evidence_excerpt": "与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作",
+        "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          70
+        ],
+        "ref_id": "ref-56405ccfc6ef",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "金堂县与德阳、资阳等地特色产业合作累计产值超5亿元。",
+        "claim_id": "claim-52a69abce130ae01",
+        "evidence_block_ids": [
+          "blk-aaaebcfc1dddc21b06b2"
+        ],
+        "evidence_excerpt": "累计产值超5亿元",
+        "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          70
+        ],
+        "ref_id": "ref-56405ccfc6ef",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "金堂县与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个。",
+        "claim_id": "claim-e875e6e00ef87887",
+        "evidence_block_ids": [
+          "blk-aaaebcfc1dddc21b06b2"
+        ],
+        "evidence_excerpt": "与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个",
+        "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          70
+        ],
+        "ref_id": "ref-56405ccfc6ef",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "金堂县与陕西、贵州、河北、福建、北京、重庆等16个省市合作项目累计资金1.6亿。",
+        "claim_id": "claim-f82cd296d2a93093",
+        "evidence_block_ids": [
+          "blk-aaaebcfc1dddc21b06b2"
+        ],
+        "evidence_excerpt": "16个省市签订合作项目23个，累计资金1.6亿",
+        "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          70
+        ],
+        "ref_id": "ref-56405ccfc6ef",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "金堂县与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+        "claim_id": "claim-3dfc25e5e674ca66",
+        "evidence_block_ids": [
+          "blk-aaaebcfc1dddc21b06b2"
+        ],
+        "evidence_excerpt": "与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作",
+        "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          70
+        ],
+        "ref_id": "ref-56405ccfc6ef",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-d448f7af5d7e6600",
+          "claim-52a69abce130ae01",
+          "claim-e875e6e00ef87887",
+          "claim-f82cd296d2a93093",
+          "claim-3dfc25e5e674ca66"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+        "reason": "该证据包含回答分析框架中subject、core_judgment、evidence、impact等固定槽位所需的关键事实，如合作对象、产业类型、产值及项目数量。"
+      }
+    ],
+    "group_id": "topic-44609e31a7b4",
+    "members": [
+      {
+        "contribution": "该证据直接提供了金堂县与德阳、资阳等地在特色产业上的合作细节，以及与其他省市的合作项目数量和资金规模，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-56405ccfc6ef",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-d448f7af5d7e6600",
+        "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-52a69abce130ae01",
+        "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e875e6e00ef87887",
+        "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f82cd296d2a93093",
+        "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3dfc25e5e674ca66",
+        "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-d448f7af5d7e6600",
+          "claim-52a69abce130ae01"
+        ],
+        "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业深入合作，累计产值超5亿元；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-796a7cce1febae5e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e875e6e00ef87887",
+          "claim-f82cd296d2a93093"
+        ],
+        "draft_excerpt": "与16个省市签订合作项目23个，累计资金1.6亿；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-961be0f4cc2bd3e3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3dfc25e5e674ca66"
+        ],
+        "draft_excerpt": "与德阳东方电机等企业开展产业协作配套合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e533e1c57770ec66",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d448f7af5d7e6600",
+          "claim-52a69abce130ae01"
+        ],
+        "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ff426a8b2ef4fc6a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e875e6e00ef87887",
+          "claim-f82cd296d2a93093"
+        ],
+        "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8ee274255fb03620",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3dfc25e5e674ca66"
+        ],
+        "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9e5764e2cc719255",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-52a69abce130ae01",
+          "claim-f82cd296d2a93093"
+        ],
+        "draft_excerpt": "产业合作累计产值超5亿元，跨区域项目资金1.6亿",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-632ce276d7abaf39",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-d448f7af5d7e6600",
+          "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-52a69abce130ae01",
+          "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e875e6e00ef87887",
+          "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f82cd296d2a93093",
+          "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3dfc25e5e674ca66",
+          "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-d448f7af5d7e6600",
+            "claim-52a69abce130ae01"
+          ],
+          "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业深入合作，累计产值超5亿元；",
+          "finding": "supported",
+          "sentence_id": "sentence-796a7cce1febae5e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e875e6e00ef87887",
+            "claim-f82cd296d2a93093"
+          ],
+          "draft_excerpt": "与16个省市签订合作项目23个，累计资金1.6亿；",
+          "finding": "supported",
+          "sentence_id": "sentence-961be0f4cc2bd3e3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3dfc25e5e674ca66"
+          ],
+          "draft_excerpt": "与德阳东方电机等企业开展产业协作配套合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-e533e1c57770ec66",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d448f7af5d7e6600",
+            "claim-52a69abce130ae01"
+          ],
+          "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-ff426a8b2ef4fc6a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e875e6e00ef87887",
+            "claim-f82cd296d2a93093"
+          ],
+          "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+          "finding": "supported",
+          "sentence_id": "sentence-8ee274255fb03620",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3dfc25e5e674ca66"
+          ],
+          "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-9e5764e2cc719255",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-52a69abce130ae01",
+            "claim-f82cd296d2a93093"
+          ],
+          "draft_excerpt": "产业合作累计产值超5亿元，跨区域项目资金1.6亿",
+          "finding": "supported",
+          "sentence_id": "sentence-632ce276d7abaf39",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "fdda3f4b0dbe8ac1ff7b387ee7b4199e2a50e95ba37922e157f3db2ad822aaec",
+  "coverage_history": [
+    {
+      "draft_sha256": "8717b93f44056f9d89eb10586eb06b9badbd0d9ed28ef073944e5b22da862d0b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-d448f7af5d7e6600",
+            "draft_excerpt": "金堂县围绕主导产业发展需求，与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52a69abce130ae01",
+            "draft_excerpt": "金堂县围绕主导产业发展需求，与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e875e6e00ef87887",
+            "draft_excerpt": "同时与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金达1.6亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f82cd296d2a93093",
+            "draft_excerpt": "同时与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金达1.6亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3dfc25e5e674ca66",
+            "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等企业开展产业协作配套合作。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "金堂县通过产业协作、公共服务合作及文旅交通建设，与德阳、资阳等周边地区深化区域协同并累计取得显著经济与社会成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7f3dd758371e4941",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-d448f7af5d7e6600",
+              "claim-52a69abce130ae01"
+            ],
+            "draft_excerpt": "金堂县围绕主导产业发展需求，与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8e531925b85e193",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e875e6e00ef87887",
+              "claim-f82cd296d2a93093"
+            ],
+            "draft_excerpt": "同时与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金达1.6亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-71d2f036e0bfa75c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dfc25e5e674ca66"
+            ],
+            "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等企业开展产业协作配套合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e404da804daab8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年以来，金堂县通过推进产业协作发展、加快公共服务事业交流合作、促进文旅交流合作及推进交通基础设施合作建设，在区域合作上取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-96b0cf8f803f0773",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在就业服务方面，金堂县与青白江区、新都区签署大港区人力资源协同发展战略合作协议，累计召开三方联席会6次，共同举办人才招聘会、高端人才研修班及技能大赛等活动10场。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45de651075161c44",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在卫生医疗方面，与德阳、绵阳、乐山、眉山、资阳、遂宁、雅安签订《深入推进成都平原经济区八市医疗保障事业协同发展战略协议》，并建立了联席会议制度和专项工作制度。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-051e5c60aeb18137",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "文旅方面，与绵阳市中江县签订旅游战略合作框架协议书并成立两地旅游区域合作议事协调机构；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09ea27419867852d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与四川聚峰谷农业科技开发有限公司、四川天府橄榄旅游开发有限公司签订总投资50亿元的“龙泉山北部田园综合体项目”。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbe89d4b67100f4a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通方面，与青白江区、新都区共同开展大港区综合交通规划编制并开通金堂至新都地铁3号线公交专线；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df31be1cfbf7bb73",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与简阳市推进成洛简快速、淮简快速等多条道路项目；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2584a52c3f99e1c6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与德阳市中江县、绵阳市三台县就成都至三台城际铁路方案达成共识，并推进德金快速项目实施及淮州新城与凯州新城交通联系对接。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-768c8e551e639c83",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-52a69abce130ae01",
+              "claim-f82cd296d2a93093"
+            ],
+            "draft_excerpt": "产业合作累计产值超5亿元，跨区域项目资金1.6亿",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70495df97f9cab55",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "大港区人力资源协同及八市医保战略协议签署",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a38ff04706da492d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "总投资50亿元龙泉山北部田园综合体项目落地",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d0e075ef7b96520",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "金堂县通过产业协作、公共服务合作及文旅交通建设，与德阳、资阳等周边地区深化区域协同并累计取得显著经济与社会成效。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年以来，金堂县通过推进产业协作发展、加快公共服务事业交流合作、促进文旅交流合作及推进交通基础设施合作建设，在区域合作上取得一定成效。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "在就业服务方面，金堂县与青白江区、新都区签署大港区人力资源协同发展战略合作协议，累计召开三方联席会6次，共同举办人才招聘会、高端人才研修班及技能大赛等活动10场。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "在卫生医疗方面，与德阳、绵阳、乐山、眉山、资阳、遂宁、雅安签订《深入推进成都平原经济区八市医疗保障事业协同发展战略协议》，并建立了联席会议制度和专项工作制度。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "文旅方面，与绵阳市中江县签订旅游战略合作框架协议书并成立两地旅游区域合作议事协调机构；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "与四川聚峰谷农业科技开发有限公司、四川天府橄榄旅游开发有限公司签订总投资50亿元的“龙泉山北部田园综合体项目”。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "交通方面，与青白江区、新都区共同开展大港区综合交通规划编制并开通金堂至新都地铁3号线公交专线；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "与简阳市推进成洛简快速、淮简快速等多条道路项目；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "与德阳市中江县、绵阳市三台县就成都至三台城际铁路方案达成共识，并推进德金快速项目实施及淮州新城与凯州新城交通联系对接。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "大港区人力资源协同及八市医保战略协议签署",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "总投资50亿元龙泉山北部田园综合体项目落地",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2019年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "10",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《深入推进成都平原经济区八市医疗保障事业协同发展战略协议》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "50",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "fdda3f4b0dbe8ac1ff7b387ee7b4199e2a50e95ba37922e157f3db2ad822aaec",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-d448f7af5d7e6600",
+            "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-52a69abce130ae01",
+            "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e875e6e00ef87887",
+            "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f82cd296d2a93093",
+            "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3dfc25e5e674ca66",
+            "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-d448f7af5d7e6600",
+              "claim-52a69abce130ae01"
+            ],
+            "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业深入合作，累计产值超5亿元；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-796a7cce1febae5e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e875e6e00ef87887",
+              "claim-f82cd296d2a93093"
+            ],
+            "draft_excerpt": "与16个省市签订合作项目23个，累计资金1.6亿；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-961be0f4cc2bd3e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dfc25e5e674ca66"
+            ],
+            "draft_excerpt": "与德阳东方电机等企业开展产业协作配套合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e533e1c57770ec66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d448f7af5d7e6600",
+              "claim-52a69abce130ae01"
+            ],
+            "draft_excerpt": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff426a8b2ef4fc6a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e875e6e00ef87887",
+              "claim-f82cd296d2a93093"
+            ],
+            "draft_excerpt": "同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ee274255fb03620",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3dfc25e5e674ca66"
+            ],
+            "draft_excerpt": "此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e5764e2cc719255",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52a69abce130ae01",
+              "claim-f82cd296d2a93093"
+            ],
+            "draft_excerpt": "产业合作累计产值超5亿元，跨区域项目资金1.6亿",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-632ce276d7abaf39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元。同时，与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿。此外，还与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。\n\n- 产业合作累计产值超5亿元，跨区域项目资金1.6亿",
+    "description": "金堂县与德阳、资阳等地就食用菌、中药材、柑桔等特色产业深入合作，累计产值超5亿元；与16个省市签订合作项目23个，累计资金1.6亿；与德阳东方电机等企业开展产业协作配套合作。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-44609e31a7b4",
+      "description": "与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元；",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作",
+        "累计产值超5亿元",
+        "与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个",
+        "16个省市签订合作项目23个，累计资金1.6亿",
+        "与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作"
+      ],
+      "evidence_block_ids": [
+        "blk-aaaebcfc1dddc21b06b2"
+      ],
+      "page_end": 76,
+      "page_start": 70,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "第二十节 金堂县",
+      "type": "分析框架"
+    },
+    "title": "第二十节 金堂县"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-56405ccfc6ef:bundle-e88dd9412ba2",
+      "excluded_fragments": [],
+      "ref_id": "ref-56405ccfc6ef",
+      "source_blocks": [
+        {
+          "block_id": "blk-aaaebcfc1dddc21b06b2",
+          "page_number": 70,
+          "text": "与德阳、资阳等地就食用菌、中药材、柑桔等特色产业在产业协同、产业链互补等方面深入合作，累计产值超5亿元；与陕西、贵州、河北、福建、北京、重庆等16个省市签订合作项目23个，累计资金1.6亿；与德阳东方电机、河北吉城新材料有限公司、西安飞机有限公司等开展产业协作配套合作。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-160dd1c30e48fe660fd7",
+          "page_number": 70,
+          "text": "在就业服务事业上，与青白江区、新都区三地签署大港区人力资源协同发展战略合作协议，累计召开三方联席会6次，共同举办人才招聘会、高端人才研修班、技能大赛等各类活动10场。在卫生医疗事业上，与德阳、绵阳、乐山、眉山、资阳、遂宁、雅安签订《深入推进成都平原经济区八市医疗保障事业协同发展战略协议》，并建立了联席会议制度和专项工作制度。"
+        },
+        {
+          "block_id": "blk-b117c6a696710c5715a7",
+          "page_number": 70,
+          "text": "与绵阳市中江县签订旅游战略合作框架协议书，成立了两地旅游区域合作议事协调机构；与四川聚峰谷农业科技开发有限公司、四川天府橄榄旅游开发有限公司签订了“龙泉山北部田园综合体项目”，总投资金额50亿元。"
+        },
+        {
+          "block_id": "blk-7357f850cdd73c5979cc",
+          "page_number": 70,
+          "text": "2019年以来，金堂县围绕主导产业发展需求，推进产业协作发展、加快公共服务事业交流合作、促进文旅交流合作、推进交通基础设施合作建设，在区域合作上取得一定成效。"
+        },
+        {
+          "block_id": "blk-6aa52e6a94994379bd4b",
+          "page_number": 70,
+          "text": "与青白江区、新都区共同开展大港区综合交通规划编制工作，并开通了金堂县至新都地铁3号线公交专线；与简阳市推进成洛简快速、淮简快速、禾土快速、龙泉山城市森林公园环线道路等项目；与德阳市中江县、绵阳市三台县就成都至三台城际铁路线路方案等进行会商并达成共识；与德阳市共同推进德金快速项目实施；与中江县对接淮州新城和凯州新城的交通联系。"
+        },
+        {
+          "block_id": "blk-c07202bdc266e8c79df3",
+          "page_number": 70,
+          "text": "接下来，金堂县应继续加强与高等院校和科研院所合作，促进高新技术项目落地；会同周边区市县就优势产业种植、精深加工、乡村旅游等领域系统规划协作，打造优势互补的现代农业生态圈；积极推进“大港区”人力资源协同及医保合作范围，助力成德眉资同城化发展。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-44609e31a7b4",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-56405ccfc6ef"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

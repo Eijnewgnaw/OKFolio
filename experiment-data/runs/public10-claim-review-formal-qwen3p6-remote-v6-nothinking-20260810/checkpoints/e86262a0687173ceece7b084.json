@@ -1,0 +1,2732 @@
+{
+  "contract": {
+    "canonical_question": "成渝地区双城经济圈航空与区域协同发展的战略定位、基础设施现状、核心矛盾及一体化推进机制是什么？",
+    "claims": [
+      {
+        "claim": "成渝地区双城经济圈已建成10座机场，包括重庆江北、成都双流、成都天府3座枢纽机场和7座支线机场。",
+        "claim_id": "claim-1f99cc9315c0ae58",
+        "evidence_block_ids": [
+          "blk-c2cbad6bc0ed94fb1fa0"
+        ],
+        "evidence_excerpt": "成渝地区双城经济圈目前已建成10座机场。其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          123
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成渝机场群旅客吞吐量8383.0万人，占全国9.8%；货邮吞吐量105.3万吨，占全国6.6%。",
+        "claim_id": "claim-0cc2906204fb865f",
+        "evidence_block_ids": [
+          "blk-8b9f41e7bd3223b1e6ff"
+        ],
+        "evidence_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。成渝机场群总计完成旅客吞吐量8383.0万人，占全国 \\(9.8\\%\\) ，货邮吞吐量105.3万吨，占全国 \\(6.6\\%",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          124
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年5月20日实施西部地区最大空域调整，沪蓉大通道贯通，成都进近管制区面积扩大至4.26万平方公里。",
+        "claim_id": "claim-549fe37c870d2c29",
+        "evidence_block_ids": [
+          "blk-3da61095723ec95bcd94"
+        ],
+        "evidence_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          126
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+        "claim_id": "claim-b140a9eee0e8520c",
+        "evidence_block_ids": [
+          "blk-1cd004e5ef2923b2da14"
+        ],
+        "evidence_excerpt": "内部多式联运体系不畅。首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          130
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+        "claim_id": "claim-38827e4fad7decc3",
+        "evidence_block_ids": [
+          "blk-e7d9451f7e229ec0aaa5"
+        ],
+        "evidence_excerpt": "机场群内部发育差距过大。双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。机场群的中小机场航线网络较为薄弱",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          131
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+        "claim_id": "claim-2a3215c21411e0bb",
+        "evidence_block_ids": [
+          "blk-f430f59f84cca3ecba37"
+        ],
+        "evidence_excerpt": "龙头实力依旧不足。成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          131
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+        "claim_id": "claim-887e6dc5f2a7f9bf",
+        "evidence_block_ids": [
+          "blk-2733a15203c691733b01"
+        ],
+        "evidence_excerpt": "外部竞争压力依旧巨大。随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          132
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝两地机场在业务、运营和管理上缺乏互动与协调机制，双流和江北两大机场发展轨迹同质化，在客货资源上相互争抢。",
+        "claim_id": "claim-deae1ae88d0b40d3",
+        "evidence_block_ids": [
+          "blk-439c50f1a59100503723"
+        ],
+        "evidence_excerpt": "核心机场间竞争激烈，缺乏协调机制。双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          132
+        ],
+        "ref_id": "ref-6a4e141f7aff",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区双城经济圈建设坚持“川渝一盘棋”思想，加强区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+        "claim_id": "claim-a9ec5d88d1464dd1",
+        "evidence_block_ids": [
+          "blk-86067172e7e6d8298111"
+        ],
+        "evidence_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地",
+        "evidence_id": "ref-cbdb3bef7e7c:bundle-a06f3286a7bb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          108
+        ],
+        "ref_id": "ref-cbdb3bef7e7c",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与重庆携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+        "claim_id": "claim-14590d7c6597894d",
+        "evidence_block_ids": [
+          "blk-86067172e7e6d8298111"
+        ],
+        "evidence_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项",
+        "evidence_id": "ref-cbdb3bef7e7c:bundle-a06f3286a7bb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          108
+        ],
+        "ref_id": "ref-cbdb3bef7e7c",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1f99cc9315c0ae58",
+          "claim-0cc2906204fb865f",
+          "claim-549fe37c870d2c29",
+          "claim-b140a9eee0e8520c",
+          "claim-38827e4fad7decc3",
+          "claim-2a3215c21411e0bb",
+          "claim-887e6dc5f2a7f9bf",
+          "claim-deae1ae88d0b40d3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+        "reason": "包含机场布局、吞吐量、空域调整、产业同质化、竞争压力及一体化建议等核心事实，直接回答分析框架的固定槽位。"
+      },
+      {
+        "claim_ids": [
+          "claim-a9ec5d88d1464dd1",
+          "claim-14590d7c6597894d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-cbdb3bef7e7c:bundle-a06f3286a7bb",
+        "reason": "提供“川渝一盘棋”、“双核联建”及“三级工作机制”等宏观战略背景，界定协同发展的适用场景与机制。"
+      }
+    ],
+    "group_id": "topic-270c01b744c0",
+    "members": [
+      {
+        "contribution": "提供成渝机场群基础设施、吞吐量数据、空域调整、产业同质化及竞争等具体事实，支撑对现状与问题的分析。",
+        "ref_id": "ref-6a4e141f7aff",
+        "relation": "supports"
+      },
+      {
+        "contribution": "明确“川渝一盘棋”、“双核联建”及“三级工作机制”等宏观协同战略背景与实施原则。",
+        "ref_id": "ref-cbdb3bef7e7c",
+        "relation": "applies_to"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-a9ec5d88d1464dd1",
+        "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-14590d7c6597894d",
+        "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1f99cc9315c0ae58",
+        "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0cc2906204fb865f",
+        "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+        "finding": "contradicted",
+        "status": "contradicted"
+      },
+      {
+        "claim_id": "claim-549fe37c870d2c29",
+        "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b140a9eee0e8520c",
+        "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-38827e4fad7decc3",
+        "draft_excerpt": "机场群内部发育差距过大。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2a3215c21411e0bb",
+        "draft_excerpt": "龙头实力依旧不足。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-887e6dc5f2a7f9bf",
+        "draft_excerpt": "外部竞争压力依旧巨大。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-deae1ae88d0b40d3",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ac173aef4fc44ee",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-a9ec5d88d1464dd1"
+        ],
+        "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-29028172be353350",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-14590d7c6597894d"
+        ],
+        "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5a9f83c8758a9285",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f99cc9315c0ae58"
+        ],
+        "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-495bf2ccfc40b007",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f99cc9315c0ae58"
+        ],
+        "draft_excerpt": "其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-654172273619161f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0cc2906204fb865f"
+        ],
+        "draft_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-28b89070cdcc6be8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0cc2906204fb865f"
+        ],
+        "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fa87ed119fe6e656",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0cc2906204fb865f"
+        ],
+        "draft_excerpt": "成渝机场群总计完成旅客吞吐量8383.0万人，占全国9.8%，货邮吞吐量105.3万吨，占全国6.6%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4381b57225b9cdae",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-549fe37c870d2c29"
+        ],
+        "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7c30ee3b7fbc1fa4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-549fe37c870d2c29"
+        ],
+        "draft_excerpt": "成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-56c75249f9e7a453",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b140a9eee0e8520c"
+        ],
+        "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8cb7550b42b6c807",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b140a9eee0e8520c"
+        ],
+        "draft_excerpt": "内部多式联运体系不畅。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-84d4a557f861a19a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b140a9eee0e8520c"
+        ],
+        "draft_excerpt": "首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-be41f494af1e62e1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-38827e4fad7decc3"
+        ],
+        "draft_excerpt": "机场群内部发育差距过大。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9e5460fa7a9e3545",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-38827e4fad7decc3"
+        ],
+        "draft_excerpt": "双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c74baa78db3fcf3e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-38827e4fad7decc3"
+        ],
+        "draft_excerpt": "两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d381f36f664d8271",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-38827e4fad7decc3"
+        ],
+        "draft_excerpt": "机场群的中小机场航线网络较为薄弱。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1d322c72c06bb616",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2a3215c21411e0bb"
+        ],
+        "draft_excerpt": "龙头实力依旧不足。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a25f348b24e9f7fc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2a3215c21411e0bb"
+        ],
+        "draft_excerpt": "成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aaf2c3d2028c1820",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-887e6dc5f2a7f9bf"
+        ],
+        "draft_excerpt": "外部竞争压力依旧巨大。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e413abf03353a230",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-887e6dc5f2a7f9bf"
+        ],
+        "draft_excerpt": "随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ae91f4bdf41a8a59",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-887e6dc5f2a7f9bf"
+        ],
+        "draft_excerpt": "同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f2b6d78cdfa6c16d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-deae1ae88d0b40d3"
+        ],
+        "draft_excerpt": "核心机场间竞争激烈，缺乏协调机制。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-567231b9645b5d22",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-deae1ae88d0b40d3"
+        ],
+        "draft_excerpt": "双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-630dfb8b5d67b5cc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-a9ec5d88d1464dd1",
+          "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-14590d7c6597894d",
+          "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1f99cc9315c0ae58",
+          "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0cc2906204fb865f",
+          "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+          "finding": "contradicted",
+          "status": "contradicted"
+        },
+        {
+          "claim_id": "claim-549fe37c870d2c29",
+          "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b140a9eee0e8520c",
+          "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-1ac173aef4fc44ee",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-a9ec5d88d1464dd1"
+          ],
+          "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+          "finding": "supported",
+          "sentence_id": "sentence-29028172be353350",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-14590d7c6597894d"
+          ],
+          "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+          "finding": "supported",
+          "sentence_id": "sentence-5a9f83c8758a9285",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f99cc9315c0ae58"
+          ],
+          "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+          "finding": "supported",
+          "sentence_id": "sentence-495bf2ccfc40b007",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f99cc9315c0ae58"
+          ],
+          "draft_excerpt": "其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+          "finding": "supported",
+          "sentence_id": "sentence-654172273619161f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0cc2906204fb865f"
+          ],
+          "draft_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。",
+          "finding": "supported",
+          "sentence_id": "sentence-28b89070cdcc6be8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0cc2906204fb865f"
+          ],
+          "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+          "finding": "supported",
+          "sentence_id": "sentence-fa87ed119fe6e656",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0cc2906204fb865f"
+          ],
+          "draft_excerpt": "成渝机场群总计完成旅客吞吐量8383.0万人，占全国9.8%，货邮吞吐量105.3万吨，占全国6.6%。",
+          "finding": "supported",
+          "sentence_id": "sentence-4381b57225b9cdae",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-549fe37c870d2c29"
+          ],
+          "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+          "finding": "supported",
+          "sentence_id": "sentence-7c30ee3b7fbc1fa4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-549fe37c870d2c29"
+          ],
+          "draft_excerpt": "成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍。",
+          "finding": "supported",
+          "sentence_id": "sentence-56c75249f9e7a453",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b140a9eee0e8520c"
+          ],
+          "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+          "finding": "supported",
+          "sentence_id": "sentence-8cb7550b42b6c807",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b140a9eee0e8520c"
+          ],
+          "draft_excerpt": "内部多式联运体系不畅。",
+          "finding": "supported",
+          "sentence_id": "sentence-84d4a557f861a19a",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-b140a9eee0e8520c",
+          "draft_excerpt": "首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-38827e4fad7decc3",
+          "draft_excerpt": "机场群内部发育差距过大。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2a3215c21411e0bb",
+          "draft_excerpt": "龙头实力依旧不足。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-887e6dc5f2a7f9bf",
+          "draft_excerpt": "外部竞争压力依旧巨大。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-b140a9eee0e8520c"
+          ],
+          "draft_excerpt": "首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低。",
+          "finding": "supported",
+          "sentence_id": "sentence-be41f494af1e62e1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-38827e4fad7decc3"
+          ],
+          "draft_excerpt": "机场群内部发育差距过大。",
+          "finding": "supported",
+          "sentence_id": "sentence-9e5460fa7a9e3545",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-38827e4fad7decc3"
+          ],
+          "draft_excerpt": "双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-c74baa78db3fcf3e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-38827e4fad7decc3"
+          ],
+          "draft_excerpt": "两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。",
+          "finding": "supported",
+          "sentence_id": "sentence-d381f36f664d8271",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-38827e4fad7decc3"
+          ],
+          "draft_excerpt": "机场群的中小机场航线网络较为薄弱。",
+          "finding": "supported",
+          "sentence_id": "sentence-1d322c72c06bb616",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2a3215c21411e0bb"
+          ],
+          "draft_excerpt": "龙头实力依旧不足。",
+          "finding": "supported",
+          "sentence_id": "sentence-a25f348b24e9f7fc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2a3215c21411e0bb"
+          ],
+          "draft_excerpt": "成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。",
+          "finding": "supported",
+          "sentence_id": "sentence-aaf2c3d2028c1820",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-887e6dc5f2a7f9bf"
+          ],
+          "draft_excerpt": "外部竞争压力依旧巨大。",
+          "finding": "supported",
+          "sentence_id": "sentence-e413abf03353a230",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-887e6dc5f2a7f9bf"
+          ],
+          "draft_excerpt": "随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。",
+          "finding": "supported",
+          "sentence_id": "sentence-ae91f4bdf41a8a59",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-887e6dc5f2a7f9bf"
+          ],
+          "draft_excerpt": "同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。",
+          "finding": "supported",
+          "sentence_id": "sentence-f2b6d78cdfa6c16d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-deae1ae88d0b40d3"
+          ],
+          "draft_excerpt": "核心机场间竞争激烈，缺乏协调机制。",
+          "finding": "supported",
+          "sentence_id": "sentence-567231b9645b5d22",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-deae1ae88d0b40d3"
+          ],
+          "draft_excerpt": "双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+          "finding": "supported",
+          "sentence_id": "sentence-630dfb8b5d67b5cc",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "840f227d09a91da5c5ba76e3427b33ea598fc625a84522c3d34b3949188932f4",
+  "coverage_history": [
+    {
+      "draft_sha256": "68eea1a5954a6c9fca4c453a8630c78cefba6774b39c52f3bd5f5e68c51d4d11",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a9ec5d88d1464dd1",
+            "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-14590d7c6597894d",
+            "draft_excerpt": "成都积极贯彻落实习近平总书记对成渝地区双城经济圈建设的重要指示精神，始终以“一盘棋”“一体化”思想高度自觉协同推动国家战略落地落实，全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项，高质高效推进“五个互联互通”“五个共建”，双核“引擎”动能持续释放，成渝地区双城经济圈建设在全国大局中的地位作用进一步突出，“规划蓝图”加速变为“现实画卷”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f99cc9315c0ae58",
+            "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0cc2906204fb865f",
+            "draft_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-549fe37c870d2c29",
+            "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-deae1ae88d0b40d3",
+            "draft_excerpt": "成渝地区间产业同质化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b140a9eee0e8520c",
+            "draft_excerpt": "成渝机场群应进一步完善机场群一体化综合交通模式，确保航空运输以及机场间的地面交通运输的有效衔接。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2a3215c21411e0bb",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-38827e4fad7decc3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-887e6dc5f2a7f9bf",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈机场群正在运营的机场有10个，其中双流、江北、双流机场飞行区指标为4F，另外还包括2个机场飞行区指标为4D，5个机场飞行区指标为4C。",
+            "finding": "scope_violation"
+          }
+        ],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a9ec5d88d1464dd1",
+              "claim-14590d7c6597894d"
+            ],
+            "draft_excerpt": "以重庆、成都为中心，川渝两地通过“一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00ae031a373ecc08",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝地区双城经济圈以重庆、成都为中心，是西部地区经济发展的双引擎，长江经济带的重要战略支撑，也是国家推进新型城镇化的重要示范区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a4e407a93fab068e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "培育发展成渝地区双城经济圈，利用其沟通西南西北、连接国内国外的独特优势，推动“一带一路”和长江经济带战略契合互动，有利于加快中西部地区发展、拓展全国经济增长新空间，有利于保障国土安全、优化国土布局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d21a9ec7a43a44a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9ec5d88d1464dd1"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-68c04aca1ec78ad3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-14590d7c6597894d"
+            ],
+            "draft_excerpt": "成都积极贯彻落实习近平总书记对成渝地区双城经济圈建设的重要指示精神，始终以“一盘棋”“一体化”思想高度自觉协同推动国家战略落地落实，全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项，高质高效推进“五个互联互通”“五个共建”，双核“引擎”动能持续释放，成渝地区双城经济圈建设在全国大局中的地位作用进一步突出，“规划蓝图”加速变为“现实画卷”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef7d198493e4eff5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cc89c039e9fcc0a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-62b77b250fd18bcc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝地区双城经济圈机场群正在运营的机场有10个，其中双流、江北、双流机场飞行区指标为4F，另外还包括2个机场飞行区指标为4D，5个机场飞行区指标为4C。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fdc5226725dfe97d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "机场群现有跑道15条、航站楼面积共计204.4万平方米、机位745个。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dccdaa18f2f8976b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝机场群共有成都双流、重庆江北、成都天府、万州五桥等4个国际口岸机场。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e94242edfdf64103",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "截至2020年6月，成都双流机场已开通航线363条，其中国际（地区）128条，国内217条，经停国内转国际18条。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cc22a4296c2029ab",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝机场群中除绵阳南郊机场航线数截止2019年达55条以外，其他中小机场开通的航线数量较少，均在30条以下。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56cdf22ae1b5e566",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都双流和重庆江北机场对国内省会及主要城市基本全部覆盖，对广州、北京首都、深圳、昆明、上海浦东、南京、杭州、上海虹桥、郑州和西安日均航班超过10班，形成空中快线。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aadc024e4b49241a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf96a6f5ed4db35a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3089c239d88c7f46",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "成渝机场群总计完成旅客吞吐量8383.0万人，占全国9.8%，货邮吞吐量105.3万吨，占全国6.6%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8da4f4d4682f847",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "重庆江北机场旅客吞吐量3493.8万人，排名全国第4位，超过了北上杭的北京首都机场、北京大兴机场、上海虹桥机场、上海浦东机场、杭州萧山机场，排名较2019年（全国第9位）上升了5位。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dcda7ac89b9dd054",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都双流机场旅客吞吐量4074.2万人，排名全国第2位，超过了北上深杭渝的北京首都机场、北京大兴机场、上海虹桥机场、上海浦东机场、深圳宝安机场、杭州萧山机场、重庆江北机场，排名较2019年（全国第4位）上升了2位。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a93becd1d2e745cb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-549fe37c870d2c29"
+            ],
+            "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34211472b2fa3a2a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-549fe37c870d2c29"
+            ],
+            "draft_excerpt": "成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍，进离港点由8个增加到16个，进近管制区内飞行程序将达到226条，形成了“八进八出”运行模式，服务于区内6条跑道（双流2条、天府3条、绵阳1条）运行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21594add5f91ecb1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此次空域调整共计调整航路航线83条、新辟等待航线18条，调整了146条进离场飞行方法，共有27个民航机场的飞行程序进行了调整，调整班机航线城市对超2000条。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6ef5e25952fbf77",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "根据《全国民用运输机场布局》，到2025年，四川和重庆将建成27个民用机场，重庆都市区和成都将构建“一市双场”运行格局，保障能力进一步增强。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e71386e4dd63eb5d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "根据规划，预计到2025年，成都天府和双流国际机场将达到年1亿旅客吞吐量和70万起降架次，成都进近管制区将成为全国最繁忙的进近管制区之一，并力争2035年实现成都国际航空枢纽1.6亿人次和重庆国际航空枢纽1.2亿人次的吞吐量目标。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dc0114716f2cd590",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝地区双城经济圈航空发展适应国家综合立体交通规划新要求。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2315f1936b79824c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "《国家综合立体交通网规划纲要》指出“建设综合交通枢纽集群、枢纽城市及枢纽港站‘三位一体’的国家综合交通枢纽系统”。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a24ee5b66d2b082b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "渝蓉两城将发挥以下功能：一是建立以成都、重庆为中心的成渝地区双城经济圈枢纽集群；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c14a79fc20a4d95",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "二是重庆、成都均被定位为国际性综合交通枢纽城市；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41be8277093e9800",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "三是重庆、成都均被定位为国际铁路枢纽和场站、国际航空（货运）枢纽。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44cc4e4423cc6d73",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "《国民经济和社会发展第十四个五年规划和2035年远景目标纲要》里，提出积极融入“一带一路”建设，强化开放大通道建设，构建内陆多层次开放平台；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a0b544645027c459",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "推进成渝地区双城经济圈建设，打造具有全国影响力的重要经济中心、科技创新中心、改革开放新高地、高品质生活宜居地。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aba48263440b866f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝处于我国内陆地区，处于长江经济带上，并且是距离“一带一路”国家最近的中心地区，在国家“建设双城经济圈”重大利好下，内部完成国家从东部到中部再到西部的经济传导，外部将中国与欧洲、中亚和东南亚等地区进行链接。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9523659a8552c41",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "《关于新时代推进西部大开发形成新格局的指导意见》明确指出，鼓励重庆、成都、西安等加快建设国际门户枢纽城市，加强航空口岸和枢纽建设，扩大枢纽机场航权，积极发展通用航空。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4ed2e815f38f0774",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，成渝两省市GDP合计达到7.4万亿元，外贸进出口总量合计近1.5万亿元。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b732682c113f44b0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，重庆、四川、成都的GDP增速分别为3.9%、3.8%、4.1%，均快于全国2.3%的增速。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e5851ce83bf67dd",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "成渝地区间产业同质化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1737f9db410cfe1c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "成都构建了电子信息、装备制造、医药健康、会展经济、现代物流为主导的产业体系，重庆也正在加快推动汽车、摩托车、生物医药、消费品传统产业的迭代升级，壮大“芯屏器核网”全产业链，但两地在电子信息、装备制造、医药健康以及汽车制造领域存在产业趋同的问题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-80a7dcc895396845",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "核心机场间竞争激烈，缺乏协调机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34fd2c5d73d3800d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a52a39d8583f3034",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "成渝机场群应进一步完善机场群一体化综合交通模式，确保航空运输以及机场间的地面交通运输的有效衔接。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f4b78c44ffbc264a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建议规划成渝三大机场之间的联系轨道，提升三大机场之间的联动服务功能，并进一步加强对成渝城乃至西南地区的辐射能力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-126e2f569ac22146",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "以机场为中心，科学布局汇集直达机场以及机场间的高铁、公路、地铁等服务功能，促进成自宜高铁（在建）、成南达万高铁（规划中）、成渝中线（规划中）、渝万城际、达渝城际（规划中）等高铁线路或城际铁路在成渝机场群核心机场或周边1km范围内设站。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b86a6ed047d471ce",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建议民航局充分发挥行业引领作用，加强顶层设计，高质量、高标准编制成渝世界级机场群协同发展意见或成渝机场群发展规划纲要，以“细分市场、错位发展”为原则，逐步形成以成都天府国际机场、重庆江北国际机场为核心，成都双流机场等成渝地区其他机场多点联动发展的“双核多节点”机场网络格局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7980d0f47397e8ea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "由四川省机场集团和重庆市机场管理集团公司建立机场群协同发展机制，以及航线网络、服务质量等方面的协商机制，打破行政壁垒，创新管理体制与机制。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c340f25ea903575c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成渝地区双城经济圈以重庆、成都为中心，是西部地区经济发展的双引擎，长江经济带的重要战略支撑，也是国家推进新型城镇化的重要示范区。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "培育发展成渝地区双城经济圈，利用其沟通西南西北、连接国内国外的独特优势，推动“一带一路”和长江经济带战略契合互动，有利于加快中西部地区发展、拓展全国经济增长新空间，有利于保障国土安全、优化国土布局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝地区双城经济圈机场群正在运营的机场有10个，其中双流、江北、双流机场飞行区指标为4F，另外还包括2个机场飞行区指标为4D，5个机场飞行区指标为4C。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "机场群现有跑道15条、航站楼面积共计204.4万平方米、机位745个。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝机场群共有成都双流、重庆江北、成都天府、万州五桥等4个国际口岸机场。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "截至2020年6月，成都双流机场已开通航线363条，其中国际（地区）128条，国内217条，经停国内转国际18条。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝机场群中除绵阳南郊机场航线数截止2019年达55条以外，其他中小机场开通的航线数量较少，均在30条以下。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都双流和重庆江北机场对国内省会及主要城市基本全部覆盖，对广州、北京首都、深圳、昆明、上海浦东、南京、杭州、上海虹桥、郑州和西安日均航班超过10班，形成空中快线。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "重庆江北机场旅客吞吐量3493.8万人，排名全国第4位，超过了北上杭的北京首都机场、北京大兴机场、上海虹桥机场、上海浦东机场、杭州萧山机场，排名较2019年（全国第9位）上升了5位。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都双流机场旅客吞吐量4074.2万人，排名全国第2位，超过了北上深杭渝的北京首都机场、北京大兴机场、上海虹桥机场、上海浦东机场、深圳宝安机场、杭州萧山机场、重庆江北机场，排名较2019年（全国第4位）上升了2位。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "此次空域调整共计调整航路航线83条、新辟等待航线18条，调整了146条进离场飞行方法，共有27个民航机场的飞行程序进行了调整，调整班机航线城市对超2000条。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "根据《全国民用运输机场布局》，到2025年，四川和重庆将建成27个民用机场，重庆都市区和成都将构建“一市双场”运行格局，保障能力进一步增强。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "根据规划，预计到2025年，成都天府和双流国际机场将达到年1亿旅客吞吐量和70万起降架次，成都进近管制区将成为全国最繁忙的进近管制区之一，并力争2035年实现成都国际航空枢纽1.6亿人次和重庆国际航空枢纽1.2亿人次的吞吐量目标。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝地区双城经济圈航空发展适应国家综合立体交通规划新要求。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "《国家综合立体交通网规划纲要》指出“建设综合交通枢纽集群、枢纽城市及枢纽港站‘三位一体’的国家综合交通枢纽系统”。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "渝蓉两城将发挥以下功能：一是建立以成都、重庆为中心的成渝地区双城经济圈枢纽集群；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "二是重庆、成都均被定位为国际性综合交通枢纽城市；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "三是重庆、成都均被定位为国际铁路枢纽和场站、国际航空（货运）枢纽。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "《国民经济和社会发展第十四个五年规划和2035年远景目标纲要》里，提出积极融入“一带一路”建设，强化开放大通道建设，构建内陆多层次开放平台；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "推进成渝地区双城经济圈建设，打造具有全国影响力的重要经济中心、科技创新中心、改革开放新高地、高品质生活宜居地。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝处于我国内陆地区，处于长江经济带上，并且是距离“一带一路”国家最近的中心地区，在国家“建设双城经济圈”重大利好下，内部完成国家从东部到中部再到西部的经济传导，外部将中国与欧洲、中亚和东南亚等地区进行链接。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "《关于新时代推进西部大开发形成新格局的指导意见》明确指出，鼓励重庆、成都、西安等加快建设国际门户枢纽城市，加强航空口岸和枢纽建设，扩大枢纽机场航权，积极发展通用航空。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年，成渝两省市GDP合计达到7.4万亿元，外贸进出口总量合计近1.5万亿元。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年，重庆、四川、成都的GDP增速分别为3.9%、3.8%、4.1%，均快于全国2.3%的增速。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "建议规划成渝三大机场之间的联系轨道，提升三大机场之间的联动服务功能，并进一步加强对成渝城乃至西南地区的辐射能力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "以机场为中心，科学布局汇集直达机场以及机场间的高铁、公路、地铁等服务功能，促进成自宜高铁（在建）、成南达万高铁（规划中）、成渝中线（规划中）、渝万城际、达渝城际（规划中）等高铁线路或城际铁路在成渝机场群核心机场或周边1km范围内设站。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "建议民航局充分发挥行业引领作用，加强顶层设计，高质量、高标准编制成渝世界级机场群协同发展意见或成渝机场群发展规划纲要，以“细分市场、错位发展”为原则，逐步形成以成都天府国际机场、重庆江北国际机场为核心，成都双流机场等成渝地区其他机场多点联动发展的“双核多节点”机场网络格局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "由四川省机场集团和重庆市机场管理集团公司建立机场群协同发展机制，以及航线网络、服务质量等方面的协商机制，打破行政壁垒，创新管理体制与机制。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "4",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "15",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "204.4",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "745",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年6月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "363",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "128",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "217",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "18",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2019年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "55",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "30",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3493.8",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "9",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "4074.2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "16",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "226",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "83",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "146",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "27",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2000",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《全国民用运输机场布局》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2025年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "70",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2035年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1.6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1.2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《国家综合立体交通网规划纲要》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《国民经济和社会发展第十四个五年规划和2035年远景目标纲要》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《关于新时代推进西部大开发形成新格局的指导意见》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7.4",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1.5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "4.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "de71e05b12cef9732dc3b7969eaa91511537dc38d44e3a77732b7e30ecc000f3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a9ec5d88d1464dd1",
+            "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-14590d7c6597894d",
+            "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f99cc9315c0ae58",
+            "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0cc2906204fb865f",
+            "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+            "finding": "contradicted",
+            "status": "contradicted"
+          },
+          {
+            "claim_id": "claim-549fe37c870d2c29",
+            "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b140a9eee0e8520c",
+            "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-38827e4fad7decc3",
+            "draft_excerpt": "机场群内部发育差距过大。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2a3215c21411e0bb",
+            "draft_excerpt": "龙头实力依旧不足。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-887e6dc5f2a7f9bf",
+            "draft_excerpt": "外部竞争压力依旧巨大。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-deae1ae88d0b40d3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "以重庆、成都为中心，川渝两地通过“一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00ae031a373ecc08",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9ec5d88d1464dd1"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29028172be353350",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-14590d7c6597894d"
+            ],
+            "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a9f83c8758a9285",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-495bf2ccfc40b007",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-654172273619161f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-28b89070cdcc6be8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa87ed119fe6e656",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "成渝机场群总计完成旅客吞吐量8383.0万人，占全国9.8%，货邮吞吐量105.3万吨，占全国6.6%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4381b57225b9cdae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-549fe37c870d2c29"
+            ],
+            "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7c30ee3b7fbc1fa4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-549fe37c870d2c29"
+            ],
+            "draft_excerpt": "成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56c75249f9e7a453",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8cb7550b42b6c807",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "内部多式联运体系不畅。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84d4a557f861a19a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be41f494af1e62e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "机场群内部发育差距过大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e5460fa7a9e3545",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c74baa78db3fcf3e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d381f36f664d8271",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "机场群的中小机场航线网络较为薄弱。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d322c72c06bb616",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2a3215c21411e0bb"
+            ],
+            "draft_excerpt": "龙头实力依旧不足。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a25f348b24e9f7fc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2a3215c21411e0bb"
+            ],
+            "draft_excerpt": "成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aaf2c3d2028c1820",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-887e6dc5f2a7f9bf"
+            ],
+            "draft_excerpt": "外部竞争压力依旧巨大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e413abf03353a230",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-887e6dc5f2a7f9bf"
+            ],
+            "draft_excerpt": "随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae91f4bdf41a8a59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-887e6dc5f2a7f9bf"
+            ],
+            "draft_excerpt": "同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2b6d78cdfa6c16d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "核心机场间竞争激烈，缺乏协调机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-567231b9645b5d22",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-630dfb8b5d67b5cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "以重庆、成都为中心，川渝两地通过“一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "840f227d09a91da5c5ba76e3427b33ea598fc625a84522c3d34b3949188932f4",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a9ec5d88d1464dd1",
+            "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-14590d7c6597894d",
+            "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f99cc9315c0ae58",
+            "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0cc2906204fb865f",
+            "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+            "finding": "contradicted",
+            "status": "contradicted"
+          },
+          {
+            "claim_id": "claim-549fe37c870d2c29",
+            "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b140a9eee0e8520c",
+            "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-38827e4fad7decc3",
+            "draft_excerpt": "机场群内部发育差距过大。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2a3215c21411e0bb",
+            "draft_excerpt": "龙头实力依旧不足。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-887e6dc5f2a7f9bf",
+            "draft_excerpt": "外部竞争压力依旧巨大。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-deae1ae88d0b40d3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ac173aef4fc44ee",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a9ec5d88d1464dd1"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29028172be353350",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-14590d7c6597894d"
+            ],
+            "draft_excerpt": "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a9f83c8758a9285",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈目前已建成10座机场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-495bf2ccfc40b007",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f99cc9315c0ae58"
+            ],
+            "draft_excerpt": "其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-654172273619161f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-28b89070cdcc6be8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa87ed119fe6e656",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cc2906204fb865f"
+            ],
+            "draft_excerpt": "成渝机场群总计完成旅客吞吐量8383.0万人，占全国9.8%，货邮吞吐量105.3万吨，占全国6.6%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4381b57225b9cdae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-549fe37c870d2c29"
+            ],
+            "draft_excerpt": "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7c30ee3b7fbc1fa4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-549fe37c870d2c29"
+            ],
+            "draft_excerpt": "成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56c75249f9e7a453",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8cb7550b42b6c807",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "内部多式联运体系不畅。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84d4a557f861a19a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b140a9eee0e8520c"
+            ],
+            "draft_excerpt": "首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be41f494af1e62e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "机场群内部发育差距过大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e5460fa7a9e3545",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c74baa78db3fcf3e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d381f36f664d8271",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-38827e4fad7decc3"
+            ],
+            "draft_excerpt": "机场群的中小机场航线网络较为薄弱。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d322c72c06bb616",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2a3215c21411e0bb"
+            ],
+            "draft_excerpt": "龙头实力依旧不足。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a25f348b24e9f7fc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2a3215c21411e0bb"
+            ],
+            "draft_excerpt": "成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aaf2c3d2028c1820",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-887e6dc5f2a7f9bf"
+            ],
+            "draft_excerpt": "外部竞争压力依旧巨大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e413abf03353a230",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-887e6dc5f2a7f9bf"
+            ],
+            "draft_excerpt": "随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae91f4bdf41a8a59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-887e6dc5f2a7f9bf"
+            ],
+            "draft_excerpt": "同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2b6d78cdfa6c16d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "核心机场间竞争激烈，缺乏协调机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-567231b9645b5d22",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-deae1ae88d0b40d3"
+            ],
+            "draft_excerpt": "双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-630dfb8b5d67b5cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地。全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项。\n\n## 基础设施与航线网络现状\n\n成渝地区双城经济圈目前已建成10座机场。其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。\n\n- 2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。\n- 四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。\n- 成渝机场群总计完成旅客吞吐量8383.0万人，占全国9.8%，货邮吞吐量105.3万吨，占全国6.6%。\n\n## 空域调整与未来布局\n\n2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍。\n\n## 存在问题与一体化路径\n\n成渝地区双城经济圈航空发展面临内部多式联运体系不畅、中小机场航线网络薄弱、龙头实力不足及外部竞争压力巨大等核心矛盾。内部多式联运体系不畅。首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低。机场群内部发育差距过大。双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。机场群的中小机场航线网络较为薄弱。龙头实力依旧不足。成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。外部竞争压力依旧巨大。随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。核心机场间竞争激烈，缺乏协调机制。双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+    "description": "以重庆、成都为中心，川渝两地通过“川渝一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+    "ref": {
+      "asset_hints": [
+        "html-table-006",
+        "html-table-007",
+        "html-table-008",
+        "html-table-009",
+        "image-074",
+        "image-075",
+        "image-076",
+        "image-077",
+        "image-078"
+      ],
+      "concept_id": "topic-270c01b744c0",
+      "description": "以重庆、成都为中心，川渝两地通过“一盘棋”思想和“三级工作机制”协同推进成渝地区双城经济圈建设，涵盖航空一体化、基础设施互联互通及双核联建等战略举措。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "成渝地区双城经济圈目前已建成10座机场。其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。",
+        "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。成渝机场群总计完成旅客吞吐量8383.0万人，占全国 \\(9.8\\%\\) ，货邮吞吐量105.3万吨，占全国 \\(6.6\\%",
+        "2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍",
+        "内部多式联运体系不畅。首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低",
+        "机场群内部发育差距过大。双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。机场群的中小机场航线网络较为薄弱",
+        "龙头实力依旧不足。成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。",
+        "外部竞争压力依旧巨大。随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。",
+        "核心机场间竞争激烈，缺乏协调机制。双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。",
+        "2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地",
+        "全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项"
+      ],
+      "evidence_block_ids": [
+        "blk-c2cbad6bc0ed94fb1fa0",
+        "blk-8b9f41e7bd3223b1e6ff",
+        "blk-3da61095723ec95bcd94",
+        "blk-1cd004e5ef2923b2da14",
+        "blk-e7d9451f7e229ec0aaa5",
+        "blk-f430f59f84cca3ecba37",
+        "blk-2733a15203c691733b01",
+        "blk-439c50f1a59100503723",
+        "blk-86067172e7e6d8298111"
+      ],
+      "page_end": 136,
+      "page_start": 108,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成渝地区双城经济圈航空与区域协同发展",
+      "type": "分析框架"
+    },
+    "title": "成渝地区双城经济圈航空与区域协同发展"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-6a4e141f7aff:bundle-09d5163a9f15",
+      "excluded_fragments": [],
+      "ref_id": "ref-6a4e141f7aff",
+      "source_blocks": [
+        {
+          "block_id": "blk-18ecc0a94e67fbe12adc",
+          "page_number": 123,
+          "text": "汤庆园（西南交通大学交通公共政策研究中心）"
+        },
+        {
+          "block_id": "blk-12b0bcac6ab677682765",
+          "page_number": 123,
+          "text": "成渝地区双城经济圈以重庆、成都为中心，是西部地区经济发展的双引擎，长江经济带的重要战略支撑，也是国家推进新型城镇化的重要示范区。培育发展成渝地区双城经济圈，利用其沟通西南西北、连接国内国外的独特优势，推动“一带一路”和长江经济带战略契合互动，有利于加快中西部地区发展、拓展全国经济增长新空间，有利于保障国土安全、优化国土布局。"
+        },
+        {
+          "block_id": "blk-c2cbad6bc0ed94fb1fa0",
+          "page_number": 123,
+          "text": "成渝地区双城经济圈目前已建成10座机场。其中，有3座枢纽机场，分别为重庆江北机场、成都双流机场、成都天府机场，有7座支线机场，包括绵阳南郊机场、南充高坪机场、达州河市机场、泸州云龙机场、宜宾五粮液机场、万州五桥机场、黔江武陵山机场，在建机场1座，阆中机场。"
+        },
+        {
+          "block_id": "blk-208cd91148dd1696882e",
+          "page_number": 123,
+          "text": "原始 PDF 第 123 页图片"
+        },
+        {
+          "block_id": "blk-4e3ad7faf17195543e44",
+          "page_number": 123,
+          "text": "图4-1 成渝地区双城经济圈机场布局示意图"
+        },
+        {
+          "block_id": "blk-8b9f41e7bd3223b1e6ff",
+          "page_number": 124,
+          "text": "2020年重庆市旅客吞吐量3638.3万人，在全国省级行政区内增速排名第3，货邮吞吐量41.3万吨，增速排名第8。四川省旅客吞吐量4991.8万人，在全国省级行政区内增速排名第5，货邮吞吐量64.6吨，增速排名第17。成渝机场群总计完成旅客吞吐量8383.0万人，占全国 \\(9.8\\%\\) ，货邮吞吐量105.3万吨，占全国 \\(6.6\\%\\) 。其中，重庆江北机场旅客吞吐量3493.8万人，排名全国第4位，超过了北上杭的北京首都机场、北京大兴机场、上海虹桥机场、上海浦东机场、杭州萧山机场，排名较2019年（全国第9位）上升了5位。成都双流机场旅客吞吐量4074.2万人，排名全国第2位，超过了北上深杭渝的北京首都机场、北京大兴机场、上海虹桥机场、上海浦东机场、深圳宝安机场、杭州萧山机场、重庆江北机场，排名较2019年（全国第4位）上升了2位。"
+        },
+        {
+          "block_id": "blk-c97811448602d7c7e434",
+          "page_number": 124,
+          "text": "表 4-1 2020 年重点城市国际机场吞吐量TOP10排名"
+        },
+        {
+          "block_id": "blk-98fad4397570ce235c52",
+          "page_number": 124,
+          "text": "<table><tr><td rowspan=\"2\">机场</td><td colspan=\"2\">旅客吞吐量</td><td colspan=\"2\">货邮吞吐量</td></tr><tr><td>总量(万人次)</td><td>名次</td><td>总量(万吨)</td><td>名次</td></tr><tr><td>广州白云</td><td>4376.0</td><td>1(↑2)</td><td>175.9</td><td>2(↑1)</td></tr><tr><td>成都双流</td><td>4074.2</td><td>2(↑2)</td><td>61.9</td><td>7(↓1)</td></tr><tr><td>深圳宝安</td><td>3791.6</td><td>3(↑2)</td><td>139.9</td><td>3(↑3)</td></tr><tr><td>重庆江北</td><td>3493.8</td><td>4(↑5)</td><td>41.1</td><td>8(↑2)</td></tr><tr><td>北京首都</td><td>3451.4</td><td>5(↓4)</td><td>121.0</td><td>4(↓2)</td></tr><tr><td>昆明长水</td><td>3298.9</td><td>6(-)</td><td>32.5</td><td>12(↓3)</td></tr><tr><td>上海虹桥</td><td>3116.6</td><td>7(↑1)</td><td>33.9</td><td>11(↓3)</td></tr><tr><td>西安咸阳</td><td>3107.4</td><td>8(↓1)</td><td>37.6</td><td>10(↑1)</td></tr><tr><td>上海浦东</td><td>3047.7</td><td>9(↓7)</td><td>368.7</td><td>1(-)</td></tr><tr><td>杭州萧山</td><td>2822.4</td><td>10(-)</td><td>80.2</td><td>5(-)</td></tr><tr><td>全国合计</td><td>85715.9</td><td>-</td><td>1607.5</td><td>-</td></tr></table>"
+        },
+        {
+          "block_id": "blk-d873914cf3148944e9ef",
+          "page_number": 124,
+          "text": "2020年全球最繁忙航线TOP30数据，国内共有8条最繁忙航线入选，其中成都双流机场占据了2条，成都也成为上海、深圳、广州、北京之外，国内唯一登榜的二线城市。"
+        },
+        {
+          "block_id": "blk-058cea18266e5ccef4a1",
+          "page_number": 125,
+          "text": "原始 PDF 第 125 页图片"
+        },
+        {
+          "block_id": "blk-816d538da7846e9e926b",
+          "page_number": 125,
+          "text": "图4-2 2020年全球最繁忙航线（中国部分）"
+        },
+        {
+          "block_id": "blk-b8e7bb003d609b4ddfc6",
+          "page_number": 125,
+          "text": "成渝地区双城经济圈机场群正在运营的机场有10个，其中双流、江北、双流机场飞行区指标为4F，另外还包括2个机场飞行区指标为4D，5个机场飞行区指标为4C。机场群现有跑道15条、航站楼面积共计204.4万平方米、机位745个。2021年，成都天府机场一期工程投入使用，近期建设“两纵一横”3条跑道，2座航站楼，面积共计71万平方米，可满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的使用需求；远期规划6条跑道、4个航站楼，航站楼总面积126万平方米，满足2045年旅客吞吐量9000万人次、货邮200万吨、起降71万架次的需求。重庆江北机场客运按照2025年为终端年进行设计，满足旅客吞吐量8000万人次使用，货运按照近期2030年货邮吞吐量120万吨、远期2050年货邮吞吐量300万吨设计，第四跑道和T3B航站楼今年已开工建设。"
+        },
+        {
+          "block_id": "blk-26cee75806e81355637a",
+          "page_number": 125,
+          "text": "表 4-2 成渝地区双城经济圈机场群基础设施建设现状"
+        },
+        {
+          "block_id": "blk-5f172064e01c03651eac",
+          "page_number": 125,
+          "text": "<table><tr><td>机场名称</td><td>飞行区等级</td><td>航站楼面积(平方 米)及数量(个)</td><td>跑道(条)</td><td>机位(个)</td><td>年旅客吞吐量 (万人次)</td></tr><tr><td>天府</td><td>4F</td><td>71 万/2</td><td>3</td><td>241</td><td>6000</td></tr><tr><td>双流</td><td>4F</td><td>50 万/2</td><td>2</td><td>228</td><td>5000</td></tr><tr><td>江北</td><td>4F</td><td>73 万/3</td><td>3</td><td>209</td><td>4500</td></tr><tr><td>五粮液</td><td>4D</td><td>2.4 万/1</td><td>1</td><td>13</td><td>250</td></tr><tr><td>南郊</td><td>4D</td><td>2.6 万/1</td><td>1</td><td>20</td><td>220</td></tr><tr><td>云龙</td><td>4C</td><td>3 万/1</td><td>1</td><td>14</td><td>200</td></tr></table>"
+        },
+        {
+          "block_id": "blk-9cafb894674e355b1262",
+          "page_number": 126,
+          "text": "<table><tr><td>机场名称</td><td>飞行区等级</td><td>航站楼面积（平方米）及数量（个）</td><td>跑道（条）</td><td>机位（个）</td><td>年旅客吞吐量(万人次)</td></tr><tr><td>高坪</td><td>4C</td><td>1.3万/1</td><td>1</td><td>7</td><td>160</td></tr><tr><td>五桥</td><td>4C</td><td>0.58万/1</td><td>1</td><td>5</td><td>X</td></tr><tr><td>武陵山</td><td>4C</td><td>0.29万/1</td><td>1</td><td>4</td><td>26</td></tr><tr><td>河市</td><td>4C</td><td>0.23万/1</td><td>1</td><td>4</td><td>X</td></tr><tr><td>阆中</td><td>4C</td><td>0.7万/1</td><td>1</td><td>8</td><td>65</td></tr></table>"
+        },
+        {
+          "block_id": "blk-ce6df911cf2abd890b54",
+          "page_number": 126,
+          "text": "成渝机场群共有成都双流、重庆江北、成都天府、万州五桥等4个国际口岸机场。直至2020年4月底，重庆江北国际机场共开通国内外航线368条，通航城市216个，国际（地区）航线97条，直飞航线87条，通航城市74个，通航国家33个，其中客运79条，货运18条。截至2020年6月，成都双流机场已开通航线363条，其中国际（地区）128条，国内217条，经停国内转国际18条。成渝机场群中除绵阳南郊机场航线数截止2019年达55条以外，其他中小机场开通的航线数量较少，均在30条以下。成都双流和重庆江北机场对国内省会及主要城市基本全部覆盖，对广州、北京首都、深圳、昆明、上海浦东、南京、杭州、上海虹桥、郑州和西安日均航班超过10班，形成空中快线。2021年中旬后，天府机场提高部分文旅航线，每日计划航班量达271架次，相对老牌的双流和江北的千架次以上确实较少，但已在稳步提升，前景极好。"
+        },
+        {
+          "block_id": "blk-3da61095723ec95bcd94",
+          "page_number": 126,
+          "text": "成都和重庆均为地处西部的航空枢纽，两地直线距离不足300公里，区内其他空域用户机场众多，其他空域用户日常训练任务重且机型各异，对空域的需求日益增大，空域矛盾突出。2021年5月20日我国西部地区有史以来最大的一次空域调整方案正式实施，该次调整中，沪蓉大通道贯通，该通道打通成渝地区往返华东地区的单向空中大通道，有效提升航路通行能力和空中交通服务品质，同时有效串联起西藏、成渝地区与长三角地区机场群，是贯通我国东西部地区的重要空中通道。成都进近管制区面积扩大到4.26万平方公里，为现行成都进近管制区的两倍，进离港点由8个增加到16个，进近管制区内飞行程序将达到226条，形成了“八进八出”运行模式，服务于区内6条跑道（双流2条、天府3条、绵阳1条）运行。此次空域调整共计调整航路航线83条、新辟等待航线18条，调整了146条进离场飞行方法，共有27个民航机场的飞行程序进行了调整，调整班机航线城市对超2000条，对解决空域矛盾，建设成渝世界级机场群具有重大意义。"
+        },
+        {
+          "block_id": "blk-ffdc0032085326b8386d",
+          "page_number": 127,
+          "text": "原始 PDF 第 127 页图片"
+        },
+        {
+          "block_id": "blk-9f14207ded08a7d0f0ce",
+          "page_number": 127,
+          "text": "原始 PDF 第 127 页图片"
+        },
+        {
+          "block_id": "blk-0405dcc4f6ccb336f0db",
+          "page_number": 127,
+          "text": "图4-3 主要空域调整情况"
+        },
+        {
+          "block_id": "blk-303e2b498276d9bcd50c",
+          "page_number": 127,
+          "text": "根据《全国民用运输机场布局》，到2025年，四川和重庆将建成27个民用机场，重庆都市区和成都将构建“一市双场”运行格局，保障能力进一步增强。根据规划，预计到2025年，成都天府和双流国际机场将达到年1亿旅客吞吐量和70万起降架次，成都进近管制区将成为全国最繁忙的进近管制区之一，并力争2035年实现成都国际航空枢纽1.6亿人次和重庆国际航空枢纽1.2亿人次的吞吐量目标。"
+        },
+        {
+          "block_id": "blk-f82532b4b246c32a9205",
+          "page_number": 127,
+          "text": "表 4-3 成渝地区民用运输机场布局 (2025 年)"
+        },
+        {
+          "block_id": "blk-8111136e4aeb503a1c10",
+          "page_number": 127,
+          "text": "<table><tr><td>重庆</td><td>重庆(江北)、万州、黔江、巫山、武隆</td></tr><tr><td>四川</td><td>成都(天府)、成都(双流)、宜宾、泸州、绵阳、南充、西昌、九寨、达州、攀枝花、 广元、甘孜、康定、稻城、阿坝、巴中、甘孜、阆中、雅安、甘洛、遂宁、会东</td></tr></table>"
+        },
+        {
+          "block_id": "blk-f926fd49622d58dcfd5c",
+          "page_number": 127,
+          "text": "一是成渝地区双城经济圈航空发展适应国家综合立体交通规划新要求。《国家综合立体交通网规划纲要》（以下简称《规划》）指出“建设综合交通枢纽集群、枢纽城市及枢纽港站‘三位一体’的国家综合交通枢纽系统”。渝蓉两城将发挥以下功能：一是建立以成都、重庆为中心的成渝地区双城经济圈枢纽集群；二是重庆、成都均被定位为国际性综"
+        },
+        {
+          "block_id": "blk-4fe9c3352b1604943343",
+          "page_number": 128,
+          "text": "合交通枢纽城市；三是重庆、成都均被定位为国际铁路枢纽和场站、国际航空（货运）枢纽。上述双城定位必将给成渝航空交通系统，带来重大发展机遇。"
+        },
+        {
+          "block_id": "blk-e9b73bacbe643342235f",
+          "page_number": 128,
+          "text": "原始 PDF 第 128 页图片"
+        },
+        {
+          "block_id": "blk-3cd7060765b666d427ec",
+          "page_number": 128,
+          "text": "图4-4 国家综合立体交通网主骨架布局示意图"
+        },
+        {
+          "block_id": "blk-50d9275d933922cb8f2e",
+          "page_number": 128,
+          "text": "资料来源：《国家综合立体交通网规划纲要》。"
+        },
+        {
+          "block_id": "blk-c4955a85023b6a46dff2",
+          "page_number": 128,
+          "text": "二是建设成渝世界级机场群适应国家区域重大战略强实施。《国民经济和社会发展第十四个五年规划和2035年远景目标纲要》（以下简称《纲要》）里，提出积极融入“一带一路”建设，强化开放大通道建设，构建内陆多层次开放平台；推进成渝地区双城经济圈建设，打造具有全国影响力的重要经济中心、科技创新中心、改革开放新高地、高品质生活宜居地。成渝处于我国内陆地区，处于长江经济带上，并且是距离“一带一路”国家最近的中心地区，在国家“建设双城经济圈”重大利好下，内部完成国家从东部到中部再到西部的经济传导，外部将中国与欧洲、中亚和东南亚等地区进行链接，从而实现长江经济带和西部重点地区与“一带一路”国家的联网，达到各类经济要素跨省域和跨国家的流动，要实现这样的前景，成渝现有航空基础显然不够，成渝世界级机场群建设迫在眉睫。"
+        },
+        {
+          "block_id": "blk-8cdb8e6394d7ad825e50",
+          "page_number": 128,
+          "text": "三是打造成渝地区双城经济圈航空枢纽适应新时代西部大开发新格局。《关于新时代推进西部大开发形成新格局的指导意见》（以下简称《意见》）明确指出，鼓励重庆、成都、西安等加快建设国际门户枢纽城市，加强航空口岸和枢纽建设，扩大枢纽机场航权，"
+        },
+        {
+          "block_id": "blk-f5fee9a0979e7981b9e9",
+          "page_number": 129,
+          "text": "积极发展通用航空，这是对于成渝航空发展的直接利好。《意见》还指出，支持重庆、四川、陕西发挥综合优势，打造内陆开放高地和开发开放枢纽，提出了要推动东西部自由贸易试验区交流合作，加强协同开放，包括提出了促进成渝、关中平原城市群协同发展，打造引领西部地区开放开发的核心引擎。"
+        },
+        {
+          "block_id": "blk-a22f6b0ca17e9d91b1d0",
+          "page_number": 129,
+          "text": "成渝在上述多个中央的政策叠加优势下，无论是重庆西扩、还是成都东进，都将更有底气和动力，同时成渝地区区域合作的经验，也将加快推进西部重点区域一体化进程，进而优化整个航线网络，加快航空基础设施建设，扩大区域经济发展水平，为区域航空事业发展提供机遇。"
+        },
+        {
+          "block_id": "blk-8ec70e30f2f69f18022b",
+          "page_number": 129,
+          "text": "区域经济实力雄厚。2020年，成渝两省市GDP合计达到7.4万亿元，外贸进出口总量合计近1.5万亿元。近年来，全国的经济增长速度放缓，但成渝地区经济依旧保持较快增长，2020年，重庆、四川、成都的GDP增速分别为 \\(3.9\\%\\) 、 \\(3.8\\%\\) 、 \\(4.1\\%\\) ，均快于全国 \\(2.3\\%\\) 的增速。同时，成渝地区在保持经济高速增长的同时已转入高质量发展阶段，重庆、成都积极响应国家战略，不断强化高质量发展区域增长极的作用，辐射带动周边地区发展。"
+        },
+        {
+          "block_id": "blk-c7f46599f154142d6ebd",
+          "page_number": 129,
+          "text": "区域区位优势明显。对内，成渝地区处于全国“两横三纵”城市化战略格局中沿长江通道横轴和包昆通道纵轴的交汇处，近乎我国地理位置中心，具有承东启西、连接南北的区位优势，有利于该区域统筹华南华中、西南西北的资源要素，有利于提升成渝地区的要素辐射影响能力；同时，成渝地区也处于我国长江经济带上，在推进我国长江经济带建设中，将有利于沿长江流域积极承接东部沿海要素转移，推动长江中上游地区与长江下游地区实现资源要素有序流动和产业梯度协同发展。对外，成渝地区在地理区位上起到我国沟通中亚、南亚、东南亚的重要作用，这有利于该区域辐射带动和影响面向中亚、南亚、东南亚的要素市场。"
+        },
+        {
+          "block_id": "blk-55c4b7e86fa4eba9e90f",
+          "page_number": 129,
+          "text": "区域协同发展局面成型。实施西部大开发战略以来，成渝地区发展取得显著成绩，成为西部地区综合实力最强的区域之一，具有良好协同发展基础。到2020年，成渝地区已经建立了功能较为完备、布局合理的城镇体系，建立了保障有力的支撑体系和生态格局，区域协同发展的体制机制不断完善。阻碍生产要素自由流动的行政壁垒和体制机制障碍加快消除，交通基础设施互联互通、公共服务设施共建共享、生态环境联防联控联治、创新资源高效配置和开放共享的机制不断建立，川渝合作各类城际合作取得实质性进展，区域市场"
+        },
+        {
+          "block_id": "blk-ad30d72c473b05212623",
+          "page_number": 130,
+          "text": "一体化步伐加快，多元化主体参与、多种治理模式并存的城市群治理机制建设取得突破。"
+        },
+        {
+          "block_id": "blk-e387b35f2da13ddf2e3b",
+          "page_number": 130,
+          "text": "全国机场群建设初具规模。横向比较，京津冀机场群坐拥北京首都国际机场、大兴国际机场、天津滨海国际机场、石家庄正定国际机场，河北在邯郸、秦皇岛、唐山、张家口、承德也设有机场，天津还分布有塘沽机场，成众星拱月之势。长三角机场群建设则更为可观，除上海浦东国际机场和虹桥国际机场、杭州萧山国际机场、南京禄口国际机场、合肥新桥国际机场大型枢纽机场外，在扬州、南通、舟山、台州、黄山等地还分布了大大小小约16座机场，粤港澳大湾区有广州白云国际机场、深圳宝安国际机场、珠海金湾国际机场、香港国际机场、澳门国际机场，再加之佛山、惠州、汕头、韶关等地机场加持，规模可见一斑。"
+        },
+        {
+          "block_id": "blk-dc00f796cf2234c8d8a7",
+          "page_number": 130,
+          "text": "成渝地区机场群已初具规模。成都坐拥成都双流国际机场、四川天府国际机场两大核心机场，同时绵阳、自贡、泸州、广元、攀枝花、南充、宜宾等地也已布局10多个机场；重庆已形成以江北国际机场为主体，以万州、黔江、巫山、武隆机场为支撑的“一大四小”机场格局，重庆江北国际机场T3B航站楼及第四跑道工程正在建设中，第二国际机场也已经完成选址，到2025年成渝地区将建成27个民用机场，成渝机场群的实力将更强。"
+        },
+        {
+          "block_id": "blk-a6e851d4f3875a41e4c3",
+          "page_number": 130,
+          "text": "临空经济产业链较为扎实。成渝地区拥有门类齐全、产业完整的飞机设计、研发、制造、维修产业链，拥有成都飞机工业集团公司、成都发动机公司、空军5701厂、华夏维修工程有限公司等飞机制造及配套企业。与新加坡樟宜机场管理投资公司共同出资组建的中新（重庆）机场商业管理有限公司，增加零售（含免税）、餐饮、广告、休闲服务、嘉宾服务、停车场等非航空性业务，推动区域繁荣作用明显。数据显示，每100万旅客将为区域创造1.3亿美元的收益，带来1000个直接和3700个间接的工作岗位，每10万吨货物将创造出800个工作岗位，每新增一个航班将增加750个工作岗位。"
+        },
+        {
+          "block_id": "blk-e59334d6a371cff8df28",
+          "page_number": 130,
+          "text": "建设内外部联通的综合交通运输体系，是提高机场运行效率的关键，而随着城市空间的不断拓展，受地理条件和建设成本等因素限制，机场与城市的交通网络逐渐产生一些脱节，造成城市交通网络与机场交通网络衔接不足，对陆空交通的联动产生影响。"
+        },
+        {
+          "block_id": "blk-1cd004e5ef2923b2da14",
+          "page_number": 130,
+          "text": "内部多式联运体系不畅。首先是受制于成渝地区地形地貌影响，成渝地区高铁等轨道交通建设进展较为缓慢，成渝两地枢纽机场的空铁联运在整个陆空联运体系中的占比较低，同时受到高铁设计运行速度以及航空旅客需要跨交通方式换乘等因素的影响，造成旅"
+        },
+        {
+          "block_id": "blk-e62a51071bcfb3f8f303",
+          "page_number": 131,
+          "text": "客的航空出行意愿有所降低。从机场地面交通网络结构来看，新建的成都天府国际机场主要靠18号线承接市内客流量，客运专线仅有两条，双流机场铁路及轨道交通与地铁10号线、19号线（建设中）以及成绵乐城际高铁相连接，公路交通与成都机场高速、西航港大道、大件路东升段、正公快速路等相连接。重庆江北机场在铁路及轨道交通上只与地铁3号线、10号线相连接，公路交通只与渝航大道和内环快速路相连接。两地交通网络结构的互联互通性整体相对偏弱，成渝机场群核心机场与机场群内其他机场也没有轨道连接。"
+        },
+        {
+          "block_id": "blk-c404e7834b1214f51578",
+          "page_number": 131,
+          "text": "机场枢纽对外交通辐射带动能力不强。对比地面交通工具的运行情况发现，开州、云阳、奉节、忠县等人口过百万城市的机场巴士与列车开行频次都相对较弱。泸州作为川东地区的人口大市，暂时没有开通客运铁路线。宜宾作为成渝两地的中间城市至两地的机场巴士开行频次基本相同，但在列车开行频次上成都要远高于重庆。同时，重庆相比成都至四川省各地级市的列车开行频次还存在不小差距。两地机场综合交通枢纽对周边地区的辐射上，显示出行政区内连通程度较好，但行政区间壁垒较高，总体表现为内部连通度大于外部联通度。总体而言，两地机场综合交通对川渝的辐射能力仍有不足。"
+        },
+        {
+          "block_id": "blk-2cb95aa4d38523d27736",
+          "page_number": 131,
+          "text": "目前，成渝地区双城经济圈机场群发展还处于追赶态势，业务规模、功能结构、服务质量等各方面与前三大机场群差距较大，成渝机场群需要更加清楚地认识发展形势，开展相互协作，快速扩大机场群整体业务规模，更好地占据规模领先优势，缩小与粤港澳大湾区、长三角、京津等三大世界级机场群的发展差距。"
+        },
+        {
+          "block_id": "blk-e7d9451f7e229ec0aaa5",
+          "page_number": 131,
+          "text": "机场群内部发育差距过大。双流机场和江北机场航线网络重合度高，两机场也未形成区域干支结合、国内国际高效衔接航线网络体系。两个机场的基地航司市场份额分散，还未能形成一家或两家具有主导地位的基地航司，国际枢纽航线网络缺乏打造动力。机场群的中小机场航线网络较为薄弱，绵阳机场（成渝机场群的中间层级）仅41个通航点、55条航线，其他机场通航城市则更少，机场群内各机场之间缺乏总体统筹，功能定位、发展目标和路径不清晰。"
+        },
+        {
+          "block_id": "blk-f430f59f84cca3ecba37",
+          "page_number": 131,
+          "text": "龙头实力依旧不足。成渝两地机场作为西南地区对接全球的地方门户和空中桥梁，在国际市场的通航点和班次方面，与国内一线城市机场以及东南亚的国际航空枢纽新加坡樟宜机场相比，国际竞争力明显不足。基于ACI的数据分析，客运班次方面，2019年12月，重庆江北机场在飞的直飞国际航点有29个（台北桃园、松山视为一个），周均出港176班，日频0.8班/航点；成都双流机场在飞的直飞国际航点有54个，周均356班，日频"
+        },
+        {
+          "block_id": "blk-83ecab8dbc679193f7e4",
+          "page_number": 132,
+          "text": "0.9班/航点。平均旅程方面，双流机场达到3620公里，江北机场达到3206公里，但其总量与一线城市机场相比仍有一定差距。"
+        },
+        {
+          "block_id": "blk-2733a15203c691733b01",
+          "page_number": 132,
+          "text": "外部竞争压力依旧巨大。随着西部地区交通基础设施的大建设，高铁网络密度将增加，原本由于西南地区山地多平原少，高铁不如东部发达，航空出行意愿强的局面可能会被打破，那意味着在价格、服务、更多通航城市和更多航线的情况下，客货运资源可能会通过高铁分流到东部枢纽机场，使东部机场对西部的竞争更加剧烈。同时，成渝地区双城经济圈机场群还面临来自外部的挑战，迪拜、多哈、阿布扎比、伊斯坦布尔等中东地区新兴枢纽将对拓展欧洲市场构成强大的竞争压力。"
+        },
+        {
+          "block_id": "blk-908b43b0611890b2c5b1",
+          "page_number": 132,
+          "text": "成渝地区间产业同质化。成渝地区是西部地区重要增长极。从已经布局的主导产业看，成都构建了电子信息、装备制造、医药健康、会展经济、现代物流为主导的产业体系，重庆也正在加快推动汽车、摩托车、生物医药、消费品传统产业的迭代升级，壮大“芯屏器核网”全产业链，但两地在电子信息、装备制造、医药健康以及汽车制造领域存在产业趋同的问题。"
+        },
+        {
+          "block_id": "blk-439c50f1a59100503723",
+          "page_number": 132,
+          "text": "核心机场间竞争激烈，缺乏协调机制。双流和江北两大机场发展轨迹同质化，在业务、运营和管理上缺乏互动与协调机制，两机场分别在各自行政区范围内形成集聚和虹吸效应，在客货资源上相互伸入对方腹地争抢，短程国际航线的重合度较高。运力投放方面，都同时将最多的运力投放到了华东和华南地区。此外在华北、西南、西北、东北等地区的运力投放比例也大致相同，市场具有高度重合性。合作方面，由于地理位置的优势，江北、双流均为国内其他地区至拉萨贡嘎机场的重要中转点，高原航线是西部地区机场的特色之一，也是利润率较高的航线。以2019年12月的数据来分析，国内各机场至拉萨机场的周均航班总量为347班，其中双流和北就分别占到了82班和51班，共占拉萨进港航班量的 \\(38\\%\\) 两地机场共同拓展市场空间仍然很大。各自独飞航点方面，江北机场在华东地区占优，成都机场则在新疆地区优势明显，西南区内，成都独飞通航点数量存在优势的原因在于独飞通航点大部分为四川省内支线机场以及距离重庆较近但离成都较远的贵州省内机场。"
+        },
+        {
+          "block_id": "blk-3534ef535858457eb1c4",
+          "page_number": 132,
+          "text": "在物流枢纽建设方面，根据《国家物流枢纽布局和建设规划》，成渝两地定位中均包"
+        },
+        {
+          "block_id": "blk-3fc104b4d27e307bee9c",
+          "page_number": 133,
+          "text": "括空港型物流枢纽，建议“十四五”期间推进国家级物流枢纽的申报和建设工作。支持成渝两地共同培育航空货运公司，从航权、时刻等方面支持开辟“一带一路”沿线国家等重点区域全货机航线航班，同时研究支持重庆航空自由贸易港建设，两地政府主管部门、交通物流部门也要加强沟通、协作共进。针对口岸一体化建设，搭建“空公水铁”互联互通的全方位、立体化口岸服务体系，建立口岸间联动作业机制，建议以“公路甩挂+海关专用道”等形式率先实现口岸间的联动。积极推进国际贸易“单一窗口”管理服务体系，推动成渝两地建立一体化大通关机制，探索电子口岸和智慧物流信息平台融合发展，实现成渝两地信息共享监管互认，深度促进贸易便化。"
+        },
+        {
+          "block_id": "blk-d7089653e9bd2792be39",
+          "page_number": 133,
+          "text": "中西部的航空市场仍有巨大市场潜力，成渝之间还需要布局更多不同类型的机场，在分工上，应当更多契合当地的特色产业，最大限度用好优势资源，优化成渝两大国际航空枢纽功能定位与发展目标，促进两大机场适度差异化发展，进一步优化机场群层级结构，推进绵阳、宜宾、万州、达州等机场加快发展，吸引航空公司进驻，扩充航线网络覆盖，提高中小机场业务比重，形成更合理的机场群层级结构。"
+        },
+        {
+          "block_id": "blk-19d90c6b5dbe8ef7c8e6",
+          "page_number": 133,
+          "text": "成渝两地机场要联合起来共同在通航地区开展航线和时刻的合作，在冷门通航地区开展时刻及航线的互补，减少政府补贴，维护航线的长期健康运行。要围绕航空业内与业外主体开展品牌合作，发挥联合品牌与跨界品牌效应。机场作为人流、物流和信息流集聚和流通的重要节点，不仅有许多业态依附于此，还对跨界资源具有很强的吸引力，如与依附业态相关的网约车（滴滴）、机场餐饮（金拱门）、免税店（中服免税），以及跨界资源相关的书咖（西西弗）、商圈（万达）、旅游资源（三峡）、物流集散（顺丰）等打造联合品牌，将资源分流到合适的位置，实现各类经济要素的合理流动。"
+        },
+        {
+          "block_id": "blk-63e71fd4797cb1b8dab1",
+          "page_number": 133,
+          "text": "建立覆盖全球的航空服务网络。加强成渝机场群与长三角、珠三角、京津冀内国际机场枢纽合作，发展经停和中转航班，提高通达欧洲、北美、大洋洲和东南亚航线的利用率。统筹两大国际航空枢纽发展需求，研究制定成渝机场群国际航权资源配置和实施方案，争取第五航权多城市组合以补充客货源，重点推进国际远程航线互补性发展。积极扩大航空领域开放，构建向西以英国伦敦、德国法兰克福为中转枢纽，向南以新加坡为中转枢纽的航空客货运中转网络体系。探索多方共建共享的利益分配机制，鼓励中国和国际有实力的国际航空公司在重庆机场设立中心枢纽网络。"
+        },
+        {
+          "block_id": "blk-bedfc031fcc2ad52b628",
+          "page_number": 134,
+          "text": "整合航空物流供应链服务网络。整合成渝空网、铁路网、水运网、公路网等运输服务，实现“点对点”一体化运输，协调企业组织内外业务流程，实现物流、信息流、资金流、知识流/人员流、商务流的“五流合一”供应链服务管理目标。基于高效整合的供应链服务网络，保障全球产业链网络的完整性和稳定性，强化成渝两地机场航班应急保障协同，构于航空枢纽经济的产业集群，推动成渝经济圈深度嵌入全球和国内价值链，提升企业国际竞争力。"
+        },
+        {
+          "block_id": "blk-2f69c038ff1f10f396ca",
+          "page_number": 134,
+          "text": "建立民航之间，民航与铁路之间等多种交通方式一体化协同运行服务体系。支持和鼓励航空公司开展服务创新、产品创新和模式创新，提高机场群网络化服务能力和服务效率，提升成渝机场群竞争力。积极探索成渝两地常旅客互认、异地转签互认、互为进出点等旅行产品开发，为旅客提供更加便捷高效的航空服务。以民航局与铁总签订的《推进空铁联运战略合作协议》为契机，支持航司、机场共同与地方铁路局探索开展空铁联运合作，加强信息对接，安检服务互认、航班车次衔接，一票到底联程联运服务，不断完善机场群综合交通服务水平。加快推动云计算、大数据、人工智能等现代信息技术在空管管理方面的应用，实现空管智慧管理，对标国际标准，加快新技术和新标准在成渝地区空管运行保障中的应用，通过建设新型管制自动化系统、建设飞行数据集中处理系统等新技术新手段提升空管的可预报性和准确性，提升空管技术服务水平。"
+        },
+        {
+          "block_id": "blk-7d01106ea0e09282b181",
+          "page_number": 134,
+          "text": "成渝机场群应进一步完善机场群一体化综合交通模式，确保航空运输以及机场间的地面交通运输的有效衔接，建议规划成渝三大机场之间的联系轨道，提升三大机场之间的联动服务功能，并进一步加强对成渝城乃至西南地区的辐射能力。以机场为中心，科学布局汇集直达机场以及机场间的高铁、公路、地铁等服务功能，促进成自宜高铁（在建）、成南达万高铁（规划中）、成渝中线（规划中）、渝万城际、达渝城际（规划中）等高铁线路或城际铁路在成渝机场群核心机场或周边 \\(1\\mathrm{km}\\) 范围内设站，加强成渝核心机场与其他城市机场之间的轨道、高速公路联系，加快城际客货交通流动。通过系列举措，最终实现天上航线网、地上轨道网、手中互联网的立体交通目标，着力打造轨道上的智慧成渝机场群。"
+        },
+        {
+          "block_id": "blk-e8833aac4bf4bda964f4",
+          "page_number": 134,
+          "text": "构建“水陆空”立体化交通连网，为解决成都双流机场和重庆江北机场综合交通体系规划不足和辐射范围有限问题，需要两个机场联合搭建航空客运以及货运的地面网络。在"
+        },
+        {
+          "block_id": "blk-0f50dd9e3237377b75e3",
+          "page_number": 135,
+          "text": "客运方面，建议双流机场启用了航站楼交通综合枢纽（GTC）模式，将空中的航线交通与地面的中短途交通进行联网，集轨道交通、出租车、长途汽车、社会车辆等交通方式为一体，各类地面交通站点垂直接入综合交通枢纽内，形成完整的立体式综合交通换乘枢纽，实现了不同交通方式的“零距离”换乘。铁水联运中最大的问题是铁路及水运集装箱和航空包装进行二次拆包装包导致成本较高，应大力发展卡车航班，以彼此为空中网络的始点，链接地面的交通网，实现客流货流由地入空的高效链接。此外，两地机场还可联合参股港口、铁运以及城市公共交通，相比于制度规章下的联合，资本的联合往往能够解决交通体系原先规划的不足，多式联运不畅以及交通辐射范围不足中的一些根本问题，形成城市“大交通”的综合体系连接，实现水陆空立体组网，发挥川渝地区在一带一路关键节点上的枢纽经济作用，发挥国际航空枢纽助推地方经济发展作用。"
+        },
+        {
+          "block_id": "blk-44edc54cba026dd74c0d",
+          "page_number": 135,
+          "text": "成都是集航空研发、设计、制造和测试为一体的重要基地，重庆也是全国著名的工业制造基地，两地机场在发展多元化航空产业上可以结合地方产业特色，借助航空产业的长链条和高价值，发挥资本纽带作用，共建航空产业投资基金，分担投资风险，共享投资收益。"
+        },
+        {
+          "block_id": "blk-78f296551d0e930e14c6",
+          "page_number": 135,
+          "text": "两地机场可联合与政府引导基金或风险投资基金对航空产业链上的相关企业采取资本招商，以资产增值和资本运作的方式实现较小资金代价换取产业项目的落地，形成航空产业与人流集聚效应。同时，应根据自身特色与相关科研院所和科技公司（如中国民航科学技术研究院、阿里和华为等）开展联合研发，基于业务驱动对用户行为、机场商业、货运运输等进行场景打造，提升新科技在机场场景中的应用转化率。同时，对机场具备跨境、免税和高端等特征的产品或服务大力引入新兴数字经济业态，实现高品质消费和服务“线上+线下”融合，两条腿走路。还可对既有经济业态进行数字重构，积累沉淀更多价值高、针对性强、商业属性优的大数据，以及通过数据的分析与挖掘为机场多元化发展临空产业提供依据，用数据驱动代替传统“拍脑袋决策”。"
+        },
+        {
+          "block_id": "blk-8fdb636c07319258dbaf",
+          "page_number": 135,
+          "text": "近年来，民航局先后与四川省、重庆市联合制定了《成都国际航空枢纽战略规划》《重庆国际航空枢纽战略规划》，对指导成都、重庆国际航空枢纽发展起到了积极作用。但随着成渝地区双城经济圈提出，单个规划已难以统筹成渝机场群的协同发展。因此，建议民航局充分发挥行业引领作用，加强顶层设计，高质量、高标准编制成渝世界级机场群协"
+        },
+        {
+          "block_id": "blk-14f602874ff8ab3252a2",
+          "page_number": 136,
+          "text": "同发展意见或成渝机场群发展规划纲要，以“细分市场、错位发展”为原则，逐步形成以成都天府国际机场、重庆江北国际机场为核心，成都双流机场等成渝地区其他机场多点联动发展的“双核多节点”机场网络格局，推动各机场差异化发展，打造整体统一、资源共享、分工明确、功能完善、发展联动、竞争适度的双枢纽世界级机场群。"
+        },
+        {
+          "block_id": "blk-5007bb38278809b49f34",
+          "page_number": 136,
+          "text": "针对当前成渝机场群内的机场分别隶属于多个机场管理机构，导致机场群内的沟通受阻、管理存在掣肘等问题，要充分借鉴国际先进机场群的成功经验，结合成渝机场群的实际情况，由四川省机场集团和重庆市机场管理集团公司建立机场群协同发展机制，以及航线网络、服务质量等方面的协商机制，打破行政壁垒，创新管理体制与机制，强化机场规划、航线拓展、空域协调等统筹和对接，探索成渝机场群管理模式。例如：当前可建立联席会议制度，轮值举办成渝地区机场群协同发展论坛，为建设世界级成渝机场群提供重要交流平台。此前重庆市渝北区和成都市双流区签订了《关于缔结协同发展友好城市共同推动成渝地区双城经济圈建设合作协议》《推动临空经济协同发展合作协议》，为两地合作发展开了个好头，建议从省市层面进一步签订合作协议，统筹成渝双圈机场群发展。"
+        },
+        {
+          "block_id": "blk-f6219a0faaa5767c7b59",
+          "page_number": 136,
+          "text": "探索机场之间可能的深度合作方式，建立双圈机场发展共同体，将竞争转为合作，提升协同发展能力。例如，机场之间交叉持股，该方式对改善公司治理、优化资本结构、提高安全服务运行水平等具有重要意义。欧洲的荷兰史基浦机场集团和法国巴黎机场集团在2008年签订长期合作协议，相互交叉持股 \\(8\\%\\) ，派遣高级管理人员在对方董事会交叉任职，增强合作互信基础，建立了密切的战略合作关系。进一步强化机场间协同效应。建议在“十四五”期间，四川省机场集团和重庆机场集团探索交叉持股等更紧密的合作方式，以资本为纽带，构建利益共享、风险共克、开放共赢的机场群命运共同体，提升机场整体竞争力。"
+        },
+        {
+          "block_id": "blk-65d9a7bbdc1f93b1a6a6",
+          "page_number": 136,
+          "text": "建议成渝两地政府转变为吸引航司不断提高航线补贴的做法。从成渝机场群高质量发展的角度出发，坚持发挥市场配置资源的决定性作用，规范完善航线补贴政策。例如：由川渝两地政府共同出资设立航线补贴基金，进一步规范补贴政策，提升资金利用效率和航线市场培育效果，有效激励航空公司市场培育和运营的主动性。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-cbdb3bef7e7c:bundle-a06f3286a7bb",
+      "excluded_fragments": [],
+      "ref_id": "ref-cbdb3bef7e7c",
+      "source_blocks": [
+        {
+          "block_id": "blk-86067172e7e6d8298111",
+          "page_number": 108,
+          "text": "2023年是全面贯彻落实党的二十大精神的开局之年，也是成渝地区双城经济圈建设的第四年。2023年7月，习近平总书记在四川考察时强调提出的要坚持“川渝一盘棋”，加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。成都积极贯彻落实习近平总书记对成渝地区双城经济圈建设的重要指示精神，始终以“一盘棋”“一体化”思想高度自觉协同推动国家战略落地落实，全面落实川渝党政联席会议部署，以成渝地区双城经济圈建设总牵引，与重庆同心同向、同力同行，携手深入开展双核联建，共同推动“三级工作机制”高效运转，统筹谋划实施合作项目事项，高质高效推进“五个互联互通”“五个共建”，双核“引擎”动能持续释放，成渝地区双城经济圈建设在全国大局中的地位作用进一步突出，“规划蓝图”加速变为“现实画卷”。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-270c01b744c0",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-6a4e141f7aff",
+    "ref-cbdb3bef7e7c"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

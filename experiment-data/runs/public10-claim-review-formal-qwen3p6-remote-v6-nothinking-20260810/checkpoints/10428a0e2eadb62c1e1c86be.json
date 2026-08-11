@@ -1,0 +1,4505 @@
+{
+  "contract": {
+    "canonical_question": "2016年至2020年间，成都在融入“一带一路”建设中取得了哪些关键节点与政策落地成果？",
+    "claims": [
+      {
+        "claim": "2016年1月，国务院批复同意成都等12个城市设立跨境电子商务综合试验区。",
+        "claim_id": "claim-c1e178bbc9e17a53",
+        "evidence_block_ids": [
+          "blk-086c447543638ff972eb"
+        ],
+        "evidence_excerpt": "2016年1月国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          106
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年2月，成都获批设立国家服务贸易创新发展试点地区。",
+        "claim_id": "claim-3ba8320ccd94bd56",
+        "evidence_block_ids": [
+          "blk-a804ab7d6097f011a326"
+        ],
+        "evidence_excerpt": "2016年2月 国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          106
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年2月，成都铁路口岸进口肉类指定口岸通过国家质检总局专家组验收。",
+        "claim_id": "claim-49d0f1ba17cdc4d4",
+        "evidence_block_ids": [
+          "blk-da8c2f2f974ab2d3132d",
+          "blk-fae7073e30dced618ca7"
+        ],
+        "evidence_excerpt": "2016年2月 成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          106,
+          107
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年5月，成都天府国际机场正式开工建设。",
+        "claim_id": "claim-02509f000d2110c8",
+        "evidence_block_ids": [
+          "blk-5a8eed276b3b3b1a5361"
+        ],
+        "evidence_excerpt": "2016年5月成都天府国际机场正式开工建设。新机场规划建设6条跑道，一期工程将建设3条跑道及航站楼",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年6月，成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "claim_id": "claim-69ece28ee715d409",
+        "evidence_block_ids": [
+          "blk-12bd2be1f7458ecfa731"
+        ],
+        "evidence_excerpt": "2016年6月成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年6月，首批进口整车搭乘蓉欧快铁从德国抵达成都，成都整车进口口岸正式启动运行。",
+        "claim_id": "claim-d64d72803dd03347",
+        "evidence_block_ids": [
+          "blk-cb14172952b102fa4276"
+        ],
+        "evidence_excerpt": "2016年6月 首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行。",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          109
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年7月，国家工信部批复同意设立中德（蒲江）中小企业合作区。",
+        "claim_id": "claim-09244e1e91b02233",
+        "evidence_block_ids": [
+          "blk-607545f13182d6533278"
+        ],
+        "evidence_excerpt": "2016年7月国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          110
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年11月，成都铁路保税物流中心（B型）正式封关运营。",
+        "claim_id": "claim-63424c1c6170cd18",
+        "evidence_block_ids": [
+          "blk-8e4c789bc8dec675f17f"
+        ],
+        "evidence_excerpt": "2016年11月 成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          114
+        ],
+        "ref_id": "ref-bf8ed12ecae6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年4月，中国（四川）自由贸易试验区正式揭牌。",
+        "claim_id": "claim-640e4911c22086ea",
+        "evidence_block_ids": [
+          "blk-cb04ce9b0f057a89b84f"
+        ],
+        "evidence_excerpt": "2017年4月中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航。",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          126
+        ],
+        "ref_id": "ref-7fcc62022766",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年4月，四川自贸试验区签发国内首张中欧班列多式联运提单。",
+        "claim_id": "claim-f9cff425e299a1cc",
+        "evidence_block_ids": [
+          "blk-9add222e8ab5d41b3116"
+        ],
+        "evidence_excerpt": "2017年4月四川自贸试验区签发国内首张中欧班列多式联运提单。该提单采用物权质押，信用证结算方式",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          126
+        ],
+        "ref_id": "ref-7fcc62022766",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年5月，成都国际铁路港单一窗口正式投入运行。",
+        "claim_id": "claim-999c4bc37ccef267",
+        "evidence_block_ids": [
+          "blk-62ee04644a6bb65e2c8f"
+        ],
+        "evidence_excerpt": "2017年5月成都国际铁路港单一窗口正式投入运行。该窗口包含行政审批和贸易服务两大功能模块",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          127
+        ],
+        "ref_id": "ref-7fcc62022766",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年5月，天府国际机场航站楼工程正式开工建设。",
+        "claim_id": "claim-92c66e452f4fadd5",
+        "evidence_block_ids": [
+          "blk-5605d729620aa14ca8af"
+        ],
+        "evidence_excerpt": "2017年5月天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。航站楼总面积60万平方米",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          127
+        ],
+        "ref_id": "ref-7fcc62022766",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年11月，首趟“蓉欧+”东盟国际铁海联运班列开行。",
+        "claim_id": "claim-0445955cea70213f",
+        "evidence_block_ids": [
+          "blk-7a7b0521e75a0b525450"
+        ],
+        "evidence_excerpt": "2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行。该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          133
+        ],
+        "ref_id": "ref-7fcc62022766",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年12月，西成高铁正式开通运营。",
+        "claim_id": "claim-de1b1ec843764d96",
+        "evidence_block_ids": [
+          "blk-a080c6832ac75051ee99"
+        ],
+        "evidence_excerpt": "2017年12月西成高铁正式开通运营。西成高铁全长658公里，运营时速达250公里",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          134
+        ],
+        "ref_id": "ref-7fcc62022766",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年1月，中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉。",
+        "claim_id": "claim-ea7fdb2e4d313e4c",
+        "evidence_block_ids": [
+          "blk-12591a25ef002b3b763f"
+        ],
+        "evidence_excerpt": "2020年1月中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉。",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-83a6500cd5db",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年3月，中欧班列（成都）“一单到底、两段结算”扩大试点。",
+        "claim_id": "claim-45727a4e85184f79",
+        "evidence_block_ids": [
+          "blk-355570066086a7b57924"
+        ],
+        "evidence_excerpt": "2020年3月 中欧班列（成都）“一单到底、两段结算”扩大试点。《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-83a6500cd5db",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年6月，成都一日韩东向沿江铁海联运通道实现常态化运行。",
+        "claim_id": "claim-bb7b5ac7d2b28a5b",
+        "evidence_block_ids": [
+          "blk-1c2a87e87b0a841c0ad7"
+        ],
+        "evidence_excerpt": "2020年6月成都一日韩东向沿江铁海联运通道实现常态化运行。从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          183
+        ],
+        "ref_id": "ref-83a6500cd5db",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年8月，成都国际铁路港经济开发区获批设立。",
+        "claim_id": "claim-c278acf60af10c68",
+        "evidence_block_ids": [
+          "blk-b7ca814e323e8a056d81"
+        ],
+        "evidence_excerpt": "2020年8月 成都国际铁路港经济开发区获批设立。成都国际铁路港经济开发区规划面积为12.24平方公里",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          184
+        ],
+        "ref_id": "ref-83a6500cd5db",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年12月，成都国际铁路港综合保税区正式通过国家验收。",
+        "claim_id": "claim-7066bdd3dd0ac8d5",
+        "evidence_block_ids": [
+          "blk-0012435ff55f5f54f77b"
+        ],
+        "evidence_excerpt": "2020年12月 成都国际铁路港综合保税区正式通过国家验收。",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          189
+        ],
+        "ref_id": "ref-83a6500cd5db",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年11月，成都天府国际机场投产校验由此拉开帷幕。",
+        "claim_id": "claim-b755e66c294e9481",
+        "evidence_block_ids": [
+          "blk-0bb62693f8981f2bdcdc"
+        ],
+        "evidence_excerpt": "2020年11月成都天府国际机场投产校验由此拉开帷幕。此次飞行校验将主要对机场的空管及助航设备进行飞行校验",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-83a6500cd5db",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c1e178bbc9e17a53",
+          "claim-3ba8320ccd94bd56",
+          "claim-49d0f1ba17cdc4d4",
+          "claim-02509f000d2110c8",
+          "claim-69ece28ee715d409",
+          "claim-d64d72803dd03347",
+          "claim-09244e1e91b02233",
+          "claim-63424c1c6170cd18"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+        "reason": "包含2016年关键政策批复及口岸建设事实，是回答中心问题起始阶段成果的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-640e4911c22086ea",
+          "claim-f9cff425e299a1cc",
+          "claim-999c4bc37ccef267",
+          "claim-92c66e452f4fadd5",
+          "claim-0445955cea70213f",
+          "claim-de1b1ec843764d96"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+        "reason": "包含2017年自贸区挂牌、中欧班列创新及国际枢纽建设等关键事实，是回答中心问题中期成果的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-ea7fdb2e4d313e4c",
+          "claim-45727a4e85184f79",
+          "claim-bb7b5ac7d2b28a5b",
+          "claim-c278acf60af10c68",
+          "claim-7066bdd3dd0ac8d5",
+          "claim-b755e66c294e9481"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+        "reason": "包含2020年进口贸易示范区获批、中欧班列常态化及天府机场校飞等关键事实，是回答中心问题后期成果的必要证据。"
+      }
+    ],
+    "group_id": "topic-ae4b59f7ae45",
+    "members": [
+      {
+        "contribution": "提供2016年成都获批跨境电商综试区、服务贸易试点、整车及肉类进口口岸、天府国际机场开工等早期关键节点，奠定开放基础。",
+        "ref_id": "ref-bf8ed12ecae6",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2017年成都获批自贸区、中欧班列产品创新、国际航线拓展及重大国际会议举办等中期成果，展示开放能级提升。",
+        "ref_id": "ref-7fcc62022766",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2020年成都获批进口贸易示范区、中欧班列常态化、天府机场校飞及自贸试验区验收等后期成果，体现开放体系成熟。",
+        "ref_id": "ref-83a6500cd5db",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-c1e178bbc9e17a53",
+        "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3ba8320ccd94bd56",
+        "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-49d0f1ba17cdc4d4",
+        "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-02509f000d2110c8",
+        "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-69ece28ee715d409",
+        "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d64d72803dd03347",
+        "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-09244e1e91b02233",
+        "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-63424c1c6170cd18",
+        "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-640e4911c22086ea",
+        "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f9cff425e299a1cc",
+        "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-999c4bc37ccef267",
+        "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-92c66e452f4fadd5",
+        "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0445955cea70213f",
+        "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-de1b1ec843764d96",
+        "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ea7fdb2e4d313e4c",
+        "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-45727a4e85184f79",
+        "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bb7b5ac7d2b28a5b",
+        "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c278acf60af10c68",
+        "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b755e66c294e9481",
+        "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7066bdd3dd0ac8d5",
+        "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+        "finding": "Unsupported: This is a description of the document's scope, not a factual claim about the events themselves.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d057edf772c608f6",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+        "finding": "Unsupported: General summary statement not directly mapped to a single specific claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-019f164ecf7a0f4f",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+        "finding": "Unsupported: Interpretive summary not directly mapped to a single specific claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cd3c353bf9a3eea6",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+        "finding": "Unsupported: General summary statement.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3c2fb7446f04c490",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+        "finding": "Unsupported: Summary statement combining multiple claims, not a direct match for a single claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4c37617c774b9224",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-c1e178bbc9e17a53"
+        ],
+        "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+        "finding": "Supported: Matches claim-c1e178bbc9e17a53.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3aa839557b765764",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3ba8320ccd94bd56"
+        ],
+        "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+        "finding": "Supported: Matches claim-3ba8320ccd94bd56.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-95c99a98a5fed7e2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-49d0f1ba17cdc4d4"
+        ],
+        "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+        "finding": "Supported: Matches claim-49d0f1ba17cdc4d4.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0917cfb9f5741fb1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-02509f000d2110c8"
+        ],
+        "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设",
+        "finding": "Supported: Matches claim-02509f000d2110c8.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1f61f22d3186f4a1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-69ece28ee715d409"
+        ],
+        "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+        "finding": "Supported: Matches claim-69ece28ee715d409.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ee9bdab6e2d1d7cf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d64d72803dd03347"
+        ],
+        "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+        "finding": "Supported: Matches claim-d64d72803dd03347.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6276b6297b0a1660",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-09244e1e91b02233"
+        ],
+        "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+        "finding": "Supported: Matches claim-09244e1e91b02233.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b666cdb92bb18e01",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-63424c1c6170cd18"
+        ],
+        "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3c9754bda01c17bb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-640e4911c22086ea"
+        ],
+        "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2c88c584cd9ea069",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f9cff425e299a1cc"
+        ],
+        "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-62ea8543eb918e8a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f9cff425e299a1cc"
+        ],
+        "draft_excerpt": "该提单采用物权质押，信用证结算方式",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b7d0da8875c90123",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-999c4bc37ccef267"
+        ],
+        "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8454f60f54c0868b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-999c4bc37ccef267"
+        ],
+        "draft_excerpt": "该窗口包含行政审批和贸易服务两大功能模块",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6109f2bbd654684f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-92c66e452f4fadd5"
+        ],
+        "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2c54bb42e3ccc7b1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-92c66e452f4fadd5"
+        ],
+        "draft_excerpt": "航站楼总面积60万平方米",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8fa10ae6322e29a7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0445955cea70213f"
+        ],
+        "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-24428861f96be020",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0445955cea70213f"
+        ],
+        "draft_excerpt": "该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-45cbd04377e5e144",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-de1b1ec843764d96"
+        ],
+        "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-12649487c820a22f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-de1b1ec843764d96"
+        ],
+        "draft_excerpt": "西成高铁全长658公里，运营时速达250公里",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-adcaa3d7c22a0d7d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ea7fdb2e4d313e4c"
+        ],
+        "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+        "finding": "Supported by claim-ea7fdb2e4d313e4c.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6e53acb58c8dc357",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45727a4e85184f79"
+        ],
+        "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+        "finding": "Supported by claim-45727a4e85184f79.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4aa65df8ea1895ec",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+        "finding": "Unsupported. Claim-45727a4e85184f79 only states the expansion of the pilot, not the specific document name or the detailed scope of 'all eligible foreign trade'",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bfc5f8b44ab628fc",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-bb7b5ac7d2b28a5b"
+        ],
+        "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+        "finding": "Supported by claim-bb7b5ac7d2b28a5b.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-95d8861d308f2966",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+        "finding": "Unsupported. Claim-bb7b5ac7d2b28a5b does not mention the frequency of 3 trains per week.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ce9821470cc2ea1",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-c278acf60af10c68"
+        ],
+        "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+        "finding": "Supported by claim-c278acf60af10c68.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bf206ae689a70c21",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+        "finding": "Unsupported. Claim-c278acf60af10c68 does not mention the area size.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dd5731316aef5194",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-b755e66c294e9481"
+        ],
+        "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕",
+        "finding": "Supported by claim-b755e66c294e9481.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2017001d26b1d36b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7066bdd3dd0ac8d5"
+        ],
+        "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+        "finding": "Supported by claim-7066bdd3dd0ac8d5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-540214a962efbe16",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+        "finding": "Unsupported: Description of document scope."
+      },
+      {
+        "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+        "finding": "Unsupported: General summary."
+      },
+      {
+        "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+        "finding": "Unsupported: Interpretive summary."
+      },
+      {
+        "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+        "finding": "Unsupported: General summary."
+      },
+      {
+        "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+        "finding": "Unsupported: Summary statement."
+      },
+      {
+        "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+        "finding": "Unsupported. Claim-45727a4e85184f79 only states the expansion of the pilot, not the specific document name or the detailed scope of 'all eligible foreign trade'"
+      },
+      {
+        "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+        "finding": "Unsupported. Claim-bb7b5ac7d2b28a5b does not mention the frequency of 3 trains per week."
+      },
+      {
+        "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+        "finding": "Unsupported. Claim-c278acf60af10c68 does not mention the area size."
+      },
+      {
+        "draft_excerpt": "2016",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2020",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2016年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2020年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-c1e178bbc9e17a53",
+          "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3ba8320ccd94bd56",
+          "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-49d0f1ba17cdc4d4",
+          "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-02509f000d2110c8",
+          "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-69ece28ee715d409",
+          "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d64d72803dd03347",
+          "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-09244e1e91b02233",
+          "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+          "finding": "Unsupported: This is a description of the document's scope, not a factual claim about the events themselves.",
+          "sentence_id": "sentence-d057edf772c608f6",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+          "finding": "Unsupported: General summary statement not directly mapped to a single specific claim.",
+          "sentence_id": "sentence-019f164ecf7a0f4f",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+          "finding": "Unsupported: Interpretive summary not directly mapped to a single specific claim.",
+          "sentence_id": "sentence-cd3c353bf9a3eea6",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+          "finding": "Unsupported: General summary statement.",
+          "sentence_id": "sentence-3c2fb7446f04c490",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+          "finding": "Unsupported: Summary statement combining multiple claims, not a direct match for a single claim.",
+          "sentence_id": "sentence-4c37617c774b9224",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-c1e178bbc9e17a53"
+          ],
+          "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+          "finding": "Supported: Matches claim-c1e178bbc9e17a53.",
+          "sentence_id": "sentence-3aa839557b765764",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3ba8320ccd94bd56"
+          ],
+          "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+          "finding": "Supported: Matches claim-3ba8320ccd94bd56.",
+          "sentence_id": "sentence-95c99a98a5fed7e2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-49d0f1ba17cdc4d4"
+          ],
+          "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+          "finding": "Supported: Matches claim-49d0f1ba17cdc4d4.",
+          "sentence_id": "sentence-0917cfb9f5741fb1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-02509f000d2110c8"
+          ],
+          "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设",
+          "finding": "Supported: Matches claim-02509f000d2110c8.",
+          "sentence_id": "sentence-1f61f22d3186f4a1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-69ece28ee715d409"
+          ],
+          "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+          "finding": "Supported: Matches claim-69ece28ee715d409.",
+          "sentence_id": "sentence-ee9bdab6e2d1d7cf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d64d72803dd03347"
+          ],
+          "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+          "finding": "Supported: Matches claim-d64d72803dd03347.",
+          "sentence_id": "sentence-6276b6297b0a1660",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-09244e1e91b02233"
+          ],
+          "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+          "finding": "Supported: Matches claim-09244e1e91b02233.",
+          "sentence_id": "sentence-b666cdb92bb18e01",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+          "finding": "Unsupported: Description of document scope."
+        },
+        {
+          "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+          "finding": "Unsupported: General summary."
+        },
+        {
+          "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+          "finding": "Unsupported: Interpretive summary."
+        },
+        {
+          "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+          "finding": "Unsupported: General summary."
+        },
+        {
+          "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+          "finding": "Unsupported: Summary statement."
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-63424c1c6170cd18",
+          "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-640e4911c22086ea",
+          "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f9cff425e299a1cc",
+          "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-999c4bc37ccef267",
+          "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-92c66e452f4fadd5",
+          "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0445955cea70213f",
+          "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-de1b1ec843764d96",
+          "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-63424c1c6170cd18"
+          ],
+          "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+          "finding": "supported",
+          "sentence_id": "sentence-3c9754bda01c17bb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-640e4911c22086ea"
+          ],
+          "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+          "finding": "supported",
+          "sentence_id": "sentence-2c88c584cd9ea069",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f9cff425e299a1cc"
+          ],
+          "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+          "finding": "supported",
+          "sentence_id": "sentence-62ea8543eb918e8a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f9cff425e299a1cc"
+          ],
+          "draft_excerpt": "该提单采用物权质押，信用证结算方式",
+          "finding": "supported",
+          "sentence_id": "sentence-b7d0da8875c90123",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-999c4bc37ccef267"
+          ],
+          "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+          "finding": "supported",
+          "sentence_id": "sentence-8454f60f54c0868b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-999c4bc37ccef267"
+          ],
+          "draft_excerpt": "该窗口包含行政审批和贸易服务两大功能模块",
+          "finding": "supported",
+          "sentence_id": "sentence-6109f2bbd654684f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-92c66e452f4fadd5"
+          ],
+          "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+          "finding": "supported",
+          "sentence_id": "sentence-2c54bb42e3ccc7b1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-92c66e452f4fadd5"
+          ],
+          "draft_excerpt": "航站楼总面积60万平方米",
+          "finding": "supported",
+          "sentence_id": "sentence-8fa10ae6322e29a7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0445955cea70213f"
+          ],
+          "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+          "finding": "supported",
+          "sentence_id": "sentence-24428861f96be020",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0445955cea70213f"
+          ],
+          "draft_excerpt": "该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道",
+          "finding": "supported",
+          "sentence_id": "sentence-45cbd04377e5e144",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-de1b1ec843764d96"
+          ],
+          "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+          "finding": "supported",
+          "sentence_id": "sentence-12649487c820a22f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-de1b1ec843764d96"
+          ],
+          "draft_excerpt": "西成高铁全长658公里，运营时速达250公里",
+          "finding": "supported",
+          "sentence_id": "sentence-adcaa3d7c22a0d7d",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "2": {
+      "batch_index": 2,
+      "rows": [
+        {
+          "claim_id": "claim-ea7fdb2e4d313e4c",
+          "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-45727a4e85184f79",
+          "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bb7b5ac7d2b28a5b",
+          "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c278acf60af10c68",
+          "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b755e66c294e9481",
+          "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7066bdd3dd0ac8d5",
+          "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-ea7fdb2e4d313e4c"
+          ],
+          "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+          "finding": "Supported by claim-ea7fdb2e4d313e4c.",
+          "sentence_id": "sentence-6e53acb58c8dc357",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-45727a4e85184f79"
+          ],
+          "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+          "finding": "Supported by claim-45727a4e85184f79.",
+          "sentence_id": "sentence-4aa65df8ea1895ec",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+          "finding": "Unsupported. Claim-45727a4e85184f79 only states the expansion of the pilot, not the specific document name or the detailed scope of 'all eligible foreign trade'",
+          "sentence_id": "sentence-bfc5f8b44ab628fc",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-bb7b5ac7d2b28a5b"
+          ],
+          "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+          "finding": "Supported by claim-bb7b5ac7d2b28a5b.",
+          "sentence_id": "sentence-95d8861d308f2966",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+          "finding": "Unsupported. Claim-bb7b5ac7d2b28a5b does not mention the frequency of 3 trains per week.",
+          "sentence_id": "sentence-1ce9821470cc2ea1",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-c278acf60af10c68"
+          ],
+          "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+          "finding": "Supported by claim-c278acf60af10c68.",
+          "sentence_id": "sentence-bf206ae689a70c21",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+          "finding": "Unsupported. Claim-c278acf60af10c68 does not mention the area size.",
+          "sentence_id": "sentence-dd5731316aef5194",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-b755e66c294e9481"
+          ],
+          "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕",
+          "finding": "Supported by claim-b755e66c294e9481.",
+          "sentence_id": "sentence-2017001d26b1d36b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7066bdd3dd0ac8d5"
+          ],
+          "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+          "finding": "Supported by claim-7066bdd3dd0ac8d5.",
+          "sentence_id": "sentence-540214a962efbe16",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+          "finding": "Unsupported. Claim-45727a4e85184f79 only states the expansion of the pilot, not the specific document name or the detailed scope of 'all eligible foreign trade'"
+        },
+        {
+          "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+          "finding": "Unsupported. Claim-bb7b5ac7d2b28a5b does not mention the frequency of 3 trains per week."
+        },
+        {
+          "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+          "finding": "Unsupported. Claim-c278acf60af10c68 does not mention the area size."
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "47e641adacb53e82455a1d461c7872f287db80eb9e33ea3e9b25d33ccc865d0f",
+  "coverage_history": [
+    {
+      "draft_sha256": "14ed1e166144d72ec07d87dfbddffb4f985e33b7d76b5f1aa4c717a8a62173d8",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c1e178bbc9e17a53",
+            "draft_excerpt": "",
+            "finding": "草稿句提及2016年获批跨境电商综试区，与claim一致。 代码门禁降级为 omitted：covered claim attribution claim-c1e178bbc9e17a53 is missing hard anchors from the claim: ['12']; claim='2016年1月，国务院批复同意成都等12个城市设立跨境电子商务综合试验区。'; excerpt='梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。\\n2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。\\n在贸易便利化与制度创新方面，2016年1月国务院同意成都设立跨'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-3ba8320ccd94bd56",
+            "draft_excerpt": "2月获批国家服务贸易创新发展试点，并建成我国第二个内陆进口肉类指定口岸。",
+            "finding": "草稿句提及2月获批服务贸易创新发展试点，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-49d0f1ba17cdc4d4",
+            "draft_excerpt": "2月获批国家服务贸易创新发展试点，并建成我国第二个内陆进口肉类指定口岸。",
+            "finding": "草稿句提及建成我国第二个内陆进口肉类指定口岸，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02509f000d2110c8",
+            "draft_excerpt": "在基础设施与物流通道建设方面，2016年5月天府国际机场开工，6月成都国际铁路港入选国家首批多式联运示范工程，同月整车进口口岸启动运行，11月铁路保税物流中心（B型）封关运营。",
+            "finding": "草稿句提及2016年5月天府国际机场开工，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-69ece28ee715d409",
+            "draft_excerpt": "在基础设施与物流通道建设方面，2016年5月天府国际机场开工，6月成都国际铁路港入选国家首批多式联运示范工程，同月整车进口口岸启动运行，11月铁路保税物流中心（B型）封关运营。",
+            "finding": "草稿句提及2016年6月成都国际铁路港入选国家首批多式联运示范工程，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d64d72803dd03347",
+            "draft_excerpt": "在基础设施与物流通道建设方面，2016年5月天府国际机场开工，6月成都国际铁路港入选国家首批多式联运示范工程，同月整车进口口岸启动运行，11月铁路保税物流中心（B型）封关运营。",
+            "finding": "草稿句提及2016年6月整车进口口岸启动运行，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63424c1c6170cd18",
+            "draft_excerpt": "",
+            "finding": "草稿句提及2016年11月铁路保税物流中心（B型）封关运营，与claim一致。 代码门禁降级为 omitted：covered claim attribution claim-63424c1c6170cd18 is missing hard anchors from the claim: ['2016年11月']; claim='2016年11月，成都铁路保税物流中心（B型）正式封关运营。'; excerpt='在基础设施与物流通道建设方面，2016年5月天府国际机场开工，6月成都国际铁路港入选国家首批多式联运示范工程，同月整车进口口岸启动运行，11月铁路保税物流中心（B型）封关运营。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-640e4911c22086ea",
+            "draft_excerpt": "2017年4月四川自贸试验区揭牌并签发国内首张中欧班列多式联运提单，5月成都国际铁路港单一窗口投入运行。",
+            "finding": "草稿句提及2017年4月四川自贸试验区揭牌，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f9cff425e299a1cc",
+            "draft_excerpt": "2017年4月四川自贸试验区揭牌并签发国内首张中欧班列多式联运提单，5月成都国际铁路港单一窗口投入运行。",
+            "finding": "草稿句提及2017年4月签发国内首张中欧班列多式联运提单，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-999c4bc37ccef267",
+            "draft_excerpt": "",
+            "finding": "草稿句提及2017年5月成都国际铁路港单一窗口投入运行，与claim一致。 代码门禁降级为 omitted：covered claim attribution claim-999c4bc37ccef267 is missing hard anchors from the claim: ['2017年5月']; claim='2017年5月，成都国际铁路港单一窗口正式投入运行。'; excerpt='2017年4月四川自贸试验区揭牌并签发国内首张中欧班列多式联运提单，5月成都国际铁路港单一窗口投入运行。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-0445955cea70213f",
+            "draft_excerpt": "2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行，打通东南亚物流新通道；",
+            "finding": "草稿句提及2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-de1b1ec843764d96",
+            "draft_excerpt": "",
+            "finding": "草稿句提及12月西成高铁开通，与claim一致。 代码门禁降级为 omitted：covered claim attribution claim-de1b1ec843764d96 is missing hard anchors from the claim: ['2017年12月']; claim='2017年12月，西成高铁正式开通运营。'; excerpt='12月西成高铁开通。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ea7fdb2e4d313e4c",
+            "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+            "finding": "草稿句提及2020年中欧班列（成都）开通俄罗斯菜籽油专列，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45727a4e85184f79",
+            "draft_excerpt": "2020年3月，中欧班列（成都）扩大“一单到底、两段结算”试点范围，12月成都国际铁路港综合保税区通过国家验收。",
+            "finding": "草稿句提及2020年3月中欧班列（成都）扩大“一单到底、两段结算”试点范围，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7066bdd3dd0ac8d5",
+            "draft_excerpt": "2020年3月，中欧班列（成都）扩大“一单到底、两段结算”试点范围，12月成都国际铁路港综合保税区通过国家验收。",
+            "finding": "草稿句提及2020年12月成都国际铁路港综合保税区通过国家验收，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bb7b5ac7d2b28a5b",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-bb7b5ac7d2b28a5b is missing hard anchors from the claim: ['2020年6月']; claim='2020年6月，成都一日韩东向沿江铁海联运通道实现常态化运行。'; excerpt='2020年1月开通全国首趟俄罗斯菜籽油专列，6月实现一日韩东向沿江铁海联运通道常态化运行，8月获批设立成都国际铁路港经济开发区。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-c278acf60af10c68",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-c278acf60af10c68 is missing hard anchors from the claim: ['2020年8月']; claim='2020年8月，成都国际铁路港经济开发区获批设立。'; excerpt='2020年1月开通全国首趟俄罗斯菜籽油专列，6月实现一日韩东向沿江铁海联运通道常态化运行，8月获批设立成都国际铁路港经济开发区。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-09244e1e91b02233",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-92c66e452f4fadd5",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b755e66c294e9481",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-c1e178bbc9e17a53",
+              "claim-ea7fdb2e4d313e4c"
+            ],
+            "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+            "finding": "该句概括了本批涉及的claim-c1e178bbc9e17a53和claim-ea7fdb2e4d313e4c。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d057edf772c608f6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e178bbc9e17a53"
+            ],
+            "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+            "finding": "该句概括了本批涉及的claim-c1e178bbc9e17a53。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-019f164ecf7a0f4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+            "finding": "该句包含推断性判断（确立地位、形成体系），合同证据仅支持具体事实，未支持此类宏观定性结论。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd3c353bf9a3eea6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+            "finding": "该句为推断性判断，合同证据仅支持具体事实，未支持此类宏观定性结论。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c2fb7446f04c490",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设，实现了从单一物流通道向立体化国际门户枢纽的转型。",
+            "finding": "该句后半部分“实现了从单一物流通道向立体化国际门户枢纽的转型”为推断性判断，合同证据仅支持具体事实，未支持此类宏观定性结论。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-799aa31cc5db80e9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e178bbc9e17a53"
+            ],
+            "draft_excerpt": "在贸易便利化与制度创新方面，2016年1月国务院同意成都设立跨境电子商务综合试验区；",
+            "finding": "该句提及2016年1月国务院同意成都设立跨境电子商务综合试验区，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37f6a1384e7a5fac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3ba8320ccd94bd56",
+              "claim-49d0f1ba17cdc4d4"
+            ],
+            "draft_excerpt": "2月获批国家服务贸易创新发展试点，并建成我国第二个内陆进口肉类指定口岸。",
+            "finding": "该句提及2月获批服务贸易创新发展试点及建成我国第二个内陆进口肉类指定口岸，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-576e121644e1790e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-640e4911c22086ea",
+              "claim-f9cff425e299a1cc",
+              "claim-999c4bc37ccef267"
+            ],
+            "draft_excerpt": "2017年4月四川自贸试验区揭牌并签发国内首张中欧班列多式联运提单，5月成都国际铁路港单一窗口投入运行。",
+            "finding": "该句提及2017年4月四川自贸试验区揭牌、签发国内首张中欧班列多式联运提单，以及5月成都国际铁路港单一窗口投入运行，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-39c40b2384517a3b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45727a4e85184f79",
+              "claim-7066bdd3dd0ac8d5"
+            ],
+            "draft_excerpt": "2020年3月，中欧班列（成都）扩大“一单到底、两段结算”试点范围，12月成都国际铁路港综合保税区通过国家验收。",
+            "finding": "该句提及2020年3月中欧班列（成都）扩大“一单到底、两段结算”试点范围，以及12月成都国际铁路港综合保税区通过国家验收，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c471093ee54e408",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02509f000d2110c8",
+              "claim-69ece28ee715d409",
+              "claim-d64d72803dd03347",
+              "claim-63424c1c6170cd18"
+            ],
+            "draft_excerpt": "在基础设施与物流通道建设方面，2016年5月天府国际机场开工，6月成都国际铁路港入选国家首批多式联运示范工程，同月整车进口口岸启动运行，11月铁路保税物流中心（B型）封关运营。",
+            "finding": "该句提及2016年5月天府国际机场开工、6月成都国际铁路港入选国家首批多式联运示范工程、同月整车进口口岸启动运行，以及11月铁路保税物流中心（B型）封关运营，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a632ba1acdd8bca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0445955cea70213f"
+            ],
+            "draft_excerpt": "2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行，打通东南亚物流新通道；",
+            "finding": "该句提及2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2d8f11cc2e27e0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-de1b1ec843764d96"
+            ],
+            "draft_excerpt": "12月西成高铁开通。",
+            "finding": "该句提及12月西成高铁开通，与claim一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e49ce19676e0440f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ea7fdb2e4d313e4c",
+              "claim-bb7b5ac7d2b28a5b",
+              "claim-c278acf60af10c68"
+            ],
+            "draft_excerpt": "2020年1月开通全国首趟俄罗斯菜籽油专列，6月实现一日韩东向沿江铁海联运通道常态化运行，8月获批设立成都国际铁路港经济开发区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6dfb4d5fa2359f6a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e178bbc9e17a53"
+            ],
+            "draft_excerpt": "2016年1月：国务院同意成都设立跨境电子商务综合试验区",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c051ed9cfc79a7cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3ba8320ccd94bd56",
+              "claim-49d0f1ba17cdc4d4"
+            ],
+            "draft_excerpt": "2016年2月：成都获批国家服务贸易创新发展试点及内陆进口肉类指定口岸",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a085adcf03cad61c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-69ece28ee715d409",
+              "claim-d64d72803dd03347"
+            ],
+            "draft_excerpt": "2016年6月：成都国际铁路港入选国家首批多式联运示范工程，整车进口口岸启动",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e72dd53d96282426",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-640e4911c22086ea",
+              "claim-f9cff425e299a1cc"
+            ],
+            "draft_excerpt": "2017年4月：四川自贸试验区揭牌，签发国内首张中欧班列多式联运提单",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e760a53c3740fec3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0445955cea70213f"
+            ],
+            "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6d484a89a19a2666",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ea7fdb2e4d313e4c"
+            ],
+            "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列抵蓉",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6359cac6404d72da",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45727a4e85184f79"
+            ],
+            "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”运费机制改革试点扩大",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c88193395ffbeaa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7066bdd3dd0ac8d5"
+            ],
+            "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8e9826735d75e13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+            "finding": "该句包含推断性判断（确立地位、形成体系），合同证据仅支持具体事实，未支持此类宏观定性结论。"
+          },
+          {
+            "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+            "finding": "该句为推断性判断，合同证据仅支持具体事实，未支持此类宏观定性结论。"
+          },
+          {
+            "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设，实现了从单一物流通道向立体化国际门户枢纽的转型。",
+            "finding": "该句后半部分“实现了从单一物流通道向立体化国际门户枢纽的转型”为推断性判断，合同证据仅支持具体事实，未支持此类宏观定性结论。"
+          },
+          {
+            "draft_excerpt": "2016",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "11",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "8f8570efa28eb1c26e374409b161456ff94a9993b2f73323f59ede13cc37a5bb",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c1e178bbc9e17a53",
+            "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3ba8320ccd94bd56",
+            "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-49d0f1ba17cdc4d4",
+            "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02509f000d2110c8",
+            "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-69ece28ee715d409",
+            "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d64d72803dd03347",
+            "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-09244e1e91b02233",
+            "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63424c1c6170cd18",
+            "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-640e4911c22086ea",
+            "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f9cff425e299a1cc",
+            "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-999c4bc37ccef267",
+            "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92c66e452f4fadd5",
+            "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0445955cea70213f",
+            "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-de1b1ec843764d96",
+            "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ea7fdb2e4d313e4c",
+            "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45727a4e85184f79",
+            "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bb7b5ac7d2b28a5b",
+            "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c278acf60af10c68",
+            "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b755e66c294e9481",
+            "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7066bdd3dd0ac8d5",
+            "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+            "finding": "Unsupported: This is a meta-description of the document's scope, not a factual claim about Chengdu's history.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d057edf772c608f6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+            "finding": "Unsupported: General summary statement not directly supported by specific claim text.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-019f164ecf7a0f4f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+            "finding": "Unsupported: Interpretive summary not directly supported by specific claim text.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd3c353bf9a3eea6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+            "finding": "Unsupported: Interpretive summary not directly supported by specific claim text.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c2fb7446f04c490",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+            "finding": "Unsupported: General summary statement not directly supported by specific claim text.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4c37617c774b9224",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e178bbc9e17a53"
+            ],
+            "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+            "finding": "Supported: Matches claim-c1e178bbc9e17a53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aa839557b765764",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3ba8320ccd94bd56"
+            ],
+            "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+            "finding": "Supported: Matches claim-3ba8320ccd94bd56.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95c99a98a5fed7e2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-49d0f1ba17cdc4d4"
+            ],
+            "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+            "finding": "Supported: Matches claim-49d0f1ba17cdc4d4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0917cfb9f5741fb1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02509f000d2110c8"
+            ],
+            "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设。",
+            "finding": "Supported: Matches claim-02509f000d2110c8.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfccda964705e707",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新机场规划建设6条跑道，一期工程将建设3条跑道及航站楼",
+            "finding": "Unsupported: Additional detail not in the specific claim text for claim-02509f000d2110c8.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-25dc67715d0a25eb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-69ece28ee715d409"
+            ],
+            "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+            "finding": "Supported: Matches claim-69ece28ee715d409.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-17d67f90c5773a36",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d64d72803dd03347"
+            ],
+            "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+            "finding": "Supported: Matches claim-d64d72803dd03347.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f851a62007d410e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-09244e1e91b02233"
+            ],
+            "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+            "finding": "Sentence fully supported by claim-09244e1e91b02233.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-067dbd55d95b373b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-63424c1c6170cd18"
+            ],
+            "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+            "finding": "Sentence fully supported by claim-63424c1c6170cd18.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-164dde0d31aafca0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-640e4911c22086ea"
+            ],
+            "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+            "finding": "Sentence fully supported by claim-640e4911c22086ea.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-151bf5aa7b482dd4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f9cff425e299a1cc"
+            ],
+            "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+            "finding": "Sentence fully supported by claim-f9cff425e299a1cc.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c2213043f0576a6c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f9cff425e299a1cc"
+            ],
+            "draft_excerpt": "该提单采用物权质押，信用证结算方式",
+            "finding": "Sentence fully supported by claim-f9cff425e299a1cc.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2866426f16464ad5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-999c4bc37ccef267"
+            ],
+            "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+            "finding": "Sentence fully supported by claim-999c4bc37ccef267.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d1f31c22725ca63b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-999c4bc37ccef267"
+            ],
+            "draft_excerpt": "该窗口包含行政审批和贸易服务两大功能模块",
+            "finding": "Sentence fully supported by claim-999c4bc37ccef267.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-42ce94eca5db8619",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92c66e452f4fadd5"
+            ],
+            "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+            "finding": "Sentence fully supported by claim-92c66e452f4fadd5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf5f7ee88c02e8bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92c66e452f4fadd5"
+            ],
+            "draft_excerpt": "航站楼总面积60万平方米",
+            "finding": "Sentence fully supported by claim-92c66e452f4fadd5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-756da61663ea83a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0445955cea70213f"
+            ],
+            "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+            "finding": "Sentence fully supported by claim-0445955cea70213f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95dcc58e77dacdf3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0445955cea70213f"
+            ],
+            "draft_excerpt": "该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道",
+            "finding": "Sentence fully supported by claim-0445955cea70213f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7f35391a0f9dd9e2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-de1b1ec843764d96"
+            ],
+            "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+            "finding": "Sentence fully supported by claim-de1b1ec843764d96.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d297e7fdd80f3824",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-de1b1ec843764d96"
+            ],
+            "draft_excerpt": "西成高铁全长658公里，运营时速达250公里",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1eab25f401fd998a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ea7fdb2e4d313e4c"
+            ],
+            "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-156479c382f60406",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45727a4e85184f79"
+            ],
+            "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd443eb615f06558",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45727a4e85184f79"
+            ],
+            "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c53d253d78aa7f14",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bb7b5ac7d2b28a5b"
+            ],
+            "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd108289e08c2db3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bb7b5ac7d2b28a5b"
+            ],
+            "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c32b56edbeba3c0d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c278acf60af10c68"
+            ],
+            "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3f9599204367d2e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c278acf60af10c68"
+            ],
+            "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dd2b2193068bd509",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b755e66c294e9481"
+            ],
+            "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb59d3366c92df38",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此次飞行校验将主要对机场的空管及助航设备进行飞行校验",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51bff4af508f6198",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7066bdd3dd0ac8d5"
+            ],
+            "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa5863f0fd839c50",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+            "finding": "Unsupported: Meta-description of document scope."
+          },
+          {
+            "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+            "finding": "Unsupported: General summary statement."
+          },
+          {
+            "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+            "finding": "Unsupported: Interpretive summary."
+          },
+          {
+            "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+            "finding": "Unsupported: Interpretive summary."
+          },
+          {
+            "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+            "finding": "Unsupported: General summary statement."
+          },
+          {
+            "draft_excerpt": "新机场规划建设6条跑道，一期工程将建设3条跑道及航站楼",
+            "finding": "Unsupported: Additional detail not in the specific claim text for claim-02509f000d2110c8."
+          },
+          {
+            "draft_excerpt": "此次飞行校验将主要对机场的空管及助航设备进行飞行校验",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2016",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "47e641adacb53e82455a1d461c7872f287db80eb9e33ea3e9b25d33ccc865d0f",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c1e178bbc9e17a53",
+            "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3ba8320ccd94bd56",
+            "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-49d0f1ba17cdc4d4",
+            "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02509f000d2110c8",
+            "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-69ece28ee715d409",
+            "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d64d72803dd03347",
+            "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-09244e1e91b02233",
+            "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63424c1c6170cd18",
+            "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-640e4911c22086ea",
+            "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f9cff425e299a1cc",
+            "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-999c4bc37ccef267",
+            "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92c66e452f4fadd5",
+            "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0445955cea70213f",
+            "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-de1b1ec843764d96",
+            "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ea7fdb2e4d313e4c",
+            "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45727a4e85184f79",
+            "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bb7b5ac7d2b28a5b",
+            "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c278acf60af10c68",
+            "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b755e66c294e9481",
+            "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7066bdd3dd0ac8d5",
+            "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+            "finding": "Unsupported: This is a description of the document's scope, not a factual claim about the events themselves.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d057edf772c608f6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+            "finding": "Unsupported: General summary statement not directly mapped to a single specific claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-019f164ecf7a0f4f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+            "finding": "Unsupported: Interpretive summary not directly mapped to a single specific claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd3c353bf9a3eea6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+            "finding": "Unsupported: General summary statement.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c2fb7446f04c490",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+            "finding": "Unsupported: Summary statement combining multiple claims, not a direct match for a single claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4c37617c774b9224",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c1e178bbc9e17a53"
+            ],
+            "draft_excerpt": "2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+            "finding": "Supported: Matches claim-c1e178bbc9e17a53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aa839557b765764",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3ba8320ccd94bd56"
+            ],
+            "draft_excerpt": "2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+            "finding": "Supported: Matches claim-3ba8320ccd94bd56.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95c99a98a5fed7e2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-49d0f1ba17cdc4d4"
+            ],
+            "draft_excerpt": "2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+            "finding": "Supported: Matches claim-49d0f1ba17cdc4d4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0917cfb9f5741fb1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02509f000d2110c8"
+            ],
+            "draft_excerpt": "2016年5月：成都天府国际机场正式开工建设",
+            "finding": "Supported: Matches claim-02509f000d2110c8.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f61f22d3186f4a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-69ece28ee715d409"
+            ],
+            "draft_excerpt": "2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目",
+            "finding": "Supported: Matches claim-69ece28ee715d409.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee9bdab6e2d1d7cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d64d72803dd03347"
+            ],
+            "draft_excerpt": "2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行",
+            "finding": "Supported: Matches claim-d64d72803dd03347.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6276b6297b0a1660",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-09244e1e91b02233"
+            ],
+            "draft_excerpt": "2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+            "finding": "Supported: Matches claim-09244e1e91b02233.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b666cdb92bb18e01",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-63424c1c6170cd18"
+            ],
+            "draft_excerpt": "2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c9754bda01c17bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-640e4911c22086ea"
+            ],
+            "draft_excerpt": "2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c88c584cd9ea069",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f9cff425e299a1cc"
+            ],
+            "draft_excerpt": "2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-62ea8543eb918e8a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f9cff425e299a1cc"
+            ],
+            "draft_excerpt": "该提单采用物权质押，信用证结算方式",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b7d0da8875c90123",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-999c4bc37ccef267"
+            ],
+            "draft_excerpt": "2017年5月：成都国际铁路港单一窗口正式投入运行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8454f60f54c0868b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-999c4bc37ccef267"
+            ],
+            "draft_excerpt": "该窗口包含行政审批和贸易服务两大功能模块",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6109f2bbd654684f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92c66e452f4fadd5"
+            ],
+            "draft_excerpt": "2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c54bb42e3ccc7b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92c66e452f4fadd5"
+            ],
+            "draft_excerpt": "航站楼总面积60万平方米",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8fa10ae6322e29a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0445955cea70213f"
+            ],
+            "draft_excerpt": "2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-24428861f96be020",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0445955cea70213f"
+            ],
+            "draft_excerpt": "该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45cbd04377e5e144",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-de1b1ec843764d96"
+            ],
+            "draft_excerpt": "2017年12月：西成高铁正式开通运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12649487c820a22f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-de1b1ec843764d96"
+            ],
+            "draft_excerpt": "西成高铁全长658公里，运营时速达250公里",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adcaa3d7c22a0d7d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ea7fdb2e4d313e4c"
+            ],
+            "draft_excerpt": "2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉",
+            "finding": "Supported by claim-ea7fdb2e4d313e4c.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6e53acb58c8dc357",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45727a4e85184f79"
+            ],
+            "draft_excerpt": "2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。",
+            "finding": "Supported by claim-45727a4e85184f79.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4aa65df8ea1895ec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+            "finding": "Unsupported. Claim-45727a4e85184f79 only states the expansion of the pilot, not the specific document name or the detailed scope of 'all eligible foreign trade'",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bfc5f8b44ab628fc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-bb7b5ac7d2b28a5b"
+            ],
+            "draft_excerpt": "2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。",
+            "finding": "Supported by claim-bb7b5ac7d2b28a5b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95d8861d308f2966",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+            "finding": "Unsupported. Claim-bb7b5ac7d2b28a5b does not mention the frequency of 3 trains per week.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ce9821470cc2ea1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c278acf60af10c68"
+            ],
+            "draft_excerpt": "2020年8月：成都国际铁路港经济开发区获批设立。",
+            "finding": "Supported by claim-c278acf60af10c68.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf206ae689a70c21",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+            "finding": "Unsupported. Claim-c278acf60af10c68 does not mention the area size.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dd5731316aef5194",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b755e66c294e9481"
+            ],
+            "draft_excerpt": "2020年11月：成都天府国际机场投产校验由此拉开帷幕",
+            "finding": "Supported by claim-b755e66c294e9481.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2017001d26b1d36b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7066bdd3dd0ac8d5"
+            ],
+            "draft_excerpt": "2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+            "finding": "Supported by claim-7066bdd3dd0ac8d5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-540214a962efbe16",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+            "finding": "Unsupported: Description of document scope."
+          },
+          {
+            "draft_excerpt": "2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。",
+            "finding": "Unsupported: General summary."
+          },
+          {
+            "draft_excerpt": "这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。",
+            "finding": "Unsupported: Interpretive summary."
+          },
+          {
+            "draft_excerpt": "政策制度创新与基础设施硬联通同步推进。",
+            "finding": "Unsupported: General summary."
+          },
+          {
+            "draft_excerpt": "成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。",
+            "finding": "Unsupported: Summary statement."
+          },
+          {
+            "draft_excerpt": "《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+            "finding": "Unsupported. Claim-45727a4e85184f79 only states the expansion of the pilot, not the specific document name or the detailed scope of 'all eligible foreign trade'"
+          },
+          {
+            "draft_excerpt": "从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+            "finding": "Unsupported. Claim-bb7b5ac7d2b28a5b does not mention the frequency of 3 trains per week."
+          },
+          {
+            "draft_excerpt": "成都国际铁路港经济开发区规划面积为12.24平方公里",
+            "finding": "Unsupported. Claim-c278acf60af10c68 does not mention the area size."
+          },
+          {
+            "draft_excerpt": "2016",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2016年至2020年间，成都通过获批多项国家级试点、建设重大交通枢纽及开通国际物流通道，全面融入“一带一路”建设。这一时期，成都确立了内陆开放高地地位，形成了以中欧班列（成都）为核心，涵盖铁公水多式联运、航空枢纽及跨境贸易便利化的综合开放体系。政策制度创新与基础设施硬联通同步推进。成都不仅获批设立跨境电子商务综合试验区、服务贸易创新发展试点及四川自贸试验区，还完成了天府国际机场、成都国际铁路港综合保税区等重大载体建设。\n\n- 2016年1月：国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区\n- 2016年2月：国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一\n- 2016年2月：成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸\n- 2016年5月：成都天府国际机场正式开工建设\n- 2016年6月：成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目\n- 2016年6月：首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行\n- 2016年7月：国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”\n- 2016年11月：成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）\n- 2017年4月：中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航\n- 2017年4月：四川自贸试验区签发国内首张中欧班列多式联运提单。该提单采用物权质押，信用证结算方式\n- 2017年5月：成都国际铁路港单一窗口正式投入运行。该窗口包含行政审批和贸易服务两大功能模块\n- 2017年5月：天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。航站楼总面积60万平方米\n- 2017年11月：首趟“蓉欧+”东盟国际铁海联运班列开行。该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道\n- 2017年12月：西成高铁正式开通运营。西成高铁全长658公里，运营时速达250公里\n- 2020年1月：中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉\n- 2020年3月：中欧班列（成都）“一单到底、两段结算”扩大试点。《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业\n- 2020年6月：成都一日韩东向沿江铁海联运通道实现常态化运行。从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行\n- 2020年8月：成都国际铁路港经济开发区获批设立。成都国际铁路港经济开发区规划面积为12.24平方公里\n- 2020年11月：成都天府国际机场投产校验由此拉开帷幕\n- 2020年12月：成都国际铁路港综合保税区正式通过国家验收",
+    "description": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-ae4b59f7ae45",
+      "description": "梳理成都自2016年获批跨境电商综试区至2020年中欧班列（成都）开通俄罗斯菜籽油专列期间，在“一带一路”倡议下的关键节点与政策落地成果。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2016年1月国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区",
+        "2016年2月 国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一",
+        "2016年2月 成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸",
+        "2016年5月成都天府国际机场正式开工建设。新机场规划建设6条跑道，一期工程将建设3条跑道及航站楼",
+        "2016年6月成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "2016年6月 首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行。",
+        "2016年7月国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”",
+        "2016年11月 成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型）",
+        "2017年4月中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航。",
+        "2017年4月四川自贸试验区签发国内首张中欧班列多式联运提单。该提单采用物权质押，信用证结算方式",
+        "2017年5月成都国际铁路港单一窗口正式投入运行。该窗口包含行政审批和贸易服务两大功能模块",
+        "2017年5月天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。航站楼总面积60万平方米",
+        "2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行。该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道",
+        "2017年12月西成高铁正式开通运营。西成高铁全长658公里，运营时速达250公里",
+        "2020年1月中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉。",
+        "2020年3月 中欧班列（成都）“一单到底、两段结算”扩大试点。《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业",
+        "2020年6月成都一日韩东向沿江铁海联运通道实现常态化运行。从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行",
+        "2020年8月 成都国际铁路港经济开发区获批设立。成都国际铁路港经济开发区规划面积为12.24平方公里",
+        "2020年12月 成都国际铁路港综合保税区正式通过国家验收。",
+        "2020年11月成都天府国际机场投产校验由此拉开帷幕。此次飞行校验将主要对机场的空管及助航设备进行飞行校验"
+      ],
+      "evidence_block_ids": [
+        "blk-086c447543638ff972eb",
+        "blk-a804ab7d6097f011a326",
+        "blk-da8c2f2f974ab2d3132d",
+        "blk-fae7073e30dced618ca7",
+        "blk-5a8eed276b3b3b1a5361",
+        "blk-12bd2be1f7458ecfa731",
+        "blk-cb14172952b102fa4276",
+        "blk-607545f13182d6533278",
+        "blk-8e4c789bc8dec675f17f",
+        "blk-cb04ce9b0f057a89b84f",
+        "blk-9add222e8ab5d41b3116",
+        "blk-62ee04644a6bb65e2c8f",
+        "blk-5605d729620aa14ca8af",
+        "blk-7a7b0521e75a0b525450",
+        "blk-a080c6832ac75051ee99",
+        "blk-12591a25ef002b3b763f",
+        "blk-355570066086a7b57924",
+        "blk-1c2a87e87b0a841c0ad7",
+        "blk-b7ca814e323e8a056d81",
+        "blk-0012435ff55f5f54f77b",
+        "blk-0bb62693f8981f2bdcdc"
+      ],
+      "page_end": 189,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都融入“一带一路”建设大事记（2016-2020）",
+      "type": "分析框架"
+    },
+    "title": "成都融入“一带一路”建设大事记（2016-2020）"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-7fcc62022766:bundle-14484edc0507",
+      "excluded_fragments": [],
+      "ref_id": "ref-7fcc62022766",
+      "source_blocks": [
+        {
+          "block_id": "blk-c02b35e936ff44bf49c0",
+          "page_number": 124,
+          "text": "2017年1月《环球时报》社主办的第六届环球总评榜·城市榜正式发布。成都斩获2017年度中国最具投资吸引力城市、2017年度最适宜新经济成长城市、2017年度国家形象传播最具影响力城市、2017年度“一带一路”最具活力城市四项殊荣，城市吸引海外投资的能力和参与国际竞争的实力显著提升。"
+        },
+        {
+          "block_id": "blk-42514cf3b1a8621e4fe2",
+          "page_number": 124,
+          "text": "2017年1月明尼苏达矿务及制造业公司(Minnesota Mining and Manufacturing以下简称“3M”)在成都设立中国西部技术中心。该中心总体规划面积3600平方米，将凭借在工业、交通安全、医疗健康、电子能源等诸多领域的技术优势，带动成都相关产业链的发展与转型升级。这是3M公司继北京、广州和苏州之后，在中国设立的第4个技术中心。"
+        },
+        {
+          "block_id": "blk-dfd07053fade52f7a734",
+          "page_number": 124,
+          "text": "2017年2月四川首个“外籍人士创新创业之家”在成都高新区正式挂牌。该机构设有“国际服务站”和“跨境金融服务站”，主要为外籍人士提供创新创业、出入境管理、政策咨询、国际交流互动、跨境金融等一站式国际化服务，促进外籍高端人士来蓉创新创业。"
+        },
+        {
+          "block_id": "blk-12b01ac7ecb55d760f93",
+          "page_number": 124,
+          "text": "2017年2月成都市领事服务中心（新都）培训基地揭牌仪式正式举行。该基地主要提供外派劳务人员法律法规、境外突发事件应急处理、领事保护知识等内容，以及出国前的适应性培训和外派劳务的普法宣传，是成都挂牌成立的第三个培训基地，为成都本地企业走出去提供集成化服务。"
+        },
+        {
+          "block_id": "blk-7adc527639cb506ca1b0",
+          "page_number": 124,
+          "text": "2017年2月成都与阿根廷拉普拉塔市建立友好城市关系。拉普拉塔市是阿根廷东部大西洋岸的重要港口，是阿根廷人口第四大城市，金融业、教育业发达。通过友城关系的建立，两市将加深在经贸、文化等领域的务实合作，并在教育、体育领域展开交流。"
+        },
+        {
+          "block_id": "blk-0da82e6a1260710aa019",
+          "page_number": 124,
+          "text": "2017年2月成都首例外籍人士《中国税收居民身份证明》在青羊区地税局开"
+        },
+        {
+          "block_id": "blk-fc697a3215e0a4767b80",
+          "page_number": 125,
+          "text": "具，外籍人员可持此证明享受两国相关税收协定待遇。此外，外籍人士还可在地税办税服务大厅申报个人所得税，成都税收征管与服务日益国际化。"
+        },
+        {
+          "block_id": "blk-7450c89d64113807b80c",
+          "page_number": 125,
+          "text": "2017年3月“中欧班列‘蓉欧快铁’北线成都至白俄罗斯定制班列”发车仪式在成都铁路口岸隆重举行。此次定制班列将从新疆阿拉山口出境，经哈萨克斯坦、俄罗斯，最终抵达白俄罗斯，全程8866公里，预计运行时间为12天。这是成都推出的第一个“蓉欧快铁”北线班列产品，也是深入实施“蓉欧+”战略，主动融入“一带一路”，拓展白俄罗斯、俄罗斯国际市场的重要行动。"
+        },
+        {
+          "block_id": "blk-8948641cad71bb065c4f",
+          "page_number": 125,
+          "text": "2017年3月成都中法生态园与法国开发署共同谋划执行的“城市可持续发展研究项目”正式启动。该项目旨在为园区可持续发展提供一套科学的生态指标体系、生态评估及城市可持续发展的整体解决方案，助推中法生态园成为开发区中节能减排和绿色低碳发展的典范。自此，中法生态园园区建设发展有了首部“绿色宪章”。"
+        },
+        {
+          "block_id": "blk-ac39db052172e8abe630",
+          "page_number": 125,
+          "text": "2017年3月国家发展改革委、中国民航局正式批复设立成都临空经济示范区。这是继郑州航空港、青岛、重庆、广州、上海虹桥后第六个获批的国家级临空经济示范区。未来成都将从建设国际航空枢纽、建设临空经济创新高地、构建临空高端产业体系、建设内陆开放先行区、建设新型生态智慧空港城五大任务着手，为中西部地区对外交往、开放发展探索路径和积累经验。"
+        },
+        {
+          "block_id": "blk-6c2cbc3f88ff2dadb860",
+          "page_number": 125,
+          "text": "2017年3月成都市启动外国人来蓉工作“一窗式”服务。服务窗口设在出入境管理局，将重点为外国高端人才、专业人才、专家群体提供审批、协调等来蓉工作的相关手续，具体包括来华许可、来华邀请、工作及居留类许可证件办理。"
+        },
+        {
+          "block_id": "blk-b25989253e80d7a9a3a9",
+          "page_number": 125,
+          "text": "2017年3月成都市与老挝琅勃拉邦正式缔结友好市省关系。琅勃拉邦省是老挝北部重要的政治、教育和商贸中心，是全球著名的旅游胜地。此次友好关系的确立将促进双方在教育、文化、旅游、经贸等领域展开深度合作，推动彼此共同发展。"
+        },
+        {
+          "block_id": "blk-36d02cc418bc00dad3db",
+          "page_number": 125,
+          "text": "2017年3月第96届全国糖酒商品交易会在成都举行。本届糖酒会共设有6大主题展区，吸引了来自40个国家和地区的3000家企业参展，共接待专业卖家15万人（次），入场总人次超过30万人（次），商品成交总额200亿元。"
+        },
+        {
+          "block_id": "blk-50be2d0cf29e94e964bf",
+          "page_number": 125,
+          "text": "2017年3月成都直飞洛杉矶航线正式开通。该航线是继旧金山航线后成都第"
+        },
+        {
+          "block_id": "blk-5a4ef1e66ffddcc29a3a",
+          "page_number": 126,
+          "text": "2条直飞美国本土的航线，也是我国西南地区首条直飞洛杉矶的航线。至此，成都国际航空枢纽地位进一步巩固，拓展国际业务的渠道更为通畅，游客赴美旅游也更加便捷。"
+        },
+        {
+          "block_id": "blk-a3a473c167ebdb77b880",
+          "page_number": 126,
+          "text": "2017年3月成都国际铁路班列公司英国伦敦代表处正式揭牌。该公司是首个在伦敦设立代表处的中欧班列公司，将推进成都与英国在物流、贸易、投资等领域开展全方位、多维度的深度合作，为中欧班列蓉欧快铁尽快实现成都—伦敦双向稳定运行奠定基础。"
+        },
+        {
+          "block_id": "blk-c64dfa48ab21ca61d965",
+          "page_number": 126,
+          "text": "2017年3月国务院印发《中国（辽宁、浙江、河南、湖北、重庆、四川、陕西）自由贸易试验区总体方案》，方案指出，建立四川等自由贸易试验区是新形势下全面深化改革和扩大开放的一项战略举措，为全面深化改革和扩大开放探索新途径、积累新经验，具有重要意义。四川自贸试验区涵盖3个片区，其中成都占据2个片区包括成都天府新区片区和成都青白江铁路港片区，总面积100平方公里。"
+        },
+        {
+          "block_id": "blk-cb04ce9b0f057a89b84f",
+          "page_number": 126,
+          "text": "2017年4月中国（四川）自由贸易试验区正式揭牌，标志着四川自贸试验区建设正式启航。作为四川自贸试验区的核心区和主阵地，成都自贸试验区将围绕服务贸易自由化和国际产能合作两大开放重点，从简政放权、外贸水平提升、“一带一路”通道建设、金融创新试验、监管体制机制创新、共建共享等方面建设制度创新高地，对成都在更宽领域、更高层次参与全球竞争与合作，构建全方位开放新格局具有深远影响和重要意义。"
+        },
+        {
+          "block_id": "blk-9add222e8ab5d41b3116",
+          "page_number": 126,
+          "text": "2017年4月四川自贸试验区签发国内首张中欧班列多式联运提单。该提单采用物权质押，信用证结算方式，自货物从离站时起，企业便能凭信用证到银行申请议付。这是国内开具的首张针对中欧班列的多式联运提单，大幅降低了蓉欧快铁沿线国家和地区的外贸综合运输成本。此改革经验荣获“2017年中国自贸试验区十大创新案例”。"
+        },
+        {
+          "block_id": "blk-58a23643a5eafca0b5ee",
+          "page_number": 126,
+          "text": "2017年4月“天府之国与丝绸之路”学术研讨会在成都举行。来自中国社会科学院、北京大学、中国人民大学、四川大学，以及美国、瑞典、尼泊尔、印度、斯里兰卡、缅甸、越南等国家相关研究机构的90余名中外学者参加研讨会，探讨四川与丝绸之路的历史渊源及发展脉络，并发布了《成都共识》。"
+        },
+        {
+          "block_id": "blk-797befa46e6660d5c27a",
+          "page_number": 127,
+          "text": "2017年4月2017中阿经贸文化交流峰会在成都举行。本次峰会以“筑梦思路·策马天下”为主题，以体育赛事为载体，进一步推进中阿双方开展文化交流互鉴和务实合作，丰富中阿关系战略内涵，共同推进“一带一路”沿线国家共享共建共赢。此外，在峰会现场“国家开放大学华侨学院”正式揭牌、落户成都，成为弘扬中华文化和影响世界文明的重要窗口。"
+        },
+        {
+          "block_id": "blk-2af5569568de67788a0b",
+          "page_number": 127,
+          "text": "2017年5月2017成都全球创新创业交易会在蓉成功举办。本届创交会以“汇智创新开放共享”为主题，是成都市连续举办的第三届全球创新创业交易会。来自47个国家和地区的1200余名国内外商业机构、世界热点创业城市、国际知名创新创业高校、著名投资机构、顶级孵化载体等创新创业全链条全要素代表聚首成都，推动全球创新创业资源汇聚、融合和对接，促进创新创业要素流动和成果交易。创交会期间，成功举办各类活动53项，共达成交易金额240.2亿元。"
+        },
+        {
+          "block_id": "blk-5605d729620aa14ca8af",
+          "page_number": 127,
+          "text": "2017年5月天府国际机场航站楼工程正式开工建设，标志着天府国际机场进入全面建设阶段。航站楼总面积60万平方米，能够满足2800万人次国内旅客吞吐量和1200万人次国际旅客吞吐量，是成都打造国际航空枢纽的新极核，是支撑国家内陆开放的新枢纽，也为成都深度融入“一带一路”建设、实现跨越发展提供新动力。"
+        },
+        {
+          "block_id": "blk-62ee04644a6bb65e2c8f",
+          "page_number": 127,
+          "text": "2017年5月成都国际铁路港单一窗口正式投入运行。该窗口包含行政审批和贸易服务两大功能模块，为企业提供有关审批、通关等一站式服务，是推动成都西向国际贸易便利化改革的“原创经验”。"
+        },
+        {
+          "block_id": "blk-1f0dcea21f44ff92a2d3",
+          "page_number": 127,
+          "text": "2017年5月四川省首个自贸区平行进口车交易展示中心正式投入试运营。展示中心集展示、销售、金融保险、仓储、注册登记、售后等服务为一体，为平行进口汽车产业链条下游提供完善的配套服务，其价格可比市场上同类产品便宜 \\(10 - 20\\%\\)"
+        },
+        {
+          "block_id": "blk-d95b5335d0d2d6618ffb",
+          "page_number": 127,
+          "text": "2017年5月成都直飞埃塞俄比亚首都亚的斯亚贝巴航线正式开通，这是继北京、上海、广州后，中国大陆第4个，中西部首个通航埃塞俄比亚的城市。该航线的开通，标志着成都国际（地区）航线网络实现了历史性突破，整个中西部地区旅客可以通过该网络去往非洲大陆多个目的地。"
+        },
+        {
+          "block_id": "blk-abee0feef8dd619b9003",
+          "page_number": 127,
+          "text": "2017年5月成都国际金融中心与巴黎左岸圣日耳曼德佩委员会签署友好合作"
+        },
+        {
+          "block_id": "blk-7e2df0a123d3bc5e5887",
+          "page_number": 128,
+          "text": "协议，成都红星路三段与圣日耳曼大道正式成为“国际友好街区”，双方将在艺术、文化、商业、旅游等领域开启全面交流合作。红星路三段由此成为中西部地区首条建立“国际友好街区”战略关系的街道。"
+        },
+        {
+          "block_id": "blk-a1dbaf4cc0f8e101fd33",
+          "page_number": 128,
+          "text": "2017年5月成都市“一带一路”标准服务中心正式成立。该中心被纳入“一带一路”经济联络带，并入驻成都市高新区欧洲中心，统筹“一带一路”标准化服务合作。"
+        },
+        {
+          "block_id": "blk-13e41bc3767c9fb34dfa",
+          "page_number": 128,
+          "text": "2017年5月美国洛杉矶会议及旅游局成都办事处正式成立。这是继北京、上海、广州之后，洛杉矶旅游局在中国设立的第4个全资办事机构，该机构将更好的为业界和游客提供洛杉矶旅游相关的最新资讯，同时开拓西南地区出境旅游市场，提升成都的国际地位。"
+        },
+        {
+          "block_id": "blk-c11f50e4448b79aa9dc4",
+          "page_number": 128,
+          "text": "2017年5月“中国—欧洲中心”在成都高新区Icon·云端正式启动。该中心内设欧洲商品贸易展示交易中心、中欧技术交易中心等6大功能区，是成都重要的对欧综合合作交往平台，是“一带一路”对外开放的新旗舰。"
+        },
+        {
+          "block_id": "blk-edafeb99758f2528a59b",
+          "page_number": 128,
+          "text": "2017年6月第十八届成都国际家具工业博览会在成都西部国际会议展览中心和世纪城新会展中心同时举行，是成都市首个实现“一城双展”的展会。本届成都国际家展首次展出了3D云设计软件和家具生产机械，呈现出智能化、国际化的特点。"
+        },
+        {
+          "block_id": "blk-43cee8e54f17df0f4832",
+          "page_number": 128,
+          "text": "2017年6月第六届中国成都国际非物质文化遗产节在蓉举办。本届成都国际非遗节以“传承发展的生动实践”为主题，举办了国际非遗系列大展、国际会议和国际论坛、非遗竞技、中国传统表演艺术进社区等系列活动，共吸引了112个国家（地区）的300多名外宾，以及全国5800多名代表前来参加，实现非遗产品销售和意向订单总额8100多万元。"
+        },
+        {
+          "block_id": "blk-f84b2766d85539bf94cc",
+          "page_number": 128,
+          "text": "2017年6月成都首条直飞新西兰奥克兰国际航线正式开通，成都与奥克兰的距离缩短至11个小时。该航线完善了西南地区至新西兰经贸往来、人文交流的空中纽带，进一步巩固成都“航空第四城”的地位。"
+        },
+        {
+          "block_id": "blk-1af1998720ebc9723bfa",
+          "page_number": 128,
+          "text": "2017年6月第三届中国（成都）-印度国际瑜伽节在都江堰市举行。来自印度3大瑜伽流派的顶尖大师与全球1000余名瑜伽爱好者共同分享瑜伽精髓、感悟瑜伽境界、共享瑜伽盛事。"
+        },
+        {
+          "block_id": "blk-fb0f190b49ec276579fa",
+          "page_number": 129,
+          "text": "2017年6月成都市与C40气候领导联盟共同签署《成都市C40城市气候领导联盟合作备忘录》，双方就共同应对气候变化、推动可持续发展、促进低碳领域务实合作达成共识。此外，还签署了“成都市支持《巴黎协定》实施的‘期限2020’气候行动规划承诺书”。"
+        },
+        {
+          "block_id": "blk-9aab39da827f11680529",
+          "page_number": 129,
+          "text": "2017年6月2017中国成都·金砖国家电影节在成都举行。本届电影节推出了金砖国家首部合拍电影，达成《金砖国家电影合作成都共识》，并确立成都为金砖国家电影节在中国永久举办地。"
+        },
+        {
+          "block_id": "blk-c39acc56f32f396132fd",
+          "page_number": 129,
+          "text": "2017年6月成都市与德国杜伊斯堡市正式缔结友好合作关系。杜伊斯堡市是世界第一大内河港，是世界上最大的内陆集装箱转运地之一以及多个中欧班列的终点站。此次友好关系的确立，将促进两市在经贸物流领域展开深度合作，推动双方经贸往来。"
+        },
+        {
+          "block_id": "blk-514b83f726406bac8de0",
+          "page_number": 129,
+          "text": "2017年6月第十四届中国国际物流节暨第十七届中国国际运输与物流博览会在成都举行。本届博览会吸引了来自“一带一路”沿线30多个国家及地区的组织和机构、近100个中外城市、1000余家顶尖物流企业、超过12000名专业观众参展参会。"
+        },
+        {
+          "block_id": "blk-f9daa8e1d04974453d70",
+          "page_number": 129,
+          "text": "2017年6月国际篮联 \\(3\\times 3\\) U182017世界杯赛在成都举行。本届 \\(3\\times 3\\) 世界杯比赛共有37个国家40支代表队参赛，共上演128场巅峰对决，是首次在中国举办的篮球世界杯。"
+        },
+        {
+          "block_id": "blk-b3e744bab9a9f02be243",
+          "page_number": 129,
+          "text": "2017年6月成都直飞俄罗斯伊尔库茨克的航线成功开通。伊尔库茨克是西伯利亚最大的工业城市、交通和商贸枢纽，随着航线的开通，四川及周边地区旅客前往俄罗斯的时空距离缩短至3.5小时。"
+        },
+        {
+          "block_id": "blk-8ec8349a71f74ffde0c1",
+          "page_number": 129,
+          "text": "2017年6月成德共建的中欧班列德阳现代物流港正式开通启运。该物流港以铁路港为依托，以公铁联运为基础，年物流吞吐能力超过1000万吨，将更加便捷的将川货销往全国、海外。成都与德阳分别签署了《关于共建中欧班列德阳现代物流港的合作意向协议》和《关于共建成都国际铁路港口岸产业合作区的合作意向协议》，推动彼此加深合作，深入融入“一带一路”建设。"
+        },
+        {
+          "block_id": "blk-81687deeb09cab58cf55",
+          "page_number": 129,
+          "text": "2017年7月成都市双流区人民法院自贸区审判团队正式挂牌并受理案件，这是中国（四川）自由贸易试验区成立后首个独立的自贸区审判团队，将为自贸试"
+        },
+        {
+          "block_id": "blk-fee7426eecf5ddeeb3f1",
+          "page_number": 130,
+          "text": "验区建设和运行营造良好的法治环境"
+        },
+        {
+          "block_id": "blk-1af50817e934696fa79a",
+          "page_number": 130,
+          "text": "2017年7月2017金砖国家友好城市暨地方政府合作论坛在成都举行。论坛旨在为金砖五国地方政府间增进了解、深化合作、寻对结好、经验共享提供重要交流平台，论坛就地方政府间开展友好务实合作进行了深入探讨，达成了广泛共识，并发布了《成都倡议》。"
+        },
+        {
+          "block_id": "blk-83971a290520413d34ac",
+          "page_number": 130,
+          "text": "2017年7月成都高新区与谢菲尔德创新园区签订结为“姊妹园区”合作协议。根据协议约定，双方将在航空航天、运动健康、教育等领域展开深度合作。"
+        },
+        {
+          "block_id": "blk-5b79beb60767bde1e8f0",
+          "page_number": 130,
+          "text": "2017年7月2017中国（成都）国际现代工业技术博览会成都成功举行。此次展会吸引了来自全国机床钣金激光、自动化机器人、焊接切割、军民融合领域的400余家企业参展，展示内容涵盖现代工业装备及技术、工业信息化和服务、智慧城市与生活等现代工业的各个方面。展会期间，共计来自全国约15500名专业人士入场参观。"
+        },
+        {
+          "block_id": "blk-0238060c398f018bf46c",
+          "page_number": 130,
+          "text": "2017年7月2017成都国际友城青年音乐周在成都成功举行。本届音乐周以“青春飞Young·向东绽放”为主题，吸引超过500名海内外青年音乐人参演，演出规模和演出阵容创下历届之最。"
+        },
+        {
+          "block_id": "blk-66ec627652e2537b5ff4",
+          "page_number": 130,
+          "text": "2017年7月“一带一路”法律服务国际交流合作会议在成都成功召开。来自“一带一路”沿线的34个国家（地区）的49家国际知名律师事务所代表，以及中外企业家代表和中国法律界人士参加此次会议。本次会议以“共建共享——‘一带一路’法律服务合作新机遇新模式”主题，并发起成立“一带一路”法律服务协作体。本次会议是近年来国际化程度最高、规模最大的有关“一带一路”法律服务的论坛之一，也是成都举办的首次国际法律盛会。"
+        },
+        {
+          "block_id": "blk-cadb94712016d396e69a",
+          "page_number": 130,
+          "text": "2017年7月首届国际城市可持续发展高层论坛在成都市举行。本届论坛以“‘一带一路’与城市可持续发展”为主题，来自20多个国家的国际机构、政府部门、地方城市、学术机构、知名企业的数百名高级别代表参加，成都入选为国际可持续发展试点城市。"
+        },
+        {
+          "block_id": "blk-50c166fcecd8549c129a",
+          "page_number": 130,
+          "text": "2017年8月中意文化创新园区合作协议签约仪式在成都成功举行。根据协议，双方同意在四川天府新区成都片区建立中意文化创新园区，为推动中意文化、艺术、旅游、体育、教育、美食等领域交流合作搭建平台。"
+        },
+        {
+          "block_id": "blk-9650809114f5d5ca6b36",
+          "page_number": 131,
+          "text": "2017年8月西门子全球首个“双中心”正式落户成都市高新区。成都高新区与西门子公司签约建立西门子工业软件全球研发（成都）中心、西门子智能制造（成都）创新中心，总投资超过10亿元人民币。此次合作将集成双方在制造业方面的尖端技术与经验，促进产业升级转型，助力成都高新区打造完善的智能制造生态圈。"
+        },
+        {
+          "block_id": "blk-9a5d38a0ed2f4512b018",
+          "page_number": 131,
+          "text": "2017年8月第十五届中国国际软件合作洽谈会在成都举行。本届软洽会共吸引70余家外事机构、国外企业和机构、1100多家国内企业和机构、800余家成都本地企业和机构参加，达成合作意向21项，完成合作签约10项。"
+        },
+        {
+          "block_id": "blk-2627a607fba5189d7ee7",
+          "page_number": 131,
+          "text": "2017年8月iWorld2017数字世界博览会在成都举行。本届博览会以“智能科技，创新未来”为主题，从智能科技发展，VR/AR、AI动态趋势，创业与投资等多个维度，对物联网进行了深入解读。"
+        },
+        {
+          "block_id": "blk-8f1e8404c740686d0d86",
+          "page_number": 131,
+          "text": "2017年8月成都双流自贸试验区马来西亚国家馆项目签约仪式在成都举行，标志着马来西亚国家馆项目落户成都自贸试验区。作为马来西亚在中国的第一个国家馆，该馆拟利用双流综保区国际商品展示中心，搭建集经济、文化、教育、旅游、展示、投资、服务于一体的双向综合服务平台。"
+        },
+        {
+          "block_id": "blk-f9c047c317767bf908f7",
+          "page_number": 131,
+          "text": "2017年8月第二十届成都国际汽车展览会在蓉成功举办。本届展会以“匠心廿载,缤纷未来”为主题，吸引德系、美系、法系、日系、韩系以及合资、自主等共116个品牌参展。据统计，本届车展共产生30108台汽车订单，接待观众超过63.8万人次。"
+        },
+        {
+          "block_id": "blk-90be0b9256e582a7ee33",
+          "page_number": 131,
+          "text": "2017年8月成都市与马普托市建立友好城市关系。双方将在基础设施建设、农产品加工、旅游地产建设、酒店经营管理、科学技术创新等领域开展多种形式的交流与合作，促进共同繁荣发展。"
+        },
+        {
+          "block_id": "blk-2e737e168203c0720675",
+          "page_number": 131,
+          "text": "2017年9月成都市海外人才工作站（加拿大站）签约暨授牌仪式举行，标志着成都市外人才工作站（加大站）正式成立。该站是成都设立的第3个海外人才工作站，将在打造成都市对外综合宣传平台、对接海外重点企业、开展人才引进服务工作等方面发挥重要作用。"
+        },
+        {
+          "block_id": "blk-2992d31f08a23cde55df",
+          "page_number": 131,
+          "text": "2017年9月联合国世界旅游组织第22届全体大会在都举行。本届大会围绕旅游可持续发展以及“一带一路”旅游合作交流等议题展开深入研讨，是"
+        },
+        {
+          "block_id": "blk-fcd8369ced7fe2f1c241",
+          "page_number": 132,
+          "text": "UNWTO有史以来规模最大的一次盛会。"
+        },
+        {
+          "block_id": "blk-6e749ca6ef205c3426b0",
+          "page_number": 132,
+          "text": "2017年9月第二届中国西部国际博览会进出口商品展暨中国西部（四川）国际投资大会在蓉成功举行。本届展会以“畅通贸易、合作发展”为主题，积极搭建与西博会相呼应的“一带一路”建设承接平台，共吸引来自75个国家和地区逾2万名嘉宾参加，共签订合作项目808个。"
+        },
+        {
+          "block_id": "blk-7a43adfe51b0184e685d",
+          "page_number": 132,
+          "text": "2017年9月“成都一捷克通用航空专场对接会”在捷克首都布拉格举行。会上，成都市与布拉格新丝之路研究会签署合作备忘录，双方将积极开展经贸、文化、旅游等领域交流，促进通用航空、生物制药、汽车等重点领域务实合作。"
+        },
+        {
+          "block_id": "blk-eeccf03c78dfeaf09724",
+          "page_number": 132,
+          "text": "2017年9月成都高新区“加拿大多伦多离岸基地”在多伦多的加拿大华创会总部揭牌成立。这是成都继在德国法兰克福和瑞典斯德哥尔摩设立海外离岸人才创新创业基地后，建立的第16个海外人才离岸基地。"
+        },
+        {
+          "block_id": "blk-0b464e96e4308fcdc37c",
+          "page_number": 132,
+          "text": "2017年9月中欧班列蓉欧快铁（成都-布拉格）首发仪式在成都国际铁路港成功举行。“成都一布拉格”班列是成都始发的第七条国际货运班列，途经哈萨克斯坦、俄罗斯、白俄罗斯、波兰，最终抵达捷克首都布拉格，全程近一万公里，预计运行时间13天。这标志着蓉欧快铁欧洲服务网络已延伸到捷克等中欧区域，班列通达能力和辐射范围进一步提升。"
+        },
+        {
+          "block_id": "blk-b43b8656fd3ee08812ca",
+          "page_number": 132,
+          "text": "2017年9月2017成都国际马拉松赛在蓉成功举行。本次赛事设有马拉松、半程马拉松、欢乐跑三个项目，共吸引来自全球35个国家和地区的2万名跑友参加比赛。"
+        },
+        {
+          "block_id": "blk-b04ad7ab2f4ac6131a2c",
+          "page_number": 132,
+          "text": "2017年10月第十二届中国-欧盟投资贸易科技合作洽谈会在成都世纪城新国际会议中心举行。本届欧洽会以“开放包容互利共赢”为主题，举办了中欧“一带一路”新经济发展主题论坛、中欧商协会友好合作圆桌会等活动，吸引了来自30余个国家260余名代表参会，对促进国家和地区间的经济技术交流与合作具有重要作用。"
+        },
+        {
+          "block_id": "blk-14c5dbf0c71734a3c776",
+          "page_number": 132,
+          "text": "2017年10月成都至纽约直飞航线正式开通。该航线是继旧金山、洛杉矶航线之后成都直飞美国本土的第三条航线，也是首条直飞美国东部的航线。此航线的开通将使成都乃至中西部地区的旅客往返美国更加便捷，对两地间经贸发展和人文交往具有重大意义。"
+        },
+        {
+          "block_id": "blk-a0edbb1533ffd9a0b34f",
+          "page_number": 133,
+          "text": "2017年10月2017亚洲教育论坛年会暨“一带一路”教育合作大会在成都成功举办。本次年会聚焦“一带一路”高校智库合作、科学普及、国际教育、青少年创意发明、“互联网+教育”等热点问题进行深入探讨，对推动中西部地区与丝绸之路沿线国家在教育领域的交流与合作具有重大意义。"
+        },
+        {
+          "block_id": "blk-b9d727432c48986eb894",
+          "page_number": 133,
+          "text": "2017年10月2017国际网联青年大师赛在蓉成功举办。国际网联青年大师赛是国际网联主办的最高规格的青少年网球赛事，代表了世界青年网球的最高水平。本届青年大师赛为期5天，共有16位来自世界各地的顶尖青少年选手入围参赛。"
+        },
+        {
+          "block_id": "blk-7a7b0521e75a0b525450",
+          "page_number": 133,
+          "text": "2017年11月首趟“蓉欧+”东盟国际铁海联运班列开行。该班列的开行，打通了经钦州港出境，站点延伸到东南亚、中东地区的物流新通道，标志着从成都向西至欧洲、向北至俄罗斯、向南至东盟的“Y”字形国际物流通道实现了互通。"
+        },
+        {
+          "block_id": "blk-7edcf8ac194bde7a60cc",
+          "page_number": 133,
+          "text": "2017年11月中国国际贸易促进委员会（四川）自由贸易试验区服务中心、中国国际经济贸易仲裁委员会四川分会、中国国际经济贸易仲裁委员会四川自试验区仲裁中心、中国国际贸易促进委员会（四川）自由贸易试验区调解中心在成都揭牌。这四个机构的设立有利于推动成都及四川建设投资贸易便利、监管高效便捷、法治环境良好、具有国际水准的自由贸易试验区。"
+        },
+        {
+          "block_id": "blk-4688eba4af48079e9786",
+          "page_number": 133,
+          "text": "2017年11月2017南亚（泛亚）产能合作（成都）对话会在成都召开。此次会议共有来自巴基斯坦、缅甸、柬埔寨等14个国家，400名政府、企业、中外嘉宾代表参会，旨在推动成都与“一带一路”沿线国家和地区建立更深更广、更多样化的沟通与合作。"
+        },
+        {
+          "block_id": "blk-c6fe81d856c289df848e",
+          "page_number": 133,
+          "text": "2017年11月第四届成都创意设计周在成都成功举行。本届创意设计周以“汇聚文创动能，发展天府文化”为主题，吸引来自20余个国家和地区的700余家创意设计机构参展。"
+        },
+        {
+          "block_id": "blk-ca510fe7884b5a2e089c",
+          "page_number": 133,
+          "text": "2017年11月意大利米兰至成都的中欧班列蓉欧快铁首发。这是意大利直达成都的第一条中欧班列路线，缩短了欧洲地中海市场与中国西部腹地的距离，将搭建起意大利及地中海腹地和中国西部的物流新通道，有力地促进双边经贸往来和文化交流。"
+        },
+        {
+          "block_id": "blk-cdd791868608c709dd35",
+          "page_number": 133,
+          "text": "2017年11月成都市与德国纽伦堡市签署建立友好合作关系备忘录。双方将积"
+        },
+        {
+          "block_id": "blk-99e5d8b99b2b3d7b04b2",
+          "page_number": 134,
+          "text": "极拓展经贸、文化、旅游、教育、科技等多领域的交流与合作。"
+        },
+        {
+          "block_id": "blk-772decbb5181d4feaab6",
+          "page_number": 134,
+          "text": "2017年11月成都天府新谷投资集团与欧洲伽利略·思图迪教育集团（GGE）签订战略合作协议，成都中法创意设计创新平台正式落定成都。GGE旗下的4所高校将陆续在成都开展合作办学，并创立国际化创新创业孵化器，助力成都文创产业转型升级。成都成为欧洲第一大、全球第三大私立教育集团GGE在中国西部落户的首个城市。"
+        },
+        {
+          "block_id": "blk-2ccf2a885c5aa61f3c4d",
+          "page_number": 134,
+          "text": "2017年12月2017中国国际节能环保技术装备展示交易会在成都成功举行。本届展会以“绿色制造，节能环保，创新引领”为主题，集中展示了近年来节能环保领域的800余项创新型技术、产品和装备，旨在持续加力推进绿色制造产业发展。"
+        },
+        {
+          "block_id": "blk-d7e51a37803bb0246b0b",
+          "page_number": 134,
+          "text": "2017年12月中欧班列·蓉欧快铁首趟沃尔沃测试班列顺利抵蓉。这是成都继波兰罗兹、德国纽伦堡、荷兰蒂尔堡等地之后，开通的第10条国际铁路货运线路。蓉欧快铁沃尔沃班列的开行，将进一步促进沃尔沃企业产能转移，带动进出口贸易显著增长，同时，也将持续深化中欧汽车产业合作，推动成都汽车产业生态的升级发展。"
+        },
+        {
+          "block_id": "blk-a080c6832ac75051ee99",
+          "page_number": 134,
+          "text": "2017年12月西成高铁正式开通运营。西成高铁全长658公里，运营时速达250公里，是我国第一条穿越秦岭的高速铁路，极大提升了成都、重庆、西安三座城市之间的互联互通水平。"
+        },
+        {
+          "block_id": "blk-6a52895202917bb88d9b",
+          "page_number": 134,
+          "text": "2018年1月成都自贸试验区—乌鲁木齐合作交流会在新疆乌鲁木齐举行。本届交流会以“协同开放共享机遇”为主题，围绕共建国际“大通道”“大平台”、共享自贸区改革红利与机遇、加强区域协同发展等议题进行深入探讨交流，有利于推动“一带一路”建设，进一步构建对外大开放格局。会议期间，两市政府、海关、出入境检验检疫局和企业签署了多项合作协议，成都与乌鲁木齐还提出共建“蓉乌产业合作园区”。"
+        },
+        {
+          "block_id": "blk-8613c660e3f3e34b83e2",
+          "page_number": 134,
+          "text": "2018年1月中法聚变联合研究中心在成都正式揭牌。研究中心将从整合优势资源、共同公关科研难题、推进能源开发三个方面，推动中法核聚变领域开展务实合作。中心的成立进一步促进成都深度参与全球科技创新治理，提升成都利用全球科技创新资源的能力。"
+        },
+        {
+          "block_id": "blk-2cb49c7937deab0256cf",
+          "page_number": 135,
+          "text": "2018年1月成都文旅集团与法国戴罗乐公司签署共建中法大熊猫生态创意产业园。根据协议，双方将共同打造熊猫文化IP研发中心、生态农业中心等8个主题中心。园区建成后，将深化中法两国在人文艺术、自然科学等领域的交流合作，促进中法双方共同繁荣。"
+        },
+        {
+          "block_id": "blk-dc3184f56e527ab8e4aa",
+          "page_number": 135,
+          "text": "2018年1月成都直飞圣彼得堡航线正式开通，这是成都首条直达圣彼得堡的航线，也是成都直飞俄罗斯的第二条航线。自此，成都与圣彼得堡之间的距离缩短至9.5个小时，“航空第四城”的地位进一步巩固。"
+        },
+        {
+          "block_id": "blk-14f308118e5cd1d277a4",
+          "page_number": 135,
+          "text": "2018年1月成都一以色列科技创新中心正式落地。该创新中心位于成都高新区，致力于推动中以双方在生物医药研发、智慧医疗、大数据运用等领域的技术交流、成果转化，是成都科技创新国际合作的重要举措。"
+        },
+        {
+          "block_id": "blk-55f0d1ed8cadd7fefdd1",
+          "page_number": 135,
+          "text": "2018年2月成都直飞法兰克福的国际定期货运航线正式开通。该航线是2013年以来，成都新增的首条洲际全货机定期直飞货运航线，将有助于成都构建更加完善的全球产业供应链。"
+        },
+        {
+          "block_id": "blk-1cf8987121bb20adf983",
+          "page_number": 135,
+          "text": "2018年2月成都“简阳星空1号”暨“一带一路”高通量（ka）宽带卫星系统项目正式启动。这是我国首次将自主建造的卫星推向国际主流卫星运营商市场，力图运用高通量宽带卫星快速、灵活、价格实惠的特点，为“一带一路”沿线国家和地区的空间信息走廊建设与应用提供服务。"
+        },
+        {
+          "block_id": "blk-d13226830a631ebeca03",
+          "page_number": 135,
+          "text": "2018年2月蓉欧快铁首班集拼集运返程班列从荷兰起运。该班列采用的集拼集运模式，是成都顺应贸易订单小型化、高频率发展趋势，有效应对海运低成本竞争，解决中欧班列返程重载率不高的重要举措，有助于提升蓉欧班列运行效率，更好推动“一带一路”建设。"
+        },
+        {
+          "block_id": "blk-0f392abc75674adee4f8",
+          "page_number": 135,
+          "text": "2018年3月“蓉欧+”东盟国际铁路通道首次试运班列到达仪式在成都铁路集装箱中心站举行。该班列的开通标志着从越南到成都的全线铁路通道测试成功，将促进成都与“一带一路”沿线国家和地区的经贸往来，发挥成都作为西部枢纽的集散作用。"
+        },
+        {
+          "block_id": "blk-f13f5a9f7eed2ad3a51c",
+          "page_number": 135,
+          "text": "2018年3月成都兴城集团在欧洲成功发行首笔总额5亿欧元债券，并在德国中欧国际交易所上市交易。该债券是西南地区发行的首笔欧元债券，为成都国企参与全球价值链创造，拓展全球化业务开创了良好局面。"
+        },
+        {
+          "block_id": "blk-21dfb17ec9d2e8bfc622",
+          "page_number": 136,
+          "text": "2018年3月“2018成都双遗马拉松赛”在都江堰市成功举办。本次赛事共吸引了来自世界各地的3万名跑者参加，创造了西部地区半马参赛人数最多的马拉松赛事。"
+        },
+        {
+          "block_id": "blk-528bb6e16abaec50d605",
+          "page_number": 136,
+          "text": "2018年3月海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。该物流中心具备报税仓储、全球采购、国际分拨、转口贸易、国际中转等多种特殊功能，将为中西部地区发展服务贸易探索路径、积累经验。"
+        },
+        {
+          "block_id": "blk-bb7ba1d6d3e002f79849",
+          "page_number": 136,
+          "text": "2018年3月成都天府奥体城基础设施项目开工建设。本次集中开工的建设项目共有13个，涉及基础设施、产业配套、公共服务、绿化景观4个重点领域，总投资260.8亿元。奥体城建成之后，将为成都举办世界级体育赛事提供重要支撑。"
+        },
+        {
+          "block_id": "blk-cc5c444e886dbdec496a",
+          "page_number": 136,
+          "text": "2018年3月第98届全国糖酒商品交易会在成都举办。本届糖酒会共设有7大主题展区，吸引了来自法国、美国、澳大利亚、阿根廷、南非、马来西亚等40个国家和地区的4000家展商参展，创造了40万入场总人次，是历史上展览面积最大、入场人次最多的一届。"
+        },
+        {
+          "block_id": "blk-8a47eef3a23a0d995a50",
+          "page_number": 136,
+          "text": "2018年4月第五届成都·迪拜国际杯-温江·迈丹赛马经典赛在温江举行。本次比赛共有温江短途赛、迈丹让磅赛、广厦让磅赛、浪琴成都迪拜国际杯和温江迈丹经典赛5个项目，吸引了来自爱尔兰、英国、美国、德国等国的14名骑师参赛。"
+        },
+        {
+          "block_id": "blk-3e3ea1cbea88f61549bb",
+          "page_number": 136,
+          "text": "2018年4月中国-乌干达投资论坛在成都成功举办。本届论坛由乌干达驻华大使馆、四川省外事侨务办和成都市外事侨务办共同主办，旨在推动中乌双方在农业加工、旅游、信息通讯、矿产、能源、基础设施等领域开展投资合作，形成互利共赢的发展格局。"
+        },
+        {
+          "block_id": "blk-2143e920729455c68fa0",
+          "page_number": 136,
+          "text": "2018年4月奥地利驻成都总领事馆正式开馆。这是奥地利在中国内地设立的第3家领事机构，领区范围包括四川省、贵州省、云南省和重庆市。自此，成都领事馆数量达到17个，仅次于上海、广州，位列中西部第一。"
+        },
+        {
+          "block_id": "blk-453bbe8f83a5fde031b1",
+          "page_number": 136,
+          "text": "2018年4月中德智能网联汽车四川试验基地正式落户龙泉驿。这是国内唯一的国际合作智能网联汽车示范基地，将以智能网联汽车、车联网标准及测试验证"
+        },
+        {
+          "block_id": "blk-79c25c2b643e427a2a15",
+          "page_number": 137,
+          "text": "等内容为依托，打造智慧交通生态圈。"
+        },
+        {
+          "block_id": "blk-3f00e706019645c9aa67",
+          "page_number": 137,
+          "text": "2018年4月“2018全球跨境电商·成都大会”在成都举办。本次大会以“产业升级贸易重构”为主题，从供应链、特色金融、国际商贸、政策创新、电商园区5个维度切入，深度探讨成都跨境电商发展新模式。大会宣布，成都市跨境电商消费者维权中心正式成立，成都跨境电商交流合作联络处在全球多个城市正式挂牌。"
+        },
+        {
+          "block_id": "blk-54e191cb7a09c1c47b95",
+          "page_number": 137,
+          "text": "2018年4月第四届周边国家“市长参访计划”成都交流会正式举办。来自12个国家的13个外方代表团参加了会议，听取了成都有关部门在经贸、物流、旅游、文创等领域的汇报，并就投资环境、产业项目及重要平台搭建展开了深度探讨，共同探索中外合作新机遇。"
+        },
+        {
+          "block_id": "blk-83c5c4bb9465d49c5946",
+          "page_number": 137,
+          "text": "2018年4月国家口岸管理办公室决定在四川、辽宁、山东、广东和北京“4省1市”同步开展国际贸易首批“单一窗口”标准版空运舱单申报功能试点工作，成都正式成为首批“单一窗口”标准版空运舱单申报功能国家试点城市，也是西部唯一入选的城市。"
+        },
+        {
+          "block_id": "blk-0065574474f9a379096b",
+          "page_number": 137,
+          "text": "2018年4月第六届国际都市现代农业博览会在成都举办。本次博览会吸引了来自全球23个国家、73个外地展团、1500家中外农业企业参展，并进行贸易采购、产销对接、交流合作。据统计，展会期间共吸引观众10万人（次），展期现场成交额4100万元，产品贸易签约额19.74亿元。"
+        },
+        {
+          "block_id": "blk-209d83e25399b9dfaf80",
+          "page_number": 137,
+          "text": "2018年4月成都一维也纳中欧班列抵达目的地。该班列从成都发车，穿越亚欧6国，行程9800公里，最终达到奥地利首都维也纳。这是成都开出的首列直达奥地利的中欧班列，是奥地利和中国友好合作的象征。"
+        },
+        {
+          "block_id": "blk-2895cbdd5a36af351330",
+          "page_number": 137,
+          "text": "2018年5月2018成都金堂·港中旅铁人三项世界杯决赛在金堂举办。此次赛事包括铁人三项世界杯赛和全国业余铁人三项积分赛，共吸引了来自27个国家和地区的1072名选手和爱好者参赛。"
+        },
+        {
+          "block_id": "blk-c75944b998942c04f63f",
+          "page_number": 137,
+          "text": "2018年5月成都与乌拉圭首都蒙得维的亚市建立友好合作关系。蒙德维的亚是乌拉圭的政治中心和经济中心，双方将在文化、旅游、经贸、教育等领域加强合作，推动中拉关系实现大发展。"
+        },
+        {
+          "block_id": "blk-67efebcad4375d4f6ef8",
+          "page_number": 137,
+          "text": "2018年5月2018成都全球创新创业交易会在成都举办。本届创交会以“发展"
+        },
+        {
+          "block_id": "blk-906c8dd9c951e1088932",
+          "page_number": 138,
+          "text": "新经济、培育新动能”为主题，共举办了全球独角兽高峰论坛、成都国际友城市长创新论坛、2018中欧创新创业投资峰会等14场主题活动，发布了《中国新经济发展蓝皮书》，促进了创新创业要素流动和成果交易，各类活动签约共达成170亿元。"
+        },
+        {
+          "block_id": "blk-c646d1fd970c8f1c9c3e",
+          "page_number": 138,
+          "text": "2018年5月丝绸之路国际图书馆联盟在成都成立。该联盟是“一带一路”倡议在文化领域实践的最新成果，也是各国图书馆协同合作、携手共进、共谋发展的重要举措。联盟内现有成员包括中国国家图书馆在内共有24家，将不断扩大合作规模，创新发展模式，推动“一带一路”国家图书馆加深合作。"
+        },
+        {
+          "block_id": "blk-5c2f5ca9646df0fb1161",
+          "page_number": 138,
+          "text": "2018年6月中国“一带一路”研究培训中心在成都成立。该中心由中国社会科学院大学(研究生院)、成都高新区以及中国城市建设集团三方共同运营，主要开展与“一带一路”建设相关的国际培训、国际预科、国际职业教育等工作。"
+        },
+        {
+          "block_id": "blk-4b1fd7bd958375944e09",
+          "page_number": 138,
+          "text": "2018年6月2018年“一带一路”成都国际乒乓球公开赛在成都举行。本届公开赛吸引来自11个国家和地区的代表队前来参赛。比赛期间，体育经济与国际区域合作论坛同时召开，来自9个国家的33位专家以及高校、科研机构、企业等200余位参会代表，围绕“共同繁荣新时代体育经济”的主题开展了丰富的学术交流，进一步促进了成都体育事业发展与国际接轨。"
+        },
+        {
+          "block_id": "blk-44630ad6ba393951d7af",
+          "page_number": 138,
+          "text": "2018年6月四川自贸试验区“蓉欧+泸州港”号班列正式开行。这是中欧班列（蓉欧快铁）第一条铁水联运线路，将充分发挥铁路和水路运输比较优势与组合效应，带动蓉欧班列运输效率提升。据统计，该线路开通之后，铁水联运将比传统运输模式节约 \\(20\\%\\) 的成本。"
+        },
+        {
+          "block_id": "blk-829ffe7e722174a3df47",
+          "page_number": 138,
+          "text": "2018年6月中德农业企业对话研讨会暨第八届成都有机农业论坛在成都举行。本次论坛以“绿色发展合作共赢”为主题，旨在让中德两国就农业合作领域政策对话、企业交流合作、农机农产品贸易、农业科研项目协作、涉农信息共享等方面进行深入沟通。"
+        },
+        {
+          "block_id": "blk-623dbe4ab6bc01497a63",
+          "page_number": 138,
+          "text": "2018年6月第十九届成都国际家具工业展览会在成都成功举办。本届展会以“中国平台·全球共享”为主题，延续“一展双馆”展出模式，在中国西部国际博览城、世纪城新国际会展中心双馆同步举行，展览总规模达30万平方米，参展企业近3000家，展出规模和参展企业数量创历届新高，稳居中西部第一。"
+        },
+        {
+          "block_id": "blk-cb0682b7bddb75ddb1aa",
+          "page_number": 139,
+          "text": "2018年6月第二届中国一中东欧国家艺术合作论坛在成都成功举办，本届论坛以“当代艺术的实践与探寻——传统的当代价值”为主题，通过艺术论坛、成果展览、专场演出等活动形式，搭建了中国与中东欧16国在艺术领域的交流平台，加强了成都与“一带一路”沿线国家和地区的文化联系。"
+        },
+        {
+          "block_id": "blk-6cc85cf0b66a6453fad0",
+          "page_number": 139,
+          "text": "2018年6月“蓉欧 \\(^+\\) ”东盟国际班列首发仪式在四川内江举行。首发班列从成都国际铁路港出发，途经内江火车南站，最终抵达目的地越南。该路线较之前通过长江水道，从上海进入海运的运行模式相比，航行时间大幅缩短，极大的降低了企业时间成本。"
+        },
+        {
+          "block_id": "blk-69e8aabf942c85e741ca",
+          "page_number": 139,
+          "text": "2018年6月成都市与秘鲁阿雷基帕市建立友好合作关系谅解备忘录签约仪式成功举行。阿雷基帕市是秘鲁第二大城市，双方将在经贸、教育、文化、旅游、创新创业等领域拓展互利交流合作，为推动两国关系实现更大发展作出积极贡献。"
+        },
+        {
+          "block_id": "blk-901248c5053124a7aa07",
+          "page_number": 139,
+          "text": "2018年6月“2018世界文化名城论坛·天府论坛”在蓉举行。本次论坛以“交流合作·开放共享”为主题，聚焦“一带一路”背景下的城市文化建设，共有22个论坛成员城市、9个“一带一路”沿线重要城市代表，以及近400名国内外知名文创机构代表、文化名人参会。论坛期间，发布了《世界文化名城·天府论坛成都共识》。"
+        },
+        {
+          "block_id": "blk-93e5568ec87702539e49",
+          "page_number": 139,
+          "text": "2018年7月 第四届阿拉伯艺术节在成都举行。本届“阿拉伯艺术节”以“丝路相连，民心相通”为主题，举办了包括中阿文化部长论坛、中阿城市文化和旅游论坛、意会中国——阿拉伯知名艺术家访华采风10周年大展等精品活动，集中展示了中阿在“一带一路”文化合作框架下的最新交流合作成果。"
+        },
+        {
+          "block_id": "blk-81f8147495a6627a4cab",
+          "page_number": 139,
+          "text": "2018年7月联合国工业发展组织“工业4.0教育国际合作推广基地战略合作”项目落户成都，这是联合国工业发展组织“IIIE4.0”项目在全球范围内的首次落地。"
+        },
+        {
+          "block_id": "blk-f573d341b21c3fdcf7d3",
+          "page_number": 139,
+          "text": "2018年7月成都直飞伦敦航线开通，伦敦正式进入成都洲际10小时航程圈的“朋友圈”范畴。至此，成都机场已开通国际（地区）航线107条，国际航线数量、市场活跃度居中西部第一。"
+        },
+        {
+          "block_id": "blk-91b830f984dd686fa6a8",
+          "page_number": 139,
+          "text": "2018年7月 德国巴伐利亚州驻四川办事处在成都揭牌，这是巴伐利亚州在中"
+        },
+        {
+          "block_id": "blk-304ca265d131cdf49fd1",
+          "page_number": 140,
+          "text": "国设立的第三个办事处。办事处将为成都企业和巴州企业创造可信赖的服务平台，推动两地之间的交流与合作。"
+        },
+        {
+          "block_id": "blk-7b68c6c42c44572eea27",
+          "page_number": 140,
+          "text": "2018年7月中德工业4.0暨全球采购大会在成都中德（蒲江）中小企业合作区成功举办。本次会议获得40多家欧洲知名机构和企业的支持，共吸引来自成都等西部地区300余家优质企业参加。"
+        },
+        {
+          "block_id": "blk-23a7de2de3e41dfb9587",
+          "page_number": 140,
+          "text": "2018年7月 第五届中非民间论坛在成都成功举办。本届论坛以“凝聚民间力量，促进中非友好互信”为主题，吸引来自30多个国家的140多家民间组织200多名代表参会，促进了中非友好交流。"
+        },
+        {
+          "block_id": "blk-b55dab2b7eeb45bddcc0",
+          "page_number": 140,
+          "text": "2018年7月 2018成都国际友城青年音乐周在成都成功举行。本届音乐周以“乐梦无疆·向东绽放”为主题，共吸引31个国家42个地区（城市）的40支海外艺术团队近500人参演，演出规模和演出阵容创下历届之最。"
+        },
+        {
+          "block_id": "blk-d70650c47e4484f90a1f",
+          "page_number": 140,
+          "text": "2018年7月中欧班列（成都）的俄罗斯莫斯科定制化贸易班列从成都启程，成功抵达俄罗斯莫斯科。此次中欧班列（成都）共搭载123台东风汽车，贸易额超过123万美元，这标志着中欧班列（成都）实现新的突破，出口产品从之前单一的以日用小商品为主扩展到货物价值更高的整车项目。"
+        },
+        {
+          "block_id": "blk-2a8ade2bee71106f8203",
+          "page_number": 140,
+          "text": "2018年8月成都至意大利米兰的中欧班列（成都）首发，这是首趟从成都发往意大利的国际货运班列线路。此趟班列的开通，搭建了意大利及地中海腹地与中国西部的物流和国际贸易新通道，将进一步提高中国西部腹地到欧洲地中海区域的运载能力，有效缩短中国商品出口意大利的在途时间，降低物流运输成本。"
+        },
+        {
+          "block_id": "blk-13f3a0390dc9d4f2b20e",
+          "page_number": 140,
+          "text": "2018年8月 首批由中欧班列（成都）进口的白俄罗斯牛肉运抵蓉。成都成为全国首个通过国际铁路运输方式实现白俄罗斯肉类进口的城市，标志着中欧班列白俄罗斯－成都肉类冷链运输新通道全面打通。"
+        },
+        {
+          "block_id": "blk-41223e40c511a13d34cd",
+          "page_number": 140,
+          "text": "2018年8月 iWorld2017数字世界博览会在成都举行。本届博览会以“新时代新理念·新软件新动能”为主题，聚焦人工智能以及移动互联网生态圈，吸引了200多家国内外品牌展商、100多位行业领袖参会，关注人次超过10万。"
+        },
+        {
+          "block_id": "blk-405e9f706137118a0345",
+          "page_number": 140,
+          "text": "2018年8月中欧班列（成都）直达阿拉木图班列正式开行，该班列从成都青白江始发，经由新疆霍尔果斯口岸出境，最后抵达哈萨克斯坦阿拉木图，全程运行时间为8天。这是成都首次采取直达方式正式开行阿拉木图线路的中欧班列，"
+        },
+        {
+          "block_id": "blk-e4727fe3d66ac6b41c86",
+          "page_number": 141,
+          "text": "2018年8月“一带一路：发展城市绿色经济、搭建城市可持续发展之桥”大会在成都路演举行。本次大会以“发展绿色经济、建设公园城市”为主题，旨在开展绿色发展交流协作，共商共话公园城市建设，大会吸引了所有“一带一路”沿线国家参与。"
+        },
+        {
+          "block_id": "blk-8bca9b0f2a82d127ba4f",
+          "page_number": 141,
+          "text": "2018年8月第21届成都国际汽车展览会在世纪城新国际会展中心开展。车展以“智汇蓉城·乐驾未来”为全新主题，吸引德系、美系、法系、日系、韩系以及合资、自主等119个汽车品牌参展，展出面积达15万平方米。据统计，本届车展现场共有71款新车首发，共产生29017台汽车订单，观展人次58万。"
+        },
+        {
+          "block_id": "blk-15193c0b181d7075b5dd",
+          "page_number": 141,
+          "text": "2018年9月世界500强及全球知名企业成都高峰论坛在成都举行。本届论坛以“汇西部、聚成都”为主题，吸引了来自国际企业家联盟、亚洲企业家协会、德国中小企业联合会、欧盟驻华代表、世界创新委员会、部分外国驻华领事机构代表以及诺基亚、花旗银行、摩根大通等世界500强及知名企业高层代表100余人参加论坛。"
+        },
+        {
+          "block_id": "blk-b882d4f39d5ef15eb385",
+          "page_number": 141,
+          "text": "2018年9月第九届世界体育舞蹈节在都江堰市举行。此届世界体育舞蹈节同时举办WDSF标准舞世界杯、WDSF拉丁舞世界杯、第九届中国成都体育舞蹈国际公开赛三项赛事。其中，WDSF拉丁舞世界杯是首次在成都举办，也是世界体育舞蹈联合会（WDSF）首次将标准舞、拉丁舞两项世界杯赛事同时放在一座中国城市举办。"
+        },
+        {
+          "block_id": "blk-74de4a672f32171c88fd",
+          "page_number": 141,
+          "text": "2018年9月2018南亚（泛亚）产能合作（成都）对话会在成都成功举办。本届对话会以“深化南向合作推动共同繁荣”为主题，吸引了南亚、东南亚十余国近百名外宾参会，大会期间共签订17个重点合作项目，项目合同金额达18.6亿元。"
+        },
+        {
+          "block_id": "blk-69f4c0b3d914624a0fa4",
+          "page_number": 141,
+          "text": "2018年9月四川省首个丝路学院在成都揭牌成立，为国际化协同育人和人文交流的搭建了平台。根据规划，学院将通过开展留学教育等模式，共同培育“一带一路”沿线国家高素质的职业人才，打造中外职业教育品牌。"
+        },
+        {
+          "block_id": "blk-31d4b2e135c44c7b20fd",
+          "page_number": 141,
+          "text": "2018年9月第九届中国（四川）一南亚经贸合作圆桌会议在成都举行，斯里兰卡、阿富汗、孟加拉、不丹、马尔代夫、尼泊尔、印度、巴基斯坦南亚八国代表参会。会议以“促进中国（四川）一南亚经济深度融合”一跨境电商、国际产"
+        },
+        {
+          "block_id": "blk-e8d1eb89761af88f6059",
+          "page_number": 142,
+          "text": "能、基础设施合作为主题，共同探讨如何促进中国尤其是四川与南亚经济深度融合。"
+        },
+        {
+          "block_id": "blk-598356f3fe16a1e33b70",
+          "page_number": 142,
+          "text": "2018年9月 第十三届中国一欧盟投资贸易科技合作洽谈会在成都举行，来自17个欧盟成员国及瑞士、挪威等其他国家的220余名代表参会。大会主题为“聚焦新经济，共谋新发展”，旨在链接欧洲创新资源，推进新经济领域中欧互联互通务实合作。"
+        },
+        {
+          "block_id": "blk-350f69f3faadc1828478",
+          "page_number": 142,
+          "text": "2018年9月第十七届中国西部国际博览会在成都举行。大会主题为“中国新时代 西部新作为”，实行“一城双展”，展览总面积约26万平方米，共举办活动70项，西部各方共签约投资合作项目808个，总投资额超过7800亿元。"
+        },
+        {
+          "block_id": "blk-3d8e6853fd077446f4a8",
+          "page_number": 142,
+          "text": "2018年9月成都直飞以色列航线开通，成都成为中国内地第四个、中西部地区唯一直飞以色列的城市，也是我国已开通的四条直飞以色列航线中航线距离最短的航线。"
+        },
+        {
+          "block_id": "blk-bd6dad55ac7595b3c4d3",
+          "page_number": 142,
+          "text": "2018年9月以色列、摩尔多瓦两个国家馆在成都国际铁路港开馆。新开两馆将利用自贸试验区新机遇，打造全国首个“一带一路+”国家馆群共享经济圈，形成集国际展会、国家及友城的论坛、文化艺术品保税展示、国际演艺、国际教育为一体的国际贸易生态圈。"
+        },
+        {
+          "block_id": "blk-869abe0fefcb3cd69d04",
+          "page_number": 142,
+          "text": "2018年9月中欧班列国际木材集散中心在成都青白江挂牌成立，“蓉欧枢纽+园区”合作模式落地成都青白江。“蓉欧枢纽+园区”合作模式是中欧班列（成都）与园区运营方合作，共同搭建的物流、贸易、金融一体化服务平台，针对园区发展提供定制化服务，构建中欧班列融入本地贸易产业发展新模式。"
+        },
+        {
+          "block_id": "blk-8ec6472d08ae033b8aa2",
+          "page_number": 142,
+          "text": "2018年10月“2018成都·欧洲文化季”活动在蓉成功举办。此次活动由成都市外事侨务办携手相关国家驻华使领馆、商会以及部分欧洲友城共同举办，活动内容包括荷兰、英国、波兰、瑞士、奥地利等九大主题板块以及摄影展、音乐会、电影沙龙等在内的十项专题。"
+        },
+        {
+          "block_id": "blk-d2c82038f4fb0e2eac08",
+          "page_number": 142,
+          "text": "2018年10月中国（四川）一东盟自由贸易合作中心启动仪式在成都成功举行。该合作中心项目规划占地47.1亩，总建筑面积约为11.6万平方米，设有展示区、配套商务楼、写字楼办公区三大功能区，旨在围绕贸易、投资、文化、技术合作等方面打造综合性重要战略合作平台，助力四川和东盟双向投资自由化、"
+        },
+        {
+          "block_id": "blk-c90a399ac9ee9ca9c4dc",
+          "page_number": 143,
+          "text": "贸易便利化。"
+        },
+        {
+          "block_id": "blk-d4bfb37e5a5e727eb666",
+          "page_number": 143,
+          "text": "2018年10月2018欧洲·成都美食文化节在奥地利首都维也纳举行。文化节期间，成都川菜海外推广中心和郫县豆瓣·川菜原辅料海外推广中心在维也纳授牌成立，川菜在全球的影响力进一步扩大。"
+        },
+        {
+          "block_id": "blk-eac926a5d7fc010c2328",
+          "page_number": 143,
+          "text": "2018年10月成都开通中西部首条直飞埃及航线，该航线是成都第三条直飞非洲的航线。"
+        },
+        {
+          "block_id": "blk-9e227282e6b40040f677",
+          "page_number": 143,
+          "text": "2018年10月中阿城市文化和旅游论坛在成都召开。本届论坛以“文化和旅游：让世界更加和平美好”主题，中方14个城市、阿方9个城市代表参会，围绕文化和旅游领域多个议题分享发展经验，共同探讨伙伴关系，成功开展了中阿城市之间的友好对话。"
+        },
+        {
+          "block_id": "blk-fb23e2f8c811687f08f3",
+          "page_number": 143,
+          "text": "2018年10月2018全球跨境电商服务资源大会在成都举行。大会以“贸易新业态丝路新动能”为主题，吸引来自美国、澳大利亚、俄罗斯、英国、印度、马来西亚、泰国、南非等多个国家的跨境电商优秀服务商以及海内外1500名专业人士参会。成都全球跨境电商服务资源中心在大会上揭幕并启用。"
+        },
+        {
+          "block_id": "blk-ad68f1a14d89c22f7f2c",
+          "page_number": 143,
+          "text": "2018年10月成都——广州港铁海联运班列首发。该班列为25辆集装箱平车专列，共搭载了50个海运集装箱，主要运输四川生产的化工类货物，所运货物经铁路、海运，最终抵达马来西亚、印度尼西亚等东南亚地区。"
+        },
+        {
+          "block_id": "blk-726e2bd9b839fc60add8",
+          "page_number": 143,
+          "text": "2018年10月成都开通直飞缅甸仰光国际航线。航线开通后，成都与仰光之间的往来不需再从昆明、曼谷等地中转，旅途时间节省约一半。"
+        },
+        {
+          "block_id": "blk-0cb806500dd959d3ef49",
+          "page_number": 143,
+          "text": "2018年10月2018成都国际马拉松成功举行。赛事包括马拉松（12000人）、半程马拉松（10000人）、5公里欢乐跑（6000人）三个项目，赛事规模达到28000人，赛事跑道创新性的串起了金沙遗址博物馆、杜甫草堂、宽窄巷子等成都代表性的地标。"
+        },
+        {
+          "block_id": "blk-60e0bdaa19508f8e0037",
+          "page_number": 143,
+          "text": "2018年11月第五届成都创意设计周在成都举行。大赛共吸引来自32个国家和地区的1000家设计机构的23500件创意设计作品参赛，现场接洽合作项目50个多个，现场总成交金额超11.91亿元。"
+        },
+        {
+          "block_id": "blk-3cd529354e7877d8ba98",
+          "page_number": 143,
+          "text": "2018年11月2018成都国际供应链与物流技术装备博览会在成都举行。本届博览会为期3天，吸引了包括中国、“一带一路”沿线各国在内的27个国家、130家"
+        },
+        {
+          "block_id": "blk-1298c0acd11a03b8ba6f",
+          "page_number": 144,
+          "text": "企业参展，展出面积15000平方米，是中国西部地区规模最大、国际化程度最高的供应链与物流专业展。"
+        },
+        {
+          "block_id": "blk-8029b1ec20cbd4451859",
+          "page_number": 144,
+          "text": "2018年11月成都市高新西园综合保税区获批。该保税区规划面积1.39平方公里，享受国外货物入区保税、国内货物入区退税、区内企业之间交易免征增值税和消费税等税收和外汇政策，对促进保税加工、保税物流、保税服务等行业发展具有重要意义。"
+        },
+        {
+          "block_id": "blk-35bdedef2a126e42a7d1",
+          "page_number": 144,
+          "text": "2018年11月“一带一路”建设天府国际法治论坛在成都举行，来自政府部门、国内外高校、企业和律师行业的领导、教授学者、企业家代表和律师代表等300余人出席，共同围绕“一带一路”法治建设、涉外法律人才培养、知识产权、国际贸易合作与仲裁、空港建设以及中欧班列等话题进行了深入讨论。会议期间还举行了中国政法大学“一带一路”法律研究中心落户天府新区签约仪式。"
+        },
+        {
+          "block_id": "blk-f8d92b3d720b3f2ea5b2",
+          "page_number": 144,
+          "text": "2018年11月2018年UCI都市自行车世锦赛在成都举行，该赛事包括小轮车场地技巧赛、山地自行车越野赛和山地自行车障碍攀爬赛三项，共吸引来自40多个国家和地区的500余名运动员参赛。"
+        },
+        {
+          "block_id": "blk-158f2574c6fa5f32bf8c",
+          "page_number": 144,
+          "text": "2018年12月成都直飞丹麦首都哥本哈根航班开通。该航线是成都首条直飞北欧的航线，也是我国中西部地区首条直飞丹麦首都的航线，极大地缩短了成都与北欧之间的距离。"
+        },
+        {
+          "block_id": "blk-9d80b540f6a10e5a887c",
+          "page_number": 144,
+          "text": "2018年12月拉巴特中国文化中心在摩洛哥首都拉巴特正式揭牌，标志着中国在海外成立的第36个中国文化中心正式启用。该中心旨在为中摩两国政府、文化机构、艺术界人士提供合作与交流平台，对推动中摩两国在文化、旅游等领域合作具有积极作用。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-83a6500cd5db:bundle-3c1be37438f8",
+      "excluded_fragments": [],
+      "ref_id": "ref-83a6500cd5db",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-12591a25ef002b3b763f",
+          "page_number": 181,
+          "text": "2020年1月中欧班列（成都）全国首趟俄罗斯菜籽油专列顺利抵蓉。依托本次俄罗斯菜籽油的顺利进口，中欧班列（成都）将实现定期常态化粮油产品运输，并依托成都西部消费中心城市的区位优势，辐射云贵川等地区，有助于拓展国际物流中转、国际贸易聚集、国际产能合作等领域，进一步助推成都在对外开放水平。"
+        },
+        {
+          "block_id": "blk-c1d7576ee1189cbf259d",
+          "page_number": 181,
+          "text": "2020年1月成都飞乌兹别克斯坦塔什干航线正式开通。作为上合组织创始成员国，乌兹别克斯坦是中亚地区的重要国家，首都塔什干是古“丝绸之路”上重要的商业枢纽，更是中亚最大城市和经济文化中心。成都一塔什干航线开通后，将进一步促进两国经贸往来和文化旅游发展，为两国人民搭建起友好交流的空中桥梁。该航线是双流机场2020开通的首条国际定期客运航线。"
+        },
+        {
+          "block_id": "blk-099696f0b49657354330",
+          "page_number": 181,
+          "text": "2020年1月 由中国驻英国大使馆和成都市人民政府联合主办的“欢乐春节·行走的年夜饭”活动在英国伦敦举行。该活动是文化和旅游部“欢乐春节”活动的重要子品牌，成都市积极利用这一国家公共外交平台，携手各驻外使馆，先后在马德里、柏林、雅典等世界知名城市举办该活动，深受各国主流人士好评，成为弘扬天府文化、推介四川美食、讲好成都故事的重要平台。"
+        },
+        {
+          "block_id": "blk-c131d1bbd584f0629b0d",
+          "page_number": 181,
+          "text": "2020年1月成都至日本札幌直飞客运航线通航。该航线是成都继东京、大阪之后，第三条成都直飞日本客运航线，实现成都航线至日本中部、中西部及北部区域覆盖，将进一步促进两地文化交流及旅游观光产业发展。至此，成都国际（地区）航线达到128条，其中定期直飞航线75条。"
+        },
+        {
+          "block_id": "blk-4fb21bd0a1d3522bde16",
+          "page_number": 181,
+          "text": "2020年1月“欢乐春节”暨“中国文化日”成都艺术团文艺演出在哥斯达黎加科学和文化中心国家礼堂隆重举行，立法大会议员、政府官员、旅哥华侨华人等社会各界代表500余人观演。该文艺演出的举行，有力促进两国文化交流互访，推动民心相通，为中哥战略伙伴关系注入新活力。"
+        },
+        {
+          "block_id": "blk-87b625285b1466f712ab",
+          "page_number": 181,
+          "text": "2020年1月成都市武侯区与美国路易维尔市共同签署《中国四川省成都市武侯区与美国肯塔基州路易维尔市教育交流合作备忘录》，商定在蓉共建成都路易维尔小"
+        },
+        {
+          "block_id": "blk-f21609656c0c603d03de",
+          "page_number": 182,
+          "text": "学。两市正式确立友好合作城市关系以来，先后开展“姐妹城市青年学者计划”“暑期英语教师培训”“奥尔夫音乐教育坊”等卓有成效的教育合作，成都路易维尔小学的建设将继续加深两市的教育合作。"
+        },
+        {
+          "block_id": "blk-d4b51b31f665a9183c38",
+          "page_number": 182,
+          "text": "2020年2月 成都国际班列免费运送疫情期间防护物资。针对防疫期间救灾物资运输，成都国际班列可为以政府和公司名义采购的捐赠物资、收货方为政府和相关慈善机构的救援物资实行全程运输费用减免，为境外捐赠新型冠状病毒救援物资提供从欧洲、东南亚铁路运输至成都并接续（含分驳）至全国其他地区的全程物流运输服务。"
+        },
+        {
+          "block_id": "blk-355570066086a7b57924",
+          "page_number": 182,
+          "text": "2020年3月 中欧班列（成都）“一单到底、两段结算”扩大试点。《中欧班列（成都）境内段运费不计入完税价格申报操作指引》将“一单到底、两段结算”运费机制改革试点范围扩大到所有符合条件的外贸企业，进一步扩大政策普及面，提高政策落实的便利性，支持外贸企业更好地应用陆上运输通道。"
+        },
+        {
+          "block_id": "blk-37132cce33ef505d8a54",
+          "page_number": 182,
+          "text": "2020年3月《关于新冠肺炎期间扶持成都国际航空货运发展的措施》正式发布。《措施》包括扶持范围及标准、执行期限和补贴申请及支付等主要内容，有利于降低疫情对我市航空货运业发展的影响，保持国际航空货运战略通道畅通，扶持航空货运企业维持国际全货机定期航线稳定运营。"
+        },
+        {
+          "block_id": "blk-d84670104ac9282035cd",
+          "page_number": 182,
+          "text": "2020年3月《关于新冠肺炎期间扶持成都国际航空货运发展的措施》网络宣讲会顺利召开。围绕优先保障物流运输畅通、深度融入国际供应链体系的要求，市口岸物流办组织召开该网络宣讲会，就疫情发展态势、政策制定思路、激励企业增强恢复生产运营信心等方面发表讲话，保障成都国际航空货运业稳定发展。"
+        },
+        {
+          "block_id": "blk-e5a848aee47b09174d66",
+          "page_number": 182,
+          "text": "2020年3月成渝携手推进“中欧班列（成渝）”共同品牌。成都、重庆开行的中欧班列是国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列。截至2019年底，成渝地区的中欧班列累计开行数量占全国的比重超过 \\(40\\%\\) ，开行量已累计突破10000列，根据成都市青白江区国际铁路港管理委员会和重庆国际物流枢纽园区管理委员会签订的战略合作框架协议，成渝两地将重点在4个领域、20个层面展开深入的合作。"
+        },
+        {
+          "block_id": "blk-284aeccdf491a96b2302",
+          "page_number": 182,
+          "text": "2020年4月 成都通过“银企对话会”活动平台向外向型企业宣传推介APEC商务旅行卡。活动向中国银行四川省分行、进出口银行四川分行等银行机构及60余家涉外企业发放APEC商务旅行卡宣传资料，了解实际需求，详细介绍旅行卡功能和签证便利政策，主动做好对接服务，进一步扩大APEC商务旅行卡签证便利政策惠及面。"
+        },
+        {
+          "block_id": "blk-0dc25ff9392dae638ff9",
+          "page_number": 183,
+          "text": "2020年4月成都获批与美国纳什维尔缔结国际友好城市关系。纳什维尔位于美国中南部，是田纳西州第一大城市，该市主要产业包括音乐制作、医疗健康管理、汽车制造、高等教育、金融、旅游等。未来，两市将充分结合双方优势和特色，在音乐、医疗、文创、旅游、经贸、创新创业等领域形成一批可持续的务实项目。"
+        },
+        {
+          "block_id": "blk-0ddead615f9d172cba1d",
+          "page_number": 183,
+          "text": "2020年4月 西班牙获批在成都设立总领事馆。西班牙总领事馆的领区范围包括四川省、贵州省、云南省和重庆市，是西班牙在中国内地设立的第三家领事机构。成都与西班牙在地方交往、经贸投资、汽车制造、交通物流、新能源、农业科技、旅游、会展等领域交流合作将不断深化。"
+        },
+        {
+          "block_id": "blk-d11e01e710ddb4178ee3",
+          "page_number": 183,
+          "text": "2020年5月成都市参加世界城市和地方政府联合组织2020年执行局会议。会议围绕“疫情后恢复经济社会运行及疫情后国际社会应重点关切的领域”、“地方政府在未来全球治理中的作用”等议题开展讨论。成都市作为2019—2022届世界执行局、世界理事会成员，积极参与全球事务的酝酿决策，推动地方政府合作。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-d58b89b99511aff852cd",
+          "page_number": 183,
+          "text": "2020年5月 中日（成都）地方发展合作示范区挂牌成立。示范区聚焦文化创意产业，伊藤洋华堂BPO中国区总部、A8国际音乐产业基地、中日动漫街区、日本DAC西南总部及亚太创新中心4个项目签约入驻，将吸引日资企业来华发展，加快形成优势合作，全面提升中日地方合作水平。"
+        },
+        {
+          "block_id": "blk-422e5b2c9ed8d465ae98",
+          "page_number": 183,
+          "text": "2020年5月《成都市促进外资外贸稳定发展行动方案（2020—2022年）》正式颁布。政策结合成都实际，促进成都进一步扩大对外开放，持续营造国际化、法治化、便利化的营商环境，全力稳住外资外贸基本盘，对外经贸结构进一步优化，协调发展进一步夯实，加快推动全市对外经贸高质量发展。"
+        },
+        {
+          "block_id": "blk-1c2a87e87b0a841c0ad7",
+          "page_number": 183,
+          "text": "2020年6月成都一日韩东向沿江铁海联运通道实现常态化运行。从6月起，成都一日韩东向沿江铁海联运通道将加密到每周3列开行，并逐步实现对称往返，这意味着以成都国际铁路港为枢纽的东向日韩铁海联运通道将实现常态化运行。货物抵达后，将通过海运分拨到日、韩、欧美等国家。"
+        },
+        {
+          "block_id": "blk-cb3c48e6e80a1df8da6f",
+          "page_number": 183,
+          "text": "2020年6月面向香港企业的成德眉资同城化发展宣讲会在蓉举行。中国香港（地区）商会一四川、香港特区政府驻成都经济贸易办事处、香港贸易发展局、香港旅游发展局等30余家香港驻蓉机构和企业参加宣讲会，有助于香港企业深入了解成德眉资同城化发展进程，抢抓德眉资同城化发展暨成都都市圈建设机遇，扩宽合作渠道。"
+        },
+        {
+          "block_id": "blk-d985152ccd958322660f",
+          "page_number": 183,
+          "text": "2020年6月成都对日开放合作上海推介会运输服务主题沙龙活动成功举办。此次活动以沙龙形式实现成都与日本众多知名企业家深度交流、谋划合作，成都梳理"
+        },
+        {
+          "block_id": "blk-f05c98fa83bcd383002e",
+          "page_number": 184,
+          "text": "出机会需求清单122个，机会供给清单22个，示范项目清单24个，与日企加大在城市建设领域的合作，成为成都推进城市建设高质量发展的重要探索。"
+        },
+        {
+          "block_id": "blk-1ebb87b4dd131ba6bd2d",
+          "page_number": 184,
+          "text": "2020年7月成都举办首场面向全球的TOD综合开发项目合作招商推介会。推介会以“筑家筑城筑业共创共享共赢”为主题，正式在昌公堰、行政学院等5个项目试点“股权型”合作开发模式，并向全球开展陆肖、双凤桥等9个TOD综合开发项目商业运营的招商工作，全力促进高端资源要素在蓉聚集，引入国际领先、行业一流的标杆企业参与TOD综合开发。"
+        },
+        {
+          "block_id": "blk-cec348e4fa4d76f54564",
+          "page_number": 184,
+          "text": "2020年7月《成渝地区双城经济圈口岸和物流合作备忘录》《川渝国际贸易“单一窗口”合作协议》成功签署。按照合作备忘录，双方决定在机制建设和规划协同、战略通道、水运物流、客货运航空、公路物流、口岸、区域物流协同、物流产业等方面加强合作，推动两地口岸物流业联动发展。"
+        },
+        {
+          "block_id": "blk-5b18f70ec621e61c35d7",
+          "page_number": 184,
+          "text": "2020年7月成都对日开放合作青岛推介会成功举办。活动以运输、商贸、环保生态三大主题为切入点，与日企进行充分交流沟通，并发布两大供需清单，吸引了日本国驻青岛总领事馆、日本贸易振兴机构等相关外事机构、商协会，以及近铁、日通、日邮、日立、保利佐川等16家驻青岛日资物流类企业参加。"
+        },
+        {
+          "block_id": "blk-01f6c113f78330c1a803",
+          "page_number": 184,
+          "text": "2020年7月成都“公园城市”入选2020世界大都市协会“城市管理者社群”旗舰项目。本次研讨会主题为“绿色基础设施”，来自中国成都、西班牙巴塞罗那、英国曼彻斯特等城市的13位代表，在研讨会上分享各自城市在绿色基础设施建设方面的经验，成都市的公园城市项目被选为本次线上研讨会的“旗舰项目”，有利于推广成都公园城市品牌。"
+        },
+        {
+          "block_id": "blk-2d5f82c0b8cfb148378c",
+          "page_number": 184,
+          "text": "2020年7月 2020成都友城线上抗疫分享会在市网络理政中心召开。分享会共邀请俄罗斯莫斯科市、俄罗斯索契市、斯里兰卡科伦城市、泰国曼谷市、马来西亚槟城州等5个国际友城的10余名代表参会。分享会的召开充分展现新时代的成都力量和成都形象，为成都与国际城市携手迎来疫情后的新发展、新合作奠定了坚实的情感基础，积累了重要的合作经验。"
+        },
+        {
+          "block_id": "blk-9a9314f2e1ca2caf8e61",
+          "page_number": 184,
+          "text": "2020年7月 中国关闭美国驻成都总领事馆。作为对美方单方面挑起事端，突然要求中方关闭驻休斯顿总领事馆的反击，中方决定撤销对美国驻成都总领事馆的设立和运行许可，并对该总领事馆停止一切业务和活动提出具体要求。"
+        },
+        {
+          "block_id": "blk-b7ca814e323e8a056d81",
+          "page_number": 184,
+          "text": "2020年8月 成都国际铁路港经济开发区获批设立。成都国际铁路港经济开发区规划面积为12.24平方公里，涉及青白江区、金堂县，其中包含青白江国际铁路港、"
+        },
+        {
+          "block_id": "blk-af826679793c6b55a4e2",
+          "page_number": 185,
+          "text": "青白江欧洲产业城和淮州新城三个产业功能区，积极构建开发区错位协同的外向型产业体系，优化开发区发展环境，将打造成为成渝地区双城经济圈区域经济发展的重要引擎。"
+        },
+        {
+          "block_id": "blk-8478adc9058aa53b78c5",
+          "page_number": 185,
+          "text": "2020年8月成都新开通直飞印度尼西亚雅加达航线。雅加达为印度尼西亚的政治、经济、文化中心，亦为印度尼西亚的海陆交通枢纽，是太平洋与印度洋之间的交通咽喉，也是亚洲通往大洋洲的重要桥梁。该航线是我国民航局公布“五个一”政策后，成都新开通的首条国际客运航线，对促进经贸合作、人文交流等具有重要意义。"
+        },
+        {
+          "block_id": "blk-f5f4c73d8e5fbe609272",
+          "page_number": 185,
+          "text": "2020年8月“蓉欧 \\(+\\) 日韩”东向海铁联运大通道建设圆桌会议在成都召开。会议围绕“蓉欧 \\(+\\) 日韩海铁联运大通道发展与探索”主题，共同探讨“蓉欧 \\(+\\) ”通道创新拓展与合作新机遇。构建以成都为枢纽中心，链接日韩、联通欧洲及东盟的陆海联运大通道，能使这条新亚欧大陆桥成链成势，进一步推动包括成都在内的中国西部地区的对外开放开发水平。"
+        },
+        {
+          "block_id": "blk-f8923a9e8c5247a7d0aa",
+          "page_number": 185,
+          "text": "2020年8月“2020成都国际友城青年音乐周”在成都开幕。本届音乐周以“音乐连线叙友情、世界同心抗疫情”为主题，吸引来自45个国家的129支境外艺术团通过“线上+线下”的方式参与，充分诠释了人类命运共同体理念，让观众通过音乐深刻感受到全球同心抗疫的强大合力，促进了中外文化艺术交流和友城资源共享。"
+        },
+        {
+          "block_id": "blk-8da3aa79184d044df048",
+          "page_number": 185,
+          "text": "2020年9月成都高新西园综合保税区通过国家联合验收组验收。西园综保区通过正式验收，成为成都市继成都高新综合保税区后第二个通过验收的综合保税区，为电子信息重大项目的引进提供持续有效的载体平台，将为成都建设内陆对外开放经济高地注入新动力，对提升成都的经济外向度十分重要。"
+        },
+        {
+          "block_id": "blk-19c700f8c84c65208c0a",
+          "page_number": 185,
+          "text": "2020年9月成都加入国际组织宜可城一地方可持续发展协会。宜可城于1990年在纽约联合国总部成立，是全球最大的专注于推进可持续发展的城市和地方政府间合作组织，已有124个国家的1750个知名城市和地区加入其网络。成都将利用宜可城全球化网络平台，推广公园城市品牌，增强我市国际影响力，与世界城市分享可持续发展经验。"
+        },
+        {
+          "block_id": "blk-cf17899c1bb6f8d4e929",
+          "page_number": 185,
+          "text": "2020年9月“2020成都·欧洲文化季”希腊系列摄影展在成都拉开帷幕。活动以展览为主线，共邀请希腊、英国、瑞士、法国、波兰、奥地利、德国等7个欧洲国家参与，汇聚9场风格多样、精彩纷呈的展览及活动，线下、线上观展联动推出，成为成都与欧洲各国文化交流互鉴的重要平台。"
+        },
+        {
+          "block_id": "blk-7bcc5c0288a5642b7d9f",
+          "page_number": 186,
+          "text": "2020年9月 2020外籍人士中秋联谊会暨成都熊猫国际美食荟开幕式在蓉举行。开幕式邀请长期在蓉工作、学习、生活和近期受邀来蓉参与复工复产和我市重要项目建设的外籍专家和友人等近300位中外嘉宾欢聚一堂，呈现全球12个国家（地区、城市）的多道地道佳肴，以食会友，加深友谊，并助力商贸往来，促进旅游复苏，尽快有效融入国际国内“双循环”新发展格局。"
+        },
+        {
+          "block_id": "blk-eb0c65ca2ce68fa4b54c",
+          "page_number": 186,
+          "text": "2020年9月 2020成都对日开放合作推介会在苏州举行。成都依托苏州这一长三角最具有代表性的“日资高地”，围绕健康、环保、文化教育、旅游以及科研、金融、运输、城市建设等主题领域作主题推介，发布机会清单和重点示范项目，与更多的日资企业加强交流，积极寻求合作机会。"
+        },
+        {
+          "block_id": "blk-b302b53b07871860d599",
+          "page_number": 186,
+          "text": "2020年10月 智利获批在成都设立总领事馆。智利和中国同属亚太经合组织（APEC）成员，智利是最早同中国签署自贸协议的拉美国家之一，也是首个在成都设立总领事馆的拉美国家。智利在成都设立总领事馆将对四川成都与智利及拉美国家在投资、贸易以及人文交流等方面起到积极的促进作用。"
+        },
+        {
+          "block_id": "blk-5d816ac729b5bd259910",
+          "page_number": 186,
+          "text": "2020年10月 成都成功签发CIFA多式联运提单。成都签发首张以成都为核心、连接中欧班列及东向“蓉欧+日韩”海铁联运大通道的跨亚欧大陆桥多式联运CIFA（China International Freight Forwarders Association，中国国际货运代理协会）提单。通过公、铁、海相结合的多式联运方式，实现了“门到门”运输无缝衔接，实现“一次委托、一口报价、一单到底、一票结算”。"
+        },
+        {
+          "block_id": "blk-ec0b2c354c3db994fb8f",
+          "page_number": 186,
+          "text": "2020年10月“中国—老挝琅勃拉邦国际现代农业产业学院”启动。成都农业科技职业学院与老挝北部农林学院秉持“开放、共享”的理念，遵循“优势互补、平等合作、互惠互利、共同发展”的原则，开展教师培训、人员交流、联合培养等校际交流。该项目的启动将为在老挝发展的中国企业定向培养当地人才，通过校校、校企国际合作，深化成都与国际友城的交流合作。"
+        },
+        {
+          "block_id": "blk-5a58d86dd7373dacb70d",
+          "page_number": 186,
+          "text": "2020年10月成都市现代物流产业生态圈联盟第一次全体大会召开。来自成渝两地的2家行业协会、12家重点企业在现场签署了“共建成渝双城经济圈现代物流体系”战略合作协议，有助于推动现代物流产业生态圈加快培育和发展。同时，双流航空物流供应链创新中心也在会上正式揭牌运行。"
+        },
+        {
+          "block_id": "blk-afaea346eb8f8a720376",
+          "page_number": 186,
+          "text": "2020年10月 成都参加线上金砖国家友好城市暨地方政府合作论坛。来自金砖国家、白俄罗斯、哈萨克斯坦等15个国家的56个城市政府、世界城市和地方政府联盟（UCLG）等10个国际组织的代表参会，围绕疫情前及疫情期间在城市可持续发展"
+        },
+        {
+          "block_id": "blk-e08375e48e54fb232e59",
+          "page_number": 187,
+          "text": "领域开展国际合作情况展开讨论，有利于在金砖框架内加强地方合作的愿望。"
+        },
+        {
+          "block_id": "blk-768d812d1576cb7c453f",
+          "page_number": 187,
+          "text": "2020年10月“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。峰会以“携手新模式·创新赢未来”的主题，采取线上线下相结合的形式，包括开幕式、经贸对话、企业路演、园区参访等活动，聚焦新经济、健康服务、跨境电商等领域，搭建平台广泛开展经贸交流和项目洽谈对接，促进成都与日韩合作加深，打造中国沿海内陆协作互动的全方位开放新格局。"
+        },
+        {
+          "block_id": "blk-c37fe0c2775e864d1969",
+          "page_number": 187,
+          "text": "2020年10月“2020成都（国际）童声合唱音乐周”在蓉开幕。此次活动以“熊猫之声活力大运”为主题，有来自澳大利亚、丹麦、俄罗斯、韩国、美国、日本、泰国的7支国外合唱团参与云端交流与专场演出，为成都推动对交际换和文明分享，推动都会国外传布，发扬天府文明，打造“国外音乐之都”做出了踊跃进献。"
+        },
+        {
+          "block_id": "blk-0bb62693f8981f2bdcdc",
+          "page_number": 187,
+          "text": "2020年11月成都天府国际机场投产校验由此拉开帷幕。此次飞行校验将主要对机场的空管及助航设备进行飞行校验，校验飞机首飞落地后，在西一跑道举行了“首印天府载梦启航”校飞仪式，标志着成都天府国际机场从“建起来”向“飞起来”迈出关键一步。"
+        },
+        {
+          "block_id": "blk-b9e7a7f038829f05531c",
+          "page_number": 187,
+          "text": "2020年11月 四川天府新区成为首批国家级进口贸易促进创新示范区之一。进口示范区将围绕贸易促进和贸易创新两大功能定位，加强进口贸易产业链招商、供应链配套，以内外贸一体化、货物运输服务融合、贸易与投资贯通为方向，扩大进口示范区招商引资，加强进口平台建设，探索构建以双循环为主要特征的进口贸易产业集聚区。"
+        },
+        {
+          "block_id": "blk-16cd753b5aff0a4b5f7b",
+          "page_number": 187,
+          "text": "2020年11月 2020成都一渥太华中加人文交流月在蓉启动。中加人文交流月是根据成华区教育局与加拿大渥太华卡尔顿公立教育局《友好合作关系备忘录》《教育合作协议》开展的常态化、系列化的对话交流活动，此次活动将以教育文化交流为基础，借助互联网平台，促进新冠疫情特殊时期中加地方城市间资源互通、人文互联。"
+        },
+        {
+          "block_id": "blk-fd7c63f04533797ef781",
+          "page_number": 187,
+          "text": "2020年11月 2020中国一东盟数字经济合作论坛在蓉举办。本次论坛以“共商共建数字经济，共推共享发展新动能”为主题，线上线下同步进行。商务部和工信部代表、东盟国家驻华使领馆官员、中国和东盟商协会、数字经济领域企业以及媒体代表约300人参加了线下论坛，线上参会人数约300人。"
+        },
+        {
+          "block_id": "blk-83cade4c96ed8303531e",
+          "page_number": 187,
+          "text": "2020年11月 第四届国际城市可持续发展高层论坛在蓉举行。本届论坛以“推动高质量可持续发展，建设开放共享的未来之城”为主题，采用“线上云会议+线下主会场”的形式，海内外嘉宾聚焦新形势下未来城市发展新需求，共同探讨城市在"
+        },
+        {
+          "block_id": "blk-e5b29d78135fc1993f1f",
+          "page_number": 188,
+          "text": "经济增长、社会发展、资源利用及环境保护等方面实现可持续发展的新模式与新路径。"
+        },
+        {
+          "block_id": "blk-c9446178a4b3c4566e19",
+          "page_number": 188,
+          "text": "2020年11月中日（成都）城市建设与现代服务业开放合作示范项目合作推介暨集中签约活动在成都举行。活动采取线上+线下方式，发布中日（成都）地方发展合作示范区对日合作清单、产业规划、骑龙创新园城市设计，成都市与日方相关企业、机构达成28项合作协议，包括2个50亿级项目、2个20亿级项目、3个10亿级项目和4个5亿级项目。"
+        },
+        {
+          "block_id": "blk-143f141415ca056a38cc",
+          "page_number": 188,
+          "text": "2020年11月成都开通直达亚蓉欧国家馆免费公交。该公交运行时间为节假日及周末，市民既可以乘坐免费公交，不出国门就在青白江买到世界各地的“土特产”，直观感受世界各国的风貌与韵味，体验青白江亚蓉欧国家（商品）馆的消费新场景，用安全、便捷、舒适的方式实现“在蓉城、逛欧洲”的愿景。"
+        },
+        {
+          "block_id": "blk-6ab0e5bbd52affabb968",
+          "page_number": 188,
+          "text": "2020年11月“蓉港合作·科技创新推介暨对接会”在蓉举办。会议主题为“创新引领，激发蓉港合作新动能”，深化蓉港合作，有效推动陆海内外联动、东西双向互济的开放格局形成，巴马丹拿、奥维那、利丰、戴德梁行、普华永道等30多家来自粤港澳大湾区（内地）、长三角地区的香港企业与成都企业展开了对接。"
+        },
+        {
+          "block_id": "blk-5819fc612f53a1daaa4d",
+          "page_number": 188,
+          "text": "2020年11月成都市人民政府发布《关于印发加快推进成都航空货运枢纽建设扶持政策的通知》。《扶持政策》将吸引航空货运市场主体开行以成都为核心通达全球的全货机航线，鼓励航空货代企业在成都建立国际货运转运（分拨）中心，进一步促进航空货运中转业务的发展，构建成都航空货运集散枢纽，带动临空产业的发展，是内陆城市破局地理格局又一新棋。"
+        },
+        {
+          "block_id": "blk-4ba8d2ba550f6c8d33e7",
+          "page_number": 188,
+          "text": "2020年11月 成都成功当选世界大都市协会董事局成员城市。世界大都市协会141个成员城市的300名代表参加会议，经全体表决，成都市成功当选世界大都市协会2021—2023届董事局成员城市，将有利于我市参与该组织全球事务的酝酿决策，提升成都在国际组织中的话语权，进一步推广成都对外开放成果与城市治理经验。"
+        },
+        {
+          "block_id": "blk-780efbb13b1b0ced3aa0",
+          "page_number": 188,
+          "text": "2020年11月 2020成都新经济“双千”发布会成功举办。本次活动以场景汇·“供应全球链通未来”为主题，以“\\(1+3+N\\)”形式开展，即1个主会场，结合青白江区、简阳市、彭州市国际供应链服务新场景发布，精选N个供应链创新产品互动发布。成都将进一步提升跨国供应链服务保障能力和水平，提升国际国内高端战略资源的聚集能力，引领新一轮陆海大通道、西部大开发建设。"
+        },
+        {
+          "block_id": "blk-dde28650882075ebb74f",
+          "page_number": 188,
+          "text": "2020年12月“2020成都·智利电影展”首映仪式在成都举行。本次电影展为包括首映仪式、影片展映、图片展览、文化分享会等主要内容的智利电影主题活动，"
+        },
+        {
+          "block_id": "blk-76e5846f1845513bc72e",
+          "page_number": 189,
+          "text": "有利于增进成都民众对智利社会文化的了解，进一步促进两地民心相通、文化交融。"
+        },
+        {
+          "block_id": "blk-681452482e57eed4ce8c",
+          "page_number": 189,
+          "text": "2020年12月 第十届中日韩青少年国际书画交流展在蓉开展。此次展览主题为“与子同裳风雨共担”，集中展出150余幅精选自中日韩三国青少年的书法、绘画作品，作品通过记录不同国家青少年从各自视角记录描绘抗击疫情期间的体验和感受，互相传递勇气与希望，共同抗击疫情。"
+        },
+        {
+          "block_id": "blk-6f297a21ad31a9201ce2",
+          "page_number": 189,
+          "text": "2020年12月“大梦想”画卷全球首发活动在蓉举行。“大梦想”活动由以色列艺术家发起，多国插画家共同合作，将根据在100多个国家收集的数万个梦想，绘制一幅梦想长卷，呼吁人们保持梦想和对未来生活的热情。成都作为该项目中国唯一合作城市，为这个项目贡献了两千个闪光梦想，数量目前位居全球第一。"
+        },
+        {
+          "block_id": "blk-0012435ff55f5f54f77b",
+          "page_number": 189,
+          "text": "2020年12月 成都国际铁路港综合保税区正式通过国家验收。依托国际班列、中欧班列，铁路港不断拓展开放平台，开放功能在全国内陆港领先。标志着成都国际铁路港的发展站上了新的历史起点，正式成为成都打造内陆开放型经济高地，发展外向型经济的高端载体和先锋阵地。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-bf8ed12ecae6:bundle-d70d6ba46de7",
+      "excluded_fragments": [],
+      "ref_id": "ref-bf8ed12ecae6",
+      "source_blocks": [
+        {
+          "block_id": "blk-086c447543638ff972eb",
+          "page_number": 106,
+          "text": "2016年1月国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都等12个城市设立跨境电子商务试验区，要求成都等新晋城市立足本地特色和优势，着力在跨境电子商务企业对企业（B2B）方式相关环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试，为推动全国跨境电子商务健康发展创造更多可复制推广的经验。"
+        },
+        {
+          "block_id": "blk-0005515d3f37e43b47ce",
+          "page_number": 106,
+          "text": "2016年1月成都海外交流协会与墨西哥尤卡坦半岛华人华侨联合会共同签署建立“海外成都”工作站（联络处）合作协议，并举行授牌仪式。双方将加强合作，密切联系，实现资源共享、互利共赢，促进成都的对外交流和在墨华侨华人自身事业发展。墨西哥尤卡坦半岛华人华侨联合会成为成都在墨西哥第一个海外工作站。"
+        },
+        {
+          "block_id": "blk-23be236af8524ee5cfdd",
+          "page_number": 106,
+          "text": "2016年1月“一带一路”跨境合作暨聚贸·四川馆上线仪式在成都成功举行。本次活动以帮助国内制造业整合全球资源为初衷，以践行“一带一路”倡议为重点，规划设计了“国家馆”“省馆”“品牌馆”三大特色场馆，为中国制造业企业打通跨境贸易中的各个壁垒环节，提供集成化服务解决方案。"
+        },
+        {
+          "block_id": "blk-a804ab7d6097f011a326",
+          "page_number": 106,
+          "text": "2016年2月 国务院批复同意在成都等15个省市（区域）开展服务贸易创新发展试点，成都正式成为国家服务贸易创新发展试点地区之一，也是西部唯一的入选城市。未来成都将依托国家服务贸易创新发展试点建设，以技术贸易、航空保税维修及文化贸易为重点，探索适应服务贸易创新发展的体制机制，为中西部地区服务贸易发展探索路径、积累经验。"
+        },
+        {
+          "block_id": "blk-bbad865ac31882fa77a2",
+          "page_number": 106,
+          "text": "2016年2月成都双流国际机场获批设立1家口岸进境免税店。本次获批各设1家口岸进境免税店的包括双流机场在内，共有广州白云、杭州萧山、青岛流亭等13个机场口岸，以及深圳福田口岸、珠海闸口口岸等6个水陆口岸。"
+        },
+        {
+          "block_id": "blk-da8c2f2f974ab2d3132d",
+          "page_number": 106,
+          "text": "2016年2月 成都铁路口岸进口肉类指定口岸已通过国家质检总局专家组验"
+        },
+        {
+          "block_id": "blk-fae7073e30dced618ca7",
+          "page_number": 107,
+          "text": "收，成为我国第二个获批的不沿海、不沿江、不沿边的内陆进口肉类指定口岸，结束了西部肉类依靠沿海进口的历史。该口岸投入运营后，将充分发挥成都铁路口岸功能，有效降低物流成本，带动成都及中西部地区食品产业和冷链物流业转型升级。"
+        },
+        {
+          "block_id": "blk-aba302ceb047d18507f4",
+          "page_number": 107,
+          "text": "2016年3月在成都举行的“创业天府·菁蓉汇”生物医药专场活动中，由诺贝尔奖获得者邵斯达克教授在蓉筹建的“邵斯达克成都高新大核酸研究院”揭牌成立，同时古巴生物医药产业集团与睿智化学签约，中古战略合作迈出国际合作的实质步履。"
+        },
+        {
+          "block_id": "blk-9e8757afe181274fcc06",
+          "page_number": 107,
+          "text": "2016年3月第94届全国糖酒商品交易会在成都世纪城新国际会展中心举办。本届糖酒会共设7大主题展区，涵盖传统酒类、葡萄酒及国际烈酒、食品、饮料、调味品、食品机械和食品包装等品类，吸引了来自40多个国家和地区的2836家企业参展。据统计，本届展会共接待专业买家15万人次，入场总人次超过30万人次；商品成交总额230.2亿元，同比增长 \\(1.6\\%\\)"
+        },
+        {
+          "block_id": "blk-608d0416a884140c5107",
+          "page_number": 107,
+          "text": "2016年4月成都意大利签证申请中心正式开业，这是意大利继北京、上海、重庆、广州之后，在我国成立的第五家签证中心。该中心的开业，将搭建起中国西部通往意大利的友谊之桥，进一步加强双方的友好往来与交流合作。"
+        },
+        {
+          "block_id": "blk-3e1744aef4bd7cd840e5",
+          "page_number": 107,
+          "text": "2016年4月 第三届成都·迪拜国际杯——温江·迈丹赛马经典赛在温江开幕。本次比赛共有5项，即成都·温江速度赛、广厦距离赛、迈丹让步赛、温江·迈丹经典赛和成都·迪拜国际杯，吸引了来自爱尔兰、英国、法国等国的11名骑师参赛。赛事期间，还举办了2016“中阿经贸文化交流峰会”。"
+        },
+        {
+          "block_id": "blk-715ff19e07cb2b1ea3ae",
+          "page_number": 107,
+          "text": "2016年4月 由成都中医药大学与马来西亚华人医药总会合作举办的“大马成都中医药大学糖尿病防治中心”在马来西亚首都吉隆坡隆重开业，这是国内中医药大学首次在国外设立防治中心，也是成都融入“一带一路”建设，加强与海上丝绸之路沿线国家中医药合作所取得的首个成果。"
+        },
+        {
+          "block_id": "blk-be7ac7f725faad32edd4",
+          "page_number": 107,
+          "text": "2016年4月“中国—瑞士低碳城市”项目——“中瑞（成都）低碳生物医学产业园”揭牌仪式在成都温江举行。该项目是瑞士全球气候变化项目在中国的合作项目之一，由中（成都）瑞双方共同出资规划建设，力图通过搭建平台、技术交流、项目建设等方式，推进中国、瑞士的医学、医药、医疗机构和企业以及相关培训机构、金融等机构入驻园区，并在生物医学、生态环保等方面加强合作。"
+        },
+        {
+          "block_id": "blk-dc92d2afc3dc6125b615",
+          "page_number": 108,
+          "text": "2016年4月 芬兰签证（成都）申请中心举行开幕典礼。该中心是由几个申根国组成的联合签证申请中心的一部分，前往芬兰、奥地利、克罗地亚、立陶宛、葡萄牙、西班牙的国内游客均可在此申请签证。"
+        },
+        {
+          "block_id": "blk-217eac5a80aaa13c5f40",
+          "page_number": 108,
+          "text": "2016年4月“港中旅杯”成都·金堂铁人三项世界杯赛在金堂举办。此次赛事比赛项目包括铁人三项世界杯赛、全国业余铁人三项积分赛和成都市第十三届运动会铁人三项赛，吸引了来自46个国家和地区1300余名铁三选手和爱好者参赛，参赛国家和地区数量、参赛人数均实现了创历史新高。"
+        },
+        {
+          "block_id": "blk-698c9075681b5ff4b3a3",
+          "page_number": 108,
+          "text": "2016年4月成都高新区与韩国最大风险投资机构——韩国投资伙伴株式会社（KIP）签署《战略合作协议》和《中韩创新创业基金合作协议》。根据协议，成都高新区和KIP将共同设立5亿元规模的创新创业投资基金，并优先投资四川省内项目。该项目是中韩创新创业园签约的首个项目。"
+        },
+        {
+          "block_id": "blk-c0c58ad267ed364ca646",
+          "page_number": 108,
+          "text": "2016年4月蓉欧快铁（库特诺——成都）返程班列发车仪式暨成都国际铁路班列有限公司波兰办事处揭牌仪式在波兰库特诺国际港举行，中波相关部门、企业代表80余人参加仪式，这预示着成都以“蓉欧 \\(^+\\) ”战略为核心推动中欧经贸发展将翻开新篇章。"
+        },
+        {
+          "block_id": "blk-ddab8469da4367dde881",
+          "page_number": 108,
+          "text": "2016年5月成都与摩洛哥菲斯市签署两市建立友好城市关系协议。至此，成都的国际友城增至31个。此次与摩洛哥菲斯市友城关系的建立，填补了成都在非洲无友城的空白，对促进与非洲国家友好交往具有重大意义。"
+        },
+        {
+          "block_id": "blk-907f626c0e86d2b0240c",
+          "page_number": 108,
+          "text": "2016年5月成都与奥地利维也纳签署两市建立友好合作关系协议，成都成为与奥地利维也纳结好的首个亚洲城市。维也纳是奥地利最大的城市和政治中心，双方将在智慧城市建设、生态城市建设、可持续发展项目、职业教育、音乐产业、创新创业等领域加强合作。"
+        },
+        {
+          "block_id": "blk-f3ad3883cb622bf08669",
+          "page_number": 108,
+          "text": "2016年5月中古（成都）国际生物医药产业发展高峰论坛在成都举行。会上，古巴生物技术和医药产业集团与成都高新区管委会及多家知名生物医药企业签订合作协议，并设立成都高新区（中古）生物产业引导基金。本次论坛的召开，进一步深化了成都与古巴在生物医药产业、文化、旅游、友城等领域的全方位交流合作。"
+        },
+        {
+          "block_id": "blk-f23460efe4b700fc9397",
+          "page_number": 108,
+          "text": "2016年5月中国汽车创业投资峰会暨中国（四川）新能源汽车产业投资合作大会在成都举办。本次大会以“聚焦新能源、共谋新发展”为主题，来自200多"
+        },
+        {
+          "block_id": "blk-ce45d35d56eff2c83338",
+          "page_number": 109,
+          "text": "家国内外知名企业负责人聚焦电动化、智能化、网联化等发展趋势，共同探讨汽车产业发展大计。活动期间，四川与国内外投资者共签约汽车产业投资合作项目33个，涉及投资金额379.12亿元。"
+        },
+        {
+          "block_id": "blk-ce137e9a14f58abb72bc",
+          "page_number": 109,
+          "text": "2016年5月第六届核酸与蛋白质化学结构生物学创新药物研究国际会议在成都举行。会议吸引了海内外近200位生物医学领域的专家学者齐聚蓉城，以色列著名科学家、诺贝尔化学奖得主阿达·尤纳斯教授等著名专家和学者围绕核酸与蛋白质科学研究的最新成果与发展趋势做了主题演讲。大会宣布成都国际生物产业城将作为该国际会议的永久会址地。"
+        },
+        {
+          "block_id": "blk-5a8eed276b3b3b1a5361",
+          "page_number": 109,
+          "text": "2016年5月成都天府国际机场正式开工建设。新机场规划建设6条跑道，一期工程将建设3条跑道及航站楼，并配套建设空港经济区，预计2020年投入使用。机场建成后，成都将成为继上海、北京后国内第三个拥有两个国际机场的城市。"
+        },
+        {
+          "block_id": "blk-12bd2be1f7458ecfa731",
+          "page_number": 109,
+          "text": "2016年6月成都国际铁路港铁公水多式联运示范工程入选国家首批多式联运示范工程项目。成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局，入选国家示范项目，对抢抓“一带一路”建设机遇、加快推进成都国际铁路港建设、巩固铁路港面向西南、辐射中西部枢纽地位具有重要意义。"
+        },
+        {
+          "block_id": "blk-cb14172952b102fa4276",
+          "page_number": 109,
+          "text": "2016年6月 首批进口整车搭乘蓉欧快铁从德国抵达成都，标志着成都整车进口口岸正式启动运行。欧洲生产的汽车借助“蓉欧快铁”直接进入四川，相较于海运模式节约了近 \\(75\\%\\) 的时间，节约了物流成本，为成都汽车产业双向国际合作开辟了通道，也是成都加快融入丝绸之路经济带建设的重大举措。"
+        },
+        {
+          "block_id": "blk-9d0a4a26660c41b30a08",
+          "page_number": 109,
+          "text": "2016年6月 2016中国·成都全球创新创业交易会在成都举办。本届创交会以“创新引领合作共赢”为主题，举办了创新创业国际论坛、创新创业成果展览、创新创业资源交易、创新创业大赛等18项活动，参展企业达300家，交易项目超过3000项，交易额突破160亿元。期间，在2016成都国际友城高校技术创新论坛上，“成都国际友城高校联盟”正式成立，这是第一个成都市友城高校与在蓉高校间建立的多边平台，有利于促进成都教育国际化发展。"
+        },
+        {
+          "block_id": "blk-588b9ec873aa3a5d0bef",
+          "page_number": 109,
+          "text": "2016年7月 第十七届成都国际家具展在成都成功举办。本届展会以“中国平台·全球共享”为主题，延续“一展两期”展出模式，一期为成品家具展，二期"
+        },
+        {
+          "block_id": "blk-c2d93d386e7aca0d3cdc",
+          "page_number": 110,
+          "text": "为家具设备材料展，展出总面积达16万平方米，参展企业1100余家。此次展会共接待专业观众和大众消费者29.3万人次，现场成交达138亿元。"
+        },
+        {
+          "block_id": "blk-2df55c78827401c22f7d",
+          "page_number": 110,
+          "text": "2016年7月第三次G20财长和央行行长会议在成都举办，这是该会议自诞生以来首次落户中国西部。来自G20成员和受邀嘉宾国的财长和央行行长以及世界银行、国际货币基金组织、经合组织等国际机构的900余名代表，围绕当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融等议题进行了深入探讨。此次会议的举行，进一步提升了成都国际影响力。"
+        },
+        {
+          "block_id": "blk-3a84065f1668fc40c91f",
+          "page_number": 110,
+          "text": "2016年7月成都直飞苏梅岛定期航线开通，该条航线是首条成都直飞苏梅岛本岛的航线，改变了以往国内游客必须通过曼谷、新加坡、素叻他尼等地中转情况，将成都与苏梅岛本岛之间的时空距离缩短至3.5个小时，成为成都赴苏梅岛旅游的首选航线。"
+        },
+        {
+          "block_id": "blk-e7d01c58a2fcf29afca9",
+          "page_number": 110,
+          "text": "2016年7月第七届中国成都国际名校赛艇挑战赛在新津县举行。本届赛事共吸引来自美国布朗大学、英国伦敦大学、澳大利亚悉尼大学等16支国际名校赛艇队、新津县32支龙舟队参加。赛事期间，配套开展了中外青年龙舟友谊赛、名校队伍文化体验活动、中外青年交流晚会、中外学子联谊晚会等活动，以进一步促进国际文化交流。"
+        },
+        {
+          "block_id": "blk-cb6f8762a54a2b63a480",
+          "page_number": 110,
+          "text": "2016年7月成都与墨西哥梅里达共同签署了友好合作关系备忘录。梅里达地处墨西哥东南部，城市文化氛围浓厚、旅游业发达、教育资源丰富。双方将进一步拓展在经贸、文化、旅游、教育、科技等多领域的交流与合作。"
+        },
+        {
+          "block_id": "blk-607545f13182d6533278",
+          "page_number": 110,
+          "text": "2016年7月国家工信部印发《工信部关于同意设立中德（蒲江）中小企业合作区的批复》，原“中德（蒲江）中小企业合作园”正式升级为“中德（蒲江）中小企业合作区”，成为全国布局的五个中德中小企业合作区之一，也是西部首个国家级中德中小企业合作园区，将重点在装备制造、精密机械、生物医药等先进制造业领域开展合作。"
+        },
+        {
+          "block_id": "blk-1a8442b64446c111bbd3",
+          "page_number": 110,
+          "text": "2016年7月 2016成都国际友城青年音乐周成功举办。来自亚洲、欧洲、北美洲、南美洲、大洋洲19个国家和地区的29支海外艺术团队齐聚蓉城，与国内40支艺术团队共同为市民带来了精彩纷呈的演出，其演出规模和阵容为历年之最。"
+        },
+        {
+          "block_id": "blk-938a0608a555f1e960e8",
+          "page_number": 111,
+          "text": "2016年8月2016成都购物节成功开幕。本届购物节为期31天，组织了“成都情·伴手礼”等主题活动、“全民奥运·嗨购夏日”等亮点活动。据不完全统计，此次购物节商家共实现销售超过180亿元，参与活动消费者超过2000万人次。"
+        },
+        {
+          "block_id": "blk-097d7e110232029bdb85",
+          "page_number": 111,
+          "text": "2016年8月成都直飞捷克布拉格的定期航班正式开通，该航线每周2班，结束了成都前往布拉格需从阿姆斯特丹、北京转机的历史，成为首条成都直飞东欧地区的航线。"
+        },
+        {
+          "block_id": "blk-f352f585707d3c8a9695",
+          "page_number": 111,
+          "text": "2016年8月 第十四届中国国际软件合作洽谈会在成都举办。本届软洽会以“软件定义的‘创时代’”为主题，重点围绕中国软件名城、互联网 \\(^+\\) 制造、网络安全等内容，共同探索经济发展新常态下软件服务业发展升级路径，寻求“一带一路”“互联网 \\(^+\\) ”以及大众创业万众创新背景下企业开拓市场、合作共赢的良方妙计。"
+        },
+        {
+          "block_id": "blk-c27a67cca5857ed992a7",
+          "page_number": 111,
+          "text": "2016年8月iWorld2016数字世界博览会在成都举办。作为移动互联生态圈全球最具影响力的盛会，2016年首次落户成都。本届博览会以“创新、定义、未来”为主题，集展会、论坛、活动为一体，对VR/AR领域的最新成果和动态进行综合性、全方位的深度展示。"
+        },
+        {
+          "block_id": "blk-e191df4b61e06c0bbd50",
+          "page_number": 111,
+          "text": "2016年8月党中央、国务院决定，在四川等7个省市新设立自贸试验区。成都将是四川自贸试验区的主要城市，这将助力成都建成中西部最重要的金融中心。"
+        },
+        {
+          "block_id": "blk-a601386b399a6d5f3d37",
+          "page_number": 111,
+          "text": "2016年8月成都公路口岸（新址）暨成都海关龙泉驿办事处、四川出入境检验检疫局陆运口岸办事处举行揭牌仪式，这标志着成都公路口岸（新址）正式封关运营。成都公路口岸是典型的以集装箱公水联运方式为主的“内陆无水港”，将为成都市乃至四川省的对外贸易起到积极作用。"
+        },
+        {
+          "block_id": "blk-e4e5056a7f1dcb3088a5",
+          "page_number": 111,
+          "text": "2016年9月 第三届诺贝尔奖获得者医学峰会暨中美院士论坛在成都举行，此次会议是该峰会首次在中国西部城市举行。本届峰会以“科学发现的机缘”为主题，设立了国际精准医学高峰论坛、中医精准医学与转化医学论坛、国际生物医药产业论坛、世界青年创新论坛四个主题论坛及系列分论坛，吸引6位诺贝尔奖得主、10位中美院士和50位中外权威专家等参会。"
+        },
+        {
+          "block_id": "blk-b1f167222455d70a9b13",
+          "page_number": 111,
+          "text": "2016年9月 第十九届成都国际汽车展览会在蓉成功举办。本届展会以“缤纷车展·炫动蓉城”为主题，依托110个汽车品牌、1380辆展车、87款新车的强"
+        },
+        {
+          "block_id": "blk-bdb0ad0592855b5340ad",
+          "page_number": 112,
+          "text": "势首发亮相。据统计，本届车展共销售车辆31186辆，其中豪车销售908辆，接待观众超过65.5万人次，进一步巩固了成都车展作为全国四大A级车展之一的行业地位。"
+        },
+        {
+          "block_id": "blk-63a8a25ce6335d2bf988",
+          "page_number": 112,
+          "text": "2016年9月 中欧班列（蓉欧快铁）正式开通成都——伊斯坦布尔的路线，这是中国开通的第一条南线中欧班列。此次新开通的南线，将通过与中亚班列合作开行，在满足中亚5国货运需求基础上，对接土耳其、伊朗、格鲁吉亚、罗马尼亚、保加利亚等国家，有效覆盖欧洲南部地区，进一步形成覆盖泛欧、泛亚的物流网络体系。"
+        },
+        {
+          "block_id": "blk-c417d424cd4c07562ece",
+          "page_number": 112,
+          "text": "2016年9月第15届中国西部海外高新科技人才洽谈会在成都举行。本次大会以“汇聚海外英才·万侨创新西部”为主题，共举办学术论坛、双向对接等20多项活动，吸引来自33个国家和地区的诺贝尔奖得主、院士、“千人计划”专家、创新创业人才等580人参会。此届“海科会”达成签约项目89个，签约资金达382.8亿元。"
+        },
+        {
+          "block_id": "blk-e162396edc6bd162be6c",
+          "page_number": 112,
+          "text": "2016年9月首届亚洲青年文明对话论坛在成都举行。来自亚太地区46个国家的近200名青年精英代表齐聚蓉城，围绕“亚洲文化多样性与构建和平”“文化在促进和平中的作用”“数字时代的和平构建”等议题展开深入讨论，并形成亚洲青年关于文明对话的思考和建议，提交亚洲文明对话大会和联合国教科文组织第十届青年论坛。"
+        },
+        {
+          "block_id": "blk-060297809f19856725b5",
+          "page_number": 112,
+          "text": "2016年9月 世界体育舞蹈节在都江堰市举行，这是成都连续第七年举办世界级的体育舞蹈大赛，世界体育舞蹈联合会（WDSF）正式授予成都“世界体育舞蹈名城”称号。本次活动内容包括WDSF世界拉丁舞锦标赛、WDSF世界表演舞锦标赛和第七届中国成都体育舞蹈公开赛3项赛事活动，共吸引了50多个国家和地区的上千名选手参赛，赛事规模和参赛人数创历届赛事之最。"
+        },
+        {
+          "block_id": "blk-eac9a79d231535e3155d",
+          "page_number": 112,
+          "text": "2016年9月 第22届世界航线发展大会在成都举行，成都是继北京之后中国第二个举办该会的城市。本届世航会开展了主旨演讲、战略高峰论坛、旅游高峰论坛、一对一会谈等一系列活动，吸引来自110个国家3000多名代表参会，包括230余家航空公司、470余家机场、80余家旅游机构，是历届规模最大的一次世航会。"
+        },
+        {
+          "block_id": "blk-a9c584c59b878b5e1e8e",
+          "page_number": 112,
+          "text": "2016年9月成都市与澳大利亚黄金海岸市签署了友好合作关系城市谅解备忘"
+        },
+        {
+          "block_id": "blk-8ebb2a96e0ffe290c243",
+          "page_number": 113,
+          "text": "录，标志着两市友好关系迈入新的台阶。黄金海岸为澳大利亚第六大城市，是澳洲最大的旅游度假城市之一，同时也是澳洲经济发展速度最快的城市之一。通过建立友好合作关系，双方将在基础设施、交通、公务员培训、教育、旅游等方面加强合作。"
+        },
+        {
+          "block_id": "blk-9fcc141f682021bbdbbf",
+          "page_number": 113,
+          "text": "2016年9月 第十三届成都美食旅游节成功举办。本届美食节以“美食即文创”为主题，创新办公模式，开展产业联动，增加国际化元素，圆满开展了“一个论坛、两大仪式、两类展览、两大比赛”等重点活动。美食节期间，中心会场和美食体验区共接待客流量228.3万人次，商家销售收入7250万元。"
+        },
+        {
+          "block_id": "blk-6b95cf8547a473beb194",
+          "page_number": 113,
+          "text": "2016年10月成都市与巴西累西腓市签署了建立友好城市关系协议书，双方正式缔结友城，结束了成都在南美洲零友城的历史。根据协议规定，双方将在经贸、旅游、环保、科技、文化、教育、人员互访等方面开展多种形式的交流与合作，促进共同繁荣发展。"
+        },
+        {
+          "block_id": "blk-d2f2222e31598f71b871",
+          "page_number": 113,
+          "text": "2016年10月 第五届中医药现代化国际科技大会在成都召开，来自英国、奥地利、南非等20个国家和地区的代表参会。本届大会以“中医药科技创新与大健康产业”为主题，设置了创新交流、产业促进和政府论坛等板块活动，旨在搭建国内外交流合作大平台，促进中医药与生物医药产业发展。"
+        },
+        {
+          "block_id": "blk-215a663ff802a895b3ae",
+          "page_number": 113,
+          "text": "2016年10月成都空港进境水果指定口岸正式通过国家质检总局验收，标志着水果口岸从沿海城市直接转移到了西南内陆，结束了成都从沿海转运进口水果的历史。进境水果指定口岸将进一步延伸和拓展成都空港口岸功能，降低内地与沿海的通关成本差距，提升口岸竞争综合实力，助推成都国际空港主枢纽建设。"
+        },
+        {
+          "block_id": "blk-29924e6cdfc69bf5f30a",
+          "page_number": 113,
+          "text": "2016年10月 第四届中亚合作论坛在成都开幕。本届论坛以“共创新型丝路模式，开拓多元合作平台”为主题，吸引300余名来自中国和乌兹别克斯坦、吉尔吉斯斯坦、塔吉克斯坦、哈萨克斯坦、土库曼斯坦的代表参会。该论坛是中国与中亚国家间机制化交流的国家级高端合作平台，进一步推动与中亚国家在政府友好关系、高校、医疗、旅游等领域交流合作。"
+        },
+        {
+          "block_id": "blk-770d51b8a815d6d41b83",
+          "page_number": 113,
+          "text": "2016年10月 第五届中法地方政府合作高层论坛在成都召开。本届论坛以“地方合作——中法关系新引擎”为主题，来自中法两国近900位代表围绕环境保护与可持续发展、健康养老、教育合作发展、地方创新创业、旅游合作发展、历史文化遗产的保护与开发等六个专题进行充分交流研讨。论坛期间还举行了川法地方经贸文化展、四川旅游文化摄影展、中法地方合作奖及案例展示等系列活动。"
+        },
+        {
+          "block_id": "blk-8f7e6e7b8f055226b14b",
+          "page_number": 114,
+          "text": "2016年11月 成都高新区与全球药物商业化中心签署投资合作协议，全球药物商业化中心中国中心正式落户成都天府国际生物城。该中心是全球药物商业化中心海外拓展第一站，将逐步发展为亚太中心。双方的合作将对成都天府国际生物城加快聚集高端先进项目、加深国际交流合作、加强科技研发产生重要影响，有利于提升成都乃至四川生物医药领域国际合作层次和水平。"
+        },
+        {
+          "block_id": "blk-b76ef333dcc587754bf7",
+          "page_number": 114,
+          "text": "2016年11月 第十六届中国西部国际博览会在成都举办。本届西博会以“中国西部，世界机遇”为主题，共举行10项重大活动及60项专项活动，着重突出“一带一路”国际交流合作，专设3个“一带一路”馆和1个“一带一路”暨国际合作馆，吸引来自全球76个国家（地区）的9027家企业参展，签约投资合作项目达1008个，总投资额超过7876亿元。"
+        },
+        {
+          "block_id": "blk-3beece3eb9d89fb75290",
+          "page_number": 114,
+          "text": "2016年11月首届中国一南亚标准化合作工作会在蓉召开。本次会议以“中国一南亚标准化合作新机遇”为主题，围绕“中国‘一带一路’建设与国际标准化的思考”“智慧城市标准与评价”“标准化—非关税壁垒及质量控制”等主题进行深入研讨交流，有利于推动“一带一路”建设，进一步促进中国和南亚区域经济的协同发展。"
+        },
+        {
+          "block_id": "blk-c05eae339238fd88b556",
+          "page_number": 114,
+          "text": "2016年11月成都与白俄罗斯共和国戈梅利市签署建立友好合作关系备忘录。戈梅利市为白俄罗斯戈梅利州首府，是白俄罗斯第二大城市。此次友好合作关系的确立，将促进两市在经贸、文化、教育、医疗保健等领域的交流合作。"
+        },
+        {
+          "block_id": "blk-47f03b17783fed12d36f",
+          "page_number": 114,
+          "text": "2016年11月成都与莫桑比克首都马普托市签署了建立友好合作关系备忘录。双方将加强两市在议会、经贸、文化、旅游、基础设施和农业等领域的沟通与交流，加深了解、促进合作，进而促成两市在适当时机升级为正式的友好城市。"
+        },
+        {
+          "block_id": "blk-cd8d7dd307ca66a2649c",
+          "page_number": 114,
+          "text": "2016年11月成都直飞悉尼国际航线开通，这是成都首条直达悉尼的航线，是成都直飞澳洲的第二条航线。随着该航线开通，成都与悉尼之间的距离缩短至11个小时，完善了成都至澳洲航线网络，进一步巩固成都“航空第四城”的地位。"
+        },
+        {
+          "block_id": "blk-8e4c789bc8dec675f17f",
+          "page_number": 114,
+          "text": "2016年11月 成都铁路保税物流中心（B型）正式封关运营，这是四川省继成都空港、泸州港、宜宾港之后，第四个获批并封关运行的保税物流中心（B型），也是四川省唯一投运的铁路保税物流中心（B型）。成都铁路保税物流中心（B型）共建有3座保税仓库，总仓储建筑面积约6.5万平方米，将助力成都大力"
+        },
+        {
+          "block_id": "blk-873a323eca2aa48df191",
+          "page_number": 115,
+          "text": "发展国际中转、国际采购、国际转口贸易等高端服务业，形成新的国际贸易集群，对发展开放型经济具有重要意义。"
+        },
+        {
+          "block_id": "blk-dce866bc5786cd3df8f4",
+          "page_number": 115,
+          "text": "2016年11月 2016成都创意设计周在成都成功举办。本届创意设计周以“创意成都，美好生活”为主题，携手素有“设计奥斯卡”之称的德国iF设计奖，向全球展现创意设计的“成都力量”。此次创意设计周举办了三大主体活动，设置了四大主题展馆，来自德国、法国、意大利等国家和地区的600家创意设计机构参展。"
+        },
+        {
+          "block_id": "blk-6a843c44b9c7c75893b1",
+          "page_number": 115,
+          "text": "2016年11月瑞士驻成都总领事馆正式开馆。成都是继北京、上海、广州、香港之后成为第五个瑞士官方机构驻扎的城市，领区范围包括四川省、贵州省、云南省和重庆市。至此，外国在成都设立的领事馆数量达到16个。"
+        },
+        {
+          "block_id": "blk-2f37f7c32f0af17ce563",
+          "page_number": 115,
+          "text": "2016年12月 2016成都国际旅游展在成都举行。本届展会设立“专业观众日”和“公众开放日”，来自俄罗斯、美国、法国、意大利、加拿大等全球40个国家和地区的近400家旅行商参展，为进一步推动中国西部的旅游快速发展起到了积极的推动作用。"
+        },
+        {
+          "block_id": "blk-30f62bc96a833f631d67",
+          "page_number": 115,
+          "text": "2016年12月位于成都天府新区直管区的天府新区海关正式开关运行。该关负责管辖包括四川天府新区区域内的海关业务，将为新区通过开放合作，发展战略性新兴产业和现代制造业提供最直接有力的支持，标志着“再造一个产业成都”的战略部署进入加速阶段。"
+        },
+        {
+          "block_id": "blk-5867e655cfe1a6d81836",
+          "page_number": 115,
+          "text": "2016年12月 成都首部“一带一路”重点国家《国别投资指南》正式发布。该《指南》涵盖了“一带一路”沿线的东南亚、南亚、中东欧、中亚、西欧等地区，重点对印度、巴基斯坦、俄罗斯、德国、法国、哈萨克斯坦、南非、肯尼亚等30个国家进行投资环境分析及实务操作指引，旨在为成都企业“走出去”发展、参与“一带一路”建设提供信息指引。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ae4b59f7ae45",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-7fcc62022766",
+    "ref-83a6500cd5db",
+    "ref-bf8ed12ecae6"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

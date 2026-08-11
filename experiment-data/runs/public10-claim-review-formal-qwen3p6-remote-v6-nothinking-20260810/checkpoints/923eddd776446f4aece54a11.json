@@ -1,0 +1,901 @@
+{
+  "contract": {
+    "canonical_question": "成都市针对企业“走出去”对外投资提供了哪些具体的政策支持、资金奖励及风险保障机制？",
+    "claims": [
+      {
+        "claim": "成都市推动优势产业、优秀企业全方位多领域高水平走出去，重点发展拓展全球市场、获取海外战略性资源、开展海外创新合作及参与境外基础设施建设。",
+        "claim_id": "claim-6e2eacb55cd89803",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "推动优势产业、优秀企业全方位多领域高水平走出去，在拓展全球市场、获取海外战略性资源、开展海外创新合作、参与境外基础设施建设等方面实现重点发展。",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对成都市企业控股的新设境外企业，给予最长3年最高100万元/年的支持。",
+        "claim_id": "claim-7898049b95c85ea7",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "支持企业海外布局，对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对勘测调查、法律查明、咨询评估、境外投（议）标等走出去前期工作给予资金支持。",
+        "claim_id": "claim-c4689d22c9a1984a",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "支持企业开展走出去前期工作，对勘测调查、法律查明、咨询评估、境外投（议）标等给予资金支持。",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对通过国家部委确认考核的境外经贸合作区给予奖励。",
+        "claim_id": "claim-2d1f982c13a8f1dd",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "鼓励企业建设境外产业合作园区，对通过国家部委确认考核的境外经贸合作区给予奖励",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对成都企业主导建成并投入运营的境外产业合作园区，给予企业最长4年最高100万元/年的支持。",
+        "claim_id": "claim-85687426908fc68f",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予企业最长4年最高100万元/年的支持。",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "按市场化原则设立总规模100亿元的海外并购基金，支持以引进核心技术为主的海外并购。",
+        "claim_id": "claim-56a527670640a1e5",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，支持以引进核心技术为主的海外并购",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+        "claim_id": "claim-431c82fa343bc187",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立综合性走出去促进机构和公共服务平台，建立成都“一带一路”海外风险评估中心和国别法律查明中心，完善风险预警机制。",
+        "claim_id": "claim-665971800007e4ec",
+        "evidence_block_ids": [
+          "blk-b2a7ce24674d04f2c9c9"
+        ],
+        "evidence_excerpt": "建立综合性走出去促进机构，培育走出去公共服务平台；建立成都“一带一路”海外风险评估中心和国别法律查明中心，完善风险预警机制",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-6070732893c2",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-6e2eacb55cd89803",
+          "claim-7898049b95c85ea7",
+          "claim-c4689d22c9a1984a",
+          "claim-2d1f982c13a8f1dd",
+          "claim-85687426908fc68f",
+          "claim-56a527670640a1e5",
+          "claim-431c82fa343bc187",
+          "claim-665971800007e4ec"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+        "reason": "该证据包含回答“分析框架”类型下subject、measure、implementer、expected_effect等固定槽位所需的所有核心事实，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-45db8326f8cc",
+    "members": [
+      {
+        "contribution": "该证据详细列出了成都市在“走出去”战略中的具体支持措施，包括新设境外企业补贴、前期工作资金支持、境外园区建设奖励、海外并购基金及风险保障机制，直接回答了中心问题。",
+        "ref_id": "ref-6070732893c2",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "human_review",
+    "rows": [
+      {
+        "claim_id": "claim-6e2eacb55cd89803",
+        "draft_excerpt": "成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7898049b95c85ea7",
+        "draft_excerpt": "对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c4689d22c9a1984a",
+        "draft_excerpt": "在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-85687426908fc68f",
+        "draft_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-56a527670640a1e5",
+        "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-431c82fa343bc187",
+        "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-665971800007e4ec",
+        "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+        "finding": "草稿提及建立仲裁和调解中心，但合同证据仅提及建立风险评估中心和法律查明中心。草稿内容超出了合同证据范围，且无法判断是否属于同一机制的不同表述或错误添加，故标为uncertain。",
+        "status": "uncertain"
+      },
+      {
+        "claim_id": "claim-2d1f982c13a8f1dd",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-6e2eacb55cd89803",
+          "claim-56a527670640a1e5",
+          "claim-85687426908fc68f",
+          "claim-665971800007e4ec"
+        ],
+        "draft_excerpt": "成都市通过设立海外并购基金、建设境外合作园区及完善风险预警与仲裁机制等政策支持，推动优势产业和企业全方位多领域高水平“走出去”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e612e1df76bdc5b8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6e2eacb55cd89803"
+        ],
+        "draft_excerpt": "成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bd72da6cfa9bfd86",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6e2eacb55cd89803"
+        ],
+        "draft_excerpt": "该计划聚焦于拓展全球市场、获取海外战略性资源、开展海外创新合作以及参与境外基础设施建设等重点领域。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-14ea854b75e786a7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "政策体系通过资金支持与机制建设双管齐下，全面支持企业海外布局。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-427c8967c58d8f68",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "针对新设境外控股企业、前期勘测调查与法律查明、以及主导建成并投入运营的境外产业合作园区，均设定了明确的支持标准与奖励机制。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4b6fdce165a1362a",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-7898049b95c85ea7",
+          "claim-c4689d22c9a1984a"
+        ],
+        "draft_excerpt": "在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e842449a30db0f3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-56a527670640a1e5",
+          "claim-431c82fa343bc187"
+        ],
+        "draft_excerpt": "同时，按市场化原则设立总规模100亿元的海外并购基金，重点支持以引进核心技术为主的海外并购项目，对成功项目给予业主最高不超过5000万元的奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f6443f45c72bd14a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-665971800007e4ec"
+        ],
+        "draft_excerpt": "在风险防控与公共服务方面，成都建立综合性走出去促进机构及公共服务平台，设立“一带一路”海外风险评估中心和国别法律查明中心以完善风险预警机制。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-70d21b4cbddc13fa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6b07dc55148f9a76",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-7898049b95c85ea7"
+        ],
+        "draft_excerpt": "对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2f287d5038b6048d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-85687426908fc68f"
+        ],
+        "draft_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8c8486c4f9ca22c7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-56a527670640a1e5",
+          "claim-431c82fa343bc187"
+        ],
+        "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dfbbaf4cb249b72e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+        "finding": "该句内容（仲裁中心、调解中心）在合同证据中未出现，属于合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1eb8db8b0434fe94",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+        "finding": "该句内容（保险机构开发险种）在合同证据中未出现，属于合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7e6124f37dbe90ea",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+        "finding": "合同证据未提及建立国际仲裁中心和商事纠纷调解中心。"
+      },
+      {
+        "draft_excerpt": "支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+        "finding": "合同证据未提及支持保险机构开发海外投资保险品种。"
+      },
+      {
+        "draft_excerpt": "政策体系通过资金支持与机制建设双管齐下，全面支持企业海外布局。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "针对新设境外控股企业、前期勘测调查与法律查明、以及主导建成并投入运营的境外产业合作园区，均设定了明确的支持标准与奖励机制。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-6e2eacb55cd89803",
+          "draft_excerpt": "成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7898049b95c85ea7",
+          "draft_excerpt": "对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c4689d22c9a1984a",
+          "draft_excerpt": "在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-85687426908fc68f",
+          "draft_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-56a527670640a1e5",
+          "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-431c82fa343bc187",
+          "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-665971800007e4ec",
+          "draft_excerpt": "在风险防控与公共服务方面，成都建立综合性走出去促进机构及公共服务平台，设立“一带一路”海外风险评估中心和国别法律查明中心以完善风险预警机制。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-6e2eacb55cd89803",
+            "claim-56a527670640a1e5",
+            "claim-85687426908fc68f",
+            "claim-665971800007e4ec"
+          ],
+          "draft_excerpt": "成都市通过设立海外并购基金、建设境外合作园区及完善风险预警与仲裁机制等政策支持，推动优势产业和企业全方位多领域高水平“走出去”。",
+          "finding": "supported",
+          "sentence_id": "sentence-e612e1df76bdc5b8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6e2eacb55cd89803"
+          ],
+          "draft_excerpt": "成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-bd72da6cfa9bfd86",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6e2eacb55cd89803"
+          ],
+          "draft_excerpt": "该计划聚焦于拓展全球市场、获取海外战略性资源、开展海外创新合作以及参与境外基础设施建设等重点领域。",
+          "finding": "supported",
+          "sentence_id": "sentence-14ea854b75e786a7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "政策体系通过资金支持与机制建设双管齐下，全面支持企业海外布局。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-427c8967c58d8f68",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "针对新设境外控股企业、前期勘测调查与法律查明、以及主导建成并投入运营的境外产业合作园区，均设定了明确的支持标准与奖励机制。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-4b6fdce165a1362a",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-7898049b95c85ea7",
+            "claim-c4689d22c9a1984a"
+          ],
+          "draft_excerpt": "在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-1e842449a30db0f3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-56a527670640a1e5",
+            "claim-431c82fa343bc187"
+          ],
+          "draft_excerpt": "同时，按市场化原则设立总规模100亿元的海外并购基金，重点支持以引进核心技术为主的海外并购项目，对成功项目给予业主最高不超过5000万元的奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-f6443f45c72bd14a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-665971800007e4ec"
+          ],
+          "draft_excerpt": "在风险防控与公共服务方面，成都建立综合性走出去促进机构及公共服务平台，设立“一带一路”海外风险评估中心和国别法律查明中心以完善风险预警机制。",
+          "finding": "supported",
+          "sentence_id": "sentence-70d21b4cbddc13fa",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-6b07dc55148f9a76",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-7898049b95c85ea7"
+          ],
+          "draft_excerpt": "对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-2f287d5038b6048d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-85687426908fc68f"
+          ],
+          "draft_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-8c8486c4f9ca22c7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-56a527670640a1e5",
+            "claim-431c82fa343bc187"
+          ],
+          "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-dfbbaf4cb249b72e",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-665971800007e4ec",
+          "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+          "finding": "草稿提及建立仲裁和调解中心，但合同证据仅提及建立风险评估中心和法律查明中心。草稿内容超出了合同证据范围，且无法判断是否属于同一机制的不同表述或错误添加，故标为uncertain。",
+          "status": "uncertain"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+          "finding": "该句内容（仲裁中心、调解中心）在合同证据中未出现，属于合同外事实。",
+          "sentence_id": "sentence-1eb8db8b0434fe94",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+          "finding": "该句内容（保险机构开发险种）在合同证据中未出现，属于合同外事实。",
+          "sentence_id": "sentence-7e6124f37dbe90ea",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+          "finding": "合同证据未提及建立国际仲裁中心和商事纠纷调解中心。"
+        },
+        {
+          "draft_excerpt": "支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+          "finding": "合同证据未提及支持保险机构开发海外投资保险品种。"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "27ac6e7fc852749a48f7910f0a4714c3f7510bd1a101dce66706b197640da975",
+  "coverage_history": [
+    {
+      "draft_sha256": "27ac6e7fc852749a48f7910f0a4714c3f7510bd1a101dce66706b197640da975",
+      "matrix": {
+        "decision": "human_review",
+        "rows": [
+          {
+            "claim_id": "claim-6e2eacb55cd89803",
+            "draft_excerpt": "成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7898049b95c85ea7",
+            "draft_excerpt": "对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c4689d22c9a1984a",
+            "draft_excerpt": "在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-85687426908fc68f",
+            "draft_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-56a527670640a1e5",
+            "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-431c82fa343bc187",
+            "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-665971800007e4ec",
+            "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+            "finding": "草稿提及建立仲裁和调解中心，但合同证据仅提及建立风险评估中心和法律查明中心。草稿内容超出了合同证据范围，且无法判断是否属于同一机制的不同表述或错误添加，故标为uncertain。",
+            "status": "uncertain"
+          },
+          {
+            "claim_id": "claim-2d1f982c13a8f1dd",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-6e2eacb55cd89803",
+              "claim-56a527670640a1e5",
+              "claim-85687426908fc68f",
+              "claim-665971800007e4ec"
+            ],
+            "draft_excerpt": "成都市通过设立海外并购基金、建设境外合作园区及完善风险预警与仲裁机制等政策支持，推动优势产业和企业全方位多领域高水平“走出去”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e612e1df76bdc5b8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e2eacb55cd89803"
+            ],
+            "draft_excerpt": "成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd72da6cfa9bfd86",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e2eacb55cd89803"
+            ],
+            "draft_excerpt": "该计划聚焦于拓展全球市场、获取海外战略性资源、开展海外创新合作以及参与境外基础设施建设等重点领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14ea854b75e786a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "政策体系通过资金支持与机制建设双管齐下，全面支持企业海外布局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-427c8967c58d8f68",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "针对新设境外控股企业、前期勘测调查与法律查明、以及主导建成并投入运营的境外产业合作园区，均设定了明确的支持标准与奖励机制。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b6fdce165a1362a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7898049b95c85ea7",
+              "claim-c4689d22c9a1984a"
+            ],
+            "draft_excerpt": "在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e842449a30db0f3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-56a527670640a1e5",
+              "claim-431c82fa343bc187"
+            ],
+            "draft_excerpt": "同时，按市场化原则设立总规模100亿元的海外并购基金，重点支持以引进核心技术为主的海外并购项目，对成功项目给予业主最高不超过5000万元的奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f6443f45c72bd14a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-665971800007e4ec"
+            ],
+            "draft_excerpt": "在风险防控与公共服务方面，成都建立综合性走出去促进机构及公共服务平台，设立“一带一路”海外风险评估中心和国别法律查明中心以完善风险预警机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70d21b4cbddc13fa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6b07dc55148f9a76",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7898049b95c85ea7"
+            ],
+            "draft_excerpt": "对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2f287d5038b6048d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-85687426908fc68f"
+            ],
+            "draft_excerpt": "对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c8486c4f9ca22c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-56a527670640a1e5",
+              "claim-431c82fa343bc187"
+            ],
+            "draft_excerpt": "按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfbbaf4cb249b72e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+            "finding": "该句内容（仲裁中心、调解中心）在合同证据中未出现，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1eb8db8b0434fe94",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+            "finding": "该句内容（保险机构开发险种）在合同证据中未出现，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e6124f37dbe90ea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。",
+            "finding": "合同证据未提及建立国际仲裁中心和商事纠纷调解中心。"
+          },
+          {
+            "draft_excerpt": "支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+            "finding": "合同证据未提及支持保险机构开发海外投资保险品种。"
+          },
+          {
+            "draft_excerpt": "政策体系通过资金支持与机制建设双管齐下，全面支持企业海外布局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "针对新设境外控股企业、前期勘测调查与法律查明、以及主导建成并投入运营的境外产业合作园区，均设定了明确的支持标准与奖励机制。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都市实施“走出去”对外投资计划，旨在推动优势产业与优秀企业实现全方位、多领域的高水平国际化发展。该计划聚焦于拓展全球市场、获取海外战略性资源、开展海外创新合作以及参与境外基础设施建设等重点领域。\n\n政策体系通过资金支持与机制建设双管齐下，全面支持企业海外布局。针对新设境外控股企业、前期勘测调查与法律查明、以及主导建成并投入运营的境外产业合作园区，均设定了明确的支持标准与奖励机制。\n\n## 证据与影响\n\n在资金支持方面，成都市对控股新设境外企业给予最长3年、最高100万元/年的支持，并对勘测调查、法律查明、咨询评估及境外投（议）标等前期工作提供资金支持。同时，按市场化原则设立总规模100亿元的海外并购基金，重点支持以引进核心技术为主的海外并购项目，对成功项目给予业主最高不超过5000万元的奖励。\n\n在风险防控与公共服务方面，成都建立综合性走出去促进机构及公共服务平台，设立“一带一路”海外风险评估中心和国别法律查明中心以完善风险预警机制。此外，通过建立“一带一路”国际仲裁中心和商事纠纷调解中心，并支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。\n\n- 对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。\n- 对成都企业主导建成并投入运营的境外产业合作园区，给予最长4年最高100万元/年的支持。\n- 按市场化原则设立总规模100亿元的海外并购基金，对成功的海外并购项目给予业主最高不超过5000万元的奖励。\n- 建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制。\n- 支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。",
+    "description": "成都市通过设立海外并购基金、建设境外合作园区及完善风险预警与仲裁机制等政策支持，推动优势产业和企业全方位多领域高水平“走出去”。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-45db8326f8cc",
+      "description": "成都市推动优势产业和企业全方位多领域高水平“走出去”，通过设立海外并购基金、建设境外合作园区及完善风险预警与仲裁机制等政策支持，拓展全球市场并获取海外资源。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "#### （十四）实施“走出去”对外投资计划",
+        "推动优势产业、优秀企业全方位多领域高水平走出去，在拓展全球市场、获取海外战略性资源、开展海外创新合作、参与境外基础设施建设等方面实现重点发展。支持企业海外布局，对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。支持企业开展走出去前期工作，对勘测调查、法律查明、咨询评估、境外投（议）标等给予资金支持。鼓励企业建设境外产业合作园区，对通过国家部委确认考核的境外经贸合作区给予奖励，对成都企业主导建成并投入运营的境外产业合作园区，给予企业最长4年最高100万元/年的支持。按市场化原则设立总规模100亿元的海外并购基金，支持以引进核心技术为主的海外并购，对成功的海外并购项目给予业主最高不超过5000万元的奖励。建立综合性走出去促进机构，培育走出去公共服务平台；建立成都“一带一路”海外风险评估中心和国别法律查明中心，完善风险预警机制；建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制；支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。（牵头单位：市商务委；责任单位：市发改委、市经信委、市农委、市投促委、市国资委、市财政局、市金融局、市司法局、市政府法制办）"
+      ],
+      "evidence_block_ids": [
+        "blk-b2a7ce24674d04f2c9c9"
+      ],
+      "page_end": 165,
+      "page_start": 165,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（十四）实施“走出去”对外投资计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "成都“走出去”对外投资计划与政策支持",
+      "type": "分析框架"
+    },
+    "title": "成都“走出去”对外投资计划与政策支持"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-6070732893c2:bundle-e543fa0e8fd9",
+      "excluded_fragments": [],
+      "ref_id": "ref-6070732893c2",
+      "source_blocks": [
+        {
+          "block_id": "blk-b2a7ce24674d04f2c9c9",
+          "page_number": 165,
+          "text": "推动优势产业、优秀企业全方位多领域高水平走出去，在拓展全球市场、获取海外战略性资源、开展海外创新合作、参与境外基础设施建设等方面实现重点发展。支持企业海外布局，对成都市企业控股的新设境外企业，可给予最长3年最高100万元/年的支持。支持企业开展走出去前期工作，对勘测调查、法律查明、咨询评估、境外投（议）标等给予资金支持。鼓励企业建设境外产业合作园区，对通过国家部委确认考核的境外经贸合作区给予奖励，对成都企业主导建成并投入运营的境外产业合作园区，给予企业最长4年最高100万元/年的支持。按市场化原则设立总规模100亿元的海外并购基金，支持以引进核心技术为主的海外并购，对成功的海外并购项目给予业主最高不超过5000万元的奖励。建立综合性走出去促进机构，培育走出去公共服务平台；建立成都“一带一路”海外风险评估中心和国别法律查明中心，完善风险预警机制；建立“一带一路”国际仲裁中心和“一带一路”国际商事纠纷调解中心，完善涉外商事仲裁和争议解决机制；支持保险机构开发海外投资保险品种，帮助企业分担走出去风险。（牵头单位：市商务委；责任单位：市发改委、市经信委、市农委、市投促委、市国资委、市财政局、市金融局、市司法局、市政府法制办）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-45db8326f8cc",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-6070732893c2"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

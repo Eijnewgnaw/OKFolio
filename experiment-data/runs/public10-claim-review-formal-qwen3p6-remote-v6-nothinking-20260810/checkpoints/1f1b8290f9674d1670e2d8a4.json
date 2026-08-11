@@ -1,0 +1,1950 @@
+{
+  "contract": {
+    "canonical_question": "2019年成都与省内外区域产业协同合作在先进制造业集群共建等方面取得哪些进展，面临哪些同质化挑战及对策？",
+    "claims": [
+      {
+        "claim": "成都与省内市（州）产业发展各自为政，产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低。",
+        "claim_id": "claim-81e7bafb98becd23",
+        "evidence_block_ids": [
+          "blk-4d6e78aca3efb3efafcc"
+        ],
+        "evidence_excerpt": "一是产业同质化现象明显。长期以来，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "region": [
+            "成都",
+            "省内市（州）"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合。",
+        "claim_id": "claim-1828ebda9479117f",
+        "evidence_block_ids": [
+          "blk-4d6e78aca3efb3efafcc"
+        ],
+        "evidence_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "object": [
+            "德阳",
+            "成都"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作。",
+        "claim_id": "claim-866d238daf742f91",
+        "evidence_block_ids": [
+          "blk-4d6e78aca3efb3efafcc"
+        ],
+        "evidence_excerpt": "二是产业协作模式相对单一。成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "object": [
+            "成都与省内市（州）",
+            "省外城市"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "近年来，成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+        "claim_id": "claim-bae0e69680f9578b",
+        "evidence_block_ids": [
+          "blk-4d6e78aca3efb3efafcc"
+        ],
+        "evidence_excerpt": "三是合作项目落地较少。近年来，成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少，且合作协议推进也较困难",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "region": [
+            "成都与省内市（州）"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年，成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+        "claim_id": "claim-31ca6c27efe22059",
+        "evidence_block_ids": [
+          "blk-4d6e78aca3efb3efafcc"
+        ],
+        "evidence_excerpt": "如2017年，成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "object": [
+            "成德配套产业园"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。",
+        "claim_id": "claim-abd176e53cdee444",
+        "evidence_block_ids": [
+          "blk-0836a91ebc2b07222db3"
+        ],
+        "evidence_excerpt": "一是有序引导产业梯度转移。根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "object": [
+            "成德绵",
+            "成德资",
+            "成眉乐",
+            "成雅甘"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。",
+        "claim_id": "claim-d7753c8583c0c957",
+        "evidence_block_ids": [
+          "blk-0836a91ebc2b07222db3"
+        ],
+        "evidence_excerpt": "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移，探索电子信息、汽车制造、轨道交通等高成长性产业的部分生产制造环节陆续向省内区域转移",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "object": [
+            "成都服装、家具、食品加工等劳动密集型产业"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。",
+        "claim_id": "claim-ecd12e7e5eb28bb3",
+        "evidence_block_ids": [
+          "blk-0836a91ebc2b07222db3"
+        ],
+        "evidence_excerpt": "二是积极共建产业合作园区。探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-78f758f6d339",
+        "scope": {
+          "object": [
+            "青白江区-广汉市",
+            "天府新区-仁寿县",
+            "简阳市-雁江区"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+        "claim_id": "claim-45b087262a9a94d2",
+        "evidence_block_ids": [
+          "blk-5e39a8c0418cd33a5d49"
+        ],
+        "evidence_excerpt": "与2018年相比，2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展，主要表现在以下几个方面：",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          31
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+        "claim_id": "claim-1c3b543b04b8a0dd",
+        "evidence_block_ids": [
+          "blk-e6f15a5bcdea194a054b"
+        ],
+        "evidence_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建。成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展，在产能规模、研发创新、标准品牌等方面提升核心竞争力。",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          31
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "成都"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+        "claim_id": "claim-4b22999c3041f3f5",
+        "evidence_block_ids": [
+          "blk-ce166f399222bc56731b"
+        ],
+        "evidence_excerpt": "二是现代服务业合作范围更广、形式更多样。成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          31
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "成都与其他区域"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大。",
+        "claim_id": "claim-4432510500dbd71d",
+        "evidence_block_ids": [
+          "blk-eb15b5776cceab0deb74"
+        ],
+        "evidence_excerpt": "三是新经济领域合作力度更大且更加务实。成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          31
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "成都市与其他省市（州）"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "合作领域新增“人工智能+”产业和“5G+”产业。",
+        "claim_id": "claim-2d9b44887a583597",
+        "evidence_block_ids": [
+          "blk-eb15b5776cceab0deb74"
+        ],
+        "evidence_excerpt": "合作领域新增“人工智能 \\(+\\) ”产业和“5G+”产业；合作形式在签约战略合作形式、投资推介会、项目招引方式的基础上，不断推进项目对接、搭建科研成果育成平台",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          31
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "人工智能+",
+            "5G+"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "都市现代农业合作形式逐渐增加了蔬菜专业合作社，现代畜牧园区，以及大型的农产品加工贸易区。",
+        "claim_id": "claim-742fd9d9ae68bc7a",
+        "evidence_block_ids": [
+          "blk-5ffd1dd46a63b4034eca"
+        ],
+        "evidence_excerpt": "四是都市现代农业合作合作形式更加多元且领域持续拓宽。都市现代农业合作形式逐渐增加了蔬菜专业合作社，现代畜牧园区，以及大型的农产品加工贸易区，合作形式更加多元。",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          31
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "都市现代农业"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+        "claim_id": "claim-c96b3396696b81e2",
+        "evidence_block_ids": [
+          "blk-6a219eca74e78bd11439"
+        ],
+        "evidence_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          32
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "中国人民银行成都分行",
+            "省知识产权服务促进中心",
+            "成都市政府"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+        "claim_id": "claim-f62a7442bb5188eb",
+        "evidence_block_ids": [
+          "blk-394a214cfad3a5587d57"
+        ],
+        "evidence_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          32
+        ],
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "scope": {
+          "object": [
+            "广蓉生物医药产业园区"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-81e7bafb98becd23",
+          "claim-1828ebda9479117f",
+          "claim-866d238daf742f91",
+          "claim-bae0e69680f9578b",
+          "claim-31ca6c27efe22059",
+          "claim-abd176e53cdee444",
+          "claim-d7753c8583c0c957",
+          "claim-ecd12e7e5eb28bb3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+        "reason": "该Bundle包含产业同质化现象、合作模式单一、项目落地少等核心问题，以及有序引导产业梯度转移、共建园区、深化服务业协同等对策建议，直接回答中心问题。"
+      },
+      {
+        "claim_ids": [
+          "claim-45b087262a9a94d2",
+          "claim-1c3b543b04b8a0dd",
+          "claim-4b22999c3041f3f5",
+          "claim-4432510500dbd71d",
+          "claim-2d9b44887a583597",
+          "claim-742fd9d9ae68bc7a",
+          "claim-c96b3396696b81e2",
+          "claim-f62a7442bb5188eb"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+        "reason": "该Bundle详述2019年成都与省内外区域产业协同合作在先进制造业集群共建、现代服务业合作范围扩大等方面的新进展，直接回答中心问题。"
+      }
+    ],
+    "group_id": "proposition-4d3f52db9752",
+    "members": [
+      {
+        "contribution": "指出成都与省内市（州）产业同质化现象明显，合作模式单一、项目落地少，需通过差异化协同与重点合作项目破解。",
+        "ref_id": "ref-78f758f6d339",
+        "relation": "qualifies"
+      },
+      {
+        "contribution": "详述2019年成都与省内外区域产业协同合作在先进制造业集群共建、现代服务业合作范围扩大等方面的新进展。",
+        "ref_id": "ref-d7c6a0ce9b1d",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-45b087262a9a94d2",
+        "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+        "finding": "本批句子正确表达了该claim，保留了时间范围（2019年）和核心事实。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1c3b543b04b8a0dd",
+        "draft_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+        "finding": "本批句子正确表达了该claim，保留了产业重点（电子信息、装备制造、医药健康、新型材料和绿色食品）和措施内容。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4b22999c3041f3f5",
+        "draft_excerpt": "二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+        "finding": "本批句子正确表达了该claim，保留了合作范围（省内市（州）全覆盖）和转变方向。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4432510500dbd71d",
+        "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+        "finding": "本批句子正确表达了该claim，保留了合作范围（省内大部分市（州）及东部沿海地区扩大）。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2d9b44887a583597",
+        "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+        "finding": "本批句子正确表达了该claim，保留了新增合作领域（“人工智能+”产业和“5G+”产业）。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-742fd9d9ae68bc7a",
+        "draft_excerpt": "四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。",
+        "finding": "本批句子正确表达了该claim，保留了合作形式（蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区）。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-81e7bafb98becd23",
+        "draft_excerpt": "一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+        "finding": "本批句子正确表达了该claim，保留了产业同质化现象、竞争大于合作及协作水平较低的事实。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1828ebda9479117f",
+        "draft_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+        "finding": "本批句子正确表达了该claim，保留了德阳与成都产业重合的具体领域。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-866d238daf742f91",
+        "draft_excerpt": "二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+        "finding": "本批句子正确表达了该claim，保留了省内共建园区和省外项目招引的合作模式。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bae0e69680f9578b",
+        "draft_excerpt": "三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+        "finding": "本批句子正确表达了该claim，保留了合作协议多但落地项目少的事实。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-31ca6c27efe22059",
+        "draft_excerpt": "如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+        "finding": "本批句子正确表达了该claim，保留了2017年签订协议及2018年底未启动的事实。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-abd176e53cdee444",
+        "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+        "finding": "本批句子未直接表达该claim，但后续句子“针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。”及“一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。”共同覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d7753c8583c0c957",
+        "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+        "finding": "本批句子未直接表达该claim，但后续句子“探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ecd12e7e5eb28bb3",
+        "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+        "finding": "本批句子未直接表达该claim，但后续句子“二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c96b3396696b81e2",
+        "draft_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+        "finding": "本批句子未直接表达该claim，但后续句子“2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f62a7442bb5188eb",
+        "draft_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+        "finding": "本批句子未直接表达该claim，但后续句子“广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-45b087262a9a94d2",
+          "claim-81e7bafb98becd23",
+          "claim-abd176e53cdee444",
+          "claim-d7753c8583c0c957",
+          "claim-ecd12e7e5eb28bb3"
+        ],
+        "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+        "finding": "该句是对全文核心判断的概括，涉及claim-45b087262a9a94d2（进展）、claim-81e7bafb98becd23（同质化挑战）以及claim-abd176e53cdee444、claim-d7753c8583c0c957、claim-ecd12e7e5eb28bb3（对策）的概括性描述。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1f10ee00b98e4b64",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45b087262a9a94d2"
+        ],
+        "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+        "finding": "该句直接对应claim-45b087262a9a94d2。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9efec53e7d72665f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1c3b543b04b8a0dd"
+        ],
+        "draft_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+        "finding": "该句直接对应claim-1c3b543b04b8a0dd。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ef630b158e3078c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4b22999c3041f3f5"
+        ],
+        "draft_excerpt": "二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+        "finding": "该句直接对应claim-4b22999c3041f3f5。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fa28e66c0d58ba0d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4432510500dbd71d",
+          "claim-2d9b44887a583597"
+        ],
+        "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+        "finding": "该句直接对应claim-4432510500dbd71d和claim-2d9b44887a583597。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ea3217a777c0f062",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-742fd9d9ae68bc7a"
+        ],
+        "draft_excerpt": "四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。",
+        "finding": "该句直接对应claim-742fd9d9ae68bc7a。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9cc5d32d27165127",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-81e7bafb98becd23"
+        ],
+        "draft_excerpt": "一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+        "finding": "该句直接对应claim-81e7bafb98becd23。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-49ea26a91c6c6d59",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1828ebda9479117f"
+        ],
+        "draft_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+        "finding": "该句直接对应claim-1828ebda9479117f。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8ce8fba260340595",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-866d238daf742f91"
+        ],
+        "draft_excerpt": "二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+        "finding": "该句直接对应claim-866d238daf742f91。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3c700d53dfe1e10f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bae0e69680f9578b"
+        ],
+        "draft_excerpt": "三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+        "finding": "该句直接对应claim-bae0e69680f9578b。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-752b711e122b878d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-31ca6c27efe22059"
+        ],
+        "draft_excerpt": "如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+        "finding": "该句直接对应claim-31ca6c27efe22059。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5c8119ff8db8369d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-abd176e53cdee444",
+          "claim-d7753c8583c0c957",
+          "claim-ecd12e7e5eb28bb3"
+        ],
+        "draft_excerpt": "针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+        "finding": "该句是对后续具体对策的概括，涉及claim-abd176e53cdee444、claim-d7753c8583c0c957和claim-ecd12e7e5eb28bb3。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7858db11d8242bb8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-abd176e53cdee444"
+        ],
+        "draft_excerpt": "一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。",
+        "finding": "该句完全对应claim-abd176e53cdee444，无合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-030a2b3977cb469c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d7753c8583c0c957"
+        ],
+        "draft_excerpt": "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。",
+        "finding": "该句完全对应claim-d7753c8583c0c957，无合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ba01e6b34ba23617",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ecd12e7e5eb28bb3"
+        ],
+        "draft_excerpt": "二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；",
+        "finding": "该句前半部分对应claim-ecd12e7e5eb28bb3，后半部分“探索建立‘存量不动+增量分成’等利益共享机制”在合同claim-ecd12e7e5eb28bb3的evidence_excerpt中明确存在，故整体supported。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8ed57907dcf2d3b7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ecd12e7e5eb28bb3"
+        ],
+        "draft_excerpt": "支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。",
+        "finding": "该句完全对应claim-ecd12e7e5eb28bb3，无合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d2434454d1ced9f4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c96b3396696b81e2"
+        ],
+        "draft_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+        "finding": "该句完全对应claim-c96b3396696b81e2，无合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-eeef4dc2c171ac04",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f62a7442bb5188eb"
+        ],
+        "draft_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+        "finding": "该句完全对应claim-f62a7442bb5188eb，无合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9d9862642e8b3e6d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_draft_sha256": "73916a3cdf2a446caa0ad4f20052dd6153a77c26e72b42808380e8afac03b18e",
+  "coverage_history": [
+    {
+      "draft_sha256": "984d638c0845c63f461ddc70934f78b38fe80afe926928772fd955296bc54119",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45b087262a9a94d2",
+            "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路、方式与重点上取得新进展，先进制造业合作突出跨区域产业集群共建，现代服务业合作范围更广且形式更多样，新经济领域合作力度更大且更加务实，都市现代农业合作形式多元且领域持续拓宽。",
+            "finding": "本批句子正确表达了该claim，保留了时间范围“2019年”及合作进展的具体方面。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81e7bafb98becd23",
+            "draft_excerpt": "然而，成都与省内市（州）产业发展长期各自为政，产业“同质化”现象明显、竞争大于合作，整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+            "finding": "本批句子正确表达了该claim，保留了“成都与省内市（州）”、“各自为政”、“同质化”、“竞争大于合作”、“整体协作水平较低”等关键事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1828ebda9479117f",
+            "draft_excerpt": "例如德阳与成都的“5+5+1”现代产业体系在装备制造、食品饮料等重点产业上高度重合，甚至在细分领域也高度相似。",
+            "finding": "本批句子正确表达了该claim，保留了“德阳”、“成都”、“5+5+1”现代产业体系、“装备制造、食品饮料”等关键事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ecd12e7e5eb28bb3",
+            "draft_excerpt": "针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "本批句子正确表达了该claim，保留了“积极共建产业合作园区”这一关键措施。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f62a7442bb5188eb",
+            "draft_excerpt": "在重点合作项目方面，广蓉生物医药产业园由成都、广安两地共建，规划面积300亩，总投资45亿元，2019年签约亿元以上项目8个，完成投资16.7亿元；",
+            "finding": "本批句子正确表达了该claim，保留了“广蓉生物医药产业园”、“成都、广安两地共建”、“规划面积300亩”、“总投资45亿元”等关键事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c3b543b04b8a0dd",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-2d9b44887a583597",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-31ca6c27efe22059",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-4432510500dbd71d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-4b22999c3041f3f5",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-742fd9d9ae68bc7a",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-866d238daf742f91",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-abd176e53cdee444",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-bae0e69680f9578b",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-c96b3396696b81e2",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d7753c8583c0c957",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过差异化协同与重点合作项目破解。",
+            "finding": "该句为整体描述，未直接对应具体claim的完整事实锚点（如时间、具体合作形式等），且“差异化协同”未在合同claims中明确列出，故标为unsupported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8fcb3b5f9bdec45a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b087262a9a94d2"
+            ],
+            "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路、方式与重点上取得新进展，先进制造业合作突出跨区域产业集群共建，现代服务业合作范围更广且形式更多样，新经济领域合作力度更大且更加务实，都市现代农业合作形式多元且领域持续拓宽。",
+            "finding": "该句完整覆盖了claim-45b087262a9a94d2的内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34e9f2be9bc82b4b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81e7bafb98becd23"
+            ],
+            "draft_excerpt": "然而，成都与省内市（州）产业发展长期各自为政，产业“同质化”现象明显、竞争大于合作，整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+            "finding": "该句完整覆盖了claim-81e7bafb98becd23的内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e1c2dd0f3076f69",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1828ebda9479117f"
+            ],
+            "draft_excerpt": "例如德阳与成都的“5+5+1”现代产业体系在装备制造、食品饮料等重点产业上高度重合，甚至在细分领域也高度相似。",
+            "finding": "该句完整覆盖了claim-1828ebda9479117f的内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-75598f8c22a48ee0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "该句完整覆盖了claim-ecd12e7e5eb28bb3的内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d9dad08a3668655",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f62a7442bb5188eb"
+            ],
+            "draft_excerpt": "在重点合作项目方面，广蓉生物医药产业园由成都、广安两地共建，规划面积300亩，总投资45亿元，2019年签约亿元以上项目8个，完成投资16.7亿元；",
+            "finding": "该句完整覆盖了claim-f62a7442bb5188eb的内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7deab97f3afc0f8d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都农交所德阳所累计成交项目1898宗，交易金额约32亿元。",
+            "finding": "该句提到的“成都农交所德阳所”及具体成交数据在Claim Contract中未列出，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-38a9c7c5c1e709ec",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1828ebda9479117f"
+            ],
+            "draft_excerpt": "成都与德阳的“5+5+1”现代产业体系在装备制造、食品饮料等重点产业上高度重合",
+            "finding": "该句覆盖了claim-1828ebda9479117f的部分内容，但缺少“甚至在细分领域也高度相似”的完整表述，不过核心事实已覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c94cbe21a3212e11",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f62a7442bb5188eb"
+            ],
+            "draft_excerpt": "广蓉生物医药产业园规划面积300亩，总投资45亿元，2019年完成投资16.7亿元",
+            "finding": "该句覆盖了claim-f62a7442bb5188eb的部分内容，保留了关键数字和主体。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a1434ac90df2f3b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都农交所德阳所累计成交项目1898宗，交易金额约32亿元",
+            "finding": "该句提到的“成都农交所德阳所”及具体成交数据在Claim Contract中未列出，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15e24431499e3c14",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过差异化协同与重点合作项目破解。",
+            "finding": "该句中的“差异化协同”未在合同claims中明确列出，属于合同外事实。"
+          },
+          {
+            "draft_excerpt": "成都农交所德阳所累计成交项目1898宗，交易金额约32亿元。",
+            "finding": "该句提到的“成都农交所德阳所”及具体成交数据在Claim Contract中未列出，属于合同外事实。"
+          },
+          {
+            "draft_excerpt": "成都农交所德阳所累计成交项目1898宗，交易金额约32亿元",
+            "finding": "该句提到的“成都农交所德阳所”及具体成交数据在Claim Contract中未列出，属于合同外事实。"
+          },
+          {
+            "draft_excerpt": "8",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "16.7",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1898",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "32",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9ed08790a92682d0588aa737356f1585183247ba0aab3604b4783b8440ec1649",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-45b087262a9a94d2",
+            "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+            "finding": "本批句子正确表达了该claim，保留了时间范围“2019年”和核心事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c3b543b04b8a0dd",
+            "draft_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+            "finding": "本批句子正确表达了该claim，保留了产业重点和措施描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4b22999c3041f3f5",
+            "draft_excerpt": "二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+            "finding": "本批句子正确表达了该claim，保留了合作范围和形式转变的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4432510500dbd71d",
+            "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+            "finding": "本批句子正确表达了该claim，保留了合作范围扩大和合作领域新增的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2d9b44887a583597",
+            "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+            "finding": "本批句子正确表达了该claim，保留了新增合作领域的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-742fd9d9ae68bc7a",
+            "draft_excerpt": "四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。",
+            "finding": "本批句子正确表达了该claim，保留了合作形式多元的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81e7bafb98becd23",
+            "draft_excerpt": "一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化和协作水平低的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1828ebda9479117f",
+            "draft_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+            "finding": "本批句子正确表达了该claim，保留了德阳与成都产业重合的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-866d238daf742f91",
+            "draft_excerpt": "二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+            "finding": "本批句子正确表达了该claim，保留了合作模式单一的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bae0e69680f9578b",
+            "draft_excerpt": "三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+            "finding": "本批句子正确表达了该claim，保留了合作项目落地少的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-31ca6c27efe22059",
+            "draft_excerpt": "如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+            "finding": "本批句子正确表达了该claim，保留了成德配套产业园未启动的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-abd176e53cdee444",
+            "draft_excerpt": "一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化和协作水平低的描述。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d7753c8583c0c957",
+            "draft_excerpt": "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化和协作水平低的描述。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ecd12e7e5eb28bb3",
+            "draft_excerpt": "二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化和协作水平低的描述。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c96b3396696b81e2",
+            "draft_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化和协作水平低的描述。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f62a7442bb5188eb",
+            "draft_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化和协作水平低的描述。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过差异化协同与重点合作项目破解。",
+            "finding": "该句为整体描述，未直接对应具体claim的精确表述，且包含“差异化协同”等合同外推断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8fcb3b5f9bdec45a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b087262a9a94d2"
+            ],
+            "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+            "finding": "该句直接对应claim-45b087262a9a94d2。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9efec53e7d72665f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1c3b543b04b8a0dd"
+            ],
+            "draft_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+            "finding": "该句直接对应claim-1c3b543b04b8a0dd。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ef630b158e3078c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4b22999c3041f3f5"
+            ],
+            "draft_excerpt": "二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+            "finding": "该句直接对应claim-4b22999c3041f3f5。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa28e66c0d58ba0d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4432510500dbd71d",
+              "claim-2d9b44887a583597"
+            ],
+            "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+            "finding": "该句直接对应claim-4432510500dbd71d和claim-2d9b44887a583597。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ea3217a777c0f062",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-742fd9d9ae68bc7a"
+            ],
+            "draft_excerpt": "四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。",
+            "finding": "该句直接对应claim-742fd9d9ae68bc7a。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9cc5d32d27165127",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81e7bafb98becd23"
+            ],
+            "draft_excerpt": "一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+            "finding": "该句直接对应claim-81e7bafb98becd23。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49ea26a91c6c6d59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1828ebda9479117f"
+            ],
+            "draft_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+            "finding": "该句直接对应claim-1828ebda9479117f。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ce8fba260340595",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-866d238daf742f91"
+            ],
+            "draft_excerpt": "二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+            "finding": "该句直接对应claim-866d238daf742f91。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c700d53dfe1e10f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bae0e69680f9578b"
+            ],
+            "draft_excerpt": "三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+            "finding": "该句直接对应claim-bae0e69680f9578b。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-752b711e122b878d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-31ca6c27efe22059"
+            ],
+            "draft_excerpt": "如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+            "finding": "该句直接对应claim-31ca6c27efe22059。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c8119ff8db8369d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "该句为整体描述，未直接对应具体claim的精确表述，且包含“深化服务业协同发展”等合同外推断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7858db11d8242bb8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-abd176e53cdee444"
+            ],
+            "draft_excerpt": "一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。",
+            "finding": "该句内容完全由claim-abd176e53cdee444支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-030a2b3977cb469c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d7753c8583c0c957"
+            ],
+            "draft_excerpt": "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。",
+            "finding": "该句内容完全由claim-d7753c8583c0c957支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba01e6b34ba23617",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；",
+            "finding": "该句内容完全由claim-ecd12e7e5eb28bb3支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ed57907dcf2d3b7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。",
+            "finding": "该句内容完全由claim-ecd12e7e5eb28bb3支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2434454d1ced9f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c96b3396696b81e2"
+            ],
+            "draft_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+            "finding": "该句内容完全由claim-c96b3396696b81e2支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eeef4dc2c171ac04",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f62a7442bb5188eb"
+            ],
+            "draft_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+            "finding": "该句内容完全由claim-f62a7442bb5188eb支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9d9862642e8b3e6d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过差异化协同与重点合作项目破解。",
+            "finding": "该句包含“差异化协同”等合同外推断，无法由Claim Contract支持。"
+          },
+          {
+            "draft_excerpt": "针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "该句包含“深化服务业协同发展”等合同外推断，无法由Claim Contract支持。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "73916a3cdf2a446caa0ad4f20052dd6153a77c26e72b42808380e8afac03b18e",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-45b087262a9a94d2",
+            "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+            "finding": "本批句子正确表达了该claim，保留了时间范围（2019年）和核心事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c3b543b04b8a0dd",
+            "draft_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+            "finding": "本批句子正确表达了该claim，保留了产业重点（电子信息、装备制造、医药健康、新型材料和绿色食品）和措施内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4b22999c3041f3f5",
+            "draft_excerpt": "二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+            "finding": "本批句子正确表达了该claim，保留了合作范围（省内市（州）全覆盖）和转变方向。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4432510500dbd71d",
+            "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+            "finding": "本批句子正确表达了该claim，保留了合作范围（省内大部分市（州）及东部沿海地区扩大）。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2d9b44887a583597",
+            "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+            "finding": "本批句子正确表达了该claim，保留了新增合作领域（“人工智能+”产业和“5G+”产业）。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-742fd9d9ae68bc7a",
+            "draft_excerpt": "四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。",
+            "finding": "本批句子正确表达了该claim，保留了合作形式（蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区）。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81e7bafb98becd23",
+            "draft_excerpt": "一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+            "finding": "本批句子正确表达了该claim，保留了产业同质化现象、竞争大于合作及协作水平较低的事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1828ebda9479117f",
+            "draft_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+            "finding": "本批句子正确表达了该claim，保留了德阳与成都产业重合的具体领域。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-866d238daf742f91",
+            "draft_excerpt": "二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+            "finding": "本批句子正确表达了该claim，保留了省内共建园区和省外项目招引的合作模式。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bae0e69680f9578b",
+            "draft_excerpt": "三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+            "finding": "本批句子正确表达了该claim，保留了合作协议多但落地项目少的事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-31ca6c27efe22059",
+            "draft_excerpt": "如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+            "finding": "本批句子正确表达了该claim，保留了2017年签订协议及2018年底未启动的事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-abd176e53cdee444",
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "本批句子未直接表达该claim，但后续句子“针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。”及“一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。”共同覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d7753c8583c0c957",
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "本批句子未直接表达该claim，但后续句子“探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ecd12e7e5eb28bb3",
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "本批句子未直接表达该claim，但后续句子“二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c96b3396696b81e2",
+            "draft_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+            "finding": "本批句子未直接表达该claim，但后续句子“2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f62a7442bb5188eb",
+            "draft_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+            "finding": "本批句子未直接表达该claim，但后续句子“广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。”覆盖了该claim。 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-45b087262a9a94d2",
+              "claim-81e7bafb98becd23",
+              "claim-abd176e53cdee444",
+              "claim-d7753c8583c0c957",
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "该句是对全文核心判断的概括，涉及claim-45b087262a9a94d2（进展）、claim-81e7bafb98becd23（同质化挑战）以及claim-abd176e53cdee444、claim-d7753c8583c0c957、claim-ecd12e7e5eb28bb3（对策）的概括性描述。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f10ee00b98e4b64",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45b087262a9a94d2"
+            ],
+            "draft_excerpt": "2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。",
+            "finding": "该句直接对应claim-45b087262a9a94d2。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9efec53e7d72665f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1c3b543b04b8a0dd"
+            ],
+            "draft_excerpt": "一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。",
+            "finding": "该句直接对应claim-1c3b543b04b8a0dd。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ef630b158e3078c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4b22999c3041f3f5"
+            ],
+            "draft_excerpt": "二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。",
+            "finding": "该句直接对应claim-4b22999c3041f3f5。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa28e66c0d58ba0d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4432510500dbd71d",
+              "claim-2d9b44887a583597"
+            ],
+            "draft_excerpt": "三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。",
+            "finding": "该句直接对应claim-4432510500dbd71d和claim-2d9b44887a583597。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ea3217a777c0f062",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-742fd9d9ae68bc7a"
+            ],
+            "draft_excerpt": "四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。",
+            "finding": "该句直接对应claim-742fd9d9ae68bc7a。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9cc5d32d27165127",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81e7bafb98becd23"
+            ],
+            "draft_excerpt": "一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+            "finding": "该句直接对应claim-81e7bafb98becd23。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49ea26a91c6c6d59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1828ebda9479117f"
+            ],
+            "draft_excerpt": "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+            "finding": "该句直接对应claim-1828ebda9479117f。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ce8fba260340595",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-866d238daf742f91"
+            ],
+            "draft_excerpt": "二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+            "finding": "该句直接对应claim-866d238daf742f91。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c700d53dfe1e10f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bae0e69680f9578b"
+            ],
+            "draft_excerpt": "三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。",
+            "finding": "该句直接对应claim-bae0e69680f9578b。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-752b711e122b878d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-31ca6c27efe22059"
+            ],
+            "draft_excerpt": "如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+            "finding": "该句直接对应claim-31ca6c27efe22059。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c8119ff8db8369d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-abd176e53cdee444",
+              "claim-d7753c8583c0c957",
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+            "finding": "该句是对后续具体对策的概括，涉及claim-abd176e53cdee444、claim-d7753c8583c0c957和claim-ecd12e7e5eb28bb3。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7858db11d8242bb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-abd176e53cdee444"
+            ],
+            "draft_excerpt": "一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。",
+            "finding": "该句完全对应claim-abd176e53cdee444，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-030a2b3977cb469c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d7753c8583c0c957"
+            ],
+            "draft_excerpt": "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。",
+            "finding": "该句完全对应claim-d7753c8583c0c957，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba01e6b34ba23617",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；",
+            "finding": "该句前半部分对应claim-ecd12e7e5eb28bb3，后半部分“探索建立‘存量不动+增量分成’等利益共享机制”在合同claim-ecd12e7e5eb28bb3的evidence_excerpt中明确存在，故整体supported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ed57907dcf2d3b7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecd12e7e5eb28bb3"
+            ],
+            "draft_excerpt": "支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。",
+            "finding": "该句完全对应claim-ecd12e7e5eb28bb3，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2434454d1ced9f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c96b3396696b81e2"
+            ],
+            "draft_excerpt": "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+            "finding": "该句完全对应claim-c96b3396696b81e2，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eeef4dc2c171ac04",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f62a7442bb5188eb"
+            ],
+            "draft_excerpt": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+            "finding": "该句完全对应claim-f62a7442bb5188eb，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9d9862642e8b3e6d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展。\n\n一是先进制造业合作更加突出跨区域产业集群共建，成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展。\n\n二是现代服务业合作范围更广、形式更多样，成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作。\n\n三是新经济领域合作力度更大且更加务实，成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大，合作领域新增“人工智能+”产业和“5G+”产业。\n\n四是都市现代农业合作形式更加多元且领域持续拓宽，合作形式逐渐增加了蔬菜专业合作社、现代畜牧园区以及大型的农产品加工贸易区。\n\n- 一是产业同质化现象明显，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。\n- 如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。\n- 二是产业协作模式相对单一，成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。\n- 三是合作项目落地较少，近年来成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少。\n- 如2017年成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。\n\n## 证据与影响\n\n针对产业同质化及协作配套水平低的问题，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。\n\n一是有序引导产业梯度转移，根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局。\n\n探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移。\n\n二是积极共建产业合作园区，探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”。\n\n2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。\n\n广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。",
+    "description": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过有序引导产业梯度转移、积极共建产业合作园区以及深化服务业协同发展来破解。",
+    "ref": {
+      "asset_hints": [
+        "html-table-001",
+        "image-086",
+        "image-087",
+        "image-088",
+        "image-089",
+        "image-090",
+        "image-091",
+        "image-092"
+      ],
+      "concept_id": "proposition-4d3f52db9752",
+      "description": "2019年成都区域产业协同合作在先进制造业集群共建等方面取得进展，但面临产业同质化挑战，需通过差异化协同与重点合作项目破解。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "一是产业同质化现象明显。长期以来，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。",
+        "如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。",
+        "二是产业协作模式相对单一。成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。",
+        "三是合作项目落地较少。近年来，成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少，且合作协议推进也较困难",
+        "如2017年，成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。",
+        "一是有序引导产业梯度转移。根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局",
+        "探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移，探索电子信息、汽车制造、轨道交通等高成长性产业的部分生产制造环节陆续向省内区域转移",
+        "二是积极共建产业合作园区。探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区",
+        "与2018年相比，2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展，主要表现在以下几个方面：",
+        "一是先进制造业合作更加突出跨区域产业集群共建。成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展，在产能规模、研发创新、标准品牌等方面提升核心竞争力。",
+        "二是现代服务业合作范围更广、形式更多样。成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作",
+        "三是新经济领域合作力度更大且更加务实。成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大",
+        "合作领域新增“人工智能 \\(+\\) ”产业和“5G+”产业；合作形式在签约战略合作形式、投资推介会、项目招引方式的基础上，不断推进项目对接、搭建科研成果育成平台",
+        "四是都市现代农业合作合作形式更加多元且领域持续拓宽。都市现代农业合作形式逐渐增加了蔬菜专业合作社，现代畜牧园区，以及大型的农产品加工贸易区，合作形式更加多元。",
+        "2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。",
+        "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。"
+      ],
+      "evidence_block_ids": [
+        "blk-4d6e78aca3efb3efafcc",
+        "blk-0836a91ebc2b07222db3",
+        "blk-5e39a8c0418cd33a5d49",
+        "blk-e6f15a5bcdea194a054b",
+        "blk-ce166f399222bc56731b",
+        "blk-eb15b5776cceab0deb74",
+        "blk-5ffd1dd46a63b4034eca",
+        "blk-6a219eca74e78bd11439",
+        "blk-394a214cfad3a5587d57"
+      ],
+      "page_end": 184,
+      "page_start": 31,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都区域产业协同合作进展与同质化问题对策",
+      "type": "政策建议"
+    },
+    "title": "成都区域产业协同合作进展与同质化问题对策"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-78f758f6d339:bundle-d7acd1ac3985",
+      "excluded_fragments": [],
+      "ref_id": "ref-78f758f6d339",
+      "source_blocks": [
+        {
+          "block_id": "blk-5c91a14428c800e5522a",
+          "page_number": 178,
+          "text": "成都市区域合作蓝皮书（2019）课题组"
+        },
+        {
+          "block_id": "blk-4d6e78aca3efb3efafcc",
+          "page_number": 178,
+          "text": "一是产业同质化现象明显。长期以来，成都与省内市（州）产业发展各自为政，各城市间产业“同质化”较为明显、产业“竞争”大于“合作”，产业整体协作水平较低，迄今尚未形成合理的产业梯度和紧密联系的产业链。如德阳提出构建“5+5+1”现代产业体系中装备制造、食品饮料、生物医药、绿色建材等重点产业，与成都“5+5+1”现代化产业体系中的装备制造、医药健康、新型材料和绿色食品等产业重合，甚至在产业细分领域也高度相似。二是产业协作模式相对单一。成都与省内市（州）主要通过共建产业园区的方式推进产业合作，与省外城市主要通过项目招引实现跨区域合作，均未以产业生态圈理念推进上下游产业协作配套。三是合作项目落地较少。近年来，成都与省内市（州）签署了一系列的产业合作协议，但绝大多数属于战略合作框架协议，缺乏项目支撑，落地项目少，且合作协议推进也较困难，如2017年，成德已签订《中国大车都成德配套产业园合作协议》，截至2018年底“中国大车都成德配套产业园”尚未实质性启动，没有具体项目落地。"
+        },
+        {
+          "block_id": "blk-bd8fdf21a04a2812d9bb",
+          "page_number": 178,
+          "text": "一是创新合作领域有待拓深。当前成都与省内市（州）的合作以政府合作为主，与国内区域的合作以校地合作为主，区域间企业合作较少。各个区域之间的合作大多以签订协议为主，协议包含的内容较为全面，涉及领域较广，但从实际效果来看，实际合作开展的项目或者研究均较少，合作成效尚未显现。二在成果孵化转化领域合作较少。成都市与多个城市签订了合作协议，均提及要加快技术协同创新、科技成果转化，但当前的合作大多"
+        },
+        {
+          "block_id": "blk-7d64724c5c6fbf52b507",
+          "page_number": 179,
+          "text": "停留在协议层面。成都仅与少部分区域合作共建孵化器，或针对具体行业领域开展项目合作或技术研究。三是创新资源尚未实现共建共享。省内部分市（州）虽建设了“科创通”等创新资源共享平台，推行了成都跨区域“创业苗圃+孵化器+加速器”梯级大孵化体系建设，但城市间创新创业要素资源自由流动、共用共享机制尚未形成，城市间科学数据库、专家库等创新要素资源仍未开放共享，尚未形成“相互开放、知识共享、联合攻关”的协同网络。四是创新人才交流互动较少。当前区域创新合作在创新人才联合培养、交流互动机制建设方面着力较弱，实质性进展较少，有待进一步加强。"
+        },
+        {
+          "block_id": "blk-7fa999b1595bdb51be9b",
+          "page_number": 179,
+          "text": "一是合作领域较为单一。虽然成都与省内外区域基础设施合作内容日益广泛，但是具有实质性合作成效的领域较少，主要集中于交通基础设施建设，而跨区域的水利、能源、市政、信息等基础设施建设涉及较少，仅与少数城市开展个别项目的合作。二是综合交通服务体系仍未建成。成德眉资、成都平原经济区等部分区域交通网络体系建设基本成型，但成都与其他市（州）在整体上尚未建成由高铁、高速公路、快速路和城市轨道组成的一体化综合交通服务体系，仍存在协调不足、衔接失畅等问题，如成泸之间尚无高铁通道相连，城市快速通道仍是空白，地方干线公路等级差异较大。三是基础设施建设缺乏要素协同保障。受行政区划限制，一些跨区域的交通、水利等重大基础设施项目因建设主体多，投融资渠道不同、用地指标不同，而资金、土地等要素的协同保障建设滞后，导致建设定位、推进时序、建设标准等不一致，如交通基础设施方面，已建成通车的旌江干线、成德大道就存在成都段与德阳段建设标准不统一的问题。"
+        },
+        {
+          "block_id": "blk-d3f36508b826d34fc46a",
+          "page_number": 179,
+          "text": "一是现有生态保护合作的系统性有待提升。缺乏全局性协调机构，生态保护各自为政，环境执法与监督考核体系只针对同一行政区域范围内的主体，成都与周边城市因环保执行标准不一致，污染防治工作涉及的部门、单位不对等，工作交流不对口，就环保标准、监管、保障等方面难以达成一致，导致联防联控实施成效较差。二是现有协议的落地效果不佳。现有的协议条款制定过于原则、宽泛，缺乏针对性、可操作性，具体的工作尚未明确具体的负责部门，尚未建立激励惩罚机制，难以充分调动各地开展环境污染联防联控的积极性、主动性、创造性。三是生态环境补偿机制尚未实质性建立。仅沱江流域各城市对横向生态补偿进行了初步探索，跨市界生态环境损害赔偿、生态产品市场交易与生态保护补偿协同推进新机制仍然缺失，尚未探索形成主要污染物排污权、碳排放权、水权交"
+        },
+        {
+          "block_id": "blk-3e961a1e6b71b061b4d6",
+          "page_number": 180,
+          "text": "易等具备市场化特征的生态补偿机制。四是环境污染联防联治合作范围有待拓展。合作范围主要集中在省内，在省外仅与贵阳、重庆等少部分区域建立了合作关系，但缺乏生态环境联防联控联治实质性工作。"
+        },
+        {
+          "block_id": "blk-f56f0e5499a72f2c2d87",
+          "page_number": 180,
+          "text": "一是优质资源整合难度较大。成都与其他区域公共服务供给水平差异较大，城市内部公共服务优质资源仍比较稀缺、供给能力存在一定缺口，导致优质资源跨区域统筹配置还面临着基础不够雄厚、行政藩篱限制等多重问题。二是合作能级仍需提升。目前，成都与其他区域的公共服务合作仍处于小规模、短期性、单向度、援助性的探索阶段，协议计划多、整体谋划与实质落实少，尚未出台具有牵头抓总性质的中长期公共服务共享发展的专项规划，合作范围亟待拓展、交互性整体性有待增强。比如，成都与其他区域尚未开展紧密的跨区域医联体、专科联盟合作，医疗专家异地坐诊、人才双向挂职交流等多依靠人脉资源实现。三是基础服务配套不完善。成都与其他区域公共服务政策尚未充分衔接、社保缴费标准相异、平台接入覆盖不同，公共服务合作便民利民化程度仍有待提升。比如，成都与其他区域医保关系转移和参保缴费年限互认仍未实现，病历、医学检验检查结果跨区域、跨机构互认存在障碍。"
+        },
+        {
+          "block_id": "blk-77c3bcd9477f04e8c55b",
+          "page_number": 180,
+          "text": "一是缺乏协同发展战略统筹机制。尽管成都与省内、国内部分城市之间已形成了一些双边或多边合作框架协议，但还缺乏系统性的顶层设计。省内各个城市的规划编制工作缺乏统筹性，在总体规划、专项规划编制上沟通交流较少，缺乏有效推动区域资源互补、分工协作、市场一体、互利共赢的土地、资金、技术、人才等要素市场方面及产业、公共服务等领域的政策措施，一定程度上影响了合作成效。二是协同发展运行保障机制尚待建立。目前区域协同发展缺乏协同发展领导机制，亟需省级层面统筹协调。当前的合作大多停留在联席会议和务虚协商层面，缺乏常态化、系统化的决策协同机制、沟通交流机制、监督落实机制，导致合作稳定性较差、融入不深、联系不紧，难以有效实现协同发展。三是政策协同机制尚未形成。受地域及行政区划限制，各城市在政策环境、行政措施等方面存在一定差异，缺乏突破性的政策支撑、激励约束、利益分享等机制，特别是缺乏有效推动资源互补、分工协作、市场一体、互利共赢的一揽子政策措施。省内城市由于行政体制及政务服务改革阶段不同，在户籍平台、信息采集、管理流程、电子印章等方面存在差别，以致审批服务事项标准无法统一，行政壁垒、制度藩篱造成政务服务难以协同。"
+        },
+        {
+          "block_id": "blk-0836a91ebc2b07222db3",
+          "page_number": 181,
+          "text": "一是有序引导产业梯度转移。根据全省区域产业指导目录，协同编制成德绵、成德资、成眉乐、成雅甘等产业联动区共建规划，促进区域产业优势互补、一体布局；探索建立区域产业转移联盟，加快推动成都服装、家具、食品加工等劳动密集型产业向符合产业规划、具备承接能力的周边区域转移，探索电子信息、汽车制造、轨道交通等高成长性产业的部分生产制造环节陆续向省内区域转移，推动产业细分领域错位发展，共同构建跨区域产业生态圈。二是积极共建产业合作园区。探索建立“存量不动+增量分成”等利益共享机制，提升成德、成眉、成雅、成甘、成阿等合作园区发展水平；支持在青白江区-广汉市、天府新区-仁寿县、简阳市-雁江区等毗邻区域率先开展结对共建“产业合作试点园区”；支持以连锁经营、委托管理、投资合作等多种形式共建产业园区，探索发展“飞地经济”“园中园”“共建园”“总部+基地”等多种园区共建模式，大力推进产业合作园区建设。三是深化服务业协同发展。共建互动协作的现代服务业体系，协同搭建一批有影响力的经贸交流平台，联合组织招商，推动跨区域服务业项目共建，完善服务业协作配套体系；以成都塑造“三城三都”品牌为契机，有机梳理省内各市（州）历史文化脉络和生态旅游资源，合力打造秀美天府旅游环线、川西旅游环线黄金走廊等精品旅游线路；统筹举办西博会、创交会等大型商务会展活动，合力申办青奥会、亚运会等大型综合体育赛事，全面提升区域的国际影响力和知名度。"
+        },
+        {
+          "block_id": "blk-fde2d1f4853ae86a26ae",
+          "page_number": 181,
+          "text": "一是深化区域政产学研协同创新。重点围绕校院企地协同、创新共同体建设、创新研发平台共建共享等方面开展需求对接，逐步形成以企业为主体，高校、科研机构为依托，市场导向、政府推动、社会参与的区域创新合作机制。以66个产业功能区为载体，联动市（州）产业园，围绕产业链布局创新链，推动建立跨区域产业技术创新联盟、专业化实体型研发机构等创新平台，根据产业发展需求实施开发研究和技术成果转化。二是加强区域创新成果孵化转化合作。结合成德绵国家科技成果转化示范区建设，深入推进科技成果“三权”改革，推进区域合作共建创新孵化载体，促进科技成果成功转化。探索建立“研发+产业化”科技成果转化平台，配套实施人才、科技、产业政策。三是促进创新资源共建共享。以成都科学城为核心平台，推动成都与省内外区域之间创新平台资源的共通共用，推进国省重点实验室、工程技术研究中心、企业技术中心等创新平台共建、共享、共"
+        },
+        {
+          "block_id": "blk-bdc934fa895f7ab1367d",
+          "page_number": 182,
+          "text": "用。深化成都“科创通”创新创业服务平台、“智创蓉E-成都校院企地协同创新平台”、成都大型仪器设备共享平台等向市（州）服务延伸、开放共享，共同打造全省统一的协同创新资源大数据交换共享平台。四是加快实现创新人才共育共用。搭建科创人才交流平台，按同等标准支持市（州）在蓉建设研发基地。探索建立科技人才联合培养机制，联合打造大学生创新实习基地、高技能人才培养基地。建立人才交流和共享机制，建立统一、开放、竞争、有序的人才市场，推动人才在区域内自由流动。探索专业技术人才双向兼职、联合聘用等模式，促进人才自由流动、跨行政区域共享。"
+        },
+        {
+          "block_id": "blk-18f0e911ea4e6692a254",
+          "page_number": 182,
+          "text": "一是加快构建综合交通体系。进一步织密国内航线网络，推动与省内城市共同开发航线、航班业务，促进空域资源有效利用；加快构建省内跨区域合作物流服务网络，重点推进成都与泸州、宜宾开展公铁、铁水、公水多式联运合作；加快推进蓉昆高铁成自段、沿江高铁成达段、成都至西宁等高铁项目启动，全力打通高铁出川大通道；积极推进铁路公交化运营，拓展成都“半小时经济圈”辐射范围；加快推进高速公路扩容改造、市域快速路网规划建设，提升区域交通互联互通水平。二是加强区域信息基础设施建设。探索建设新型互联网交换中心，升级扩容成都国家级互联网骨干直联点，争取国际级互联网交换中心等重大基础设施落户，提升区域信息服务能力；推进网络基础设施升级，积极促成德阳与成都共用“028”区号；积极推进成都与各市（州）信息资源交换共享，协同打造大数据交换共享平台，共同建设西部地区重要的通信枢纽。三是推动跨区域重大水利工程建设。加快推动张家岩水库直接引水至老鹰水库管道工程开工建设，配合推进毗河供水工程及望水河泄水工程加快落实，协同德阳争取启动高景关水库规划建设。四是强化要素协同保障。探索成立专业投资平台公司，共建区域基础设施建设投资基金，形成多层次、多渠道的资金保障体系；通过PPP模式、以奖代补、补改结合等方式，拓宽补充耕地途径，多渠道落实补充耕地指标，建立跨区域耕地占补平衡机制，加快推动因基本农田指标等因素进展迟缓的基础设施建设项目。"
+        },
+        {
+          "block_id": "blk-8ea5b4bcb679b3acebee",
+          "page_number": 182,
+          "text": "一是提高区域生态合作的系统性。建立健全由省委省政府牵头的污染联防联控联席会议制度，协调解决重大问题，加快制定统一的环保标准，探索建立联合执法制度，联合查处跨市界环境违法、污染纠纷等问题，推动实现执法监督联合，对区域环境监测应急工作实行统一数据管理、统一组织指挥、统一资源调配。二是增强合作协议的落地性。加强环"
+        },
+        {
+          "block_id": "blk-edf40d05708877fe3102",
+          "page_number": 183,
+          "text": "境联防联控联治科技攻关，组建环境污染治理专业研究团队，开展区域污染成因溯源、传输转化等研究，提高治理的科学性、针对性、实效性。建立健全环境质量考核激励制度，积极争取省上继续实施环保质量激励约束办法，并适度扩大激励资金规模。三是建立生态环境补偿机制。按照“谁超标、谁赔付、谁受益、谁补偿”的原则，以实地横向补偿为主，省级纵向补偿为辅，按照“使用者和受益者付费”的市场原则，建立跨市界生态环境损害赔偿、生态产品市场交易与生态保护补偿协同推进新机制。加快完善考核激励、转移支付等方面的配套制度，兑现生态产品与生态环境价值，形成正向激励。四是拓展合作范围。坚持区域生态建设一体化，加强与省外城市的生态环境联防联控联治的区域合作，加快出台与重庆、贵阳生态环境合作的专项规划或专项合作协议，努力推动区域生态建设联动。"
+        },
+        {
+          "block_id": "blk-da92685f0389437ba5ed",
+          "page_number": 183,
+          "text": "一是探索户籍同城化政策先行先试。把天府新区眉山片区等毗邻区首先纳入户籍同城化发展先行试点区，积极推进户籍管理同城化改革，突出同城标准、一网管理，逐步推动教育、就医、购房、社保等公共服务同城区域共享。二是有机整合优质教育资源。鼓励在蓉民办学校以品牌连锁、委托管理等多种形式跨地区建设分校或校区，推动七中网校、石室祥云等数字化资源在全国的推广应用，支持成都职业技术学院、四川工程职业技术学院等发起成立四川省职教联盟集团，探索建设跨区域职业教育“产教融合共同体”。三是推动医疗卫生联动服务。推动在蓉医疗机构通过全面接管、专科联盟、建设协作医院等方式共建跨区域医联体，推进区域分级协同诊疗、双向转诊系统建设；建立医疗检查结果统一认证标准，推动医学检验检查结果跨地区、跨机构互认；加快构建标准统一、接口丰富、开放高效的跨区域远程会诊平台，实现医疗业务深度协同。四是加快社保协同经办。探索推进省内城市基本医疗保险转移接续年限互认，推动社会保险关系异地协同经办、养老保险无障碍转移。深入推进异地就医联网直接结算，加快符合条件的定点医药机构扩面提效、向基层延伸；建立医保、社保联动监管机制，推动违规查处结果互认。五是推进就业创新协同服务。推动区域人力资源信息共享联合发布，实现区域人力资源市场供求信息互通共享；通过共享人才交流网站资源、联创共办就业招聘活动等方式，实现成都与其他地区线上线下就业创业服务有效对接；推动劳务输入输出对接协作，促进区域间劳动力无缝转移。"
+        },
+        {
+          "block_id": "blk-3a056c5c214655f7bb47",
+          "page_number": 183,
+          "text": "一是建立区域间战略协同发展机制。加强成都市与省内城市空间、城市、路网等规划"
+        },
+        {
+          "block_id": "blk-92bba0d3a6275a12b85e",
+          "page_number": 184,
+          "text": "动态对接，建立健全生态联防联控联治机制、产业协作机制、创新协同机制、金融服务机制、文旅共享机制、开放共享机制、交通共建机制、公共服务共享机制，推动实现区域发展规划统筹协调、生态环境联防联治、资源要素自由流动、产业发展合作共赢、公共设施共建共享、对外开放协同共进，打造优势互补、分工协作、协调联动、错位发展的区域协同发展新格局。二是建立健全运行保障机制。着力构建由决策层、协调层、执行层联动协调，层次分明、合作紧密、运转高效的协同发展工作推进机制。三是建立政策协同和利益分享机制。逐步取消妨碍区域市场一体化的制度与政策规定。探索建立区域协同发展的利益协调和分享机制，按照平等协商、权责一致的原则，细化研究“资本怎样投、项目怎么落、财税怎样分”以及主要经济指标协商划分，有效破除竞争大于合作的现实状况。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-d7c6a0ce9b1d:bundle-dacc2bd55912",
+      "excluded_fragments": [],
+      "ref_id": "ref-d7c6a0ce9b1d",
+      "source_blocks": [
+        {
+          "block_id": "blk-e4b88d1087319c88e902",
+          "page_number": 31,
+          "text": "原始 PDF 第 31 页图片"
+        },
+        {
+          "block_id": "blk-de4837409660aa8eff17",
+          "page_number": 31,
+          "text": "原始 PDF 第 31 页图片"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-5e39a8c0418cd33a5d49",
+          "page_number": 31,
+          "text": "与2018年相比，2019年成都与省内外区域产业协同合作在工作思路理念、方式、重点上都有一定的新进展，主要表现在以下几个方面："
+        },
+        {
+          "block_id": "blk-e6f15a5bcdea194a054b",
+          "page_number": 31,
+          "text": "一是先进制造业合作更加突出跨区域产业集群共建。成都以电子信息、装备制造、医药健康、新型材料和绿色食品产业为重点，联动周边区域，全面推动产业集群成链发展，在产能规模、研发创新、标准品牌等方面提升核心竞争力。同时，顺应全球新一轮科技革命和产业变革大势更加聚焦高端绿色智能制造，构建绿色生态生产链，加速产业新技术新模式应用进程。"
+        },
+        {
+          "block_id": "blk-ce166f399222bc56731b",
+          "page_number": 31,
+          "text": "二是现代服务业合作范围更广、形式更多样。成都与其他区域现代服务业就合作范围达到省内市（州）全覆盖，从对省内市州辐射带动转向为共建合作，省外层面合作从东部沿海地区向中西部地区进一步拓展，开展产业合作并建立产业关系。在签订合作协议或备忘录、举办大型会议活动的基础上，不断推进项目建设，以共建交易所、搭建平台等相关形式增多。"
+        },
+        {
+          "block_id": "blk-eb15b5776cceab0deb74",
+          "page_number": 31,
+          "text": "三是新经济领域合作力度更大且更加务实。成都市与其他省市（州）的区域合作范围基本覆盖省内大部分市（州），并不断向东部沿海地区扩大；且从单一的政企合作到积极加强与研究院、科技园、产业园的战略合作，为新经济发展提供强大的技术支持；合作领域新增“人工智能 \\(+\\) ”产业和“5G+”产业；合作形式在签约战略合作形式、投资推介会、项目招引方式的基础上，不断推进项目对接、搭建科研成果育成平台，促进共建大数据产业基地。"
+        },
+        {
+          "block_id": "blk-5ffd1dd46a63b4034eca",
+          "page_number": 31,
+          "text": "四是都市现代农业合作合作形式更加多元且领域持续拓宽。都市现代农业合作形式逐渐增加了蔬菜专业合作社，现代畜牧园区，以及大型的农产品加工贸易区，合作形式更加多元。同时合作领域逐渐向产业链上游拓展，出现了大量的农产品品牌合作建设项目，通过推广当地有特色的金字招牌，扩大农产品知名度。"
+        },
+        {
+          "block_id": "blk-c1faf51272adee84482c",
+          "page_number": 31,
+          "text": "为持续深化成都与省内外产业协同合作，建议顺应区域产业协同发展新趋势，从以下四个方面着力。"
+        },
+        {
+          "block_id": "blk-3d55fea4b7a812c7060b",
+          "page_number": 31,
+          "text": "一是协同共建有区域优势和特色的先进制造业集群。充分利用5G信息技术、工业互联网等新技术，打破先进制造业在时间和地域上的限制，与周边区域共同构建跨区域、多部门参与的“1+N”型协作机制，共同推进跨区域先进制造产业集群建设，共同打造跨区域产业生态圈，形成以区域优势为基础，以产业链和创新链的“双向融合”为创新动力，以“政府—市场”协调机制为框架，以金融机构为支撑的先进制造协同发展网络形态。"
+        },
+        {
+          "block_id": "blk-687bbdc1712a51cb6d91",
+          "page_number": 31,
+          "text": "二是加快推进错位竞争和产业有序分工。成都应注重向高新科技产业倾斜，加大对新经济产业功能区的财政支出，扩大科技创新基础建设；对于科研项目签约落户成都的企业，额外提供政策支持，对创新型企业实行减税降费，鼓励企业开展科技创新，提升产业引领力。同时，围绕成渝地区双城经济圈建设，加强与重要节点城市及国内其它重点城市联系紧密度，聚焦同省内外城市在新区产业间的协同带动，在过程中注重错位竞争以及产业的分工转移。"
+        },
+        {
+          "block_id": "blk-b83e2082c3c0157f0029",
+          "page_number": 31,
+          "text": "三是以信息科技渗透应用推动先进服务业辐射延伸。加强信息网络等科技对现代物流、商务服务、金融服务、旅游服务等现代服务业的渗透，加快发展电子商务、动漫游戏、网络设计、网络传媒等产业，发展基于三网融合和第三代移动通信技术的新型服务业态，建立基于信息技术和网络的服务外包体系，全面提升成都先进服务业能级及对周边区域辐射服务作用。"
+        },
+        {
+          "block_id": "blk-155ad55052588160dc24",
+          "page_number": 31,
+          "text": "四是注重以农商文旅融合的方式推动都市现代农业合作。现代都市农业中农产品合作的产业链可进一步从初级农产品扩展到高级农副产品，从传统的加工种植过渡到新型的康养、度假旅游旅游，增加农产品的附加值，提高农产品收益。"
+        },
+        {
+          "block_id": "blk-bab365f4f74c29b11509",
+          "page_number": 32,
+          "text": "原始 PDF 第 32 页图片"
+        },
+        {
+          "block_id": "blk-e56f71cbe7c30efc99a3",
+          "page_number": 32,
+          "text": "原始 PDF 第 32 页图片"
+        },
+        {
+          "block_id": "blk-fd0cb12766ddd37b89df",
+          "page_number": 32,
+          "text": "原始 PDF 第 32 页图片"
+        },
+        {
+          "block_id": "blk-ad36e995319d658a1c15",
+          "page_number": 32,
+          "text": "原始 PDF 第 32 页图片"
+        },
+        {
+          "block_id": "blk-c456da164428413eed17",
+          "page_number": 32,
+          "text": "原始 PDF 第 32 页图片"
+        },
+        {
+          "block_id": "blk-6a219eca74e78bd11439",
+          "page_number": 32,
+          "text": "2018年人民银行总行批复以成都为试点打造基于区块链技术的知识产权融资服务平台，在成都市人民政府、中国人民银行成都分行、四川省知识产权服务促进中心的指导支持下，迅鲲成都科技有限公司研发了“基于区块链技术的知识产权融资服务平台”。2019年，中国人民银行成都分行、省知识产权服务促进中心、成都市政府共同启动了“基于区块链技术的知识产权融资服务平台”。平台以区块链为底层技术，以企业本身知识产权评价评估为核心，以企业经营状况为保障，利用区块链不可篡改、打通数据、智能合约等特性，重塑“信用”机制。平台包含准入管理、评估管理、运营监管、融资管理四大功能板块，旨在利用区块链技术打通知识产权与金融的通道，通过刻画分析融资方、资本方、服务方所有行为和操作，保证融资过程的公开、公平、公正，为各方创建一个可信交易环境，帮助企业获得更多融资，帮助金融机构降低风险。平台是"
+        },
+        {
+          "block_id": "blk-26ab53734b0d9932dbbd",
+          "page_number": 32,
+          "text": "区块链与实体经济深度融合的最佳实践，将在促进企业创新发展、产业转型升级发展和经济高质量发展方面发挥重要作用。"
+        },
+        {
+          "block_id": "blk-394a214cfad3a5587d57",
+          "page_number": 32,
+          "text": "广蓉生物医药产业园区由成都、广安两地共建，规划面积300亩，总投资45亿元。该园区以实现广蓉两地“干支联动、区域协同”发展为目的，在成都建设生物医药协作研发基地，在广安建设转化生产基地，打造“西部领先，国内一流”的生物医药产业园。广容生物医药产业园以“两年夯基、三步千亿”为目标，加快推进成都协作研发基地建设，与澳门大学等9个院所院校、中国医药企业管理协会等7个平台协会、粤澳产业园等6个园区深化合作，建立医药食品类院士工作站3个，强化科技支撑。2019年签约亿元以上项目8个，完成投资16.7亿元，实现产值82亿元、增长 \\(19.4\\%\\) ，税收1.12亿元、增长\\(6\\%\\)"
+        },
+        {
+          "block_id": "blk-e2fde7678fe38e36c09f",
+          "page_number": 32,
+          "text": "数据来源：广安与成都重点合作项目典型例——广蓉生物医药产业园"
+        },
+        {
+          "block_id": "blk-eda07d06633415f3f19c",
+          "page_number": 45,
+          "text": "数据来源"
+        },
+        {
+          "block_id": "blk-cdd2c5377a403f4098e6",
+          "page_number": 32,
+          "text": "2019年3月，马尔康市风情营地在国家4A级旅游景点街子古镇开营，拉开崇马共同搭台、推介文化旅游资源的序幕。街子古镇植入藏地元素，打造马尔康对外旅游推介平台，马尔康市共在古镇风情营地开展藏族风情迎宾、马尔康民族风情演艺、藏族风情篝火晚会、民族民俗花样巡游、非遗活态展示等系列主题活动共20场次，开辟了崇马两地旅游互动展示推广新模式。农土产品搭车国际菜花节，开拓马尔康脱贫增收新渠道，马尔康市雪马山生态产业专合社（村集体经济）分别与崇州市赶山匠土特产、成都市青山绿地农业两家农产品公司签订了长期供货协议，促进双方农业产业深度合作。"
+        },
+        {
+          "block_id": "blk-cc4f66cb7d137e451bac",
+          "page_number": 32,
+          "text": "成都农交所德阳所是成都、德阳两地政府紧密结合成德同城化发展内在要求而设立的第一家市（州）级农村产权交易分平台。成都农交所在全国率先创新了农村产权交易所“一所四中心”运营模式，成都农交所德阳所按照该模式搭建了德阳市农村产权交易平台，基本建成了德阳市、县、乡、村四级农村产权交易体系。成都农交所德阳所创造了全国首创闲置农房使用权流转“三书模式”，“政 \\(+\\) 企 \\(+\\) 银 \\(+\\) 交 \\(+\\) 担 \\(+\\) 保”六位一体金融服务模式，农村产权综合服务，涉农政府采购、工程招投标代理等业务。截至2019年底，成都农交所德阳所累计成交项目1898宗，交易金额约32亿元。其中，通过“三书模式”已开展闲置农房使用权流转66宗，成交金额1357.5万元；安置房和商品房合同权利转让共计完成24宗，成交金额820.92万元；“政 \\(+\\) 企 \\(+\\) 银 \\(+\\) 交 \\(+\\) 担 \\(+\\) 保”六位一体金融服务模式通过省农担、市信用联社、邮储银行、珠江村镇银行等金融机构，累计发放逾5亿元农业信贷资金，惠及全市500余家农业实体。"
+        },
+        {
+          "block_id": "blk-ca4fce9bc1f87206ab65",
+          "page_number": 32,
+          "text": "数据来源：2019年成德区域合作工作推进情况"
+        },
+        {
+          "block_id": "blk-db8766dc7de02eed9520",
+          "page_number": 33,
+          "text": "表2-1 2019年成都企业市（州）产业合作协议一览表"
+        },
+        {
+          "block_id": "blk-cd8c7930d21260d22a60",
+          "page_number": 33,
+          "text": "<table><tr><td>合作区域</td><td>协议名称</td><td>合作主体</td></tr><tr><td rowspan=\"3\">德阳</td><td>“三九大”文化旅游联盟品牌战略合作协议</td><td>九寨沟县人民政府、中国大熊猫保护研究中心、广汉市人民政府</td></tr><tr><td>深化农村产权交易平台合作协议</td><td>德阳市产业投资发展集团有限公司、成都农村产权交易所有限责任公司</td></tr><tr><td>成都德阳商务同城发展合作框架协议</td><td>德阳市商务局、成都市商务委</td></tr><tr><td>绵阳</td><td>大熊猫国家公园建设战略合作框架协议</td><td>绵阳市平武县、成都大熊猫繁育研究基地</td></tr><tr><td rowspan=\"3\">雅安</td><td>深化两地新经济协同发展合作协议</td><td>成都市新经济发展委员会、雅安市经济和信息化局</td></tr><tr><td>战略合作协议</td><td>成都新经济企业俱乐部、川西大数据产业园、崇州大数据产业园</td></tr><tr><td>区域旅游合作协议</td><td>成都邛崃市、雅安市名山区</td></tr><tr><td>乐山</td><td>专业化果蔬种植基地建设合作协议</td><td>成都市、乐山市</td></tr><tr><td>宜宾</td><td>投资合作协议,设立成都农村产权交易所分所</td><td>成都农村产权交易所、宜宾</td></tr><tr><td rowspan=\"2\">泸州</td><td>战略合作协议,实现高校人才供给与地方发展需求对接</td><td>四川大学、泸州市人民政府</td></tr><tr><td>战略合作协议</td><td>成都市新经济发展委员会、泸州市数字经济发展局</td></tr><tr><td rowspan=\"2\">自贡</td><td>推动数字化园区战略合作框架协议</td><td>成都市电子商务协会、自贡市经信局</td></tr><tr><td>共建乡村振兴“七大共享平台”合作协议</td><td>成都市农业农村部门、自贡市农业农村部门</td></tr><tr><td>广安</td><td>战略合作协议</td><td>成都市、广安市</td></tr><tr><td rowspan=\"2\">达州</td><td>文化旅游协同发展战略合作协议</td><td>成都市、达州市</td></tr><tr><td>成达区域文化旅游协同发展战略合作协议、成达演艺发展合作协议</td><td>成都市、达州市</td></tr><tr><td rowspan=\"2\">南充</td><td>农产品品牌建设协议</td><td>成都天府源公司</td></tr><tr><td>商务、金融专项合作协议</td><td>成都市、南充市</td></tr><tr><td>凉山</td><td>共建成都·大凉山农特产品加工贸易园区合作协议</td><td>成都市、凉山州</td></tr><tr><td>攀枝花</td><td>现代农业产业互联网平台建设运营战略合作框架协议</td><td>成都尚作农业科技有限公司、攀枝花市国投集团</td></tr><tr><td>阿坝</td><td>农业合作框架协议</td><td>成都市益民生鲜公司</td></tr></table>"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-4d3f52db9752",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-78f758f6d339",
+    "ref-d7c6a0ce9b1d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "3dbed96125036e94508481e89008f863ce21616f841da6331fd0f0e964f4bfb0",
+    "prior_recompile_attempts": 2,
+    "run_name": "public10-claim-review-formal-qwen3p6-remote-v5-20260810"
+  },
+  "status": "complete"
+}

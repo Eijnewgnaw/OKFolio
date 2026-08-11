@@ -1,0 +1,720 @@
+{
+  "contract": {
+    "canonical_question": "基于地理学第一定律与“时空压缩效应”，区域空间结构研究如何从“场所空间”转向“流空间”并形成城市网络？",
+    "claims": [
+      {
+        "claim": "物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+        "claim_id": "claim-91c305fa9dc9d61d",
+        "evidence_block_ids": [
+          "blk-7f8802dd9c3c630df0aa"
+        ],
+        "evidence_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-3b68fced094f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，促使区域研究由“场所空间”转向“流空间”。",
+        "claim_id": "claim-8cae32ff1a39b4c9",
+        "evidence_block_ids": [
+          "blk-7f8802dd9c3c630df0aa"
+        ],
+        "evidence_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-3b68fced094f",
+        "scope": {},
+        "slot": "cause",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+        "claim_id": "claim-518dee118cdd0700",
+        "evidence_block_ids": [
+          "blk-7f8802dd9c3c630df0aa"
+        ],
+        "evidence_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-3b68fced094f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+        "claim_id": "claim-926ad06aeb43cb23",
+        "evidence_block_ids": [
+          "blk-7f8802dd9c3c630df0aa"
+        ],
+        "evidence_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-3b68fced094f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "通过要素关系数据反映城市间相互作用，由此形成“城市网络”，城市与区域的研究视角开始转向“流”空间及其映射的城市网络。",
+        "claim_id": "claim-923330f4a6d34135",
+        "evidence_block_ids": [
+          "blk-7f8802dd9c3c630df0aa"
+        ],
+        "evidence_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-3b68fced094f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+        "claim_id": "claim-bee3fb4aafbadb0d",
+        "evidence_block_ids": [
+          "blk-7f8802dd9c3c630df0aa"
+        ],
+        "evidence_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-3b68fced094f",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-91c305fa9dc9d61d",
+          "claim-8cae32ff1a39b4c9",
+          "claim-518dee118cdd0700",
+          "claim-926ad06aeb43cb23",
+          "claim-923330f4a6d34135",
+          "claim-bee3fb4aafbadb0d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+        "reason": "该证据包含分析框架的核心要素：理论前提（地理学第一定律）、转变动因（时空压缩效应）、核心概念定义（流空间、城市网络）及研究视角转换（从内部特征转向外部关系），直接回答中心问题。"
+      }
+    ],
+    "group_id": "topic-b158b0422173",
+    "members": [
+      {
+        "contribution": "该证据确立了从“场所空间”向“流空间”转变的理论基础，解释了物理邻近性在信息化背景下的局限性，并定义了通过要素关系数据反映城市相互作用以形成“城市网络”的研究视角转换。",
+        "ref_id": "ref-3b68fced094f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-91c305fa9dc9d61d",
+        "draft_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8cae32ff1a39b4c9",
+        "draft_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-518dee118cdd0700",
+        "draft_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-926ad06aeb43cb23",
+        "draft_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-923330f4a6d34135",
+        "draft_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bee3fb4aafbadb0d",
+        "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-91c305fa9dc9d61d",
+          "claim-8cae32ff1a39b4c9",
+          "claim-926ad06aeb43cb23",
+          "claim-bee3fb4aafbadb0d"
+        ],
+        "draft_excerpt": "基于地理学第一定律与“时空压缩效应”，通过要素关系数据反映城市间相互作用，研究视角由“场所空间”转向“流空间”，形成以不同尺度要素流作用下的城市网络。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4bb5907d1f002eb8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-91c305fa9dc9d61d"
+        ],
+        "draft_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f579846bf2266cd4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8cae32ff1a39b4c9"
+        ],
+        "draft_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a27b66e54bdc897d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-518dee118cdd0700"
+        ],
+        "draft_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e43284b43a90222",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-926ad06aeb43cb23"
+        ],
+        "draft_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-17429181348b441b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-923330f4a6d34135"
+        ],
+        "draft_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0e2084d64e67180b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bee3fb4aafbadb0d"
+        ],
+        "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+        "finding": "draft_excerpt",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fb94a402607a8abf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-91c305fa9dc9d61d",
+          "draft_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8cae32ff1a39b4c9",
+          "draft_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-518dee118cdd0700",
+          "draft_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-926ad06aeb43cb23",
+          "draft_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-923330f4a6d34135",
+          "draft_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bee3fb4aafbadb0d",
+          "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-91c305fa9dc9d61d",
+            "claim-8cae32ff1a39b4c9",
+            "claim-926ad06aeb43cb23",
+            "claim-bee3fb4aafbadb0d"
+          ],
+          "draft_excerpt": "基于地理学第一定律与“时空压缩效应”，通过要素关系数据反映城市间相互作用，研究视角由“场所空间”转向“流空间”，形成以不同尺度要素流作用下的城市网络。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-4bb5907d1f002eb8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-91c305fa9dc9d61d"
+          ],
+          "draft_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-f579846bf2266cd4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8cae32ff1a39b4c9"
+          ],
+          "draft_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-a27b66e54bdc897d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-518dee118cdd0700"
+          ],
+          "draft_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-1e43284b43a90222",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-926ad06aeb43cb23"
+          ],
+          "draft_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-17429181348b441b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-923330f4a6d34135"
+          ],
+          "draft_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-0e2084d64e67180b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bee3fb4aafbadb0d"
+          ],
+          "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+          "finding": "draft_excerpt",
+          "sentence_id": "sentence-fb94a402607a8abf",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "f55371cfd1bbb9e715af8b19ecafb15f8441b9fc664f4f21e0e1913de6cbfcdb",
+  "coverage_history": [
+    {
+      "draft_sha256": "7c09d06945a8602c165c7ac0fd64954aaa6ee8bd41bd0e728917630b50906466",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-91c305fa9dc9d61d",
+            "draft_excerpt": "传统地理学研究依据地理学第一定律，认为物理邻近是促成地理现象空间聚合及形成空间联系的关键前提。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8cae32ff1a39b4c9",
+            "draft_excerpt": "然而，随着全球化与信息化的快速发展，时空压缩效应逐渐显现，区域研究视角开始由传统的“场所空间”转向“流空间”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-518dee118cdd0700",
+            "draft_excerpt": "“流空间”概念由城市社会学家Castells于1989年首次提出，定义为“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-926ad06aeb43cb23",
+            "draft_excerpt": "在流空间背景下，研究重点从城市内部特征转向外部关系，通过要素关系数据来反映城市间的相互作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-923330f4a6d34135",
+            "draft_excerpt": "由此形成的“城市网络”成为城市与区域研究的新视角，重点考察流空间及其映射的城市网络结构。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bee3fb4aafbadb0d",
+            "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络，已成为当前城市地理学的研究热点，为理解成渝地区双城经济圈等区域的空间结构提供了新的分析框架。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-91c305fa9dc9d61d",
+              "claim-8cae32ff1a39b4c9",
+              "claim-926ad06aeb43cb23",
+              "claim-923330f4a6d34135"
+            ],
+            "draft_excerpt": "基于地理学第一定律与时空压缩效应，研究视角由场所空间转向流空间，通过要素关系数据构建反映城市间相互作用的城市网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a62df6e69e8a220a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-91c305fa9dc9d61d"
+            ],
+            "draft_excerpt": "传统地理学研究依据地理学第一定律，认为物理邻近是促成地理现象空间聚合及形成空间联系的关键前提。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e94760f7c8288e57",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8cae32ff1a39b4c9"
+            ],
+            "draft_excerpt": "然而，随着全球化与信息化的快速发展，时空压缩效应逐渐显现，区域研究视角开始由传统的“场所空间”转向“流空间”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e00a1d96ad8b08e0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-518dee118cdd0700"
+            ],
+            "draft_excerpt": "“流空间”概念由城市社会学家Castells于1989年首次提出，定义为“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff6f30174e420b15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这一概念标志着对区域空间结构认知的根本性转变。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7fe5aca06f09243b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-926ad06aeb43cb23"
+            ],
+            "draft_excerpt": "在流空间背景下，研究重点从城市内部特征转向外部关系，通过要素关系数据来反映城市间的相互作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d1dedfb458b8f494",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-923330f4a6d34135"
+            ],
+            "draft_excerpt": "由此形成的“城市网络”成为城市与区域研究的新视角，重点考察流空间及其映射的城市网络结构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9d5663ad5e9aa44",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bee3fb4aafbadb0d"
+            ],
+            "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络，已成为当前城市地理学的研究热点，为理解成渝地区双城经济圈等区域的空间结构提供了新的分析框架。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-76beccb01dbae0f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "这一概念标志着对区域空间结构认知的根本性转变。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络，已成为当前城市地理学的研究热点，为理解成渝地区双城经济圈等区域的空间结构提供了新的分析框架。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "f55371cfd1bbb9e715af8b19ecafb15f8441b9fc664f4f21e0e1913de6cbfcdb",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-91c305fa9dc9d61d",
+            "draft_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8cae32ff1a39b4c9",
+            "draft_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-518dee118cdd0700",
+            "draft_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-926ad06aeb43cb23",
+            "draft_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-923330f4a6d34135",
+            "draft_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bee3fb4aafbadb0d",
+            "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-91c305fa9dc9d61d",
+              "claim-8cae32ff1a39b4c9",
+              "claim-926ad06aeb43cb23",
+              "claim-bee3fb4aafbadb0d"
+            ],
+            "draft_excerpt": "基于地理学第一定律与“时空压缩效应”，通过要素关系数据反映城市间相互作用，研究视角由“场所空间”转向“流空间”，形成以不同尺度要素流作用下的城市网络。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4bb5907d1f002eb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-91c305fa9dc9d61d"
+            ],
+            "draft_excerpt": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f579846bf2266cd4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8cae32ff1a39b4c9"
+            ],
+            "draft_excerpt": "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a27b66e54bdc897d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-518dee118cdd0700"
+            ],
+            "draft_excerpt": "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e43284b43a90222",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-926ad06aeb43cb23"
+            ],
+            "draft_excerpt": "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-17429181348b441b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-923330f4a6d34135"
+            ],
+            "draft_excerpt": "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e2084d64e67180b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bee3fb4aafbadb0d"
+            ],
+            "draft_excerpt": "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fb94a402607a8abf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系。由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。",
+    "description": "基于地理学第一定律与“时空压缩效应”，通过要素关系数据反映城市间相互作用，研究视角由“场所空间”转向“流空间”，形成以不同尺度要素流作用下的城市网络。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-b158b0422173",
+      "description": "基于地理学第一定律与“时空压缩效应”，通过要素关系数据反映城市间相互作用，研究视角由“场所空间”转向“流空间”，形成以不同尺度要素流作用下的城市网络。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。",
+        "随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。",
+        "“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。",
+        "在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系",
+        "由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。",
+        "基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。"
+      ],
+      "evidence_block_ids": [
+        "blk-7f8802dd9c3c630df0aa"
+      ],
+      "page_end": 178,
+      "page_start": 178,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成渝地区双城经济圈",
+        "time": "2021年"
+      },
+      "section_path": [
+        "建言献策篇",
+        "成渝地区双城经济圈流空间网络特征",
+        "（1.西南大学经济管理学院；2.西南大学地理科学学院）"
+      ],
+      "semantic_signature": {},
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成渝地区双城经济圈流空间网络特征",
+      "type": "分析框架"
+    },
+    "title": "成渝地区双城经济圈流空间网络特征"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-3b68fced094f:bundle-2d559ed9ebd7",
+      "excluded_fragments": [],
+      "ref_id": "ref-3b68fced094f",
+      "source_blocks": [
+        {
+          "block_id": "blk-7f8802dd9c3c630df0aa",
+          "page_number": 178,
+          "text": "根据地理学第一定律，物理上的邻近是促成各种地理现象产生空间聚合的关键，是形成地理空间联系的重要前提。随着全球化、信息化的快速发展，“时空压缩效应”逐渐显现，区域研究由“场所空间”转向“流空间”（space of flows）。“流空间”概念由城市社会学家Castells在1989年首次提出，是指“不必地理邻接即可实现共享时间之社会实践的物质组织”。在流空间背景下，通过要素关系数据反映城市间的相互作用，促使区域空间结构的研究从城市内部特征转向外部关系，由此形成“城市网络”，城市与区域的研究视角也开始转向“流”空间及其映射的城市网络。基于不同尺度要素流作用下的城市流空间网络已成为当前城市地理学的研究热点。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-b158b0422173",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-3b68fced094f"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

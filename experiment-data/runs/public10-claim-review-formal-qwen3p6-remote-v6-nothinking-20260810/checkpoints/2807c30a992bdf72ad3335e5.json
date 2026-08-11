@@ -1,0 +1,1369 @@
+{
+  "contract": {
+    "canonical_question": "成都区域协同创新与产业合作的总体规模、空间范围及主要合作形式是什么？",
+    "claims": [
+      {
+        "claim": "成都与省内市（州）及国内省市协同创新以产学研协同创新、军民融合发展为主。",
+        "claim_id": "claim-73a64d9b019c8fb1",
+        "evidence_block_ids": [
+          "blk-e5e4fa63f6d524adb197"
+        ],
+        "evidence_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主",
+        "evidence_id": "ref-176c595b950d:bundle-b640cadeb2b8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-176c595b950d",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+        "claim_id": "claim-73854490560ea6b7",
+        "evidence_block_ids": [
+          "blk-47031ebef4afac23062d"
+        ],
+        "evidence_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主",
+        "evidence_id": "ref-176c595b950d:bundle-b640cadeb2b8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-176c595b950d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+        "claim_id": "claim-f002bda18724748e",
+        "evidence_block_ids": [
+          "blk-47031ebef4afac23062d"
+        ],
+        "evidence_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等",
+        "evidence_id": "ref-176c595b950d:bundle-b640cadeb2b8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-176c595b950d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+        "claim_id": "claim-82d426f0dfccf693",
+        "evidence_block_ids": [
+          "blk-a2eb069d60621cf7e71c"
+        ],
+        "evidence_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等",
+        "evidence_id": "ref-176c595b950d:bundle-b640cadeb2b8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          63
+        ],
+        "ref_id": "ref-176c595b950d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+        "claim_id": "claim-473e89152d445fd9",
+        "evidence_block_ids": [
+          "blk-92016e54a6e68d0e3e0d"
+        ],
+        "evidence_excerpt": "国内层面，成都实际到位内资6300.69亿元、同比增长 \\(9.6\\%\\) ，其中，主要来自北京、广东、上海、浙江、江苏、重庆6省市。省内层面，通过开展“成都平原经济区”活动，成都与省内市（州）合作也达到一定规模，2019年",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          26
+        ],
+        "ref_id": "ref-2f54d70bede4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+        "claim_id": "claim-b6c9ae4c5734ce08",
+        "evidence_block_ids": [
+          "blk-8a0ae0e98031fc28d245"
+        ],
+        "evidence_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          26
+        ],
+        "ref_id": "ref-2f54d70bede4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+        "claim_id": "claim-c3d7c43bdba82acd",
+        "evidence_block_ids": [
+          "blk-84ce7485b1a7bfb5f00d"
+        ],
+        "evidence_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          26
+        ],
+        "ref_id": "ref-2f54d70bede4",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+        "claim_id": "claim-b293fd479340bef6",
+        "evidence_block_ids": [
+          "blk-84ce7485b1a7bfb5f00d"
+        ],
+        "evidence_excerpt": "从国内层面来看，成都与京津冀、长三角、粤港澳大湾区等区域合作较多",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          26
+        ],
+        "ref_id": "ref-2f54d70bede4",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+        "claim_id": "claim-6a8b42dd82fd0a7a",
+        "evidence_block_ids": [
+          "blk-7da87dbef1ba61a7e729"
+        ],
+        "evidence_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          26
+        ],
+        "ref_id": "ref-2f54d70bede4",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+        "claim_id": "claim-e2d193e7471d49b8",
+        "evidence_block_ids": [
+          "blk-90dcc876dc87e3d04bab"
+        ],
+        "evidence_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          26
+        ],
+        "ref_id": "ref-2f54d70bede4",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-73a64d9b019c8fb1",
+          "claim-73854490560ea6b7",
+          "claim-f002bda18724748e",
+          "claim-82d426f0dfccf693"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-176c595b950d:bundle-b640cadeb2b8",
+        "reason": "该Bundle包含协同创新的主体、领域、形式及空间范围等核心定性事实，是回答中心问题中“合作形式”与“创新协同”部分的关键证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-473e89152d445fd9",
+          "claim-b6c9ae4c5734ce08",
+          "claim-c3d7c43bdba82acd",
+          "claim-b293fd479340bef6",
+          "claim-6a8b42dd82fd0a7a",
+          "claim-e2d193e7471d49b8"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+        "reason": "该Bundle包含产业合作规模（内资、签约额）、空间范围（省市分布）及产业领域（先进制造等）的核心定量与定性事实，是回答中心问题中“产业合作”部分的关键证据。"
+      }
+    ],
+    "group_id": "topic-ba7efca1a29d",
+    "members": [
+      {
+        "contribution": "提供协同创新的主体、领域（产学研、军民融合）及合作形式（协议、共建平台）等定性事实，补充产业合作的具体机制。",
+        "ref_id": "ref-176c595b950d",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供产业合作规模（内资、签约额）、空间范围（省市分布）及产业领域（先进制造等）的定量与定性事实，构成核心数据支撑。",
+        "ref_id": "ref-2f54d70bede4",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-73a64d9b019c8fb1",
+        "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-73854490560ea6b7",
+        "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f002bda18724748e",
+        "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-82d426f0dfccf693",
+        "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e2d193e7471d49b8",
+        "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-473e89152d445fd9",
+        "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b6c9ae4c5734ce08",
+        "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c3d7c43bdba82acd",
+        "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b293fd479340bef6",
+        "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6a8b42dd82fd0a7a",
+        "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9a699d325bad64e5",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-73a64d9b019c8fb1"
+        ],
+        "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-40f5c8b6bd0c6e8f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-73854490560ea6b7"
+        ],
+        "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c87985b1c913c631",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f002bda18724748e"
+        ],
+        "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-795feaa845973b2b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-82d426f0dfccf693"
+        ],
+        "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c84ba49e8c37ed38",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e2d193e7471d49b8"
+        ],
+        "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-48db25ed6817e248",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b293fd479340bef6"
+        ],
+        "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0ccd17249fd48678",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6a8b42dd82fd0a7a"
+        ],
+        "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-09fe492abd890171",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-473e89152d445fd9"
+        ],
+        "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-187ea58dfef6da07",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b6c9ae4c5734ce08"
+        ],
+        "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-242f19ee0809f286",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c3d7c43bdba82acd"
+        ],
+        "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a69f9e42bd58a35c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-73a64d9b019c8fb1",
+          "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-73854490560ea6b7",
+          "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f002bda18724748e",
+          "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-82d426f0dfccf693",
+          "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e2d193e7471d49b8",
+          "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-473e89152d445fd9",
+          "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b6c9ae4c5734ce08",
+          "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c3d7c43bdba82acd",
+          "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b293fd479340bef6",
+          "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6a8b42dd82fd0a7a",
+          "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-9a699d325bad64e5",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-73a64d9b019c8fb1"
+          ],
+          "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-40f5c8b6bd0c6e8f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-73854490560ea6b7"
+          ],
+          "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-c87985b1c913c631",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f002bda18724748e"
+          ],
+          "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+          "finding": "supported",
+          "sentence_id": "sentence-795feaa845973b2b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-82d426f0dfccf693"
+          ],
+          "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+          "finding": "supported",
+          "sentence_id": "sentence-c84ba49e8c37ed38",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e2d193e7471d49b8"
+          ],
+          "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-48db25ed6817e248",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b293fd479340bef6"
+          ],
+          "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+          "finding": "supported",
+          "sentence_id": "sentence-0ccd17249fd48678",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6a8b42dd82fd0a7a"
+          ],
+          "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+          "finding": "supported",
+          "sentence_id": "sentence-09fe492abd890171",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-473e89152d445fd9"
+          ],
+          "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+          "finding": "supported",
+          "sentence_id": "sentence-187ea58dfef6da07",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b6c9ae4c5734ce08"
+          ],
+          "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-242f19ee0809f286",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c3d7c43bdba82acd"
+          ],
+          "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+          "finding": "supported",
+          "sentence_id": "sentence-a69f9e42bd58a35c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "9bc4970fc9feae5699ec950555722e093803c97d2194fef9e27fc4c23a44c35d",
+  "coverage_history": [
+    {
+      "draft_sha256": "0d06b7c1ef4a9753f708cdb9f99ffd3b31c34e3f3200657bbcca32b9ee374c32",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-73a64d9b019c8fb1",
+            "draft_excerpt": "成都与省内市（州）及国内省市的协同创新均以产学研协同创新和军民融合发展为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-73854490560ea6b7",
+            "draft_excerpt": "合作主体主要为政府、高校院所及企业，双方通过签订协议建立合作关系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b293fd479340bef6",
+            "draft_excerpt": "在国内层面，成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2d193e7471d49b8",
+            "draft_excerpt": "产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体以及举办投资推介会为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82d426f0dfccf693",
+            "draft_excerpt": "成都与国内区域的合作形式多样化，包括签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、交流会以及共办双创活动等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a8b42dd82fd0a7a",
+            "draft_excerpt": "成都与省内外区域的产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3d7c43bdba82acd",
+            "draft_excerpt": "在省内层面，成都与省内20个市（州）均开展了合作，合作范围广泛。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b6c9ae4c5734ce08",
+            "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-473e89152d445fd9",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-473e89152d445fd9 is missing hard anchors from the claim: ['2019年']; claim='2019年，成都实际到位内资6300.69亿元、同比增长9.6%。'; excerpt='从国内层面来看，成都实际到位内资6300.69亿元，同比增长9.6%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f002bda18724748e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都在省内市州及国内省市层面的协同创新与产业合作规模持续扩大，实际到位内资显著增长。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c3265a20229e9c5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-73a64d9b019c8fb1"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市的协同创新均以产学研协同创新和军民融合发展为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c97aadc579b2d1c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-73854490560ea6b7"
+            ],
+            "draft_excerpt": "合作主体主要为政府、高校院所及企业，双方通过签订协议建立合作关系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c55f35fda1b4d6e6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b293fd479340bef6"
+            ],
+            "draft_excerpt": "在国内层面，成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dd8f3c0f31c2a72c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2d193e7471d49b8"
+            ],
+            "draft_excerpt": "产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体以及举办投资推介会为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-88a31c877ecf1d89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-82d426f0dfccf693"
+            ],
+            "draft_excerpt": "成都与国内区域的合作形式多样化，包括签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、交流会以及共办双创活动等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb78a32aed3b2d61",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a8b42dd82fd0a7a"
+            ],
+            "draft_excerpt": "成都与省内外区域的产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a10981bbb199aa1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3d7c43bdba82acd"
+            ],
+            "draft_excerpt": "在省内层面，成都与省内20个市（州）均开展了合作，合作范围广泛。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ff8f1bc977bb918",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过开展“成都平原经济区”活动，成都与省内市（州）的合作达到一定规模。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6732d8edb5839c6a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b6c9ae4c5734ce08"
+            ],
+            "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-242f19ee0809f286",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-473e89152d445fd9"
+            ],
+            "draft_excerpt": "从国内层面来看，成都实际到位内资6300.69亿元，同比增长9.6%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37f10ec0379c8632",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这些内资主要来自北京、广东、上海、浙江、江苏、重庆6省市。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fda1ad9e9b86331e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都在省内市州及国内省市层面的协同创新与产业合作规模持续扩大，实际到位内资显著增长。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "通过开展“成都平原经济区”活动，成都与省内市（州）的合作达到一定规模。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "这些内资主要来自北京、广东、上海、浙江、江苏、重庆6省市。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "6ee61270dff25b3516b4d7b53559be00496a49de4194256e635d7336c9bdbe20",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-73a64d9b019c8fb1",
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-73854490560ea6b7",
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f002bda18724748e",
+            "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82d426f0dfccf693",
+            "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2d193e7471d49b8",
+            "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b293fd479340bef6",
+            "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a8b42dd82fd0a7a",
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-473e89152d445fd9",
+            "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b6c9ae4c5734ce08",
+            "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3d7c43bdba82acd",
+            "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+            "finding": "draft_sentence",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都在省内市州及国内省市层面的协同创新与产业合作规模持续扩大，实际到位内资显著增长。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c3265a20229e9c5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-73a64d9b019c8fb1"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40f5c8b6bd0c6e8f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-73854490560ea6b7"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c87985b1c913c631",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f002bda18724748e"
+            ],
+            "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-795feaa845973b2b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-82d426f0dfccf693"
+            ],
+            "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c84ba49e8c37ed38",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2d193e7471d49b8"
+            ],
+            "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-48db25ed6817e248",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b293fd479340bef6"
+            ],
+            "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ccd17249fd48678",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a8b42dd82fd0a7a"
+            ],
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09fe492abd890171",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-473e89152d445fd9"
+            ],
+            "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-187ea58dfef6da07",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b6c9ae4c5734ce08"
+            ],
+            "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-242f19ee0809f286",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3d7c43bdba82acd"
+            ],
+            "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+            "finding": "draft_sentence",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a69f9e42bd58a35c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都在省内市州及国内省市层面的协同创新与产业合作规模持续扩大，实际到位内资显著增长。",
+            "finding": "draft_sentence"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9bc4970fc9feae5699ec950555722e093803c97d2194fef9e27fc4c23a44c35d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-73a64d9b019c8fb1",
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-73854490560ea6b7",
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f002bda18724748e",
+            "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82d426f0dfccf693",
+            "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2d193e7471d49b8",
+            "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-473e89152d445fd9",
+            "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b6c9ae4c5734ce08",
+            "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3d7c43bdba82acd",
+            "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b293fd479340bef6",
+            "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a8b42dd82fd0a7a",
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a699d325bad64e5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-73a64d9b019c8fb1"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40f5c8b6bd0c6e8f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-73854490560ea6b7"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c87985b1c913c631",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f002bda18724748e"
+            ],
+            "draft_excerpt": "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-795feaa845973b2b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-82d426f0dfccf693"
+            ],
+            "draft_excerpt": "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c84ba49e8c37ed38",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2d193e7471d49b8"
+            ],
+            "draft_excerpt": "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-48db25ed6817e248",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b293fd479340bef6"
+            ],
+            "draft_excerpt": "成都与京津冀、长三角、粤港澳大湾区等区域合作较多。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ccd17249fd48678",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a8b42dd82fd0a7a"
+            ],
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09fe492abd890171",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-473e89152d445fd9"
+            ],
+            "draft_excerpt": "2019年，成都实际到位内资6300.69亿元、同比增长9.6%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-187ea58dfef6da07",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b6c9ae4c5734ce08"
+            ],
+            "draft_excerpt": "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-242f19ee0809f286",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3d7c43bdba82acd"
+            ],
+            "draft_excerpt": "与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a69f9e42bd58a35c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主。成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等。成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等。从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。成都与京津冀、长三角、粤港澳大湾区等区域合作较多。成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。\n\n- 2019年，成都实际到位内资6300.69亿元、同比增长9.6%。\n- 2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。\n- 与省内20个市（州）均开展了合作，合作范围覆盖广泛。",
+    "description": "成都与省内市（州）及国内省市在协同创新与产业合作方面以签订协议、共建平台等形式为主，合作领域涵盖先进制造业等多个细分领域，2019年实际到位内资6300.69亿元。",
+    "ref": {
+      "asset_hints": [
+        "image-059"
+      ],
+      "concept_id": "topic-ba7efca1a29d",
+      "description": "成都在省内市州及国内省市层面的协同创新与产业合作规模持续扩大，实际到位内资显著增长。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主",
+        "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主",
+        "成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等",
+        "成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等",
+        "国内层面，成都实际到位内资6300.69亿元、同比增长 \\(9.6\\%\\) ，其中，主要来自北京、广东、上海、浙江、江苏、重庆6省市。省内层面，通过开展“成都平原经济区”活动，成都与省内市（州）合作也达到一定规模，2019年",
+        "2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。",
+        "与省内20个市（州）均开展了合作，合作范围覆盖广泛",
+        "从国内层面来看，成都与京津冀、长三角、粤港澳大湾区等区域合作较多",
+        "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。",
+        "从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。"
+      ],
+      "evidence_block_ids": [
+        "blk-e5e4fa63f6d524adb197",
+        "blk-47031ebef4afac23062d",
+        "blk-a2eb069d60621cf7e71c",
+        "blk-92016e54a6e68d0e3e0d",
+        "blk-8a0ae0e98031fc28d245",
+        "blk-84ce7485b1a7bfb5f00d",
+        "blk-7da87dbef1ba61a7e729",
+        "blk-90dcc876dc87e3d04bab"
+      ],
+      "page_end": 76,
+      "page_start": 26,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都区域协同创新与产业合作总体情况",
+      "type": "分析框架"
+    },
+    "title": "成都区域协同创新与产业合作总体情况"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-176c595b950d:bundle-b640cadeb2b8",
+      "excluded_fragments": [],
+      "ref_id": "ref-176c595b950d",
+      "source_blocks": [
+        {
+          "block_id": "blk-42b6e7e5756ad24cf89a",
+          "page_number": 62,
+          "text": "成都与省内市（州）在区域协同创新方面建立了全面合作关系，与国内省市的合作范围也在不断拓展。在省内层面，截至2018年底成都已与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）建立了合作关系，尤其是随着成都平原经济区协同发展进程的加速，成都与环成都经济圈的合作范围不断扩大，与其它7市在区域协同创新方面形成了良好的互动。在国内层面，成都与东部沿海、中西部、东北区域均建立了合作关系，与东部沿海省市合作较多，主要集中于京津冀及长三角地区，且合作频率较高，其中与北京、上海、江苏、浙江等省市的合作最为紧密。"
+        },
+        {
+          "block_id": "blk-e5e4fa63f6d524adb197",
+          "page_number": 62,
+          "text": "成都与省内市（州）及国内省市协同创新均以产学研协同创新、军民融合发展为主，集中于成果研发、创新成果孵化转化、成果产业化等领域，基本覆盖创新链各环节。成果研发方面与省内市（州）以共建研究院、技术协同、科研合作、创新平台共建等为主，与国内省市主要基于具体的产业共建创新平台及研发平台、共建创新联盟；成果孵化转化方面均以建设孵化器以及通过签订协议进行成果孵化转化为主；成果产业化方面以具体行业或项目为基础进行合作。另外，军民融合发展合作内容以具体项目开发、两用技术开发为主。"
+        },
+        {
+          "block_id": "blk-47031ebef4afac23062d",
+          "page_number": 62,
+          "text": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主，此外还有共建研究院、共建技术合作中心等多种形式，合作形式较为多元化。成都与省内市（州）签订的协议类型主要有战略合作协议、框架合作协议、市校合作协议、全面合作协议等，此外还有举行工作推进会、合作座谈会、对接推进会、共建"
+        },
+        {
+          "block_id": "blk-a2eb069d60621cf7e71c",
+          "page_number": 63,
+          "text": "研究院、共建产业带等多种合作形式。成都与国内区域的合作形式有签订合作协议、共建科技园、搭建创新平台、共建研究院、共建技术合作中心、举行联席会议、举行交流会、共办双创活动等，与省内层面相比合作形式更加多样化；签订的协议类型主要有框架合作协议、全面合作协议、投资合作协议、项目协议、技术合作协议、合作备忘录等，与省内层面相比，签订的协议内容更加具体。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-2f54d70bede4:bundle-a2f59cd069d5",
+      "excluded_fragments": [],
+      "ref_id": "ref-2f54d70bede4",
+      "source_blocks": [
+        {
+          "block_id": "blk-8a0ae0e98031fc28d245",
+          "page_number": 26,
+          "text": "成都对外产业协同加快推进，合作规模不断扩大。国内层面，成都实际到位内资6300.69亿元、同比增长 \\(9.6\\%\\) ，主要来自北京、广东、上海、浙江、江苏、重庆6省市。省内层面，通过持续深入开展“成都企业市州行”活动，成都与省内市(州)合作也达到了新高度，2019年，“成都企业市(州)行”活动累计签约项目238个，计划总投资1596亿元。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-92016e54a6e68d0e3e0d",
+          "page_number": 26,
+          "text": "成都对外产业协同加快推进，合作规模不断扩大。国外层面，2019年，成都作为南方丝绸之路的起点、“一带一路”和长江经济带的重要节点，已与全球235个国家和地区建立经贸关系，落户成都的世界500强企业已达301家，世界500强企业共在成都投资项目51个，总金额1450.98亿元。国内层面，成都实际到位内资6300.69亿元、同比增长 \\(9.6\\%\\) ，其中，主要来自北京、广东、上海、浙江、江苏、重庆6省市。省内层面，通过开展“成都平原经济区”活动，成都与省内市（州）合作也达到一定规模，2019年，持续推进“成都企业市（州）行”活动，签约项目238个，计划总投资1596亿元。"
+        },
+        {
+          "block_id": "blk-947763cb47eb93d8d483",
+          "page_number": 26,
+          "text": "原始 PDF 第 26 页图片"
+        },
+        {
+          "block_id": "blk-84ce7485b1a7bfb5f00d",
+          "page_number": 26,
+          "text": "成都产业合作空间范围日趋广泛，已遍布国内大部分省市、相关重要经济区域。从省内层面来看，2019年，成都与德阳、眉山、资阳、绵阳、雅安、乐山、宜宾等省内15个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围覆盖广泛，其中与德阳、眉山、雅安、泸州等城市合作较为紧密。从国内层面来看，成都与京津冀、长三角、粤港澳大湾区等区域合作较多，其中与广东、江苏、浙江、北京等合作最为频繁；在中西部地区主要与重庆、云南、甘肃、贵州、陕西等省市开展了相关产业合作，并逐渐加深同中西部地区各省市之间的合作关系。"
+        },
+        {
+          "block_id": "blk-7da87dbef1ba61a7e729",
+          "page_number": 26,
+          "text": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、新经济、都市现代农业等产业的多个细分领域。先进制造业方面，成都与国内、省内区域在电子信息、装备制造、医疗健康、新材料等领域均开展了合作，而在绿色食品领域主要与省内城市合作。现代服务业方面，成都与国内、省内区域在会议会展、金融服务、现代物流、文旅服务、商务商贸等多个领域均开展了合作。新经济产业方面，成都与国内、省内区域在“人工智能+”“大数据+”“5G+”和“供应链+”产业领域均开展了合作。都市现代农业方面，成都与省内城市合作较多，主要集中于农业生产基地建立和农业精深加工领域，而与国内其他区域主要在农产品加工、农业产销对接。"
+        },
+        {
+          "block_id": "blk-90dcc876dc87e3d04bab",
+          "page_number": 26,
+          "text": "成都与其他区域产业合作形式较为丰富。从省内层面看，产业合作形式主要有共建产业园基地、建立相关载体、承接产业转移、联合举办招商推介会、跨区域设立分支机构、开展产销对接等。其中在先进制造业领域主要以产业转移承接，工业园区（或基地）共建为主；在现代服务业领域主要以签订合作协议或备忘录、设立相关载体、举办相关会议、跨区域设立分支机构或连锁店等为主；在新经济领域主要以政企签订战略合作协议、举办推介会和搭建科研成果育成平台为主；在都市现代农业主要以农产品产销对接为主。从国内层面看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。具体而言，在先进制造业合作方面，主要采取政府与企业间签订战略合作协议、企业项目跨区域投资、开展产业投资推介会等合作形式，现代服务业主要以共建基地或平台、签署合作协议、活动推进项目建设等为主，新经济主要以政府和企业签订项目投资合作协议为主，都市现代农业主要以共建农产品深加工基地为主。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ba7efca1a29d",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-176c595b950d",
+    "ref-2f54d70bede4"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

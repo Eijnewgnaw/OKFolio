@@ -1,0 +1,1754 @@
+{
+  "contract": {
+    "canonical_question": "成都平原经济区区域创新体系的建设现状、核心问题及协同发展战略是什么？",
+    "claims": [
+      {
+        "claim": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+        "claim_id": "claim-b01c16d1e363cde9",
+        "evidence_block_ids": [
+          "blk-dd64c41bbccc5645864e"
+        ],
+        "evidence_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成都平原经济区地区生产总值达到3.0万亿元，占全省比重60.7%。",
+        "claim_id": "claim-11da3ea4e60369d3",
+        "evidence_block_ids": [
+          "blk-29ddab08f5f30a5e0a25"
+        ],
+        "evidence_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {
+          "time": "2020年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，经济区地方一般公共预算收入达到2217.2亿元，占全省52%。",
+        "claim_id": "claim-4214b19fe09b08d4",
+        "evidence_block_ids": [
+          "blk-29ddab08f5f30a5e0a25"
+        ],
+        "evidence_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%\\) ；地方一般公共预算收入达到2217.2亿元，占全省 \\(52\\%",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {
+          "time": "2020年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，经济区常住人口达4193万人，占全省50.1%。",
+        "claim_id": "claim-b0ea80aa5ac85eff",
+        "evidence_block_ids": [
+          "blk-29ddab08f5f30a5e0a25"
+        ],
+        "evidence_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%\\) ；地方一般公共预算收入达到2217.2亿元，占全省 \\(52\\%\\) ；常住人口达4193万人，占全省 \\(50.1\\%",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {
+          "time": "2020年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经济区拥有各类高等院校达93家、科研院所150家。",
+        "claim_id": "claim-84e32e84220efcea",
+        "evidence_block_ids": [
+          "blk-0fd2637425f7745cfaad"
+        ],
+        "evidence_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家，",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+        "claim_id": "claim-e3aba4c0c12ee01c",
+        "evidence_block_ids": [
+          "blk-0fd2637425f7745cfaad"
+        ],
+        "evidence_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的 \\(83.5\\%",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经济区集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+        "claim_id": "claim-8841eea2c36c0ab7",
+        "evidence_block_ids": [
+          "blk-0fd2637425f7745cfaad"
+        ],
+        "evidence_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+        "claim_id": "claim-f2f6b25fe7a61b24",
+        "evidence_block_ids": [
+          "blk-dbeaddad199f0b58d5cb"
+        ],
+        "evidence_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省\\(66.2\\%\\) 和 \\(81\\%",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-1c972006a6e1",
+        "scope": {
+          "time": "2019年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "构建了成都与省内区域合作发展的多维指标体系，涵盖经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面。",
+        "claim_id": "claim-81b7aeccdf09fd47",
+        "evidence_block_ids": [
+          "blk-9d1c8f55b01f7a291704"
+        ],
+        "evidence_excerpt": "构建了成都与省内区域合作发展的多维指标体系。评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升",
+        "evidence_id": "ref-b1c2b7b5ba95:bundle-88544a6ae227",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          73
+        ],
+        "ref_id": "ref-b1c2b7b5ba95",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+        "claim_id": "claim-00d346120502a989",
+        "evidence_block_ids": [
+          "blk-9d1c8f55b01f7a291704"
+        ],
+        "evidence_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升",
+        "evidence_id": "ref-b1c2b7b5ba95:bundle-88544a6ae227",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          73
+        ],
+        "ref_id": "ref-b1c2b7b5ba95",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b01c16d1e363cde9",
+          "claim-11da3ea4e60369d3",
+          "claim-4214b19fe09b08d4",
+          "claim-b0ea80aa5ac85eff",
+          "claim-84e32e84220efcea",
+          "claim-e3aba4c0c12ee01c",
+          "claim-8841eea2c36c0ab7",
+          "claim-f2f6b25fe7a61b24"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+        "reason": "该Bundle包含区域创新体系定义、现状数据、存在问题及战略建议，是回答中心问题的核心证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-81b7aeccdf09fd47",
+          "claim-00d346120502a989"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-b1c2b7b5ba95:bundle-88544a6ae227",
+        "reason": "该Bundle提供合作发展的评价指标体系及总体评价结论，是回答中心问题中合作现状的关键证据。"
+      }
+    ],
+    "group_id": "topic-30d799b6b34f",
+    "members": [
+      {
+        "contribution": "提供区域创新体系理论定义，详述成都平原经济区创新资源集聚现状、存在短板及协同发展战略。",
+        "ref_id": "ref-1c972006a6e1",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成都与省内区域合作发展的多维评价指标体系及总体评价结果，作为合作成效的量化补充。",
+        "ref_id": "ref-b1c2b7b5ba95",
+        "relation": "qualifies"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-b01c16d1e363cde9",
+        "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-81b7aeccdf09fd47",
+        "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-00d346120502a989",
+        "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-11da3ea4e60369d3",
+        "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4214b19fe09b08d4",
+        "draft_excerpt": "",
+        "finding": "draft_excerpt matches evidence_excerpt exactly. 代码门禁降级为 omitted：covered claim attribution claim-4214b19fe09b08d4 is missing hard anchors from the claim: ['2020年']; claim='2020年，经济区地方一般公共预算收入达到2217.2亿元，占全省52%。'; excerpt='地方一般公共预算收入达到2217.2亿元，占全省52%；'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-b0ea80aa5ac85eff",
+        "draft_excerpt": "",
+        "finding": "draft_excerpt matches evidence_excerpt exactly. 代码门禁降级为 omitted：covered claim attribution claim-b0ea80aa5ac85eff is missing hard anchors from the claim: ['2020年']; claim='2020年，经济区常住人口达4193万人，占全省50.1%。'; excerpt='常住人口达4193万人，占全省50.1%。'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-84e32e84220efcea",
+        "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e3aba4c0c12ee01c",
+        "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8841eea2c36c0ab7",
+        "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f2f6b25fe7a61b24",
+        "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+        "finding": "The sentence contains interpretive framing ('基于...定义', '评估...水平') and a summary list not present in the specific claim evidence excerpts. The claims only state:",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-afb33b59c1a6b23a",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-b01c16d1e363cde9"
+        ],
+        "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c52efb1e18db0ee9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-81b7aeccdf09fd47"
+        ],
+        "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-451d1ce6c71edae4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00d346120502a989"
+        ],
+        "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8e180f043f60c2e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-11da3ea4e60369d3"
+        ],
+        "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-92cdb6fa65016aa9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4214b19fe09b08d4"
+        ],
+        "draft_excerpt": "地方一般公共预算收入达到2217.2亿元，占全省52%；",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-34ab56875207cfc7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b0ea80aa5ac85eff"
+        ],
+        "draft_excerpt": "常住人口达4193万人，占全省50.1%。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-992b8f2964999e0f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-84e32e84220efcea"
+        ],
+        "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d8dd1da1c74f5f22",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e3aba4c0c12ee01c"
+        ],
+        "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-83525273980f07b1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8841eea2c36c0ab7"
+        ],
+        "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f2563d3e63bad8db",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f2f6b25fe7a61b24"
+        ],
+        "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+        "finding": "Exact match.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-01223f8f33323baf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+        "finding": "The sentence synthesizes information and adds interpretive context ('基于...定义', '评估...水平') not present in the specific claim evidence excerpts."
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-b01c16d1e363cde9",
+          "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-81b7aeccdf09fd47",
+          "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-00d346120502a989",
+          "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-11da3ea4e60369d3",
+          "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4214b19fe09b08d4",
+          "draft_excerpt": "地方一般公共预算收入达到2217.2亿元，占全省52%；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b0ea80aa5ac85eff",
+          "draft_excerpt": "常住人口达4193万人，占全省50.1%。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-84e32e84220efcea",
+          "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e3aba4c0c12ee01c",
+          "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8841eea2c36c0ab7",
+          "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f2f6b25fe7a61b24",
+          "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+          "finding": "The sentence contains interpretive framing ('基于...定义', '评估...水平') and a summary list not present in the specific claim evidence excerpts. The claims only state:",
+          "sentence_id": "sentence-afb33b59c1a6b23a",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-b01c16d1e363cde9"
+          ],
+          "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-c52efb1e18db0ee9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-81b7aeccdf09fd47"
+          ],
+          "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-451d1ce6c71edae4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-00d346120502a989"
+          ],
+          "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-8e180f043f60c2e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-11da3ea4e60369d3"
+          ],
+          "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-92cdb6fa65016aa9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4214b19fe09b08d4"
+          ],
+          "draft_excerpt": "地方一般公共预算收入达到2217.2亿元，占全省52%；",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-34ab56875207cfc7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b0ea80aa5ac85eff"
+          ],
+          "draft_excerpt": "常住人口达4193万人，占全省50.1%。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-992b8f2964999e0f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-84e32e84220efcea"
+          ],
+          "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-d8dd1da1c74f5f22",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e3aba4c0c12ee01c"
+          ],
+          "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-83525273980f07b1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8841eea2c36c0ab7"
+          ],
+          "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-f2563d3e63bad8db",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f2f6b25fe7a61b24"
+          ],
+          "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+          "finding": "Exact match.",
+          "sentence_id": "sentence-01223f8f33323baf",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+          "finding": "The sentence synthesizes information and adds interpretive context ('基于...定义', '评估...水平') not present in the specific claim evidence excerpts."
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "53dbcb9fbd5347137379c3619835b91a75731137029aea393e57cfbff7ffa435",
+  "coverage_history": [
+    {
+      "draft_sha256": "619869590ca545fb8ae130f2cc6be7160a980fbd81fb21dc92234e3c0b4d0d64",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-81b7aeccdf09fd47",
+            "draft_excerpt": "基于四川省及成都市规划，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00d346120502a989",
+            "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升，但相较杭州、广州等城市尚有提升空间。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-11da3ea4e60369d3",
+            "draft_excerpt": "成都平原经济区发展水平较高，2020年地区生产总值达3.0万亿元（占全省60.7%），地方一般公共预算收入2217.2亿元（占全省52%），常住人口4193万人（占全省50.1%）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4214b19fe09b08d4",
+            "draft_excerpt": "成都平原经济区发展水平较高，2020年地区生产总值达3.0万亿元（占全省60.7%），地方一般公共预算收入2217.2亿元（占全省52%），常住人口4193万人（占全省50.1%）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0ea80aa5ac85eff",
+            "draft_excerpt": "成都平原经济区发展水平较高，2020年地区生产总值达3.0万亿元（占全省60.7%），地方一般公共预算收入2217.2亿元（占全省52%），常住人口4193万人（占全省50.1%）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-84e32e84220efcea",
+            "draft_excerpt": "科教资源高度集聚，拥有各类高等院校93家、科研院所150家，全省63名两院院士均在成都平原经济区，专业技术人员超12万人（占全省83.5%）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e3aba4c0c12ee01c",
+            "draft_excerpt": "科教资源高度集聚，拥有各类高等院校93家、科研院所150家，全省63名两院院士均在成都平原经济区，专业技术人员超12万人（占全省83.5%）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f2f6b25fe7a61b24",
+            "draft_excerpt": "科技创新能力较强，2019年经济区有R&D活动单位数2902家（占全省66.2%）、R&D人员21.88万人（占全省81%），发表科技论文8.3万余篇、获得发明专利授权5107余件，分别占全省的86.2%、96.3%和84.9%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8841eea2c36c0ab7",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b01c16d1e363cde9",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-81b7aeccdf09fd47"
+            ],
+            "draft_excerpt": "基于四川省及成都市规划，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05484f12ccdb07fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都平原经济区作为全省乃至全国创新发展水平较高区域，加快完善区域创新体系对推动成渝地区双城经济圈建设全国有重要影响力的科技创新中心及促进全省经济高质量发展具有重要意义。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b993394ef8af023",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-00d346120502a989"
+            ],
+            "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升，但相较杭州、广州等城市尚有提升空间。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9758f9550e6805b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-11da3ea4e60369d3",
+              "claim-4214b19fe09b08d4",
+              "claim-b0ea80aa5ac85eff"
+            ],
+            "draft_excerpt": "成都平原经济区发展水平较高，2020年地区生产总值达3.0万亿元（占全省60.7%），地方一般公共预算收入2217.2亿元（占全省52%），常住人口4193万人（占全省50.1%）。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37e5ce69861b2aae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84e32e84220efcea",
+              "claim-e3aba4c0c12ee01c"
+            ],
+            "draft_excerpt": "科教资源高度集聚，拥有各类高等院校93家、科研院所150家，全省63名两院院士均在成都平原经济区，专业技术人员超12万人（占全省83.5%）。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e98b762fdd6edd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2f6b25fe7a61b24"
+            ],
+            "draft_excerpt": "科技创新能力较强，2019年经济区有R&D活动单位数2902家（占全省66.2%）、R&D人员21.88万人（占全省81%），发表科技论文8.3万余篇、获得发明专利授权5107余件，分别占全省的86.2%、96.3%和84.9%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d93fe0a93e945f13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "产业结构转型升级，2020年末经济区高新技术企业数量达7225家，高新技术产业营业收入1.5万亿元（占规上工业营业收入31.9%），对规上工业营业收入增长贡献达70.3%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00b84a3a4429fa5e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "西部（成都）科学城建设开局起势，天府实验室强化支撑。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b116f7c1c46b29f5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成德绵国家科技成果转移转化示范区加快建设，2019年实施科技成果转化21712项、技术市场合同成交额达1183亿元。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4eb14ab7bcca747d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "区域科技创新综合实力不强，成都居全国第14位、绵阳居43位，与综合经济实力不匹配；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e309ed5b3cb9132c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年成都市R&D投入强度不到3%，与北京、上海、深圳差距较大。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07bac014ff2acf94",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "创新资源开放共享机制不完善，大量科技创新资源集中于国防军工领域，对地方开放程度不高；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-78279d05c8bfb3c4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "行政壁垒和地方保护主义阻碍创新要素跨区域流动。",
+            "finding": "Claim Contract中未提及行政壁垒和地方保护主义阻碍创新要素流动。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f490c3c7ed6c46cd",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "创新链与产业链融合发展不足，关键核心技术“卡脖子”问题突出；",
+            "finding": "Claim Contract中未提及创新链与产业链融合不足及卡脖子问题。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b7a876a3d4413583",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年高新技术企业营业收入占工业企业营业收入比重成都为43.9%、绵阳为57.8%，科技创新对经济发展支撑能力较弱。",
+            "finding": "Claim Contract中未提及2019年高新技术企业营业收入占比及成都、绵阳的具体数据。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-926ab45fe49504c6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "科技资源主要集中在成都、绵阳两市，两市研发经费投入占经济区85.2%，其他市科技创新实力较弱。",
+            "finding": "Claim Contract中未提及科技资源集中在成都、绵阳及研发经费占比85.2%。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee741fd05af429c8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都平原经济区区域创新体系的建设思路包括打破区域行政界限、突出核心区域带动、协同推进创新平台建设等。",
+            "finding": "Claim Contract中未提及建设思路包括打破行政界限等。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d5d6521c051801ab",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "空间结构构建“一核（成都）引领、一极（绵阳）支撑、一圈（成都都市圈）带动、一带（成绵乐创新发展带）联动、全域覆盖”的创新空间结构。",
+            "finding": "Claim Contract中未提及具体的空间结构构建内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dc4dec1411a20497",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建设战略性科技创新平台，包括加快推进天府国家实验室建设、协同建设国家重大科技基础设施集群（如成都川藏铁路技术创新中心、绵阳大型低速风洞等）及优化区域重点实验室体系。",
+            "finding": "Claim Contract中未提及天府国家实验室、川藏铁路技术创新中心等具体平台建设内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3de9959e89694910",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "高水平建设西部（成都）科学城和中国（绵阳）科技城，促进高新区提档升位打造科技创新基地。",
+            "finding": "Claim Contract中未提及西部科学城、绵阳科技城及高新区提档升位。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bcba25e6bad8b65e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "深化产学研协同创新，强化企业创新主体地位，打造高水平科研院校（所），协同开展关键核心技术攻关及推进军民科技协同创新。",
+            "finding": "Claim Contract中未提及产学研协同创新、企业主体地位及军民科技协同创新。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8377c8ac68580730",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "培育壮大创新人才队伍，实施重大人才计划引进“高精尖缺”人才，壮大青年科技人才队伍。",
+            "finding": "Claim Contract中未提及人才队伍培育及高精尖缺人才引进。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-13733286e340e1d7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "推动科技与经济深度融合，加快推进科技成果转化转化（依托国家技术转移西南中心等），集群发展高新技术产业，打造数字经济发展高地。",
+            "finding": "Claim Contract中未提及科技成果转化、国家技术转移西南中心及数字经济发展高地。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fcb10b9ceb312421",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加强顶层体系设计、深化科技体制改革（如建立科技智库联盟、跨区域联合设立研发机构等）、强化人才资源共享（实行人才评价标准互认制度）及完善协同创新机制（成立成都平原经济区协同创新联席会议制度）。",
+            "finding": "Claim Contract中未提及科技体制改革、智库联盟、人才评价互认及协同创新联席会议制度。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c3c0705cc437e03",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都平原经济区作为全省乃至全国创新发展水平较高区域，加快完善区域创新体系对推动成渝地区双城经济圈建设全国有重要影响力的科技创新中心及促进全省经济高质量发展具有重要意义。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "产业结构转型升级，2020年末经济区高新技术企业数量达7225家，高新技术产业营业收入1.5万亿元（占规上工业营业收入31.9%），对规上工业营业收入增长贡献达70.3%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "西部（成都）科学城建设开局起势，天府实验室强化支撑。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成德绵国家科技成果转移转化示范区加快建设，2019年实施科技成果转化21712项、技术市场合同成交额达1183亿元。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "区域科技创新综合实力不强，成都居全国第14位、绵阳居43位，与综合经济实力不匹配；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年成都市R&D投入强度不到3%，与北京、上海、深圳差距较大。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "创新资源开放共享机制不完善，大量科技创新资源集中于国防军工领域，对地方开放程度不高；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "行政壁垒和地方保护主义阻碍创新要素跨区域流动。",
+            "finding": "Claim Contract中未提及行政壁垒和地方保护主义阻碍创新要素流动。"
+          },
+          {
+            "draft_excerpt": "创新链与产业链融合发展不足，关键核心技术“卡脖子”问题突出；",
+            "finding": "Claim Contract中未提及创新链与产业链融合不足及卡脖子问题。"
+          },
+          {
+            "draft_excerpt": "2019年高新技术企业营业收入占工业企业营业收入比重成都为43.9%、绵阳为57.8%，科技创新对经济发展支撑能力较弱。",
+            "finding": "Claim Contract中未提及2019年高新技术企业营业收入占比及成都、绵阳的具体数据。"
+          },
+          {
+            "draft_excerpt": "科技资源主要集中在成都、绵阳两市，两市研发经费投入占经济区85.2%，其他市科技创新实力较弱。",
+            "finding": "Claim Contract中未提及科技资源集中在成都、绵阳及研发经费占比85.2%。"
+          },
+          {
+            "draft_excerpt": "成都平原经济区区域创新体系的建设思路包括打破区域行政界限、突出核心区域带动、协同推进创新平台建设等。",
+            "finding": "Claim Contract中未提及建设思路包括打破行政界限等。"
+          },
+          {
+            "draft_excerpt": "空间结构构建“一核（成都）引领、一极（绵阳）支撑、一圈（成都都市圈）带动、一带（成绵乐创新发展带）联动、全域覆盖”的创新空间结构。",
+            "finding": "Claim Contract中未提及具体的空间结构构建内容。"
+          },
+          {
+            "draft_excerpt": "建设战略性科技创新平台，包括加快推进天府国家实验室建设、协同建设国家重大科技基础设施集群（如成都川藏铁路技术创新中心、绵阳大型低速风洞等）及优化区域重点实验室体系。",
+            "finding": "Claim Contract中未提及天府国家实验室、川藏铁路技术创新中心等具体平台建设内容。"
+          },
+          {
+            "draft_excerpt": "高水平建设西部（成都）科学城和中国（绵阳）科技城，促进高新区提档升位打造科技创新基地。",
+            "finding": "Claim Contract中未提及西部科学城、绵阳科技城及高新区提档升位。"
+          },
+          {
+            "draft_excerpt": "深化产学研协同创新，强化企业创新主体地位，打造高水平科研院校（所），协同开展关键核心技术攻关及推进军民科技协同创新。",
+            "finding": "Claim Contract中未提及产学研协同创新、企业主体地位及军民科技协同创新。"
+          },
+          {
+            "draft_excerpt": "培育壮大创新人才队伍，实施重大人才计划引进“高精尖缺”人才，壮大青年科技人才队伍。",
+            "finding": "Claim Contract中未提及人才队伍培育及高精尖缺人才引进。"
+          },
+          {
+            "draft_excerpt": "推动科技与经济深度融合，加快推进科技成果转化转化（依托国家技术转移西南中心等），集群发展高新技术产业，打造数字经济发展高地。",
+            "finding": "Claim Contract中未提及科技成果转化、国家技术转移西南中心及数字经济发展高地。"
+          },
+          {
+            "draft_excerpt": "加强顶层体系设计、深化科技体制改革（如建立科技智库联盟、跨区域联合设立研发机构等）、强化人才资源共享（实行人才评价标准互认制度）及完善协同创新机制（成立成都平原经济区协同创新联席会议制度）。",
+            "finding": "Claim Contract中未提及科技体制改革、智库联盟、人才评价互认及协同创新联席会议制度。"
+          },
+          {
+            "draft_excerpt": "8.3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5107",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "86.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "96.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "84.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7225",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1.5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "31.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "70.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "21712",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1183",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "14",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "43",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "43.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "57.8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "85.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "4c58f25d6a0f24a4a794d69aa4b2d3d342a0875e634299f8fe872f731935c76e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b01c16d1e363cde9",
+            "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81b7aeccdf09fd47",
+            "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00d346120502a989",
+            "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-11da3ea4e60369d3",
+            "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4214b19fe09b08d4",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches evidence_excerpt exactly. 代码门禁降级为 omitted：covered claim attribution claim-4214b19fe09b08d4 is missing hard anchors from the claim: ['2020年']; claim='2020年，经济区地方一般公共预算收入达到2217.2亿元，占全省52%。'; excerpt='地方一般公共预算收入达到2217.2亿元，占全省52%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b0ea80aa5ac85eff",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches evidence_excerpt exactly. 代码门禁降级为 omitted：covered claim attribution claim-b0ea80aa5ac85eff is missing hard anchors from the claim: ['2020年']; claim='2020年，经济区常住人口达4193万人，占全省50.1%。'; excerpt='常住人口达4193万人，占全省50.1%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-84e32e84220efcea",
+            "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e3aba4c0c12ee01c",
+            "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8841eea2c36c0ab7",
+            "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f2f6b25fe7a61b24",
+            "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "基于四川省及成都市规划，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+            "finding": "The phrase '基于四川省及成都市规划' (Based on Sichuan Province and Chengdu City plans) is not present in the Claim Contract evidence. The contract states the system was '建",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05484f12ccdb07fb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b01c16d1e363cde9"
+            ],
+            "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+            "finding": "Matches claim-b01c16d1e363cde9.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c52efb1e18db0ee9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81b7aeccdf09fd47"
+            ],
+            "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+            "finding": "Matches claim-81b7aeccdf09fd47.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-451d1ce6c71edae4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00d346120502a989"
+            ],
+            "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+            "finding": "Matches claim-00d346120502a989.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8e180f043f60c2e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-11da3ea4e60369d3"
+            ],
+            "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+            "finding": "Matches claim-11da3ea4e60369d3.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92cdb6fa65016aa9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4214b19fe09b08d4"
+            ],
+            "draft_excerpt": "地方一般公共预算收入达到2217.2亿元，占全省52%；",
+            "finding": "Matches claim-4214b19fe09b08d4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34ab56875207cfc7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0ea80aa5ac85eff"
+            ],
+            "draft_excerpt": "常住人口达4193万人，占全省50.1%。",
+            "finding": "Matches claim-b0ea80aa5ac85eff.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-992b8f2964999e0f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84e32e84220efcea"
+            ],
+            "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+            "finding": "Matches claim-84e32e84220efcea.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8dd1da1c74f5f22",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e3aba4c0c12ee01c"
+            ],
+            "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+            "finding": "Matches claim-e3aba4c0c12ee01c.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83525273980f07b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8841eea2c36c0ab7"
+            ],
+            "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+            "finding": "Matches claim-8841eea2c36c0ab7.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2563d3e63bad8db",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2f6b25fe7a61b24"
+            ],
+            "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+            "finding": "Matches claim-f2f6b25fe7a61b24.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-01223f8f33323baf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "基于四川省及成都市规划，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+            "finding": "The claim that the system is 'based on Sichuan Province and Chengdu City plans' is not supported by the provided evidence. The evidence states the system was 'constructed' but does not attribute it to these specific plans in this context."
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "53dbcb9fbd5347137379c3619835b91a75731137029aea393e57cfbff7ffa435",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b01c16d1e363cde9",
+            "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81b7aeccdf09fd47",
+            "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00d346120502a989",
+            "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-11da3ea4e60369d3",
+            "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4214b19fe09b08d4",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches evidence_excerpt exactly. 代码门禁降级为 omitted：covered claim attribution claim-4214b19fe09b08d4 is missing hard anchors from the claim: ['2020年']; claim='2020年，经济区地方一般公共预算收入达到2217.2亿元，占全省52%。'; excerpt='地方一般公共预算收入达到2217.2亿元，占全省52%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b0ea80aa5ac85eff",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches evidence_excerpt exactly. 代码门禁降级为 omitted：covered claim attribution claim-b0ea80aa5ac85eff is missing hard anchors from the claim: ['2020年']; claim='2020年，经济区常住人口达4193万人，占全省50.1%。'; excerpt='常住人口达4193万人，占全省50.1%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-84e32e84220efcea",
+            "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e3aba4c0c12ee01c",
+            "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8841eea2c36c0ab7",
+            "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f2f6b25fe7a61b24",
+            "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+            "finding": "The sentence contains interpretive framing ('基于...定义', '评估...水平') and a summary list not present in the specific claim evidence excerpts. The claims only state:",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-afb33b59c1a6b23a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b01c16d1e363cde9"
+            ],
+            "draft_excerpt": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c52efb1e18db0ee9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81b7aeccdf09fd47"
+            ],
+            "draft_excerpt": "构建了成都与省内区域合作发展的多维指标体系。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-451d1ce6c71edae4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00d346120502a989"
+            ],
+            "draft_excerpt": "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8e180f043f60c2e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-11da3ea4e60369d3"
+            ],
+            "draft_excerpt": "2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92cdb6fa65016aa9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4214b19fe09b08d4"
+            ],
+            "draft_excerpt": "地方一般公共预算收入达到2217.2亿元，占全省52%；",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34ab56875207cfc7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0ea80aa5ac85eff"
+            ],
+            "draft_excerpt": "常住人口达4193万人，占全省50.1%。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-992b8f2964999e0f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84e32e84220efcea"
+            ],
+            "draft_excerpt": "一是高校院所众多，拥有各类高等院校达93家、科研院所150家。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8dd1da1c74f5f22",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e3aba4c0c12ee01c"
+            ],
+            "draft_excerpt": "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83525273980f07b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8841eea2c36c0ab7"
+            ],
+            "draft_excerpt": "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2563d3e63bad8db",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2f6b25fe7a61b24"
+            ],
+            "draft_excerpt": "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+            "finding": "Exact match.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-01223f8f33323baf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+            "finding": "The sentence synthesizes information and adds interpretive context ('基于...定义', '评估...水平') not present in the specific claim evidence excerpts."
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。\n\n构建了成都与省内区域合作发展的多维指标体系。评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升。\n\n## 建设基础与比较优势\n\n2020年，经济区地区生产总值达到3.0万亿元，占全省比重60.7%；地方一般公共预算收入达到2217.2亿元，占全省52%；常住人口达4193万人，占全省50.1%。\n\n一是高校院所众多，拥有各类高等院校达93家、科研院所150家。二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的83.5%。三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。\n\n2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省66.2%和81%。",
+    "description": "基于区域创新体系定义，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-30d799b6b34f",
+      "description": "基于四川省及成都市规划，构建多维指标体系评估成都与省内区域合作发展水平，涵盖经济、产业、生态、服务、创新及交通协同等方面。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。",
+        "2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%",
+        "2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%\\) ；地方一般公共预算收入达到2217.2亿元，占全省 \\(52\\%",
+        "2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%\\) ；地方一般公共预算收入达到2217.2亿元，占全省 \\(52\\%\\) ；常住人口达4193万人，占全省 \\(50.1\\%",
+        "一是高校院所众多，拥有各类高等院校达93家、科研院所150家，",
+        "二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的 \\(83.5\\%",
+        "三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。",
+        "2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省\\(66.2\\%\\) 和 \\(81\\%",
+        "构建了成都与省内区域合作发展的多维指标体系。评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升",
+        "评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升"
+      ],
+      "evidence_block_ids": [
+        "blk-dd64c41bbccc5645864e",
+        "blk-29ddab08f5f30a5e0a25",
+        "blk-0fd2637425f7745cfaad",
+        "blk-dbeaddad199f0b58d5cb",
+        "blk-9d1c8f55b01f7a291704"
+      ],
+      "page_end": 161,
+      "page_start": 73,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {
+        "region": "四川省内各城市",
+        "time": "2021年以来"
+      },
+      "section_path": [],
+      "semantic_signature": {
+        "key": "省内区域合作发展总体评价"
+      },
+      "source": "多来源联合编译",
+      "title": "成都区域创新体系与省内合作发展评价",
+      "type": "分析框架"
+    },
+    "title": "成都区域创新体系与省内合作发展评价"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1c972006a6e1:bundle-ceea322a5c8e",
+      "excluded_fragments": [],
+      "ref_id": "ref-1c972006a6e1",
+      "source_blocks": [
+        {
+          "block_id": "blk-0eebda1246a8eca495e3",
+          "page_number": 153,
+          "text": "王建平"
+        },
+        {
+          "block_id": "blk-c934197409200ac10537",
+          "page_number": 153,
+          "text": "（四川省经济和社会发展研究院）"
+        },
+        {
+          "block_id": "blk-24f0c8f4fe3319a0a6fb",
+          "page_number": 161,
+          "text": "（四川省经济和社会发展研究院）"
+        },
+        {
+          "block_id": "blk-dd64c41bbccc5645864e",
+          "page_number": 153,
+          "text": "区域创新体系是指在一定空间范围内，企业、科研院所、高校、中介服务机构、地方政府等相关主体共同构成的协同促进创新的组织体系。区域创新体系建设是支撑经济高质量发展和实施创新驱动发展战略的重要支撑。成都平原经济区作为全省乃至全国创新发展水平较高区域，加快完善区域创新体系，对推动成渝地区双城经济圈建设全国有重要影响力的科技创新中心，促进全省经济高质量发展具有重要意义。"
+        },
+        {
+          "block_id": "blk-29ddab08f5f30a5e0a25",
+          "page_number": 153,
+          "text": "发展水平较高，重大战略汇集。2020年，经济区地区生产总值达到3.0万亿元，占全省比重 \\(60.7\\%\\) ；地方一般公共预算收入达到2217.2亿元，占全省 \\(52\\%\\) ；常住人口达4193万人，占全省 \\(50.1\\%\\) 。国家重大战略在经济区汇集，西部大开发、成渝地区双城经济圈、天府新区等重大部署在经济区交汇叠加，全面创新改革试验、军民融合示范和中国（绵阳）科技城、自由贸易试验区、国家自主创新示范区建设等重大任务在经济区布局，经济区正成为内陆开放战略高地和参与国际竞争的新基地，战略地位得到持续提升。"
+        },
+        {
+          "block_id": "blk-0fd2637425f7745cfaad",
+          "page_number": 153,
+          "text": "科教资源高度集聚，创新平台能级较高。一是高校院所众多，拥有各类高等院校达93家、科研院所150家，其中四川大学和电子科技大学等2所重点大学和14个优势学科入选世界一流大学（一流学科）建设名单。二是高层次人才众多，全省63名两院院士均在成都平原经济区，专业技术人员超12万人，占全省的 \\(83.5\\%\\) 。三是创新平台众多，拥有国家级高新技术产业开发区4个，集聚国家重点（工程）实验室52个、国家工程（技术）研究中心22个、国家企业技术中心76个。四是高水平创新平台凝势聚能，西部（成都）科学城建设开局起势，天府实验室强化支撑，中国（绵阳）科技城建设成效持续增强。"
+        },
+        {
+          "block_id": "blk-dbeaddad199f0b58d5cb",
+          "page_number": 153,
+          "text": "科技创新能力较强，创新发展成效显著。四川省科技统计中心《2020四川省科技创新统计监测报告》显示，四川科技创新综合实力前6位的城市中，成都平原经济区城市占了4位。2019年经济区有R&D活动单位数达到2902家、R&D人员21.88万人，分别占全省\\(66.2\\%\\) 和 \\(81\\%\\) ；发表科技论文8.3万余篇、获得发明专利授权5107余件、万人有效发明专利"
+        },
+        {
+          "block_id": "blk-44252728d58f029bce03",
+          "page_number": 154,
+          "text": "利达到6.3件，分别占全省 \\(86.2\\%\\) 、 \\(96.3\\%\\) 、 \\(84.9\\%\\) 。"
+        },
+        {
+          "block_id": "blk-5d9a5c4cc53d1c8d4c8d",
+          "page_number": 154,
+          "text": "产业结构转型升级，创新产业加快发展。一是科技创新推动产业升级，2020年末经济区高新技术企业数量达到7225家，高新技术产业营业收入达1.5万亿元，在规上工业营业收入中的占比达到 \\(31.9\\%\\) ，对规上工业营业收入增长的贡献达到 \\(70.3\\%\\) 。二是创新产业加快发展，培育形成新一代信息技术、高端装备制造、生物、新材料、新能源等若干具有竞争优势的战略性新兴产业集群，成都电子信息产业产值突破万亿，产业规模居中西部城市第一。"
+        },
+        {
+          "block_id": "blk-a608aee7355eda38f892",
+          "page_number": 154,
+          "text": "创新机制不断完善，创新实力有效提升。近年来，经济区抢抓全面创新改革试验机遇，在职务科技成果转化、科技资源共享、科技金融结合、企业主体培育、科技人员激励等方面扎实推进体制机制改革，加快科技成果向现实生产力转化，取得显著成效。科技成果加速转移转化，成德绵国家科技成果转移转化示范区加快建设，2019年经济区共实施科技成果转化21712项、成交技术市场合同1.3万件、技术市场合同成交额达到1183亿元。企业创新主体地位全面强化，创新资源加速向企业集聚，开展创新活动企业占比为\\(25.4\\%\\) ，居西部地区前列。"
+        },
+        {
+          "block_id": "blk-00c9ed13d451b4f5d0b1",
+          "page_number": 154,
+          "text": "区域科技创新综合实力不强。根据《中国城市科技创新发展报告2020》，在全国289个样本城市科技创新力排名中，成都居全国第14位、绵阳居43位、德阳居116位、眉山居199位、雅安居214位、资阳市居271位，与成都平原经济区各城市综合经济实力不匹配。2020年成都市R&D投入强度不到 \\(3\\%\\) ，与北京（ \\(6.3\\%\\) ）、上海（ \\(4.0\\%\\) ）、深圳（ \\(4.9\\%\\) ）差距还很大。2020年经济区有国家高新技术企业7225家（成都6100家），深圳有高新技术企业1.8万家，北京2.9万家，上海1.2万余家。"
+        },
+        {
+          "block_id": "blk-93b0f9c02c75bbb4a0cb",
+          "page_number": 154,
+          "text": "创新资源开放共享机制不完善。经济区大量科技创新资源集中于国防军工领域，人才、技术和创新设施设备对地方的开放程度不高，科学装置和技术与地方共享机制仍需完善。同时，在行政区划管理经济的传统思维下，各级政府为了保护本地利益，倾向于将创新资源和要素限制在本地，人才、技术等创新要素的跨区域流动、大型仪器和科技信息共享以及科技成果共享方面受到行政壁垒和地方保护主义阻碍。"
+        },
+        {
+          "block_id": "blk-439d7ef381e7f270c2a4",
+          "page_number": 154,
+          "text": "创新链与产业链融合发展不足。产业技术创新能力不足、关键核心技术“卡脖子”等问题仍较突出。经济区先进制造业增加值占规模以上工业增加值比重不到3成，电子信息产业虽已突破万亿级规模，但超九成营业收入来自封装测试等环节。科技创新对产业发展"
+        },
+        {
+          "block_id": "blk-ca2b491243f820db2f59",
+          "page_number": 155,
+          "text": "引领带动作用不强，技术成果转化率和流动性较低。2019年高新技术企业营业收入占工业企业营业收入比重绵阳为 \\(57.8\\%\\) ，成都为 \\(43.9\\%\\) ，总体来说科技创新对经济发展支撑能力较弱。"
+        },
+        {
+          "block_id": "blk-b599f9ec55d04b2570b8",
+          "page_number": 155,
+          "text": "科技创新空间布局有待优化。经济区科技资源主要集中在成都、绵阳两市，两市研发经费投入占经济区的 \\(85.2\\%\\) ，研发人员数量占经济区的 \\(84\\%\\) ，有效发明专利数量占经济区的 \\(88.9\\%\\) ，高新技术产业工业营业收入占经济区的 \\(79.8\\%\\) 。其他市科技创新实力较弱，创新平台支撑力弱，高层次研发平台、高水平科研团队短缺。"
+        },
+        {
+          "block_id": "blk-eb4292070dfb13ca59b7",
+          "page_number": 155,
+          "text": "在全国和成渝地区的战略定位。党中央赋予成渝地区双城经济圈打造具有全国影响力的科技创新中心的战略使命，成都平原经济区具有西部（成都）科学城、中国（绵阳）科技城等国家级科技创新的重要载体，是国家推动成渝地区双城经济圈建设全国具有全国影响力的科技创新中心的重要依托。要发挥经济区科教资源丰富、创新平台密集、创新人才集聚聚等优势，全面增强基础研究、技术攻关、成果转化能力，复制推广全面创新改革试验经验，加快完善区域协同创新体系，建设全国科技创新重要策源地和成渝科技创新中心重要创新增长极，打造全国重要的科技创新和协同创新示范区。"
+        },
+        {
+          "block_id": "blk-ae5580305153254b3ad4",
+          "page_number": 155,
+          "text": "在全省的功能定位。从全省来看，成都平原经济区是代表全省参与全国科技创新领域竞争的战略支撑，是引领带动其他经济区创新发展的核心引擎。要抢抓国家推进成渝科创中心建设机遇，以引导高端创新资源集聚，促进与其他区域建设协同创新体系，共同构筑开放、共建、共享的创新生态网络，努力建设全省创新发展核心增长极，支撑引领全省抢占创新发展战略制高点，带动辐射其他区域创新发展。"
+        },
+        {
+          "block_id": "blk-c2eaf28243c6c020f909",
+          "page_number": 155,
+          "text": "打破区域行政界限，促进创新资源开放共享。创新资源的开放共享是建设区域协同创新共同体的基础条件。要打破区域行政界限和管理机制条块分割，优化整合区域科技资源，集中优势资源联合建设大型科研仪器等创新基础设施和科技创新大数据平台，进一步推动重大科研基础设施、大型科研仪器设备、科技文献、科学数据等科技资源合理流动与开放共享。"
+        },
+        {
+          "block_id": "blk-762a9f45680366e4405b",
+          "page_number": 155,
+          "text": "突出核心区域带动，强化创新集聚效应。科技创新要素和创新活动向少数优势地区集聚是科技创新的客观规律。要遵循科技创新规律，强化成德眉资都市圈创新核心增长极作"
+        },
+        {
+          "block_id": "blk-ee5279f574d49f987164",
+          "page_number": 156,
+          "text": "用，加强创新资源的集聚集成能力，推动国家重大科技创新设施、平台和项目等成都都市圈和绵阳科技城优先布局，构建以成都和绵阳为主引擎、成都都市圈为主承载、其他区域中心城市和节点城市为重要支撑的区域协同创新格局。"
+        },
+        {
+          "block_id": "blk-2dc6d35e9cca22f87fd0",
+          "page_number": 156,
+          "text": "协同推进创新平台建设，联合提升原始创新能力。充分发挥经济区的科教资源优势，打通区域内的学科间、院校间、机构间界限，联合打造以基础性和原创性研究为主的协同创新平台。加强西部（成都）科学城、绵阳科技城的联动发展，联合开展科技项目攻关，集中突破一批“卡脖子”技术，打造成为全国原始创新策源地，提升区域原始创新能力和区域创新竞争力。"
+        },
+        {
+          "block_id": "blk-4f737a7f73efe33ae079",
+          "page_number": 156,
+          "text": "共建产业创新大平台，加快创新成果转化。瞄准世界科技前沿和产业制高点，协同推动原始创新、技术创新和产业创新，坚持政府引导、市场主导，构建区域科技成果转移转化的协同机制，打通原始创新向现实生产力转化通道，加速科技成果向现实生产力转化，创建和培育一批综合性国家产业创新中心和分行业产业创新中心，加强跨区域“双创”合作，联合共建国家级科技成果孵化基地和双创示范基地，形成具有全国影响力的科技创新和制造业研发高地。"
+        },
+        {
+          "block_id": "blk-fe7826b772773ed68fd5",
+          "page_number": 156,
+          "text": "加大创新政策协调，构建政策互动机制。加快建立省、市级层面的政策统筹协调互动机制，增进区域各市之间的战略协同与政策互动，全局考虑和统筹谋划，加快实现区域创新发展战略一体化。深化科技体制改革，促进创新资源合理配置、开放共享、高效利用，实行人才评价标准互认制度，推动实现跨区域知识产权信用信息共联共享，探索建立区域创新收益共享机制。"
+        },
+        {
+          "block_id": "blk-1479b8b87c90196ef9fa",
+          "page_number": 156,
+          "text": "根据科技创新空间布局的一般规律和经济区创新资源分布及产业布局特点，加快构建“一核（成都）引领、一极（绵阳）支撑、一圈（成都都市圈）带动、一带（成绵乐创新发展带）联动、全域覆盖”的创新空间结构。立足各市的比较优势和发展特色，强化创新功能分工，协同创新、特色发展的创新格局。"
+        },
+        {
+          "block_id": "blk-a571fde9cbc99d867f04",
+          "page_number": 156,
+          "text": "加快推进天府国家实验室建设。聚焦空天科技、生命科学、先进核能、电子信息等领域，结合科技创新交叉融合发展趋势，高水平组建天府实验室，积极争创国家实验室，建设好国家实验室成都基地。"
+        },
+        {
+          "block_id": "blk-38da8148ab1dd273ad80",
+          "page_number": 157,
+          "text": "协同建设国家重大科技基础设施集群。成都重点推进成都国家川藏铁路技术创新中心、国际深地科学研究中心、超算中心算力功能性设施、转化医学等重大科技基础设施建设，打造成为学科交叉融合、内涵关联的原始创新集群和高水平基础研究基地。绵阳加快推进大型低速风洞、高超声速风洞等国家重大科技基础设施，打造核技术、空天技术研究基地。德阳聚焦重大技术装备、燃气轮机、通用航空等领域布局建设一批重大科技基础设施，全力创建国家重大装备制造创新基地。"
+        },
+        {
+          "block_id": "blk-72b1a2017184de1702a3",
+          "page_number": 157,
+          "text": "优化区域重点实验室体系。协同推进实施重点实验室提升计划，支持市级创建省级、省级创建国家级实验室，提升重点实验室原创科学成果研发能力。积极支持区域内外科研院校（所）联合建设重点实验室、生物安全防护高等实验室、国防科技重点实验室，推进环保重点实验室和工程中心建设，完善区域重点实验室体系。"
+        },
+        {
+          "block_id": "blk-c7a3d506d523553563ec",
+          "page_number": 157,
+          "text": "高水平建设西部（成都）科学城。优化完善“一核四区”创新布局，打造全国重要的创新驱动动力源、全国重要的高质量发展增长极。成都科学城重点打造具有全国影响力的科技创新中心科学高地、综合性科学中心主任阵地。新经济活力区加快建设国家自主创新示范区。生命科学创新区重点建设重大新药创制国家科技重大专项成果转移转化试点示范基地。未来科技城重点打造国际一流应用性科学中心、中国西部智造示范区和成渝国际科教城。新一代信息技术创新基地重点打造全球电子信息产业高端要素汇集区。"
+        },
+        {
+          "block_id": "blk-246c60a6f78419e748a4",
+          "page_number": 157,
+          "text": "提升中国（绵阳）科技城创新能级。突出高起点规划、高标准建设、高质量发展、高水平创新、高效能治理，以支撑国家重大战略为目的，以服务国防建设为基础，以全链条科技创新为主线、以突破“卡脖子”关键核心技术为引领、以军民融合为重点，争取国家科技创新基地布局，打造国家科技创新先行示范区和成渝地区双城经济圈创新高地。"
+        },
+        {
+          "block_id": "blk-59ec181f1e1853c5132a",
+          "page_number": 157,
+          "text": "促进高新区提档升位打造科技创新基地。继续坚持“发展高科技、实现产业化”方向，协同推动实施高新区提档升位行动，支持成都高新技术开发区、绵阳高新技术开发区、德阳高新技术产业开发区、乐山高新技术开发区等提质升位，推动基础较好的绵竹高新技术开发区等省级高新区创建国家高新区，打造高端资源要素集聚、高新技术企业集群、高新技术产品迭代出新的创新发展增长极。"
+        },
+        {
+          "block_id": "blk-87d593b9b4358e1fc3e7",
+          "page_number": 157,
+          "text": "强化企业创新主体地位。支持企业牵头建设重点实验室、工程（技术）研究中心、企业技术中心，实施瞪羚企业、独角兽企业、高新技术企业、技术先进型服务企业、技术创"
+        },
+        {
+          "block_id": "blk-97182b3cbe491b755a32",
+          "page_number": 158,
+          "text": "新示范企业倍增培育计划，推动规模以上工业企业自主或联合建立研发机构，培育一批核心技术突出、集成创新能力强、引领重要产业发展的创新型企业群体。"
+        },
+        {
+          "block_id": "blk-7f6f80711e8bafab8bd2",
+          "page_number": 158,
+          "text": "打造高水平科研院校（所）。支持建设世界一流学科和一流大学，鼓励区域内高校争创国家“双一流”。推动高校科研力量优化配置和资源共享，加快研究性高校和研究性学科建设。鼓励区域高校和科研院所提档升级科技基础设施与重点实验室、高校创建前沿科学中心等国家级创新平台。支持高校和科研院所设立管理体制创新、运行机制高效、用人方式灵活的新型研发机构。健全以定向委托等方式支持高校和科研院所承担省级重大科技任务机制。"
+        },
+        {
+          "block_id": "blk-fe551e6ba5b26aeaf2ad",
+          "page_number": 151,
+          "text": "产业集群。"
+        },
+        {
+          "block_id": "blk-0afd30da9e2161a6f842",
+          "page_number": 158,
+          "text": "协同开展关键核心技术攻关。聚焦重大科技需求，合力推进实施一批省级重大科技专项，着力突破重大关键核心技术，尽快解决一批“卡脖子”问题。实施产业技术路线图，开展重点产业专利导航，打造电子信息、生物医药、装备制造、航空航天、钒钛材料等世界级高新技术产业集群。"
+        },
+        {
+          "block_id": "blk-a4b24737bce8a30c0b1d",
+          "page_number": 158,
+          "text": "推进军民科技协同创新。探索建立军工资源开放机制，鼓励研发项目、技术成果信息有效共享，开展军地科学数据的整合交汇和分析挖掘，促进军民科技资源共享共用。进一步完善军民科技协同创新组织管理体系、工作运行体系和政策制度体系。支持在川军工科研院所创新体制改革，健全军民企业、科研机构、高等院校协同创新机制。"
+        },
+        {
+          "block_id": "blk-777a42fe9f7b23ff2f71",
+          "page_number": 158,
+          "text": "引培高层次科技人才。实施重大人才计划引进专项，培养引进“高精尖缺”人才和高水平创新团队。优化外国人工作许可和人才签证服务，加大急需紧缺高层次人才引进。发挥科技计划项目人才培养作用，培养造就高层次领军人才和创新团队，增加企业高层次创新型科技人才的比重。"
+        },
+        {
+          "block_id": "blk-3ad2b3c8f75e31ebfd21",
+          "page_number": 158,
+          "text": "壮大青年科技人才队伍。支持高校、科研院所与企业联合引才用才、培养研究生，持续支持青年科技人才成长。实施杰出青年科技人才培养计划和青年创新团队培养计划，加强青年科技人才后备队伍建设。"
+        },
+        {
+          "block_id": "blk-b81d95bcc12004323964",
+          "page_number": 158,
+          "text": "加快推进科技成果转化转化。依托国家技术转移西南中心、天府国际技术转移中心和军民两用技术交易中心，健全科技成果转化转化协同联动机制。协同建设成德绵国家科技成果转移转化示范区，大力引进和培育技术转移示范机构和示范企业，共建科技成果转移高地。共建“一带一路”科技创新合作区和国际科技转移中心，促进国际科技成果转移转"
+        },
+        {
+          "block_id": "blk-033ca3a09acf8e2120e3",
+          "page_number": 159,
+          "text": "化。鼓励重点企业联合行业上下游，建立研发需求互通平台，共建高水平中试熟化基地、成果转化基地。"
+        },
+        {
+          "block_id": "blk-851944fb646896b4b4b5",
+          "page_number": 159,
+          "text": "集群发展高新技术产业。协同建立创新型企业成长机制，推动大中小企业融通创新发展，打造成德绵眉乐高新技术产业带。聚焦未来发展方向，发展电子信息、高端装备、生物医药、航空航天、先进材料等高新技术产业，培育打造高新技术产业集群。围绕创新链、价值链协同布局产业链，推动重点高新技术产业企业延链补链强链发展。"
+        },
+        {
+          "block_id": "blk-ad37e6c605d335f7d46d",
+          "page_number": 159,
+          "text": "打造数字经济发展高地。聚焦“芯屏端软智网”等核心产业，建设具有国际竞争力的数字产业集群。实施“上云用数赋智”行动，建设国家级工业互联网平台、国家工业互联网大数据分中心，建设一批“数字化车间”和“智能工厂”。加快推进服务业数字化变革，构建线上线下联动服务网络，培育智能零售、平台经济等新模式新业态。"
+        },
+        {
+          "block_id": "blk-651db4acd264cf0756de",
+          "page_number": 159,
+          "text": "省委省政府成立专门工作机制，统筹推进重大规划编制和政策机制设计，加快区域创新共同体建设。科技主管部门制订区域协同创新的中长期规划、行动计划和相关重大政策，推进各项任务全面落实。建立成都平原经济区科技创新专家咨询制度，开展长期科技创新重大战略问题研究和决策咨询。"
+        },
+        {
+          "block_id": "blk-e825c2c3f2c26b4e4c60",
+          "page_number": 159,
+          "text": "各市应协同推进科技体制改革，推动建设科技智库联盟，鼓励和支持区域内的企业与高等院校、科研院所，采取股份制等形式组建合作创新群体，鼓励和支持跨区域联合设立研发机构、实验室、工程技术研究中心、企业技术中心、企业博士后流动站，允许区域内各类科研机构跨区参加科技项目的申报、招投标。推进联合制定重大装备首台套推广应用目录、建立企业技术需求联合发布机制和知识产权价值评估统一标准，实现区域财政支持科技创新政策标准接轨。"
+        },
+        {
+          "block_id": "blk-67e953ef59fb7b640d90",
+          "page_number": 159,
+          "text": "加大各市人才支持政策的协调力度，建立一体化人才保障服务标准，实行人才评价标准互认制度，促进科技人才在各市之间健康有序流动。推动八市科技专家库共享共用，完善人才交流、合作和共享机制，探索推进“研发飞地”和“人才飞地”建设。健全重大人才计划实施机制，培养引进“高精尖缺”人才和高水平创新团队。探索户口不迁、关系不转、身份互认、能出能进的科技人才柔性流动机制，激发科技人才创新创业活力。"
+        },
+        {
+          "block_id": "blk-154ef1a667bc24986023",
+          "page_number": 160,
+          "text": "成立成都平原经济区协同创新联席会议制度，组织区域性重大创新项目的合作和攻关，确定区域内共同建设的重点创新平台，协调和规范经济区内相关鼓励政策，建立多元投入的区域创新基金和成果转化基金。联合共建科技教育信息网、大型公共仪器设立服务网，共同研究确定重大科技攻关专项，联合招引出创新型企业和人才，鼓励各市高校、院所加强横向协作。优化协同创新环境，联合开展协同创新政策研究和制定工作，消除各地政策差异，限制不公平竞争行为，建设知识产权保护协作网络。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-b1c2b7b5ba95:bundle-88544a6ae227",
+      "excluded_fragments": [],
+      "ref_id": "ref-b1c2b7b5ba95",
+      "source_blocks": [
+        {
+          "block_id": "blk-9d1c8f55b01f7a291704",
+          "page_number": 73,
+          "text": "为客观评估成都与省内区域合作发展进程与现状，立足全省区域合作实际情况，以《四川省国民经济和社会发展第十四个五年规划和二〇三五年远景目标纲要》《成都平原经济区“十四五”一体化发展规划》等规划为依据，构建了成都与省内区域合作发展的多维指标体系。评价结果显示，成都与省内各城市在经济协同、产业协同、生态共保、服务共享、创新协同、交通互联等方面的合作水平不断提升，但相较杭州、广州等城市尚有提升空间。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-30d799b6b34f",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-1c972006a6e1",
+    "ref-b1c2b7b5ba95"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

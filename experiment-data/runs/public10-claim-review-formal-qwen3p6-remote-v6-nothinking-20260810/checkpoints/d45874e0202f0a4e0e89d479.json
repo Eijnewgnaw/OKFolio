@@ -1,0 +1,1403 @@
+{
+  "contract": {
+    "canonical_question": "成都市如何依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作？",
+    "claims": [
+      {
+        "claim": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+        "claim_id": "claim-0c6c008690aeed0a",
+        "evidence_block_ids": [
+          "blk-e7dd6b4e36641a7c698c"
+        ],
+        "evidence_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校、成都外国语学校在蓉优质教育资源在成都平原经济区、川东北经济区、川南经济区和攀西经济区采用品牌连锁、委托管理等方式跨区办学。",
+        "claim_id": "claim-509bc648774b3302",
+        "evidence_block_ids": [
+          "blk-d5310c056c6d9f57de2a"
+        ],
+        "evidence_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {
+          "region": [
+            "成都平原经济区",
+            "川东北经济区",
+            "川南经济区",
+            "攀西经济区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+        "claim_id": "claim-42dc13077ec5bfb5",
+        "evidence_block_ids": [
+          "blk-d5310c056c6d9f57de2a"
+        ],
+        "evidence_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {
+          "time": "2019年底"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+        "claim_id": "claim-77f951bbcc747390",
+        "evidence_block_ids": [
+          "blk-d5310c056c6d9f57de2a"
+        ],
+        "evidence_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+        "claim_id": "claim-45d4495cec6595e5",
+        "evidence_block_ids": [
+          "blk-d5310c056c6d9f57de2a"
+        ],
+        "evidence_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+        "claim_id": "claim-f7a070047b61c1ad",
+        "evidence_block_ids": [
+          "blk-d5310c056c6d9f57de2a"
+        ],
+        "evidence_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都依托省内教育实践基地资源，与成都平原经济区、川东北经济区、川南经济区和阿坝州等地通过师生交流互访开展研学实践区域合作，交流学生超过12500名。",
+        "claim_id": "claim-9f92d7a053f8c513",
+        "evidence_block_ids": [
+          "blk-4a7addfd949741b89926"
+        ],
+        "evidence_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {
+          "time": "2019年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+        "claim_id": "claim-63feedd73de01f52",
+        "evidence_block_ids": [
+          "blk-4a7addfd949741b89926"
+        ],
+        "evidence_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-749b0dc04cd4",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-0c6c008690aeed0a",
+          "claim-509bc648774b3302",
+          "claim-42dc13077ec5bfb5",
+          "claim-77f951bbcc747390",
+          "claim-45d4495cec6595e5",
+          "claim-f7a070047b61c1ad",
+          "claim-9f92d7a053f8c513",
+          "claim-63feedd73de01f52"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+        "reason": "该Bundle包含回答中心问题所需的所有核心事实，涵盖模式、内容、方法、信息及对口援助等固定槽位，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-bdfd9ce98c0f",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了成都市在中小学、职业教育、数字教育、师资培训及对口援助五个维度的具体合作举措，直接支撑中心问题关于全方位合作模式的回答。",
+        "ref_id": "ref-749b0dc04cd4",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-0c6c008690aeed0a",
+        "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-509bc648774b3302",
+        "draft_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-42dc13077ec5bfb5",
+        "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-77f951bbcc747390",
+        "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-45d4495cec6595e5",
+        "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f7a070047b61c1ad",
+        "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9f92d7a053f8c513",
+        "draft_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-63feedd73de01f52",
+        "draft_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+        "finding": "draft_excerpt matches claim exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-0c6c008690aeed0a"
+        ],
+        "draft_excerpt": "成都市依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作。",
+        "finding": "Summarizes claim-0c6c008690aeed0a.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d44dbd01b4813759",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0c6c008690aeed0a"
+        ],
+        "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+        "finding": "Matches claim-0c6c008690aeed0a exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4d8d9139710c6831",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-509bc648774b3302"
+        ],
+        "draft_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。",
+        "finding": "Matches claim-509bc648774b3302 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-68cb469849ab42d7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-42dc13077ec5bfb5"
+        ],
+        "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+        "finding": "Matches claim-42dc13077ec5bfb5 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-81c70401a0b9037b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-77f951bbcc747390"
+        ],
+        "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+        "finding": "Matches claim-77f951bbcc747390 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-59d7fd10854ff003",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45d4495cec6595e5"
+        ],
+        "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+        "finding": "Matches claim-45d4495cec6595e5 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d12486a01f2e7a3c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f7a070047b61c1ad"
+        ],
+        "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+        "finding": "Matches claim-f7a070047b61c1ad exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1aad28d244baea86",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9f92d7a053f8c513"
+        ],
+        "draft_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+        "finding": "Matches claim-9f92d7a053f8c513 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-901159d8a0b4683a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-63feedd73de01f52"
+        ],
+        "draft_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+        "finding": "Matches claim-63feedd73de01f52 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2dcbe0b9c7cc24be",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-0c6c008690aeed0a",
+          "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-509bc648774b3302",
+          "draft_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-42dc13077ec5bfb5",
+          "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-77f951bbcc747390",
+          "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-45d4495cec6595e5",
+          "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f7a070047b61c1ad",
+          "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9f92d7a053f8c513",
+          "draft_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-63feedd73de01f52",
+          "draft_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+          "finding": "draft_excerpt matches claim exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-0c6c008690aeed0a"
+          ],
+          "draft_excerpt": "成都市依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作。",
+          "finding": "Summarizes claim-0c6c008690aeed0a.",
+          "sentence_id": "sentence-d44dbd01b4813759",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0c6c008690aeed0a"
+          ],
+          "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+          "finding": "Matches claim-0c6c008690aeed0a exactly.",
+          "sentence_id": "sentence-4d8d9139710c6831",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-509bc648774b3302"
+          ],
+          "draft_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。",
+          "finding": "Matches claim-509bc648774b3302 exactly.",
+          "sentence_id": "sentence-68cb469849ab42d7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-42dc13077ec5bfb5"
+          ],
+          "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+          "finding": "Matches claim-42dc13077ec5bfb5 exactly.",
+          "sentence_id": "sentence-81c70401a0b9037b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-77f951bbcc747390"
+          ],
+          "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+          "finding": "Matches claim-77f951bbcc747390 exactly.",
+          "sentence_id": "sentence-59d7fd10854ff003",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-45d4495cec6595e5"
+          ],
+          "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+          "finding": "Matches claim-45d4495cec6595e5 exactly.",
+          "sentence_id": "sentence-d12486a01f2e7a3c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f7a070047b61c1ad"
+          ],
+          "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+          "finding": "Matches claim-f7a070047b61c1ad exactly.",
+          "sentence_id": "sentence-1aad28d244baea86",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9f92d7a053f8c513"
+          ],
+          "draft_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+          "finding": "Matches claim-9f92d7a053f8c513 exactly.",
+          "sentence_id": "sentence-901159d8a0b4683a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-63feedd73de01f52"
+          ],
+          "draft_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+          "finding": "Matches claim-63feedd73de01f52 exactly.",
+          "sentence_id": "sentence-2dcbe0b9c7cc24be",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "cb175f57fc9b5dcc05d12b067d20aacfd7dfa9c02c23cb4a0467c4df335af122",
+  "coverage_history": [
+    {
+      "draft_sha256": "a0929a2673134b866eb27253746d9d70175f09e917970ae40460c6d3a8872e95",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-0c6c008690aeed0a",
+            "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+            "finding": "sentence-4d8d9139710c6831",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-509bc648774b3302",
+            "draft_excerpt": "成都积极推动在蓉优质教育资源在成都平原经济区、川东北经济区、川南经济区和攀西经济区采用品牌连锁、委托管理等方式跨区办学，以辐射带动区域教育发展。",
+            "finding": "sentence-b1959d52b57fdac4",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-42dc13077ec5bfb5",
+            "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学；",
+            "finding": "sentence-fb5e67b108d85fa6",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-77f951bbcc747390",
+            "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校；",
+            "finding": "sentence-8d55b71eacb2cfdd",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45d4495cec6595e5",
+            "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校；",
+            "finding": "sentence-1d7eed8e3d7b43f5",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f7a070047b61c1ad",
+            "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校及其幼稚园、小学、初中和高级中学。",
+            "finding": "sentence-1cedc1de3f961b3b",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9f92d7a053f8c513",
+            "draft_excerpt": "在研学实践方面，2019年成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+            "finding": "sentence-094ec63e21b5341d",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63feedd73de01f52",
+            "draft_excerpt": "在职业教育领域，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+            "finding": "sentence-7649e0e2992c17a3",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都市通过品牌连锁、委托管理及师生交流等方式，向省内其他经济区输出优质教育资源，实现教育模式、内容、方法及信息的共建共享。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6231969e5903458",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0c6c008690aeed0a"
+            ],
+            "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d8d9139710c6831",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-509bc648774b3302"
+            ],
+            "draft_excerpt": "成都积极推动在蓉优质教育资源在成都平原经济区、川东北经济区、川南经济区和攀西经济区采用品牌连锁、委托管理等方式跨区办学，以辐射带动区域教育发展。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1959d52b57fdac4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-509bc648774b3302"
+            ],
+            "draft_excerpt": "在基础教育领域，博骏教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校、成都外国语学校等在蓉优质教育资源通过品牌连锁和委托管理方式跨区办学。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca0765c59292548c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-42dc13077ec5bfb5"
+            ],
+            "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学；",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fb5e67b108d85fa6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-77f951bbcc747390"
+            ],
+            "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校；",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d55b71eacb2cfdd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45d4495cec6595e5"
+            ],
+            "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校；",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d7eed8e3d7b43f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7a070047b61c1ad"
+            ],
+            "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校及其幼稚园、小学、初中和高级中学。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1cedc1de3f961b3b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f92d7a053f8c513"
+            ],
+            "draft_excerpt": "在研学实践方面，2019年成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-094ec63e21b5341d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-63feedd73de01f52"
+            ],
+            "draft_excerpt": "在职业教育领域，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7649e0e2992c17a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都市通过品牌连锁、委托管理及师生交流等方式，向省内其他经济区输出优质教育资源，实现教育模式、内容、方法及信息的共建共享。",
+            "finding": "sentence-e6231969e5903458"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "cb175f57fc9b5dcc05d12b067d20aacfd7dfa9c02c23cb4a0467c4df335af122",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-0c6c008690aeed0a",
+            "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-509bc648774b3302",
+            "draft_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-42dc13077ec5bfb5",
+            "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-77f951bbcc747390",
+            "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45d4495cec6595e5",
+            "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f7a070047b61c1ad",
+            "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9f92d7a053f8c513",
+            "draft_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63feedd73de01f52",
+            "draft_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0c6c008690aeed0a"
+            ],
+            "draft_excerpt": "成都市依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作。",
+            "finding": "Summarizes claim-0c6c008690aeed0a.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d44dbd01b4813759",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0c6c008690aeed0a"
+            ],
+            "draft_excerpt": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+            "finding": "Matches claim-0c6c008690aeed0a exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d8d9139710c6831",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-509bc648774b3302"
+            ],
+            "draft_excerpt": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。",
+            "finding": "Matches claim-509bc648774b3302 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-68cb469849ab42d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-42dc13077ec5bfb5"
+            ],
+            "draft_excerpt": "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。",
+            "finding": "Matches claim-42dc13077ec5bfb5 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-81c70401a0b9037b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-77f951bbcc747390"
+            ],
+            "draft_excerpt": "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。",
+            "finding": "Matches claim-77f951bbcc747390 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-59d7fd10854ff003",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45d4495cec6595e5"
+            ],
+            "draft_excerpt": "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。",
+            "finding": "Matches claim-45d4495cec6595e5 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d12486a01f2e7a3c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7a070047b61c1ad"
+            ],
+            "draft_excerpt": "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+            "finding": "Matches claim-f7a070047b61c1ad exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1aad28d244baea86",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f92d7a053f8c513"
+            ],
+            "draft_excerpt": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。",
+            "finding": "Matches claim-9f92d7a053f8c513 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-901159d8a0b4683a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-63feedd73de01f52"
+            ],
+            "draft_excerpt": "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+            "finding": "Matches claim-63feedd73de01f52 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2dcbe0b9c7cc24be",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。\n\n成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学。\n\n- 截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学。\n- 四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校。\n- 成都棠湖外国语学校建成宜宾市翠屏区棠湖学校。\n- 成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。\n- 2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名。\n- 在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”。",
+    "description": "成都市依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作。",
+    "ref": {
+      "asset_hints": [
+        "image-157",
+        "image-158",
+        "image-159",
+        "image-160",
+        "image-161",
+        "image-162",
+        "image-163",
+        "image-164",
+        "image-165",
+        "image-166",
+        "image-167",
+        "image-168",
+        "image-169",
+        "image-170",
+        "image-171"
+      ],
+      "concept_id": "topic-bdfd9ce98c0f",
+      "description": "成都市依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。",
+        "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学",
+        "截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学",
+        "四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校",
+        "成都棠湖外国语学校建成宜宾市翠屏区棠湖学校",
+        "成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。",
+        "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名",
+        "在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”"
+      ],
+      "evidence_block_ids": [
+        "blk-e7dd6b4e36641a7c698c",
+        "blk-d5310c056c6d9f57de2a",
+        "blk-4a7addfd949741b89926"
+      ],
+      "page_end": 76,
+      "page_start": 45,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "教育资源共建共享合作",
+      "type": "分析框架"
+    },
+    "title": "教育资源共建共享合作"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-749b0dc04cd4:bundle-f051c3e24857",
+      "excluded_fragments": [],
+      "ref_id": "ref-749b0dc04cd4",
+      "source_blocks": [
+        {
+          "block_id": "blk-69b6639c007c791621f4",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-51861442cf9048d44ff6",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-6622a7f09159fac444df",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-be7c4881e361aed965ad",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-2f2ec4efa76d0ab58773",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-e7dd6b4e36641a7c698c",
+          "page_number": 49,
+          "text": "成都市依托优质教育资源，从教育模式共建、教育内容共享、教育方法共育和教育信息共通等方面与省内市(州)开展全方位合作。总体来看，中小学教育、职业教育协同发展进一步深化，校企合作、校地合作进一步探索，已结合互联网技术的应用和制度保障的加强，已逐渐形成多平台、多主体、多渠道、多内容的区域合作体系。"
+        },
+        {
+          "block_id": "blk-d5310c056c6d9f57de2a",
+          "page_number": 49,
+          "text": "成都积极推动博俊教育集团、嘉祥教育集团、普润控股集团、成都棠湖外国语学校，成都外国语学校等在蓉优质教育资源在成都平原经济区（资阳、乐山、雅安）、川东北经济区（巴中、广元）、川南经济区（宜宾、自贡）和攀西经济区（攀枝花）采用品牌连锁、委托管理等方式跨区办学，共享先进教育模式，截至2019年底，博骏教育集团在巴中建成南江博骏公学，在广元建成旺苍博骏公学，在资阳建成乐至博骏公学；四川嘉祥教育集团建立乐山高新区嘉祥外国语学校和自贡市嘉祥外国语学校；成都棠湖外国语学校建成宜宾市翠屏区棠湖学校；成都外国语学校领办攀枝花市成都外国语学校，并与四川普润控股集团有限公司建成自贡成都外国语学校、自贡成都外国语学校幼稚园、自贡成都外国语学校（小学）、自贡成都外国语学校（初中）、自贡成都外国语学校高级中学。"
+        },
+        {
+          "block_id": "blk-4a7addfd949741b89926",
+          "page_number": 49,
+          "text": "2019年，成都依托省内教育实践基地资源，与成都平原经济区（德阳、眉山、资阳、绵阳、雅安），川东北经济区（广安、南充）、川南经济区（自贡、泸州、宜宾）和阿坝州等地通过师生交流互访开展研学实践区域合作，以研促学，交流学生超过12500名，真正落实立德树人根本任务。在职业教育中，成都职业技术学院、四川交通职业技术学院、四川水利职业技术学院等在蓉职业学校与德阳、绵阳等职业技术学校共同发起成立“四川省高等职业院校创新创业教育联盟”，全省40余所高职院校和15家科研院所、知名企业参与，共同探索跨区域“双创”载体协同发展。成都还与德阳、眉山、资阳、雅安、乐山共同签订《成德眉资雅乐同城化职教联盟合作协议》，搭建职业教育同城发展平台。在产教融合中，成都鼓励成都大学与四川长虹电子控股集团有限公"
+        },
+        {
+          "block_id": "blk-dd0da647d4f2cf0e09f2",
+          "page_number": 49,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-e1d08c6420e45d63f1d7",
+          "page_number": 49,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-26f045a77bc3b9934a54",
+          "page_number": 49,
+          "text": "资料来源：中国新闻网：四川省高等职业院校创新创业教育联盟在蓉成立http://www.sc.chinnews.com/kjws/2018-12-29/96731.htm"
+        },
+        {
+          "block_id": "blk-25f2b211d063054050ab",
+          "page_number": 50,
+          "text": "司（绵阳市辖内）在人才培养和交流、科技合作、创新协同、资源共享、智慧校园建设等方面深入合作，在提高产教融合水平中，助力地区发展。"
+        },
+        {
+          "block_id": "blk-972316b2878f81a67b5e",
+          "page_number": 50,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-d1046c0f77ca7b20725a",
+          "page_number": 50,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-f489338e69a46ef5823b",
+          "page_number": 50,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-d2db85e7c22337260251",
+          "page_number": 50,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-9aa98114e64a171896b2",
+          "page_number": 50,
+          "text": "资料来源：成都市教育局关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-437361973f991ee12c5e",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-0161ff4ddde9b63431cc",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-e2495e315b4805b069de",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-f8fe0442a9dc30be72c8",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-39f926ff553f6f91432a",
+          "page_number": 50,
+          "text": "成都以石室祥云网校和成都七中网校为主平台，进一步完善数字教育资源平台建设，推动优质教学资源向全省五大经济区同步共享，目前已超过20万名学生参与线上学习。其中石室祥云网校项目开设的8个网班已实现高初中学段全覆盖，签约加盟学校110余所，覆盖新疆、山西，以及四川省17个地市州，惠及远端授课教师和学生达3万余名，包括甘孜雅江中学、凉山州越西二中、喜德县瓦尔学校等民族地区学校50余所。2019年，石室祥云网校联合甘孜州丹巴高中，四川省汉源县第一中学（雅安市）、泸州市纳溪区护国中学、四川省中江中学（德阳市）和凉山州喜德县瓦尔学校等，构建石室祥云在线开放课程应用实践共同体，获教育部认可并推广。成都七中网校资源共覆盖全省428个班，其中小学覆盖12个地市州，初中覆盖18个地市州；高中覆盖18个地市州。成都还与青海省教育厅进一步落实合作措施，采用信息化技术，实行全日制远程植入式教学，共覆盖学校31所（其中高中5所、初中11所、小学15所），班级104个，学生逾5600名。2019年，成都以中央和市级数字教育项目为抓手，与资阳、雅安、阆中（南充）等地区38所学校签订区域协同发展结对协议，组建跨区域跨学校协同发展共同体，积极对上争取教育资源；同时向德阳、眉山、资阳、雅安和南充中小学生开放“成都市中小学网络和信息安全学习平台”，吸引全省近5万名学生进行线上学习。"
+        },
+        {
+          "block_id": "blk-e2a5b0a85dae82ff8f3c",
+          "page_number": 50,
+          "text": "通过共建师资培养平台，促进全域教育方法提升。成都邀请德阳、眉山、资阳和其他地区超2500名代表参加“文翁大讲堂”“名师"
+        },
+        {
+          "block_id": "blk-373b40925f64e409b650",
+          "page_number": 50,
+          "text": "送教”“市级骨干教师培训”“蓉城名师行”“幼儿园领航园长培训”等优势教师培训项目，有力提升全域教育水平；在青海举办为期一周的“名师好课走进青海”送教活动，为当地提供了22堂示范课和20堂精专题讲座，邀请资阳、德阳、眉山和雅安教师（校长）、干部到成都市学校跟岗学习和挂职锻炼，共同搭建教学成果展示平台，共商共享艺术体育特色学校共建方法。2019年成都市成为全国首个中外人文交流教育试验区，通过搭建国际教育方法交流平台，提升教育国际化水平：以“熊猫走世界”课程建设培训为载体，邀请德阳、眉山和资阳三市参与国际化课程建设；举办中欧职业教育高峰对话、亚洲教育论坛、中美课堂DOK教学法研讨会、中英教育对话等国际性教育高峰论坛邀请省内兄弟市州以及上海、重庆、武汉教育部门参与国际教学方法共建共享。成都市成华区与攀枝花市仁和区签订教育合作协议，在教育管理、干部培养、教育教学资源发展、教育改革、教育培训和校际合作等方面深入合作。"
+        },
+        {
+          "block_id": "blk-55afcf6f0db1651097b4",
+          "page_number": 50,
+          "text": "成都充分利用教育信息化优势，与其他市州共享教育“三化”监测指标体系，并与德阳市建立监测评估联系机制。推进教育资源信息化，成都通过开放教育资源网站入口、项目共担、学术研讨、专项培训等推进德阳、眉山、资阳教育信息同城化，雅安、南充等兄弟市州教育协同发展。建立教育机构管理信息共享平台，成都与德阳，眉山、资阳共享校外培训机构黑白名单及举办者信息，定期交换民办学校（包括中小学、幼儿园、教育培训机构）"
+        },
+        {
+          "block_id": "blk-eff265776c513048b144",
+          "page_number": 50,
+          "text": "资料来源：成都大学关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-c2241eee8b23ff7c4776",
+          "page_number": 50,
+          "text": "资料来源：中国新闻网：四川省高等职业院校创新创业教育联盟在蓉成立http://www.sc.chinanes.com/kjws/2018-12-29/96731.htm"
+        },
+        {
+          "block_id": "blk-e8318f5d42ed5ccd3262",
+          "page_number": 50,
+          "text": "资料来源：成都大学关于区域合作2019年工作推进情况及2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-574aadfa720e2581d0cf",
+          "page_number": 50,
+          "text": "资料来源：2019年成都市成华区区域合作发展总结报告"
+        },
+        {
+          "block_id": "blk-71caf9f706ad807179b1",
+          "page_number": 50,
+          "text": "教育“三化”是指教育国际化、教育现代化和城乡教育一体化"
+        },
+        {
+          "block_id": "blk-b2da40a708c10a905698",
+          "page_number": 50,
+          "text": "举办者信息、年检结果及处罚结果，推动区域内教育生态良性发展。"
+        },
+        {
+          "block_id": "blk-ebf73346ce02c231f4f1",
+          "page_number": 50,
+          "text": "2019年，成都市进一步做细教育对口援助，制定《关于进一步深化成都市与阿坝州、甘孜州教育援助合作的实施方案》，采取“清单制+项目制+督导制”的方式，成立了教育援藏工作推进小组，全面统筹推进教育援藏工作。校际结对从“一帮多”“多帮一”帮扶机制，并逐渐向“一对一”“多对一”趋势发展，结对对象范围从中小学扩大到幼儿园，实现新增结对帮扶幼儿园35所；创新开展了“校对校”党建共建工作，开设《不忘初心，牢记使命——做教育的追梦"
+        },
+        {
+          "block_id": "blk-9108f4eb4d9f2ea75af3",
+          "page_number": 50,
+          "text": "人》等专题讲堂，培训党委书记、党务工作者百余人。成都市充分利用“校对校”平台，组织开展丰富多彩的“心连心”、“手拉手”等活动766场次，通过“共读一本书”、“重走长征路”等活动在共同学习中推动民族团结"
+        },
+        {
+          "block_id": "blk-9ff083a2d85f9969c0e9",
+          "page_number": 50,
+          "text": "在师资建设上，成都通过“校对校”结对帮扶方式，探索制定了教师定向、定期、定点培训实施方案，对培训教师的专业、周期、区域进行了细化明确，2019年，超过932名优秀干部和教师到甘阿凉三州支教（挂职），开展送培送教1683场次，参加教师8010人次，开展工作坊研修982个；共计接收管理人员挂职、教师跟岗学习、教师培训2800人次，使教师培训工作实现长效持续发展。"
+        },
+        {
+          "block_id": "blk-de85b05716fef5d84ed1",
+          "page_number": 50,
+          "text": "成都市充分利用域内优质资源，以信息化为渠道，人员交流为手段，制度建设为保障在医疗服务协作、学科建设协同、卫生应急协调、公共卫生联动方面与省内市州共建共享。"
+        },
+        {
+          "block_id": "blk-b295db4a1d559b8564b2",
+          "page_number": 50,
+          "text": "省内层面，成都在全省范围内对二级以上符合条件的医疗机构间开展检验检查结果互认工作，切实减轻患者就医负担，并与成都平原经济区7市、川东北经济区广元、南充和巴中建立和探索医疗救治的双向转诊制度。成都还推动四川大学华西医院、成都市中西医结合医院，成都市第三人民医院等通过领办医院、“传帮带”和专科联盟等方式帮助眉山市、资阳市、雅安市相关医院提高医疗服务能力。积极探索二级以上医疗机构远程会诊协同，成都利用“互联网+”技术，实现成都平原经济区远程医学影像会诊、心电图会诊和实时视频会诊全覆盖；成都市第"
+        },
+        {
+          "block_id": "blk-0e853db49da690683da4",
+          "page_number": 50,
+          "text": "二、三、四、五人民医院，市妇女儿童中心医院均在攀西地区建立的远程会诊平台，攀西地区医疗机构可利用“互联网+”技术，实现成都平原经济区远程医学影像会诊、心电图会诊和实时视频会诊。成都市第三人民医院在甘孜州得荣县人民医院建立了县域第一个远程心电中心。以机构交流促进卫生服务全方位合作，成都与攀西经济区签订了《关于促进医疗卫生区域合作协议书》，通过挂"
+        },
+        {
+          "block_id": "blk-6ee7ddf04a13e4d2d32a",
+          "page_number": 50,
+          "text": "资料来源：成都市教育局官方网站：全市教育系统10个先进集体和22个先进个人荣获省教育厅“校对校”帮扶工作表彰。"
+        },
+        {
+          "block_id": "blk-cd01414f9704882c1cc6",
+          "page_number": 50,
+          "text": "http://edu.chengdu.gov.cn/cdeedu/c112832/2019-03/12/content_89 300d2b3dd45abcc5b756fd3ce4e.html."
+        },
+        {
+          "block_id": "blk-f541769a640d224e712e",
+          "page_number": 50,
+          "text": "资料来源：成都市卫生健康委员会关于区域合作2019年工作推进情况及2020年工作打算的函"
+        },
+        {
+          "block_id": "blk-8315c80edce9765c0d11",
+          "page_number": 50,
+          "text": "资料来源：成都市卫生健康委员会官方网站：成都市三医院与甘孜州得荣县人民医院携手荡荡荣县首个互联网+医疗服务；"
+        },
+        {
+          "block_id": "blk-d291251b58243e1ca752",
+          "page_number": 51,
+          "text": "资料来源：成都市卫生健康委员会关于区域合作2019年工作推进情况及2020年工作打算的函"
+        },
+        {
+          "block_id": "blk-714feb5778f4d7808af3",
+          "page_number": 51,
+          "text": "资料来源：成都市卫生健康委员会关于区域合作2019年工作推进情况及2020年工作打算的函"
+        },
+        {
+          "block_id": "blk-639afb32b00f565cffc6",
+          "page_number": 50,
+          "text": "http://cdwjw.chengdu.gov.cn/cdwi/jgzt/d2019-05/15/content_4354 91bdc9467fcb3b2a3a4eefa.html"
+        },
+        {
+          "block_id": "blk-a6c6687534ce20886b50",
+          "page_number": 51,
+          "text": "职对口支援和传帮带提升当地医疗服务水平。"
+        },
+        {
+          "block_id": "blk-417dabb62835f8b927bd",
+          "page_number": 51,
+          "text": "国内层面，2019年，四川大学华西医院重症医学学科联盟分中心增至19个，会员单位76家，覆盖四川全省及云南、贵州、重庆、广西、山西、新疆等地，华西医院重症医学科-分中心-联盟成员单位的三级架构也正式在绵阳落地。成都市中西医结合医院与新疆克拉玛依市独山子人民医院签订的跨区域医疗合作协议，并组织医院多学科专家开设名医工作室，开展跟师学徒义诊活动，推进“一带一路”跨区域医疗协同发展。"
+        },
+        {
+          "block_id": "blk-e0f98df5059756e1fa29",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-f7e8cc64a9a229a7fcbf",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-25f12803d2fb2df8b928",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-3b46039bc72704d273ef",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-407946ac549b6b2cced6",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-9f2d4ba92ddaa6febcea",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-c2f1f3e301c997c3a6b2",
+          "page_number": 51,
+          "text": "成都市依托学科优势，与其他市（州）通过经验交流、信息共享实现学科协同发展；在人才资源区域共享中，通过高级职称区域间互评、医学考试专家互派、互派专家参与质控督导及共享医疗服务质量管理专家库等，推进区域间学科协同发展。成都市妇儿中心医院儿童遗传与内分泌代谢科攀枝花专家工作站成立，为当地学科建设提供支持。成都市多家医院以“师带徒”行动为抓手，在川西北生态示范区开展理论培训49次，现场带教317余次，指导制作文书354余份，并组织开展学科专题培训班，针对性的加强当地重要学科建设。"
+        },
+        {
+          "block_id": "blk-632d800d74985a6d95b3",
+          "page_number": 51,
+          "text": "成都通过学术论坛、座谈交流、专业培训、科研合作等形式，邀请全省各地学科带头人和青年骨干积极参与学科（专科）建设。在中医药发展中，成都市与川南经济区（泸州市、自贡市、宜宾市、内江市），开展了中医药文化宣传、人才培育、技术提升等方面的工作交流；与贵阳市达成初步合作意向，探索中医医疗、人才培养和文化宣传的跨省合作。在妇幼健康服务方面，每一季度邀请德阳市、眉山市、南充市广安市等地专业人员参加孕产妇死亡评审培训会，实现学科建设协作常态化。在肿瘤治疗方面，成都与甘孜州、阿坝州和眉山等地，组建肿瘤治疗专委会西部协作组；在慢性病管理方"
+        },
+        {
+          "block_id": "blk-8565d9607581e487ed85",
+          "page_number": 51,
+          "text": "面，举办天府呼吸高峰论坛、“2019成都心血管学术会议暨心血管慢性病规范化管理培训班”和“慢性肾脏病管理”培训等。2019年，成都市举办各类学科培训班、专科研讨会百余场，服务学科人才上万人，为区域开展医疗学科建设协同提供平台和支持。"
+        },
+        {
+          "block_id": "blk-eac040af5436caed1362",
+          "page_number": 51,
+          "text": "卫生应急，重在信息沟通、机构协调和快速反应。成都每月向成都平原经济区、川东北经济区、川南经济区、攀西经济区和重庆市通报成都市突发公共卫生事件阶段风险评估摘要信息；与贵阳市、南宁市和青海省建立公共卫生突发事件协调联动处理方案，及时通报区域突发公共卫生事件及信息。成都进一步将卫生应急协同落在实处，拟定成都平原经济区卫生应急合作相关工作细则并向7市赠送卫生应急操作指南、应急预案等资料；牵头组建“成都经济平原区8市紧急医学救援队及国家（四川）紧急医学救援队”，组队参与四川2019年省级抗震救灾综合演练。2019年，成都还参与长江中上游五省（市）（四川省、湖北省、重庆市、贵州省和云南省）卫生应急联合演练及培训交流会。"
+        },
+        {
+          "block_id": "blk-5b3288a33e195c59bd91",
+          "page_number": 51,
+          "text": "加强对重点疾病的联防联控与培训。加强信息沟通，成都每季度向全省其他20个市州寄送《成都疾控信息》，实现疾控信息共享全覆盖。在疾控技能提升方面，邀请成都平原经济区7市观摩成都市疾控技能比赛，并参加环境卫生突发事件应急处置及演练培训和自然灾害应急培训等各类常态化培训。成都还选派优秀疾控专家赴各市分别开展免疫规划业务培训、指导卫生城市创建工作等。"
+        },
+        {
+          "block_id": "blk-d3eebef6284f7d778df3",
+          "page_number": 51,
+          "text": "资料来源：四川大学华西医院官方网站，华西癌症医学科学联盟http://www.cwhscn.cc/yit/union/517544.html"
+        },
+        {
+          "block_id": "blk-380c79ca1457e937de35",
+          "page_number": 51,
+          "text": "资料来源：成都市第一人民医院官方网站，成都市中西医结合医院与克拉玛依市独山子人民医院签订区域医疗合作协议；"
+        },
+        {
+          "block_id": "blk-eda07d06633415f3f19c",
+          "page_number": 45,
+          "text": "数据来源"
+        },
+        {
+          "block_id": "blk-2fb157d8c5a5ebc57f62",
+          "page_number": 51,
+          "text": "http://www.cdzxy.com/news_hos/show4399/"
+        },
+        {
+          "block_id": "blk-981ce4c4a83019efb637",
+          "page_number": 51,
+          "text": "数据来源：成都市卫生健康委员会关于区域合作2019年工作推进情况及2020年工作打算的函"
+        },
+        {
+          "block_id": "blk-49d854f7094fe825f6a0",
+          "page_number": 51,
+          "text": "资料来源：成都市卫健委官方网站新闻汇总计算所得"
+        },
+        {
+          "block_id": "blk-5ea255f9b7f0638e7ab4",
+          "page_number": 51,
+          "text": "在重大疾病联防联控方面，成都通过开展培训和实地指导的方式，提升区域协同效率。如成都邀请德阳、眉山、资阳等市参加结核病防治、诊断、治疗等培训班，并对定点医疗机构进行现场指导；组织全省21市州超过200名代表参与艾滋病多学科诊疗和抗病毒治疗培训班等。在精神为卫生方面，成都支持市第四人民医院与成都平原经济区7市签订精神卫生合作协议，并邀请7市卫生机构参加各类技能培训和比赛；在攀西经济区和川西北生态区开展“成都名医三州行”扶贫义诊活动，为数百名群众开展现场义诊检查、入户诊疗、现场教学以及名师带徒等活动。"
+        },
+        {
+          "block_id": "blk-32bb58c15893b11b1eef",
+          "page_number": 51,
+          "text": "在医疗信息联通及管理方面，成都市与"
+        },
+        {
+          "block_id": "blk-4afa0d9fda8d4e79046a",
+          "page_number": 51,
+          "text": "广元、巴中、南充、广安和达州通过省级健康信息平台，实现人口健康信息互联互通。根据全省采供血工作情况及区域特点，成都协助规划建立四川省采供血机构血液管理信息系统，将全省21个血站采供血信息实时相连，极大地提升了全省采供血管理水平和血液安全保障水平。在医药采购信息方面，成都联合巴中等地区，共建医保药品集中带量采购目录，降低药品采购成本。通过执法协作提高区域医疗管理水平。成都与阿坝州、甘孜州分别签订《关于加强中医执法协作的备忘录》，建立中医“打非”信息共享平台、加强跨区域执法协作，形成常态化沟通联络模式，另外还派驻4名业务骨干驻点甘孜、阿坝两州四县指导两市州开展卫生执法工作，开展卫生监督超过350次，出具监督意见书260余份。"
+        },
+        {
+          "block_id": "blk-22031b664acdeba13d27",
+          "page_number": 51,
+          "text": "成都主动从平台共建到信息共享，从人员交流到制度联通，全方位支持人才在四川省全域内实现就业创业，积极引导人才向其他经济区合理流动，实现区域协同。通过线上线下合作，在人才引进、就业岗位创造、人才培养、就业创业环境优化和社保服务等方面与省内外地区开展合作，提高就业和社会保障服务便利度。"
+        },
+        {
+          "block_id": "blk-0b58752a21584861dcac",
+          "page_number": 51,
+          "text": "成都充分利用人才集聚与辐射效应，与其他市（州）共建人才引进与培养平台，实现人才共享。2019年成都通过四川公共招聘网为5776家用人单位向社会发布招聘岗位数22.5万个，发布现场招聘会公告345条，为企业搭建免费的招工平台。利用春季特大型招聘会，成都首次设立“成德眉资”同城化招聘专区，德眉资三市组织参会单位90家，提供需求岗位共计4927个；依托“蓉漂人才日”青年人才特大型招聘会，特设五区协同"
+        },
+        {
+          "block_id": "blk-0e8fd955ee8a5228aef0",
+          "page_number": 51,
+          "text": "合作招聘专区，五大经济区共93家重点优势企业参会，共计提供3625个紧缺急需岗位。另外，成都还开展送岗位到藏区就业扶贫专场招聘会29场，提供岗位3万余个，达成意向性协议3017人，开展就业培训3858人，开展藏区就业干部业务提升培训201人。"
+        },
+        {
+          "block_id": "blk-e128391e66f57a96a534",
+          "page_number": 51,
+          "text": "资料来源：成都市委建委官方网站：建设全省血液管理信息系统发挥成都血液“主干”作用。http://cdwjw.chengdu.gov.cn/cdwjw/gztd/2019-01/18/content_7a3f81df1b84733adac5b78faac26d3.html"
+        },
+        {
+          "block_id": "blk-356b0dc5ed659a1a886e",
+          "page_number": 51,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-f7dd4ae3976b9b0da75e",
+          "page_number": 52,
+          "text": "2019年，成都与与川南、川东北、攀西经济区和川西北生态示范区在高峰荟中签订干部人才协同发展框架协议，加快推动人力资源协同发展。成都进一步发挥向全球吸纳集聚人才，探索高端人才“双聘制”等柔性引才方式和“成都评、全省用”等人才评价体系，以人力资源协同发展促进区域协同发展。成都与全省14个市和部分扩权县召开区域劳务合作座谈会，研究重大产业项目人力资源招募、输送、合作事宜，完善市与市、项目所在区与企业、劳务派遣公司与街道乡镇三级劳务合作平台，深化重大项目区域劳务合作。"
+        },
+        {
+          "block_id": "blk-ddafd485fcf6ac81271b",
+          "page_number": 52,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-5b4dc875c514bcbba94b",
+          "page_number": 52,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-7be050012e03fc2bd16e",
+          "page_number": 52,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-84ba403b2fd8da08f814",
+          "page_number": 52,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-ab7386885900bbe2ee91",
+          "page_number": 52,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-86ddc1dcf28eb9404530",
+          "page_number": 52,
+          "text": "资料来源：成都市人力资源和社会保障局关于汇总区域合作2019年工作推进情况和2020年工作打算的复函"
+        },
+        {
+          "block_id": "blk-3d5d523d79a440fc4bb3",
+          "page_number": 52,
+          "text": "原始 PDF 第 52 页图片"
+        },
+        {
+          "block_id": "blk-d500e9fed96f578b81cc",
+          "page_number": 52,
+          "text": "原始 PDF 第 52 页图片"
+        },
+        {
+          "block_id": "blk-ad060e8b6b118fa84397",
+          "page_number": 52,
+          "text": "原始 PDF 第 52 页图片"
+        },
+        {
+          "block_id": "blk-478d757a357bd368c85a",
+          "page_number": 52,
+          "text": "图6-1成都市-攀西经济区、成都市-川东北经济区人才协议签署"
+        },
+        {
+          "block_id": "blk-7f6f53992ad48916f0ca",
+          "page_number": 52,
+          "text": "加强人才队伍建设协同。2019年，成都与成都平原经济区7市共同签署《成都平原经济区技能人才队伍建设合作协议》《成都平原经济区人力资源合作协议》和《成都平原经济区职称互认协议》，着力着力打破人才流动壁垒，加快建立“业务流程统一、办结标准统一、转递渠道顺畅”的人才流动服务机制；成都制定出台《深化职称制度改革的"
+        },
+        {
+          "block_id": "blk-3405bfe69af22cd2fcd2",
+          "page_number": 52,
+          "text": "实施意见》，与成都平原经济区7市成功建立职称评审协作机制，推进成都平原经济区人才一体化发展走深走实。"
+        },
+        {
+          "block_id": "blk-1cf13c41bbca4ccc8beb",
+          "page_number": 52,
+          "text": "搭建人才交流合作平台。成都组织多市州专业技术人才共同申报国家级研修项目17项，并建成成都、德阳、眉山、资阳四地人社部门博士后工作网络沟通平台。协同推进技能专家资源共享，成都通过专家互派的方式为地区职业技能比赛和职业资格鉴定等活动提供智力支持。成都通过组织召开广州、香港、澳门、成都四地“第十一届穗澳蓉青年技能竞赛第一次行政及专家会议”；组织学习杭州高技能人才培育管理工作先进经验；组队观摩重庆“一带一路”国际技能大赛等工作，增进区域技能人才工作交流合作。"
+        },
+        {
+          "block_id": "blk-1f4ce8eb442dbeed89fb",
+          "page_number": 52,
+          "text": "省内层面，成都通过“四川省专家服务团高级专家走进雅安”“创业导师走进德阳创业园”“蓉城专家眉山行”等活动，组织专家参与智力帮扶行动，全年开展活动31次，参与专家480余人次，举办专题讲座和学术交流1500余场、解决基层技术难题2600余个、培训基层专业技术人才和技能人才1.8万余人次，惠及群众2.3万余人。通过举办创新创业大赛和就业创业培训，加强地区人才技能提升。成都举办“创青春”首届成都平原经济区青年创新创业大赛，为优质项目提供资金支持；充分发挥成都职业培训网络学院作用，免费开放网络培训资源，在全省范围内合作推进“互联网+公共就业创业培训”，2019年开展各类在线培训20万人次。"
+        },
+        {
+          "block_id": "blk-e0f739f474e2cbecfdb9",
+          "page_number": 52,
+          "text": "省外层面，成都与北京、广东、浙江、上海、深圳等地人社部门建立外出务工集中地人社部门合作机制，为成都籍农民工提供就业、社保、医保便民服务。成都还参与创建“西部人才服务联盟”为陕西、四川、云南、贵州、广西、甘肃、青海、宁夏、西藏、新疆、内蒙古、重庆等十二个地区人才服务提供支持。成都配合北京、云南、安徽、湖北、江苏、福建、广州、宁夏等劳动保障监察机构协查劳动保障监察案件，协助处理社保基金反欺诈近100人次"
+        },
+        {
+          "block_id": "blk-b77b6d31e193cb54c634",
+          "page_number": 52,
+          "text": "社会保障区域合作稳步推进，2019年成都经办异地社会保障卡激活、挂失、归属地转移等服务业务共181.17万笔；办理职工基本养老保险关系转移接续手续超5万人次。利用信息化建设，区域互通的养老保险待遇资格认证服务，以实现2737个社保认证点联网认证，协助办理省内认证超30万人次。"
+        },
+        {
+          "block_id": "blk-2e77418e97f9930bb036",
+          "page_number": 52,
+          "text": "在医疗保障方面，2019年，成都先后与成都平原经济区、攀西经济区、川南经济区、川东北经济区、川西北生态示范区签署了医疗保障战略合作协议，实现医疗保障服务区域协同省内全覆盖。成都还牵头推动西南地区三省一区一市（四川省、贵州省、云南省、西藏自治区、重庆市）之间的异地就医门诊联网结算工作，并于2019年底正式建成并启动西南地区三省一区一市异地就医门诊结算平台成为继长三角地区后第二个国家级跨省门诊直接结算工作开通地区，直接惠及2亿群众成都市鼓励市属国有企业锦泰财产保险股份有限公司承保凉山州西昌市、越西县、雷波县、冕宁县补充医疗保险，承保覆盖近30万人次，提供保障资金近600亿元，积极助推社会保障体系建设。"
+        },
+        {
+          "block_id": "blk-38d46f3e9a03f0977cab",
+          "page_number": 52,
+          "text": "在养老服务方面，成都市与德阳、眉山、资阳3市签订了《养老服务工作同城化发展协议》，推动4市将在人才培养、金融服务扶持、医养结合扶持等方面进行深入合作，加快推动成都及周边养老服务业发展。成都"
+        },
+        {
+          "block_id": "blk-887c6584867fa5f45b93",
+          "page_number": 52,
+          "text": "还与攀枝花、巴中签订协议，以项目建设、机构入驻方式，提升当地养老服务质量。"
+        },
+        {
+          "block_id": "blk-65fce422322f65729da9",
+          "page_number": 52,
+          "text": "资料来源：成都市医疗保障局关于报送区域合作2019年工作推进情况和2020年工作打算的函"
+        },
+        {
+          "block_id": "blk-c8fd0fedd89908b6382b",
+          "page_number": 52,
+          "text": "资料来源：新华网、惠及2亿人西南片区开通跨省门诊费用直接结算，http://www.xinhuanet.com/politics/2019-12/23/c_1125378156.htm"
+        },
+        {
+          "block_id": "blk-09a0643a0a8e41636f66",
+          "page_number": 52,
+          "text": "资料来源：锦泰财产保险股份有限公司关于区域合作2019年工作推进情况和2020年工作打算的报告"
+        },
+        {
+          "block_id": "blk-4539a878254ef727fbfc",
+          "page_number": 52,
+          "text": "资料来源：成都市民政局关于报送区域合作2019年推进情况和2020年工作计划的函"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-bdfd9ce98c0f",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-749b0dc04cd4"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

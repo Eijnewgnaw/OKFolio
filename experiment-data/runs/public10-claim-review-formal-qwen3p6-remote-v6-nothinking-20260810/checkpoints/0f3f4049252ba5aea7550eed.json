@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-ca671025b11f:bundle-80ab7db9345e) is missing hard anchors from the claim: ['2021年']; claim='2021年，天府新区全面融入成德眉资同城化发展，与眉山协同打造成眉高新技术产业带，推动籍田街道和视高街道合作打造籍视“产业+生态”交界地融合发展示范点。'; excerpt='一是融入成德眉资同城化发展。四川省推进成德眉资同城化发展领导小组办公室第一个省级机构入驻天府新区，与眉山协同眉山打造成眉高新技术产业带，推动籍田街道和视高街道积极合作，打造籍视“产业+生态”交界地融合发展示范点。'",
+  "group_id": "topic-a6058483f5a8",
+  "ref_ids": [
+    "ref-ca671025b11f"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

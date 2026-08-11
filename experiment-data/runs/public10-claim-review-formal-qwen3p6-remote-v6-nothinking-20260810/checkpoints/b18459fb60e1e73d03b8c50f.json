@@ -1,0 +1,814 @@
+{
+  "contract": {
+    "canonical_question": "蒲江县交通基础设施共建中，成都经济区环线高速公路蒲江至都江堰段、蒲丹快速路及蒲名快速路一期项目的具体建设进展如何？",
+    "claims": [
+      {
+        "claim": "成都经济区环线高速公路蒲江至都江堰段的用地、杆管线迁改等工作已基本结束。",
+        "claim_id": "claim-e41bb30e32ea9c81",
+        "evidence_block_ids": [
+          "blk-98c0b16c3cc5f9a8f17c"
+        ],
+        "evidence_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+        "evidence_id": "ref-e96c09619bdd:bundle-17fed0b00b28",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-e96c09619bdd",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。",
+        "claim_id": "claim-423c3468f8cefb37",
+        "evidence_block_ids": [
+          "blk-98c0b16c3cc5f9a8f17c"
+        ],
+        "evidence_excerpt": "二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。",
+        "evidence_id": "ref-e96c09619bdd:bundle-17fed0b00b28",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-e96c09619bdd",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "蒲名快速路一期项目进展顺利，已完成30%路基土石方工程。",
+        "claim_id": "claim-cb2fda6b7212093f",
+        "evidence_block_ids": [
+          "blk-98c0b16c3cc5f9a8f17c"
+        ],
+        "evidence_excerpt": "三是蒲名快速路一期项目进展顺利，已完成 \\(30\\%\\) 路基土石方工程",
+        "evidence_id": "ref-e96c09619bdd:bundle-17fed0b00b28",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-e96c09619bdd",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-e41bb30e32ea9c81",
+          "claim-423c3468f8cefb37",
+          "claim-cb2fda6b7212093f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e96c09619bdd:bundle-17fed0b00b28",
+        "reason": "该证据包含回答中心问题所需的全部核心事实，即三个交通项目的具体进展状态，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-4613f11e46d5",
+    "members": [
+      {
+        "contribution": "该证据直接描述了蒲江县交通基础设施共建中三个关键项目（成经环高速蒲江至都江堰段、蒲丹快速路、蒲名快速路一期）的具体建设进度和完成情况，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-e96c09619bdd",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "human_review",
+    "rows": [
+      {
+        "claim_id": "claim-e41bb30e32ea9c81",
+        "draft_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-423c3468f8cefb37",
+        "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+        "finding": "草稿提及蒲丹快速路，但将其与天蒲快速路、蒲夹高速等未提及项目并列，且存在乱码/OCR异常（'交通交通'），无法可靠判断其是否准确表达了该claim关于'征地拆迁完成'及'控制点推进'的具体进展状态。",
+        "status": "uncertain"
+      },
+      {
+        "claim_id": "claim-cb2fda6b7212093f",
+        "draft_excerpt": "三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-e41bb30e32ea9c81"
+        ],
+        "draft_excerpt": "有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-43755b259fc8fb97",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-367e2687cc779942",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1c933e8fb5b205bb",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a7ba59eca2940eea",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-17ff2ec2b0d8062e",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b12eeedf8cb7151a",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-e41bb30e32ea9c81"
+        ],
+        "draft_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ade65c2180a7863",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-423c3468f8cefb37"
+        ],
+        "draft_excerpt": "二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-41607307380a2493",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cb2fda6b7212093f"
+        ],
+        "draft_excerpt": "三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d800d12eeebb313d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-455cb3b9b74778ea",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-38dc9be53ece6c72",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-481a1b676d7711f3",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+        "finding": "该句主要列举了多个交通项目（天蒲、成温邛、蒲夹、城际外环线、蒲丹），其中除蒲丹快速路外，其余项目均不在Claim Contract中。且存在明显文本错误（'交通交通'），无法归因于任何特定claim的精确事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2cbb91a75d240f26",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+        "finding": "该句内容涉及就业、社保、生态及公共资源交易，完全不在Claim Contract关于交通基础设施建设的范围内，属于合同外事实。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4bdf1c38b2a572bc",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+        "finding": "提及了天蒲快速路、成温邛快速路延伸线、蒲夹高速、成都铁路城际外环线等Claim Contract中未包含的项目。"
+      },
+      {
+        "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+        "finding": "提及了就业服务、社会保障、生态环境建设、公共资源交易制度等Claim Contract中未包含的合作领域。"
+      },
+      {
+        "draft_excerpt": "2019年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "1",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "6",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-e41bb30e32ea9c81",
+          "draft_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-423c3468f8cefb37",
+          "draft_excerpt": "二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cb2fda6b7212093f",
+          "draft_excerpt": "三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-e41bb30e32ea9c81"
+          ],
+          "draft_excerpt": "有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+          "finding": "supported",
+          "sentence_id": "sentence-43755b259fc8fb97",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-367e2687cc779942",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+          "finding": "unsupported",
+          "sentence_id": "sentence-1c933e8fb5b205bb",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+          "finding": "unsupported",
+          "sentence_id": "sentence-a7ba59eca2940eea",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+          "finding": "unsupported",
+          "sentence_id": "sentence-17ff2ec2b0d8062e",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-b12eeedf8cb7151a",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-e41bb30e32ea9c81"
+          ],
+          "draft_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+          "finding": "supported",
+          "sentence_id": "sentence-1ade65c2180a7863",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-423c3468f8cefb37"
+          ],
+          "draft_excerpt": "二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。",
+          "finding": "supported",
+          "sentence_id": "sentence-41607307380a2493",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cb2fda6b7212093f"
+          ],
+          "draft_excerpt": "三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程",
+          "finding": "supported",
+          "sentence_id": "sentence-d800d12eeebb313d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-455cb3b9b74778ea",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+          "finding": "unsupported",
+          "sentence_id": "sentence-38dc9be53ece6c72",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+          "finding": "unsupported",
+          "sentence_id": "sentence-481a1b676d7711f3",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-423c3468f8cefb37",
+          "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+          "finding": "草稿提及蒲丹快速路，但将其与天蒲快速路、蒲夹高速等未提及项目并列，且存在乱码/OCR异常（'交通交通'），无法可靠判断其是否准确表达了该claim关于'征地拆迁完成'及'控制点推进'的具体进展状态。",
+          "status": "uncertain"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+          "finding": "该句主要列举了多个交通项目（天蒲、成温邛、蒲夹、城际外环线、蒲丹），其中除蒲丹快速路外，其余项目均不在Claim Contract中。且存在明显文本错误（'交通交通'），无法归因于任何特定claim的精确事实。",
+          "sentence_id": "sentence-2cbb91a75d240f26",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+          "finding": "该句内容涉及就业、社保、生态及公共资源交易，完全不在Claim Contract关于交通基础设施建设的范围内，属于合同外事实。",
+          "sentence_id": "sentence-4bdf1c38b2a572bc",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+          "finding": "提及了天蒲快速路、成温邛快速路延伸线、蒲夹高速、成都铁路城际外环线等Claim Contract中未包含的项目。"
+        },
+        {
+          "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+          "finding": "提及了就业服务、社会保障、生态环境建设、公共资源交易制度等Claim Contract中未包含的合作领域。"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "0299183b70c64cf64caa231e48d3facb66320a392bf3f61e532c9cc4807dc67f",
+  "coverage_history": [
+    {
+      "draft_sha256": "0299183b70c64cf64caa231e48d3facb66320a392bf3f61e532c9cc4807dc67f",
+      "matrix": {
+        "decision": "human_review",
+        "rows": [
+          {
+            "claim_id": "claim-e41bb30e32ea9c81",
+            "draft_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-423c3468f8cefb37",
+            "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+            "finding": "草稿提及蒲丹快速路，但将其与天蒲快速路、蒲夹高速等未提及项目并列，且存在乱码/OCR异常（'交通交通'），无法可靠判断其是否准确表达了该claim关于'征地拆迁完成'及'控制点推进'的具体进展状态。",
+            "status": "uncertain"
+          },
+          {
+            "claim_id": "claim-cb2fda6b7212093f",
+            "draft_excerpt": "三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-e41bb30e32ea9c81"
+            ],
+            "draft_excerpt": "有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43755b259fc8fb97",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-367e2687cc779942",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1c933e8fb5b205bb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7ba59eca2940eea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-17ff2ec2b0d8062e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b12eeedf8cb7151a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-e41bb30e32ea9c81"
+            ],
+            "draft_excerpt": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ade65c2180a7863",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-423c3468f8cefb37"
+            ],
+            "draft_excerpt": "二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41607307380a2493",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cb2fda6b7212093f"
+            ],
+            "draft_excerpt": "三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d800d12eeebb313d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-455cb3b9b74778ea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-38dc9be53ece6c72",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-481a1b676d7711f3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+            "finding": "该句主要列举了多个交通项目（天蒲、成温邛、蒲夹、城际外环线、蒲丹），其中除蒲丹快速路外，其余项目均不在Claim Contract中。且存在明显文本错误（'交通交通'），无法归因于任何特定claim的精确事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2cbb91a75d240f26",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+            "finding": "该句内容涉及就业、社保、生态及公共资源交易，完全不在Claim Contract关于交通基础设施建设的范围内，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4bdf1c38b2a572bc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；",
+            "finding": "提及了天蒲快速路、成温邛快速路延伸线、蒲夹高速、成都铁路城际外环线等Claim Contract中未包含的项目。"
+          },
+          {
+            "draft_excerpt": "深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+            "finding": "提及了就业服务、社会保障、生态环境建设、公共资源交易制度等Claim Contract中未包含的合作领域。"
+          },
+          {
+            "draft_excerpt": "2019年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。\n\n下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。\n\n## 证据与影响\n\n一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。三是蒲名快速路一期项目进展顺利，已完成30%路基土石方工程\n\n- 2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。\n- 下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+    "description": "有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-4613f11e46d5",
+      "description": "有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "### 第二十二节 蒲江县",
+        "#### 推进交通基础设施共建",
+        "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。三是蒲名快速路一期项目进展顺利，已完成 \\(30\\%\\) 路基土石方工程\n\n2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。",
+        "#### 推进生态环境共建共治",
+        "与雅安市名山县达成《环境保护领域合作框架协议》，建立定期联席会商机制，并召开联席会议2次。与雅安市名山区、邛崃市签定了《关于建立岷江河长制管理协调机制联动推进流域水生态治理保护的合作协议》，制定《成都市蒲江县环境保护局雅安市名山区环境保护局区域生态环境联合检查方案》。",
+        "#### 加快就业服务领域合作",
+        "2019年，蒲江县赴川农大、雅职院、市技师学院等组织“人才招聘高校行”活动10余场；赴天全县、仁寿县等合作区（市）县举办跨区域联合招聘会10余场，联合解决区域用工问题。",
+        "#### 深化与德国企业密切合作",
+        "德国先进工业科技研究院IAIT、德国联邦物流采购协会BME成立中欧（成都）跨国采购平台，已入驻世界500强企业15家，并正式揭牌成立中德(浦江)中小企业合作区柏林办事处；中德（成都）AHK职教培训中心和KUKA授权研究院开展对外培训近6000余人次，2019年营业收入已突破1000万元。",
+        "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。",
+        "#### 聚焦产业协同发展合作",
+        "对甘孜州泸定县累计实施帮扶项目8大类32项，助力当地实施乡村振兴战略。成功签约引进成都华商理工职业学校、筹建成都铁道交通职业学院和巴蜀行知工学等项目，建成工业4.0产教融合基地1个，成为西部首家“长风计划”全国示范区。与中科院、川农大等3家省级以上科研院所设立合作平台，强化科创空间的塑造和专家大院的建设。"
+      ],
+      "evidence_block_ids": [
+        "blk-98c0b16c3cc5f9a8f17c",
+        "blk-19b073d27dadd0f11683",
+        "blk-f0f98e648b51babe0052",
+        "blk-95f69f91c4dce17491a0",
+        "blk-8842b8464e2c0bdf2e55",
+        "blk-0eb16855a5d0a6b78d41",
+        "blk-ab1a9600f2e24bf7e0bf",
+        "blk-2365b0649cbc841a6913",
+        "blk-68883359bf4abf705967",
+        "blk-b0a1f075324e62b00fe2",
+        "blk-dc32d579dd74ea41246d",
+        "blk-8498c975b823ffd39c8a",
+        "blk-63d610e47b6c0835eb5d",
+        "blk-3a6e48ab6a721ec92224"
+      ],
+      "page_end": 76,
+      "page_start": 71,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "第二十二节 蒲江县交通基础设施共建",
+      "type": "分析框架"
+    },
+    "title": "第二十二节 蒲江县交通基础设施共建"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e96c09619bdd:bundle-17fed0b00b28",
+      "excluded_fragments": [],
+      "ref_id": "ref-e96c09619bdd",
+      "source_blocks": [
+        {
+          "block_id": "blk-98c0b16c3cc5f9a8f17c",
+          "page_number": 71,
+          "text": "一是有序推进成都经济区环线高速公路蒲江至都江堰段，用地、杆管线迁改等工作已基本结束。二是蒲丹快速路已完成征地拆迁，光明隧道、板栗坡大桥等重要控制点工程顺利推进。三是蒲名快速路一期项目进展顺利，已完成 \\(30\\%\\) 路基土石方工程"
+        },
+        {
+          "block_id": "blk-19b073d27dadd0f11683",
+          "page_number": 71,
+          "text": "2019年以来，蒲江县立足现代农业优势，重点聚焦推进交通基础设施共建、生态环境共建共治、就业服务领域合作、产业协同发展合作、深化与德国密切合作等工作内容，在区域合作上取得一定成效。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-b0a1f075324e62b00fe2",
+          "page_number": 71,
+          "text": "与雅安市名山县达成《环境保护领域合作框架协议》，建立定期联席会商机制，并召开联席会议2次。与雅安市名山区、邛崃市签定了《关于建立岷江河长制管理协调机制联动推进流域水生态治理保护的合作协议》，制定《成都市蒲江县环境保护局雅安市名山区环境保护局区域生态环境联合检查方案》。"
+        },
+        {
+          "block_id": "blk-dc32d579dd74ea41246d",
+          "page_number": 71,
+          "text": "2019年，蒲江县赴川农大、雅职院、市技师学院等组织“人才招聘高校行”活动10余场；赴天全县、仁寿县等合作区（市）县举办跨区域联合招聘会10余场，联合解决区域用工问题。"
+        },
+        {
+          "block_id": "blk-8498c975b823ffd39c8a",
+          "page_number": 71,
+          "text": "德国先进工业科技研究院IAIT、德国联邦物流采购协会BME成立中欧（成都）跨国采购平台，已入驻世界500强企业15家，并正式揭牌成立中德(浦江)中小企业合作区柏林办事处；中德（成都）AHK职教培训中心和KUKA授权研究院开展对外培训近6000余人次，2019年营业收入已突破1000万元。"
+        },
+        {
+          "block_id": "blk-63d610e47b6c0835eb5d",
+          "page_number": 71,
+          "text": "下一步，蒲江县应将与青白江区共创共建“成都国际铁路港经济开发区”、川藏铁路第一港产业新城等作为建设重点任务，加快集聚适铁产业；以与丹棱县“1+6”合作协议为基础，推动两地产业协同发展，共促成眉同城化发展成势见效；推进天蒲快速路、成温邛快速路延伸线方案以及蒲夹高速、成都铁路城际外环线、蒲丹快速路，加快交通交通“内联外畅；深化与其他市（州）在就业服务、社会保障、生态环境建设等领域紧密合作，完善区域公共资源交易制度。"
+        },
+        {
+          "block_id": "blk-3a6e48ab6a721ec92224",
+          "page_number": 71,
+          "text": "对甘孜州泸定县累计实施帮扶项目8大类32项，助力当地实施乡村振兴战略。成功签约引进成都华商理工职业学校、筹建成都铁道交通职业学院和巴蜀行知工学等项目，建成工业4.0产教融合基地1个，成为西部首家“长风计划”全国示范区。与中科院、川农大等3家省级以上科研院所设立合作平台，强化科创空间的塑造和专家大院的建设。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-4613f11e46d5",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-e96c09619bdd"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

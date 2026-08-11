@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[4].evidence_excerpt (ref-100c607b392d:bundle-96f2e40d3729) is missing hard anchors from the claim: ['17', '2010', '2019年']; claim='除成都、绵阳、德阳外，四川省其余17个地级市在2010-2019年间均处于初级协调阶段。'; excerpt='其他城市也处于动态变化过程，但均处于初级协调阶段'",
+  "group_id": "topic-dcd3fde5d787",
+  "ref_ids": [
+    "ref-100c607b392d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

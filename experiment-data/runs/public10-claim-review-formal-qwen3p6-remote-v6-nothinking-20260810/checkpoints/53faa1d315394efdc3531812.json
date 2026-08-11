@@ -1,0 +1,855 @@
+{
+  "contract": {
+    "canonical_question": "成都市人民政府与清华大学签署全面深化合作协议的核心内容、合作领域及具体实施路径是什么？",
+    "claims": [
+      {
+        "claim": "2023年3月15日，成都市人民政府与清华大学在清华大学举行深化产学研融合发展座谈会暨签约仪式，并签署全面深化合作协议。",
+        "claim_id": "claim-0c61c8338d172eef",
+        "evidence_block_ids": [
+          "blk-9deff56013c6dfcd893f"
+        ],
+        "evidence_excerpt": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。会上，成都市人民政府与清华大学签署全面深化合作协议",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {
+          "time": [
+            "2023年3月15日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方合作聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+        "claim_id": "claim-54cc83127f23c265",
+        "evidence_block_ids": [
+          "blk-9deff56013c6dfcd893f"
+        ],
+        "evidence_excerpt": "标志着成都与清华大学将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在西部（成都）科学城建设方面，清华大学依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等方面提供支撑，并导入碳中和领域的人才、团队和技术力量。",
+        "claim_id": "claim-9a6e42a2dce0ed03",
+        "evidence_block_ids": [
+          "blk-f4e7f25871c41fb0e692"
+        ],
+        "evidence_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {
+          "object": [
+            "天府永兴实验室",
+            "西部（成都）科学城"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持其建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+        "claim_id": "claim-54c157a076e94192",
+        "evidence_block_ids": [
+          "blk-f4e7f25871c41fb0e692"
+        ],
+        "evidence_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {
+          "region": [
+            "四川省",
+            "西南地区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方共同推进科技成果转化项目在蓉落地，发挥研究院平台和窗口作用，承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地。",
+        "claim_id": "claim-d75dfb4a786321aa",
+        "evidence_block_ids": [
+          "blk-f4e7f25871c41fb0e692"
+        ],
+        "evidence_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {
+          "region": [
+            "成都"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双方创新人才培养模式，围绕成都产业发展需求合作开展人才培养，支持优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+        "claim_id": "claim-8cd6a5474fd91b36",
+        "evidence_block_ids": [
+          "blk-f4e7f25871c41fb0e692"
+        ],
+        "evidence_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {
+          "region": [
+            "成都"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "清华大学支持成都建设高水平智库，共同推动将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，并打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+        "claim_id": "claim-825425e66cd4d284",
+        "evidence_block_ids": [
+          "blk-f4e7f25871c41fb0e692"
+        ],
+        "evidence_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          292
+        ],
+        "ref_id": "ref-8c9ffa062aea",
+        "scope": {
+          "object": [
+            "成都高质量发展研究院"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-0c61c8338d172eef",
+          "claim-54cc83127f23c265",
+          "claim-9a6e42a2dce0ed03",
+          "claim-54c157a076e94192",
+          "claim-d75dfb4a786321aa",
+          "claim-8cd6a5474fd91b36",
+          "claim-825425e66cd4d284"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+        "reason": "该Bundle包含协议签署的时间、主体、五大合作领域及西部科学城建设的具体支撑措施，是回答中心问题固定槽位（subject, core_judgment, evidence, implementation_path）的必要事实。"
+      }
+    ],
+    "group_id": "topic-6f57929615b7",
+    "members": [
+      {
+        "contribution": "该证据直接描述了成都市人民政府与清华大学签署全面深化合作协议的具体背景、五大合作领域（产学研平台、成果转化、人才、智库等）及西部科学城建设的具体实施路径，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-8c9ffa062aea",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-0c61c8338d172eef",
+        "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-54cc83127f23c265",
+        "draft_excerpt": "双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9a6e42a2dce0ed03",
+        "draft_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-54c157a076e94192",
+        "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d75dfb4a786321aa",
+        "draft_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8cd6a5474fd91b36",
+        "draft_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-825425e66cd4d284",
+        "draft_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-0c61c8338d172eef",
+          "claim-54cc83127f23c265"
+        ],
+        "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a89bcd4385a5210d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0c61c8338d172eef"
+        ],
+        "draft_excerpt": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aa8e770774b7b1ca",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0c61c8338d172eef"
+        ],
+        "draft_excerpt": "会上，成都市人民政府与清华大学签署全面深化合作协议。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2a8d494727cbe06e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-54cc83127f23c265"
+        ],
+        "draft_excerpt": "双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3b994a758ad6df26",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9a6e42a2dce0ed03"
+        ],
+        "draft_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-17bc03b10048edd5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-54c157a076e94192"
+        ],
+        "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aec7d65e2deb7d4f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d75dfb4a786321aa"
+        ],
+        "draft_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-be519fc1973e0713",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8cd6a5474fd91b36"
+        ],
+        "draft_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fe70764929ffb8e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-825425e66cd4d284"
+        ],
+        "draft_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c25e0d7910ca0b4b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-0c61c8338d172eef",
+          "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-54cc83127f23c265",
+          "draft_excerpt": "双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9a6e42a2dce0ed03",
+          "draft_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-54c157a076e94192",
+          "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d75dfb4a786321aa",
+          "draft_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8cd6a5474fd91b36",
+          "draft_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-825425e66cd4d284",
+          "draft_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-0c61c8338d172eef",
+            "claim-54cc83127f23c265"
+          ],
+          "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+          "finding": "supported",
+          "sentence_id": "sentence-a89bcd4385a5210d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0c61c8338d172eef"
+          ],
+          "draft_excerpt": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。",
+          "finding": "supported",
+          "sentence_id": "sentence-aa8e770774b7b1ca",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0c61c8338d172eef"
+          ],
+          "draft_excerpt": "会上，成都市人民政府与清华大学签署全面深化合作协议。",
+          "finding": "supported",
+          "sentence_id": "sentence-2a8d494727cbe06e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-54cc83127f23c265"
+          ],
+          "draft_excerpt": "双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。",
+          "finding": "supported",
+          "sentence_id": "sentence-3b994a758ad6df26",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9a6e42a2dce0ed03"
+          ],
+          "draft_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+          "finding": "supported",
+          "sentence_id": "sentence-17bc03b10048edd5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-54c157a076e94192"
+          ],
+          "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+          "finding": "supported",
+          "sentence_id": "sentence-aec7d65e2deb7d4f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d75dfb4a786321aa"
+          ],
+          "draft_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-be519fc1973e0713",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8cd6a5474fd91b36"
+          ],
+          "draft_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+          "finding": "supported",
+          "sentence_id": "sentence-fe70764929ffb8e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-825425e66cd4d284"
+          ],
+          "draft_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+          "finding": "supported",
+          "sentence_id": "sentence-c25e0d7910ca0b4b",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "02dd0c1b58c69eb00d68f2930da84aa9f59aa523e6742c15caebef2be240bf87",
+  "coverage_history": [
+    {
+      "draft_sha256": "80a3563a4f83cb802186d19dd3fb67e5a65ffc358e81eb94a800f17d54d9ae1e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-0c61c8338d172eef",
+            "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略，在产学研合作、平台建设、成果转化、人才培养及智库咨询五大方面推动市校协同创新。",
+            "finding": "description",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54cc83127f23c265",
+            "draft_excerpt": "该合作标志着双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，推动市校协同创新向更深层次、更高水平迈进。",
+            "finding": "body",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a6e42a2dce0ed03",
+            "draft_excerpt": "在西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+            "finding": "body",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54c157a076e94192",
+            "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+            "finding": "body",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d75dfb4a786321aa",
+            "draft_excerpt": "在科技成果转化方面，双方共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+            "finding": "body",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-825425e66cd4d284",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8cd6a5474fd91b36",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0c61c8338d172eef",
+              "claim-54cc83127f23c265"
+            ],
+            "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略，在产学研合作、平台建设、成果转化、人才培养及智库咨询五大方面推动市校协同创新。",
+            "finding": "description",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-77cf9a45e1423375",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0c61c8338d172eef"
+            ],
+            "draft_excerpt": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行，会上成都市人民政府与清华大学签署全面深化合作协议。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d877279f81fcb22a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54cc83127f23c265"
+            ],
+            "draft_excerpt": "该合作标志着双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，推动市校协同创新向更深层次、更高水平迈进。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ec36ed8db327d3bf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54cc83127f23c265"
+            ],
+            "draft_excerpt": "双方合作主要涵盖五大方面：产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-332d4fa601670071",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9a6e42a2dce0ed03"
+            ],
+            "draft_excerpt": "在西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02ff4b0b85bb78a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54c157a076e94192"
+            ],
+            "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aec7d65e2deb7d4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d75dfb4a786321aa"
+            ],
+            "draft_excerpt": "在科技成果转化方面，双方共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2a83b400b61fcc8f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8cd6a5474fd91b36"
+            ],
+            "draft_excerpt": "在人才培养方面，双方创新人才培养模式，围绕成都产业发展需求合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8212f9734f53e160",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-825425e66cd4d284"
+            ],
+            "draft_excerpt": "在智库咨询方面，清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99aae3f454969d23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该合作标志着双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，推动市校协同创新向更深层次、更高水平迈进。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "02dd0c1b58c69eb00d68f2930da84aa9f59aa523e6742c15caebef2be240bf87",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-0c61c8338d172eef",
+            "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54cc83127f23c265",
+            "draft_excerpt": "双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a6e42a2dce0ed03",
+            "draft_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-54c157a076e94192",
+            "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d75dfb4a786321aa",
+            "draft_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8cd6a5474fd91b36",
+            "draft_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-825425e66cd4d284",
+            "draft_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0c61c8338d172eef",
+              "claim-54cc83127f23c265"
+            ],
+            "draft_excerpt": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a89bcd4385a5210d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0c61c8338d172eef"
+            ],
+            "draft_excerpt": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa8e770774b7b1ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0c61c8338d172eef"
+            ],
+            "draft_excerpt": "会上，成都市人民政府与清华大学签署全面深化合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2a8d494727cbe06e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54cc83127f23c265"
+            ],
+            "draft_excerpt": "双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3b994a758ad6df26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9a6e42a2dce0ed03"
+            ],
+            "draft_excerpt": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-17bc03b10048edd5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-54c157a076e94192"
+            ],
+            "draft_excerpt": "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aec7d65e2deb7d4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d75dfb4a786321aa"
+            ],
+            "draft_excerpt": "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be519fc1973e0713",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8cd6a5474fd91b36"
+            ],
+            "draft_excerpt": "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe70764929ffb8e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-825425e66cd4d284"
+            ],
+            "draft_excerpt": "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c25e0d7910ca0b4b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。会上，成都市人民政府与清华大学签署全面深化合作协议。双方将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进。\n\n- 在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量。\n- 在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构。\n- 共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展。\n- 创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程。\n- 清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。",
+    "description": "2023年3月15日，成都市人民政府与清华大学签署全面深化合作协议，聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6f57929615b7",
+      "description": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。会上，成都市人民政府与清华大学签署全面深化合作协议",
+        "标志着成都与清华大学将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进",
+        "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量",
+        "在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构",
+        "共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展",
+        "创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程",
+        "清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台"
+      ],
+      "evidence_block_ids": [
+        "blk-9deff56013c6dfcd893f",
+        "blk-f4e7f25871c41fb0e692"
+      ],
+      "page_end": 292,
+      "page_start": 292,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成都市人民政府与清华大学签署全面深化合作协议"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "成都市人民政府与清华大学签署全面深化合作协议",
+      "type": "分析框架"
+    },
+    "title": "成都市人民政府与清华大学签署全面深化合作协议"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-8c9ffa062aea:bundle-9081e894ccee",
+      "excluded_fragments": [],
+      "ref_id": "ref-8c9ffa062aea",
+      "source_blocks": [
+        {
+          "block_id": "blk-9deff56013c6dfcd893f",
+          "page_number": 292,
+          "text": "2023年3月15日，四川省-清华大学深化产学研融合发展座谈会暨签约仪式在清华大学举行。会上，成都市人民政府与清华大学签署全面深化合作协议，标志着成都与清华大学将共同聚焦国家创新驱动发展战略布局和国家战略性新兴产业发展方向，充分发挥市校双方资源优势，在产学研及科技创新平台建设、科技成果转化、引进培育人才、智库咨询合作五大方面推动市校协同创新向更深层次、更高水平迈进，助力实现双方共同创新发展。"
+        },
+        {
+          "block_id": "blk-f4e7f25871c41fb0e692",
+          "page_number": 292,
+          "text": "在共同推动西部（成都）科学城建设方面，清华大学将依托研究院参与天府永兴实验室建设，从组织构架设计、研究方向和制度建设等多方面为实验室筹建和管理运行提供重要支撑，积极导入学校相关院系和研究院在碳中和领域的人才、团队和技术力量；在平台建设方面，市校双方加大对研究院二期建设的支持力度，共同将研究院打造成为清华大学在四川省及西南地区的重要合作平台，支持研究院建设成为国际知名、国内领先的能源互联网领域新型研发机构；共同推进科技成果转化项目在蓉落地，充分发挥研究院的平台和窗口作用，积极承载清华大学科技成果在蓉引进熟化，推广服务创新成果在蓉转化和落地，助力成都产业发展；创新人才培养模式，围绕成都产业发展需求，合作开展人才培养，支持来成都创新创业的优秀人才申报蓉漂计划、产业生态圈人才计划等重大人才工程；清华大学支持成都建设高水平智库，共同推动支持成都将成都高质量发展研究院建设为全国高质量发展领域顶尖智库，依托双方各自优势，共同将成都高研院打造为清华大学公共管理学院的教学实践和干部教育培训基地、智库工作平台。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6f57929615b7",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-8c9ffa062aea"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

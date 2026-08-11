@@ -1,0 +1,1328 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在统筹推进双向投资方面，针对外商投资准入、境外投资管理及国企改革的具體政策举措与实施路径是什么？",
+    "claims": [
+      {
+        "claim": "全面实施准入前国民待遇加负面清单管理制度，进一步减少和取消外商投资准入限制。",
+        "claim_id": "claim-780fa17ab271b07f",
+        "evidence_block_ids": [
+          "blk-41fa6c7b0d0390e61821",
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146,
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+        "claim_id": "claim-dd60f718453592a0",
+        "evidence_block_ids": [
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+        "claim_id": "claim-68e9562596945fe2",
+        "evidence_block_ids": [
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+        "claim_id": "claim-326ecdc19ac4ad73",
+        "evidence_block_ids": [
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在成都自贸试验区支持建立国别合作园区。",
+        "claim_id": "claim-a98a8adfc1864f73",
+        "evidence_block_ids": [
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "在成都自贸试验区支持建立国别合作园区。",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {
+          "region": [
+            "成都自贸试验区"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+        "claim_id": "claim-00b90e6fb173f50f",
+        "evidence_block_ids": [
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+        "claim_id": "claim-c41e97be221c0f48",
+        "evidence_block_ids": [
+          "blk-01ce5afac0b448851b80"
+        ],
+        "evidence_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-c949f85bbb67",
+        "scope": {
+          "region": [
+            "成都自贸试验区"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-780fa17ab271b07f",
+          "claim-dd60f718453592a0",
+          "claim-68e9562596945fe2",
+          "claim-326ecdc19ac4ad73",
+          "claim-a98a8adfc1864f73",
+          "claim-00b90e6fb173f50f",
+          "claim-c41e97be221c0f48"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+        "reason": "该证据包含外商投资准入、境外投资管理、国企深化改革等核心事实，是回答双向投资政策举措的必要证据。"
+      }
+    ],
+    "group_id": "topic-6df5823a6d52",
+    "members": [
+      {
+        "contribution": "该证据直接提供了外商投资准入负面清单管理、民间投资放宽、外资服务保障、国别合作园区建立、境外投资备案制及国企深化改革等具体政策举措，完整覆盖了双向投资的核心实施路径。",
+        "ref_id": "ref-c949f85bbb67",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-780fa17ab271b07f",
+        "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-00b90e6fb173f50f",
+        "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-68e9562596945fe2",
+        "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-326ecdc19ac4ad73",
+        "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c41e97be221c0f48",
+        "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dd60f718453592a0",
+        "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a98a8adfc1864f73",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8de5b5ccc5237128",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-98eecf29aba77989",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-780fa17ab271b07f"
+        ],
+        "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5c8d240bfacc6709",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00b90e6fb173f50f"
+        ],
+        "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-adaab070ae54cefd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1b8b57b692af3b63",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-68e9562596945fe2",
+          "claim-326ecdc19ac4ad73"
+        ],
+        "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3d137280a7473da0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c41e97be221c0f48"
+        ],
+        "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d0399dfc36629cb3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-780fa17ab271b07f"
+        ],
+        "draft_excerpt": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dea1c903e3ce8941",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dd60f718453592a0"
+        ],
+        "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2b31462b738ae123",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-68e9562596945fe2"
+        ],
+        "draft_excerpt": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-910b653cc99224d0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-326ecdc19ac4ad73"
+        ],
+        "draft_excerpt": "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6c30e7ed31254f30",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a98a8adfc1864f73"
+        ],
+        "draft_excerpt": "在成都自贸试验区支持建立国别合作园区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b425a43ec4275b50",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00b90e6fb173f50f"
+        ],
+        "draft_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-51114e5b316e3288",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c41e97be221c0f48"
+        ],
+        "draft_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-065db508cfa800a6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-780fa17ab271b07f",
+          "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-00b90e6fb173f50f",
+          "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-68e9562596945fe2",
+          "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-326ecdc19ac4ad73",
+          "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c41e97be221c0f48",
+          "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dd60f718453592a0",
+          "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-8de5b5ccc5237128",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-98eecf29aba77989",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-780fa17ab271b07f"
+          ],
+          "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+          "finding": "supported",
+          "sentence_id": "sentence-5c8d240bfacc6709",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-00b90e6fb173f50f"
+          ],
+          "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+          "finding": "supported",
+          "sentence_id": "sentence-adaab070ae54cefd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-1b8b57b692af3b63",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-68e9562596945fe2",
+            "claim-326ecdc19ac4ad73"
+          ],
+          "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+          "finding": "supported",
+          "sentence_id": "sentence-3d137280a7473da0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c41e97be221c0f48"
+          ],
+          "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+          "finding": "supported",
+          "sentence_id": "sentence-d0399dfc36629cb3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-780fa17ab271b07f"
+          ],
+          "draft_excerpt": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+          "finding": "supported",
+          "sentence_id": "sentence-dea1c903e3ce8941",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dd60f718453592a0"
+          ],
+          "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+          "finding": "supported",
+          "sentence_id": "sentence-2b31462b738ae123",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-68e9562596945fe2"
+          ],
+          "draft_excerpt": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+          "finding": "supported",
+          "sentence_id": "sentence-910b653cc99224d0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-326ecdc19ac4ad73"
+          ],
+          "draft_excerpt": "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+          "finding": "supported",
+          "sentence_id": "sentence-6c30e7ed31254f30",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a98a8adfc1864f73"
+          ],
+          "draft_excerpt": "在成都自贸试验区支持建立国别合作园区。",
+          "finding": "supported",
+          "sentence_id": "sentence-b425a43ec4275b50",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-00b90e6fb173f50f",
+          "draft_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c41e97be221c0f48",
+          "draft_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-00b90e6fb173f50f"
+          ],
+          "draft_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+          "finding": "supported",
+          "sentence_id": "sentence-51114e5b316e3288",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c41e97be221c0f48"
+          ],
+          "draft_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+          "finding": "supported",
+          "sentence_id": "sentence-065db508cfa800a6",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "9099292e4d942156ca8338096fc678a37bc24880c96a8d21c1a212d3dd9d8174",
+  "coverage_history": [
+    {
+      "draft_sha256": "75c6f8fc15860144cf425a4795ca54fbafeb7c2aab1c7eda574c549d9693a0e3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-780fa17ab271b07f",
+            "draft_excerpt": "在引进外资方面，重点在于减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00b90e6fb173f50f",
+            "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-68e9562596945fe2",
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-326ecdc19ac4ad73",
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c41e97be221c0f48",
+            "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dd60f718453592a0",
+            "draft_excerpt": "上述措施共同作用于提升利用外资的规模和综合质量，并积极引进境外资金、技术、人才。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a98a8adfc1864f73",
+            "draft_excerpt": "同时，通过在成都自贸试验区支持建立国别合作园区，进一步拓展国际合作的深度与广度，形成双向投资协同发展的良好态势。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过放宽外资准入、优化服务保障及深化国企创新，同时完善境外投资备案与服务体系，实现利用外资质量提升与境外投资综合创新的统筹发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f983fb061898511d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-98eecf29aba77989",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-780fa17ab271b07f"
+            ],
+            "draft_excerpt": "在引进外资方面，重点在于减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99e077ae0e9858a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00b90e6fb173f50f"
+            ],
+            "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adaab070ae54cefd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b8b57b692af3b63",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-68e9562596945fe2",
+              "claim-326ecdc19ac4ad73"
+            ],
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d137280a7473da0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c41e97be221c0f48"
+            ],
+            "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0399dfc36629cb3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd60f718453592a0"
+            ],
+            "draft_excerpt": "上述措施共同作用于提升利用外资的规模和综合质量，并积极引进境外资金、技术、人才。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-420f4825bd190980",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a98a8adfc1864f73"
+            ],
+            "draft_excerpt": "同时，通过在成都自贸试验区支持建立国别合作园区，进一步拓展国际合作的深度与广度，形成双向投资协同发展的良好态势。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5276ffc6252e4e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-780fa17ab271b07f"
+            ],
+            "draft_excerpt": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1916814306525039",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd60f718453592a0"
+            ],
+            "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51225b56b737992b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-68e9562596945fe2"
+            ],
+            "draft_excerpt": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7cad10b7be97b032",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-326ecdc19ac4ad73"
+            ],
+            "draft_excerpt": "建立健全外商投资综合服务保障体系，提升外商投资服务质量",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2efe92768f16f8a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a98a8adfc1864f73"
+            ],
+            "draft_excerpt": "在成都自贸试验区支持建立国别合作园区",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eda579dacb6df1eb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00b90e6fb173f50f"
+            ],
+            "draft_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-26441858e8e33e59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c41e97be221c0f48"
+            ],
+            "draft_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9dd529539eee342d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过放宽外资准入、优化服务保障及深化国企创新，同时完善境外投资备案与服务体系，实现利用外资质量提升与境外投资综合创新的统筹发展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9099292e4d942156ca8338096fc678a37bc24880c96a8d21c1a212d3dd9d8174",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-780fa17ab271b07f",
+            "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00b90e6fb173f50f",
+            "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-68e9562596945fe2",
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-326ecdc19ac4ad73",
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c41e97be221c0f48",
+            "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dd60f718453592a0",
+            "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a98a8adfc1864f73",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8de5b5ccc5237128",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-98eecf29aba77989",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-780fa17ab271b07f"
+            ],
+            "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c8d240bfacc6709",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00b90e6fb173f50f"
+            ],
+            "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adaab070ae54cefd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b8b57b692af3b63",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-68e9562596945fe2",
+              "claim-326ecdc19ac4ad73"
+            ],
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d137280a7473da0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c41e97be221c0f48"
+            ],
+            "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0399dfc36629cb3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-780fa17ab271b07f"
+            ],
+            "draft_excerpt": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dea1c903e3ce8941",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd60f718453592a0"
+            ],
+            "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2b31462b738ae123",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-68e9562596945fe2"
+            ],
+            "draft_excerpt": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-910b653cc99224d0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-326ecdc19ac4ad73"
+            ],
+            "draft_excerpt": "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c30e7ed31254f30",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a98a8adfc1864f73"
+            ],
+            "draft_excerpt": "在成都自贸试验区支持建立国别合作园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b425a43ec4275b50",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00b90e6fb173f50f"
+            ],
+            "draft_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51114e5b316e3288",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c41e97be221c0f48"
+            ],
+            "draft_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-065db508cfa800a6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9099292e4d942156ca8338096fc678a37bc24880c96a8d21c1a212d3dd9d8174",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-780fa17ab271b07f",
+            "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00b90e6fb173f50f",
+            "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-68e9562596945fe2",
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-326ecdc19ac4ad73",
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c41e97be221c0f48",
+            "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dd60f718453592a0",
+            "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a98a8adfc1864f73",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8de5b5ccc5237128",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-98eecf29aba77989",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-780fa17ab271b07f"
+            ],
+            "draft_excerpt": "在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c8d240bfacc6709",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00b90e6fb173f50f"
+            ],
+            "draft_excerpt": "在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adaab070ae54cefd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b8b57b692af3b63",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-68e9562596945fe2",
+              "claim-326ecdc19ac4ad73"
+            ],
+            "draft_excerpt": "通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d137280a7473da0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c41e97be221c0f48"
+            ],
+            "draft_excerpt": "此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0399dfc36629cb3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-780fa17ab271b07f"
+            ],
+            "draft_excerpt": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dea1c903e3ce8941",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd60f718453592a0"
+            ],
+            "draft_excerpt": "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2b31462b738ae123",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-68e9562596945fe2"
+            ],
+            "draft_excerpt": "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-910b653cc99224d0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-326ecdc19ac4ad73"
+            ],
+            "draft_excerpt": "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c30e7ed31254f30",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a98a8adfc1864f73"
+            ],
+            "draft_excerpt": "在成都自贸试验区支持建立国别合作园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b425a43ec4275b50",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00b90e6fb173f50f"
+            ],
+            "draft_excerpt": "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51114e5b316e3288",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c41e97be221c0f48"
+            ],
+            "draft_excerpt": "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-065db508cfa800a6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n统筹推进双向投资旨在通过制度创新与政策落地，构建内外联动的投资格局。在引进外资方面，重点在于进一步减少和取消外商投资准入限制，提高投资领域的开放度和透明度，并全面实施准入前国民待遇加负面清单管理制度。在对外投资方面，则强调全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，以开展企业“走出去”的综合创新服务。\n\n该框架不仅关注资金流动，更强调营商环境的公平性与服务体系的完善性。通过推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境，并建立健全外商投资综合服务保障体系，以提升外商投资服务质量。此外，在成都自贸试验区内深化国有企业改革，探索国有企业创新发展新路径，为双向投资提供体制支撑。\n\n- 进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度\n- 积极引进境外资金、技术、人才，提升利用外资规模和综合质量。\n- 推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。\n- 建立健全外商投资综合服务保障体系，提升外商投资服务质量。\n- 在成都自贸试验区支持建立国别合作园区。\n- 全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。\n- 在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。",
+    "description": "通过减少外商投资准入限制、完善境外投资备案服务及深化国企创新，统筹提升利用外资质量与境外投资综合创新能力。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6df5823a6d52",
+      "description": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面 实施准入前国民待遇加负面清单管理制度，积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面实施准入前国民待遇加负面清单管理制度",
+        "积极引进境外资金、技术、人才，提升利用外资规模和综合质量。",
+        "推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。",
+        "建立健全外商投资综合服务保障体系，提升外商投资服务质量。",
+        "在成都自贸试验区支持建立国别合作园区。",
+        "全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。",
+        "在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。"
+      ],
+      "evidence_block_ids": [
+        "blk-41fa6c7b0d0390e61821",
+        "blk-01ce5afac0b448851b80"
+      ],
+      "page_end": 147,
+      "page_start": 146,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（三）统筹推进双向投资。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "统筹推进双向投资。",
+      "type": "分析框架"
+    },
+    "title": "统筹推进双向投资。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c949f85bbb67:bundle-2594c10834e1",
+      "excluded_fragments": [],
+      "ref_id": "ref-c949f85bbb67",
+      "source_blocks": [
+        {
+          "block_id": "blk-41fa6c7b0d0390e61821",
+          "page_number": 146,
+          "text": "进一步减少和取消外商投资准入限制，提高投资领域开放度和透明度，全面"
+        },
+        {
+          "block_id": "blk-01ce5afac0b448851b80",
+          "page_number": 147,
+          "text": "实施准入前国民待遇加负面清单管理制度，积极引进境外资金、技术、人才，提升利用外资规模和综合质量。推进扩大民间投资相关政策落地，进一步放宽准入，打造公平营商环境。建立健全外商投资综合服务保障体系，提升外商投资服务质量。在成都自贸试验区支持建立国别合作园区。全面贯彻落实境外投资和设立企业备案制，建立健全境外投资服务平台，开展企业“走出去”综合创新服务。在成都自贸试验区内，深化国有企业改革，探索国有企业创新发展新路径。（牵头单位：市发改委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6df5823a6d52",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-c949f85bbb67"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

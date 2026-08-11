@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[3].evidence_excerpt (ref-99eb379fafcd:bundle-9b42dec4e1d3) is missing hard anchors from the claim: ['2023年']; claim='2023年成都与京津冀地区创新链协同效果显著，国防科工局与四川、成都共同建成全国第二个“先进技术成果西部转化中心”国家级平台，中国科学院大学成都学院正式投用。'; excerpt='二是创新链协同效果显著。开展“校企双进·找矿挖宝”科技成果对接北京站专场活动，引进高能级创新平台和促进科技成果在蓉转化；国防科工局与四川、成都共同建成全国第二个“先进技术成果西部转化中心”国家级平台；中国科学院大学成都学院正式投用；'",
+  "group_id": "topic-02d1afc6c257",
+  "ref_ids": [
+    "ref-99eb379fafcd"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

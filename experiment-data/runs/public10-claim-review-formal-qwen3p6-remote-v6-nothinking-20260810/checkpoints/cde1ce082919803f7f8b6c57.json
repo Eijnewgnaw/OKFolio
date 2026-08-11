@@ -1,0 +1,911 @@
+{
+  "contract": {
+    "canonical_question": "2019年成都与东部主要城市在领事机构、国际友好城市、海外影响力指数及国际会议举办数量方面的对比情况如何？",
+    "claims": [
+      {
+        "claim": "2019年成都共有领事机构19个，在中西部城市中居于首位。",
+        "claim_id": "claim-8252b92d0ca40ab6",
+        "evidence_block_ids": [
+          "blk-f676ee81596dcee89931"
+        ],
+        "evidence_excerpt": "2019年，成都共有领事机构19个，在中西部城市中居于首位",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          59
+        ],
+        "ref_id": "ref-87ca7b0166e4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+        "claim_id": "claim-9262b22116974962",
+        "evidence_block_ids": [
+          "blk-f676ee81596dcee89931"
+        ],
+        "evidence_excerpt": "国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。2019年",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          59
+        ],
+        "ref_id": "ref-87ca7b0166e4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数排名均居全国第5位。",
+        "claim_id": "claim-cb2971b9e87b09e8",
+        "evidence_block_ids": [
+          "blk-f676ee81596dcee89931"
+        ],
+        "evidence_excerpt": "2019年，在城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中，成都均排名全国第5位",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          59
+        ],
+        "ref_id": "ref-87ca7b0166e4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+        "claim_id": "claim-d43e6c08f4fb3aed",
+        "evidence_block_ids": [
+          "blk-f676ee81596dcee89931"
+        ],
+        "evidence_excerpt": "城市海外影响力、海外网络关注度指数排名居中西部城市首位。2019年",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          59
+        ],
+        "ref_id": "ref-87ca7b0166e4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显。",
+        "claim_id": "claim-7a5df242b00fa8ff",
+        "evidence_block_ids": [
+          "blk-f676ee81596dcee89931"
+        ],
+        "evidence_excerpt": "2019年，成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          59
+        ],
+        "ref_id": "ref-87ca7b0166e4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都举办国际性会议33次，与北京（91次）、上海（87次）等城市差距仍较为明显。",
+        "claim_id": "claim-4213f3c912f4cce0",
+        "evidence_block_ids": [
+          "blk-f676ee81596dcee89931"
+        ],
+        "evidence_excerpt": "2019年，成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          59
+        ],
+        "ref_id": "ref-87ca7b0166e4",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-8252b92d0ca40ab6",
+          "claim-9262b22116974962",
+          "claim-cb2971b9e87b09e8",
+          "claim-d43e6c08f4fb3aed",
+          "claim-7a5df242b00fa8ff",
+          "claim-4213f3c912f4cce0"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+        "reason": "该Bundle包含回答中心问题所需的所有核心对比数据，包括领事机构、友好城市、影响力指数排名及会议次数，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-57d81a200f9f",
+    "members": [
+      {
+        "contribution": "提供2019年成都与北京、上海、广州、深圳等东部城市在领事机构数量、国际友好城市数量、海外影响力指数排名及国际会议举办次数上的具体对比数据，直接回答中心问题。",
+        "ref_id": "ref-87ca7b0166e4",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-8252b92d0ca40ab6",
+        "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9262b22116974962",
+        "draft_excerpt": "2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-cb2971b9e87b09e8",
+        "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+        "finding": "draft_excerpt covers the claim about national ranking.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d43e6c08f4fb3aed",
+        "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+        "finding": "draft_excerpt covers the claim about central-western ranking.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7a5df242b00fa8ff",
+        "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+        "finding": "draft_excerpt covers the claim about advantage over Chongqing, Wuhan, Guangzhou.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4213f3c912f4cce0",
+        "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+        "finding": "draft_excerpt covers the claim about gap with Beijing, Shanghai.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+        "finding": "Contains subjective judgments ('朋友圈拓展较宽', '高端国际展会举办...仍有差距') not explicitly in the contract.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-73b7bdcfea5f9965",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-8252b92d0ca40ab6"
+        ],
+        "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+        "finding": "Directly supports claim-8252b92d0ca40ab6.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-849f31ad5631915e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9262b22116974962"
+        ],
+        "draft_excerpt": "2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+        "finding": "Directly supports claim-9262b22116974962.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-57040df5a1769c39",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cb2971b9e87b09e8",
+          "claim-d43e6c08f4fb3aed"
+        ],
+        "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+        "finding": "Supports claim-cb2971b9e87b09e8 (national ranking) and claim-d43e6c08f4fb3aed (central-western ranking).",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4db7b92abfa604fd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7a5df242b00fa8ff",
+          "claim-4213f3c912f4cce0"
+        ],
+        "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+        "finding": "Supports claim-7a5df242b00fa8ff (advantage over others) and claim-4213f3c912f4cce0 (gap with Beijing/Shanghai).",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-04e4c54cf9c0d050",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+        "finding": "The phrase '高端国际展会举办与东部城市仍有差距' is a new factual judgment not present in the Claim Contract. The contract only mentions '国际性会议' (international conferences) and gaps in their numbers, not specifically '高端国际展会' (high-end international exhibitions)."
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-8252b92d0ca40ab6",
+          "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9262b22116974962",
+          "draft_excerpt": "2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cb2971b9e87b09e8",
+          "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+          "finding": "draft_excerpt covers the claim about national ranking.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d43e6c08f4fb3aed",
+          "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+          "finding": "draft_excerpt covers the claim about central-western ranking.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7a5df242b00fa8ff",
+          "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+          "finding": "draft_excerpt covers the claim about advantage over Chongqing, Wuhan, Guangzhou.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4213f3c912f4cce0",
+          "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+          "finding": "draft_excerpt covers the claim about gap with Beijing, Shanghai.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+          "finding": "Contains subjective judgments ('朋友圈拓展较宽', '高端国际展会举办...仍有差距') not explicitly in the contract.",
+          "sentence_id": "sentence-73b7bdcfea5f9965",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-8252b92d0ca40ab6"
+          ],
+          "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+          "finding": "Directly supports claim-8252b92d0ca40ab6.",
+          "sentence_id": "sentence-849f31ad5631915e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9262b22116974962"
+          ],
+          "draft_excerpt": "2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+          "finding": "Directly supports claim-9262b22116974962.",
+          "sentence_id": "sentence-57040df5a1769c39",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cb2971b9e87b09e8",
+            "claim-d43e6c08f4fb3aed"
+          ],
+          "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+          "finding": "Supports claim-cb2971b9e87b09e8 (national ranking) and claim-d43e6c08f4fb3aed (central-western ranking).",
+          "sentence_id": "sentence-4db7b92abfa604fd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7a5df242b00fa8ff",
+            "claim-4213f3c912f4cce0"
+          ],
+          "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+          "finding": "Supports claim-7a5df242b00fa8ff (advantage over others) and claim-4213f3c912f4cce0 (gap with Beijing/Shanghai).",
+          "sentence_id": "sentence-04e4c54cf9c0d050",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+          "finding": "The phrase '高端国际展会举办与东部城市仍有差距' is a new factual judgment not present in the Claim Contract. The contract only mentions '国际性会议' (international conferences) and gaps in their numbers, not specifically '高端国际展会' (high-end international exhibitions)."
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "a49834a61b755bf47e5621e64b437756a0ca1cc35241c3b662ddb4770e1cc20c",
+  "coverage_history": [
+    {
+      "draft_sha256": "36d8c8c2fa591e979020c72cd475cac3330d8d4585aed00069d981f43ed704e7",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-8252b92d0ca40ab6",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：没有任何受支持的草稿句归因到该 claim。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9262b22116974962",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-9262b22116974962 is missing hard anchors from the claim: ['2019年']; claim='2019年成都国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。'; excerpt='国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-cb2971b9e87b09e8",
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d43e6c08f4fb3aed",
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a5df242b00fa8ff",
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4213f3c912f4cce0",
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [
+          {
+            "claim_ids": [
+              "claim-8252b92d0ca40ab6"
+            ],
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位，领事辖区覆盖面广；",
+            "finding": "scope_violation"
+          }
+        ],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73b7bdcfea5f9965",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，但高端国际展会举办与东部城市仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e416fa88c47c2b7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位，领事辖区覆盖面广；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-127c1a0ed9634025",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9262b22116974962"
+            ],
+            "draft_excerpt": "国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b7d3f098603b563e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cb2971b9e87b09e8",
+              "claim-d43e6c08f4fb3aed"
+            ],
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6af48057d0398fa6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7a5df242b00fa8ff",
+              "claim-4213f3c912f4cce0"
+            ],
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c24d9a740dc8ad20",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都与主要城市领事机构数量对比",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a6f2447dbb3ca38",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年主要城市海外影响力相关指数排名",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66e902fcc1c8fc32",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，但高端国际展会举办与东部城市仍有差距。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位，领事辖区覆盖面广；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年成都与主要城市领事机构数量对比",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年主要城市海外影响力相关指数排名",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "f8875d34d2230692a0ec4a756e5468d3aabead5f37f2302ba54ca47cfbb3f18d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-8252b92d0ca40ab6",
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9262b22116974962",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-9262b22116974962 is missing hard anchors from the claim: ['2019年']; claim='2019年成都国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。'; excerpt='国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-cb2971b9e87b09e8",
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d43e6c08f4fb3aed",
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a5df242b00fa8ff",
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4213f3c912f4cce0",
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73b7bdcfea5f9965",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8252b92d0ca40ab6"
+            ],
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-849f31ad5631915e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9262b22116974962"
+            ],
+            "draft_excerpt": "国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a951f04ba41831b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cb2971b9e87b09e8",
+              "claim-d43e6c08f4fb3aed"
+            ],
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4db7b92abfa604fd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7a5df242b00fa8ff",
+              "claim-4213f3c912f4cce0"
+            ],
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-04e4c54cf9c0d050",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a49834a61b755bf47e5621e64b437756a0ca1cc35241c3b662ddb4770e1cc20c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-8252b92d0ca40ab6",
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9262b22116974962",
+            "draft_excerpt": "2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cb2971b9e87b09e8",
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "draft_excerpt covers the claim about national ranking.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d43e6c08f4fb3aed",
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "draft_excerpt covers the claim about central-western ranking.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a5df242b00fa8ff",
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "draft_excerpt covers the claim about advantage over Chongqing, Wuhan, Guangzhou.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4213f3c912f4cce0",
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "draft_excerpt covers the claim about gap with Beijing, Shanghai.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+            "finding": "Contains subjective judgments ('朋友圈拓展较宽', '高端国际展会举办...仍有差距') not explicitly in the contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73b7bdcfea5f9965",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8252b92d0ca40ab6"
+            ],
+            "draft_excerpt": "2019年成都共有领事机构19个，在中西部城市中居于首位；",
+            "finding": "Directly supports claim-8252b92d0ca40ab6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-849f31ad5631915e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9262b22116974962"
+            ],
+            "draft_excerpt": "2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。",
+            "finding": "Directly supports claim-9262b22116974962.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57040df5a1769c39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cb2971b9e87b09e8",
+              "claim-d43e6c08f4fb3aed"
+            ],
+            "draft_excerpt": "2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。",
+            "finding": "Supports claim-cb2971b9e87b09e8 (national ranking) and claim-d43e6c08f4fb3aed (central-western ranking).",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4db7b92abfa604fd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7a5df242b00fa8ff",
+              "claim-4213f3c912f4cce0"
+            ],
+            "draft_excerpt": "2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+            "finding": "Supports claim-7a5df242b00fa8ff (advantage over others) and claim-4213f3c912f4cce0 (gap with Beijing/Shanghai).",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-04e4c54cf9c0d050",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+            "finding": "The phrase '高端国际展会举办与东部城市仍有差距' is a new factual judgment not present in the Claim Contract. The contract only mentions '国际性会议' (international conferences) and gaps in their numbers, not specifically '高端国际展会' (high-end international exhibitions)."
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2019年成都共有领事机构19个，在中西部城市中居于首位；2019年国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。2019年，在成都城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中均排名全国第5位，其中城市海外影响力、海外网络关注度指数排名居中西部城市首位。2019年成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。",
+    "description": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+    "ref": {
+      "asset_hints": [
+        "html-table-006",
+        "image-047",
+        "image-048"
+      ],
+      "concept_id": "topic-57d81a200f9f",
+      "description": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "2019年，成都共有领事机构19个，在中西部城市中居于首位",
+        "国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。2019年",
+        "2019年，在城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中，成都均排名全国第5位",
+        "城市海外影响力、海外网络关注度指数排名居中西部城市首位。2019年",
+        "2019年，成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显",
+        "2019年，成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显"
+      ],
+      "evidence_block_ids": [
+        "blk-f676ee81596dcee89931"
+      ],
+      "page_end": 62,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "国际知名度初步打响，高能级展会集聚有限",
+      "type": "国际比较"
+    },
+    "title": "国际知名度初步打响，高能级展会集聚有限"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-87ca7b0166e4:bundle-c12f99eaaa5f",
+      "excluded_fragments": [],
+      "ref_id": "ref-87ca7b0166e4",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-f676ee81596dcee89931",
+          "page_number": 59,
+          "text": "对比分析发现，成都对外交往“朋友圈”拓展较宽，海外影响力和关注度较高，高端国际展会举办与东部城市仍有差距。2019年，成都共有领事机构19个，在中西部城市中居于首位，领事辖区覆盖面广；国际友好城市和国际友好合作关系城市达103个，数量超过上海、广州、深圳等城市。2019年，在城市海外影响力、海外网络关注度指数、城市海外传播影响力指数等排名中，成都均排名全国第5位，城市海外影响力、海外网络关注度指数排名居中西部城市首位。2019年，成都共举办国际性会议33次，较重庆（8次）、武汉（13次）、广州（17次）等城市优势明显，但与北京（91次）、上海（87次）等城市差距仍较为明显。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-4d5f79a811a41d610494",
+          "page_number": 60,
+          "text": "原始 PDF 第 60 页图片"
+        },
+        {
+          "block_id": "blk-65a93e519a49d109437b",
+          "page_number": 60,
+          "text": "原始 PDF 第 60 页图片"
+        },
+        {
+          "block_id": "blk-bd5161a29ca6434bcd50",
+          "page_number": 57,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-cb465a2af12c0080c107",
+          "page_number": 57,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-05d4a5da1fc6da994ca8",
+          "page_number": 58,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-860e1925165383c83946",
+          "page_number": 60,
+          "text": "图1-28 2019年成都与主要城市领事机构数量对比"
+        },
+        {
+          "block_id": "blk-9c150d5753754d1ee127",
+          "page_number": 60,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-0a81db3b0773017b5722",
+          "page_number": 60,
+          "text": "表 1-3 2019年主要城市海外影响力相关指数排名"
+        },
+        {
+          "block_id": "blk-af9089b7dcd2820fa324",
+          "page_number": 60,
+          "text": "<table><tr><td>城市</td><td>城市海外影响力排名</td><td>海外网络关注度指数排名</td><td>城市海外传播影响力指数排名</td></tr><tr><td>北京</td><td>1</td><td>1</td><td>1</td></tr><tr><td>上海</td><td>2</td><td>2</td><td>3</td></tr><tr><td>深圳</td><td>3</td><td>3</td><td>9</td></tr><tr><td>广州</td><td>4</td><td>7</td><td>6</td></tr><tr><td>成都</td><td>5</td><td>5</td><td>5</td></tr><tr><td>杭州</td><td>6</td><td>4</td><td>8</td></tr><tr><td>天津</td><td>9</td><td>8</td><td>12</td></tr><tr><td>重庆</td><td>10</td><td>10</td><td>11</td></tr><tr><td>武汉</td><td>7</td><td>6</td><td>2</td></tr><tr><td>西安</td><td>——</td><td>——</td><td>4</td></tr></table>"
+        },
+        {
+          "block_id": "blk-904db93fcc1483286dd1",
+          "page_number": 60,
+          "text": "资料来源：2020年《中国城市海外影响力分析报告》"
+        },
+        {
+          "block_id": "blk-6e86d30680acf3fc242f",
+          "page_number": 60,
+          "text": "推进“一带一路”建设，是党中央、国务院在新的历史时期统筹国内国际两个大局、顺应国际化和区域合作潮流的重大倡议，当前，世界面临百年未有之大变局，共建“一带一路”面临新的挑战，同时也迎来新的机遇，中国将继续秉持开放"
+        },
+        {
+          "block_id": "blk-cf9d207f6e5e753d5b72",
+          "page_number": 61,
+          "text": "包容态度，与相关国家守望相助，高质量推进“一带一路”共建共享。面向未来，成都将坚持新发展理念，树立更加主动务实新开放观，全面、立体、多方位融入“一带一路”建设，加快打造国内大循环战略腹地和国内国际双循环门户枢纽。"
+        },
+        {
+          "block_id": "blk-ac4a11c812cfb2c42179",
+          "page_number": 61,
+          "text": "中国高质量共建“一带一路”将始终坚持共商共建共享，坚持以企业为主体、遵循市场化原则，健全多元化投融资体系，强化法律服务保障，有序推动重大项目合作，推进基础设施互联互通，提升对外投资合作质量效益，不断推动相关国家实现优势互补、互利共赢，为促进各国经济增长提供强劲动力和广阔空间。"
+        },
+        {
+          "block_id": "blk-7c2aa21649db82b6ac31",
+          "page_number": 61,
+          "text": "随着全球性挑战增多，加强全球治理、推进全球治理体制变革已是大势所趋。中国将继续推动“一带一路”倡议与各国、各地区战略对接，与各国一道完善全球治理，建立以合作共赢为核心的新型国际关系。继续加强在反腐败领域的合作，以《联合国反腐败公约》等国际条约和相关双边条约为基础，加强反腐败政策对接，深化反腐败务实合作。共同构建争端解决机制，共建安全风险预警防控机制，共同制定应急处置工作机制，为共建“一带一路”营造良好发展环境。"
+        },
+        {
+          "block_id": "blk-148aafa88d4e2c4f079d",
+          "page_number": 61,
+          "text": "中国将继续加强开放引领，扩大与相关国家经贸往来，提升贸易投资便利化水平，将“一带一路”打造成开放之路，推动形成开放型世界经济。继续缩减负面清单，在更多领域允许外资控股或独资经营。与沿线国家共建高标准自由贸易区，加快探索建设自由贸易港。进一步降低关税水平，消除各种非关税壁垒，促进贸易平衡发展。继续发挥共建“一带一路”专项贷款、丝路基金、各类专项投资基金的作用，发展丝路主题债券，建设多元化融资体系和多层次资本市场，发展普惠金融，完善金融服务网络。稳步开展第三方市场合作，通过多方参与实现共同受益的目标。"
+        },
+        {
+          "block_id": "blk-4a5bd58833b60592eed8",
+          "page_number": 61,
+          "text": "中国将与相关国家继续推动建立多层次人文交流合作机制，搭建更多合作平台，开辟更多合作渠道。推动教育合作，扩大互派留学生规模，提升合作办学水平。开展历史文化遗产保护、文物援外合作、联合考古合作。加强政党、民间组织往来，密切妇女、青年等群体交流。推动沿线各国社会组织共同开展民生领域合作，聚焦消除贫困、增加就业、改善民生，让参与国民众有更多的获得感。加强基"
+        },
+        {
+          "block_id": "blk-5904fdc24049f3c8075c",
+          "page_number": 62,
+          "text": "础设施建设，聚焦关键通道、关键节点、关键项目，着力推进公路、铁路、港口、航空、航天、油气管道、电力、网络通信等领域合作，同各国携手推动陆、海、天、网四位一体的互联互通。"
+        },
+        {
+          "block_id": "blk-aaaa2fd31364ea038761",
+          "page_number": 62,
+          "text": "中国将与相关国家继续开展生态环境保护合作，不断开拓生态文明发展道路。继续与相关国家开展节能减排合作，共同应对气候变化。与更多国家签署建设绿色丝绸之路的合作文件，扩大“一带一路”绿色发展国际联盟，建设“一带一路”可持续城市联盟。制定落实生态环保合作支持政策，加强生态系统保护和修复。探索发展绿色金融，将环境保护、生态治理有机融入现代金融体系。建设一批绿色产业合作示范基地、绿色技术交流与转移基地、技术示范推广基地、科技园区等国际绿色产业合作平台，开展国家公园建设合作交流，与沿线各国一同促进“一带一路”建设可持续发展。"
+        },
+        {
+          "block_id": "blk-0a2467d4d4dd19270062",
+          "page_number": 62,
+          "text": "中国将不断优化创新环境，集聚创新资源，加强与相关国家的科技创新合作。共建“一带一路”为大部分处于工业化初级阶段的国家平等合理融入全球产业链和价值链提供新契机。中国将继续与相关国家加强在数字经济、人工智能等前沿领域合作，共同把握数字化、网络化、智能化发展机遇，建设数字丝绸之路和创新丝绸之路。推动大数据、云计算、智慧城市建设，积极发展“丝路电商”，构建“一带一路”技术转移协作网络，抓住新工业革命的发展新机遇，促进区域创新一体化发展，培育新动能、新业态，保持经济增长活力。通过共建国家级联合科研平台，深化长期稳定的科技创新合作机制，提升沿线国家的科技创新能力。推动更加有效地保护和使用知识产权，构建高水平知识产权保护体系。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-57d81a200f9f",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-87ca7b0166e4"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,862 @@
+{
+  "contract": {
+    "canonical_question": "成都在2020年至2021年间举办了哪些具有代表性的国际产业合作论坛，其核心议题与举办地分别是什么？",
+    "claims": [
+      {
+        "claim": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行。",
+        "claim_id": "claim-9f1b4a4b83818add",
+        "evidence_block_ids": [
+          "blk-abac6269c0ca4cf7884f"
+        ],
+        "evidence_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "evidence_id": "ref-103259a0b6d6:bundle-922a76e35a23",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145
+        ],
+        "ref_id": "ref-103259a0b6d6",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "“蓉欧产业对话”首场活动聚焦职业教育议题。",
+        "claim_id": "claim-2ce3ca82eae86d29",
+        "evidence_block_ids": [
+          "blk-abac6269c0ca4cf7884f"
+        ],
+        "evidence_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "evidence_id": "ref-103259a0b6d6:bundle-922a76e35a23",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145
+        ],
+        "ref_id": "ref-103259a0b6d6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "“蓉欧产业对话”首场活动是“蓉欧产业对话”的首场活动。",
+        "claim_id": "claim-aeb77d8ba0cb802f",
+        "evidence_block_ids": [
+          "blk-abac6269c0ca4cf7884f"
+        ],
+        "evidence_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "evidence_id": "ref-103259a0b6d6:bundle-922a76e35a23",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145
+        ],
+        "ref_id": "ref-103259a0b6d6",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年11月9—10日，2020中国一东盟数字经济合作论坛在成都高新区举行。",
+        "claim_id": "claim-d32d37b840fc0a5d",
+        "evidence_block_ids": [
+          "blk-fe45bbf6740060796428"
+        ],
+        "evidence_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行。",
+        "evidence_id": "ref-f6ffdd397acc:bundle-cc33becc02bb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          170
+        ],
+        "ref_id": "ref-f6ffdd397acc",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020中国一东盟数字经济合作论坛以“共商共建数字经济，共推共享发展新动能”为主题。",
+        "claim_id": "claim-31a6372071709b87",
+        "evidence_block_ids": [
+          "blk-2433cf02de5076b93ab5",
+          "blk-c0cbd6dd256269f7b3cf"
+        ],
+        "evidence_excerpt": "2020中国一东盟数字经济合作论坛现场\n\n此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题，围绕中国-东盟数字经济发展现状与合作前景分享观点、交流经验，力争在智慧城市、人工智能、大数据等产业合作领域促成更多新的增长点。",
+        "evidence_id": "ref-f6ffdd397acc:bundle-cc33becc02bb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          170
+        ],
+        "ref_id": "ref-f6ffdd397acc",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020中国一东盟数字经济合作论坛由中国一东盟中心、成都市人民政府主办。",
+        "claim_id": "claim-5e2d122d73289293",
+        "evidence_block_ids": [
+          "blk-fe45bbf6740060796428"
+        ],
+        "evidence_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行。",
+        "evidence_id": "ref-f6ffdd397acc:bundle-cc33becc02bb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          170
+        ],
+        "ref_id": "ref-f6ffdd397acc",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-9f1b4a4b83818add",
+          "claim-2ce3ca82eae86d29",
+          "claim-aeb77d8ba0cb802f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-103259a0b6d6:bundle-922a76e35a23",
+        "reason": "该Bundle包含“蓉欧产业对话”首场活动的核心事实，是回答中心问题关于该论坛议题、时间及地点的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-d32d37b840fc0a5d",
+          "claim-31a6372071709b87",
+          "claim-5e2d122d73289293"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-f6ffdd397acc:bundle-cc33becc02bb",
+        "reason": "该Bundle包含2020中国—东盟数字经济合作论坛的核心事实，是回答中心问题关于该论坛议题、时间及地点的必要证据。"
+      }
+    ],
+    "group_id": "topic-9dd8558b443f",
+    "members": [
+      {
+        "contribution": "提供“蓉欧产业对话”首场活动（职业教育论坛）的举办时间、地点、议题及签约项目等事实，证明成都举办国际产业对话的能力与行动。",
+        "ref_id": "ref-103259a0b6d6",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2020中国—东盟数字经济合作论坛的举办时间、地点、主题及参会规模等事实，佐证成都举办国际数字经济合作论坛的活跃态势。",
+        "ref_id": "ref-f6ffdd397acc",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-9f1b4a4b83818add",
+        "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2ce3ca82eae86d29",
+        "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-aeb77d8ba0cb802f",
+        "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d32d37b840fc0a5d",
+        "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-31a6372071709b87",
+        "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5e2d122d73289293",
+        "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-9f1b4a4b83818add",
+          "claim-2ce3ca82eae86d29",
+          "claim-aeb77d8ba0cb802f",
+          "claim-d32d37b840fc0a5d",
+          "claim-31a6372071709b87",
+          "claim-5e2d122d73289293"
+        ],
+        "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+        "finding": "This sentence is a summary of the two main events covered by the claims. It omits specific details like the venue (Huazhou New City) and the full theme, but the",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-68cdeba73d5f45c7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9f1b4a4b83818add",
+          "claim-2ce3ca82eae86d29",
+          "claim-aeb77d8ba0cb802f"
+        ],
+        "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "finding": "Exact match for claims 9f1b, 2ce3, aeb7.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-630fda840e5b012d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d32d37b840fc0a5d",
+          "claim-31a6372071709b87",
+          "claim-5e2d122d73289293"
+        ],
+        "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+        "finding": "Exact match for claims d32d, 31a6, 5e2d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f75e6e368cc91eac",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-9f1b4a4b83818add",
+          "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2ce3ca82eae86d29",
+          "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-aeb77d8ba0cb802f",
+          "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d32d37b840fc0a5d",
+          "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-31a6372071709b87",
+          "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5e2d122d73289293",
+          "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-9f1b4a4b83818add",
+            "claim-2ce3ca82eae86d29",
+            "claim-aeb77d8ba0cb802f",
+            "claim-d32d37b840fc0a5d",
+            "claim-31a6372071709b87",
+            "claim-5e2d122d73289293"
+          ],
+          "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+          "finding": "This sentence is a summary of the two main events covered by the claims. It omits specific details like the venue (Huazhou New City) and the full theme, but the",
+          "sentence_id": "sentence-68cdeba73d5f45c7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9f1b4a4b83818add",
+            "claim-2ce3ca82eae86d29",
+            "claim-aeb77d8ba0cb802f"
+          ],
+          "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+          "finding": "Exact match for claims 9f1b, 2ce3, aeb7.",
+          "sentence_id": "sentence-630fda840e5b012d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d32d37b840fc0a5d",
+            "claim-31a6372071709b87",
+            "claim-5e2d122d73289293"
+          ],
+          "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+          "finding": "Exact match for claims d32d, 31a6, 5e2d.",
+          "sentence_id": "sentence-f75e6e368cc91eac",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "6c17d6dc1f44848ec1920d6dc763518bc8b4a775f947bdba5c29ec982af9965e",
+  "coverage_history": [
+    {
+      "draft_sha256": "02e05670dbe8947881bc4f1db76d081e6e665656b68f96dfed01d5e13a965a9b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9f1b4a4b83818add",
+            "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）—欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行。",
+            "finding": "draft_excerpt matches claim details: date 2021年3月30日, event name, location 成都淮州新城.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2ce3ca82eae86d29",
+            "draft_excerpt": "该论坛以职业教育为议题，是“蓉欧产业对话”的首场活动。",
+            "finding": "draft_excerpt matches claim details: topic 职业教育, status 首场活动.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aeb77d8ba0cb802f",
+            "draft_excerpt": "该论坛以职业教育为议题，是“蓉欧产业对话”的首场活动。",
+            "finding": "draft_excerpt matches claim details: is the first event of 蓉欧产业对话.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d32d37b840fc0a5d",
+            "draft_excerpt": "2020年11月9—10日，由中国—东盟中心、成都市人民政府主办的2020中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "draft_excerpt matches claim details: date 2020年11月9—10日, location 成都高新区.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-31a6372071709b87",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches claim details: theme “共商共建数字经济，共推共享发展新动能”. 代码门禁降级为 omitted：covered claim attribution claim-31a6372071709b87 is missing hard anchors from the claim: ['2020']; claim='2020中国一东盟数字经济合作论坛以“共商共建数字经济，共推共享发展新动能”为主题。'; excerpt='此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题，围绕中国-东盟数字经济发展现状与合作前景分享观点、交流经验，力争在智慧城市、人工智能、大数据等产业合作领域促成更多新的增长点。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5e2d122d73289293",
+            "draft_excerpt": "2020年11月9—10日，由中国—东盟中心、成都市人民政府主办的2020中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "draft_excerpt matches claim details: organizers 中国—东盟中心、成都市人民政府.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年“蓉欧产业对话”首场活动聚焦职业教育在成都举办，2020年中东盟数字经济合作论坛亦在蓉举行，体现成都作为国际会议举办地的活跃态势。",
+            "finding": "The sentence contains interpretive judgments ('体现...活跃态势') and generalizations ('中东盟') not strictly supported by the specific claim facts in isolation, though '",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-79223ca7e8dd6265",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过举办“蓉欧产业对话”与“中国—东盟数字经济合作论坛”等高层级国际会议，展现了其在连接欧洲与东盟两大经济板块中的枢纽地位。",
+            "finding": "The claim '展现了其在连接欧洲与东盟两大经济板块中的枢纽地位' is an interpretive judgment not present in the specific fact claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11789ae41155539f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这些活动不仅聚焦特定产业领域的深度合作，也体现了成都作为国际会议举办地的活跃态势。",
+            "finding": "The claim '体现了成都作为国际会议举办地的活跃态势' is an interpretive judgment not present in the specific fact claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e03c23a552d03c2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f1b4a4b83818add"
+            ],
+            "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）—欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行。",
+            "finding": "Matches claim-9f1b4a4b83818add.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-71133117fa3031dc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2ce3ca82eae86d29",
+              "claim-aeb77d8ba0cb802f"
+            ],
+            "draft_excerpt": "该论坛以职业教育为议题，是“蓉欧产业对话”的首场活动。",
+            "finding": "Matches claim-2ce3ca82eae86d29 and claim-aeb77d8ba0cb802f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbc6ce9270195575",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d32d37b840fc0a5d",
+              "claim-5e2d122d73289293"
+            ],
+            "draft_excerpt": "2020年11月9—10日，由中国—东盟中心、成都市人民政府主办的2020中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "Matches claim-d32d37b840fc0a5d and claim-5e2d122d73289293.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bb6603f3789edcee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-31a6372071709b87"
+            ],
+            "draft_excerpt": "此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题，围绕中国-东盟数字经济发展现状与合作前景分享观点、交流经验，力争在智慧城市、人工智能、大数据等产业合作领域促成更多新的增长点。",
+            "finding": "Matches claim-31a6372071709b87.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a732936756f14bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年“蓉欧产业对话”首场活动聚焦职业教育在成都举办，2020年中东盟数字经济合作论坛亦在蓉举行，体现成都作为国际会议举办地的活跃态势。",
+            "finding": "The phrase '体现成都作为国际会议举办地的活跃态势' is a new interpretive fact not supported by the contract."
+          },
+          {
+            "draft_excerpt": "成都通过举办“蓉欧产业对话”与“中国—东盟数字经济合作论坛”等高层级国际会议，展现了其在连接欧洲与东盟两大经济板块中的枢纽地位。",
+            "finding": "The phrase '展现了其在连接欧洲与东盟两大经济板块中的枢纽地位' is a new interpretive fact not supported by the contract."
+          },
+          {
+            "draft_excerpt": "这些活动不仅聚焦特定产业领域的深度合作，也体现了成都作为国际会议举办地的活跃态势。",
+            "finding": "The phrase '体现了成都作为国际会议举办地的活跃态势' is a new interpretive fact not supported by the contract."
+          },
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d1a27d04a513c83e93a3d7b9edf879e0c13a3002cc7990ed07e3d896faf30b07",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9f1b4a4b83818add",
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2ce3ca82eae86d29",
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aeb77d8ba0cb802f",
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d32d37b840fc0a5d",
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-31a6372071709b87",
+            "draft_excerpt": "成都分别于2021年和2020年举办了“蓉欧产业对话”首场活动及中国—东盟数字经济合作论坛，聚焦职业教育与数字经济领域的国际合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e2d122d73289293",
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-9f1b4a4b83818add",
+              "claim-2ce3ca82eae86d29",
+              "claim-aeb77d8ba0cb802f",
+              "claim-d32d37b840fc0a5d",
+              "claim-5e2d122d73289293"
+            ],
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-68cdeba73d5f45c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-31a6372071709b87"
+            ],
+            "draft_excerpt": "成都分别于2021年和2020年举办了“蓉欧产业对话”首场活动及中国—东盟数字经济合作论坛，聚焦职业教育与数字经济领域的国际合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac24bd71cb06fd4c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "6c17d6dc1f44848ec1920d6dc763518bc8b4a775f947bdba5c29ec982af9965e",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-9f1b4a4b83818add",
+            "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2ce3ca82eae86d29",
+            "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aeb77d8ba0cb802f",
+            "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d32d37b840fc0a5d",
+            "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-31a6372071709b87",
+            "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e2d122d73289293",
+            "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-9f1b4a4b83818add",
+              "claim-2ce3ca82eae86d29",
+              "claim-aeb77d8ba0cb802f",
+              "claim-d32d37b840fc0a5d",
+              "claim-31a6372071709b87",
+              "claim-5e2d122d73289293"
+            ],
+            "draft_excerpt": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+            "finding": "This sentence is a summary of the two main events covered by the claims. It omits specific details like the venue (Huazhou New City) and the full theme, but the",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-68cdeba73d5f45c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9f1b4a4b83818add",
+              "claim-2ce3ca82eae86d29",
+              "claim-aeb77d8ba0cb802f"
+            ],
+            "draft_excerpt": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+            "finding": "Exact match for claims 9f1b, 2ce3, aeb7.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-630fda840e5b012d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d32d37b840fc0a5d",
+              "claim-31a6372071709b87",
+              "claim-5e2d122d73289293"
+            ],
+            "draft_excerpt": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+            "finding": "Exact match for claims d32d, 31a6, 5e2d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f75e6e368cc91eac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行，此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题。",
+    "description": "2021年3月30日“蓉欧产业对话”首场活动在中国（成都）—欧洲职业教育论坛举行，2020年11月9—10日中国—东盟数字经济合作论坛在成都高新区举行。",
+    "ref": {
+      "asset_hints": [
+        "image-073",
+        "image-104",
+        "image-105"
+      ],
+      "concept_id": "topic-9dd8558b443f",
+      "description": "2021年“蓉欧产业对话”首场活动聚焦职业教育在成都举办，2020年中东盟数字经济合作论坛亦在蓉举行，体现成都作为国际会议举办地的活跃态势。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。",
+        "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行。",
+        "2020中国一东盟数字经济合作论坛现场\n\n此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题，围绕中国-东盟数字经济发展现状与合作前景分享观点、交流经验，力争在智慧城市、人工智能、大数据等产业合作领域促成更多新的增长点。"
+      ],
+      "evidence_block_ids": [
+        "blk-abac6269c0ca4cf7884f",
+        "blk-fe45bbf6740060796428",
+        "blk-2433cf02de5076b93ab5",
+        "blk-c0cbd6dd256269f7b3cf"
+      ],
+      "page_end": 173,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都举办蓉欧产业对话与中东盟数字经济合作论坛",
+      "type": "分析框架"
+    },
+    "title": "成都举办蓉欧产业对话与中东盟数字经济合作论坛"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-103259a0b6d6:bundle-922a76e35a23",
+      "excluded_fragments": [],
+      "ref_id": "ref-103259a0b6d6",
+      "source_blocks": [
+        {
+          "block_id": "blk-abac6269c0ca4cf7884f",
+          "page_number": 145,
+          "text": "2021年3月30日，“蓉欧产业对话”中国（成都）一欧洲职业教育论坛暨成都国际职教城推介会在成都淮州新城举行，本次论坛以职业教育为议题，是“蓉欧产业对话”首场活动。"
+        },
+        {
+          "block_id": "blk-3b331da6b87360e66f3d",
+          "page_number": 145,
+          "text": "当天，现场邀请到来自西班牙驻华大使馆，英国、奥地利等驻蓉驻渝总领事馆，10个欧洲国家的政府、机构、院校、企业代表近50人参会，以及匈牙利佩奇、比利时弗拉芒·布拉邦等全球职教行业翘楚和代表500余人线上参会。现场欧盟职业教育金堂中心、中欧康养旅游职业学院、德国莱茵科斯特有限公司共建项目、四川中德职业大学、四川海事交通职业学院5大项目签约落地成都国际职教城，同时，还发布了院校招引、共享中心职教基地建设、淮洲新城职业教育中心等9项投资机会清单。"
+        },
+        {
+          "block_id": "blk-2b34c118da83030b9207",
+          "page_number": 145,
+          "text": "“蓉欧产业对话”首次活动聚焦职业教育主题，成都正积极推进职业教育产业发展，建设“技能成都”，加快打造以位于淮州新城的成都国际职教城为代表的产教融合示范基地，而欧洲素来有重视和关注职业教育发展的传统与根基，发展出了“双元制”“三元制”等职业教育模式，增进成都与欧洲在职业教育领域的经验交流和互学互鉴，深入挖掘在该领域富有潜力的合作项目意义重大。"
+        },
+        {
+          "block_id": "blk-99007805538c25fa6961",
+          "page_number": 145,
+          "text": "下一步，成都市将持续联合具有明确对欧合作需求的区（市）县举办“蓉欧产业对话”系列活动，通过线上与线下互动结合的方式，以产业合作为桥梁，畅通全市对欧合作渠道，夯实友好合作基础，提升合作水平，推动对欧交流均衡开展，助力成都加快形成对欧立体全面开放新态势。"
+        },
+        {
+          "block_id": "blk-5999771f8b57877c9380",
+          "page_number": 145,
+          "text": "成都国际职教城片区位于成都金堂淮州新城，东临金简仁快速路，南临成金简快速路，西临沱江，北临淮州新城产城融合示范区，规划范围共20.2平方公里。规划人口约20万人，规划建设用地规模约18平方公里。"
+        },
+        {
+          "block_id": "blk-271f01c932ff679cc8b8",
+          "page_number": 145,
+          "text": "总体定位：以职教产业为核心驱动力，构建以职业教育、产教服务、教学培训、产业联盟、衍生服务、大型活动为主导的泛职教产业生态圈。"
+        },
+        {
+          "block_id": "blk-21acfb16c5780651002d",
+          "page_number": 146,
+          "text": "空间布局：该片区将规划形成“一轴一环，多园融合”空间结构。一轴，即充分依托沱江和杨溪湖生态基底等自然资源禀赋，布局城市服务核心、产教服务核心，形成服务整个淮州新城的中央共享轴，带动区域一体化大发展；一环，即结合淮州新城自然特色，塑造一个串联家园、校园的生态复合共享环，这既是一条绿色和谐的绿色生态环，又是丰富多元的活力共享纽带，还是功能复合的创新发展走廊。"
+        },
+        {
+          "block_id": "blk-2f4245b0cdc8de945f9f",
+          "page_number": 146,
+          "text": "发展目标：将从学园、公园、家园、产业园四园融合的未来职教城，到全景职教、开放共享、成都特色、国内一流、世界著名的中国匠谷，再到产教城融合、引领国际的中国特色现代职业教育综合新城。"
+        },
+        {
+          "block_id": "blk-50145f65274570cdc099",
+          "page_number": 146,
+          "text": "发展策略：一是精致立校、产教联盟，打造产教生态圈，以职教产业为核心驱动力，构建以职业教育、产教服务、教学培训、产业联盟、衍生服务、大型活动为主导的泛职教产业生态圈；二是职教引领、四园同构，创新发展新模式，以职业教育发展为先，融合学园、家园、产业园、公园内容，打造面向未来的产教城融合4.0模式；三是多级共享、无界融合，营造市民生活圈，完善基本配套，实现优质公共服务资源布局，设置资格认证中心、公共赛训中心、共享文化体育设施、共享实训空间等。"
+        },
+        {
+          "block_id": "blk-a4281287c578fe13baaa",
+          "page_number": 146,
+          "text": "原始 PDF 第 146 页图片"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-f6ffdd397acc:bundle-cc33becc02bb",
+      "excluded_fragments": [],
+      "ref_id": "ref-f6ffdd397acc",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-fe45bbf6740060796428",
+          "page_number": 170,
+          "text": "2020年11月9—10日，由中国一东盟中心、成都市人民政府主办的2020中国一东盟数字经济合作论坛在成都高新区举行。2020年是中国一东盟数字经济合作年，本次论坛是2020年中国一东盟数字经济合作年的系列活动之一。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-fe28d5aa21b95dfa6155",
+          "page_number": 170,
+          "text": "原始 PDF 第 170 页图片"
+        },
+        {
+          "block_id": "blk-2433cf02de5076b93ab5",
+          "page_number": 170,
+          "text": "图4-7 2020中国一东盟数字经济合作论坛现场"
+        },
+        {
+          "block_id": "blk-c0cbd6dd256269f7b3cf",
+          "page_number": 170,
+          "text": "此次论坛以数字经济合作年为契机，以“共商共建数字经济，共推共享发展新动能”为主题，围绕中国-东盟数字经济发展现状与合作前景分享观点、交流经验，力争在智慧城市、人工智能、大数据等产业合作领域促成更多新的增长点。东盟国家驻华使领馆、中国和东盟商协会、数字经济领域企业以及媒体代表300人出席线下活动，交流数字经济在助力抗疫和经济复苏方面的有益经验，论坛同步开通了线上会议系统，注册参会人数近300人①。"
+        },
+        {
+          "block_id": "blk-13b85aae56c707c3ae50",
+          "page_number": 171,
+          "text": "论坛现场，成都市经济和信息化局、成都高新区管委会分别介绍了成都数字经济发展情况。老挝驻华大使馆商务参赞波沙万·坤占塔，缅甸驻华使馆参赞杜雪欣吴，菲律宾驻华使馆商务参赞格伦·佩尼亚兰达，越南驻华使馆商务参赞陶越英，新加坡驻华使馆一等秘书、资讯通信媒体发展局中国司司长庄庆维等驻华使领馆官员有针对性地推介了在数字经济产业发展方面的优惠政策和投资前景，表达了以数字经济合作引领双方全方位创新合作、提质升级中国一东盟经贸合作新动能的良好愿望。科大讯飞、京东集团、电科国际、集商网等中国数字经济领域代表企业围绕人工智能产业应用与国际合作、数据驱动智慧城市建设、共建东盟产业园区数字共享平台、数字供应链出海等主题发表了演讲，分享各自开拓东盟市场的经验与收获。"
+        },
+        {
+          "block_id": "blk-65ba9306d26c346f4978",
+          "page_number": 171,
+          "text": "如今，成都正通过“数字产业化”和“产业数字化”双轮驱动，打造数字经济发展新引擎，赋能城市经济社会高质量发展，作为成都的数字经济集聚发展区域，高新区则大力推进以软件和信息技术服务业为主的数字经济发展，坚持政府引导、市场运作、招培并举、业界共治，积极打造有利于数字经济发展的产业生态，数字经济保持快速增长趋势。目前，成都高新区已形成由大数据、网络安全、人工智能、5G、数字文创构成的数字经济产业体系，产业规模不断壮大，产业特色逐步显现。其中，成都高新区聚集大数据产业相关企业90余家、网络安全产业相关企业200余家、人工智能产业相关企业100余家、5G产业聚集相关企业100余家、数字文创产业聚集相关企业600余家①。为深度融入“一带一路”建设，深化与东盟国家经贸交流互动，近年来，成都高新区赴东南亚新加坡、马来西亚和泰国开展经贸交流活动，为区域企业拓展海外市场搭建沟通平台。据悉，2019年，成都高新区对东盟实现外贸进出口970.2亿元，占成都高新区外贸进出口总额的 \\(24.4\\%\\) ，同比增长 \\(16.8\\%\\) ；其中出口833.4亿元，同比增长 \\(23.6\\%\\) 。"
+        },
+        {
+          "block_id": "blk-1eaaa29bf0e00499c1e8",
+          "page_number": 171,
+          "text": "推动中国一东盟数字经济合作，有利于区域内各国恢复经济社会发展，创造更多就业机会，增进民生福祉，也有利于为“一带一路”高质量发展增添新动能，为中国一东盟命运共同体建设奠定更加坚实的基础。中国一东盟数字经济合作论坛于成都高新区成功举办，一方面，将有利于高新区充分发挥自贸试验区等政策红利，进一步提升对外开放水平，不断“向南向西”主动融入“一带一路”，打造内陆开放"
+        },
+        {
+          "block_id": "blk-1cc4812658a3ea121bba",
+          "page_number": 172,
+          "text": "型经济新高地。另一方面，也将进一步推动成都与东盟的友好交流与务实合作不断迈上新台阶，促进双边投资合作，推动“引进来”“走出去”融合发展，进一步深化中国一东盟数字经济合作和“一带一路”国际合作，依托成渝地区双城经济圈集聚辐射效应促进中国西部地区数字经济发展。"
+        },
+        {
+          "block_id": "blk-4a68c275b1225824c022",
+          "page_number": 172,
+          "text": "2019年11月3日，国务院总理李克强在第二十二次中国一东盟（\\(10 + 1\\)）领导人会议上正式宣布2020年为中国一东盟数字经济合作年。拓展双方在电子商务、科技创新、5G网络、智慧城市等领域合作。受疫情影响，2020年中国一东盟数字经济合作年开幕式及同期活动将以网络视频会议的方式进行。中国一东盟（\\(10 + 1\\)）包括：中国、菲律宾、柬埔寨、老挝、马来西亚、缅甸、泰国、文莱、新加坡、印度尼西亚和越南。"
+        },
+        {
+          "block_id": "blk-23e04c85346c38657b08",
+          "page_number": 172,
+          "text": "2020年全年，一体化响应机制在澜湄流域生态、农业、民生、救灾等方面的综合应用；"
+        },
+        {
+          "block_id": "blk-32bb43e8e664793f0bbe",
+          "page_number": 172,
+          "text": "2020年6月，“中国—东盟数字经济合作年”开幕式、数字丝绸之路的网络安全保障专题活动、中国—东盟数字经济抗疫政企合作高峰论坛；"
+        },
+        {
+          "block_id": "blk-4606437323e8ac4de259",
+          "page_number": 172,
+          "text": "2020年7月，中国一东盟人工智能峰会、鲲鹏数字新生态产业论坛、文化创意和网络视听论坛、海上丝绸之路空间信息综合应用论坛、中国一东盟人工智能发展研讨会；"
+        },
+        {
+          "block_id": "blk-5b1b6c0035a04c063063",
+          "page_number": 172,
+          "text": "2020年8月，《中国—东盟数字经济白皮书》《中国—东盟人工智能发展与合作研究》；"
+        },
+        {
+          "block_id": "blk-017a1fd06bccd84c881c",
+          "page_number": 172,
+          "text": "2020年9月，中国—东盟智慧城市研讨会、中国—东盟工业互联网研讨会、中国—东盟人工智能融合发展与安全应用峰会、中国—东盟信息安全官企业家交流研讨会、中国东盟新一代信息技术与“一带一路”国际合作高峰论坛、中国—东盟数字经济安全问题研讨会；"
+        },
+        {
+          "block_id": "blk-8e3fb0c2fef74070735d",
+          "page_number": 172,
+          "text": "2020年10月，中国东盟数字金融科技交流会、中国—东盟集成电路产业创新发展国际合作论坛、中国—东盟工业软件合作论坛；"
+        },
+        {
+          "block_id": "blk-c3e999d91d0e869e2ae5",
+          "page_number": 173,
+          "text": "2020年下半年，中国—东盟信息通信创新应用大赛、中国—东盟数字创新大赛、《“中国方案”智“惠”东盟》中国—东盟数字经济合作成果展示、中柬老地面数字电视中国标准创新示范项目；"
+        },
+        {
+          "block_id": "blk-135a510763f17aef3b38",
+          "page_number": 173,
+          "text": "2020年12月，中国—东盟数据安全与管理能力评估大会、中国—东盟数字经济国际合作指标体系与创新合作机制研究、“智惠澜湄”多语言三维GIS公共服务平台项目、“2020年中国—东盟数字经济合作年”闭幕式。"
+        },
+        {
+          "block_id": "blk-a36425eb1c5164dd3286",
+          "page_number": 173,
+          "text": "原始 PDF 第 173 页图片"
+        },
+        {
+          "block_id": "blk-194de5f999ffb844cbac",
+          "page_number": 173,
+          "text": "中国-东盟数字经济合作年  \nCHINA-ASEAN YEAR OF DIGITAL ECONOMY COOPERATION"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-9dd8558b443f",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-103259a0b6d6",
+    "ref-f6ffdd397acc"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

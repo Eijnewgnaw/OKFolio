@@ -1,0 +1,800 @@
+{
+  "contract": {
+    "canonical_question": "成都市国际科技合作活动资助中A类与B类活动的定义、分类标准及对应的资助政策是什么？",
+    "claims": [
+      {
+        "claim": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+        "claim_id": "claim-f56ab7bc5b831505",
+        "evidence_block_ids": [
+          "blk-289d8f6a109e0b0b5ff4"
+        ],
+        "evidence_excerpt": "第八条 国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+        "claim_id": "claim-bc48d66472fff947",
+        "evidence_block_ids": [
+          "blk-289d8f6a109e0b0b5ff4"
+        ],
+        "evidence_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国际科技合作活动分为重点活动和一般活动。",
+        "claim_id": "claim-d6691a572f1550bf",
+        "evidence_block_ids": [
+          "blk-6f11632a9ba75ef41f75"
+        ],
+        "evidence_excerpt": "分为重点活动和一般活动，主要包括：",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+        "claim_id": "claim-edb2c4817de8313d",
+        "evidence_block_ids": [
+          "blk-86246accf02361c833c6"
+        ],
+        "evidence_excerpt": "（2）申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上；",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+        "claim_id": "claim-9ab127f4b8c7689c",
+        "evidence_block_ids": [
+          "blk-55254a57e856e082e7ed"
+        ],
+        "evidence_excerpt": "3）申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占\\(30\\%\\) 以上",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+        "claim_id": "claim-0869513e0e473a13",
+        "evidence_block_ids": [
+          "blk-2aa85b2d1794df1aeffd"
+        ],
+        "evidence_excerpt": "根据活动绩效择优进行后补助，对重点科技合作活动给予实际支出 \\(20\\%\\) 、最高50万元的补助",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+        "claim_id": "claim-0fda99a59e67ac65",
+        "evidence_block_ids": [
+          "blk-2aa85b2d1794df1aeffd"
+        ],
+        "evidence_excerpt": "对一般科技合作活动给予实际支出 \\(20\\%\\) 、最高20万元的补助",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "企事业单位参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+        "claim_id": "claim-d9f251c746a7e5b6",
+        "evidence_block_ids": [
+          "blk-cbe6c0d0fceb708b4641"
+        ],
+        "evidence_excerpt": "企事业单位参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-1af178b057b4",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f56ab7bc5b831505",
+          "claim-bc48d66472fff947",
+          "claim-d6691a572f1550bf",
+          "claim-edb2c4817de8313d",
+          "claim-9ab127f4b8c7689c",
+          "claim-0869513e0e473a13",
+          "claim-0fda99a59e67ac65",
+          "claim-d9f251c746a7e5b6"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+        "reason": "该Bundle包含了A/B类定义、活动分类、申报主体、补助标准等核心事实，是回答中心问题的必要证据。"
+      }
+    ],
+    "group_id": "topic-b73784b66329",
+    "members": [
+      {
+        "contribution": "该证据直接定义了A类（市内举办）和B类（赴境外）国际科技合作活动，并详细列出了重点/一般活动的申报条件、人员规模、备案要求及具体的后补助金额和比例，完整回答了固定槽位中的comparison_subject、measurement_bis、",
+        "ref_id": "ref-1af178b057b4",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-bc48d66472fff947",
+        "draft_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f56ab7bc5b831505",
+        "draft_excerpt": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d9f251c746a7e5b6",
+        "draft_excerpt": "企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d6691a572f1550bf",
+        "draft_excerpt": "国际科技合作活动分为重点活动和一般活动。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-edb2c4817de8313d",
+        "draft_excerpt": "申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9ab127f4b8c7689c",
+        "draft_excerpt": "申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0869513e0e473a13",
+        "draft_excerpt": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0fda99a59e67ac65",
+        "draft_excerpt": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-0869513e0e473a13",
+          "claim-0fda99a59e67ac65",
+          "claim-f56ab7bc5b831505"
+        ],
+        "draft_excerpt": "该政策对在我市举办或赴国（境）外开展的国际科技合作活动提供后补助，根据活动类型和绩效给予实际支出20%的资助，重点活动最高50万元，一般活动最高20万元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-590ee30f7b72a41f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bc48d66472fff947"
+        ],
+        "draft_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-36a5150da8d2c6fd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f56ab7bc5b831505"
+        ],
+        "draft_excerpt": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f662b85fae126df5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d9f251c746a7e5b6"
+        ],
+        "draft_excerpt": "企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-de58164a1a679d3b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d6691a572f1550bf"
+        ],
+        "draft_excerpt": "国际科技合作活动分为重点活动和一般活动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5e75adbc69e41193",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-edb2c4817de8313d"
+        ],
+        "draft_excerpt": "申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b3a411c2068c2e09",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9ab127f4b8c7689c"
+        ],
+        "draft_excerpt": "申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8269744dc1aa82ad",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0869513e0e473a13",
+          "claim-0fda99a59e67ac65"
+        ],
+        "draft_excerpt": "根据活动绩效择优进行后补助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b26572fc725ae2c5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0869513e0e473a13"
+        ],
+        "draft_excerpt": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d51cab10538a34d6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0fda99a59e67ac65"
+        ],
+        "draft_excerpt": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c40cb863d4bf8bda",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-bc48d66472fff947",
+          "draft_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f56ab7bc5b831505",
+          "draft_excerpt": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d9f251c746a7e5b6",
+          "draft_excerpt": "企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d6691a572f1550bf",
+          "draft_excerpt": "国际科技合作活动分为重点活动和一般活动。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-edb2c4817de8313d",
+          "draft_excerpt": "申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9ab127f4b8c7689c",
+          "draft_excerpt": "申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0869513e0e473a13",
+          "draft_excerpt": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0fda99a59e67ac65",
+          "draft_excerpt": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-0869513e0e473a13",
+            "claim-0fda99a59e67ac65",
+            "claim-f56ab7bc5b831505"
+          ],
+          "draft_excerpt": "该政策对在我市举办或赴国（境）外开展的国际科技合作活动提供后补助，根据活动类型和绩效给予实际支出20%的资助，重点活动最高50万元，一般活动最高20万元。",
+          "finding": "supported",
+          "sentence_id": "sentence-590ee30f7b72a41f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bc48d66472fff947"
+          ],
+          "draft_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+          "finding": "supported",
+          "sentence_id": "sentence-36a5150da8d2c6fd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f56ab7bc5b831505"
+          ],
+          "draft_excerpt": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+          "finding": "supported",
+          "sentence_id": "sentence-f662b85fae126df5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d9f251c746a7e5b6"
+          ],
+          "draft_excerpt": "企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+          "finding": "supported",
+          "sentence_id": "sentence-de58164a1a679d3b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d6691a572f1550bf"
+          ],
+          "draft_excerpt": "国际科技合作活动分为重点活动和一般活动。",
+          "finding": "supported",
+          "sentence_id": "sentence-5e75adbc69e41193",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-edb2c4817de8313d"
+          ],
+          "draft_excerpt": "申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+          "finding": "supported",
+          "sentence_id": "sentence-b3a411c2068c2e09",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9ab127f4b8c7689c"
+          ],
+          "draft_excerpt": "申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+          "finding": "supported",
+          "sentence_id": "sentence-8269744dc1aa82ad",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0869513e0e473a13",
+            "claim-0fda99a59e67ac65"
+          ],
+          "draft_excerpt": "根据活动绩效择优进行后补助。",
+          "finding": "supported",
+          "sentence_id": "sentence-b26572fc725ae2c5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0869513e0e473a13"
+          ],
+          "draft_excerpt": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+          "finding": "supported",
+          "sentence_id": "sentence-d51cab10538a34d6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0fda99a59e67ac65"
+          ],
+          "draft_excerpt": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+          "finding": "supported",
+          "sentence_id": "sentence-c40cb863d4bf8bda",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "5d4da4ac06e89521bfe45bb3fa61903fc67cf0be011e0c54480ff11b8d5bbb83",
+  "coverage_history": [
+    {
+      "draft_sha256": "5d4da4ac06e89521bfe45bb3fa61903fc67cf0be011e0c54480ff11b8d5bbb83",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-bc48d66472fff947",
+            "draft_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f56ab7bc5b831505",
+            "draft_excerpt": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d9f251c746a7e5b6",
+            "draft_excerpt": "企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d6691a572f1550bf",
+            "draft_excerpt": "国际科技合作活动分为重点活动和一般活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edb2c4817de8313d",
+            "draft_excerpt": "申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9ab127f4b8c7689c",
+            "draft_excerpt": "申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0869513e0e473a13",
+            "draft_excerpt": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0fda99a59e67ac65",
+            "draft_excerpt": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0869513e0e473a13",
+              "claim-0fda99a59e67ac65",
+              "claim-f56ab7bc5b831505"
+            ],
+            "draft_excerpt": "该政策对在我市举办或赴国（境）外开展的国际科技合作活动提供后补助，根据活动类型和绩效给予实际支出20%的资助，重点活动最高50万元，一般活动最高20万元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-590ee30f7b72a41f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bc48d66472fff947"
+            ],
+            "draft_excerpt": "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36a5150da8d2c6fd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f56ab7bc5b831505"
+            ],
+            "draft_excerpt": "国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f662b85fae126df5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d9f251c746a7e5b6"
+            ],
+            "draft_excerpt": "企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-de58164a1a679d3b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d6691a572f1550bf"
+            ],
+            "draft_excerpt": "国际科技合作活动分为重点活动和一般活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e75adbc69e41193",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edb2c4817de8313d"
+            ],
+            "draft_excerpt": "申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b3a411c2068c2e09",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9ab127f4b8c7689c"
+            ],
+            "draft_excerpt": "申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8269744dc1aa82ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0869513e0e473a13",
+              "claim-0fda99a59e67ac65"
+            ],
+            "draft_excerpt": "根据活动绩效择优进行后补助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b26572fc725ae2c5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0869513e0e473a13"
+            ],
+            "draft_excerpt": "对重点科技合作活动给予实际支出20%、最高50万元的补助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d51cab10538a34d6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0fda99a59e67ac65"
+            ],
+            "draft_excerpt": "对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c40cb863d4bf8bda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 资助对象与活动分类\n\n申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。企事业单位可参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。\n\n## 活动分级标准\n\n国际科技合作活动分为重点活动和一般活动。申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上。申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占30%以上。\n\n## 资助标准与方式\n\n根据活动绩效择优进行后补助。对重点科技合作活动给予实际支出20%、最高50万元的补助。对一般科技合作活动给予实际支出20%、最高20万元的补助。",
+    "description": "该政策对在我市举办或赴国（境）外开展的国际科技合作活动提供后补助，根据活动类型和绩效给予实际支出20%的资助，重点活动最高50万元，一般活动最高20万元。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-b73784b66329",
+      "description": "第八条 国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "第八条 国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。",
+        "申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。",
+        "分为重点活动和一般活动，主要包括：",
+        "（2）申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上；",
+        "3）申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占\\(30\\%\\) 以上",
+        "根据活动绩效择优进行后补助，对重点科技合作活动给予实际支出 \\(20\\%\\) 、最高50万元的补助",
+        "对一般科技合作活动给予实际支出 \\(20\\%\\) 、最高20万元的补助",
+        "企事业单位参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。"
+      ],
+      "evidence_block_ids": [
+        "blk-289d8f6a109e0b0b5ff4",
+        "blk-6f11632a9ba75ef41f75",
+        "blk-86246accf02361c833c6",
+        "blk-55254a57e856e082e7ed",
+        "blk-2aa85b2d1794df1aeffd",
+        "blk-cbe6c0d0fceb708b4641"
+      ],
+      "page_end": 218,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "第五章 国际科技合作活动资助",
+      "type": "国际比较"
+    },
+    "title": "第五章 国际科技合作活动资助"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1af178b057b4:bundle-2658e8ca1dff",
+      "excluded_fragments": [],
+      "ref_id": "ref-1af178b057b4",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-289d8f6a109e0b0b5ff4",
+          "page_number": 217,
+          "text": "第八条 国际科技合作活动分为A类和B类，A类是指在我市举办的活动，B类是指赴国（境）外开展的活动。申报国际科技合作活动资助的主体应为在蓉高校院所、企业等。"
+        },
+        {
+          "block_id": "blk-6f11632a9ba75ef41f75",
+          "page_number": 217,
+          "text": "分为重点活动和一般活动，主要包括："
+        },
+        {
+          "block_id": "blk-148ba55d7f583bfb8661",
+          "page_number": 217,
+          "text": "（1）在蓉举办的国家级、省级、市级国际科技合作交流活动；"
+        },
+        {
+          "block_id": "blk-8c0cfeb503847fd2c194",
+          "page_number": 217,
+          "text": "（2）产业功能区举办的、对我市科技创新、产业发展等具有重要促进作用的国际科技合作交流活动。"
+        },
+        {
+          "block_id": "blk-1bdbd879da76e1f6c65c",
+          "page_number": 217,
+          "text": "（1）活动服务于我市产业功能区发展，推动全市科技创新能力提升、人才团队引进、科技成果转移转化、产业发展升级等；"
+        },
+        {
+          "block_id": "blk-86246accf02361c833c6",
+          "page_number": 217,
+          "text": "（2）申报重点活动主要参加人员包括诺贝尔奖得主、院士等高层次人才，规模在200人以上，并且重要外方人员应在50人以上；"
+        },
+        {
+          "block_id": "blk-55254a57e856e082e7ed",
+          "page_number": 217,
+          "text": "（3）申报一般活动主要参加人员规模应在30人以上，并且重要外方人员应占\\(30\\%\\) 以上；"
+        },
+        {
+          "block_id": "blk-e7ff53b59b2abd2a61eb",
+          "page_number": 217,
+          "text": "（4）活动举办前一个月报市科技局备案"
+        },
+        {
+          "block_id": "blk-2aa85b2d1794df1aeffd",
+          "page_number": 218,
+          "text": "根据活动绩效择优进行后补助，对重点科技合作活动给予实际支出 \\(20\\%\\) 、最高50万元的补助；对一般科技合作活动给予实际支出 \\(20\\%\\) 、最高20万元的补助。单个机构每年最多申报2个国际科技合作活动资助，且资助总金额不超过100万元。"
+        },
+        {
+          "block_id": "blk-cbe6c0d0fceb708b4641",
+          "page_number": 218,
+          "text": "企事业单位参加成都市科学技术局（外国专家局）组织赴国（境）外开展的培训、项目路演、大赛等国际科技合作交流活动。"
+        },
+        {
+          "block_id": "blk-c53e872f9706fd7cb96b",
+          "page_number": 218,
+          "text": "活动主题应符合我市重点产业领域发展方向，有利于推动企业科技创新能力提升、人才团队引进、科技成果转移转化、产业发展升级等。"
+        },
+        {
+          "block_id": "blk-d6f80645d0050ad7a4d0",
+          "page_number": 218,
+          "text": "按照每人每次给予实际发生费用的 \\(50\\%\\) 、最高1万元资助"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-b73784b66329",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-1af178b057b4"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-722006673113:bundle-cb3c5aa70f6e) is missing hard anchors from the claim: ['《成渝地区双城经济圈建设规划纲要》']; claim='四川省未纳入《成渝地区双城经济圈建设规划纲要》的区域共涵盖70个县级行政区，占全省县级行政区总量的38.3%。'; excerpt='我省未纳入《成渝地区双城经济圈建设规划》范围的区域共涵盖了70个县级行政区，占全省县级行政区总量的 \\\\(38.3\\\\%'",
+  "group_id": "topic-7b11d2de5e61",
+  "ref_ids": [
+    "ref-722006673113"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

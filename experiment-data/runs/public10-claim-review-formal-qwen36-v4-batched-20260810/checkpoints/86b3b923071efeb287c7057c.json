@@ -1,0 +1,526 @@
+{
+  "contract": {
+    "canonical_question": "成渝中线高铁建设全面启动的时间、地点及核心目标是什么？",
+    "claims": [
+      {
+        "claim": "成渝中线高铁建设启动活动于2021年9月26日举行。",
+        "claim_id": "claim-51108ece9b3703d2",
+        "evidence_block_ids": [
+          "blk-a8566f7297d5e053b449"
+        ],
+        "evidence_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式",
+        "evidence_id": "ref-184ab0ab791f:bundle-ff5acd1aa93f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          269
+        ],
+        "ref_id": "ref-184ab0ab791f",
+        "scope": {
+          "time": [
+            "2021年9月26日"
+          ]
+        },
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝中线高铁建设启动活动在重庆、成都两地以视频连线方式同时举行。",
+        "claim_id": "claim-3da0dd93db5638b8",
+        "evidence_block_ids": [
+          "blk-a8566f7297d5e053b449"
+        ],
+        "evidence_excerpt": "以视频连线方式，在重庆、成都两地同时举行",
+        "evidence_id": "ref-184ab0ab791f:bundle-ff5acd1aa93f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          269
+        ],
+        "ref_id": "ref-184ab0ab791f",
+        "scope": {
+          "region": [
+            "重庆",
+            "成都"
+          ]
+        },
+        "slot": "implementer",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝中线高铁是直连成渝“双核”的第四条铁路大通道。",
+        "claim_id": "claim-c88a3be48cd09fb0",
+        "evidence_block_ids": [
+          "blk-a8566f7297d5e053b449"
+        ],
+        "evidence_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+        "evidence_id": "ref-184ab0ab791f:bundle-ff5acd1aa93f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          269
+        ],
+        "ref_id": "ref-184ab0ab791f",
+        "scope": {
+          "object": [
+            "成渝中线高铁"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝中线高铁建设全面启动宣告了成渝两地未来将实现高铁50分钟通达。",
+        "claim_id": "claim-69aeae5178c332af",
+        "evidence_block_ids": [
+          "blk-a8566f7297d5e053b449"
+        ],
+        "evidence_excerpt": "成渝两地未来将实现高铁50分钟通达。",
+        "evidence_id": "ref-184ab0ab791f:bundle-ff5acd1aa93f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          269
+        ],
+        "ref_id": "ref-184ab0ab791f",
+        "scope": {
+          "object": [
+            "成渝中线高铁"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-51108ece9b3703d2",
+          "claim-3da0dd93db5638b8",
+          "claim-c88a3be48cd09fb0",
+          "claim-69aeae5178c332af"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-184ab0ab791f:bundle-ff5acd1aa93f",
+        "reason": "该证据包含项目启动时间、地点及目标，是回答中心问题必须保留的事实。"
+      }
+    ],
+    "group_id": "proposition-1e74b5b9b331",
+    "members": [
+      {
+        "contribution": "该证据直接提供了项目启动的具体时间、举行方式及核心目标，是回答中心问题的唯一事实来源。",
+        "ref_id": "ref-184ab0ab791f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-51108ece9b3703d2",
+        "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+        "finding": "草稿明确提及启动活动于2021年9月26日举行，与合同claim完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3da0dd93db5638b8",
+        "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+        "finding": "草稿明确提及活动在重庆、成都两地以视频连线方式同时举行，与合同claim完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c88a3be48cd09fb0",
+        "draft_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+        "finding": "草稿明确提及直连成渝“双核”的第四条铁路大通道，与合同claim完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-69aeae5178c332af",
+        "draft_excerpt": "成渝两地未来将实现高铁50分钟通达",
+        "finding": "草稿明确提及成渝两地未来将实现高铁50分钟通达，与合同claim完全一致。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-51108ece9b3703d2",
+          "claim-3da0dd93db5638b8",
+          "claim-c88a3be48cd09fb0"
+        ],
+        "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行，宣告直连成渝“双核”的第四条铁路大通道建设全面启动。",
+        "finding": "该句完整覆盖了启动时间、地点方式及核心目标，所有事实均能归因至合同claim。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1c81dd3a671b9bd8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-51108ece9b3703d2"
+        ],
+        "draft_excerpt": "成渝中线高铁建设于2021年9月26日正式全面启动。",
+        "finding": "该句明确提及启动时间为2021年9月26日，与合同claim完全一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9c45e150fc5ff059",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c88a3be48cd09fb0",
+          "claim-69aeae5178c332af"
+        ],
+        "draft_excerpt": "该工程旨在直连成渝“双核”，作为第四条铁路大通道，将实现两地未来高铁50分钟通达。",
+        "finding": "该句明确提及直连成渝“双核”、第四条铁路大通道及50分钟通达目标，与合同claim完全一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3fc9a0f4994eece6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-51108ece9b3703d2",
+          "claim-3da0dd93db5638b8"
+        ],
+        "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+        "finding": "该句明确提及启动时间及地点方式，与合同claim完全一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-39863c17c620c938",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c88a3be48cd09fb0"
+        ],
+        "draft_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+        "finding": "该句明确提及直连成渝“双核”的第四条铁路大通道，与合同claim完全一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f98f06f0be80315f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-69aeae5178c332af"
+        ],
+        "draft_excerpt": "成渝两地未来将实现高铁50分钟通达",
+        "finding": "该句明确提及成渝两地未来将实现高铁50分钟通达，与合同claim完全一致。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0e65a9044cb53d09",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_draft_sha256": "8382f99ad6bc581cad1d762cbcacba19e256a05d7fd94a163518799108a56845",
+  "coverage_history": [
+    {
+      "draft_sha256": "b2de22616872b27a9c4ed3fa9778706c9a6d424aaee58fd900b742d9dfe81b69",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-51108ece9b3703d2",
+            "draft_excerpt": "成渝中线高铁建设于2021年9月26日正式全面启动。",
+            "finding": "草稿明确陈述了启动时间为2021年9月26日，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3da0dd93db5638b8",
+            "draft_excerpt": "建设启动活动以视频连线方式在重庆、成都两地同时举行，标志着该铁路大通道建设的正式启动。",
+            "finding": "草稿明确陈述了活动以视频连线方式在重庆、成都两地同时举行，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c88a3be48cd09fb0",
+            "draft_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+            "finding": "草稿明确陈述了该高铁是直连成渝“双核”的第四条铁路大通道，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-69aeae5178c332af",
+            "draft_excerpt": "成渝两地未来将实现高铁50分钟通达",
+            "finding": "草稿明确陈述了成渝两地未来将实现高铁50分钟通达，与合同claim完全一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-51108ece9b3703d2",
+              "claim-3da0dd93db5638b8",
+              "claim-c88a3be48cd09fb0"
+            ],
+            "draft_excerpt": "2021年9月26日，成渝中线高铁建设以视频连线方式在重庆、成都两地同时启动，宣告直连成渝“双核”的第四条铁路大通道建设全面启动。",
+            "finding": "该句完整覆盖了启动时间、地点方式及核心目标（第四条大通道），所有事实均可归因至合同claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-78192bbd7b9ff7cb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-51108ece9b3703d2"
+            ],
+            "draft_excerpt": "成渝中线高铁建设于2021年9月26日正式全面启动。",
+            "finding": "该句明确陈述了启动时间，与合同claim-51108ece9b3703d2一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c45e150fc5ff059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c88a3be48cd09fb0",
+              "claim-69aeae5178c332af"
+            ],
+            "draft_excerpt": "该工程旨在直连成渝“双核”，作为第四条铁路大通道，将实现两地未来高铁50分钟通达。",
+            "finding": "该句涵盖了核心目标（第四条大通道）及预期效果（50分钟通达），与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3fc9a0f4994eece6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3da0dd93db5638b8"
+            ],
+            "draft_excerpt": "建设启动活动以视频连线方式在重庆、成都两地同时举行，标志着该铁路大通道建设的正式启动。",
+            "finding": "该句明确陈述了活动以视频连线方式在重庆、成都两地同时举行，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a465074f69e3f346",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-51108ece9b3703d2",
+              "claim-3da0dd93db5638b8"
+            ],
+            "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+            "finding": "该句明确陈述了启动时间及地点方式，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83950ca708377e1a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c88a3be48cd09fb0"
+            ],
+            "draft_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+            "finding": "该句明确陈述了核心目标（第四条大通道），与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05b06ca292d10e87",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-69aeae5178c332af"
+            ],
+            "draft_excerpt": "成渝两地未来将实现高铁50分钟通达",
+            "finding": "该句明确陈述了预期效果（50分钟通达），与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c806f37742ff3c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "建设启动活动以视频连线方式在重庆、成都两地同时举行，标志着该铁路大通道建设的正式启动。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "8382f99ad6bc581cad1d762cbcacba19e256a05d7fd94a163518799108a56845",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-51108ece9b3703d2",
+            "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+            "finding": "草稿明确提及启动活动于2021年9月26日举行，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3da0dd93db5638b8",
+            "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+            "finding": "草稿明确提及活动在重庆、成都两地以视频连线方式同时举行，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c88a3be48cd09fb0",
+            "draft_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+            "finding": "草稿明确提及直连成渝“双核”的第四条铁路大通道，与合同claim完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-69aeae5178c332af",
+            "draft_excerpt": "成渝两地未来将实现高铁50分钟通达",
+            "finding": "草稿明确提及成渝两地未来将实现高铁50分钟通达，与合同claim完全一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-51108ece9b3703d2",
+              "claim-3da0dd93db5638b8",
+              "claim-c88a3be48cd09fb0"
+            ],
+            "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行，宣告直连成渝“双核”的第四条铁路大通道建设全面启动。",
+            "finding": "该句完整覆盖了启动时间、地点方式及核心目标，所有事实均能归因至合同claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1c81dd3a671b9bd8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-51108ece9b3703d2"
+            ],
+            "draft_excerpt": "成渝中线高铁建设于2021年9月26日正式全面启动。",
+            "finding": "该句明确提及启动时间为2021年9月26日，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c45e150fc5ff059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c88a3be48cd09fb0",
+              "claim-69aeae5178c332af"
+            ],
+            "draft_excerpt": "该工程旨在直连成渝“双核”，作为第四条铁路大通道，将实现两地未来高铁50分钟通达。",
+            "finding": "该句明确提及直连成渝“双核”、第四条铁路大通道及50分钟通达目标，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3fc9a0f4994eece6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-51108ece9b3703d2",
+              "claim-3da0dd93db5638b8"
+            ],
+            "draft_excerpt": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行",
+            "finding": "该句明确提及启动时间及地点方式，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-39863c17c620c938",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c88a3be48cd09fb0"
+            ],
+            "draft_excerpt": "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+            "finding": "该句明确提及直连成渝“双核”的第四条铁路大通道，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f98f06f0be80315f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-69aeae5178c332af"
+            ],
+            "draft_excerpt": "成渝两地未来将实现高铁50分钟通达",
+            "finding": "该句明确提及成渝两地未来将实现高铁50分钟通达，与合同claim完全一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e65a9044cb53d09",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成渝中线高铁建设于2021年9月26日正式全面启动。该工程旨在直连成渝“双核”，作为第四条铁路大通道，将实现两地未来高铁50分钟通达。\n\n- 2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行\n- 宣告直连成渝“双核”的第四条铁路大通道建设全面启动\n- 成渝两地未来将实现高铁50分钟通达",
+    "description": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行，宣告直连成渝“双核”的第四条铁路大通道建设全面启动。",
+    "ref": {
+      "asset_hints": [
+        "image-128",
+        "image-129"
+      ],
+      "concept_id": "proposition-1e74b5b9b331",
+      "description": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式在重庆、成都两地同时举行，宣告直连成渝“双核”的第四条铁路大通道建设全面启动。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式",
+        "以视频连线方式，在重庆、成都两地同时举行",
+        "宣告直连成渝“双核”的第四条铁路大通道建设全面启动",
+        "成渝两地未来将实现高铁50分钟通达。"
+      ],
+      "evidence_block_ids": [
+        "blk-a8566f7297d5e053b449"
+      ],
+      "page_end": 269,
+      "page_start": 269,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成渝地区",
+        "time": "2021年9月26日"
+      },
+      "section_path": [
+        "重大事件",
+        "成渝中线高铁建设全面启动"
+      ],
+      "semantic_signature": {
+        "milestone": "建设全面启动",
+        "project_name": "成渝中线高铁"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成渝中线高铁建设全面启动",
+      "type": "政策建议"
+    },
+    "title": "成渝中线高铁建设全面启动"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-184ab0ab791f:bundle-ff5acd1aa93f",
+      "excluded_fragments": [],
+      "ref_id": "ref-184ab0ab791f",
+      "source_blocks": [
+        {
+          "block_id": "blk-a8566f7297d5e053b449",
+          "page_number": 269,
+          "text": "2021年9月26日，成渝中线高铁建设启动活动以视频连线方式，在重庆、成都两地同时举行，宣告直连成渝“双核”的第四条铁路大通道建设全面启动，成渝两地未来将实现高铁50分钟通达。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-1e74b5b9b331",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-184ab0ab791f"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "71b7467c067dfcedcd26daa5709f8a85394c31cedb8c87b49b81a500aea32bc7",
+    "prior_recompile_attempts": 1,
+    "run_name": "public10-claim-review-formal-qwen36-v3-20260810"
+  },
+  "status": "complete"
+}

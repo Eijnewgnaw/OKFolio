@@ -1,0 +1,863 @@
+{
+  "contract": {
+    "canonical_question": "成都国际铁路港在2016年至2020年间获批了哪些国家级开放平台资质，其具体获批时间、主管部门及核心功能定位是什么？",
+    "claims": [
+      {
+        "claim": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "claim_id": "claim-f92ba2dff966bce0",
+        "evidence_block_ids": [
+          "blk-5f0ab69d9ff65ee0ccb4"
+        ],
+        "evidence_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "evidence_id": "ref-9d666efebb23:bundle-3ed151ea4a90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-9d666efebb23",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际铁路港多式联运示范工程总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+        "claim_id": "claim-2a2d3f5fa514db91",
+        "evidence_block_ids": [
+          "blk-2738b99aaa9927b92ed8"
+        ],
+        "evidence_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+        "evidence_id": "ref-9d666efebb23:bundle-3ed151ea4a90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          102
+        ],
+        "ref_id": "ref-9d666efebb23",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际铁路港多式联运示范工程入选国家示范项目，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+        "claim_id": "claim-1a70ee4720809e78",
+        "evidence_block_ids": [
+          "blk-5c04ff68e56a4d8e3290"
+        ],
+        "evidence_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+        "evidence_id": "ref-9d666efebb23:bundle-3ed151ea4a90",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          102
+        ],
+        "ref_id": "ref-9d666efebb23",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组宣布铁路港综保区正式通过验收。",
+        "claim_id": "claim-e6d0c0db73635b2c",
+        "evidence_block_ids": [
+          "blk-bb0d0a96dc430f027210"
+        ],
+        "evidence_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+        "evidence_id": "ref-c5cd4c59267f:bundle-019050f8b9f1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          176
+        ],
+        "ref_id": "ref-c5cd4c59267f",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+        "claim_id": "claim-64a168a444c74470",
+        "evidence_block_ids": [
+          "blk-32377abb922a7fb4cb71"
+        ],
+        "evidence_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币，紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，成都国际铁路港综合保税区具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+        "evidence_id": "ref-c5cd4c59267f:bundle-019050f8b9f1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          176
+        ],
+        "ref_id": "ref-c5cd4c59267f",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际铁路港综合保税区作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+        "claim_id": "claim-9b3eba1173b90230",
+        "evidence_block_ids": [
+          "blk-32377abb922a7fb4cb71"
+        ],
+        "evidence_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币，紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，成都国际铁路港综合保税区具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+        "evidence_id": "ref-c5cd4c59267f:bundle-019050f8b9f1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          176
+        ],
+        "ref_id": "ref-c5cd4c59267f",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f92ba2dff966bce0",
+          "claim-2a2d3f5fa514db91",
+          "claim-1a70ee4720809e78"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9d666efebb23:bundle-3ed151ea4a90",
+        "reason": "该Bundle包含2016年多式联运示范工程获批的核心事实，是回答中心问题中关于“多式联运”资质、时间及功能定位的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-e6d0c0db73635b2c",
+          "claim-64a168a444c74470",
+          "claim-9b3eba1173b90230"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c5cd4c59267f:bundle-019050f8b9f1",
+        "reason": "该Bundle包含2020年综合保税区通过国家验收的核心事实，是回答中心问题中关于“综保区”资质、验收部门及功能定位的必要证据。"
+      }
+    ],
+    "group_id": "topic-dfb423be7b68",
+    "members": [
+      {
+        "contribution": "提供2016年成都国际铁路港入选国家首批多式联运示范工程的事实，明确主管部门为交通部，界定其核心功能为集装箱铁公水多式联运，并阐述该工程对构建综合交通运输体系及融入“一带一路”的战略意义。",
+        "ref_id": "ref-9d666efebb23",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2020年成都国际铁路港综合保税区通过国家联合验收的事实，明确由海关总署等8部委联合验收，界定其作为全国唯一以铁路枢纽为核心的自贸试验区及国际铁路口岸的功能定位，体现其对外开放的高层次与政策优势。",
+        "ref_id": "ref-c5cd4c59267f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-f92ba2dff966bce0",
+        "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e6d0c0db73635b2c",
+        "draft_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-64a168a444c74470",
+        "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9b3eba1173b90230",
+        "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2a2d3f5fa514db91",
+        "draft_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1a70ee4720809e78",
+        "draft_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-f92ba2dff966bce0"
+        ],
+        "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b202bd09fa64edea",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e6d0c0db73635b2c"
+        ],
+        "draft_excerpt": "2020年12月25日，由海关总署等八部门组成的国家联合验收组宣布铁路港综保区正式通过验收。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-549d3a6a97724aa8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-64a168a444c74470"
+        ],
+        "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-786b966e02d25167",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9b3eba1173b90230"
+        ],
+        "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0f220234be4c1382",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f92ba2dff966bce0"
+        ],
+        "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e708c15442f07751",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2a2d3f5fa514db91"
+        ],
+        "draft_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d3fa2ccc57dcc621",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e6d0c0db73635b2c"
+        ],
+        "draft_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d8fba4a54708f8de",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1a70ee4720809e78"
+        ],
+        "draft_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9f92092456f088b4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f92ba2dff966bce0",
+          "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e6d0c0db73635b2c",
+          "draft_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-64a168a444c74470",
+          "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9b3eba1173b90230",
+          "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2a2d3f5fa514db91",
+          "draft_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1a70ee4720809e78",
+          "draft_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-f92ba2dff966bce0"
+          ],
+          "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目；",
+          "finding": "supported",
+          "sentence_id": "sentence-b202bd09fa64edea",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e6d0c0db73635b2c"
+          ],
+          "draft_excerpt": "2020年12月25日，由海关总署等八部门组成的国家联合验收组宣布铁路港综保区正式通过验收。",
+          "finding": "supported",
+          "sentence_id": "sentence-549d3a6a97724aa8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-64a168a444c74470"
+          ],
+          "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+          "finding": "supported",
+          "sentence_id": "sentence-786b966e02d25167",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9b3eba1173b90230"
+          ],
+          "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+          "finding": "supported",
+          "sentence_id": "sentence-0f220234be4c1382",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f92ba2dff966bce0"
+          ],
+          "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+          "finding": "supported",
+          "sentence_id": "sentence-e708c15442f07751",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2a2d3f5fa514db91"
+          ],
+          "draft_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+          "finding": "supported",
+          "sentence_id": "sentence-d3fa2ccc57dcc621",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e6d0c0db73635b2c"
+          ],
+          "draft_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+          "finding": "supported",
+          "sentence_id": "sentence-d8fba4a54708f8de",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1a70ee4720809e78"
+          ],
+          "draft_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+          "finding": "supported",
+          "sentence_id": "sentence-9f92092456f088b4",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "9c8c02d54738ef8a0a38af9d7ff9595b58ead123fe5d6a944d2a4d75da8b5862",
+  "coverage_history": [
+    {
+      "draft_sha256": "ab4161c193b8665eee28dbf57fd4579276888510b8e2c6f87891f5d7c302e9f0",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-64a168a444c74470",
+            "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+            "finding": "sentence-786b966e02d25167",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9b3eba1173b90230",
+            "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区及全省唯一的国际铁路口岸，具备公、铁、空、水多式联运条件，并叠加综保区和自贸区政策优势。",
+            "finding": "sentence-739b1a2af3d9f929",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f92ba2dff966bce0",
+            "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+            "finding": "sentence-e708c15442f07751",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2a2d3f5fa514db91",
+            "draft_excerpt": "该工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+            "finding": "sentence-905797a348834475",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e6d0c0db73635b2c",
+            "draft_excerpt": "2020年12月25日，由海关总署、国家发改委等八部门组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审。",
+            "finding": "sentence-98887e94961c12d2",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1a70ee4720809e78",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都国际铁路港于2016年入选国家首批多式联运示范工程，并于2020年12月通过综合保税区国家联合验收，成为全国唯一以铁路枢纽为核心的自贸试验区。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51ad519834bffe97",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-64a168a444c74470"
+            ],
+            "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-786b966e02d25167",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9b3eba1173b90230"
+            ],
+            "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区及全省唯一的国际铁路口岸，具备公、铁、空、水多式联运条件，并叠加综保区和自贸区政策优势。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-739b1a2af3d9f929",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f92ba2dff966bce0"
+            ],
+            "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e708c15442f07751",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2a2d3f5fa514db91"
+            ],
+            "draft_excerpt": "该工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-905797a348834475",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e6d0c0db73635b2c"
+            ],
+            "draft_excerpt": "2020年12月25日，由海关总署、国家发改委等八部门组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-98887e94961c12d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e6d0c0db73635b2c"
+            ],
+            "draft_excerpt": "经过视频检查和严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-13a5a25d726b1ee3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a70ee4720809e78"
+            ],
+            "draft_excerpt": "多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-457798c71cb88960",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a70ee4720809e78"
+            ],
+            "draft_excerpt": "此举可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+            "finding": "covered",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11b7c1294fcfcb29",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都国际铁路港于2016年入选国家首批多式联运示范工程，并于2020年12月通过综合保税区国家联合验收，成为全国唯一以铁路枢纽为核心的自贸试验区。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年12月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9c8c02d54738ef8a0a38af9d7ff9595b58ead123fe5d6a944d2a4d75da8b5862",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-f92ba2dff966bce0",
+            "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e6d0c0db73635b2c",
+            "draft_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-64a168a444c74470",
+            "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9b3eba1173b90230",
+            "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2a2d3f5fa514db91",
+            "draft_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1a70ee4720809e78",
+            "draft_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f92ba2dff966bce0"
+            ],
+            "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b202bd09fa64edea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e6d0c0db73635b2c"
+            ],
+            "draft_excerpt": "2020年12月25日，由海关总署等八部门组成的国家联合验收组宣布铁路港综保区正式通过验收。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-549d3a6a97724aa8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-64a168a444c74470"
+            ],
+            "draft_excerpt": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-786b966e02d25167",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9b3eba1173b90230"
+            ],
+            "draft_excerpt": "该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0f220234be4c1382",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f92ba2dff966bce0"
+            ],
+            "draft_excerpt": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e708c15442f07751",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2a2d3f5fa514db91"
+            ],
+            "draft_excerpt": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3fa2ccc57dcc621",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e6d0c0db73635b2c"
+            ],
+            "draft_excerpt": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8fba4a54708f8de",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a70ee4720809e78"
+            ],
+            "draft_excerpt": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9f92092456f088b4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币。该区域紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。\n\n2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。\n\n## 验收与战略意义\n\n2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。\n\n成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+    "description": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目；2020年12月25日，由海关总署等八部门组成的国家联合验收组宣布铁路港综保区正式通过验收。",
+    "ref": {
+      "asset_hints": [
+        "image-042",
+        "image-107"
+      ],
+      "concept_id": "topic-dfb423be7b68",
+      "description": "2016年成都国际铁路港入选国家首批多式联运示范工程，并于2020年12月通过综合保税区国家联合验收。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。",
+        "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。",
+        "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。",
+        "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。",
+        "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币，紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，成都国际铁路港综合保税区具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。"
+      ],
+      "evidence_block_ids": [
+        "blk-5f0ab69d9ff65ee0ccb4",
+        "blk-2738b99aaa9927b92ed8",
+        "blk-5c04ff68e56a4d8e3290",
+        "blk-bb0d0a96dc430f027210",
+        "blk-32377abb922a7fb4cb71"
+      ],
+      "page_end": 178,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都国际铁路港综合保税区与多式联运示范工程获批",
+      "type": "国际比较"
+    },
+    "title": "成都国际铁路港综合保税区与多式联运示范工程获批"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-9d666efebb23:bundle-3ed151ea4a90",
+      "excluded_fragments": [],
+      "ref_id": "ref-9d666efebb23",
+      "source_blocks": [
+        {
+          "block_id": "blk-5f0ab69d9ff65ee0ccb4",
+          "page_number": 101,
+          "text": "2016年6月1日，交通部宣布成都国际铁路港集装箱铁公水多式联运示范工程入选国家首批多式联运示范工程项目。"
+        },
+        {
+          "block_id": "blk-fd3aaf50fa1e18bec4f3",
+          "page_number": 101,
+          "text": "多式联运示范工程是加快构建综合交通运输体系的重要举措，是推进物流大通道建设的重要内容，也是推动多式联运全面发展的重要基础。多式联运示范工程建设，重点将从强化多式联运基础设施链接、探索创新多式联运组织模式、统一规范多式联运服务规则、推广应用快速转运装备技术、推进多式联运信息系统建设等方面开展，形成具有典型示范意义和带动作用的经验和做法，进而构建以设施高效衔接为基础、以站场快速转运为重点、以各种联运形式竞相发展为路径、以信息资源整合共享为支撑、以设施设备及服务标准化为保障的多式联运组织体系，促进物流业健康发展。"
+        },
+        {
+          "block_id": "blk-b6f9a0a75736cac1948c",
+          "page_number": 101,
+          "text": "原始 PDF 第 101 页图片"
+        },
+        {
+          "block_id": "blk-549d35532c68c52ca89b",
+          "page_number": 101,
+          "text": "图3-10 成都国际铁路港"
+        },
+        {
+          "block_id": "blk-2738b99aaa9927b92ed8",
+          "page_number": 102,
+          "text": "成都国际铁路港多式联运示范工程建设计划总投资72631万元，总体呈现“一港一平台三网三通道五线路”的多式联运布局。其中，“一港”指成都港（铁路港区和水路港区），“一平台”指成都国际铁路港多式联运平台，“三网”即为面向省内、国内、国际三个市场的分级、分层次多式联运网络，“三通道”指成都直通欧洲连接欧亚大陆的蓉欧物流大通道、西南区域辐射东南沿海的货物运输大通道和长江运输大通道，“五线路”包括以成都为中心向外辐射的海铁联运线路、江铁联运线路和公铁联运线路。"
+        },
+        {
+          "block_id": "blk-5c04ff68e56a4d8e3290",
+          "page_number": 102,
+          "text": "成都国际铁路港多式联运示范工程入选国家示范项目，将在体制机制、运营模式、设施设备、信息平台等方面积极创新，可加快促进成都多式联运全面发展，进一步完善全市物流运输体系，对融入“一带一路”、加快推进成都国际铁路港建设、打造国际门户枢纽城市具有重要意义。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-c5cd4c59267f:bundle-019050f8b9f1",
+      "excluded_fragments": [],
+      "ref_id": "ref-c5cd4c59267f",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-bb0d0a96dc430f027210",
+          "page_number": 176,
+          "text": "2020年12月25日，由海关总署、国家发展和改革委员会、财政部、自然资源部、商务部、国家税务总局、市场监督管理总局、国家外汇管理局组成的国家联合验收组对成都国际铁路港综合保税区进行验收评审，经过视频检查、严格评审，联合验收组宣布铁路港综保区正式通过验收。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-5eabfbdf12ad794f0baf",
+          "page_number": 176,
+          "text": "原始 PDF 第 176 页图片"
+        },
+        {
+          "block_id": "blk-5dccc86ec7fa63525c4b",
+          "page_number": 176,
+          "text": "图4-9 成都国际铁路港综合保税区"
+        },
+        {
+          "block_id": "blk-32377abb922a7fb4cb71",
+          "page_number": 176,
+          "text": "成都国际铁路港综合保税区于2019年12月20日经国务院批准设立，规划面积1.03平方公里，总投资约30亿人民币，紧邻中欧班列始发站，作为全国唯一以铁路枢纽为核心的自贸试验区、全省唯一的国际铁路口岸，成都国际铁路港综合保税区具有公、铁、空、水多式联运，叠加综保区和自贸区政策等优势。按照《综合保税区基础和监管设施设置规范》的相关规定，铁路港综保区已全部完成基础设施、隔离设施、道路设施、信息化系统和相关配套设施建设，并于2020年11月通过了预验收，在海关总署等8部委大力支持下，铁路港综保区从获批到完成正式验收仅用时一年，体现了成都进一步扩大对外开放的决心和速度。"
+        },
+        {
+          "block_id": "blk-01a45d0da22f5fcf797d",
+          "page_number": 177,
+          "text": "近年来，依托国际班列、中欧班列，铁路港不断拓展开放平台，先后获批铁路保B、整车口岸、肉类口岸、进境粮食指定监管场地、木材进口、平行车进口、二手车出口等资质，开放功能在全国内陆港领先。成都国际铁路港综保区由成都铁路保税物流中心（B型）升级而成，目前成都铁路保税物流中心已实现保税监管与口岸良性平衡发展，吸引了联想、TCL、宝马、沃尔沃等众多知名企业利用通道开展业务，业务量稳居全国保税物流中心的前三位，2020年1—11月，成都铁路保税物流中心（B型）监管货值达225.8亿元，同比增长2.5倍，位列全国保税物流中心第一①。在成都海关所属青白江海关推动下，成都铁路保税物流中心（B型）实现9610、9710、9810、1210保税业务模式全覆盖，2020年跨境电商进出口业务达236.14万单，同比增长3.1倍，已经累计服务全国4千家企业②。"
+        },
+        {
+          "block_id": "blk-9b5ef99c5ed3a961bcdf",
+          "page_number": 177,
+          "text": "继成都铁路保税物流中心（B型）正式升级为综保区后，成都铁路港未来将有以下工作重点：一是加强内部协作，针对铁路港综保区的发展需求，利用海关全面深化业务改革等契机，加强与地方政府、机构的协作配合，强化自身内部协作，共同推进各项工作的开展；二是加强关企合作，进一步优化中心内业务流程与种类，积极主动与企业对接业务展开指导，定期召开关企座谈会，进行政策宣讲；三是落实政策，根据党中央国务院以及海关总署相关政策要求，结合海关工作实际，因地制宜制定业务推进方案和技术保障方案，完成创新改革工作，构建政策落地全方位保障机制，切实降低企业通关时间及通关成本。"
+        },
+        {
+          "block_id": "blk-5c4a96afd23c6fa95bf3",
+          "page_number": 177,
+          "text": "在产业布局方面，铁路港将瞄准发展智能家电、物流智能装备、电脑外设保税加工等先进制造，同时，配套发展以跨境电商及“适欧适铁”大宗商品为重点的国际贸易，以平行车及汽车零配件等为重点的保税物流，以机电检测维修、艺术品保税展示、国际结算为重点的保税服务。目前，铁路港综保区已签约引进诺伏克-明宇生物健康保税加工、厦门建发进出口贸易结算中心、长久整车进出口基地等项目30个，项目用地占综保区规划面积达 \\(77\\%\\) 。"
+        },
+        {
+          "block_id": "blk-9cfdcee245675194dd91",
+          "page_number": 177,
+          "text": "在政策优势方面，铁路港将在原有产业优势基础上，释放一线进口设备免税、"
+        },
+        {
+          "block_id": "blk-46a61e7ef836880d674e",
+          "page_number": 178,
+          "text": "二线入区设备和料件退税、选择性征收关税等更多政策红利，开展保税加工、保税研发、保税维修、融资租赁、跨境电商等更多业态，促进企业更好地利用国内国际“两种资源、两个市场”。这将有利于四川进一步叠加综保区和自贸试验区的政策优势，形成拉动外贸持续增长的新动能，促进构建以国内大循环为主体、国内国际双循环相互促进的新发展格局。"
+        },
+        {
+          "block_id": "blk-e51da00d80a65496f8db",
+          "page_number": 178,
+          "text": "作为备受瞩目的对外开放平台，综合保税区具有开放层次高、功能齐全、政策优惠多、功能齐备等特点，其在政策、功能方面的优势，对于促进对外开放、吸引外商投资、承接国际产能转移等方面具有重要意义。当前，铁路港综保区正式通过国家验收，继高新综保区、高新西园综保区后，铁路港为成都再增添一员，成都国际铁路港综保区与省内其他综保区存在明显的差异和互补，它的设立和运行将进一步提高成都乃至全省外向型经济发展水平，助推国际门户枢纽城市建设。"
+        },
+        {
+          "block_id": "blk-e3cf264479baa4ad86e9",
+          "page_number": 178,
+          "text": "未来，成都国际铁路港综保区将立足铁路港中欧班列和国家物流枢纽开放平台优势，不断拓展开放平台，逐步形成拉动外贸持续增长的新动能。其一，健全运行机制，继续完善综保区基础设施和信息化系统，满足海关等部门对综保区的监管要求，不断完善功能；其二，强化项目招引，聚焦适铁大宗商品、整车及零配件保税物流、跨境电商、智能家电、生物健康及食品冷链加工等产业，推动国际物流、加工贸易、跨境贸易等产业在综保区联动发展；其三，加快打造辐射西部、连接全球的现代物流分拨中心、保税加工中心、跨境电子商务中心、转口贸易中心，为国内国际双循环相互促进的新发展格局作出更大贡献。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-dfb423be7b68",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-9d666efebb23",
+    "ref-c5cd4c59267f"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

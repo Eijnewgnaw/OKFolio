@@ -1,0 +1,479 @@
+{
+  "contract": {
+    "canonical_question": "成都如何营造对外开放氛围并引导社会力量参与内陆开放经济高地建设？",
+    "claims": [
+      {
+        "claim": "坚持总体国家安全观，充分利用主流媒体的社会影响力。",
+        "claim_id": "claim-24584fcfbcb11c1b",
+        "evidence_block_ids": [
+          "blk-a8479c22d5edd4a40e66"
+        ],
+        "evidence_excerpt": "坚持总体国家安全观，充分利用主流媒体的社会影响力",
+        "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          175
+        ],
+        "ref_id": "ref-78ae1632a553",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "通过多种渠道，引导社会力量、借用民间智慧参与成都内陆开放经济高地和国际门户枢纽建设。",
+        "claim_id": "claim-0a60553c17506d1c",
+        "evidence_block_ids": [
+          "blk-a8479c22d5edd4a40e66"
+        ],
+        "evidence_excerpt": "通过多种渠道，引导社会力量、借用民间智慧参与成都内陆开放经济高地和国际门户枢纽建设",
+        "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          175
+        ],
+        "ref_id": "ref-78ae1632a553",
+        "scope": {
+          "region": [
+            "成都"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+        "claim_id": "claim-3265bc0fedae6ccd",
+        "evidence_block_ids": [
+          "blk-a8479c22d5edd4a40e66"
+        ],
+        "evidence_excerpt": "营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围",
+        "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          175
+        ],
+        "ref_id": "ref-78ae1632a553",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "牵头单位为成都市对外开放工作领导小组办公室。",
+        "claim_id": "claim-85a6725bc092d435",
+        "evidence_block_ids": [
+          "blk-a8479c22d5edd4a40e66"
+        ],
+        "evidence_excerpt": "（牵头单位：成都市对外开放工作领导小组办公室",
+        "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          175
+        ],
+        "ref_id": "ref-78ae1632a553",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "责任单位为市级相关部门。",
+        "claim_id": "claim-e27c083dd7e78079",
+        "evidence_block_ids": [
+          "blk-a8479c22d5edd4a40e66"
+        ],
+        "evidence_excerpt": "责任单位：市级相关部门）",
+        "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          175
+        ],
+        "ref_id": "ref-78ae1632a553",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-24584fcfbcb11c1b",
+          "claim-0a60553c17506d1c",
+          "claim-3265bc0fedae6ccd",
+          "claim-85a6725bc092d435",
+          "claim-e27c083dd7e78079"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+        "reason": "该Bundle包含回答中心问题所需的核心措施、参与主体及目标氛围描述，是分析框架中subject、core_judgment和evidence的关键来源。"
+      }
+    ],
+    "group_id": "topic-cc82bb53056e",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了营造对外开放氛围的具体路径，包括利用主流媒体、引导社会力量和借用民间智慧，明确了参与主体和最终目标。",
+        "ref_id": "ref-78ae1632a553",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-24584fcfbcb11c1b",
+        "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0a60553c17506d1c",
+        "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3265bc0fedae6ccd",
+        "draft_excerpt": "旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-85a6725bc092d435",
+        "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e27c083dd7e78079",
+        "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-24584fcfbcb11c1b",
+          "claim-0a60553c17506d1c",
+          "claim-3265bc0fedae6ccd"
+        ],
+        "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-15e7a71770f0e4fe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-24584fcfbcb11c1b"
+        ],
+        "draft_excerpt": "营造良好的对外开放氛围需坚持总体国家安全观，并充分利用主流媒体的社会影响力作为基础支撑。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ce83a5f21be87ecd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0a60553c17506d1c"
+        ],
+        "draft_excerpt": "通过多种渠道引导社会力量、借用民间智慧，共同参与成都内陆开放经济高地和国际门户枢纽的建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2014cbc2fa104476",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3265bc0fedae6ccd"
+        ],
+        "draft_excerpt": "旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-819dda612fa93d20",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-85a6725bc092d435",
+          "claim-e27c083dd7e78079"
+        ],
+        "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-71e927ff67dde682",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-24584fcfbcb11c1b",
+          "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0a60553c17506d1c",
+          "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3265bc0fedae6ccd",
+          "draft_excerpt": "旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-85a6725bc092d435",
+          "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e27c083dd7e78079",
+          "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-24584fcfbcb11c1b",
+            "claim-0a60553c17506d1c",
+            "claim-3265bc0fedae6ccd"
+          ],
+          "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+          "finding": "supported",
+          "sentence_id": "sentence-15e7a71770f0e4fe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-24584fcfbcb11c1b"
+          ],
+          "draft_excerpt": "营造良好的对外开放氛围需坚持总体国家安全观，并充分利用主流媒体的社会影响力作为基础支撑。",
+          "finding": "supported",
+          "sentence_id": "sentence-ce83a5f21be87ecd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0a60553c17506d1c"
+          ],
+          "draft_excerpt": "通过多种渠道引导社会力量、借用民间智慧，共同参与成都内陆开放经济高地和国际门户枢纽的建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-2014cbc2fa104476",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3265bc0fedae6ccd"
+          ],
+          "draft_excerpt": "旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+          "finding": "supported",
+          "sentence_id": "sentence-819dda612fa93d20",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-85a6725bc092d435",
+            "claim-e27c083dd7e78079"
+          ],
+          "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+          "finding": "supported",
+          "sentence_id": "sentence-71e927ff67dde682",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "a6f880f9497f5948339714aa535f78eb26e95d50ea1f549f0695771acdf78230",
+  "coverage_history": [
+    {
+      "draft_sha256": "a6f880f9497f5948339714aa535f78eb26e95d50ea1f549f0695771acdf78230",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-24584fcfbcb11c1b",
+            "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0a60553c17506d1c",
+            "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3265bc0fedae6ccd",
+            "draft_excerpt": "旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-85a6725bc092d435",
+            "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e27c083dd7e78079",
+            "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-24584fcfbcb11c1b",
+              "claim-0a60553c17506d1c",
+              "claim-3265bc0fedae6ccd"
+            ],
+            "draft_excerpt": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15e7a71770f0e4fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24584fcfbcb11c1b"
+            ],
+            "draft_excerpt": "营造良好的对外开放氛围需坚持总体国家安全观，并充分利用主流媒体的社会影响力作为基础支撑。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce83a5f21be87ecd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0a60553c17506d1c"
+            ],
+            "draft_excerpt": "通过多种渠道引导社会力量、借用民间智慧，共同参与成都内陆开放经济高地和国际门户枢纽的建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2014cbc2fa104476",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3265bc0fedae6ccd"
+            ],
+            "draft_excerpt": "旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-819dda612fa93d20",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-85a6725bc092d435",
+              "claim-e27c083dd7e78079"
+            ],
+            "draft_excerpt": "该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-71e927ff67dde682",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n营造良好的对外开放氛围需坚持总体国家安全观，并充分利用主流媒体的社会影响力作为基础支撑。\n\n通过多种渠道引导社会力量、借用民间智慧，共同参与成都内陆开放经济高地和国际门户枢纽的建设。\n\n## 目标与机制\n\n旨在营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。\n\n该工作由成都市对外开放工作领导小组办公室牵头，市级相关部门作为责任单位共同推进。",
+    "description": "该分析框架主张在坚持总体国家安全观的前提下，通过主流媒体引导社会力量与民间智慧参与成都内陆开放经济高地及国际门户枢纽建设，以营造全民参与的良好社会氛围。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-cc82bb53056e",
+      "description": "坚持总体国家安全观，充分利用主流媒体的社会影响力，通过多种渠道，引导社会力量、借用民间智慧参与成都内陆开放经济高地和国际门户枢纽建设，营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "坚持总体国家安全观，充分利用主流媒体的社会影响力",
+        "通过多种渠道，引导社会力量、借用民间智慧参与成都内陆开放经济高地和国际门户枢纽建设",
+        "营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围",
+        "（牵头单位：成都市对外开放工作领导小组办公室",
+        "责任单位：市级相关部门）"
+      ],
+      "evidence_block_ids": [
+        "blk-a8479c22d5edd4a40e66"
+      ],
+      "page_end": 176,
+      "page_start": 175,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（三十八）营造良好的对外开放氛围"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "营造良好的对外开放氛围",
+      "type": "分析框架"
+    },
+    "title": "营造良好的对外开放氛围"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-78ae1632a553:bundle-723302c92b17",
+      "excluded_fragments": [],
+      "ref_id": "ref-78ae1632a553",
+      "source_blocks": [
+        {
+          "block_id": "blk-a8479c22d5edd4a40e66",
+          "page_number": 175,
+          "text": "坚持总体国家安全观，充分利用主流媒体的社会影响力，通过多种渠道，引导社会力量、借用民间智慧参与成都内陆开放经济高地和国际门户枢纽建设，营造人人都是宣传者、人人都是建设者、人人都是享有者的良好社会氛围。（牵头单位：成都市对外开放工作领导小组办公室；责任单位：市级相关部门）"
+        },
+        {
+          "block_id": "blk-4620090e883a6ca80642",
+          "page_number": 176,
+          "text": "根据国务院《关于促进加工贸易创新发展的若干意见》（国发〔2016〕4号）、省政府《关于促进加工贸易创新发展的实施意见》（川府发〔2016〕43号）精神，全面加快推进我市加工贸易创新发展，带动对外贸易转型升级，制定本实施方案。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-cc82bb53056e",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-78ae1632a553"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

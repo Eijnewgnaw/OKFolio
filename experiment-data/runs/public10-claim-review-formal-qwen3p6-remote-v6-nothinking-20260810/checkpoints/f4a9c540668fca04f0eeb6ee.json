@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-a88763a80563:bundle-2fd29fe7fa10; submitted='2023年3月，成都联合德眉资举办“成德眉资农产品同城化产供销对接暨优质农产品展示展销”活动。通过成果展示、优质农产品展示展销、趣味通关、集中签约、“四城珍味礼包发布”等一系列环节展现四市农副产品发展潜力，调动市民积极参与，促进市民对四市特色优质农产品的了解。本次活动中，四川云背篓科技集团有限公司、古蜀鲜农业发展有限公'; nearest_verbatim_span='2023年3月，成都联合德眉资举办“成德眉资农产品同城化产供销对接暨优质农产品展示展销”活动。通过成果展示、优质农产品展示展销、趣味通关、集中签约、“四城珍味礼包发布”等一系列环节展现四市农副产品发展潜力，调动市民积极参与，促进市民对四市特色优质农产品的了解。本次活动'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-9e3021682511",
+  "ref_ids": [
+    "ref-a88763a80563"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

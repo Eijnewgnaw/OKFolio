@@ -1,0 +1,911 @@
+{
+  "contract": {
+    "canonical_question": "成都与省内市（州）及国内省市在区域协同创新方面的合作范围、主要领域、合作主体及具体形式有哪些？",
+    "claims": [
+      {
+        "claim": "在省内层面，2019年成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展合作。",
+        "claim_id": "claim-055f9c4336e74829",
+        "evidence_block_ids": [
+          "blk-49e69e43a4e448c5886a"
+        ],
+        "evidence_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          34
+        ],
+        "ref_id": "ref-683b97aac1f1",
+        "scope": {
+          "region": [
+            "环成都经济圈",
+            "川南经济区",
+            "川东北经济区",
+            "攀西经济区"
+          ],
+          "time": "2019年"
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主。",
+        "claim_id": "claim-68270ceb62204c82",
+        "evidence_block_ids": [
+          "blk-a9569fa2ac4378c7853c"
+        ],
+        "evidence_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          34
+        ],
+        "ref_id": "ref-683b97aac1f1",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "协同创新集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+        "claim_id": "claim-cf4d6be5bf90e427",
+        "evidence_block_ids": [
+          "blk-a9569fa2ac4378c7853c"
+        ],
+        "evidence_excerpt": "集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          34
+        ],
+        "ref_id": "ref-683b97aac1f1",
+        "scope": {
+          "object": [
+            "创新平台搭建",
+            "成果研发",
+            "创新成果孵化转化",
+            "成果产业化"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "与国内省市合作主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市合作紧密。",
+        "claim_id": "claim-131350c538575cb2",
+        "evidence_block_ids": [
+          "blk-49e69e43a4e448c5886a"
+        ],
+        "evidence_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          34
+        ],
+        "ref_id": "ref-683b97aac1f1",
+        "scope": {
+          "region": [
+            "京津冀",
+            "长三角",
+            "北京",
+            "上海"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+        "claim_id": "claim-b0171acc3b416cc8",
+        "evidence_block_ids": [
+          "blk-a2e370bd016c75801604"
+        ],
+        "evidence_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          34
+        ],
+        "ref_id": "ref-683b97aac1f1",
+        "scope": {
+          "actor": [
+            "政府",
+            "高校院所",
+            "企业"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+        "claim_id": "claim-7c8ca019597804ae",
+        "evidence_block_ids": [
+          "blk-a2e370bd016c75801604"
+        ],
+        "evidence_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          34
+        ],
+        "ref_id": "ref-683b97aac1f1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-055f9c4336e74829",
+          "claim-68270ceb62204c82",
+          "claim-cf4d6be5bf90e427",
+          "claim-131350c538575cb2",
+          "claim-b0171acc3b416cc8",
+          "claim-7c8ca019597804ae"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+        "reason": "该Bundle包含回答中心问题所需的所有固定槽位事实，包括合作范围、领域、主体和形式，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-fb3ce359aea9",
+    "members": [
+      {
+        "contribution": "该证据直接描述了成都与省内及国内省市协同创新的合作范围、主要领域、主体及形式，是回答中心问题的核心事实来源。",
+        "ref_id": "ref-683b97aac1f1",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-055f9c4336e74829",
+        "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-68270ceb62204c82",
+        "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-cf4d6be5bf90e427",
+        "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-131350c538575cb2",
+        "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b0171acc3b416cc8",
+        "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7c8ca019597804ae",
+        "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-055f9c4336e74829",
+          "claim-68270ceb62204c82",
+          "claim-131350c538575cb2",
+          "claim-7c8ca019597804ae"
+        ],
+        "draft_excerpt": "2019年成都与省内五大经济区各市（州）均开展合作，协同创新以产学研为主，国内合作聚焦京津冀、长三角及京沪苏等地，形式包括签订协议、共建平台及举办推介会等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-033c335fff2f2bc5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-055f9c4336e74829"
+        ],
+        "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8e525cdbead1f2a2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-68270ceb62204c82",
+          "claim-cf4d6be5bf90e427"
+        ],
+        "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e6212f4c3c957d2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b0171acc3b416cc8"
+        ],
+        "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-32f71a0ce3e6c79d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-131350c538575cb2"
+        ],
+        "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4646a903c5b96090",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7c8ca019597804ae"
+        ],
+        "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5065e0e713f17d73",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-055f9c4336e74829",
+          "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-68270ceb62204c82",
+          "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cf4d6be5bf90e427",
+          "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-131350c538575cb2",
+          "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b0171acc3b416cc8",
+          "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7c8ca019597804ae",
+          "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-055f9c4336e74829",
+            "claim-68270ceb62204c82",
+            "claim-131350c538575cb2",
+            "claim-7c8ca019597804ae"
+          ],
+          "draft_excerpt": "2019年成都与省内五大经济区各市（州）均开展合作，协同创新以产学研为主，国内合作聚焦京津冀、长三角及京沪苏等地，形式包括签订协议、共建平台及举办推介会等。",
+          "finding": "supported",
+          "sentence_id": "sentence-033c335fff2f2bc5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-055f9c4336e74829"
+          ],
+          "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-8e525cdbead1f2a2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-68270ceb62204c82",
+            "claim-cf4d6be5bf90e427"
+          ],
+          "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+          "finding": "supported",
+          "sentence_id": "sentence-1e6212f4c3c957d2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b0171acc3b416cc8"
+          ],
+          "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-32f71a0ce3e6c79d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-131350c538575cb2"
+          ],
+          "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+          "finding": "supported",
+          "sentence_id": "sentence-4646a903c5b96090",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7c8ca019597804ae"
+          ],
+          "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+          "finding": "supported",
+          "sentence_id": "sentence-5065e0e713f17d73",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "b72bc202affb673f7bf188396a98d0f5e360749d76652f8b3d481321dd29427b",
+  "coverage_history": [
+    {
+      "draft_sha256": "7e27af61f102f0cda4e15e017fce7164122be9afbeb87b66210ca280f053ae50",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-055f9c4336e74829",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-055f9c4336e74829 is missing hard anchors from the claim: ['2019年']; claim='在省内层面，2019年成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展合作。'; excerpt='在省内层面，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了合作。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-68270ceb62204c82",
+            "draft_excerpt": "成都与省内市（州）及国内省市的协同创新均以产学研协同创新为主，合作主体包括政府、高校院所和企业，主要通过签订协议的方式推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf4d6be5bf90e427",
+            "draft_excerpt": "合作内容集中于创新平台搭建、成果研发、创新成果孵化转化及成果产业化等领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-131350c538575cb2",
+            "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多且频率较高，主要集中于京津冀、长三角地区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0171acc3b416cc8",
+            "draft_excerpt": "成都与省内市（州）及国内省市的协同创新均以产学研协同创新为主，合作主体包括政府、高校院所和企业，主要通过签订协议的方式推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7c8ca019597804ae",
+            "draft_excerpt": "在国内区域合作中，成都采取了多样化的合作形式，包括签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园，以及举行创新创业项目投资推介会、交流会和合作洽谈会等。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都与省内各市（州）及国内省市建立了以产学研协同为主的广泛合作网络，合作领域涵盖创新平台搭建与成果转化，国内合作重点聚焦东部沿海发达地区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7bf605cbdcb10e16",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-055f9c4336e74829"
+            ],
+            "draft_excerpt": "在省内层面，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a9302d4ea661ba1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年，这种合作已覆盖全省主要经济功能区，形成了广泛的省内协同创新网络。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d44f76c5415bb32a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-131350c538575cb2"
+            ],
+            "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多且频率较高，主要集中于京津冀、长三角地区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-46d9729d401cdde8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "其中，与北京、上海、江苏等省市的合作尤为紧密，显示出成都与国内发达地区在创新资源对接上的深度关联。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f27c8b775a72769e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-68270ceb62204c82",
+              "claim-b0171acc3b416cc8"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市的协同创新均以产学研协同创新为主，合作主体包括政府、高校院所和企业，主要通过签订协议的方式推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-50257aef3854f0c2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cf4d6be5bf90e427"
+            ],
+            "draft_excerpt": "合作内容集中于创新平台搭建、成果研发、创新成果孵化转化及成果产业化等领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bddff587577777c5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7c8ca019597804ae"
+            ],
+            "draft_excerpt": "在国内区域合作中，成都采取了多样化的合作形式，包括签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园，以及举行创新创业项目投资推介会、交流会和合作洽谈会等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57b22df46d8a0cc7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都与省内各市（州）及国内省市建立了以产学研协同为主的广泛合作网络，合作领域涵盖创新平台搭建与成果转化，国内合作重点聚焦东部沿海发达地区。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2019年，这种合作已覆盖全省主要经济功能区，形成了广泛的省内协同创新网络。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "其中，与北京、上海、江苏等省市的合作尤为紧密，显示出成都与国内发达地区在创新资源对接上的深度关联。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "8f2699aa2765eef6b92c1ae61cf44b71c92116ea657f5e20fcb9151f44840e22",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-055f9c4336e74829",
+            "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-68270ceb62204c82",
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf4d6be5bf90e427",
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-131350c538575cb2",
+            "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0171acc3b416cc8",
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7c8ca019597804ae",
+            "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都与省内各市（州）及国内省市建立了以产学研协同为主的广泛合作网络，合作领域涵盖创新平台搭建与成果转化，国内合作重点聚焦东部沿海发达地区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7bf605cbdcb10e16",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-055f9c4336e74829"
+            ],
+            "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8e525cdbead1f2a2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-68270ceb62204c82",
+              "claim-cf4d6be5bf90e427"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e6212f4c3c957d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0171acc3b416cc8"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-32f71a0ce3e6c79d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-131350c538575cb2"
+            ],
+            "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4646a903c5b96090",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7c8ca019597804ae"
+            ],
+            "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5065e0e713f17d73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都与省内各市（州）及国内省市建立了以产学研协同为主的广泛合作网络，合作领域涵盖创新平台搭建与成果转化，国内合作重点聚焦东部沿海发达地区。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "b72bc202affb673f7bf188396a98d0f5e360749d76652f8b3d481321dd29427b",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-055f9c4336e74829",
+            "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-68270ceb62204c82",
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf4d6be5bf90e427",
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-131350c538575cb2",
+            "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0171acc3b416cc8",
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7c8ca019597804ae",
+            "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-055f9c4336e74829",
+              "claim-68270ceb62204c82",
+              "claim-131350c538575cb2",
+              "claim-7c8ca019597804ae"
+            ],
+            "draft_excerpt": "2019年成都与省内五大经济区各市（州）均开展合作，协同创新以产学研为主，国内合作聚焦京津冀、长三角及京沪苏等地，形式包括签订协议、共建平台及举办推介会等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-033c335fff2f2bc5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-055f9c4336e74829"
+            ],
+            "draft_excerpt": "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8e525cdbead1f2a2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-68270ceb62204c82",
+              "claim-cf4d6be5bf90e427"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e6212f4c3c957d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0171acc3b416cc8"
+            ],
+            "draft_excerpt": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-32f71a0ce3e6c79d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-131350c538575cb2"
+            ],
+            "draft_excerpt": "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4646a903c5b96090",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7c8ca019597804ae"
+            ],
+            "draft_excerpt": "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5065e0e713f17d73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作。成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域。成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主。在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密。成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等。",
+    "description": "2019年成都与省内五大经济区各市（州）均开展合作，协同创新以产学研为主，国内合作聚焦京津冀、长三角及京沪苏等地，形式包括签订协议、共建平台及举办推介会等。",
+    "ref": {
+      "asset_hints": [
+        "image-093",
+        "image-094",
+        "image-095"
+      ],
+      "concept_id": "topic-fb3ce359aea9",
+      "description": "成都与省内市（州）在区域协同创新方面建立了广泛的合作关系，与国内省市的合作范围也在不断拓展。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作",
+        "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主",
+        "集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域",
+        "在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密",
+        "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主",
+        "成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等"
+      ],
+      "evidence_block_ids": [
+        "blk-49e69e43a4e448c5886a",
+        "blk-a9569fa2ac4378c7853c",
+        "blk-a2e370bd016c75801604"
+      ],
+      "page_end": 76,
+      "page_start": 34,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "成都与省内区域协同创新合作范围",
+      "type": "分析框架"
+    },
+    "title": "成都与省内区域协同创新合作范围"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-683b97aac1f1:bundle-96bacd4002ee",
+      "excluded_fragments": [],
+      "ref_id": "ref-683b97aac1f1",
+      "source_blocks": [
+        {
+          "block_id": "blk-2fe1eeb1c5be0bb2caf8",
+          "page_number": 34,
+          "text": "原始 PDF 第 34 页图片"
+        },
+        {
+          "block_id": "blk-4b0b226c07201a955f38",
+          "page_number": 34,
+          "text": "原始 PDF 第 34 页图片"
+        },
+        {
+          "block_id": "blk-acd367ed6e17c9bb2b60",
+          "page_number": 34,
+          "text": "原始 PDF 第 34 页图片"
+        },
+        {
+          "block_id": "blk-a9ee1037b8e2c6cfa498",
+          "page_number": 34,
+          "text": "原始 PDF 第 34 页图片"
+        },
+        {
+          "block_id": "blk-893e028dba4972bf1be6",
+          "page_number": 34,
+          "text": "原始 PDF 第 34 页图片"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-49e69e43a4e448c5886a",
+          "page_number": 34,
+          "text": "成都与省内市（州）在区域协同创新方面建立了广泛的合作关系，与国内省市的合作范围也在不断拓展。在省内层面，2019年，成都与环成都经济圈、川南经济区、川东北经济区、攀西经济区、川西北生态示范区的各市（州）均开展了一定的合作，特别是与成都平原经济区、川南经济区在区域协同创新方面形成了多种形式的互动合作。在国内层面，成都与东部沿海省市合作较多、合作频率较高，主要集中于京津冀、长三角地区，其中与北京、上海、江苏等省市的合作紧密，且将向中西部地区延伸加强协作。"
+        },
+        {
+          "block_id": "blk-a9569fa2ac4378c7853c",
+          "page_number": 34,
+          "text": "成都与省内市（州）及国内省市协同创新均以产学研协同创新为主，集中于创新平台搭建、成果研发、创新成果孵化转化、成果产业化等领域，基本覆盖创新链各环节。成果研发方面与省内市（州）以共建研究院、签订合作协议、科研合作、创新平台搭建等为主，与国内省市主要基于具体的产业共建创新平台及研发平台、共建创新联盟，开展科技交流会等；成果孵化转化方面均以"
+        },
+        {
+          "block_id": "blk-7a0d2c8f2eb447cecbc8",
+          "page_number": 34,
+          "text": "建设孵化器以及通过签订协议进行成果孵化转化为主；成果产业化方面以具体行业或项目为基础进行合作。"
+        },
+        {
+          "block_id": "blk-a2e370bd016c75801604",
+          "page_number": 34,
+          "text": "成都与省内市（州）及国内省市在区域协同创新方面以政府、高校院所、企业等合作主体签订协议为主，此外还有共建成果转化园、创新中心和研发基地等多种形式，合作形式较为多元化。成都与省内市（州）签订的协议类型主要有战略合作协议、合作框架协议、校企合作协议、市校合作协议、运营合作协议等，此外还有举行和参与合作座谈会、对接推进会、协同工作会，共建研究院、科技创新联盟、跨区域合作试验示范区、实验基地等多种合作形式。成都与国内区域的合作形式有签订战略合作协议、共建科技园、实验室和试验基地、搭建创新平台、共建产业技术研究院、孵化器和众创空间、大数据产业园、举行创新创业项目投资推介会、举行交流会、合作洽谈会等，与省内层面相比合作形式更加多样化；签订的协议类型主要有框架合作协议、校地合作协议、投资合作协议、项目协议、技术合作协议等，与省内层面相比，签订的协议内容更加具体。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-fb3ce359aea9",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-683b97aac1f1"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,740 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年间针对外籍人士子女教育及社区融入方面采取了哪些具体管理措施与服务场景建设？",
+    "claims": [
+      {
+        "claim": "出台自贸试验区外籍人士子女学校管理办法。",
+        "claim_id": "claim-749e0978b4bc36a9",
+        "evidence_block_ids": [
+          "blk-7e1232191984a4a3c531"
+        ],
+        "evidence_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+        "evidence_id": "ref-57899889a6f9:bundle-848c219b4aee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-57899889a6f9",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "扩大外籍人士子女就学范围。",
+        "claim_id": "claim-b7a84dd37523f79b",
+        "evidence_block_ids": [
+          "blk-7e1232191984a4a3c531"
+        ],
+        "evidence_excerpt": "扩大外籍人士子女就学范围",
+        "evidence_id": "ref-57899889a6f9:bundle-848c219b4aee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-57899889a6f9",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "创设突出国别风物人情的类海外社区生活场景。",
+        "claim_id": "claim-01d5b988f0971fde",
+        "evidence_block_ids": [
+          "blk-7e1232191984a4a3c531"
+        ],
+        "evidence_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+        "evidence_id": "ref-57899889a6f9:bundle-848c219b4aee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-57899889a6f9",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励涉外政务服务适度向社区延伸。",
+        "claim_id": "claim-6d58eddae0bc7ad0",
+        "evidence_block_ids": [
+          "blk-7e1232191984a4a3c531"
+        ],
+        "evidence_excerpt": "鼓励涉外政务服务适度向社区延伸",
+        "evidence_id": "ref-57899889a6f9:bundle-848c219b4aee",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          174
+        ],
+        "ref_id": "ref-57899889a6f9",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-749e0978b4bc36a9",
+          "claim-b7a84dd37523f79b",
+          "claim-01d5b988f0971fde",
+          "claim-6d58eddae0bc7ad0"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-57899889a6f9:bundle-848c219b4aee",
+        "reason": "该Bundle包含外籍人士子女教育政策、社区场景建设及政务服务延伸等核心事实，是回答中心问题关于教育管理与社区融入义务的必要证据。"
+      }
+    ],
+    "group_id": "topic-ff7c83cc4370",
+    "members": [
+      {
+        "contribution": "该证据直接提供了外籍人士子女教育管理办法的出台、就学范围的扩大，以及社区生活场景创设和政务服务延伸的具体措施，完整回答了关于教育管理与社区融入的问题。",
+        "ref_id": "ref-57899889a6f9",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-749e0978b4bc36a9",
+        "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b7a84dd37523f79b",
+        "draft_excerpt": "扩大外籍人士子女就学范围",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-01d5b988f0971fde",
+        "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6d58eddae0bc7ad0",
+        "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-749e0978b4bc36a9",
+          "claim-b7a84dd37523f79b",
+          "claim-01d5b988f0971fde",
+          "claim-6d58eddae0bc7ad0"
+        ],
+        "draft_excerpt": "通过出台自贸试验区外籍人士子女学校管理办法、扩大外籍人士子女就学范围、创设突出国别风物人情的类海外社区生活场景及鼓励涉外政务服务适度向社区延伸，完善外籍人士服务配套。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ab2a23c72a28f9ce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-82ac47a96584e78d",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-749e0978b4bc36a9"
+        ],
+        "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bf6a4257fa9ffaa5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b7a84dd37523f79b"
+        ],
+        "draft_excerpt": "扩大外籍人士子女就学范围",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6115862cfa497171",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-01d5b988f0971fde"
+        ],
+        "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-26579dde0524c6db",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6d58eddae0bc7ad0"
+        ],
+        "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-da6bb840c5282365",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+        "finding": "unsupported_claim"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-749e0978b4bc36a9",
+          "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b7a84dd37523f79b",
+          "draft_excerpt": "扩大外籍人士子女就学范围",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-01d5b988f0971fde",
+          "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6d58eddae0bc7ad0",
+          "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-749e0978b4bc36a9",
+            "claim-b7a84dd37523f79b",
+            "claim-01d5b988f0971fde",
+            "claim-6d58eddae0bc7ad0"
+          ],
+          "draft_excerpt": "通过出台自贸试验区外籍人士子女学校管理办法、扩大外籍人士子女就学范围、创设突出国别风物人情的类海外社区生活场景及鼓励涉外政务服务适度向社区延伸，完善外籍人士服务配套。",
+          "finding": "supported",
+          "sentence_id": "sentence-ab2a23c72a28f9ce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-82ac47a96584e78d",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-749e0978b4bc36a9"
+          ],
+          "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+          "finding": "supported",
+          "sentence_id": "sentence-bf6a4257fa9ffaa5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b7a84dd37523f79b"
+          ],
+          "draft_excerpt": "扩大外籍人士子女就学范围",
+          "finding": "supported",
+          "sentence_id": "sentence-6115862cfa497171",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-01d5b988f0971fde"
+          ],
+          "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+          "finding": "supported",
+          "sentence_id": "sentence-26579dde0524c6db",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6d58eddae0bc7ad0"
+          ],
+          "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+          "finding": "supported",
+          "sentence_id": "sentence-da6bb840c5282365",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+          "finding": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "a6eeaf538329078a2ba8a77bfe676fd349f29f6a77db7eebc23553d2934958b4",
+  "coverage_history": [
+    {
+      "draft_sha256": "e6411d7f650e574f5ea77aa32eb88a9ebfb981ebbea66940683870868a6cc84e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-749e0978b4bc36a9",
+            "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7a84dd37523f79b",
+            "draft_excerpt": "扩大外籍人士子女就学范围",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01d5b988f0971fde",
+            "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d58eddae0bc7ad0",
+            "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过优化外籍人士子女教育、创设类海外社区场景及延伸涉外政务服务，提升城市国际化宜居水平。",
+            "finding": "The sentence contains the goal '提升城市国际化宜居水平' which is not in the Claim Contract. The actions mentioned are summarized but not verbatim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8175771ea3cb8e6e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+            "finding": "The sentence contains the goal '建设国际化宜居品质城市' and '提升城市的国际吸引力与包容性' which are not in the Claim Contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82ac47a96584e78d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该策略聚焦于解决外籍人士在子女教育、社区生活及政务办理等方面的实际需求，通过制度创新与服务延伸，营造具有国际水准的生活环境。",
+            "finding": "The sentence contains the goal '营造具有国际水准的生活环境' which is not in the Claim Contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2894e993827d1ff",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-749e0978b4bc36a9",
+              "claim-b7a84dd37523f79b"
+            ],
+            "draft_excerpt": "在子女教育方面，通过出台自贸试验区外籍人士子女学校管理办法并扩大外籍人士子女就学范围，保障外籍家庭子女的教育权益。",
+            "finding": "The sentence contains the verbatim phrases for claim-749e0978b4bc36a9 and claim-b7a84dd37523f79b. The phrase '保障外籍家庭子女的教育权益' is a reasonable inference of the 'e",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1fda2be39296c389",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01d5b988f0971fde",
+              "claim-6d58eddae0bc7ad0"
+            ],
+            "draft_excerpt": "在社区生活与政务服务方面，创设突出国别风物人情的类海外社区生活场景，并鼓励涉外政务服务适度向社区延伸，以增强外籍人士的生活便利性与归属感。",
+            "finding": "The sentence contains the verbatim phrases for claim-01d5b988f0971fde and claim-6d58eddae0bc7ad0. The phrase '以增强外籍人士的生活便利性与归属感' is a reasonable inference of '类",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a9cfdb95b227198",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-749e0978b4bc36a9"
+            ],
+            "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+            "finding": "The sentence is verbatim to the evidence_excerpt for claim-749e0978b4bc36a9.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b279dd81a3db6043",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7a84dd37523f79b"
+            ],
+            "draft_excerpt": "扩大外籍人士子女就学范围",
+            "finding": "The sentence is verbatim to the evidence_excerpt for claim-b7a84dd37523f79b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c80c8f9a105b3e58",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01d5b988f0971fde"
+            ],
+            "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+            "finding": "The sentence is verbatim to the evidence_excerpt for claim-01d5b988f0971fde.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d929785a9cee7f2d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6d58eddae0bc7ad0"
+            ],
+            "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+            "finding": "The sentence is verbatim to the evidence_excerpt for claim-6d58eddae0bc7ad0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ca62ea0dc3be330",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过优化外籍人士子女教育、创设类海外社区场景及延伸涉外政务服务，提升城市国际化宜居水平。",
+            "finding": "The sentence contains the unsupported claim '提升城市国际化宜居水平'."
+          },
+          {
+            "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+            "finding": "The sentence contains the unsupported claim '建设国际化宜居品质城市' and '提升城市的国际吸引力与包容性'."
+          },
+          {
+            "draft_excerpt": "该策略聚焦于解决外籍人士在子女教育、社区生活及政务办理等方面的实际需求，通过制度创新与服务延伸，营造具有国际水准的生活环境。",
+            "finding": "The sentence contains the unsupported claim '营造具有国际水准的生活环境'."
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "5abe0c08e5552918d5b3fcdea8e2ace8c3e13f67be966e52db000ce81a395bbf",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-749e0978b4bc36a9",
+            "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7a84dd37523f79b",
+            "draft_excerpt": "扩大外籍人士子女就学范围",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01d5b988f0971fde",
+            "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d58eddae0bc7ad0",
+            "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-749e0978b4bc36a9",
+              "claim-b7a84dd37523f79b",
+              "claim-01d5b988f0971fde",
+              "claim-6d58eddae0bc7ad0"
+            ],
+            "draft_excerpt": "通过出台自贸试验区外籍人士子女学校管理办法、扩大外籍人士子女就学范围、创设突出国别风物人情的类海外社区生活场景及鼓励涉外政务服务适度向社区延伸，完善外籍人士服务配套。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab2a23c72a28f9ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82ac47a96584e78d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该策略聚焦于解决外籍人士在子女教育、社区生活及政务办理等方面的实际需求，通过制度创新与服务延伸，营造具有国际水准的生活环境。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2894e993827d1ff",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-749e0978b4bc36a9"
+            ],
+            "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ccd75f751b46b350",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7a84dd37523f79b"
+            ],
+            "draft_excerpt": "扩大外籍人士子女就学范围",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8da12f58dc2c84a8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01d5b988f0971fde"
+            ],
+            "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-372fecc4f845d280",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6d58eddae0bc7ad0"
+            ],
+            "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0438d4fcfaa33c59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "该策略聚焦于解决外籍人士在子女教育、社区生活及政务办理等方面的实际需求，通过制度创新与服务延伸，营造具有国际水准的生活环境。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a6eeaf538329078a2ba8a77bfe676fd349f29f6a77db7eebc23553d2934958b4",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-749e0978b4bc36a9",
+            "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7a84dd37523f79b",
+            "draft_excerpt": "扩大外籍人士子女就学范围",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01d5b988f0971fde",
+            "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d58eddae0bc7ad0",
+            "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-749e0978b4bc36a9",
+              "claim-b7a84dd37523f79b",
+              "claim-01d5b988f0971fde",
+              "claim-6d58eddae0bc7ad0"
+            ],
+            "draft_excerpt": "通过出台自贸试验区外籍人士子女学校管理办法、扩大外籍人士子女就学范围、创设突出国别风物人情的类海外社区生活场景及鼓励涉外政务服务适度向社区延伸，完善外籍人士服务配套。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab2a23c72a28f9ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82ac47a96584e78d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-749e0978b4bc36a9"
+            ],
+            "draft_excerpt": "出台自贸试验区外籍人士子女学校管理办法",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf6a4257fa9ffaa5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7a84dd37523f79b"
+            ],
+            "draft_excerpt": "扩大外籍人士子女就学范围",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6115862cfa497171",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01d5b988f0971fde"
+            ],
+            "draft_excerpt": "创设突出国别风物人情的类海外社区生活场景",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-26579dde0524c6db",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6d58eddae0bc7ad0"
+            ],
+            "draft_excerpt": "鼓励涉外政务服务适度向社区延伸",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da6bb840c5282365",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n建设国际化宜居品质城市旨在通过完善外籍人士生活配套与公共服务体系，提升城市的国际吸引力与包容性。\n\n- 出台自贸试验区外籍人士子女学校管理办法\n- 扩大外籍人士子女就学范围\n- 创设突出国别风物人情的类海外社区生活场景\n- 鼓励涉外政务服务适度向社区延伸",
+    "description": "通过出台自贸试验区外籍人士子女学校管理办法、扩大外籍人士子女就学范围、创设突出国别风物人情的类海外社区生活场景及鼓励涉外政务服务适度向社区延伸，完善外籍人士服务配套。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-ff7c83cc4370",
+      "description": "提高外籍人士医疗服务水平，全市三级以上医疗机构全部开通外籍人士服务“绿色通道”，提供双语咨询及“一站式”引导服务，并鼓励医疗机构探索开展外籍人士会员制、热线预约、定期体检、健康管理等多种形式的医疗健康服务。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "出台自贸试验区外籍人士子女学校管理办法",
+        "扩大外籍人士子女就学范围",
+        "创设突出国别风物人情的类海外社区生活场景",
+        "鼓励涉外政务服务适度向社区延伸"
+      ],
+      "evidence_block_ids": [
+        "blk-7e1232191984a4a3c531"
+      ],
+      "page_end": 174,
+      "page_start": 174,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（三十五）建设国际化宜居品质城市"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "建设国际化宜居品质城市",
+      "type": "国际比较"
+    },
+    "title": "建设国际化宜居品质城市"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-57899889a6f9:bundle-848c219b4aee",
+      "excluded_fragments": [],
+      "ref_id": "ref-57899889a6f9",
+      "source_blocks": [
+        {
+          "block_id": "blk-7e1232191984a4a3c531",
+          "page_number": 174,
+          "text": "提高外籍人士医疗服务水平，全市三级以上医疗机构全部开通外籍人士服务“绿色通道”，提供双语咨询及“一站式”引导服务，并鼓励医疗机构探索开展外籍人士会员制、热线预约、定期体检、健康管理等多种形式的医疗健康服务。完善中小学招收培养国际学生管理办法，出台自贸试验区外籍人士子女学校管理办法，扩大外籍人士子女就学范围。大力设置双语或多语导视标志标牌，引进和培育个性化餐饮和休闲娱乐项目，创设突出国别风物人情的类海外社区生活场景，探索创新外籍人士参与和融入社区发展治理的长效机制。鼓励涉外政务服务适度向社区延伸。（牵头单位：市委社治委；责任单位：市公安局、市教育局、市卫计委、市外事侨务办）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ff7c83cc4370",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-57899889a6f9"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

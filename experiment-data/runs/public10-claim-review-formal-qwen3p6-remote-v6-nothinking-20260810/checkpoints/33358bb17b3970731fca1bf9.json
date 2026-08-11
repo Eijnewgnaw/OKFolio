@@ -1,0 +1,631 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在实施数字“一带一路”信息通道建设计划中，关于国家级信息节点、数据中心及国际信息港的建设目标、国际数据通道扩容指标及具体补贴政策是什么？",
+    "claims": [
+      {
+        "claim": "成都自贸试验区打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港。",
+        "claim_id": "claim-13936c675329c901",
+        "evidence_block_ids": [
+          "blk-4d3f806c601959a870bc"
+        ],
+        "evidence_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港。",
+        "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-ece5867e85c5",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+        "claim_id": "claim-dc4c6f02484d2736",
+        "evidence_block_ids": [
+          "blk-4d3f806c601959a870bc"
+        ],
+        "evidence_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+        "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-ece5867e85c5",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+        "claim_id": "claim-792a578b5075a2da",
+        "evidence_block_ids": [
+          "blk-4d3f806c601959a870bc"
+        ],
+        "evidence_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴",
+        "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-ece5867e85c5",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "提升国际通信服务能力和质量。",
+        "claim_id": "claim-fdcbdee10f53296d",
+        "evidence_block_ids": [
+          "blk-4d3f806c601959a870bc"
+        ],
+        "evidence_excerpt": "提升国际通信服务能力和质量。",
+        "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-ece5867e85c5",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "牵头单位：市经信委；责任单位：市发改委、市金融局、市新经济委、市商务委。",
+        "claim_id": "claim-254c371163e66e99",
+        "evidence_block_ids": [
+          "blk-4d3f806c601959a870bc"
+        ],
+        "evidence_excerpt": "（牵头单位：市经信委；责任单位：市发改委、市金融局、市新经济委、市商务委）",
+        "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-ece5867e85c5",
+        "scope": {
+          "actor": [
+            "市经信委",
+            "市发改委",
+            "市金融局",
+            "市新经济委"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-13936c675329c901",
+          "claim-dc4c6f02484d2736",
+          "claim-792a578b5075a2da",
+          "claim-fdcbdee10f53296d",
+          "claim-254c371163e66e99"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+        "reason": "该证据包含建设目标、量化指标、补贴标准及责任主体，是回答中心问题所有固定槽位的核心依据。"
+      }
+    ],
+    "group_id": "topic-8bc7905de3e8",
+    "members": [
+      {
+        "contribution": "该证据直接提供了数字“一带一路”信息通道建设的具体行动目标（建设国家级信息节点等）、量化指标（2022年国际直达数据专用通道扩容至25Gbps）以及配套的财政补贴标准（每1Gbps补贴20万元，上限200万元），完整覆盖了分析框架中关于措施",
+        "ref_id": "ref-ece5867e85c5",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-13936c675329c901",
+        "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fdcbdee10f53296d",
+        "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dc4c6f02484d2736",
+        "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-792a578b5075a2da",
+        "draft_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-254c371163e66e99",
+        "draft_excerpt": "牵头单位：市经信委；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-13936c675329c901",
+          "claim-fdcbdee10f53296d"
+        ],
+        "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+        "finding": "Sentence contains facts from claim-13936c675329c901 and claim-fdcbdee10f53296d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-53f0aa26dac872c6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-13936c675329c901",
+          "claim-fdcbdee10f53296d"
+        ],
+        "draft_excerpt": "实施数字“一带一路”信息通道建设计划旨在打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+        "finding": "Sentence contains facts from claim-13936c675329c901 and claim-fdcbdee10f53296d. The introductory clause '实施数字“一带一路”信息通道建设计划旨在' is context for the plan, not a 'f",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a12d50841ecf6b7e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dc4c6f02484d2736"
+        ],
+        "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+        "finding": "Sentence matches claim-dc4c6f02484d2736 exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-63af185d384b807b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-792a578b5075a2da"
+        ],
+        "draft_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+        "finding": "Sentence matches claim-792a578b5075a2da exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3f4349585e192a01",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-254c371163e66e99"
+        ],
+        "draft_excerpt": "牵头单位：市经信委；",
+        "finding": "Sentence matches part of claim-254c371163e66e99.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-263e4f3ed08a4d14",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-254c371163e66e99"
+        ],
+        "draft_excerpt": "责任单位：市发改委、市金融局、市新经济委、市商务委。",
+        "finding": "Sentence matches part of claim-254c371163e66e99.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0041e9a6f1df84b5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-13936c675329c901",
+          "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fdcbdee10f53296d",
+          "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dc4c6f02484d2736",
+          "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-792a578b5075a2da",
+          "draft_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-254c371163e66e99",
+          "draft_excerpt": "牵头单位：市经信委；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-13936c675329c901",
+            "claim-fdcbdee10f53296d"
+          ],
+          "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+          "finding": "Sentence contains facts from claim-13936c675329c901 and claim-fdcbdee10f53296d.",
+          "sentence_id": "sentence-53f0aa26dac872c6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-13936c675329c901",
+            "claim-fdcbdee10f53296d"
+          ],
+          "draft_excerpt": "实施数字“一带一路”信息通道建设计划旨在打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+          "finding": "Sentence contains facts from claim-13936c675329c901 and claim-fdcbdee10f53296d. The introductory clause '实施数字“一带一路”信息通道建设计划旨在' is context for the plan, not a 'f",
+          "sentence_id": "sentence-a12d50841ecf6b7e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dc4c6f02484d2736"
+          ],
+          "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+          "finding": "Sentence matches claim-dc4c6f02484d2736 exactly.",
+          "sentence_id": "sentence-63af185d384b807b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-792a578b5075a2da"
+          ],
+          "draft_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+          "finding": "Sentence matches claim-792a578b5075a2da exactly.",
+          "sentence_id": "sentence-3f4349585e192a01",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-254c371163e66e99"
+          ],
+          "draft_excerpt": "牵头单位：市经信委；",
+          "finding": "Sentence matches part of claim-254c371163e66e99.",
+          "sentence_id": "sentence-263e4f3ed08a4d14",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-254c371163e66e99"
+          ],
+          "draft_excerpt": "责任单位：市发改委、市金融局、市新经济委、市商务委。",
+          "finding": "Sentence matches part of claim-254c371163e66e99.",
+          "sentence_id": "sentence-0041e9a6f1df84b5",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "b88441f68d9f6bcff031e17025918cb2e7639cd2de89b4eda925cb08eadae208",
+  "coverage_history": [
+    {
+      "draft_sha256": "cea4efad50ec510fc92be49d61b31fc9654a865407d306ccab2f296df06b8cab",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-13936c675329c901",
+            "draft_excerpt": "该计划旨在通过建设国家级信息节点、数据中心和国际信息港，打造“一带一路”重要信息通信节点，并提升国际通信服务能力与质量。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dc4c6f02484d2736",
+            "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-792a578b5075a2da",
+            "draft_excerpt": "按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-254c371163e66e99",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fdcbdee10f53296d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-13936c675329c901",
+              "claim-fdcbdee10f53296d"
+            ],
+            "draft_excerpt": "该计划旨在通过建设国家级信息节点、数据中心和国际信息港，打造“一带一路”重要信息通信节点，并提升国际通信服务能力与质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2e2b9adb16e09d5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13936c675329c901"
+            ],
+            "draft_excerpt": "实施数字“一带一路”信息通道建设计划的核心目标是打造“一带一路”的重要信息通信节点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4432959df4ac0f3d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13936c675329c901",
+              "claim-fdcbdee10f53296d"
+            ],
+            "draft_excerpt": "为此，需大力建设国家级信息节点、数据中心和国际信息港，以此提升国际通信服务能力和质量。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-787da152947b2131",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-792a578b5075a2da"
+            ],
+            "draft_excerpt": "在实施路径上，鼓励电信运营企业新建或扩容国际直达数据专用通道，并设定了具体的量化目标与财政支持标准。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e72bd9d9f1a7f7f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc4c6f02484d2736"
+            ],
+            "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adbbffe89f5ba067",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-792a578b5075a2da"
+            ],
+            "draft_excerpt": "按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6e3e3b95f7e08087",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-254c371163e66e99"
+            ],
+            "draft_excerpt": "牵头单位为市经信委，责任单位包括市发改委、市金融局、市新经济委、市商务委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfabbe46a568742a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "b88441f68d9f6bcff031e17025918cb2e7639cd2de89b4eda925cb08eadae208",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-13936c675329c901",
+            "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdcbdee10f53296d",
+            "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dc4c6f02484d2736",
+            "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-792a578b5075a2da",
+            "draft_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-254c371163e66e99",
+            "draft_excerpt": "牵头单位：市经信委；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-13936c675329c901",
+              "claim-fdcbdee10f53296d"
+            ],
+            "draft_excerpt": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+            "finding": "Sentence contains facts from claim-13936c675329c901 and claim-fdcbdee10f53296d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-53f0aa26dac872c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13936c675329c901",
+              "claim-fdcbdee10f53296d"
+            ],
+            "draft_excerpt": "实施数字“一带一路”信息通道建设计划旨在打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+            "finding": "Sentence contains facts from claim-13936c675329c901 and claim-fdcbdee10f53296d. The introductory clause '实施数字“一带一路”信息通道建设计划旨在' is context for the plan, not a 'f",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a12d50841ecf6b7e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc4c6f02484d2736"
+            ],
+            "draft_excerpt": "到2022年，国际直达数据专用通道扩容至25Gbps。",
+            "finding": "Sentence matches claim-dc4c6f02484d2736 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-63af185d384b807b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-792a578b5075a2da"
+            ],
+            "draft_excerpt": "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。",
+            "finding": "Sentence matches claim-792a578b5075a2da exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3f4349585e192a01",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-254c371163e66e99"
+            ],
+            "draft_excerpt": "牵头单位：市经信委；",
+            "finding": "Sentence matches part of claim-254c371163e66e99.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-263e4f3ed08a4d14",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-254c371163e66e99"
+            ],
+            "draft_excerpt": "责任单位：市发改委、市金融局、市新经济委、市商务委。",
+            "finding": "Sentence matches part of claim-254c371163e66e99.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0041e9a6f1df84b5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n实施数字“一带一路”信息通道建设计划旨在打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。\n\n- 到2022年，国际直达数据专用通道扩容至25Gbps。\n- 鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴。\n- 牵头单位：市经信委；责任单位：市发改委、市金融局、市新经济委、市商务委。",
+    "description": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港，提升国际通信服务能力和质量。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-8bc7905de3e8",
+      "description": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港。",
+        "到2022年，国际直达数据专用通道扩容至25Gbps。",
+        "鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴",
+        "提升国际通信服务能力和质量。",
+        "（牵头单位：市经信委；责任单位：市发改委、市金融局、市新经济委、市商务委）"
+      ],
+      "evidence_block_ids": [
+        "blk-4d3f806c601959a870bc"
+      ],
+      "page_end": 162,
+      "page_start": 162,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（七）实施数字“一带一路”信息通道建设计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施数字“一带一路”信息通道建设计划",
+      "type": "分析框架"
+    },
+    "title": "实施数字“一带一路”信息通道建设计划"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-ece5867e85c5:bundle-af01cac2fac6",
+      "excluded_fragments": [],
+      "ref_id": "ref-ece5867e85c5",
+      "source_blocks": [
+        {
+          "block_id": "blk-4d3f806c601959a870bc",
+          "page_number": 162,
+          "text": "打造“一带一路”的重要信息通信节点，大力建设国家级信息节点、数据中心和国际信息港。到2022年，国际直达数据专用通道扩容至25Gbps。鼓励电信运营企业新建或扩容国际直达数据专用通道，按每新建或每扩容1Gbps每次20万元、每个企业每年最高200万元的标准给予补贴，提升国际通信服务能力和质量。（牵头单位：市经信委；责任单位：市发改委、市金融局、市新经济委、市商务委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-8bc7905de3e8",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-ece5867e85c5"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,1156 @@
+{
+  "reviews": [
+    {
+      "decision": "human_review",
+      "group_id": "proposition-074dc85e74c6",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-27377a4b257b",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-4137bc2a9114",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-59a7a74afc89",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-5b694b506d23",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "proposition-7e4a36a43afc",
+      "kind": "claim_review",
+      "reason": "ContractError: claim excerpt cannot be located in one source evidence block: ref-81766682e1a1:bundle-37cc0ad2804d"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-82d79e510854",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "failed",
+      "group_id": "proposition-976c64e613ec",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-b6456a0ad922:bundle-5ad220340a4a) is missing hard anchors from the claim: ['2018年']; claim='到2018年，利用外资实际到位额年均增长10%，“一带一路”沿线对外贸易年均增长8%。'; excerpt='——产业国际化水平明显提升。利用外资实际到位额年均增长 \\\\(10\\\\%\\\\) ，“一带\\n\\n一路”沿线对外贸易年均增长 \\\\(8\\\\%'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-a86f8ad36ae6",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-cb78825bc5a3",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-d831f773f551",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-d9a43cd6e479",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-decc0d627d72",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-f758b38785b8",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "proposition-f8b453b0a036",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[4].evidence_excerpt (ref-74d42df93e1a:bundle-f358b5dede06) is missing hard anchors from the claim: ['2019年']; claim='2019年成都合作领域更加开放，作为全国首个中外人文交流教育试验区，将欧洲、亚洲和北美的先进教学方法、理念引入国内。'; excerpt='在教育领域，作为全国首个中外人文交流教育试验区，将欧洲、亚洲和北美的先进的教学方法、理念引入国内，开展省内外合作；'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "proposition-f9d20f34d17f",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-00c88c64afd2",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[3].evidence_excerpt (ref-119cae7c75e6:bundle-eb96121a9987) is missing hard anchors from the claim: ['2024年']; claim='2024年世界园艺博览会园区选址于成都东部新区空港新城核心区绛溪河生态廊道中部。'; excerpt='世园会园区选址于成都东部新区空港新城核心区绛溪河生态廊道中部'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-02566d777f55",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-029a4f5913c2",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-02d1afc6c257",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[3].evidence_excerpt (ref-99eb379fafcd:bundle-9b42dec4e1d3) is missing hard anchors from the claim: ['2023年']; claim='2023年成都与京津冀地区创新链协同效果显著，国防科工局与四川、成都共同建成全国第二个“先进技术成果西部转化中心”国家级平台，中国科学院大学成都学院正式投用。'; excerpt='二是创新链协同效果显著。开展“校企双进·找矿挖宝”科技成果对接北京站专场活动，引进高能级创新平台和促进科技成果在蓉转化；国防科工局与四川、成都共同建成全国第二个“先进技术成果西部转化中心”国家级平台；中国科学院大学成都学院正式投用；'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-044fc4861e92",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-b064bc897c56:bundle-799347f54b03; submitted='揭示白酒滞后型融合特征及从“中度失调”向“中级协调”演进的趋势。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-0648ec19a529",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-085400f9f7ce",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-e3311087566e:bundle-748c134902f4) is missing hard anchors from the claim: ['59']; claim='2023年，简阳市与重庆长寿区、璧山区、铜梁区合作，实现59项政务服务事项通办。'; excerpt='2023年，围绕做优做强生态价值转化、促进乡村全面振兴、公园城市乡村表达、粮食安全等核心功能，简阳市、都江堰市等新城依托自身资源禀赋，依托产业配套协作、交通设施共建等合作方面，与都市圈、成渝地区双层经济圈以及省外城市等开展了多为合作，跨区域协同发展步伐持续加快。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-09409c522f14",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-0a84af39daa9",
+      "kind": "claim_review",
+      "reason": "ContractError: unsupported_claims[0].draft_excerpt is not verbatim text from the draft"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-0b4d4101385e",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-0cb9b7157841",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-0f080e55f371",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-10878f586588",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[2].evidence_excerpt (ref-92601457af7b:bundle-26d6f905d111) is missing hard anchors from the claim: ['2020年8月21日']; claim='2020年8月21日，四川省政府召开省政府第53次常务会议，正式批复同意设立成都国际铁路港经济开发区。'; excerpt='2020年5月17日，《中共中央国务院关于新时代推进西部大开发形成新格局的指导意见》正式印发，明确提出“研究按程序设立成都国际铁路港经济开发区”。8月21日，四川省政府召开省政府第53次常务会议，正式批复同意设立成都国际铁路港经济开发区，省级经开区再添一员。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-17ab6230f1f8",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-18f99ee27c25",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-1992c2af15cd",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-1c63045a84a1",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-1ccd2b0ca71d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-200755831569",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-2298bb13acb5",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-236ef764da46",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[7].evidence_excerpt (ref-9615e5167006:bundle-160ba46804e6) is missing hard anchors from the claim: ['16']; claim='“一带一路”成为第16届西博会最突出的元素。'; excerpt='“一带一路”成为本届西博会最突出的元素'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-23eb42fcf938",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-46c6f5126583:bundle-9d17ef36c10d) is missing hard anchors from the claim: ['2020年12月31日']; claim='成资渝高速公路于2020年12月31日24时正式开放通车。'; excerpt='2020年12月30日，成资渝高速公路通车仪式举行，并将于12月31日24时正式开放通车，标志着又一条东向出川大通道、成渝“双核”之间的第四条高速公路建成通车。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-24217a54f203",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-26d569a415be",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-64f766a64689:bundle-229c0f45e207; submitted='2018年，成都、德阳成德同城化水务战略合作框架协议'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-26e7d9cc4287",
+      "kind": "claim_review",
+      "reason": "ContractError: unsupported_claims[5].draft_excerpt is not verbatim text from the draft"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-270c01b744c0",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-29765af3e905",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-297c7031f48c",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-2e6f6398f219",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-2ff5b81ca39d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-30d799b6b34f",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-3122ca33c9f5",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-339afa0201c3",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-34f245c63dee",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-36dda40a7672",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-38de82f6f1ba",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-d30c4a34e57d:bundle-cd1ec0a078b0) is missing hard anchors from the claim: ['2020年']; claim='2020年，邛崃市推进基础设施共建合作，将川藏铁路邛崃羊安站、市域铁路S7线、天邛高速和天新邛快速路纳入《成都都市圈交通基础设施互联互通三年实施方案（2020-2022年）》。'; excerpt='一是推进基础设施共建合作。完善《成都都市圈交通基础设施互联互通三年实施方案（2020-2022年）》，将川藏铁路邛崃羊安站、市域铁路S7线、天邛高速和天新邛快速路等重大交通基础设施项目纳入实施方案。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-3bfe5484e6e0",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-3c722a616c71",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-3cfe218d3164",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-06af48dd0f10:bundle-b7fcb2bd727b; submitted='成都市与四川省内其他城市经济联系强度均值由2019年的179.5增长至2020年的203.4，增长幅度为13.3%；极差由2019年的861增长至2020年的976.1，增长幅度为13.4%，表明成都市与省内城市的经济联系水平提升显著，但极化现象却日益加剧。'; nearest_verbatim_span='城市经济联系强度均值由2019年的179.5增长至2020年的203.4，增长幅度为 \\\\(13.3\\\\%\\\\) ；极差由2019年的861\\n\\n增长至2020年的976.1，增长幅度为 \\\\(13.4\\\\%\\\\) ，表明成都市与省内城市的经济联系水平提升显著，但极化现象却日益加剧'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-3e96e0029c18",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[1].evidence_excerpt (ref-23ea37eb218f:bundle-e5169972a1de) is missing hard anchors from the claim: ['2021年']; claim='2021年，成渝两地开通“氢走廊”示范线，协同投营氢燃料电池汽车440辆。'; excerpt='开通成渝“氢走廊”示范线，协同投营氢燃料电池汽车440辆，联合申报国家燃料电池汽车示范城市群。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-3ed03c86cd33",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-3f7d89850c08",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-400d59d61b1e",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[1].evidence_excerpt (ref-79422a9979cd:bundle-1b846e75f79d) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都与苏州、上海、襄阳、宁波、长沙等地开展产业合作，包括电子信息、医药健康、会展经济、旅游等领域。'; excerpt='二是持续深化产业互动合作。成都与苏州通过开展项目招引，推动蓉苏两地在电子信息、医药健康、智能制造及航空航天等多个领域开展合作；与上海通过企业及项目合作，促进沪蓉两地在电子信息、商务商贸、会展经济、农产品贸易、康养服务等领域实现产业联动发展；成都与襄阳、长沙、宁波等地通过签订合作协议，在医药、文体旅及现代服务业领域展开合'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-408c91e6e279",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-41786769daff",
+      "kind": "claim_review",
+      "reason": "ContractError: claim contains a scope value absent from evidence and Ref scope: 在我市增资1亿元以上的跨国公司地区总部"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-421971597a80",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-42aae34ef29c",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-447ce928434a",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-44e72b3b8a6c",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-44ea36d5a0b0",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-45affa25670b",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-45db8326f8cc",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-45e331db5a40",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-4613f11e46d5",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-46e97cbbfd89",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-483b156c398d",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-cb0966fa8847:bundle-64f5d63cfa0d) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都“成都造”爆款影片《姜子牙》票房收入名列中国票房榜前茅。'; excerpt='“成都造”爆款影片《姜子牙》票房收入名列中国票房榜前茅'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-48ccb9dfcfb5",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-492bddf8d6fa",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[4].evidence_excerpt (ref-6d59a27aa051:bundle-3523b1f0eaa6) is missing hard anchors from the claim: ['2022年']; claim='2022年以来，四川天府新区与邛崃共建天府新区新能源新材料产业功能区，园区入驻企业达253家。'; excerpt='二是推动先进制造业协同发展。与邛崃共建天府新区新能源新材料产业功能区成势见效，园区入驻企业达253家；与新津共建天府先进智造产业基地实质推动，首开区一期实现开工建设；与蒲江共建四川天府中德产业新城智造园积极筹备签订三方合作协议。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-49a4ccf82ec3",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-4a1bcff53d4e",
+      "kind": "claim_review",
+      "reason": "ContractError: a singleton Concept cannot be separate from itself"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-4c771d0fc942",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-4cc9120e010a",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-4e1ee34daa23",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-4f3ede754b46",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-f8cbc25aea76:bundle-83deb4ddcbba) is missing hard anchors from the claim: ['2018年']; claim='2018年以来，蒲江县与眉山市丹棱县深化柑橘产业合作，建立长期联席会议机制。'; excerpt='重点深化与眉山市丹棱县开展柑橘产业合作，建立长期的联席会议机制'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-504e0931e4a7",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-514142d25495",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_excerpt must be one contiguous verbatim source span and cannot join evidence with ellipses; split the compound claim into one atomic claim per source span, preserving each span's own year, number, and scope"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-52eed45b9d38",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-57d81a200f9f",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-5a071777224d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-5bd436b77db7",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-5c45d1c47c54",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-1b635cb8345b:bundle-e5bc5e94f47b; submitted='区域经济总量相对较低，中心城市引领带动作用有限。2022年，成都与省内其他城市经济总量分别仅为广州、杭州同类占比的 44.0% 、 73.0% 。从经济联系度来看，成都与省内其他城市间的经济联系强度（2082.3）远低于广州与广东省内各城市间的平均经济联系强度（15883.1）、杭州与浙江省内各城市间经济联系强度（10'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-5d9e2f8fea5f",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[1].evidence_excerpt (ref-ec2da261b48c:bundle-3232393f6376) is missing hard anchors from the claim: ['7000', '110']; claim='总体目标包括全面建成国际门户枢纽，到2022年全市国际（地区）客货航线总数突破120条，航空旅客吞吐量突破7000万人次，航空货邮吞吐量突破110万吨。'; excerpt='——全面建成国际门户枢纽。聚焦“四向拓展”战略通道优势，大幅增强国际通达、洲际中转和国内连通能力，全面贯通“一带一路”六大经济走廊和长江经济带，构建全方位立体口岸，建设以成都为核心的供应链体系，完善法治化国际化便利化的营商环境，实现服务贸易的跨越式发展，“一带一路”重要节点地位更加凸显，全面提升对外交流和国际传播能力，'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-5e6d807e61bc",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_excerpt must be one contiguous verbatim source span and cannot join evidence with ellipses; split the compound claim into one atomic claim per source span, preserving each span's own year, number, and scope"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-63ef65e1cda9",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-669b039058b4",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-6a5a0fd23b59",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-6b07660a3f56",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-6c98ab6c198e",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-6cca6ff57b37",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-6df5823a6d52",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-6ea2481cbdab",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-9f57b3222887:bundle-c5d0c8d02653) is missing hard anchors from the claim: ['21', '2023']; claim='文创产业链共建方面，上海推介会签约项目达17个，签约金额超60亿元；深圳推介会推动21个文创类产业项目正式签约落地成都；联合重庆共同举办2023金熊猫天府创意设计奖等活动。'; excerpt='文创产业链共建方面。文创产业项目合作有效推进，在上海举办成都市文创业（数字文创）建圈强链招商引资智（上海）推介会，围绕“文创天府荣耀未来”主题，推动中传华夏国际文旅发展集团、上海哔哩哔哩科技有限公司、华数数字电视传媒集团、上海天祥投资管理有限公司等一批文创知名企业与成都签订投资合作协议，签约项目达17个，签约金额超60'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-71b8f60cde00",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-72a4007dadf7",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-7481f6ca08d6",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-79ba118f8c76",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-7b11d2de5e61",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-722006673113:bundle-cb3c5aa70f6e) is missing hard anchors from the claim: ['《成渝地区双城经济圈建设规划纲要》']; claim='四川省未纳入《成渝地区双城经济圈建设规划纲要》的区域共涵盖70个县级行政区，占全省县级行政区总量的38.3%。'; excerpt='我省未纳入《成渝地区双城经济圈建设规划》范围的区域共涵盖了70个县级行政区，占全省县级行政区总量的 \\\\(38.3\\\\%'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-7b18b41f5f44",
+      "kind": "claim_review",
+      "reason": "ContractError: claim contains a scope value absent from evidence and Ref scope: 洲际全货机定期航班进港货量"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-7b3fa6348e32",
+      "kind": "claim_review",
+      "reason": "LLMOutputTruncated: LLM output truncated (finish_reason=length, completion_tokens=16384)"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-7c9b3b10701d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-7e13aea87521",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence block IDs must be globally unique in a group"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-7e36702ce5c8",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-820e515bd53a",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[4].evidence_excerpt (ref-9f4cd55fe341:bundle-305db375ce74) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都实现全国首批地方债“债券通”跨境分销，成功实现全国首批境外机构以“债券通”等方式参与境内地方债一级市场投资。'; excerpt='实现全国首批地方债“债券通”跨境分销，工行、建行、交行四川分行联动境外分行牵头承销疫情防控相关的四川地方债，成功实现全国首批境外机构以“债券通”等方式参与境内地方债一级市场投资，进一步调动境外投资者参与国内地方债发行积极性。'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-8215a651be5f",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-e2b10adfe206:bundle-4304583ad3ea) is missing hard anchors from the claim: ['2021年']; claim='2021年成都与省内20个市（州）均开展了产业合作，覆盖省内“五大经济区”。'; excerpt='从省内层面来看，成都与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-8407b7934763",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-885a302b0100",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-895f02d30aa5",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-08b59340a92f:bundle-d7fb145fac5b; submitted='2019年，成都郫都区北京推介会上，共吸引中国航天科工集团有限公司、中国信息通信研究院、中关村东升科技园等120多家知名央企、民企参加，聚焦成都电子信息产业功能区（郫都区）建设。'; nearest_verbatim_span='成都郫都区北京推介会上，共吸引中国航天科工集团有限公司、中国信息通信研究院、中关村东升科技园等120多家知名央企、民企参加，聚焦成都电子信息产业功能区（郫都区）建设'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-8c50594a6dc6",
+      "kind": "claim_review",
+      "reason": "not_passed"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-8f3bad83d126",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9266d8d2b52c",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-92c1b19d7b46",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9358adcfbdac",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9525aca50a90",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-952c33ca2a05",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9615d5d1b2fd",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-97490dc8425a",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-98a982b69c3f",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-4f6c63eb7b91:bundle-4b195740b914; submitted='成都枢纽环线位于成都主城区内，由东环线和西环线组成。东环线自成都站经成都东站至成都南站，西环线自成都南站经红牌楼、成都西、安靖站至成都站，环线全长54.51km 。'; nearest_verbatim_span='成都枢纽环线位于成都主城区内，由东环线和西环线组成。东环线自成都站经成都东站至成都南站，西环线自成都南站经红牌楼、成都西、安靖站至成都站，环线全长\\\\(54.51'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9d62a36b10d7",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9e115cfd0422",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-9e1ec4b45342",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-9e3021682511",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-a88763a80563:bundle-2fd29fe7fa10; submitted='2023年3月，成都联合德眉资举办“成德眉资农产品同城化产供销对接暨优质农产品展示展销”活动。通过成果展示、优质农产品展示展销、趣味通关、集中签约、“四城珍味礼包发布”等一系列环节展现四市农副产品发展潜力，调动市民积极参与，促进市民对四市特色优质农产品的了解。本次活动中，四川云背篓科技集团有限公司、古蜀鲜农业发展有限公'; nearest_verbatim_span='2023年3月，成都联合德眉资举办“成德眉资农产品同城化产供销对接暨优质农产品展示展销”活动。通过成果展示、优质农产品展示展销、趣味通关、集中签约、“四城珍味礼包发布”等一系列环节展现四市农副产品发展潜力，调动市民积极参与，促进市民对四市特色优质农产品的了解。本次活动'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-9f8c46c3e9e0",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-f4e717ce04f8:bundle-7331b7d6989e; submitted='加快探索经济区与行政区适度分离改革。一是经济活动组织管理分离。二是项目报建分离。三是项目实施分离。四是建设用地指标分离。五是市场监管平台分离。六是统计核算分离。'; nearest_verbatim_span='加快探索经济区与行政区适度分离改革。一是经济活动组织管理分离'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-a0592c0fb923",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-f80d089375b9:bundle-96c0c37c9054; submitted='1. 坚持创新驱动，增强成都国家西部金融中心核心功能。2. 坚持科技赋能，提升金融科技研发能力。3. 坚持开放生态，深化金融科技对外交流合作。4. 坚持合规安全，确保金融科技规范发展。5. 坚持技术中立，准确把握金融科技的金融本质。'; nearest_verbatim_span='1. 坚持创新驱动，增强成都国家西部金融中心核心功能'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-a0e03b8960ad",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-a6058483f5a8",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-ca671025b11f:bundle-80ab7db9345e) is missing hard anchors from the claim: ['2021年']; claim='2021年，天府新区全面融入成德眉资同城化发展，与眉山协同打造成眉高新技术产业带，推动籍田街道和视高街道合作打造籍视“产业+生态”交界地融合发展示范点。'; excerpt='一是融入成德眉资同城化发展。四川省推进成德眉资同城化发展领导小组办公室第一个省级机构入驻天府新区，与眉山协同眉山打造成眉高新技术产业带，推动籍田街道和视高街道积极合作，打造籍视“产业+生态”交界地融合发展示范点。'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-a6699a33b963",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-1f8c17a01c1c:bundle-e3deaa7cd495; submitted='2018年川渝界7个出川国考断面地表水水质优良比例提升至 85.7%'; nearest_verbatim_span='川渝界7个出川国考断面地表水水质优良比例提升至 \\\\(85.7\\\\%'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-a71c3d95f508",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-a9187f6fc76d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-aa49ec9be6be",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-abd55f784785",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-abe2491dff44",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[6].evidence_excerpt (ref-5e1c149acc9a:bundle-7c517a737ee4) is missing hard anchors from the claim: ['2019年']; claim='2019年，成都携手自贡、泸州、德阳、内江、眉山、资阳等6个沱江流域城市，共同出资15亿元设立沱江流域横向生态补偿资金。'; excerpt='为共建长江上游生态屏障，守住沱江流域水环境质量“只能变好、不能变坏”底线，成都携手自贡、泸州、德阳、内江、眉山、资阳等6个沱江流域城市，共同出资15亿元设立沱江流域横向生态补偿资金，完善奖励达标、鼓励改善、惩戒恶化的正向激励、反向约束机制，搭建上下游联动、合作共治的平台。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ae4b59f7ae45",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-aea09828732a",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-af2261b409e2",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-af43270f0cc8",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-b2eaf3f06867",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[2].evidence_excerpt (ref-798512699d22:bundle-7748024e6576) is missing hard anchors from the claim: ['2018年9月']; claim='2018年9月，成华区与雅安市名山区签署协同发展合作协议。'; excerpt='9月，与雅安市名山区签署协同发展合作协议'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-b31f32e30ed8",
+      "kind": "claim_review",
+      "reason": "ContractError: a singleton Concept cannot be separate from itself"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-b448293ffc68",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-b44a6d9698a1",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-3e30a40a82ce:bundle-0e06df1f4a4e) is missing hard anchors from the claim: ['2023年9月1日']; claim='2023年9月1日起，成都与广州参保人员在对方城市就医无需办理异地就医备案手续。'; excerpt='一是实现穗蓉异地就医互免备案，9月1日起，两地参保人员在对方城市就医，无需办理异地就医备案手续，即可享受普通住院、外伤住院、普通门诊、门诊统筹、“两病”门诊和门诊特殊疾病就医医保待遇。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ba7efca1a29d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-bac3ae7d9a30",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-69a1ae09fb0e:bundle-4144875dd8f9; submitted='成都与四川省内各城市公路路网总体平均密度为 81.1km / 100km^2 ，分别较广州、杭州与其省内各城市间公路路网总体平均密度低47.6、 39.8km / 100km^2 ，其中，从高速公路来看，成都与与四川省内各城市高速公路路网总体平均密度为 1.7km / 100km^2 ，分别较广州、杭州与其省内各城市间'; nearest_verbatim_span='2\\\\) ，其中，从高速公路来看，成都与与四川省内各城市高速公路路网总体平均密度为 \\\\(1.7'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-bb5338a79cc3",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-7341c57c04e1:bundle-ad519a864fa7; submitted='创新构建符合双方利益的体制机制是推动飞地经济建设的重要保障。浙江省在推进省内飞地经济建设过程中，重点创新形成三个方面的体制机制：一是构建形成共建机制。二是构建形成共管机制。三是创新形成利益共享机制。'; nearest_verbatim_span='创新构建符合双方利益的体制机制是推动飞地经济建设的重要保障。浙江省在推进省内飞地经济建设过程中，重点创新形成三个方面的体制机制：一是构建形成共建机制'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-c068f98f9537",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-c0d3419318df",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-c2391e3e6250",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-06ecc7d8521e:bundle-30beeccef68b; submitted='一是深化制度创新。借鉴上海、海南等先进地区已试点政策，加快知识产权、创新要素流动、竞争政策、争端解决等制度探索，加强与CPTPP、RCEP等国际经贸规则的衔接。深化“铁路运单物权凭证属性”“铁路 + 多式联运“一单制”等改革创新，共同探索构建以铁路提单、多式联运“一单制”为核心的陆上国际贸易规则体系。二是加强通道口岸建'; nearest_verbatim_span='一是深化制度创新。借鉴上海、海南等先进地区已试点政策，加快知识产权、创新要素流动、竞争政策、争端解决等制度探索，加强与CPTPP、RCEP等国际经贸规则的衔接。深化“铁路运单物权凭证属性”“铁路 \\\\(+\\\\) ”多式联运“一单制”等改革创新，共同探索构建以铁路提单、多式联运“一单制”为核心的陆上国际贸易规则体系。二是加强'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-c3c37bad6fe0",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-cb61ea3e3277:bundle-6a0c92619a5f) is missing hard anchors from the claim: ['2023年']; claim='2023年，四川天府新区联合召开天府新区两江新区党政联席会议，“八大产业旗舰联盟”汇集头部企业90家、会员企业800余家。'; excerpt='联合召开天府新区两江新区党政联席会议，“八大产业旗舰联盟”汇集头部企业90家、会员企业800余家。'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-c511d329ed74",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-6ac353311a05:bundle-c729427a12cc) is missing hard anchors from the claim: ['2020年']; claim='2020年以来，成华区加速推进教育同城化，德阳市旌阳区选派干部到成华区教育局跟岗锻炼，资阳市教体局考察成华区智慧教育云平台。'; excerpt='一是加速推进教育同城化。德阳市旌阳区选派了两名干部分别到成华区教育局督导室、学前与终身教育科跟岗锻炼；资阳市教育和体育局到成华区考察智慧教育云平台建设情况。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-c7241b475ea0",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-c751c6401780",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-9108d18bfb56:bundle-70847c12bfb6) is missing hard anchors from the claim: ['2020年']; claim='2020年以来，崇州市与青神县构建产城一体典范，力兴机械产业园区项目完工并交付厂房40000平米及办公配套楼5000平米。'; excerpt='一是与青神构建产城一体典范。成都力兴投资有限公司同青神县工业区管委会签约力兴机械产业园区企业孵化园建设项目，项目已完工并交付厂房40000平米，办公配套楼5000平米'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-c8eff17a5682",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-33633b068469:bundle-5a97c29373e0; submitted='2021年，长江经济带高质量发展扎实推进，地区生产总值达53.0亿元，对全国经济增长的贡献率超过50%'; nearest_verbatim_span='长江经济带高质量发展扎实推进，地区生产总值达53.0亿元，对全国经济增长的贡献率超过 \\\\(50\\\\%'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-c983cd9ff84b",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-caba43842ba6",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-cafc3e098887",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-1cd22cd6f7f1:bundle-0accf39bff50) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都驻蓉领事机构数量增至20个。'; excerpt='外事资源加速聚集。成都坚持服务国家总体外交大局，圆满完成参与撤销某国驻蓉总领事馆的设立和运行相关工作，西班牙、智利先后获批在蓉设立总领事馆，与国际音乐之都美国纳什维尔市缔结国际友城，驻蓉领事机构数量增至20个，国际友城和友好合作关系城市总数增至104个①。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ccd7ccef4281",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-cd834717ee69",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[1].evidence_excerpt (ref-902bc982a038:bundle-78e3bfb77220) is missing hard anchors from the claim: ['22']; claim='联合国世界旅游组织第22届全体大会吸引了来自130多个国家的部长级贵宾和800多位代表参会。'; excerpt='本届大会为期4天，吸引了来自130多个国家的部长级贵宾和800多位代表参会。'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-cdcbb1af48e0",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[3].evidence_excerpt (ref-f5a2c22c6fad:bundle-bb34a7e2c4d1) is missing hard anchors from the claim: ['20']; claim='经济流网络地理邻近效应较交通流更明显，经济流最强前20城市对中相邻城市对占90%，不相邻仅宜宾-内江、眉山-德阳2个。'; excerpt='经济流网络中，除与成都、重庆中心城区相联系的城市对以外，其余561个城市对中，联系最强的前二十个城市对中相邻城市对占 \\\\(90\\\\%\\\\) ，不相邻城市对仅有宜宾-内江、眉山-德阳2个'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-d0a4837275be",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-d32e530b4b75",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-d417bc44e41c",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-d4373ccb1d05",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-d668738ddeb0",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence block IDs must be globally unique in a group"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-d69697fa3550",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-da0db82f39e0",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-18f0ebfd25f6:bundle-29ae151f9c2d) is missing hard anchors from the claim: ['2020年']; claim='2020年以来，成都高新区与郫都区、绵阳高新区、内江高新区等开展10余次友好交流，签订5份协同发展（深化）合作协议。'; excerpt='一是与省内市（州）高新区共建合作机制。组织与郫都区、绵阳高新区、内江高新区等高新区开展10余次友好交流，先后签订了5份协同发展（深化）合作协议。'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-dc258cbc856e",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence block IDs must be globally unique in a group"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-dc773f8529a0",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-dcd3fde5d787",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[4].evidence_excerpt (ref-100c607b392d:bundle-96f2e40d3729) is missing hard anchors from the claim: ['17', '2010', '2019年']; claim='除成都、绵阳、德阳外，四川省其余17个地级市在2010-2019年间均处于初级协调阶段。'; excerpt='其他城市也处于动态变化过程，但均处于初级协调阶段'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-dd22565e5a3d",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ddda2786b2d6",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-e0294bd448a6",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_excerpt must be one contiguous verbatim source span and cannot join evidence with ellipses; split the compound claim into one atomic claim per source span, preserving each span's own year, number, and scope"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-e2feee42e9fc",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-e675fb9f741e",
+      "kind": "claim_review",
+      "reason": "ContractError: claim excerpt cannot be located in one source evidence block: ref-df0e13c783c7:bundle-248548c56113"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-e792487bf739",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-ea8dc8bd7af9",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-b0f95372835e:bundle-0eacf6cff20d; submitted='——到2025年，建成世界赛事名城。与世界赛事名城相匹配的赛事体系基本形成，每年举办国际和全国高等级赛事50项以上，赛事对相关产业的拉动效应超过300亿元，体育赛事成为成都发展“新名片”；建成以天府绿道为纽带，更高水平的全民健身公共服务体系，经常参加体育锻炼人数比例达到 50% 以上，城乡居民达到《国民体质测定标准》合'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-ea91885b8c98",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[2].evidence_excerpt (ref-34841cf3ef76:bundle-f8baf9866ed0) is missing hard anchors from the claim: ['2021年']; claim='2021年，成都新开通成都至伦敦、阿姆斯特丹、达卡、马德里、班加罗尔5条国际定期直飞货运航线，国际货运航线数量增至15条，国际航班已覆盖全球71个城市，国际（地区）航线增至131条。'; excerpt='国际客货运航线保持稳定，新开通成都至伦敦、阿姆斯特丹、达卡、马德里、班加罗尔5条国际定期直飞货运航线，国际货运航线数量增至15条，国际航班已覆盖全球71个城市，国际（地区）航线增至131条，航线规模稳居全国第四、中西部第一。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ebb8d579fef9",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-ec624c65bc29",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-61e36be67ce9:bundle-3220ee46a98b) is missing hard anchors from the claim: ['2016年']; claim='2016年蓉欧快铁欧洲段开行了至德国纽伦堡、蒂尔堡等互联互通班列。'; excerpt='欧洲段开行了至德国纽伦堡、蒂尔堡等互联互通班列。'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-ef7f0363bda3",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[6].evidence_excerpt (ref-9aa9aa3e5165:bundle-5aea0fb6b684) is missing hard anchors from the claim: ['2019年']; claim='2019年成都与德阳、眉山、资阳、乐山、遂宁等周边城市协同推进水利、信息、能源等基础设施建设。'; excerpt='成都进一步与德阳、眉山、资阳、乐山、遂宁等周边城市协同推进水利、信息、能源等基础设施建设，在老鹰水库水源保护一望水河泄水工程、李家岩水库主体工程等跨区域重大水利工程建设取得较大进展，互联网骨干通信通力稳步提升，国际性区域通信枢纽地位增强，在电网建设、天然气管道建设、新能源布局等能源合作领域均取得新进展。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-efad94cd8c3c",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-f0cf3e02a84e",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[1].evidence_excerpt (ref-1969520ed7a0:bundle-e407a5778e0c) is missing hard anchors from the claim: ['2022年']; claim='2022年，锦江区推动商务商贸协同发展，在德阳、眉山、资阳等地累计开设高品质品牌店铺30家，探索与德眉资等地联动打造同城化诚信消费体系。'; excerpt='一是推动商务商贸协同发展。锦江区星巴克、乡村基、德克士等知名零售企业在德阳、眉山、资阳等地累计开设高品质品牌店铺30家，推动延长壳牌（四川）石油公司和四川蜀交中油能源有限公司分别在资阳市、德阳市设立加油站，依托“交子券”创新载体，探索与德眉资等地联动打造同城化诚信消费体系。'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-f0f1d246e723",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-f2261896bb14",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[1].claims[1].evidence_excerpt (ref-ea6308fce155:bundle-76dff1186815) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都举办成都马拉松、全国射箭锦标赛、中国围棋西南棋王赛、中国羽毛球俱乐部超级联赛等12项全国级别的重大体育赛事。'; excerpt='举办成都马拉松、全国射箭锦标赛、中国围棋西南棋王赛、中国羽毛球俱乐部超级联赛等12项全国级别的重大体育赛事'"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-f597dabffc75",
+      "kind": "claim_review",
+      "reason": "ContractError: claim evidence excerpt is not verbatim evidence: ref-416648ecae14:bundle-effdb5f4a978; submitted='一是推进与名山共治生态环境。健全环境保护跨区域联防联控机制，召开联防联控联席会议3次，开展跨区域环境联合检查2次'; nearest_verbatim_span='一是推进与名山共治生态环境。健全环境保护跨区域联防联控机制，召开联防联控联席会议3次'; remove any contextual title/framing not present in that span"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-f70f5ae766ed",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "failed",
+      "group_id": "topic-f7e194373051",
+      "kind": "claim_review",
+      "reason": "ContractError: evidence_units[0].claims[5].evidence_excerpt (ref-a3c6ec471670:bundle-2598a325e829) is missing hard anchors from the claim: ['2019年']; claim='2019年，崇州市举办两次大中型大数据论坛，邀请雅安市川西大数据产业园等园区和企业交流对接。'; excerpt='举办“2019数字四川发展高峰论坛暨崇州市大数据产业发展推介会”和“崇州大数据数字经济发展论坛”两次大中型大数据论坛，邀请雅安市川西大数据产业园等园区和企业交流与对接'"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-f9987b5212b9",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ff7c83cc4370",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    },
+    {
+      "decision": "human_review",
+      "group_id": "topic-ffab46544f5f",
+      "kind": "claim_review",
+      "reason": "recompile_budget_exhausted"
+    }
+  ]
+}

@@ -1,0 +1,1061 @@
+{
+  "contract": {
+    "canonical_question": "《关于加快成渝世界级机场群建设的指导意见》提出的阶段性发展目标及具体部署方向是什么？",
+    "claims": [
+      {
+        "claim": "到2025年，成渝世界级机场群初具规模。",
+        "claim_id": "claim-1b71a8218523c10b",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {
+          "time": [
+            "2025年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "到2035年，全面建成成渝世界级机场群。",
+        "claim_id": "claim-6fbeec62bdd91bba",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "到2035年，全面建成成渝世界级机场群。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {
+          "time": [
+            "2035年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "《指导意见》重点从5个方面做出具体部署。",
+        "claim_id": "claim-33c6ca1c35251f4d",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+        "claim_id": "claim-ff2354063599a573",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+        "claim_id": "claim-e69eec2d7326a2b0",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+        "claim_id": "claim-e2cd4b9700675da5",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+        "claim_id": "claim-ee85d981c1777d12",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+        "claim_id": "claim-33981e6f7c4d96c8",
+        "evidence_block_ids": [
+          "blk-a984bd46f8cf2a688502"
+        ],
+        "evidence_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-d524fbb92f77",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1b71a8218523c10b",
+          "claim-6fbeec62bdd91bba",
+          "claim-33c6ca1c35251f4d",
+          "claim-ff2354063599a573",
+          "claim-e69eec2d7326a2b0",
+          "claim-e2cd4b9700675da5",
+          "claim-ee85d981c1777d12",
+          "claim-33981e6f7c4d96c8"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+        "reason": "该Bundle包含《指导意见》的核心目标（2025/2035）及五大部署方向，是回答中心问题固定槽位（core_judgment, scope, measure）的必要证据。"
+      }
+    ],
+    "group_id": "topic-5a071777224d",
+    "members": [
+      {
+        "contribution": "该证据直接提供了《指导意见》中关于2025年和2035年的阶段性建设目标，以及双核引领、协同发展等五个方面的具体部署内容，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-d524fbb92f77",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-1b71a8218523c10b",
+        "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6fbeec62bdd91bba",
+        "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-33c6ca1c35251f4d",
+        "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ff2354063599a573",
+        "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e69eec2d7326a2b0",
+        "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e2cd4b9700675da5",
+        "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ee85d981c1777d12",
+        "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-33981e6f7c4d96c8",
+        "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+        "finding": "Contains '2022年3月中国民航局印发' which is not in the provided Claim Contract evidence.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-377b641e88d56652",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-1b71a8218523c10b"
+        ],
+        "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+        "finding": "Matches claim-1b71a8218523c10b.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-745738923e0e3075",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6fbeec62bdd91bba"
+        ],
+        "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+        "finding": "Matches claim-6fbeec62bdd91bba.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-22adf0e93d5b50a9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-33c6ca1c35251f4d"
+        ],
+        "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+        "finding": "Matches claim-33c6ca1c35251f4d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fd7b119629c9635b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ff2354063599a573"
+        ],
+        "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+        "finding": "Matches claim-ff2354063599a573.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fe0301bfe7e35728",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e69eec2d7326a2b0"
+        ],
+        "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+        "finding": "Matches claim-e69eec2d7326a2b0.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a86b71c5e1916a71",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e2cd4b9700675da5"
+        ],
+        "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+        "finding": "Matches claim-e2cd4b9700675da5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a5600fc0973f57c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ee85d981c1777d12"
+        ],
+        "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+        "finding": "Matches claim-ee85d981c1777d12.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-87887e58b64c37fe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-33981e6f7c4d96c8"
+        ],
+        "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+        "finding": "Matches claim-33981e6f7c4d96c8.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-85fe285329cafc99",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+        "finding": "The sentence contains '2022年3月中国民航局印发' which is not supported by the provided Claim Contract."
+      },
+      {
+        "draft_excerpt": "《关于加快成渝世界级机场群建设的指导意见》",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2022年3月",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1b71a8218523c10b",
+          "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6fbeec62bdd91bba",
+          "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-33c6ca1c35251f4d",
+          "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ff2354063599a573",
+          "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e69eec2d7326a2b0",
+          "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e2cd4b9700675da5",
+          "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ee85d981c1777d12",
+          "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-33981e6f7c4d96c8",
+          "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+          "finding": "Contains '2022年3月中国民航局印发' which is not in the provided Claim Contract evidence.",
+          "sentence_id": "sentence-377b641e88d56652",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-1b71a8218523c10b"
+          ],
+          "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+          "finding": "Matches claim-1b71a8218523c10b.",
+          "sentence_id": "sentence-745738923e0e3075",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6fbeec62bdd91bba"
+          ],
+          "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+          "finding": "Matches claim-6fbeec62bdd91bba.",
+          "sentence_id": "sentence-22adf0e93d5b50a9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-33c6ca1c35251f4d"
+          ],
+          "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+          "finding": "Matches claim-33c6ca1c35251f4d.",
+          "sentence_id": "sentence-fd7b119629c9635b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ff2354063599a573"
+          ],
+          "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+          "finding": "Matches claim-ff2354063599a573.",
+          "sentence_id": "sentence-fe0301bfe7e35728",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e69eec2d7326a2b0"
+          ],
+          "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+          "finding": "Matches claim-e69eec2d7326a2b0.",
+          "sentence_id": "sentence-a86b71c5e1916a71",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e2cd4b9700675da5"
+          ],
+          "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+          "finding": "Matches claim-e2cd4b9700675da5.",
+          "sentence_id": "sentence-a5600fc0973f57c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ee85d981c1777d12"
+          ],
+          "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+          "finding": "Matches claim-ee85d981c1777d12.",
+          "sentence_id": "sentence-87887e58b64c37fe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-33981e6f7c4d96c8"
+          ],
+          "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+          "finding": "Matches claim-33981e6f7c4d96c8.",
+          "sentence_id": "sentence-85fe285329cafc99",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+          "finding": "The sentence contains '2022年3月中国民航局印发' which is not supported by the provided Claim Contract."
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "3c32ebcdbc91a6d1f1062721f23e1cfdfaa7bda410977c6aee6e0944113a26a2",
+  "coverage_history": [
+    {
+      "draft_sha256": "79792b3901828f1d74e5674a593c3aaa7ddcea047f3bad5ba2b969e190b0559a",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1b71a8218523c10b",
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6fbeec62bdd91bba",
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-33c6ca1c35251f4d",
+            "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff2354063599a573",
+            "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e69eec2d7326a2b0",
+            "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2cd4b9700675da5",
+            "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ee85d981c1777d12",
+            "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-33981e6f7c4d96c8",
+            "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，标志着成渝地区双城经济圈航空枢纽建设进入新阶段。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c33e3e83a99d0ea7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年3月，中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，标志着成渝地区双城经济圈航空枢纽建设进入新阶段。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-296185389ac7ad73",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1b71a8218523c10b"
+            ],
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af06df4360d2175a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fbeec62bdd91bba"
+            ],
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-81114b5d3d43f9d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33c6ca1c35251f4d"
+            ],
+            "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-72da7677dad51d2a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ff2354063599a573"
+            ],
+            "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55083297f5f917c2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e69eec2d7326a2b0"
+            ],
+            "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18aa351180a54c10",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2cd4b9700675da5"
+            ],
+            "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-67404183a256f812",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ee85d981c1777d12"
+            ],
+            "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6fb3ed63ce74be4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33981e6f7c4d96c8"
+            ],
+            "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-096fddefd5f5f00d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "数据显示，2022年成都双流国际机场、重庆江北国际机场旅客吞吐量在全国机场中均分列第1位和第2位，成都天府机场建成投用让成渝国际航空枢纽保障能力大幅提升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37d9a4c9e8b1ea3d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，标志着成渝地区双城经济圈航空枢纽建设进入新阶段。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2022年3月，中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，标志着成渝地区双城经济圈航空枢纽建设进入新阶段。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "数据显示，2022年成都双流国际机场、重庆江北国际机场旅客吞吐量在全国机场中均分列第1位和第2位，成都天府机场建成投用让成渝国际航空枢纽保障能力大幅提升。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "《关于加快成渝世界级机场群建设的指导意见》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2022年3月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2022年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "bdbe2be82be5956a342aaf1ade0537d71ceb143b3c4d4982b0dc1ebb282a177d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1b71a8218523c10b",
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6fbeec62bdd91bba",
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-33981e6f7c4d96c8",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-33c6ca1c35251f4d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e2cd4b9700675da5",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e69eec2d7326a2b0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ee85d981c1777d12",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ff2354063599a573",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1b71a8218523c10b"
+            ],
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f93a2efbb7b8fad6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fbeec62bdd91bba"
+            ],
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57ef703c7cc0a14b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1b71a8218523c10b"
+            ],
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-745738923e0e3075",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fbeec62bdd91bba"
+            ],
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-22adf0e93d5b50a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "《关于加快成渝世界级机场群建设的指导意见》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "3c32ebcdbc91a6d1f1062721f23e1cfdfaa7bda410977c6aee6e0944113a26a2",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1b71a8218523c10b",
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6fbeec62bdd91bba",
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-33c6ca1c35251f4d",
+            "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff2354063599a573",
+            "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e69eec2d7326a2b0",
+            "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2cd4b9700675da5",
+            "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ee85d981c1777d12",
+            "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-33981e6f7c4d96c8",
+            "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+            "finding": "Contains '2022年3月中国民航局印发' which is not in the provided Claim Contract evidence.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-377b641e88d56652",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1b71a8218523c10b"
+            ],
+            "draft_excerpt": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+            "finding": "Matches claim-1b71a8218523c10b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-745738923e0e3075",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6fbeec62bdd91bba"
+            ],
+            "draft_excerpt": "到2035年，全面建成成渝世界级机场群。",
+            "finding": "Matches claim-6fbeec62bdd91bba.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-22adf0e93d5b50a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33c6ca1c35251f4d"
+            ],
+            "draft_excerpt": "《指导意见》重点从5个方面做出具体部署。",
+            "finding": "Matches claim-33c6ca1c35251f4d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd7b119629c9635b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ff2354063599a573"
+            ],
+            "draft_excerpt": "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+            "finding": "Matches claim-ff2354063599a573.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe0301bfe7e35728",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e69eec2d7326a2b0"
+            ],
+            "draft_excerpt": "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+            "finding": "Matches claim-e69eec2d7326a2b0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a86b71c5e1916a71",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2cd4b9700675da5"
+            ],
+            "draft_excerpt": "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+            "finding": "Matches claim-e2cd4b9700675da5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5600fc0973f57c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ee85d981c1777d12"
+            ],
+            "draft_excerpt": "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+            "finding": "Matches claim-ee85d981c1777d12.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-87887e58b64c37fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-33981e6f7c4d96c8"
+            ],
+            "draft_excerpt": "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+            "finding": "Matches claim-33981e6f7c4d96c8.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-85fe285329cafc99",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+            "finding": "The sentence contains '2022年3月中国民航局印发' which is not supported by the provided Claim Contract."
+          },
+          {
+            "draft_excerpt": "《关于加快成渝世界级机场群建设的指导意见》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2022年3月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n《指导意见》提出，到2025年，成渝世界级机场群初具规模；到2035年，全面建成成渝世界级机场群。《指导意见》重点从5个方面做出具体部署。\n\n- 一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。\n- 二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。\n- 三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。\n- 四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。\n- 五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。",
+    "description": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，提出到2025年初具规模、2035年全面建成，并从5个方面做出具体部署。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-5a071777224d",
+      "description": "2022年3月中国民航局印发《关于加快成渝世界级机场群建设的指导意见》，标志着成渝地区双城经济圈航空枢纽建设进入新阶段。",
+      "document_family_id": "a3416d58cffb469497b1",
+      "document_version_id": "e551b06ba3832ffdbb34",
+      "evidence": [
+        "《指导意见》提出，到2025年，成渝世界级机场群初具规模；",
+        "到2035年，全面建成成渝世界级机场群。",
+        "《指导意见》重点从5个方面做出具体部署。",
+        "一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。",
+        "二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。",
+        "三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。",
+        "四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。",
+        "五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。"
+      ],
+      "evidence_block_ids": [
+        "blk-a984bd46f8cf2a688502"
+      ],
+      "page_end": 181,
+      "page_start": 181,
+      "ref_family_hint": "",
+      "ref_version_id": "e551b06ba3832ffdbb34",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "《关于加快成渝世界级机场群建设的指导意见》正式发布"
+      ],
+      "semantic_signature": {},
+      "source": "102a4976-6f08-42bc-b866-6b9f7b53cc31.md",
+      "title": "《关于加快成渝世界级机场群建设的指导意见》正式发布",
+      "type": "分析框架"
+    },
+    "title": "《关于加快成渝世界级机场群建设的指导意见》正式发布"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-d524fbb92f77:bundle-27ef93898683",
+      "excluded_fragments": [],
+      "ref_id": "ref-d524fbb92f77",
+      "source_blocks": [
+        {
+          "block_id": "blk-826988445cecb65f3c5d",
+          "page_number": 181,
+          "text": "2022年3月，中国民航局印发了《关于加快成渝世界级机场群建设的指导意见》（以下简称《指导意见》）。"
+        },
+        {
+          "block_id": "blk-a984bd46f8cf2a688502",
+          "page_number": 181,
+          "text": "《指导意见》提出，到2025年，成渝世界级机场群初具规模；到2035年，全面建成成渝世界级机场群。《指导意见》重点从5个方面做出具体部署。一是坚持双核引领，通过提升国际航空枢纽能级，强化机场综合交通支撑，打造机场高质量发展标杆，加快提升国际航空枢纽竞争力。二是坚持协同发展，通过加快完善中小机场布局建设，着力提升空管保障支撑能力等，加快提升机场群综合保障能力。三是坚持共建共享，通过构建便捷航空出行服务，打造高效航空物流服务，提升通用航空发展水平等，打造便捷高效的航空服务网络。四是坚持创新驱动，通过打造一流民航科技创新中心，推动民航产业高质量发展，建设高素质民航人才基地等，共创民航科技创新和产业高地。五是坚持合作共建，通过深化多领域民航市场化合作，健全区域民航战略协同机制等内容，为《实施意见》落地实施提供保障等，携手构建区域民航协同新机制。"
+        },
+        {
+          "block_id": "blk-f810f7872c5256f0b6be",
+          "page_number": 181,
+          "text": "数据显示，2022年成都双流国际机场、重庆江北国际机场旅客吞吐量在全国机场中均分列第1位和第2位①，成都天府机场建成投用让成渝国际航空枢纽保障能力大幅提升。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-5a071777224d",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-d524fbb92f77"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

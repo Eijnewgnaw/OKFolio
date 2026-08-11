@@ -1,0 +1,768 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区建设三年行动计划（2017-2019）中“坚持主动服务国家对外开放战略”这一基本原则的具体内涵与实施路径是什么？",
+    "claims": [
+      {
+        "claim": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+        "claim_id": "claim-1281becd847a0761",
+        "evidence_block_ids": [
+          "blk-589d12231e7d2896bef6"
+        ],
+        "evidence_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-c35663abbbb1",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "全面深化自由贸易试验区改革。",
+        "claim_id": "claim-92f183a315235667",
+        "evidence_block_ids": [
+          "blk-589d12231e7d2896bef6"
+        ],
+        "evidence_excerpt": "全面深化自由贸易试验区改革",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-c35663abbbb1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "用好国际国内两种资源和两个市场。",
+        "claim_id": "claim-e1836a236af3b01c",
+        "evidence_block_ids": [
+          "blk-589d12231e7d2896bef6"
+        ],
+        "evidence_excerpt": "用好国际国内两种资源和两个市场",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-c35663abbbb1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "统筹推进“引进来”与“走出去”。",
+        "claim_id": "claim-0df7188acdc939cb",
+        "evidence_block_ids": [
+          "blk-589d12231e7d2896bef6"
+        ],
+        "evidence_excerpt": "统筹推进“引进来”与“走出去”",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-c35663abbbb1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新。",
+        "claim_id": "claim-fe8886f584cea7e2",
+        "evidence_block_ids": [
+          "blk-589d12231e7d2896bef6"
+        ],
+        "evidence_excerpt": "加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-c35663abbbb1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+        "claim_id": "claim-632911457239428d",
+        "evidence_block_ids": [
+          "blk-589d12231e7d2896bef6"
+        ],
+        "evidence_excerpt": "助力形成陆海内外联动、东西双向互济的全面开放新格局",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-c35663abbbb1",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1281becd847a0761",
+          "claim-92f183a315235667",
+          "claim-e1836a236af3b01c",
+          "claim-0df7188acdc939cb",
+          "claim-fe8886f584cea7e2",
+          "claim-632911457239428d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+        "reason": "该证据包含中心问题所需的全部核心事实，包括战略定位、具体举措（双向促进/流动/发力/创新）及目标（全面开放新格局），无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-46e97cbbfd89",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了“坚持主动服务国家对外开放战略”的具体内容，包括发挥节点作用、深化自贸区改革、统筹引进来与走出去等，是回答中心问题的核心依据。",
+        "ref_id": "ref-c35663abbbb1",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-1281becd847a0761",
+        "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-92f183a315235667",
+        "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e1836a236af3b01c",
+        "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0df7188acdc939cb",
+        "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fe8886f584cea7e2",
+        "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-632911457239428d",
+        "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-505543f1297e4796",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-1281becd847a0761"
+        ],
+        "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-703d397f2bcbcb79",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-92f183a315235667",
+          "claim-e1836a236af3b01c"
+        ],
+        "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c750da80b2244e5b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0df7188acdc939cb",
+          "claim-fe8886f584cea7e2",
+          "claim-632911457239428d"
+        ],
+        "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e9a9b7378b053fdd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+        "finding": "unsupported_claim"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1281becd847a0761",
+          "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-92f183a315235667",
+          "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e1836a236af3b01c",
+          "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0df7188acdc939cb",
+          "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fe8886f584cea7e2",
+          "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-632911457239428d",
+          "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-505543f1297e4796",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-1281becd847a0761"
+          ],
+          "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+          "finding": "supported",
+          "sentence_id": "sentence-703d397f2bcbcb79",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-92f183a315235667",
+            "claim-e1836a236af3b01c"
+          ],
+          "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+          "finding": "supported",
+          "sentence_id": "sentence-c750da80b2244e5b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0df7188acdc939cb",
+            "claim-fe8886f584cea7e2",
+            "claim-632911457239428d"
+          ],
+          "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+          "finding": "supported",
+          "sentence_id": "sentence-e9a9b7378b053fdd",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+          "finding": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "f76c1382bcb2a72a08e3250f0f70371ce5145cee964adbfa73d8140cb3e7e079",
+  "coverage_history": [
+    {
+      "draft_sha256": "411b3726310b0a8301c559645574a2709c4bd9340219a07428b6e92b53646a4b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1281becd847a0761",
+            "draft_excerpt": "成都对外开放坚持主动服务国家对外开放战略，充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92f183a315235667",
+            "draft_excerpt": "全面深化自由贸易试验区改革，统筹“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1836a236af3b01c",
+            "draft_excerpt": "全面深化自由贸易试验区改革，统筹“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0df7188acdc939cb",
+            "draft_excerpt": "全面深化自由贸易试验区改革，统筹“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe8886f584cea7e2",
+            "draft_excerpt": "全面深化自由贸易试验区改革，统筹“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-632911457239428d",
+            "draft_excerpt": "全面深化自由贸易试验区改革，统筹“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都对外开放的基本原则包括服务国家开放战略、区域协同、城市发展战略及企业多元需求。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-54e673ded6679944",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1281becd847a0761"
+            ],
+            "draft_excerpt": "成都对外开放坚持主动服务国家对外开放战略，充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8cf1cf49fea357a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f183a315235667",
+              "claim-e1836a236af3b01c",
+              "claim-0df7188acdc939cb",
+              "claim-fe8886f584cea7e2",
+              "claim-632911457239428d"
+            ],
+            "draft_excerpt": "全面深化自由贸易试验区改革，统筹“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a7a356a96785801",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "坚持主动服务区域协同开放发展，联动推进对外开放和对内合作，发挥全省首位城市辐射带动作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12b2e66d93bfc343",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "创新一体化发展机制，加快形成产业协同、市场共兴、功能共享、交通互联的城市开放共同体，高位引领西部开发开放水平，奠定和提升成都在全国对外开放格局和经济版图中的战略地位。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e859a44b1e1110da",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "坚持主动服务城市发展战略目标，将开放作为城市发展的内在要求与内生动力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a77ddcdffad32808",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对标国际顶尖水平，全面提升城市门户枢纽能力、运筹调度能力、创新引领能力、文化影响能力、区域带动能力，积极构筑城市全球品牌价值，提升国际竞争力和对外影响力，为实现成都“三步走”战略目标注入强劲动能。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-60ae0e8ee1bdb7a8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "坚持主动服务企业多元发展需求，构建接轨国际的开放型经济体制机制，营造法治化国际化便利化营商环境。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7d43cc09da44b705",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "强化城市国际资源要素集聚和配置能力，完善内外资企业全生命周期、全生态系统的企业生产生活服务体系，助推企业高水平“引进来”和积极稳妥“走出去”。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8b4c07c4227aa880",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都对外开放的基本原则包括服务国家开放战略、区域协同、城市发展战略及企业多元需求。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "坚持主动服务区域协同开放发展，联动推进对外开放和对内合作，发挥全省首位城市辐射带动作用。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "创新一体化发展机制，加快形成产业协同、市场共兴、功能共享、交通互联的城市开放共同体，高位引领西部开发开放水平，奠定和提升成都在全国对外开放格局和经济版图中的战略地位。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "坚持主动服务城市发展战略目标，将开放作为城市发展的内在要求与内生动力。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "对标国际顶尖水平，全面提升城市门户枢纽能力、运筹调度能力、创新引领能力、文化影响能力、区域带动能力，积极构筑城市全球品牌价值，提升国际竞争力和对外影响力，为实现成都“三步走”战略目标注入强劲动能。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "坚持主动服务企业多元发展需求，构建接轨国际的开放型经济体制机制，营造法治化国际化便利化营商环境。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "强化城市国际资源要素集聚和配置能力，完善内外资企业全生命周期、全生态系统的企业生产生活服务体系，助推企业高水平“引进来”和积极稳妥“走出去”。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "77eb95e43f9c0b69b6d387302c9e1a31a095de75b98ae70f0fffa0e0ef941568",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1281becd847a0761",
+            "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92f183a315235667",
+            "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1836a236af3b01c",
+            "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0df7188acdc939cb",
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe8886f584cea7e2",
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-632911457239428d",
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "draft_excerpt contains the required claim text.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "——坚持主动服务国家对外开放战略。",
+            "finding": "This sentence states the principle name but does not contain the specific factual claims listed in the contract. It is a header/label.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2bf4ac07ebeb1b63",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1281becd847a0761"
+            ],
+            "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+            "finding": "Matches claim-1281becd847a0761 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-703d397f2bcbcb79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f183a315235667",
+              "claim-e1836a236af3b01c"
+            ],
+            "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+            "finding": "Matches claim-92f183a315235667 and claim-e1836a236af3b01c exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c750da80b2244e5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0df7188acdc939cb",
+              "claim-fe8886f584cea7e2",
+              "claim-632911457239428d"
+            ],
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "Matches claim-0df7188acdc939cb, claim-fe8886f584cea7e2, and claim-632911457239428d exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9a9b7378b053fdd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "——坚持主动服务国家对外开放战略。",
+            "finding": "This sentence states the principle name but does not contain the specific factual claims listed in the contract. It is a header/label."
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "f76c1382bcb2a72a08e3250f0f70371ce5145cee964adbfa73d8140cb3e7e079",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1281becd847a0761",
+            "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92f183a315235667",
+            "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1836a236af3b01c",
+            "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0df7188acdc939cb",
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe8886f584cea7e2",
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-632911457239428d",
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-505543f1297e4796",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1281becd847a0761"
+            ],
+            "draft_excerpt": "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-703d397f2bcbcb79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f183a315235667",
+              "claim-e1836a236af3b01c"
+            ],
+            "draft_excerpt": "全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c750da80b2244e5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0df7188acdc939cb",
+              "claim-fe8886f584cea7e2",
+              "claim-632911457239428d"
+            ],
+            "draft_excerpt": "统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9a9b7378b053fdd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n充分发挥“一带一路”重要节点和南方丝绸之路起点的作用。全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场。统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。",
+    "description": "坚持主动服务国家对外开放战略，发挥节点作用，深化自贸区改革，统筹引进来与走出去，形成全面开放新格局。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-46e97cbbfd89",
+      "description": "——坚持主动服务国家对外开放战略。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "充分发挥“一带一路”重要节点和南方丝绸之路起点的作用",
+        "全面深化自由贸易试验区改革",
+        "用好国际国内两种资源和两个市场",
+        "统筹推进“引进来”与“走出去”",
+        "加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新",
+        "助力形成陆海内外联动、东西双向互济的全面开放新格局"
+      ],
+      "evidence_block_ids": [
+        "blk-589d12231e7d2896bef6"
+      ],
+      "page_end": 159,
+      "page_start": 158,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二）基本原则"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "基本原则",
+      "type": "分析框架"
+    },
+    "title": "基本原则"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c35663abbbb1:bundle-373f80e59e21",
+      "excluded_fragments": [],
+      "ref_id": "ref-c35663abbbb1",
+      "source_blocks": [
+        {
+          "block_id": "blk-589d12231e7d2896bef6",
+          "page_number": 158,
+          "text": "——坚持主动服务国家对外开放战略。充分发挥“一带一路”重要节点和南方丝绸之路起点的作用，全面深化自由贸易试验区改革，用好国际国内两种资源和两个市场，统筹推进“引进来”与“走出去”，加快投资双向促进、要素双向流动、贸易双向发力、制度双向创新，助力形成陆海内外联动、东西双向互济的全面开放新格局。"
+        },
+        {
+          "block_id": "blk-a4f7a8fde4928e656c71",
+          "page_number": 159,
+          "text": "——坚持主动服务区域协同开放发展。联动推进对外开放和对内合作，充分发挥全省首位城市辐射带动作用，创新一体化发展机制，加快形成产业协同、市场共兴、功能共享、交通互联的城市开放共同体，高位引领西部开发开放水平，进一步奠定和提升成都在全国对外开放格局和经济版图中的战略地位。"
+        },
+        {
+          "block_id": "blk-60f1897cb4bff2a60bd9",
+          "page_number": 159,
+          "text": "——坚持主动服务城市发展战略目标。将开放作为城市发展的内在要求、内生动力，对标国际顶尖水平，全面提升城市门户枢纽能力、运筹调度能力、创新引领能力、文化影响能力、区域带动能力，积极构筑城市全球品牌价值，不断提升国际竞争力和对外影响力，为实现成都“三步走”战略目标注入强劲动能。"
+        },
+        {
+          "block_id": "blk-d0d5bf07c1d27a77e85b",
+          "page_number": 159,
+          "text": "——坚持主动服务企业多元发展需求。积极构建接轨国际的开放型经济体制机制，努力营造法治化国际化便利化营商环境，不断强化城市国际资源要素集聚和配置能力，完善内外资企业全生命周期、全生态系统的企业生产生活服务体系，助推企业高水平“引进来”和积极稳妥“走出去”。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-46e97cbbfd89",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-c35663abbbb1"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[1].claims[7].evidence_excerpt (ref-9615e5167006:bundle-160ba46804e6) is missing hard anchors from the claim: ['16']; claim='“一带一路”成为第16届西博会最突出的元素。'; excerpt='“一带一路”成为本届西博会最突出的元素'",
+  "group_id": "topic-236ef764da46",
+  "ref_ids": [
+    "ref-03851f86c639",
+    "ref-9615e5167006"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

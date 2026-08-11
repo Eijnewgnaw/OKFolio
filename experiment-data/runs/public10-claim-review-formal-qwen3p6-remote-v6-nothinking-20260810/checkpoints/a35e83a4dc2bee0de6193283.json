@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_excerpt must be one contiguous verbatim source span and cannot join evidence with ellipses; split the compound claim into one atomic claim per source span, preserving each span's own year, number, and scope",
+  "group_id": "topic-5e6d807e61bc",
+  "ref_ids": [
+    "ref-c8fc5e230016",
+    "ref-f776deb7f9d1"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,659 @@
+{
+  "contract": {
+    "canonical_question": "彭州市在区域合作中采取了哪些具体措施以促进与德阳等地的农产品交易及产业协作？",
+    "claims": [
+      {
+        "claim": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制。",
+        "claim_id": "claim-368396305647f1a1",
+        "evidence_block_ids": [
+          "blk-02bdd402f9da0431b781"
+        ],
+        "evidence_excerpt": "积极对接德阳市，与当地多个农业基地建立供销合作机制",
+        "evidence_id": "ref-a98192293b5e:bundle-0e98a09c8e4f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          68
+        ],
+        "ref_id": "ref-a98192293b5e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "彭州市新引进德阳蔬菜水果商户11户。",
+        "claim_id": "claim-be13ff12eca78cd4",
+        "evidence_block_ids": [
+          "blk-02bdd402f9da0431b781"
+        ],
+        "evidence_excerpt": "新引进德阳蔬菜水果商户11户",
+        "evidence_id": "ref-a98192293b5e:bundle-0e98a09c8e4f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          68
+        ],
+        "ref_id": "ref-a98192293b5e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "彭州市通过引进商户促进两地农产品交易合作。",
+        "claim_id": "claim-20fc8e7d0ccfe145",
+        "evidence_block_ids": [
+          "blk-02bdd402f9da0431b781"
+        ],
+        "evidence_excerpt": "促进两地农产品交易合作",
+        "evidence_id": "ref-a98192293b5e:bundle-0e98a09c8e4f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          68
+        ],
+        "ref_id": "ref-a98192293b5e",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-368396305647f1a1",
+          "claim-be13ff12eca78cd4",
+          "claim-20fc8e7d0ccfe145"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-a98192293b5e:bundle-0e98a09c8e4f",
+        "reason": "该证据包含回答中心问题所需的关键事实：对接对象（德阳）、合作机制（供销合作）、具体行动（引进商户）及数量（11户），是构成‘evidence’槽位的必要原子事实。"
+      }
+    ],
+    "group_id": "topic-4ff3754d584f",
+    "members": [
+      {
+        "contribution": "该证据直接描述了彭州市对接德阳市、建立供销合作机制及引进商户的具体事实，属于分析框架中的核心证据（evidence），用于支撑区域产业协作的成效。",
+        "ref_id": "ref-a98192293b5e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-368396305647f1a1",
+        "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-be13ff12eca78cd4",
+        "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-20fc8e7d0ccfe145",
+        "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-368396305647f1a1",
+          "claim-be13ff12eca78cd4",
+          "claim-20fc8e7d0ccfe145"
+        ],
+        "draft_excerpt": "积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b313c5f0a3916c91",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-368396305647f1a1",
+          "claim-be13ff12eca78cd4",
+          "claim-20fc8e7d0ccfe145"
+        ],
+        "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-effc11b2d46741fb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-368396305647f1a1",
+          "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-be13ff12eca78cd4",
+          "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-20fc8e7d0ccfe145",
+          "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-368396305647f1a1",
+            "claim-be13ff12eca78cd4",
+            "claim-20fc8e7d0ccfe145"
+          ],
+          "draft_excerpt": "积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-b313c5f0a3916c91",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-368396305647f1a1",
+            "claim-be13ff12eca78cd4",
+            "claim-20fc8e7d0ccfe145"
+          ],
+          "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-effc11b2d46741fb",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "6822559deed61d012ae799e67cd65c479e5a2b62ddb3acd9202153063ce401d8",
+  "coverage_history": [
+    {
+      "draft_sha256": "ffd9d93333f76a03349aa5245e782de921906c120350222a2d58f00fd5e00321",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-368396305647f1a1",
+            "draft_excerpt": "在农业协作方面，积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-be13ff12eca78cd4",
+            "draft_excerpt": "在农业协作方面，积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-20fc8e7d0ccfe145",
+            "draft_excerpt": "在农业协作方面，积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年以来，彭州市通过强化农业协作、公共服务合作、生态环境联控联治及“校院企地”融合等举措，深化与什邡及周边地区的区域合作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3faa3b340d289c7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年以来，彭州市立足自身产业优势，聚焦推动农业协作配套发展、公共服务事业合作、生态环境建设联控联治，加强招商引资交流合作、推动“校院企地”融合发展、推进与什邡市全域合作，区域合作取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1616a04b45111234",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "接下来，彭州市应深化与什邡市合作关系，加快两地体制机制建设，促进合作协议落地；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f55bc42336e86a09",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加强彭州市与周边地区的交通、教育、医疗、商业等密切合作；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-63842e0fe4294156",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "积极对接国内发达地区，拓展彭州市友好合作范围。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44898946623b3093",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-368396305647f1a1",
+              "claim-be13ff12eca78cd4",
+              "claim-20fc8e7d0ccfe145"
+            ],
+            "draft_excerpt": "在农业协作方面，积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3987f18d69962d05",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加快建设四川农业大学新农村发展研究院彭州分院。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-24226b7bbed69f7b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在公共服务事业合作上，与什邡建立教育互动联盟机制；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82de2d8a8f1facfe",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "积极与什邡、绵阳、广汉开展医疗联盟合作；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e8af3bc0806729d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与眉山、什邡、绵竹三地实现就业信息共享、平台对接搭建，互推就业岗位；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3584bf997aaac46",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与都江堰、金堂建立“食品跨区域联动执法”工作机制。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-494f0ed8b7c320bf",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在生态环境建设联控联治方面，与青白江联合开展散乱污企业交叉检查执法；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d2f25503410ae13",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与广汉市共同进行散乱污企业交叉检查执法，排查汛期环境安全隐患；",
+            "finding": "该句描述与广汉市的环保执法合作，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-05dd7fc0a1a1a2e2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与什邡和都江堰人民渠第一管理处共同建立并完善联合巡查执法、应急联动、生态补偿等制度。",
+            "finding": "该句描述与什邡、都江堰的制度合作，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac573ef72a1830a7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在“校院企地”融合发展方面，与北京大学天然药物和仿生药物国家重点实验室、中科院上海药物所、中国中医科学院屠呦呦团队、兰州大学药学院等科研机构和院校建立合作管线，促进医药产业交流合作；",
+            "finding": "该句描述“校院企地”合作，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-087967f5ae3ee8a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "大连理工成都研究院已在彭州市登记设立并开始运行，北航成都航空动力创新研究院已完成部分主体建设。",
+            "finding": "该句描述具体研究院设立情况，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db96a13b0b7a33b5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在推进与什邡市全域合作方面，2019年5月，彭州与什邡签订跨区域资源转化合作框架协议，并制定《彭什跨区域重大骨干支撑性工程项目汇总表（2020-2022年）》，涉及交通、生态旅游、产业协作等方面，为两地区域合作形成坚实基础。",
+            "finding": "该句描述与什邡的合作协议，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1181264d7792c403",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在招商引资交流合作方面，赴北京、上海、广东等地开展投资促进活动500余次；",
+            "finding": "该句描述招商引资活动，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bb6a1cef82f8d2ae",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成功举办“天府金彭·走进香港一成都彭州营商环境暨重点项目推介会”、云南大理民宿推介会、第二届云南民宿高峰论坛、上海全球住宿业高峰论坛推介会、彭州（杭州）特色小镇推介会9场大型投资促进专题活动。",
+            "finding": "该句描述具体推介会活动，Claim Contract中无相关claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9bc76dc33aff6ae8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2019年以来，彭州市通过强化农业协作、公共服务合作、生态环境联控联治及“校院企地”融合等举措，深化与什邡及周边地区的区域合作。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年以来，彭州市立足自身产业优势，聚焦推动农业协作配套发展、公共服务事业合作、生态环境建设联控联治，加强招商引资交流合作、推动“校院企地”融合发展、推进与什邡市全域合作，区域合作取得一定成效。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "接下来，彭州市应深化与什邡市合作关系，加快两地体制机制建设，促进合作协议落地；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "加强彭州市与周边地区的交通、教育、医疗、商业等密切合作；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "积极对接国内发达地区，拓展彭州市友好合作范围。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "加快建设四川农业大学新农村发展研究院彭州分院。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "在公共服务事业合作上，与什邡建立教育互动联盟机制；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "积极与什邡、绵阳、广汉开展医疗联盟合作；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "与眉山、什邡、绵竹三地实现就业信息共享、平台对接搭建，互推就业岗位；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "与都江堰、金堂建立“食品跨区域联动执法”工作机制。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "在生态环境建设联控联治方面，与青白江联合开展散乱污企业交叉检查执法；",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "与广汉市共同进行散乱污企业交叉检查执法，排查汛期环境安全隐患；",
+            "finding": "与广汉市的环保执法合作"
+          },
+          {
+            "draft_excerpt": "与什邡和都江堰人民渠第一管理处共同建立并完善联合巡查执法、应急联动、生态补偿等制度。",
+            "finding": "与什邡、都江堰的制度合作"
+          },
+          {
+            "draft_excerpt": "在“校院企地”融合发展方面，与北京大学天然药物和仿生药物国家重点实验室、中科院上海药物所、中国中医科学院屠呦呦团队、兰州大学药学院等科研机构和院校建立合作管线，促进医药产业交流合作；",
+            "finding": "与高校及科研机构的医药产业合作"
+          },
+          {
+            "draft_excerpt": "大连理工成都研究院已在彭州市登记设立并开始运行，北航成都航空动力创新研究院已完成部分主体建设。",
+            "finding": "大连理工及北航研究院的设立与建设情况"
+          },
+          {
+            "draft_excerpt": "在推进与什邡市全域合作方面，2019年5月，彭州与什邡签订跨区域资源转化合作框架协议，并制定《彭什跨区域重大骨干支撑性工程项目汇总表（2020-2022年）》，涉及交通、生态旅游、产业协作等方面，为两地区域合作形成坚实基础。",
+            "finding": "与什邡市的跨区域合作框架协议及项目汇总"
+          },
+          {
+            "draft_excerpt": "在招商引资交流合作方面，赴北京、上海、广东等地开展投资促进活动500余次；",
+            "finding": "赴多地开展投资促进活动500余次"
+          },
+          {
+            "draft_excerpt": "成功举办“天府金彭·走进香港一成都彭州营商环境暨重点项目推介会”、云南大理民宿推介会、第二届云南民宿高峰论坛、上海全球住宿业高峰论坛推介会、彭州（杭州）特色小镇推介会9场大型投资促进专题活动。",
+            "finding": "举办9场大型投资促进专题活动"
+          },
+          {
+            "draft_excerpt": "2019年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2019年5月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《彭什跨区域重大骨干支撑性工程项目汇总表（2020-2022年）》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "500",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "9",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "6822559deed61d012ae799e67cd65c479e5a2b62ddb3acd9202153063ce401d8",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-368396305647f1a1",
+            "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-be13ff12eca78cd4",
+            "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-20fc8e7d0ccfe145",
+            "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-368396305647f1a1",
+              "claim-be13ff12eca78cd4",
+              "claim-20fc8e7d0ccfe145"
+            ],
+            "draft_excerpt": "积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b313c5f0a3916c91",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-368396305647f1a1",
+              "claim-be13ff12eca78cd4",
+              "claim-20fc8e7d0ccfe145"
+            ],
+            "draft_excerpt": "彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-effc11b2d46741fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n彭州市积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+    "description": "积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-4ff3754d584f",
+      "description": "积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作；",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "积极对接德阳市，与当地多个农业基地建立供销合作机制",
+        "新引进德阳蔬菜水果商户11户",
+        "促进两地农产品交易合作"
+      ],
+      "evidence_block_ids": [
+        "blk-02bdd402f9da0431b781"
+      ],
+      "page_end": 76,
+      "page_start": 68,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "第十七节 彭州市",
+      "type": "分析框架"
+    },
+    "title": "第十七节 彭州市"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-a98192293b5e:bundle-0e98a09c8e4f",
+      "excluded_fragments": [],
+      "ref_id": "ref-a98192293b5e",
+      "source_blocks": [
+        {
+          "block_id": "blk-02bdd402f9da0431b781",
+          "page_number": 68,
+          "text": "积极对接德阳市，与当地多个农业基地建立供销合作机制，新引进德阳蔬菜水果商户11户，促进两地农产品交易合作；加快建设四川农业大学新农村发展研究院彭州分院。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-dca8b5cf001e6078ec18",
+          "page_number": 68,
+          "text": "2019年以来，彭州市立足自身产业优势，聚焦推动农业协作配套发展、公共服务事业合作、生态环境建设联控联治，加强招商引资交流合作、推动“校院企地”融合发展、推进与什邡市全域合作，区域合作取得一定成效。"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-741b468304c305400308",
+          "page_number": 68,
+          "text": "在教育事业上，与什邡建立教育互动联盟机制。在医疗卫生事业上，积极与什邡、绵阳、广汉开展医疗联盟合作。在就业服务事业上，与眉山、什邡、绵竹三地实现就业信息共享、平台对接搭建，互推就业岗位。在体制机制建设上，与都江堰、金堂建立“食品跨区域联动执法”工作机制。"
+        },
+        {
+          "block_id": "blk-f920065a0426eca9f6b1",
+          "page_number": 68,
+          "text": "与北京大学天然药物和仿生药物国家重点实验室、中科院上海药物所、中国中医科学院屠呦呦团队、兰州大学药学院等科研机构和院校建立合作管线，促进医药产业交流合作；大连理工成都研究院已在彭州市登记设立并开始运行，北航成都航空动力创新研究院已完成部分主体建设。"
+        },
+        {
+          "block_id": "blk-9b0791b4b11309ef8c09",
+          "page_number": 68,
+          "text": "与青白江联合开展散乱污企业交叉检查执法；与广汉市共同进行散乱污企业交叉检查执法，排查汛期环境安全隐患；与什邡和都江堰人民渠第一管理处共同建立并完善联合巡查执法、应急联动、生态补偿等制度。"
+        },
+        {
+          "block_id": "blk-6851bb4f5f42f471a04c",
+          "page_number": 68,
+          "text": "2019年5月，彭州与什邡签订跨区域资源转化合作框架协议，并制定《彭什跨区域重大骨干支撑性工程项目汇总表（2020-2022年）》，涉及交通、生态旅游、产业协作等方面，为两地区域合作形成坚实基础。"
+        },
+        {
+          "block_id": "blk-8ada38634de376f8e361",
+          "page_number": 68,
+          "text": "赴北京、上海、广东等地开展投资促进活动500余次；成功举办“天府金彭·走进香港一成都彭州营商环境暨重点项目推介会”、云南大理民宿推介会、第二届云南民宿高峰论坛、上海全球住宿业高峰论坛推介会、彭州（杭州）特色小镇推介会9场大型投资促进专题活动。"
+        },
+        {
+          "block_id": "blk-f2d3507cd8c5ec9d15f7",
+          "page_number": 68,
+          "text": "接下来，彭州市应深化与什邡市合作关系，加快两地体制机制建设，促进合作协议落地；加强彭州市与周边地区的交通、教育、医疗、商业等密切合作；积极对接国内发达地区，拓展彭州市友好合作范围。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-4ff3754d584f",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-a98192293b5e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

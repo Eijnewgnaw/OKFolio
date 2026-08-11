@@ -1,0 +1,459 @@
+{
+  "contract": {
+    "canonical_question": "成都天府国际机场的规划定位、建设规模、功能分工及“两场一体”运营模式的具体内容是什么？",
+    "claims": [
+      {
+        "claim": "成都天府国际机场定位为国家级国际航空枢纽。",
+        "claim_id": "claim-44052b808f17cc0c",
+        "evidence_block_ids": [
+          "blk-416cc42783104ff17052"
+        ],
+        "evidence_excerpt": "为国家级国际航空枢纽。",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场按照“国际一流、国内领先”的战略定位，致力打造“四型机场”标杆。",
+        "claim_id": "claim-9e416a28a48a9da9",
+        "evidence_block_ids": [
+          "blk-4fe64a6ddda601e7d80f"
+        ],
+        "evidence_excerpt": "成都天府国际机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”①标杆。",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼。",
+        "claim_id": "claim-c37bb07f348e5d50",
+        "evidence_block_ids": [
+          "blk-416cc42783104ff17052"
+        ],
+        "evidence_excerpt": "首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府国际机场满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求。",
+        "claim_id": "claim-9a0b7c167271701a",
+        "evidence_block_ids": [
+          "blk-416cc42783104ff17052"
+        ],
+        "evidence_excerpt": "天府国际机场满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府国际机场远期规划建设“四纵两横”6条跑道，140万平方米的航站楼。",
+        "claim_id": "claim-ce9b407a06b4f625",
+        "evidence_block_ids": [
+          "blk-416cc42783104ff17052"
+        ],
+        "evidence_excerpt": "远期规划建设“四纵两横”6条跑道，140万平方米的航站楼",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "benchmark",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府国际机场远期满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求。",
+        "claim_id": "claim-13c763eb09365d31",
+        "evidence_block_ids": [
+          "blk-416cc42783104ff17052"
+        ],
+        "evidence_excerpt": "满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求①。",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "运营初期，天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能。",
+        "claim_id": "claim-360f7c1635849317",
+        "evidence_block_ids": [
+          "blk-7b2fc0a476162fc52b5b"
+        ],
+        "evidence_excerpt": "功能分工：运营初期，天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能。",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "双流国际机场为主要服务国内点对点商务航线的区域航空枢纽。",
+        "claim_id": "claim-dd8305d0a2c56614",
+        "evidence_block_ids": [
+          "blk-7b2fc0a476162fc52b5b"
+        ],
+        "evidence_excerpt": "双流国际机场为主要服务国内点对点商务航线的区域航空枢纽",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-f3642a0a5e7b",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-44052b808f17cc0c",
+          "claim-9e416a28a48a9da9",
+          "claim-c37bb07f348e5d50",
+          "claim-9a0b7c167271701a",
+          "claim-ce9b407a06b4f625",
+          "claim-13c763eb09365d31",
+          "claim-360f7c1635849317",
+          "claim-dd8305d0a2c56614"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+        "reason": "该Bundle包含回答中心问题所需的所有固定槽位事实，包括定位、规模、分工和运营模式。"
+      }
+    ],
+    "group_id": "topic-7b3fa6348e32",
+    "members": [
+      {
+        "contribution": "该证据详细描述了成都天府国际机场的战略定位、建设规模、功能分工及“两场一体”运营模式，直接回答中心问题。",
+        "ref_id": "ref-f3642a0a5e7b",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage_history": [
+    {
+      "draft_sha256": "8badf4f68c7b85c78533b18d6b82612e71e9d5814803a73215866e3b98b2bfcd",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9e416a28a48a9da9",
+            "draft_excerpt": "该机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”标杆，旨在建设国家级国际航空枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-44052b808f17cc0c",
+            "draft_excerpt": "该机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”标杆，旨在建设国家级国际航空枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c37bb07f348e5d50",
+            "draft_excerpt": "天府国际机场首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施，满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a0b7c167271701a",
+            "draft_excerpt": "天府国际机场首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施，满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce9b407a06b4f625",
+            "draft_excerpt": "远期规划建设“四纵两横”6条跑道，140万平方米的航站楼，满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-13c763eb09365d31",
+            "draft_excerpt": "远期规划建设“四纵两横”6条跑道，140万平方米的航站楼，满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-360f7c1635849317",
+            "draft_excerpt": "在功能分工方面，运营初期天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dd8305d0a2c56614",
+            "draft_excerpt": "双流国际机场为主要服务国内点对点商务航线的区域航空枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年6月27日成都天府国际机场正式投运，确立成都为内地第三个拥有两个国际枢纽机场的城市，并明确天府机场与双流机场的功能分工。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84db978d93832bac",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年6月27日，成都天府国际机场正式投运，使成都成为内地第三个拥有两个国际枢纽机场的城市。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d6032cca4b42ae3c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e416a28a48a9da9",
+              "claim-44052b808f17cc0c"
+            ],
+            "draft_excerpt": "该机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”标杆，旨在建设国家级国际航空枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-88ff790bf49efbdc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c37bb07f348e5d50",
+              "claim-9a0b7c167271701a"
+            ],
+            "draft_excerpt": "天府国际机场首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施，满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db54ae12b9e8c620",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce9b407a06b4f625",
+              "claim-13c763eb09365d31"
+            ],
+            "draft_excerpt": "远期规划建设“四纵两横”6条跑道，140万平方米的航站楼，满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c1350e6e51fb48b2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-360f7c1635849317"
+            ],
+            "draft_excerpt": "在功能分工方面，运营初期天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7cc1704d153408ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd8305d0a2c56614"
+            ],
+            "draft_excerpt": "双流国际机场为主要服务国内点对点商务航线的区域航空枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ffab6f3633577eda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年6月27日成都天府国际机场正式投运，确立成都为内地第三个拥有两个国际枢纽机场的城市，并明确天府机场与双流机场的功能分工。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2021年6月27日，成都天府国际机场正式投运，使成都成为内地第三个拥有两个国际枢纽机场的城市。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2021年6月27日",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "draft": {
+    "body": "## 核心判断\n\n成都天府国际机场定位为国家级国际航空枢纽。该机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”标杆。天府国际机场首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施，满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求。远期规划建设“四纵两横”6条跑道，140万平方米的航站楼，满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求。在功能分工方面，运营初期，天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能；双流国际机场为主要服务国内点对点商务航线的区域航空枢纽。",
+    "description": "成都天府国际机场定位为国家级国际航空枢纽，首期满足年旅客吞吐量6000万人次需求，运营初期承担核心枢纽功能，双流机场服务国内商务航线。",
+    "ref": {
+      "asset_hints": [
+        "image-076"
+      ],
+      "concept_id": "topic-7b3fa6348e32",
+      "description": "2021年6月27日，成都天府国际机场正式投运，使成都成为内地第三个拥有两个国际枢纽机场的城市。",
+      "document_family_id": "3b48f7708ca2fd5e224b",
+      "document_version_id": "e6240784b5bdbcf0b12e",
+      "evidence": [
+        "为国家级国际航空枢纽。",
+        "成都天府国际机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”①标杆。",
+        "首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施",
+        "天府国际机场满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求",
+        "远期规划建设“四纵两横”6条跑道，140万平方米的航站楼",
+        "满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求①。",
+        "功能分工：运营初期，天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能。",
+        "双流国际机场为主要服务国内点对点商务航线的区域航空枢纽"
+      ],
+      "evidence_block_ids": [
+        "blk-416cc42783104ff17052",
+        "blk-4fe64a6ddda601e7d80f",
+        "blk-7b2fc0a476162fc52b5b"
+      ],
+      "page_end": 155,
+      "page_start": 152,
+      "ref_family_hint": "",
+      "ref_version_id": "e6240784b5bdbcf0b12e",
+      "scope": {},
+      "section_path": [
+        "编委会",
+        "成都天府国际机场正式投运"
+      ],
+      "semantic_signature": {},
+      "source": "46a57605-7f91-4664-87f7-7ed1e58dade6.md",
+      "title": "成都天府国际机场正式投运",
+      "type": "国际比较"
+    },
+    "title": "成都天府国际机场投运与双枢纽功能分工"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "error": "LLMOutputTruncated: LLM output truncated (finish_reason=length, completion_tokens=16384)",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-f3642a0a5e7b:bundle-bfc8289b68c5",
+      "excluded_fragments": [],
+      "ref_id": "ref-f3642a0a5e7b",
+      "source_blocks": [
+        {
+          "block_id": "blk-fb546286491eff36e00c",
+          "page_number": 152,
+          "text": "2021年6月27日，成都天府国际机场投运仪式在成都举行。仪式现场，随着川航、国航、东航3架客机从成都天府国际机场跑道起飞，飞向北京首都国际机场、上海虹桥机场，标志着我国“十三五”期间规划新建规模最大的民用运输枢纽机场——成都天府国际机场正式启用，成都成为继北京、上海后，我国内地第三个拥有两个国际枢纽机场的城市。"
+        },
+        {
+          "block_id": "blk-afa503287870828e1f6a",
+          "page_number": 152,
+          "text": "原始 PDF 第 152 页图片"
+        },
+        {
+          "block_id": "blk-a319d54bc918c017841b",
+          "page_number": 152,
+          "text": "图4-5 成都天府国际机场俯瞰图"
+        },
+        {
+          "block_id": "blk-416cc42783104ff17052",
+          "page_number": 152,
+          "text": "成都天府国际机场位于四川省成都市东部新区，北距成都市中心50千米、西北距成都双流国际机场50千米，为国家级国际航空枢纽。首期建设“两纵一横”3条跑道、241个机位、71万平方米的航站楼以及相应的配套设施，同步建设空管工程、供油工程、航空公司基地以及邮件处理中心。天府国际机场满足年旅客吞吐量6000万人次、货邮吞吐量130万吨的需求，远期规划建设“四纵两横”6条跑道，140万平方米的航站楼，满足年旅客吞吐量1.2亿人次、货邮吞吐量280万吨的需求①。"
+        },
+        {
+          "block_id": "blk-4fe64a6ddda601e7d80f",
+          "page_number": 153,
+          "text": "成都天府国际机场按照“国际一流、国内领先”的战略定位，高起点规划、高标准设计、高质量建设，致力打造“四型机场”①标杆。在平安建设方面，以大数据、云计算、移动互联网等新一代信息技术并配合精细化、协同化、可视化、智能化运行等新一代一体化安防保障机场安全；在绿色建设方面，全场绿色三星级建筑比例和特种车辆的清洁能源车比例达到行业先进水平，利用场内天然水体打造的莲花湖绿色生态公园，实现海绵城市建设目标；在智慧建设方面，围绕智慧安全、智慧生产、智慧资源和智慧体验四大主题，充分融合5G、人脸识别、物联网、大数据、人工智能、云计算等高新技术，为旅客提供一体化智慧服务；在人文建设方面，以“同行天府道”为主题，通过12座庭院、2个迷你博物馆以及墙面艺术作品、艺术化设施，凸显人文机场的独特魅力。"
+        },
+        {
+          "block_id": "blk-ff5b5e9c81fb2b7ee6c3",
+          "page_number": 153,
+          "text": "成都天府国际机场顺利建成投运，标志着四川打造内陆开放战略高地迈出坚实一步，将更好架起“覆盖国内、通达全球”的空中丝绸之路，打造带动全国高质量发展的重要增长极和新的动力源。对成都而言，成都天府国际机场建成投用，使成都成为全国内地第3个拥有双国际机场城市，将极大地提升成都国际门户枢纽城市的辐射带动、集散集聚和资源配置能力，推动“通道经济”向“枢纽经济”跃迁，形成更高水平开放型经济体系，更好地服务和融入构建新发展格局。同时，成都天府国际机场是成渝地区双城经济圈枢纽集群的重要节点，其建成投运将成为打造成渝世界级机场群的重要支撑，对于完善国家综合立体交通网、提升民航国际竞争力，对更好服务和融入新发展格局，建强支撑国内大循环的经济腹地、提升畅通国内国际双循环的门户枢纽功能，具有重大而深远的意义。"
+        },
+        {
+          "block_id": "blk-bb7e123263bfdd5112d3",
+          "page_number": 153,
+          "text": "下一步，成都天府国际机场将立足新的起点，与双流国际机场实现“两场一体”高水平运营，共同构建成都国际航空枢纽，加快建成国际一流、国内领先的国家级国际航空枢纽。一是重点引领成渝世界级机场群建设，与双流国际机场互为备降机场，统筹两场时刻资源，优化航线结构、拓展航线网络，共同打造国际客货运航空枢纽，逐步形成错位发展、功能互补、协同联动的双枢纽机场体系；加快推动轨道交通19号线建成通车，实现两个机场之间快速通达。二是要充分发挥机场辐射带动作用，持续完善枢纽集疏运体系，大力发展临空经济，高标准建设天府国际机场开放口岸、空港综合保税区，大力实施创新驱动发展战略，为推动开放型经济高"
+        },
+        {
+          "block_id": "blk-0e9430fae702ae88fb8f",
+          "page_number": 154,
+          "text": "质量发展作出积极贡献。三是始终坚守安全底线，高质量推进全生命周期资源节约集约，高标准推进机场生产要素全面互联、数据共享、协同高效、智能运行，着力提升天府航空港对高端要素资源的汇聚力、承载力和引领力，提升港产城一体化新业态，将天府国际机场打造成为成渝地区双城经济圈建设的新引擎。"
+        },
+        {
+          "block_id": "blk-2e2708494852060dbb3e",
+          "page_number": 154,
+          "text": "2019年9月，《成都国际航空枢纽战略规划》印发，创新提出了“两场一体”运营成都模式，并对成都的两座机场提出了航线和航空公司分配方案，构建功能互补、协同发展的枢纽机场体系。"
+        },
+        {
+          "block_id": "blk-8d15c878e725b429734d",
+          "page_number": 154,
+          "text": "“两场一体”是四川省政府、中国民航局及四川机场集团经过了长期的思考调研，并结合地方发展和机场建设实际制定提出的新模式。其核心要求是实现双流机场与天府机场虚拟同场化运行，既分工明确、责任清晰，又功能互补、协同发展，最终实现高品质的同频共振。成都“两场一体”运营模式，主要涉及“三个一体”：空中一体、地面一体和管理一体，从而实现效益的 \\(1 + 1 > 2\\) 。"
+        },
+        {
+          "block_id": "blk-7b2fc0a476162fc52b5b",
+          "page_number": 154,
+          "text": "功能分工：运营初期，天府机场为成都国际航空枢纽的主枢纽，承担客运和货运的核心枢纽功能。双流国际机场为主要服务国内点对点商务航线的区域航空枢纽，同时保留国际口岸功能，保障地区航线、国际公务航空业务和国际备降航班。远期，在天府机场国际航线业务规模达到枢纽发展要求后，将研究恢复双流机场国际航线业务，逐步演变形成“一大一小”两场一体、差异发展的双国际枢纽机场体系。"
+        },
+        {
+          "block_id": "blk-e0b1c185170b24111728",
+          "page_number": 154,
+          "text": "航线分配：天府机场投用后，国航、川航、成航、东航等基地公司为两场运营，东航部分商务航线保留双流机场，西藏航保留双流机场，其他航空公司原则上在天府机场运营，国际航线全部平移至天府机场，全货机航线分阶段平移至天府机场，现有地区航线可保留在双流机场。"
+        },
+        {
+          "block_id": "blk-516b95e8ccb4a325dbfb",
+          "page_number": 154,
+          "text": "具体来看，天府国际机场将分四个航季完成转场：在投运日至2021年10月30日的第一航季内，国航、川航、东航、成都航空、祥鹏航空、厦门航空、春秋航空、吉祥航空共8家航空公司将在天府国际机场运行；7月14日起，每日计划航班量增加至约271架次；待第四航季（2022年10月30日至2023年3月25日）全部转场完成后，天府国际机场日均航班量将达到约1138架次。届时，天府国际机场将拥有完善的国内干支航线网络布局、建成高效衔接的枢纽中转网络，国际航线网络覆盖范围和航班密度显著增强，成都国际航空枢纽的主枢纽机场地位将进一步凸显。"
+        },
+        {
+          "block_id": "blk-1ef5b1c86b2cc14b4158",
+          "page_number": 155,
+          "text": "联动机制：“两场”还将建立联动互动机制。成长期，按照初始等量原则，天府机场 \\(60\\%\\) 的新增时刻优先配置给国航和川航，建立竞争性配置机制，根据实际运力投入情况进行动态调配，充分调动主基地航空公司的积极性。在天府国际机场年旅客吞吐量达到5000万人次之前，双流机场原则上不新增航班时刻。充分发挥双流国际机场时刻价值作用，针对两场运营的航空公司，在天府国际机场新增或加密国际航线，给予其双流国际机场时刻奖励。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-7b3fa6348e32",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-f3642a0a5e7b"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

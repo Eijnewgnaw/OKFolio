@@ -1,0 +1,581 @@
+{
+  "contract": {
+    "canonical_question": "成都如何通过建设国际合作标志平台、海外综合服务平台及国际营销推广平台来强化多平台支撑体系？",
+    "claims": [
+      {
+        "claim": "成都加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，以打造国际合作标志平台。",
+        "claim_id": "claim-ad39c0e858c287ae",
+        "evidence_block_ids": [
+          "blk-cc6abd8c89b0832dffd7"
+        ],
+        "evidence_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+        "evidence_id": "ref-e0633e1113df:bundle-1810851f577e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          164
+        ],
+        "ref_id": "ref-e0633e1113df",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都建设海外成都综合服务平台，通过创新设立贸发机构和完善“3+N”境内外招商驻点布局，统筹海外资源构建海外综合服务网络。",
+        "claim_id": "claim-5e589fa94e06d7a4",
+        "evidence_block_ids": [
+          "blk-cc6abd8c89b0832dffd7"
+        ],
+        "evidence_excerpt": "建设海外成都综合服务平台。创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。",
+        "evidence_id": "ref-e0633e1113df:bundle-1810851f577e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          164
+        ],
+        "ref_id": "ref-e0633e1113df",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都建设国际营销推广平台，延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力。",
+        "claim_id": "claim-0d59f70b5e893327",
+        "evidence_block_ids": [
+          "blk-cc6abd8c89b0832dffd7"
+        ],
+        "evidence_excerpt": "建设国际营销推广平台。延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。",
+        "evidence_id": "ref-e0633e1113df:bundle-1810851f577e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          164
+        ],
+        "ref_id": "ref-e0633e1113df",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-ad39c0e858c287ae",
+          "claim-5e589fa94e06d7a4",
+          "claim-0d59f70b5e893327"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e0633e1113df:bundle-1810851f577e",
+        "reason": "该证据包含了回答分析框架中subject、core_judgment、evidence、impact等固定槽位所需的全部核心事实，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-08771260e6fe",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了“强化多平台支撑”的具体实施路径，包括建设国际合作标志平台、海外综合服务平台和国际营销推广平台三大板块，明确了各平台的功能定位和建设内容。",
+        "ref_id": "ref-e0633e1113df",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-ad39c0e858c287ae",
+        "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-ad39c0e858c287ae.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5e589fa94e06d7a4",
+        "draft_excerpt": "建设海外成都综合服务平台。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-5e589fa94e06d7a4.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0d59f70b5e893327",
+        "draft_excerpt": "建设国际营销推广平台。",
+        "finding": "draft_excerpt matches evidence_excerpt for claim-0d59f70b5e893327.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-ad39c0e858c287ae",
+          "claim-5e589fa94e06d7a4",
+          "claim-0d59f70b5e893327"
+        ],
+        "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，建设海外成都综合服务平台，建设国际营销推广平台。",
+        "finding": "This sentence summarizes the three main claims.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9929c233947aed67",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ad39c0e858c287ae"
+        ],
+        "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+        "finding": "Matches evidence for claim-ad39c0e858c287ae.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-edb494f696545273",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5e589fa94e06d7a4"
+        ],
+        "draft_excerpt": "建设海外成都综合服务平台。",
+        "finding": "Matches evidence for claim-5e589fa94e06d7a4.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-843bad0cba2c5ed3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5e589fa94e06d7a4"
+        ],
+        "draft_excerpt": "创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。",
+        "finding": "Matches evidence for claim-5e589fa94e06d7a4.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-35013221387af32d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0d59f70b5e893327"
+        ],
+        "draft_excerpt": "建设国际营销推广平台。",
+        "finding": "Matches evidence for claim-0d59f70b5e893327.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-701a021bc8f0cc1e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0d59f70b5e893327"
+        ],
+        "draft_excerpt": "延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。",
+        "finding": "Matches evidence for claim-0d59f70b5e893327.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e3724ce75571026",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ad39c0e858c287ae",
+          "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-ad39c0e858c287ae.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5e589fa94e06d7a4",
+          "draft_excerpt": "建设海外成都综合服务平台。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-5e589fa94e06d7a4.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0d59f70b5e893327",
+          "draft_excerpt": "建设国际营销推广平台。",
+          "finding": "draft_excerpt matches evidence_excerpt for claim-0d59f70b5e893327.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-ad39c0e858c287ae",
+            "claim-5e589fa94e06d7a4",
+            "claim-0d59f70b5e893327"
+          ],
+          "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，建设海外成都综合服务平台，建设国际营销推广平台。",
+          "finding": "This sentence summarizes the three main claims.",
+          "sentence_id": "sentence-9929c233947aed67",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ad39c0e858c287ae"
+          ],
+          "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+          "finding": "Matches evidence for claim-ad39c0e858c287ae.",
+          "sentence_id": "sentence-edb494f696545273",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5e589fa94e06d7a4"
+          ],
+          "draft_excerpt": "建设海外成都综合服务平台。",
+          "finding": "Matches evidence for claim-5e589fa94e06d7a4.",
+          "sentence_id": "sentence-843bad0cba2c5ed3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5e589fa94e06d7a4"
+          ],
+          "draft_excerpt": "创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。",
+          "finding": "Matches evidence for claim-5e589fa94e06d7a4.",
+          "sentence_id": "sentence-35013221387af32d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0d59f70b5e893327"
+          ],
+          "draft_excerpt": "建设国际营销推广平台。",
+          "finding": "Matches evidence for claim-0d59f70b5e893327.",
+          "sentence_id": "sentence-701a021bc8f0cc1e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0d59f70b5e893327"
+          ],
+          "draft_excerpt": "延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。",
+          "finding": "Matches evidence for claim-0d59f70b5e893327.",
+          "sentence_id": "sentence-1e3724ce75571026",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "c4312a2a1dd8f723ce9b33ed075eabc047c700cc62333f999863dff47537fb8b",
+  "coverage_history": [
+    {
+      "draft_sha256": "f3b88fb6d76067f31608ee37decd961b4f870ffd1cb0a691c2ffac5f131466ee",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ad39c0e858c287ae",
+            "draft_excerpt": "强化多平台支撑旨在通过系统性建设国际合作标志平台，打造兼具人文交流、信息沟通、展示展销、技术合作与经贸往来等综合功能的国际合作载体。",
+            "finding": "该句完整覆盖了 claim-ad39c0e858c287ae 中关于打造兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台的内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e589fa94e06d7a4",
+            "draft_excerpt": "同时，该框架要求建设海外成都综合服务平台，通过创新设立贸发机构并完善“3+N”境内外招商驻点布局，统筹海外成都工作站、海外人才离岸创新创业基地及海外人才工作站等资源，以加快构建覆盖全球的海外综合服务网络。",
+            "finding": "该句覆盖了 claim-5e589fa94e06d7a4 中关于建设海外成都综合服务平台、创新设立贸发机构、完善“3+N”布局及统筹相关资源的内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0d59f70b5e893327",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过建设国际合作标志平台、海外成都综合服务平台及国际营销推广平台，构建覆盖人文交流、经贸往来与城市营销的多维度国际合作支撑体系。",
+            "finding": "该句为概括性描述，未包含 Claim Contract 中要求的具体数字、百分比、年份或政策文件名的逐字引用，且“多维度国际合作支撑体系”为推断性判断，证据中未明确支持此特定术语。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b21e48f8b8380db3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ad39c0e858c287ae"
+            ],
+            "draft_excerpt": "强化多平台支撑旨在通过系统性建设国际合作标志平台，打造兼具人文交流、信息沟通、展示展销、技术合作与经贸往来等综合功能的国际合作载体。",
+            "finding": "该句逐字包含了 claim-ad39c0e858c287ae 证据excerpt中的关键功能描述。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a9dcb4762c5d6d9e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ad39c0e858c287ae"
+            ],
+            "draft_excerpt": "该框架强调以中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园为核心，加速构建具备多重服务功能的国际合作平台网络。",
+            "finding": "该句逐字包含了 claim-ad39c0e858c287ae 证据excerpt中的关键平台名称。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a57df8a295a8ec68",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e589fa94e06d7a4"
+            ],
+            "draft_excerpt": "同时，该框架要求建设海外成都综合服务平台，通过创新设立贸发机构并完善“3+N”境内外招商驻点布局，统筹海外成都工作站、海外人才离岸创新创业基地及海外人才工作站等资源，以加快构建覆盖全球的海外综合服务网络。",
+            "finding": "该句逐字包含了 claim-5e589fa94e06d7a4 证据excerpt中的关键措施和资源列表。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37edca25c3d7a1e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d59f70b5e893327"
+            ],
+            "draft_excerpt": "在国际营销推广层面，该框架主张延伸西博会、创交会、欧洽会等重大展会平台价值链，并扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台的影响力。",
+            "finding": "该句逐字包含了 claim-0d59f70b5e893327 证据excerpt中的关键展会和赛事名称。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6ba19326e5d61bb3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d59f70b5e893327"
+            ],
+            "draft_excerpt": "此外，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，旨在充分展示成都发展成就、开放环境和国际品牌形象。",
+            "finding": "该句逐字包含了 claim-0d59f70b5e893327 证据excerpt中的关键活动和目标描述。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1fc55354b4122eab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该举措由相关区（市）县及相关市级部门负责落实，作为积极推动国际贸易和投资优化升级的重要组成部分。",
+            "finding": "该句提到的责任单位和“国际贸易和投资优化升级”在 Claim Contract 的指定证据 excerpt 中未出现，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-899b41a7ede4bf05",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ad39c0e858c287ae"
+            ],
+            "draft_excerpt": "建设国际合作标志平台：加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设",
+            "finding": "该句逐字包含了 claim-ad39c0e858c287ae 证据excerpt中的关键平台名称。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cc6923b3fa3312cb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e589fa94e06d7a4"
+            ],
+            "draft_excerpt": "建设海外成都综合服务平台：创新设立贸发机构，完善“3+N”境内外招商驻点布局",
+            "finding": "该句逐字包含了 claim-5e589fa94e06d7a4 证据excerpt中的关键措施。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-54223e0f2f54272b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d59f70b5e893327"
+            ],
+            "draft_excerpt": "建设国际营销推广平台：延伸西博会、创交会、欧洽会等重大展会平台价值链",
+            "finding": "该句逐字包含了 claim-0d59f70b5e893327 证据excerpt中的关键展会名称。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd99f2e9b9f41909",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "责任单位：相关区（市）县、相关市级部门",
+            "finding": "该句提到的责任单位在 Claim Contract 的指定证据 excerpt 中未出现，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-830201dc1e22826b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该举措由相关区（市）县及相关市级部门负责落实，作为积极推动国际贸易和投资优化升级的重要组成部分。",
+            "finding": "该句包含的责任单位和“国际贸易和投资优化升级”在 Claim Contract 的指定证据 excerpt 中未出现。"
+          },
+          {
+            "draft_excerpt": "责任单位：相关区（市）县、相关市级部门",
+            "finding": "该句包含的责任单位在 Claim Contract 的指定证据 excerpt 中未出现。"
+          },
+          {
+            "draft_excerpt": "通过建设国际合作标志平台、海外成都综合服务平台及国际营销推广平台，构建覆盖人文交流、经贸往来与城市营销的多维度国际合作支撑体系。",
+            "finding": "该句为概括性描述，未包含 Claim Contract 中要求的具体数字、百分比、年份或政策文件名的逐字引用，且“多维度国际合作支撑体系”为推断性判断，证据中未明确支持此特定术语。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "c4312a2a1dd8f723ce9b33ed075eabc047c700cc62333f999863dff47537fb8b",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-ad39c0e858c287ae",
+            "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-ad39c0e858c287ae.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e589fa94e06d7a4",
+            "draft_excerpt": "建设海外成都综合服务平台。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-5e589fa94e06d7a4.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0d59f70b5e893327",
+            "draft_excerpt": "建设国际营销推广平台。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-0d59f70b5e893327.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ad39c0e858c287ae",
+              "claim-5e589fa94e06d7a4",
+              "claim-0d59f70b5e893327"
+            ],
+            "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，建设海外成都综合服务平台，建设国际营销推广平台。",
+            "finding": "This sentence summarizes the three main claims.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9929c233947aed67",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ad39c0e858c287ae"
+            ],
+            "draft_excerpt": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+            "finding": "Matches evidence for claim-ad39c0e858c287ae.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-edb494f696545273",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e589fa94e06d7a4"
+            ],
+            "draft_excerpt": "建设海外成都综合服务平台。",
+            "finding": "Matches evidence for claim-5e589fa94e06d7a4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-843bad0cba2c5ed3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e589fa94e06d7a4"
+            ],
+            "draft_excerpt": "创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。",
+            "finding": "Matches evidence for claim-5e589fa94e06d7a4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-35013221387af32d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d59f70b5e893327"
+            ],
+            "draft_excerpt": "建设国际营销推广平台。",
+            "finding": "Matches evidence for claim-0d59f70b5e893327.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-701a021bc8f0cc1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0d59f70b5e893327"
+            ],
+            "draft_excerpt": "延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。",
+            "finding": "Matches evidence for claim-0d59f70b5e893327.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e3724ce75571026",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。\n\n建设海外成都综合服务平台。创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。\n\n建设国际营销推广平台。延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。",
+    "description": "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，建设海外成都综合服务平台，建设国际营销推广平台。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-08771260e6fe",
+      "description": "建设国际合作标志平台。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。",
+        "建设海外成都综合服务平台。创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。",
+        "建设国际营销推广平台。延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。"
+      ],
+      "evidence_block_ids": [
+        "blk-cc6abd8c89b0832dffd7"
+      ],
+      "page_end": 164,
+      "page_start": 164,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（十一）强化多平台支撑"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "强化多平台支撑",
+      "type": "分析框架"
+    },
+    "title": "强化多平台支撑"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e0633e1113df:bundle-1810851f577e",
+      "excluded_fragments": [],
+      "ref_id": "ref-e0633e1113df",
+      "source_blocks": [
+        {
+          "block_id": "blk-cc6abd8c89b0832dffd7",
+          "page_number": 164,
+          "text": "建设国际合作标志平台。加快中国—欧洲中心、“一带一路”对外交往中心和“一带一路”产业合作园建设，打造一批兼具人文交流、信息沟通、展示展销、技术合作、经贸往来等功能的国际合作平台。建设海外成都综合服务平台。创新设立贸发机构，完善“3+N”境内外招商驻点布局，统筹“海外成都”工作站、海外人才离岸创新创业基地、海外人才工作站等资源，加快构建海外综合服务网络。建设国际营销推广平台。延伸西博会、创交会、欧洽会等重大展会平台价值链，扩大成都国际马拉松、中国乒乓球公开赛等国际赛事平台影响力，依托“一带一路”国际合作高峰论坛、中国国际进口博览会等国际重大活动，大力开展城市营销，充分展示成都发展成就、开放环境和国际品牌形象。〔责任单位：相关区（市）县、相关市级部门]"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-08771260e6fe",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-e0633e1113df"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

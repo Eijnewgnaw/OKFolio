@@ -1,0 +1,897 @@
+{
+  "contract": {
+    "canonical_question": "天府新区成都片区保税物流中心（B型）获批设立的核心事实、功能定位及战略意义是什么？",
+    "claims": [
+      {
+        "claim": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+        "claim_id": "claim-b5100cae865b51c5",
+        "evidence_block_ids": [
+          "blk-d553fafd714695d6e4cc"
+        ],
+        "evidence_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）是天府新区高水平建设内陆对外开放经济高地的重要载体。",
+        "claim_id": "claim-b9f2b39339398e61",
+        "evidence_block_ids": [
+          "blk-d553fafd714695d6e4cc"
+        ],
+        "evidence_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）的设立标志着天府新区融入“一带一路”建设迈入新阶段。",
+        "claim_id": "claim-446e13587318f794",
+        "evidence_block_ids": [
+          "blk-d553fafd714695d6e4cc"
+        ],
+        "evidence_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）的设立对提升成都的整体实力和国际竞争力具有重大意义。",
+        "claim_id": "claim-7a9932c86f7bf152",
+        "evidence_block_ids": [
+          "blk-d553fafd714695d6e4cc"
+        ],
+        "evidence_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元。",
+        "claim_id": "claim-1eec8d9b90ba4951",
+        "evidence_block_ids": [
+          "blk-966fd51e59115a1d020b"
+        ],
+        "evidence_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能。",
+        "claim_id": "claim-b56a3ffb9b73f174",
+        "evidence_block_ids": [
+          "blk-966fd51e59115a1d020b"
+        ],
+        "evidence_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）的设立是四川自贸试验区开展多领域改革创新的重大举措。",
+        "claim_id": "claim-05b3ef94ce5483b2",
+        "evidence_block_ids": [
+          "blk-0f12378c13f8ee4c13c1"
+        ],
+        "evidence_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          114
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区成都片区保税物流中心（B型）的设立是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑。",
+        "claim_id": "claim-43309c80c435620f",
+        "evidence_block_ids": [
+          "blk-0f12378c13f8ee4c13c1"
+        ],
+        "evidence_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          114
+        ],
+        "ref_id": "ref-259934a0d70c",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b5100cae865b51c5",
+          "claim-b9f2b39339398e61",
+          "claim-446e13587318f794",
+          "claim-7a9932c86f7bf152",
+          "claim-1eec8d9b90ba4951",
+          "claim-b56a3ffb9b73f174",
+          "claim-05b3ef94ce5483b2",
+          "claim-43309c80c435620f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+        "reason": "该Bundle包含中心问题所需的全部关键事实，包括获批时间、发文机构、功能定位、投资规模及战略意义，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-ececd12accff",
+    "members": [
+      {
+        "contribution": "该证据Bundle完整描述了天府新区成都片区保税物流中心（B型）的获批时间、发文部门、具体功能、投资规模及战略定位，直接构成分析框架中subject、core_judgment、evidence、impact等核心槽位的回答义务。",
+        "ref_id": "ref-259934a0d70c",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-b5100cae865b51c5",
+        "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b9f2b39339398e61",
+        "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-446e13587318f794",
+        "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7a9932c86f7bf152",
+        "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-05b3ef94ce5483b2",
+        "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-43309c80c435620f",
+        "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1eec8d9b90ba4951",
+        "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b56a3ffb9b73f174",
+        "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-b5100cae865b51c5"
+        ],
+        "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+        "finding": "Supported by claim-b5100cae865b51c5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9b8e82f1255bc2b6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b5100cae865b51c5"
+        ],
+        "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+        "finding": "Supported by claim-b5100cae865b51c5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-08c0fd99b34ede04",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b9f2b39339398e61",
+          "claim-446e13587318f794",
+          "claim-7a9932c86f7bf152"
+        ],
+        "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "finding": "Supported by claim-b9f2b39339398e61, claim-446e13587318f794, claim-7a9932c86f7bf152.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-27af06a1f1846090",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-05b3ef94ce5483b2",
+          "claim-43309c80c435620f"
+        ],
+        "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+        "finding": "Supported by claim-05b3ef94ce5483b2, claim-43309c80c435620f.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8abe048c3865c3d9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1eec8d9b90ba4951"
+        ],
+        "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+        "finding": "Supported by claim-1eec8d9b90ba4951.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aa239249ba472cec",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b56a3ffb9b73f174"
+        ],
+        "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+        "finding": "Supported by claim-b56a3ffb9b73f174.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5bd8488ae632de4e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-b5100cae865b51c5",
+          "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b9f2b39339398e61",
+          "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-446e13587318f794",
+          "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7a9932c86f7bf152",
+          "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-05b3ef94ce5483b2",
+          "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-43309c80c435620f",
+          "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1eec8d9b90ba4951",
+          "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b56a3ffb9b73f174",
+          "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-b5100cae865b51c5"
+          ],
+          "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+          "finding": "Supported by claim-b5100cae865b51c5.",
+          "sentence_id": "sentence-9b8e82f1255bc2b6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b5100cae865b51c5"
+          ],
+          "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+          "finding": "Supported by claim-b5100cae865b51c5.",
+          "sentence_id": "sentence-08c0fd99b34ede04",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b9f2b39339398e61",
+            "claim-446e13587318f794",
+            "claim-7a9932c86f7bf152"
+          ],
+          "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+          "finding": "Supported by claim-b9f2b39339398e61, claim-446e13587318f794, claim-7a9932c86f7bf152.",
+          "sentence_id": "sentence-27af06a1f1846090",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-05b3ef94ce5483b2",
+            "claim-43309c80c435620f"
+          ],
+          "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+          "finding": "Supported by claim-05b3ef94ce5483b2, claim-43309c80c435620f.",
+          "sentence_id": "sentence-8abe048c3865c3d9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1eec8d9b90ba4951"
+          ],
+          "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+          "finding": "Supported by claim-1eec8d9b90ba4951.",
+          "sentence_id": "sentence-aa239249ba472cec",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b56a3ffb9b73f174"
+          ],
+          "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+          "finding": "Supported by claim-b56a3ffb9b73f174.",
+          "sentence_id": "sentence-5bd8488ae632de4e",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "bbc6d653e60d5fd843b7581fc80670dac89ed416ba80742a65b1ea20bec485a2",
+  "coverage_history": [
+    {
+      "draft_sha256": "32e19c7754239cbe09363b3e7764ff873c0fc94c070a487ebf38f9cc3da5dbfc",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b5100cae865b51c5",
+            "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+            "finding": "claim-b5100cae865b51c5",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b9f2b39339398e61",
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "claim-b9f2b39339398e61",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-446e13587318f794",
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "claim-446e13587318f794",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a9932c86f7bf152",
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "claim-7a9932c86f7bf152",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-05b3ef94ce5483b2",
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+            "finding": "claim-05b3ef94ce5483b2",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43309c80c435620f",
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+            "finding": "claim-43309c80c435620f",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1eec8d9b90ba4951",
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+            "finding": "claim-1eec8d9b90ba4951",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b56a3ffb9b73f174",
+            "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+            "finding": "claim-b56a3ffb9b73f174",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b5100cae865b51c5",
+              "claim-b9f2b39339398e61"
+            ],
+            "draft_excerpt": "2018年3月，海关总署等四部门联合批准设立天府新区成都片区保税物流中心（B型），作为天府新区高水平建设内陆对外开放经济高地的重要载体。",
+            "finding": "sentence-132b14406d4f49f0",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-132b14406d4f49f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b5100cae865b51c5"
+            ],
+            "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+            "finding": "sentence-08c0fd99b34ede04",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08c0fd99b34ede04",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b9f2b39339398e61",
+              "claim-446e13587318f794",
+              "claim-7a9932c86f7bf152"
+            ],
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "sentence-27af06a1f1846090",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27af06a1f1846090",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-05b3ef94ce5483b2",
+              "claim-43309c80c435620f"
+            ],
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+            "finding": "sentence-8abe048c3865c3d9",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8abe048c3865c3d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1eec8d9b90ba4951"
+            ],
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+            "finding": "sentence-aa239249ba472cec",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa239249ba472cec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b56a3ffb9b73f174"
+            ],
+            "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+            "finding": "sentence-5bd8488ae632de4e",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5bd8488ae632de4e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2018年3月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "bbc6d653e60d5fd843b7581fc80670dac89ed416ba80742a65b1ea20bec485a2",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-b5100cae865b51c5",
+            "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b9f2b39339398e61",
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-446e13587318f794",
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a9932c86f7bf152",
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-05b3ef94ce5483b2",
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43309c80c435620f",
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1eec8d9b90ba4951",
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b56a3ffb9b73f174",
+            "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b5100cae865b51c5"
+            ],
+            "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+            "finding": "Supported by claim-b5100cae865b51c5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9b8e82f1255bc2b6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b5100cae865b51c5"
+            ],
+            "draft_excerpt": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+            "finding": "Supported by claim-b5100cae865b51c5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08c0fd99b34ede04",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b9f2b39339398e61",
+              "claim-446e13587318f794",
+              "claim-7a9932c86f7bf152"
+            ],
+            "draft_excerpt": "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+            "finding": "Supported by claim-b9f2b39339398e61, claim-446e13587318f794, claim-7a9932c86f7bf152.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27af06a1f1846090",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-05b3ef94ce5483b2",
+              "claim-43309c80c435620f"
+            ],
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。",
+            "finding": "Supported by claim-05b3ef94ce5483b2, claim-43309c80c435620f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8abe048c3865c3d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1eec8d9b90ba4951"
+            ],
+            "draft_excerpt": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+            "finding": "Supported by claim-1eec8d9b90ba4951.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa239249ba472cec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b56a3ffb9b73f174"
+            ],
+            "draft_excerpt": "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+            "finding": "Supported by claim-b56a3ffb9b73f174.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5bd8488ae632de4e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。\n\n天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。\n\n## 规划与功能\n\n天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。\n\n中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+    "description": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+    "ref": {
+      "asset_hints": [
+        "image-046",
+        "image-047"
+      ],
+      "concept_id": "topic-ececd12accff",
+      "description": "2018年3月，海关总署等四部门联合发文批准设立天府新区成都片区保税物流中心（B型），作为内陆对外开放经济高地的重要载体。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。",
+        "该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。",
+        "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。",
+        "中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。",
+        "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。"
+      ],
+      "evidence_block_ids": [
+        "blk-d553fafd714695d6e4cc",
+        "blk-966fd51e59115a1d020b",
+        "blk-0f12378c13f8ee4c13c1"
+      ],
+      "page_end": 116,
+      "page_start": 113,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "天府新区成都片区保税物流中心（B型）正式获批"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "天府新区成都片区保税物流中心（B型）获批",
+      "type": "分析框架"
+    },
+    "title": "天府新区成都片区保税物流中心（B型）获批"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-259934a0d70c:bundle-59ca291f70fe",
+      "excluded_fragments": [],
+      "ref_id": "ref-259934a0d70c",
+      "source_blocks": [
+        {
+          "block_id": "blk-d553fafd714695d6e4cc",
+          "page_number": 113,
+          "text": "2018年3月22日，海关总署、财政部、税务总局、外汇管理局联合发文，准予设立天府新区成都片区保税物流中心（B型）。该保税物流中心是天府新区高水平建设内陆对外开放经济高地的重要载体，标志着天府新区融入“一带一路”建设迈入新阶段，对提升成都的整体实力和国际竞争力具有重大意义。"
+        },
+        {
+          "block_id": "blk-0bfb59795feacae45b94",
+          "page_number": 113,
+          "text": "原始 PDF 第 113 页图片"
+        },
+        {
+          "block_id": "blk-525a24a479d28b5e065b",
+          "page_number": 113,
+          "text": "图3-11 天府新区成都片区保税物流中心（B型）效果图"
+        },
+        {
+          "block_id": "blk-966fd51e59115a1d020b",
+          "page_number": 113,
+          "text": "天府新区成都片区保税物流中心（B型）位于天府新区新兴产业园，批准设立面积0.133平方公里，计划总投资约5亿元，规划建设保税物流仓库、海关查验场、海关监管仓库和综合服务楼。中心投入运营后，将具备保税仓储、全球采购、国际分拨、转口贸易和国际中转等特殊功能，同时提供服务高端制造业的保税VMI/DC业务、会展经济的保税展示业务、进出口商品销售的保税OTO业务、中外文化交流的保税文化业务等“保税+”新业态，力图构建一个与成都高新综保区、成都高新西园综保区、成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）错位发展的格局。"
+        },
+        {
+          "block_id": "blk-dd3409f6577a70849098",
+          "page_number": 114,
+          "text": "下一步，天府新区成都片区保税物流中心将与天府国际机场共同创造现代服务业发展空间，为四川自贸试验区及周边区域相关企业提供成本更低、效率更高的保税物流与服务平台；将与泸州港建立合作关系，加快建成口岸通关一体化的内陆“无水港”，构建多维度链接全球的贸易合作双向通道。"
+        },
+        {
+          "block_id": "blk-0f12378c13f8ee4c13c1",
+          "page_number": 114,
+          "text": "天府新区成都片区保税物流中心（B型）的设立，是四川自贸试验区开展多领域改革创新的重大举措，是推动新区供给侧改革、打造“一带一路”对外开放高地的重要支撑，将助力成都培育开放型经济新格局，加快建设全面体现新发展理念的城市。"
+        },
+        {
+          "block_id": "blk-7af06321ebac60277f01",
+          "page_number": 114,
+          "text": "1.成都空港保税物流中心（B型）"
+        },
+        {
+          "block_id": "blk-9a177e96415c4847b368",
+          "page_number": 114,
+          "text": "2014年3月，海关总署、财政部、国家税务总局、国家外汇管理局联合发文，批准设立成都空港保税物流中心（B型）。中心批准建设面积0.09平方千米，东至物流大道、南至航枢二路、西至航枢大道、北至航枢一路，主要提供保税仓储、国际物流配送、流通性简单加工和增值服务、进出口贸易、转口贸易和物流信息处理等业务。"
+        },
+        {
+          "block_id": "blk-d74e7a60e2573151c925",
+          "page_number": 114,
+          "text": "保税物流中心享受多种国家优惠政策，具体为可享受出口退税、可享受进口免税、中心内交易免税、保税仓储期限长、仓储货物可简单加工、中心内企业可享受代理报关或自理报关。"
+        },
+        {
+          "block_id": "blk-2bec2bb3e1924ec86bdd",
+          "page_number": 114,
+          "text": "成都空港保税物流中心以机场为圆心，重点打造航空产业链产业、发展制造业、促进高端保税物流业务，是实现航空港物流运作专业化、集约化、规模化，实现区域国际物流和国内物流有效整合，在更大方位和更高层次适应国际物流发展需要的重要支撑。"
+        },
+        {
+          "block_id": "blk-f463c1ffe79f87881d6d",
+          "page_number": 114,
+          "text": "2.成都铁路保税物流中心（B型）"
+        },
+        {
+          "block_id": "blk-00503d18277f19e1b555",
+          "page_number": 114,
+          "text": "2015年11月，海关总署、财政部、国家税务总局、国家外汇管理局联合发文，批准设立成都铁路保税物流中心（B型）。物流中心建设面积0.18平方公里，东至通汇大道、南至呈祥路、西至景祥路、北至香岛大道，主要围绕集装箱中心站、铁路口岸、蓉欧快铁等资源，以服务对外贸易、跨境电商、汽车配套产业为核心，重点开展保税仓储、国际中转、国际配送、国际采购、增值加工、商品展示、出口退税等业务。"
+        },
+        {
+          "block_id": "blk-caefa5c1c4e1c4bc6581",
+          "page_number": 114,
+          "text": "保税物流中心享受多种优惠政策，例如，国内货物进入物流中心视同出口，享受出口退税政策；物流中心内货物进入内地视同进口，可办理进口报关及征、免税和保税等手续；物流中心与境外之间的进出货物，除另有规定的以外，不实行进出口配额、许可证管理等。"
+        },
+        {
+          "block_id": "blk-6b5536fbf47acca89d27",
+          "page_number": 114,
+          "text": "成都铁路保税物流中心（B型）作为成都乃至西部地区对外开放的窗口，是成都加快建设区域性国际物流枢纽和联通欧洲泛亚桥头堡、对接“一带一路”和长江经济带的战略平台，是打造国家西部门户城市的新引擎。"
+        },
+        {
+          "block_id": "blk-048be0470f0f2cc5f725",
+          "page_number": 115,
+          "text": "2018年6月13日，中国（四川）自由贸易试验区“蓉欧+泸州港”号班列正式开行。该班列是中欧班列（成都）第一条铁水联运线路，将有利于完善物流运输体系，推动多式联运全面发展，进而带动成都加快打造国际门户枢纽城市。"
+        },
+        {
+          "block_id": "blk-7415362badea91015693",
+          "page_number": 115,
+          "text": "原始 PDF 第 115 页图片"
+        },
+        {
+          "block_id": "blk-383c722a61a92d7106bf",
+          "page_number": 115,
+          "text": "图3-12 首趟“蓉欧+泸州港”号班列开行"
+        },
+        {
+          "block_id": "blk-fbc97cf12a76fcd511cb",
+          "page_number": 115,
+          "text": "多式联运是加快构建综合交通运输体系的重要举措，是推进物流大通道建设的重要内容，铁水联运作为其中一种高效的运输组织方式，具有融合水运成本低廉、铁路运输快速的特点，能够有效实现物流运输降本增效。此次新增开的“蓉欧+泸州港”号班列在省内首次实现了长江水运和中欧班列（成都）的无缝连接，班列先从重庆出发走水运到泸州港，然后装货上车利用铁路运输到达成都，最后搭乘中欧班列（成都）历经15天到达德国。据统计，与传统的运输模式相比，这种铁水联运将降低物流成本约在 \\(20\\%\\) 以上。"
+        },
+        {
+          "block_id": "blk-1249623319b3d5e3e583",
+          "page_number": 115,
+          "text": "下一步，四川自贸试验区川南临港片区将全力打造泸州港，使之成为中欧班列（成都）的延伸第二场站，推动货物抵达泸州场视同到达成都场站，充分实现"
+        },
+        {
+          "block_id": "blk-2954484f9b472c863439",
+          "page_number": 116,
+          "text": "四川自贸试验区青白江铁路片区与川南临港片区业务互动、协同开放，推动成都、泸州两市实现物流一体化、市场一体化、服务一体化。"
+        },
+        {
+          "block_id": "blk-e2b024177215ac08a008",
+          "page_number": 116,
+          "text": "“蓉欧+泸州港”号班列的开通，是成都、泸州两港打造国家多式联运示范工程的重要成果，不仅充分发挥铁路运输和水路运输比较优势与组合效应，带来了高效便捷的物流方式，还有助于成都深化“一带一路”沿线国家的经贸合作、人文交流，提升城市的影响力和辐射力，进而在更高层次、更宽领域开展开放合作。"
+        },
+        {
+          "block_id": "blk-0d35cb869e2c33ad0014",
+          "page_number": 116,
+          "text": "2018年2月，蓉欧快铁首班集拼集运返程班列从荷兰起运，该班列是成都顺应贸易订单小型化、高频率发展趋势，有效应对海运低成本竞争，解决中欧班列返程重载率不高的重要举措，将有助于提升蓉欧班列运行效率，更好推动“一带一路”建设。"
+        },
+        {
+          "block_id": "blk-4d37c66696850c5c4d2d",
+          "page_number": 116,
+          "text": "2018年3月，“蓉欧+”东盟国际铁路通道首次试运班列到达仪式在成都铁路集装箱中心站举行。该班列的开通标志着从越南到成都的全线铁路通道测试成功，将促进成都与“一带一路”沿线国家和地区的经贸往来，发挥成都作为西部枢纽的集散作用。"
+        },
+        {
+          "block_id": "blk-8f7fbef6b7e5e3eaf462",
+          "page_number": 116,
+          "text": "2018年4月，成都一维也纳中欧班列抵达目的地。该班列从成都发车，穿越亚欧6国，行程9800公里，最终达到奥地利首都维也纳。这是成都开出的首列直达奥地利的中欧班列，是奥地利和中国友好合作的象征。"
+        },
+        {
+          "block_id": "blk-4c621362db6177443f94",
+          "page_number": 116,
+          "text": "2018年7月，中欧班列（成都）俄罗斯莫斯科定制化贸易班列从成都出发，此次中欧班列（成都）从之前单一的“成都造”鞋、日用小商品等扩展到货物价值更高的整车项目，是中欧班列（成都）的莫斯科定制化贸易班列的新突破。"
+        },
+        {
+          "block_id": "blk-ec3e1bbadf9ee31b6d12",
+          "page_number": 116,
+          "text": "2018年8月，成都至意大利米兰的中欧班列（成都）首发，这是首趟从成都发往意大利的国际货运班列线路，该班列的开通将进一步提高中国西部腹地到欧洲地中海区域的运载能力，有效缩短中国商品出口意大利的在途时间，降低物流运输成本。"
+        },
+        {
+          "block_id": "blk-0bcd20951a11f7551fc2",
+          "page_number": 116,
+          "text": "2018年8月，首批由中欧班列（成都）进口的白俄罗斯牛肉运抵成都。自此，成都成为全国首个通过国际铁路运输方式实现白俄罗斯肉类进口的城市，标志着中欧班列白俄罗斯－成都肉类冷链运输新通道全面打通。"
+        },
+        {
+          "block_id": "blk-53398cf3b7dbe54b187d",
+          "page_number": 116,
+          "text": "2018年8月，中欧班列（成都）直达阿拉木图班列正式开行，该班列是成都首次采取直达方式正式开行阿拉木图线路的中欧班列，意图不断加深成都与哈萨克斯坦交流，深化两地国际通道的不断发展。"
+        },
+        {
+          "block_id": "blk-b7e9052cd7d211bc6ad3",
+          "page_number": 116,
+          "text": "2018年9月，“蓉欧枢纽+园区”合作模式落地成都青白江。该合作模式是中欧班列（成都）同园区运营方合作，共同搭建的物流、贸易、金融一体化服务平台，将针对园区发展提供定制化服务，构建中欧班列融入本地贸易产业发展新模式。"
+        },
+        {
+          "block_id": "blk-628ab91c597b85f48dce",
+          "page_number": 116,
+          "text": "2018年10月，成都——广州港铁海联运班列首发，该班列发车后将经铁路、海运，最终抵达马来西亚、印度尼西亚等东南亚地区，是成都积极谋划和推动南向大通道建设，发挥中欧班列(成都引领带动作用，衔接欧亚和东盟物流通道的重要举措。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ececd12accff",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-259934a0d70c"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

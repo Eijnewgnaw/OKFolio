@@ -1,0 +1,480 @@
+{
+  "contract": {
+    "canonical_question": "成德高端能源装备产业集群在2021年3月入选国家级先进制造业集群时，其核心指标与产业地位如何？",
+    "claims": [
+      {
+        "claim": "成德高端能源装备产业集群于2021年3月入选国家级先进制造业集群。",
+        "claim_id": "claim-dd5bed934fc170af",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "成都、德阳"
+          ],
+          "time": "2021年3月"
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德高端能源装备产业集群发电设备产量累计突破6亿千瓦。",
+        "claim_id": "claim-c67ce5bb1e8073a4",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "成都、德阳"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德高端能源装备产业集群石油钻机累计出口608台（套）。",
+        "claim_id": "claim-63055fa44690dde1",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "成都、德阳"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德高端能源装备产业集群成为全国首家突破发电设备产量6亿千瓦指标的能源装备产业集群。",
+        "claim_id": "claim-382485bd257b6b75",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "成都、德阳"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德高端能源装备产业集群石油钻机累计出口数量居国内第一。",
+        "claim_id": "claim-edbaf7ac63d83123",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "成都、德阳"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一。",
+        "claim_id": "claim-0badc40e300adf7c",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "德阳"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成德高端能源装备产业集群中德阳是工信部命名的国家新型工业化示范基地。",
+        "claim_id": "claim-dff23be4cbe6a4aa",
+        "evidence_block_ids": [
+          "blk-4564ca1983c2f9e831ad"
+        ],
+        "evidence_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          255
+        ],
+        "ref_id": "ref-efb3d9caa5f7",
+        "scope": {
+          "region": [
+            "德阳"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-dd5bed934fc170af",
+          "claim-c67ce5bb1e8073a4",
+          "claim-63055fa44690dde1",
+          "claim-382485bd257b6b75",
+          "claim-edbaf7ac63d83123",
+          "claim-0badc40e300adf7c",
+          "claim-dff23be4cbe6a4aa"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+        "reason": "该证据包含入选时间、具体指标及产业地位，是回答中心问题必须保留的核心事实。"
+      }
+    ],
+    "group_id": "evidence-0dc054af8da0",
+    "members": [
+      {
+        "contribution": "该证据直接提供了集群入选国家级先进制造业集群的时间、具体指标及产业地位，是回答中心问题的核心事实。",
+        "ref_id": "ref-efb3d9caa5f7",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-dd5bed934fc170af",
+        "draft_excerpt": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。",
+        "finding": "草稿明确提及“2021年3月”、“成德高端能源装备产业集群”、“入选‘国家队’”及“全国25个先进制造业集群之一”，与证据中“成功入选‘国家队’，成为全国25个先进制造业集群之一”完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c67ce5bb1e8073a4",
+        "draft_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。",
+        "finding": "草稿明确提及“发电设备产量累计突破6亿千瓦”，与证据中“集群发电设备产量累计突破6亿千瓦”完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-63055fa44690dde1",
+        "draft_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+        "finding": "草稿明确提及“石油钻机累计出口608台（套）”，与证据中“石油钻机累计出口608台（套）”完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-382485bd257b6b75",
+        "draft_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。",
+        "finding": "草稿明确提及“成为全国首家突破这一指标的能源装备产业集群”，与证据中“成为全国首家突破这一指标的能源装备产业集群”完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-edbaf7ac63d83123",
+        "draft_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+        "finding": "草稿明确提及“居国内第一”，与证据中“居国内第一”完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0badc40e300adf7c",
+        "draft_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+        "finding": "草稿明确提及“成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一”，与证据中“成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一”完全一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dff23be4cbe6a4aa",
+        "draft_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+        "finding": "草稿明确提及“是工信部命名的国家新型工业化示范基地”，与证据中“是工信部命名的国家新型工业化示范基地”完全一致。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-dd5bed934fc170af"
+        ],
+        "draft_excerpt": "2021年3月，成德高端能源装备产业集群入选全国25个先进制造业集群之一。",
+        "finding": "该句描述了集群在2021年3月入选国家级先进制造业集群的事实，与claim-dd5bed934fc170af完全对应。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5a15051bc8f93270",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dd5bed934fc170af"
+        ],
+        "draft_excerpt": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。",
+        "finding": "该句描述了集群在2021年3月入选国家级先进制造业集群的事实，与claim-dd5bed934fc170af完全对应。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d3a4875dab087f7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0badc40e300adf7c",
+          "claim-dff23be4cbe6a4aa"
+        ],
+        "draft_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+        "finding": "该句前半部分对应claim-0badc40e300adf7c，后半部分对应claim-dff23be4cbe6a4aa。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b78d689c408ced84",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c67ce5bb1e8073a4",
+          "claim-382485bd257b6b75"
+        ],
+        "draft_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。",
+        "finding": "该句前半部分对应claim-c67ce5bb1e8073a4，后半部分对应claim-382485bd257b6b75。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ada8decf9fc2a2ee",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-63055fa44690dde1",
+          "claim-edbaf7ac63d83123"
+        ],
+        "draft_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+        "finding": "该句前半部分对应claim-63055fa44690dde1，后半部分对应claim-edbaf7ac63d83123。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fee367e8c1184b1e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_draft_sha256": "b435de50cff486be79f7ec1c017fdb65e81be8c1c27d3264fd4a5d83117a8d67",
+  "coverage_history": [
+    {
+      "draft_sha256": "b435de50cff486be79f7ec1c017fdb65e81be8c1c27d3264fd4a5d83117a8d67",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-dd5bed934fc170af",
+            "draft_excerpt": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。",
+            "finding": "草稿明确提及“2021年3月”、“成德高端能源装备产业集群”、“入选‘国家队’”及“全国25个先进制造业集群之一”，与证据中“成功入选‘国家队’，成为全国25个先进制造业集群之一”完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c67ce5bb1e8073a4",
+            "draft_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。",
+            "finding": "草稿明确提及“发电设备产量累计突破6亿千瓦”，与证据中“集群发电设备产量累计突破6亿千瓦”完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-63055fa44690dde1",
+            "draft_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+            "finding": "草稿明确提及“石油钻机累计出口608台（套）”，与证据中“石油钻机累计出口608台（套）”完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-382485bd257b6b75",
+            "draft_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。",
+            "finding": "草稿明确提及“成为全国首家突破这一指标的能源装备产业集群”，与证据中“成为全国首家突破这一指标的能源装备产业集群”完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edbaf7ac63d83123",
+            "draft_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+            "finding": "草稿明确提及“居国内第一”，与证据中“居国内第一”完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0badc40e300adf7c",
+            "draft_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+            "finding": "草稿明确提及“成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一”，与证据中“成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一”完全一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dff23be4cbe6a4aa",
+            "draft_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+            "finding": "草稿明确提及“是工信部命名的国家新型工业化示范基地”，与证据中“是工信部命名的国家新型工业化示范基地”完全一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dd5bed934fc170af"
+            ],
+            "draft_excerpt": "2021年3月，成德高端能源装备产业集群入选全国25个先进制造业集群之一。",
+            "finding": "该句描述了集群在2021年3月入选国家级先进制造业集群的事实，与claim-dd5bed934fc170af完全对应。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5a15051bc8f93270",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dd5bed934fc170af"
+            ],
+            "draft_excerpt": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。",
+            "finding": "该句描述了集群在2021年3月入选国家级先进制造业集群的事实，与claim-dd5bed934fc170af完全对应。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d3a4875dab087f7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0badc40e300adf7c",
+              "claim-dff23be4cbe6a4aa"
+            ],
+            "draft_excerpt": "成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。",
+            "finding": "该句前半部分对应claim-0badc40e300adf7c，后半部分对应claim-dff23be4cbe6a4aa。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b78d689c408ced84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c67ce5bb1e8073a4",
+              "claim-382485bd257b6b75"
+            ],
+            "draft_excerpt": "目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。",
+            "finding": "该句前半部分对应claim-c67ce5bb1e8073a4，后半部分对应claim-382485bd257b6b75。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ada8decf9fc2a2ee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-63055fa44690dde1",
+              "claim-edbaf7ac63d83123"
+            ],
+            "draft_excerpt": "石油钻机累计出口608台（套），居国内第一。",
+            "finding": "该句前半部分对应claim-63055fa44690dde1，后半部分对应claim-edbaf7ac63d83123。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fee367e8c1184b1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。\n\n成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。\n\n## 证据与影响\n\n目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群。\n\n石油钻机累计出口608台（套），居国内第一。",
+    "description": "2021年3月，成德高端能源装备产业集群入选全国25个先进制造业集群之一。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "evidence-0dc054af8da0",
+      "description": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "#### 成德高端能源装备产业集群成功入选“国家级先进制造业集群”",
+        "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群，石油钻机累计出口608台（套），居国内第一。"
+      ],
+      "evidence_block_ids": [
+        "blk-4564ca1983c2f9e831ad"
+      ],
+      "page_end": 255,
+      "page_start": 255,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成都、德阳",
+        "time": "2021年3月"
+      },
+      "section_path": [
+        "重大事件",
+        "《成渝地区双城经济圈建设规划纲要》正式出台",
+        "成德高端能源装备产业集群成功入选“国家级先进制造业集群”"
+      ],
+      "semantic_signature": {
+        "cluster_name": "成德高端能源装备产业集群",
+        "honor": "国家级先进制造业集群"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成德高端能源装备产业集群成功入选“国家级先进制造业集群”",
+      "type": "数据口径"
+    },
+    "title": "成德高端能源装备产业集群成功入选“国家级先进制造业集群”"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-efb3d9caa5f7:bundle-35b4429e0e78",
+      "excluded_fragments": [],
+      "ref_id": "ref-efb3d9caa5f7",
+      "source_blocks": [
+        {
+          "block_id": "blk-4564ca1983c2f9e831ad",
+          "page_number": 255,
+          "text": "2021年3月，成德高端能源装备产业集群成功入选“国家队”，成为全国25个先进制造业集群之一。成德高端能源装备产业集群中德阳是全国三大动力设备制造基地之一，是工信部命名的国家新型工业化示范基地。目前，集群发电设备产量累计突破6亿千瓦，成为全国首家突破这一指标的能源装备产业集群，石油钻机累计出口608台（套），居国内第一。"
+        }
+      ]
+    }
+  ],
+  "group_id": "evidence-0dc054af8da0",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-efb3d9caa5f7"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "76eba426350c46b60b76063f50ac3f5f28ef82a678d0db66f9ad03245b42bb6c",
+    "prior_recompile_attempts": 0,
+    "run_name": "public10-claim-review-formal-qwen36-v4-batched-20260810"
+  },
+  "status": "complete"
+}

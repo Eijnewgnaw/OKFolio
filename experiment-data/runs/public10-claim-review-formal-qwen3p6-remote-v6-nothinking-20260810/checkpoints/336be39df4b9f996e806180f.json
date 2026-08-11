@@ -1,0 +1,1177 @@
+{
+  "contract": {
+    "canonical_question": "2020年以来，新津区在交通互联互通、跨区域劳务协作、区域协同及会展合作方面取得了哪些具体成效？",
+    "claims": [
+      {
+        "claim": "新津区稳定开行彭山区至地铁新平站1条公交线路，并会同彭山区交通局优化了线路走向、开行方案及站点设置。",
+        "claim_id": "claim-c765dabdbf68dfbc",
+        "evidence_block_ids": [
+          "blk-54f52f88de6266959016"
+        ],
+        "evidence_excerpt": "一是推进交通互联互通合作。稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          112
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": [
+            "彭山区",
+            "地铁新平站"
+          ],
+          "time": "2020年以来"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议。",
+        "claim_id": "claim-9e664c26b664b221",
+        "evidence_block_ids": [
+          "blk-54f52f88de6266959016"
+        ],
+        "evidence_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          112
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": [
+            "滨江大道北段东线",
+            "通江大道"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "川藏铁路项目可研报告已报国家发改委，待批复。",
+        "claim_id": "claim-629c96485b437562",
+        "evidence_block_ids": [
+          "blk-54f52f88de6266959016"
+        ],
+        "evidence_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          112
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": "川藏铁路项目"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订合作协议，共同推进人社事业协同发展。",
+        "claim_id": "claim-4d3a4a08d2a6709e",
+        "evidence_block_ids": [
+          "blk-db6e2a077a5ebee01997"
+        ],
+        "evidence_excerpt": "二是推动跨区域劳务协作。先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          112
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": [
+            "德阳市中江县",
+            "眉山市彭山区",
+            "德阳市广汉市",
+            "眉山市仁寿县"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+        "claim_id": "claim-41df11991f215d64",
+        "evidence_block_ids": [
+          "blk-db6e2a077a5ebee01997"
+        ],
+        "evidence_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          112
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "time": "2020年以来"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+        "claim_id": "claim-06813b749b0bdada",
+        "evidence_block_ids": [
+          "blk-db6e2a077a5ebee01997",
+          "blk-d8e4dacdcf524bcb5afd"
+        ],
+        "evidence_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          112,
+          113
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": [
+            "市政",
+            "建筑"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区与成都高新区签署《产业功能区协同发展战略合作协议》，深化“两地政府+产业功能区+属地企业”三级合作模式。",
+        "claim_id": "claim-0dedc6de3a9f6e3a",
+        "evidence_block_ids": [
+          "blk-d44cf3159e71c6ca6a3a"
+        ],
+        "evidence_excerpt": "三是加强与其他区协同发展。与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": "成都高新区"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区与天府新区签署《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+        "claim_id": "claim-7be4f627ef6c988d",
+        "evidence_block_ids": [
+          "blk-d44cf3159e71c6ca6a3a"
+        ],
+        "evidence_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          113
+        ],
+        "ref_id": "ref-da50a5e10418",
+        "scope": {
+          "object": "天府新区"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c765dabdbf68dfbc",
+          "claim-9e664c26b664b221",
+          "claim-629c96485b437562",
+          "claim-4d3a4a08d2a6709e",
+          "claim-41df11991f215d64",
+          "claim-06813b749b0bdada",
+          "claim-0dedc6de3a9f6e3a",
+          "claim-7be4f627ef6c988d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+        "reason": "该Bundle包含回答中心问题所需的全部四个维度的具体事实，无重复或纯背景内容，必须提取以构成完整证据链。"
+      }
+    ],
+    "group_id": "topic-7e36702ce5c8",
+    "members": [
+      {
+        "contribution": "该证据直接描述了新津区在2020年以来四个维度的区域合作具体举措与成果，包括交通、劳务、协同及会展，构成回答中心问题的核心事实。",
+        "ref_id": "ref-da50a5e10418",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-c765dabdbf68dfbc",
+        "draft_excerpt": "新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9e664c26b664b221",
+        "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-629c96485b437562",
+        "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4d3a4a08d2a6709e",
+        "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-41df11991f215d64",
+        "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-06813b749b0bdada",
+        "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0dedc6de3a9f6e3a",
+        "draft_excerpt": "新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7be4f627ef6c988d",
+        "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-57c28adc9ae7b21b",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-c765dabdbf68dfbc"
+        ],
+        "draft_excerpt": "新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fee34e35f9dd61c8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9e664c26b664b221"
+        ],
+        "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-df96ce40caf4d0c3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-629c96485b437562"
+        ],
+        "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-26de3ee385873cc9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4d3a4a08d2a6709e"
+        ],
+        "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-adb4d42e9f77a88a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-41df11991f215d64"
+        ],
+        "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d6e2f5e583961a2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-06813b749b0bdada"
+        ],
+        "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0c9822d5b2eece02",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0dedc6de3a9f6e3a"
+        ],
+        "draft_excerpt": "新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f9fecaa438567c8f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7be4f627ef6c988d"
+        ],
+        "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d2a0e2b78afa942f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-c765dabdbf68dfbc",
+          "draft_excerpt": "新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9e664c26b664b221",
+          "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-629c96485b437562",
+          "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4d3a4a08d2a6709e",
+          "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-41df11991f215d64",
+          "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-06813b749b0bdada",
+          "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0dedc6de3a9f6e3a",
+          "draft_excerpt": "新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7be4f627ef6c988d",
+          "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-57c28adc9ae7b21b",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-c765dabdbf68dfbc"
+          ],
+          "draft_excerpt": "新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+          "finding": "supported",
+          "sentence_id": "sentence-fee34e35f9dd61c8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9e664c26b664b221"
+          ],
+          "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+          "finding": "supported",
+          "sentence_id": "sentence-df96ce40caf4d0c3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-629c96485b437562"
+          ],
+          "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+          "finding": "supported",
+          "sentence_id": "sentence-26de3ee385873cc9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4d3a4a08d2a6709e"
+          ],
+          "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-adb4d42e9f77a88a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-41df11991f215d64"
+          ],
+          "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+          "finding": "supported",
+          "sentence_id": "sentence-5d6e2f5e583961a2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-06813b749b0bdada"
+          ],
+          "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+          "finding": "supported",
+          "sentence_id": "sentence-0c9822d5b2eece02",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0dedc6de3a9f6e3a"
+          ],
+          "draft_excerpt": "新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+          "finding": "supported",
+          "sentence_id": "sentence-f9fecaa438567c8f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7be4f627ef6c988d"
+          ],
+          "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+          "finding": "supported",
+          "sentence_id": "sentence-d2a0e2b78afa942f",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "48921659217d5d522a6f70bacd3a5ab5ef9a2a6d420b1445a28c590b7bec229b",
+  "coverage_history": [
+    {
+      "draft_sha256": "d29ae04a3d8a607a96730b4a51376a5fa2c493cc0027b80705c8e258b83901b1",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c765dabdbf68dfbc",
+            "draft_excerpt": "在公交协同方面，稳定开行连接彭山区与地铁新平站的1条公交线路，并会同彭山区交通局多次研究讨论，对该线路的走向、开行方案及站点设置进行了优化完善。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9e664c26b664b221",
+            "draft_excerpt": "在重大基础设施共建方面，协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道的合作共建框架协议。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-629c96485b437562",
+            "draft_excerpt": "同时，川藏铁路项目可研报告已报国家发改委，目前处于待批复状态。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d3a4a08d2a6709e",
+            "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订合作协议，共同推进人社事业协同发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-41df11991f215d64",
+            "draft_excerpt": "通过携手四地共开展线上、线下跨区域合作招聘会31场，达成就业意向近1000人次。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-06813b749b0bdada",
+            "draft_excerpt": "在人才交流方面，建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会，以促进区域内专业技术人才的流动与认可。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dedc6de3a9f6e3a",
+            "draft_excerpt": "与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7be4f627ef6c988d",
+            "draft_excerpt": "与天府新区签署《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议，旨在通过生态价值转化推动高质量发展。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，新津区通过交通互联互通、跨区域劳务协作及与其他区协同发展，在成渝地区双城经济圈建设中取得阶段性成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8488b8df4a85ae5f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新津区在交通互联互通方面重点推进跨市公交线路优化与重大铁路项目推进。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d16ec28dcc4ad06f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c765dabdbf68dfbc"
+            ],
+            "draft_excerpt": "在公交协同方面，稳定开行连接彭山区与地铁新平站的1条公交线路，并会同彭山区交通局多次研究讨论，对该线路的走向、开行方案及站点设置进行了优化完善。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-432dd8921dd84d1d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e664c26b664b221"
+            ],
+            "draft_excerpt": "在重大基础设施共建方面，协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道的合作共建框架协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f191f21f43542fd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-629c96485b437562"
+            ],
+            "draft_excerpt": "同时，川藏铁路项目可研报告已报国家发改委，目前处于待批复状态。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-116b4fc5314b7021",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d3a4a08d2a6709e"
+            ],
+            "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订合作协议，共同推进人社事业协同发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8686647439b5a1ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-41df11991f215d64"
+            ],
+            "draft_excerpt": "通过携手四地共开展线上、线下跨区域合作招聘会31场，达成就业意向近1000人次。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e634ef0a84b99828",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-06813b749b0bdada"
+            ],
+            "draft_excerpt": "在人才交流方面，建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会，以促进区域内专业技术人才的流动与认可。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7da1421a0bd644ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新津区加强与其他重点功能区的协同发展，深化区域合作模式。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-10cbcb40849eb259",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dedc6de3a9f6e3a"
+            ],
+            "draft_excerpt": "与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-59e6c9ce4c095505",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7be4f627ef6c988d"
+            ],
+            "draft_excerpt": "与天府新区签署《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议，旨在通过生态价值转化推动高质量发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-add101da9f107c07",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年以来，新津区通过交通互联互通、跨区域劳务协作及与其他区协同发展，在成渝地区双城经济圈建设中取得阶段性成效。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "新津区在交通互联互通方面重点推进跨市公交线路优化与重大铁路项目推进。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "新津区加强与其他重点功能区的协同发展，深化区域合作模式。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "519c5bc64f405186dda601461c1faeb075200988671f2e036acd19bb5fc09b0e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c765dabdbf68dfbc",
+            "draft_excerpt": "稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9e664c26b664b221",
+            "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-629c96485b437562",
+            "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d3a4a08d2a6709e",
+            "draft_excerpt": "先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-41df11991f215d64",
+            "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-06813b749b0bdada",
+            "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dedc6de3a9f6e3a",
+            "draft_excerpt": "与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7be4f627ef6c988d",
+            "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，新津区围绕交通互联互通、跨区域劳务协作及与其他区协同发展等重点工作，区域合作取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-904ebafbb46957c9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "一是推进交通互联互通合作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c5ce909c75eaad1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c765dabdbf68dfbc"
+            ],
+            "draft_excerpt": "稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fb33e07d9165933a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e664c26b664b221"
+            ],
+            "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-024b4de4f96879d0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-629c96485b437562"
+            ],
+            "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21e2d03b1a4baa15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "二是推动跨区域劳务协作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a2f5a4120ee9e56",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d3a4a08d2a6709e"
+            ],
+            "draft_excerpt": "先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9fdf7f23dc6f1aa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-41df11991f215d64"
+            ],
+            "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1fd2367aa579c86",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-06813b749b0bdada"
+            ],
+            "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-003842066b4efc45",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "三是加强与其他区协同发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef4c53794f9cbe68",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dedc6de3a9f6e3a"
+            ],
+            "draft_excerpt": "与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf566b2f2c61e675",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7be4f627ef6c988d"
+            ],
+            "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e96caf9e7df89aac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年以来，新津区围绕交通互联互通、跨区域劳务协作及与其他区协同发展等重点工作，区域合作取得一定成效。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "一是推进交通互联互通合作。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "二是推动跨区域劳务协作。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "三是加强与其他区协同发展。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "48921659217d5d522a6f70bacd3a5ab5ef9a2a6d420b1445a28c590b7bec229b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c765dabdbf68dfbc",
+            "draft_excerpt": "新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9e664c26b664b221",
+            "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-629c96485b437562",
+            "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d3a4a08d2a6709e",
+            "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-41df11991f215d64",
+            "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-06813b749b0bdada",
+            "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dedc6de3a9f6e3a",
+            "draft_excerpt": "新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7be4f627ef6c988d",
+            "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57c28adc9ae7b21b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c765dabdbf68dfbc"
+            ],
+            "draft_excerpt": "新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fee34e35f9dd61c8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e664c26b664b221"
+            ],
+            "draft_excerpt": "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df96ce40caf4d0c3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-629c96485b437562"
+            ],
+            "draft_excerpt": "川藏铁路项目可研报告已报国家发改委，待批复。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-26de3ee385873cc9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d3a4a08d2a6709e"
+            ],
+            "draft_excerpt": "新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adb4d42e9f77a88a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-41df11991f215d64"
+            ],
+            "draft_excerpt": "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d6e2f5e583961a2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-06813b749b0bdada"
+            ],
+            "draft_excerpt": "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c9822d5b2eece02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dedc6de3a9f6e3a"
+            ],
+            "draft_excerpt": "新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9fecaa438567c8f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7be4f627ef6c988d"
+            ],
+            "draft_excerpt": "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2a0e2b78afa942f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n新津区推进交通互联互通合作，稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；川藏铁路项目可研报告已报国家发改委，待批复。\n\n## 跨区域劳务协作\n\n新津区推动跨区域劳务协作，先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。\n\n## 与其他区协同发展\n\n新津区加强与其他区协同发展，与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。",
+    "description": "新津区推进交通互联互通、跨区域劳务协作及与其他区协同发展，取得多项合作成果。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-7e36702ce5c8",
+      "description": "2020年以来，新津区围绕交通互联互通、跨区域劳务协作及成渝会展合作等重点工作，区域合作取得一定成效。",
+      "document_family_id": "28e2a49e271094505210",
+      "document_version_id": "24023fd3da9de6ac6517",
+      "evidence": [
+        "一是推进交通互联互通合作。稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；",
+        "协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；",
+        "川藏铁路项目可研报告已报国家发改委，待批复。",
+        "二是推动跨区域劳务协作。先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。",
+        "携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。",
+        "建立专业技术人才交流机制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。",
+        "三是加强与其他区协同发展。与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；",
+        "与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。"
+      ],
+      "evidence_block_ids": [
+        "blk-54f52f88de6266959016",
+        "blk-db6e2a077a5ebee01997",
+        "blk-d8e4dacdcf524bcb5afd",
+        "blk-d44cf3159e71c6ca6a3a"
+      ],
+      "page_end": 117,
+      "page_start": 112,
+      "ref_family_hint": "",
+      "ref_version_id": "24023fd3da9de6ac6517",
+      "scope": {},
+      "section_path": [
+        "区（市）县篇"
+      ],
+      "semantic_signature": {},
+      "source": "c4fa936d-bb21-4b09-931b-345720909d3a.md",
+      "title": "新津区区域合作成效",
+      "type": "分析框架"
+    },
+    "title": "新津区区域合作成效"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-da50a5e10418:bundle-bf2193229ef6",
+      "excluded_fragments": [],
+      "ref_id": "ref-da50a5e10418",
+      "source_blocks": [
+        {
+          "block_id": "blk-17ae0f57a99c981e41bf",
+          "page_number": 112,
+          "text": "2020年以来，新津区围绕推进交通互联互通合作、推动跨区域劳务协作、加强与其他区协同发展、参与成渝地区会展产合作发展，区域合作取得一定成效。"
+        },
+        {
+          "block_id": "blk-14710fca91a6bb09100f",
+          "page_number": 117,
+          "text": "取得一定成效。"
+        },
+        {
+          "block_id": "blk-54f52f88de6266959016",
+          "page_number": 112,
+          "text": "一是推进交通互联互通合作。稳定开行彭山区一地铁新平站1条公交线路，并多次会同彭山区交通局研究讨论，对该公交线路走向、开行方案、站点设置等事项进行了优化完善；协同四川天府新区眉山管委会初拟滨江大道北段东线、通江大道合作共建框架协议；川藏铁路项目可研报告已报国家发改委，待批复。"
+        },
+        {
+          "block_id": "blk-db6e2a077a5ebee01997",
+          "page_number": 112,
+          "text": "二是推动跨区域劳务协作。先后与德阳市中江县、眉山市彭山区、德阳市广汉市、眉山市仁寿县人社部门签订了合作协议，共同推进人社事业协同发展。携手四地共开展线上、线下跨区域合作招聘会31场，达就业意向近1000人次。建立专业技术人才交流机"
+        },
+        {
+          "block_id": "blk-d8e4dacdcf524bcb5afd",
+          "page_number": 113,
+          "text": "制，重新调整成都市新津区市政、建筑两专业中（初）级职称评审委员会。"
+        },
+        {
+          "block_id": "blk-d44cf3159e71c6ca6a3a",
+          "page_number": 113,
+          "text": "三是加强与其他区协同发展。与成都高新区签署《产业功能区协同发展战略合作协议》，双方将深化“两地政府+产业功能区+属地企业”三级合作模式；与天府新区签署了《关于促进公园城市生态价值转化打造高质量发展示范区》框架合作协议。"
+        },
+        {
+          "block_id": "blk-1b073b4ab7b44eb279f7",
+          "page_number": 113,
+          "text": "四是参与成渝地区会展产业合作发展。四川天府农博投公司与龙湖嘉悦物业服务有限公司签订《四川天府农博运营服务有限公司合资协议》，双方共同设立合资公司。新津文旅集团与重庆国际博览中心有限公司签订战略合作协议书，围绕会展资源、文旅资源合作等方面开展多领域、多层次的合作。"
+        },
+        {
+          "block_id": "blk-0c9bb63f1909d9f81ab8",
+          "page_number": 113,
+          "text": "下一步，新津区应积极优化跨区域公交线路，加快启动彭山北站—保胜—永兴—地铁10号线新增沿线跨市公交线路的研究；依托成都外国语学校天府校区等优质资源，深化与眉山市在教师资源、教学方式等方面的交流合作；深化“政府+功能区+企业”三级合作模式，做强“数字经济带”“绿色经济带”功能支撑。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-7e36702ce5c8",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-da50a5e10418"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

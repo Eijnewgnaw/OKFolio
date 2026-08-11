@@ -1,0 +1,1205 @@
+{
+  "contract": {
+    "canonical_question": "成都与省内市（州）在教育领域的合作模式、具体举措及成效如何？",
+    "claims": [
+      {
+        "claim": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+        "claim_id": "claim-32016108037902d7",
+        "evidence_block_ids": [
+          "blk-5985d756effb9f264685"
+        ],
+        "evidence_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+        "claim_id": "claim-0b13d8f47370ae51",
+        "evidence_block_ids": [
+          "blk-d17d08c2cf82cb2f1f35"
+        ],
+        "evidence_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {
+          "time": [
+            "2018年底"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+        "claim_id": "claim-d3dcaacd70e06617",
+        "evidence_block_ids": [
+          "blk-d17d08c2cf82cb2f1f35"
+        ],
+        "evidence_excerpt": "2018年高考，175所远端学校397个网班本科上线率达 \\(72.8\\%\\) ，教学质量总体较高",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+        "claim_id": "claim-b0947cd5e70767fd",
+        "evidence_block_ids": [
+          "blk-d17d08c2cf82cb2f1f35"
+        ],
+        "evidence_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+        "claim_id": "claim-6c0a6f96912b5cf0",
+        "evidence_block_ids": [
+          "blk-d17d08c2cf82cb2f1f35"
+        ],
+        "evidence_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项。",
+        "claim_id": "claim-e7b216e37ef26597",
+        "evidence_block_ids": [
+          "blk-57c823a2c3133a64b37e"
+        ],
+        "evidence_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市实验外国语学校雅安校区成功启动建设。",
+        "claim_id": "claim-3d563b19ec10efc0",
+        "evidence_block_ids": [
+          "blk-57c823a2c3133a64b37e"
+        ],
+        "evidence_excerpt": "成都市实验外国语学校雅安校区成功启动建设；",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+        "claim_id": "claim-0b10f061472d53cc",
+        "evidence_block_ids": [
+          "blk-57c823a2c3133a64b37e"
+        ],
+        "evidence_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          101
+        ],
+        "ref_id": "ref-322b4fdee402",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-32016108037902d7",
+          "claim-0b13d8f47370ae51",
+          "claim-d3dcaacd70e06617",
+          "claim-b0947cd5e70767fd",
+          "claim-6c0a6f96912b5cf0",
+          "claim-e7b216e37ef26597",
+          "claim-3d563b19ec10efc0",
+          "claim-0b10f061472d53cc"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+        "reason": "该Bundle包含教育合作的核心事实，涵盖网校辐射、结对帮扶、教师培训、资金人才支持等固定槽位所需的关键信息。"
+      }
+    ],
+    "group_id": "topic-885a302b0100",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了成都通过网校辐射、结对帮扶、教师培训、资金及人才支持等方式，与省内市（州）开展教育合作的全面情况，直接回答中心问题。",
+        "ref_id": "ref-322b4fdee402",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-32016108037902d7",
+        "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0b13d8f47370ae51",
+        "draft_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d3dcaacd70e06617",
+        "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b0947cd5e70767fd",
+        "draft_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6c0a6f96912b5cf0",
+        "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e7b216e37ef26597",
+        "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3d563b19ec10efc0",
+        "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0b10f061472d53cc",
+        "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+        "finding": "The first clause is supported by claim-32016108037902d7, but the second clause '总体来看，中小学校教育、职业教育协同发展全面展开' is a new judgment not present in the contract. Since '",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7a693ed6ebcafe15",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-32016108037902d7"
+        ],
+        "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+        "finding": "Matches claim-32016108037902d7.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7b583e33957c5fbe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0b13d8f47370ae51"
+        ],
+        "draft_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+        "finding": "Matches claim-0b13d8f47370ae51.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-392e725b46eef209",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d3dcaacd70e06617"
+        ],
+        "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+        "finding": "Matches claim-d3dcaacd70e06617.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3e5f7a8bed6a2008",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b0947cd5e70767fd"
+        ],
+        "draft_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+        "finding": "Matches claim-b0947cd5e70767fd.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2c657b998998933b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6c0a6f96912b5cf0"
+        ],
+        "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+        "finding": "Matches claim-6c0a6f96912b5cf0.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-23772116cf5bb31d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e7b216e37ef26597"
+        ],
+        "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+        "finding": "Matches claim-e7b216e37ef26597.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ccb468272b40ca7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3d563b19ec10efc0"
+        ],
+        "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+        "finding": "Matches claim-3d563b19ec10efc0.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3436714388c53d68",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0b10f061472d53cc"
+        ],
+        "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+        "finding": "Matches claim-0b10f061472d53cc.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-474c2e6aa4ca056c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "总体来看，中小学校教育、职业教育协同发展全面展开。",
+        "finding": "This phrase appears in sentence-7a693ed6ebcafe15. It is a generalization not found in the contract."
+      },
+      {
+        "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+        "finding": "The first clause is supported by claim-32016108037902d7, but the second clause '总体来看，中小学校教育、职业教育协同发展全面展开' is a new judgment not present in the contract. Since '"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-32016108037902d7",
+          "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0b13d8f47370ae51",
+          "draft_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d3dcaacd70e06617",
+          "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b0947cd5e70767fd",
+          "draft_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6c0a6f96912b5cf0",
+          "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e7b216e37ef26597",
+          "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3d563b19ec10efc0",
+          "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0b10f061472d53cc",
+          "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+          "finding": "The first clause is supported by claim-32016108037902d7, but the second clause '总体来看，中小学校教育、职业教育协同发展全面展开' is a new judgment not present in the contract. Since '",
+          "sentence_id": "sentence-7a693ed6ebcafe15",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-32016108037902d7"
+          ],
+          "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+          "finding": "Matches claim-32016108037902d7.",
+          "sentence_id": "sentence-7b583e33957c5fbe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0b13d8f47370ae51"
+          ],
+          "draft_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+          "finding": "Matches claim-0b13d8f47370ae51.",
+          "sentence_id": "sentence-392e725b46eef209",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d3dcaacd70e06617"
+          ],
+          "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+          "finding": "Matches claim-d3dcaacd70e06617.",
+          "sentence_id": "sentence-3e5f7a8bed6a2008",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b0947cd5e70767fd"
+          ],
+          "draft_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+          "finding": "Matches claim-b0947cd5e70767fd.",
+          "sentence_id": "sentence-2c657b998998933b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6c0a6f96912b5cf0"
+          ],
+          "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+          "finding": "Matches claim-6c0a6f96912b5cf0.",
+          "sentence_id": "sentence-23772116cf5bb31d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e7b216e37ef26597"
+          ],
+          "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+          "finding": "Matches claim-e7b216e37ef26597.",
+          "sentence_id": "sentence-1ccb468272b40ca7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3d563b19ec10efc0"
+          ],
+          "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+          "finding": "Matches claim-3d563b19ec10efc0.",
+          "sentence_id": "sentence-3436714388c53d68",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0b10f061472d53cc"
+          ],
+          "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+          "finding": "Matches claim-0b10f061472d53cc.",
+          "sentence_id": "sentence-474c2e6aa4ca056c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "总体来看，中小学校教育、职业教育协同发展全面展开。",
+          "finding": "This phrase appears in sentence-7a693ed6ebcafe15. It is a generalization not found in the contract."
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "b3e4bc18699c6a1d925ae6d6aed281ba43c701fdba40bd3c1a7fc2a272566ccd",
+  "coverage_history": [
+    {
+      "draft_sha256": "1bc88d774352bd3ffe6268accfa49367fda00a47cf59db32cfe59af70be11f5b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-32016108037902d7",
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b13d8f47370ae51",
+            "draft_excerpt": "成都七中网校截至2018年底已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3dcaacd70e06617",
+            "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0947cd5e70767fd",
+            "draft_excerpt": "石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c0a6f96912b5cf0",
+            "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e7b216e37ef26597",
+            "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3d563b19ec10efc0",
+            "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b10f061472d53cc",
+            "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过学校共建、教师互培、学生联合培养及资源共享等模式，与省内市（州）开展广泛教育合作，涵盖中小学网校协同教学、高校及名校结对帮扶、职教结对发展及校区建设等多个领域。",
+            "finding": "The sentence contains a summary judgment ('涵盖...等多个领域') that aggregates multiple claims. While the components are supported by other sentences, this specific ph",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-834753fd17ee7f9a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-32016108037902d7"
+            ],
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+            "finding": "Exact match to claim-32016108037902d7.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b583e33957c5fbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "总体来看，中小学校教育、职业教育协同发展全面展开。",
+            "finding": "This is a general summary judgment not explicitly stated in the contract. The contract lists specific cooperation items but does not use this exact phrasing or",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8c2f3371cc60d12",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在中小学教育领域，成都通过网校辐射和“微师培”项目，实现了优质教育资源的跨区域共享与协同教学，显著提升了远端学校的教学质量与教师能力。",
+            "finding": "The claim mentions 'significantly improved' (显著提升了) teaching quality and teacher ability. The contract evidence states 'teaching quality is generally high",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf742eb995fafb61",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b13d8f47370ae51"
+            ],
+            "draft_excerpt": "成都七中网校截至2018年底已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+            "finding": "Exact match to claim-0b13d8f47370ae51.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f7d265c54ffe4dc7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d3dcaacd70e06617"
+            ],
+            "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+            "finding": "Exact match to claim-d3dcaacd70e06617.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa546fdd2d480b7b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0947cd5e70767fd"
+            ],
+            "draft_excerpt": "石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+            "finding": "Exact match to claim-b0947cd5e70767fd.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e8037e48836d927",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c0a6f96912b5cf0"
+            ],
+            "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+            "finding": "Exact match to claim-6c0a6f96912b5cf0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-027176bc46493af9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e7b216e37ef26597"
+            ],
+            "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+            "finding": "Exact match to claim-e7b216e37ef26597.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b40c5ed9492efcf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3d563b19ec10efc0"
+            ],
+            "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+            "finding": "Exact match to claim-3d563b19ec10efc0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c867bf8f9ee78d68",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b10f061472d53cc"
+            ],
+            "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+            "finding": "Exact match to claim-0b10f061472d53cc.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b11208112c22bfee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过学校共建、教师互培、学生联合培养及资源共享等模式，与省内市（州）开展广泛教育合作，涵盖中小学网校协同教学、高校及名校结对帮扶、职教结对发展及校区建设等多个领域。",
+            "finding": "The sentence asserts that the cooperation 'covers' (涵盖) specific domains (primary/secondary network teaching, university/school pairing, vocational pairing, campus construction). While the contract contains evidence for these specific items, the sentence itself is a meta-summary not present in the source text. The source text lists items but does not explicitly state this overarching 'covers' structure."
+          },
+          {
+            "draft_excerpt": "总体来看，中小学校教育、职业教育协同发展全面展开。",
+            "finding": "The phrase '总体来看...全面展开' (Overall, ... fully unfolded) is a summary judgment not found in the contract. The contract lists specific facts but does not make this general concluding statement."
+          },
+          {
+            "draft_excerpt": "在中小学教育领域，成都通过网校辐射和“微师培”项目，实现了优质教育资源的跨区域共享与协同教学，显著提升了远端学校的教学质量与教师能力。",
+            "finding": "The claim 'significantly improved' (显著提升了) teaching quality and teacher ability is an inference. The contract evidence states 'teaching quality is generally high' (教学质量总体较高) and mentions 'collaborative teaching' (协同教学), but does not explicitly state that the quality was 'significantly improved' as a result, nor does it explicitly state teacher ability was 'significantly improved' (though it implies benefit). This is a stronger claim than the evidence supports."
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "7825a8e56f0d95b2815bf05a01ccac0c77ce31abbf935cd7a2fdeaf44b3c3598",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-32016108037902d7",
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b13d8f47370ae51",
+            "draft_excerpt": "成都七中网校截至2018年底已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3dcaacd70e06617",
+            "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0947cd5e70767fd",
+            "draft_excerpt": "石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c0a6f96912b5cf0",
+            "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e7b216e37ef26597",
+            "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3d563b19ec10efc0",
+            "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b10f061472d53cc",
+            "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，涵盖中小学网校协同教学、高校及名校合作、职教结对发展及校区建设等具体事项。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c8ec524107af243",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-32016108037902d7"
+            ],
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b583e33957c5fbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在中小学教育领域，成都通过网校辐射和“微师培”项目，实现了优质教育资源的跨区域共享与协同教学。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3b6d2cf974906ebe",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，在蓉高校及知名中学与省内三市一州开展了教育合作事项，并启动校区建设。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3fc12540c90abeab",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "职业技术学校与巴中市学校达成结对发展共识，共同推进现代职业教育体系建设。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36c1896f40de1a7e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b13d8f47370ae51"
+            ],
+            "draft_excerpt": "成都七中网校截至2018年底已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37293f46d22ab3b6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d3dcaacd70e06617"
+            ],
+            "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-432d203285e5efec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0947cd5e70767fd"
+            ],
+            "draft_excerpt": "石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6409be2306d277d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c0a6f96912b5cf0"
+            ],
+            "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d9fbd97f9394b297",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e7b216e37ef26597"
+            ],
+            "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7712ce23dd42080",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3d563b19ec10efc0"
+            ],
+            "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0cb2f39607782891",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b10f061472d53cc"
+            ],
+            "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd724e940a8c84c5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，涵盖中小学网校协同教学、高校及名校合作、职教结对发展及校区建设等具体事项。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在中小学教育领域，成都通过网校辐射和“微师培”项目，实现了优质教育资源的跨区域共享与协同教学。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018年，在蓉高校及知名中学与省内三市一州开展了教育合作事项，并启动校区建设。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "职业技术学校与巴中市学校达成结对发展共识，共同推进现代职业教育体系建设。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "b3e4bc18699c6a1d925ae6d6aed281ba43c701fdba40bd3c1a7fc2a272566ccd",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-32016108037902d7",
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b13d8f47370ae51",
+            "draft_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3dcaacd70e06617",
+            "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b0947cd5e70767fd",
+            "draft_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c0a6f96912b5cf0",
+            "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e7b216e37ef26597",
+            "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3d563b19ec10efc0",
+            "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0b10f061472d53cc",
+            "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+            "finding": "The first clause is supported by claim-32016108037902d7, but the second clause '总体来看，中小学校教育、职业教育协同发展全面展开' is a new judgment not present in the contract. Since '",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a693ed6ebcafe15",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-32016108037902d7"
+            ],
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。",
+            "finding": "Matches claim-32016108037902d7.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b583e33957c5fbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b13d8f47370ae51"
+            ],
+            "draft_excerpt": "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+            "finding": "Matches claim-0b13d8f47370ae51.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-392e725b46eef209",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d3dcaacd70e06617"
+            ],
+            "draft_excerpt": "2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。",
+            "finding": "Matches claim-d3dcaacd70e06617.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e5f7a8bed6a2008",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b0947cd5e70767fd"
+            ],
+            "draft_excerpt": "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+            "finding": "Matches claim-b0947cd5e70767fd.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c657b998998933b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c0a6f96912b5cf0"
+            ],
+            "draft_excerpt": "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+            "finding": "Matches claim-6c0a6f96912b5cf0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-23772116cf5bb31d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e7b216e37ef26597"
+            ],
+            "draft_excerpt": "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+            "finding": "Matches claim-e7b216e37ef26597.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ccb468272b40ca7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3d563b19ec10efc0"
+            ],
+            "draft_excerpt": "成都市实验外国语学校雅安校区成功启动建设。",
+            "finding": "Matches claim-3d563b19ec10efc0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3436714388c53d68",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0b10f061472d53cc"
+            ],
+            "draft_excerpt": "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+            "finding": "Matches claim-0b10f061472d53cc.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-474c2e6aa4ca056c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "总体来看，中小学校教育、职业教育协同发展全面展开。",
+            "finding": "This phrase appears in sentence-7a693ed6ebcafe15. It is a generalization not found in the contract."
+          },
+          {
+            "draft_excerpt": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+            "finding": "The first clause is supported by claim-32016108037902d7, but the second clause '总体来看，中小学校教育、职业教育协同发展全面展开' is a new judgment not present in the contract. Since '"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作。\n\n截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。2018年高考，175所远端学校397个网班本科上线率达72.8%，教学质量总体较高。\n\n目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。\n\n2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；成都市实验外国语学校雅安校区成功启动建设。\n\n此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。",
+    "description": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+    "ref": {
+      "asset_hints": [
+        "image-030"
+      ],
+      "concept_id": "topic-885a302b0100",
+      "description": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开。",
+      "document_family_id": "f353dfc112f22e17c2b7",
+      "document_version_id": "fcee9cbb197cd052e115",
+      "evidence": [
+        "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作",
+        "截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。",
+        "2018年高考，175所远端学校397个网班本科上线率达 \\(72.8\\%\\) ，教学质量总体较高",
+        "目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。",
+        "“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。",
+        "2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；",
+        "成都市实验外国语学校雅安校区成功启动建设；",
+        "此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。"
+      ],
+      "evidence_block_ids": [
+        "blk-5985d756effb9f264685",
+        "blk-d17d08c2cf82cb2f1f35",
+        "blk-57c823a2c3133a64b37e"
+      ],
+      "page_end": 122,
+      "page_start": 101,
+      "ref_family_hint": "",
+      "ref_version_id": "fcee9cbb197cd052e115",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "fa5174b5-f9a4-407e-9eb9-86d93f14eb0a.md",
+      "title": "成都跨区域教育合作领域与模式",
+      "type": "分析框架"
+    },
+    "title": "成都跨区域教育合作领域与模式"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-322b4fdee402:bundle-548a877d1f6e",
+      "excluded_fragments": [],
+      "ref_id": "ref-322b4fdee402",
+      "source_blocks": [
+        {
+          "block_id": "blk-5985d756effb9f264685",
+          "page_number": 101,
+          "text": "成都以学校共建、教师互培、学生联合培养、教育资源共享等为抓手，与省内市（州）开展了广泛的教育合作，总体来看，中小学校教育、职业教育协同发展全面展开，学校间交流频繁、结对关系稳固，教育协同发展不断向多领域深层次迈进。"
+        },
+        {
+          "block_id": "blk-d17d08c2cf82cb2f1f35",
+          "page_number": 101,
+          "text": "以成都七中网校、石室祥云等网校为载体，成都大力推广省内应用“微师培”“数字学校”“乐培生”等优质教育资源，推动四川薄弱地区学校教学资源质量提高。截至2018年底，成都七中网校已辐射到成都平原、川南、川东北、攀西、川西五大经济区512所学校、3662个班级，7000多名远端学校的教师与成都七中教师开展全日制协同教学。2018年高考，175所远端学校397个网班本科上线率达 \\(72.8\\%\\) ，教学质量总体较高。目前，石室祥云网校覆盖四川省18个市（州），共有近600个教学班，惠及远端授课教师2200余名，受益学生达30000余名。“微师培”项目已辐射到广元市、雅安市、宜宾市、攀枝花市，用户数突破7000人。"
+        },
+        {
+          "block_id": "blk-57c823a2c3133a64b37e",
+          "page_number": 101,
+          "text": "发挥成都教育名校优势，成都积极鼓励在蓉学校与省内教育薄弱地区学校结对发展，推动当地学校办学能力提高。2018年，西华大学、成都师范学院等在蓉高校以及石室中学、成都七中、树德中学、成都三中等在蓉知名中学与省内三市一州开展了教育合作事项；成都市实验外国语学校雅安校区成功启动建设；此外，财贸职中、礼仪职业学校等职业技术学校与巴中市的南江小河职业学校等学校达成了结对发展共识，将通过专业共建、对口帮扶、联合办学等方式，共同推进现代职业教育体系建设。"
+        },
+        {
+          "block_id": "blk-8d430f02323f4bd14230",
+          "page_number": 102,
+          "text": "原始 PDF 第 102 页图片"
+        },
+        {
+          "block_id": "blk-0499e2604686b782e86b",
+          "page_number": 102,
+          "text": "图6-1 成都市实验外国语学校雅安校区"
+        },
+        {
+          "block_id": "blk-23f31ecf0973b376fb36",
+          "page_number": 102,
+          "text": "成都积极对接省内兄弟市州，联合开展干部教师培训交流，推动省内教师教育教学向更高水平迈进。2018年，成都主动推动区（市）县与德阳、遂宁、雅安、资阳、攀枝花等市的区（市）县深化对口学校教师之间的交流互访和培训合作；市级教师培训向甘孜、阿坝、凉山、德阳、遂宁、资阳等地开放，各地根据需求选派部分骨干教师参加。成都承担了62名深度贫困县紧缺教育人才的培养工作，根据培养对象提出的需求意向，安排到成都各知名学校及直属直管单位，并配备专业导师进行一对一培养三个月。接受遂宁等地50余名教师到成都学校跟岗培训。另外，成都市教育局还组织实施“名师好课”送教活动走进巴中、攀枝花、甘孜等地，2018年超过70名成都名师工作室领衔人、成都市未来教育家培养对象、全国赛课一等奖等教育专家参与送教活动。"
+        },
+        {
+          "block_id": "blk-d3f6bc9d528b392d30d1",
+          "page_number": 102,
+          "text": "承担成都首位城市功能，成都制定和实施《关于2018年帮扶民族地区教育发展的工作方案》，加大对省内市州教育帮扶力度。学校结对方面，2017年以来，成都市教育系统在县对县对口帮扶的基础上，采取深度对口帮扶的方式，组织22个区（市）县458所中小学（幼儿园）与甘孜、阿坝、凉山州20个县（市）477所校（园）建立“校对校”结对帮扶关系，占全省帮扶结对学校总数的 \\(40\\%\\) ，并形成了“统筹规划、分层结对、梯次推进、"
+        },
+        {
+          "block_id": "blk-00f856ac05dee92c4c7d",
+          "page_number": 103,
+          "text": "考核通报”工作机制。资金支持方面，2018年，全市对口帮扶区（市）县行政部门和结对学校捐赠物资折合人民币1211.5万元，资金支持300多万元。成都市教育局2014—2018年安排专项资金450万元支持甘孜州教育信息化建设。此外，2018年，成都还选派290名优秀干部教师赴民族地区支教，帮扶1024名藏区“\\(9+3\\)”学生就业。"
+        },
+        {
+          "block_id": "blk-a7ff029f934eba45975b",
+          "page_number": 103,
+          "text": "成都与省内市（州）医疗卫生领域合作进一步加强，医疗卫生协同水平明显提高，合作领域不断深化，在加强基本医疗服务合作的基础上，疾病防控、卫生应急、学科建设等领域的合作逐渐加强。"
+        },
+        {
+          "block_id": "blk-b1c4e30579004b467822",
+          "page_number": 103,
+          "text": "2018年，成都与环成都经济圈7市卫健部门确立了联系机制，就建立双向转诊制度、远程医疗、检验检查结果互认、医联体建设、开放各类医疗卫生专家库、医师多机构执业、互联网诊疗、血液应急保障机制、引导建设医养综合体等相关事项进行对接；成都市第三人民医院、成都市第四人民医院、成都市医学鉴定所分别与雅安市人民医院、雅安市第四人民医院、雅安医学鉴定所签订了合作协议；成都市第二人民医院、成都市第三人民医院等成都市医疗机构赴甘孜、阿坝等省内市（州）开展了医疗卫生援建工作。"
+        },
+        {
+          "block_id": "blk-cba9aba374ba24751a65",
+          "page_number": 103,
+          "text": "2018年，成都市卫健委邀请广元市第一人民医院、市中医医院等医院与成都市第三人民医院、成都市公共卫生临床医疗中心等医疗机构交流学习，支持广元培育8个市级重点专科建设；邀请川东北经济区市（州）卫健委派员参加成都市死亡评审培训和孕产妇危重症评审培训会；安排广元市卫生专业技术人员和管理人员进修学习，成都市第二人民医院、成都市第三人民医院、成都市第四人民医院等7家医院分期分批完成进修接待任务。此外，成都市卫生计生人才服务中心与德阳市卫健委就职称评审及人才管理工作进行了座谈交流，双方同意在促进人才队伍资源共享、推进人才队伍建设方面展开合作。"
+        },
+        {
+          "block_id": "blk-1cc0b3efafe403658b01",
+          "page_number": 103,
+          "text": "2018年，成都疾控中心每季度向德阳、绵阳、遂宁、乐山、雅安、眉山、资阳等市疾控主管部门寄送《成都疾控信息》，互通疾控工作信息；会同成都经济区各市建立了重大传染病防控协同机制，推动建立艾滋病防治工作联席会议、信息互通、随访治疗转介等工作机制；会同环成都经济圈7市定期召开区域精神卫生中心工作经验交流会，推进成都与眉山、雅安等地精神卫生工作交流合作。"
+        },
+        {
+          "block_id": "blk-9b5b9d85d0f1570a4b5d",
+          "page_number": 104,
+          "text": "2018年，成都市卫健委与环成都经济圈7市卫健委签订了《卫生应急合作备忘录》，每月向绵阳、遂宁、乐山、雅安、眉山、资阳市卫健委通报“突发公共卫生事件风险评估信息”；主动邀请环成都经济圈7市卫健委参加“成都市危险化学品安全事故卫生应急骨干实际操作培训及情景演练”的培训班；成都市向省内市（州）卫健委邮寄、赠送了《成都市卫生应急文件资料选编（医疗急救分册）》《成都市社区应急响应现场操作指南》等资料。"
+        },
+        {
+          "block_id": "blk-963272f5939a8ab0100b",
+          "page_number": 104,
+          "text": "成都与省内市（州）积极推动就业和社会保障协同发展。就业合作惠及人群数量明显增加，就业信息互联共享更加通畅；社会保障协同发展进入新阶段，社会保险异地办理结算工作机制总体成熟完善，异地办理医疗保险、养老保险人次逐年显著上升，社会保障协同发展水平明显提高。"
+        },
+        {
+          "block_id": "blk-1a4c6108ffa30bc40433",
+          "page_number": 104,
+          "text": "成都通过协同开展异地就业专场招聘会、实施失业保险待遇异地发放等措施，加强与省内市（州）就业及用工合作，在共建就业市场、共享就业信息、人才服务协同等方面取得了显著成效。共建就业市场方面，利用成都市“就业巡回招聘活动”等招聘平台，联动做好就业招聘服务工作；以“春风行动”为契机，深入藏区、广安、巴中等地举办就业扶贫专场招聘会、就业帮扶进革命老区等活动。2018年，组织全市所有区（市）县赴藏区开展就业扶贫专场招聘会37场，参加企业达674家。共享就业信息方面，2018年，成都市人才网已实现与国内32家区域性、主要大城市人才网站进行链接，成都平原经济区8市人才板块均在首页显示。人才服务协同方面，成都已建成中国成都人力资源服务产业园，建立了人事代理和人才派遣业务协调联络机制，为区域内人才供需双方提供了方便快捷的人事公共服务平台。职业培训方面，成都组织开展了数字职业技能培训，注册用户达14.8万人，2018年度访问量超过230万次。"
+        },
+        {
+          "block_id": "blk-98a2bd6553eb7dc46b15",
+          "page_number": 122,
+          "text": "著成效。"
+        },
+        {
+          "block_id": "blk-8d014893013b6ae3a306",
+          "page_number": 104,
+          "text": "成都主动在社会保险办理、医保异地结算、骗保异地协查、社保信息化建设等方面加强与省内市（州）的合作，取得一定成效。社会保险办理方面，2018年，成都会同省内市（州）签订《医疗保险委托受理报销经办流程合作协议》和《医疗保险异地就医违规协查合作协议》，实现区域内医药机构“两定”互认，并将其医疗服务行为纳入本地经办机构考核监管范围，共享互认“两定”机构名单和违约处理信息；建立区域医疗保险关系转移"
+        },
+        {
+          "block_id": "blk-e88076e1a4e2bfd40258",
+          "page_number": 105,
+          "text": "接续工作规程，实现医疗保险关系经办无障碍转移。医保异地结算方面，成都通过拓展认证渠道，增设认证网点，实施异地联网认证便民服务，推进医疗保险参保人员异地就医即时联网结算，2018年，成都市办理省内异地认证27.1万人次，全年办结职工基本养老保险关系转移接续手续10.9万人次，全市有482家定点医疗机构实现办理异地就医即时结算业务，省内异地就医结算人数达22.6万人次。社保异地协查方面，2018年成都累计协助办理异地社保协查案件148件，核查重复领取养老保险待遇0.5万人次，开展医疗机构违规异地协查31件。社会保障信息化建设方面，2018年，成都建立区域内人社信息共享交换平台，实现实体大厅、网上经办大厅、自助服务终端、移动服务终端“四位一体”协同发展，切实强化异地服务信息化支撑和保障。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-885a302b0100",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-322b4fdee402"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,1779 @@
+{
+  "contract": {
+    "canonical_question": "成都为建设对外交往中心采取了哪些主要举措？",
+    "claims": [
+      {
+        "claim": "奋力打造国际会展名城，改善硬件设施并加快推进中国西部国际博览城建设。",
+        "claim_id": "claim-f2eabf240e5dda48",
+        "evidence_block_ids": [
+          "blk-ed56edd4bee5952c1e28",
+          "blk-0511fb751134cc382668"
+        ],
+        "evidence_excerpt": "一是奋力打造国际会展名城。充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          74,
+          75
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快世界旅游目的地城市建设，编制旅游规划并出台促进政策与修订促进条例。",
+        "claim_id": "claim-24692a2367d4bb6a",
+        "evidence_block_ids": [
+          "blk-1b61efe064ef1489882d"
+        ],
+        "evidence_excerpt": "二是加快世界旅游目的地城市建设。编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          76
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "创新世界赛事名城建设，出台行动计划并引进创办国际国内重大体育赛事。",
+        "claim_id": "claim-2aa3071f0ee47f7f",
+        "evidence_block_ids": [
+          "blk-6025100a830a4df25498"
+        ],
+        "evidence_excerpt": "三是创新世界赛事名城建设。出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          76
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加强国际美食之都建设，出台川菜产业发展实施意见并推动建立海外推广中心。",
+        "claim_id": "claim-e93d3e56b4b82826",
+        "evidence_block_ids": [
+          "blk-57ff60839c2783c4adae"
+        ],
+        "evidence_excerpt": "四是加强国际美食之都建设。出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "围绕重大事件增强对外宣传，协调境内外主流媒体刊发报道并举办专题新闻发布会。",
+        "claim_id": "claim-92f73ca1372fb565",
+        "evidence_block_ids": [
+          "blk-078ee1513c0029c0ba88"
+        ],
+        "evidence_excerpt": "一是围绕重大事件和活动，增强对外宣传。协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧 \\(+\\) ”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "策划开展与“一带一路”沿线国家互访交流活动，组织跨境采访及境外路演活动。",
+        "claim_id": "claim-1f473539fb51f613",
+        "evidence_block_ids": [
+          "blk-3a08172e74ae2188ccd3"
+        ],
+        "evidence_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "组建国际顾问团，邀请国际知名企业高层人士担任顾问并成立市政府国际咨询顾问团。",
+        "claim_id": "claim-2271aba00abce58c",
+        "evidence_block_ids": [
+          "blk-c5486c9865f24cb4ed64"
+        ],
+        "evidence_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "着力推进“家在成都”工程，建立外国公民应急联络机制并设立市长热线英语坐席。",
+        "claim_id": "claim-32218968d20b8bbb",
+        "evidence_block_ids": [
+          "blk-c4cf30f811af59b8df5c"
+        ],
+        "evidence_excerpt": "二是着力推进“家在成都”工程。外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-a390039861e9",
+        "scope": {},
+        "slot": "measure",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f2eabf240e5dda48",
+          "claim-24692a2367d4bb6a",
+          "claim-2aa3071f0ee47f7f",
+          "claim-e93d3e56b4b82826",
+          "claim-92f73ca1372fb565",
+          "claim-1f473539fb51f613",
+          "claim-2271aba00abce58c",
+          "claim-32218968d20b8bbb"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+        "reason": "该证据单元完整列出了成都打造会展名城、旅游目的地城市、赛事名城、美食之都及加强对外宣传、互访交流、顾问团、领馆区、外籍服务与宽带建设等八项核心政策举措，直接构成回答中心问题的义务事实。"
+      }
+    ],
+    "group_id": "proposition-5b694b506d23",
+    "members": [
+      {
+        "contribution": "该证据单元完整列出了成都打造会展名城、旅游目的地城市、赛事名城、美食之都及加强对外宣传、互访交流、顾问团、领馆区、外籍服务与宽带建设等八项核心政策举措，直接构成回答中心问题的义务事实。",
+        "ref_id": "ref-a390039861e9",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-f2eabf240e5dda48",
+        "draft_excerpt": "一是奋力打造国际会展名城。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-24692a2367d4bb6a",
+        "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2aa3071f0ee47f7f",
+        "draft_excerpt": "三是创新世界赛事名城建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e93d3e56b4b82826",
+        "draft_excerpt": "四是加强国际美食之都建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1f473539fb51f613",
+        "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2271aba00abce58c",
+        "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-32218968d20b8bbb",
+        "draft_excerpt": "四是着力推进“家在成都”工程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-92f73ca1372fb565",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c1e49ad2a6f8d234",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-f2eabf240e5dda48"
+        ],
+        "draft_excerpt": "一是奋力打造国际会展名城。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-18c1c04de9c9566a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f2eabf240e5dda48"
+        ],
+        "draft_excerpt": "充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-df3d0ba075d55d48",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f2eabf240e5dda48"
+        ],
+        "draft_excerpt": "进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dfb2f26b6dadfd9a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-24692a2367d4bb6a"
+        ],
+        "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7b20b7e6b41fa054",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-24692a2367d4bb6a"
+        ],
+        "draft_excerpt": "编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-00a6b573465995d7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2aa3071f0ee47f7f"
+        ],
+        "draft_excerpt": "三是创新世界赛事名城建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-064fa29509156308",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2aa3071f0ee47f7f"
+        ],
+        "draft_excerpt": "出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9e9e4f2169effd38",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e93d3e56b4b82826"
+        ],
+        "draft_excerpt": "四是加强国际美食之都建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-20dabcd00a8ccc13",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e93d3e56b4b82826"
+        ],
+        "draft_excerpt": "出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5468fa0352951a45",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-92f73ca1372fb565"
+        ],
+        "draft_excerpt": "一是围绕重大事件和活动，增强对外宣传。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b2175753e6bb285f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-92f73ca1372fb565"
+        ],
+        "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e6ec21c4462df982",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f473539fb51f613"
+        ],
+        "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6b6077136eabd572",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f473539fb51f613"
+        ],
+        "draft_excerpt": "组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-045fa137e2ae1af5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f473539fb51f613"
+        ],
+        "draft_excerpt": "在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ce8c02ffe15d29a3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2271aba00abce58c"
+        ],
+        "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-add6a285dee5ec81",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2271aba00abce58c"
+        ],
+        "draft_excerpt": "邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1a13c1902fec6a92",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2271aba00abce58c"
+        ],
+        "draft_excerpt": "组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4177aca5b0f74fbe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-32218968d20b8bbb"
+        ],
+        "draft_excerpt": "四是着力推进“家在成都”工程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-007b15ff2e0a08b2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-32218968d20b8bbb"
+        ],
+        "draft_excerpt": "外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-84817c2ba6e75386",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+        "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f2eabf240e5dda48",
+          "draft_excerpt": "一是奋力打造国际会展名城。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-24692a2367d4bb6a",
+          "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2aa3071f0ee47f7f",
+          "draft_excerpt": "三是创新世界赛事名城建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e93d3e56b4b82826",
+          "draft_excerpt": "四是加强国际美食之都建设。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-c1e49ad2a6f8d234",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-f2eabf240e5dda48"
+          ],
+          "draft_excerpt": "一是奋力打造国际会展名城。",
+          "finding": "supported",
+          "sentence_id": "sentence-18c1c04de9c9566a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f2eabf240e5dda48"
+          ],
+          "draft_excerpt": "充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。",
+          "finding": "supported",
+          "sentence_id": "sentence-df3d0ba075d55d48",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f2eabf240e5dda48"
+          ],
+          "draft_excerpt": "进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。",
+          "finding": "supported",
+          "sentence_id": "sentence-dfb2f26b6dadfd9a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-24692a2367d4bb6a"
+          ],
+          "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-7b20b7e6b41fa054",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-24692a2367d4bb6a"
+          ],
+          "draft_excerpt": "编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。",
+          "finding": "supported",
+          "sentence_id": "sentence-00a6b573465995d7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2aa3071f0ee47f7f"
+          ],
+          "draft_excerpt": "三是创新世界赛事名城建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-064fa29509156308",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2aa3071f0ee47f7f"
+          ],
+          "draft_excerpt": "出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。",
+          "finding": "supported",
+          "sentence_id": "sentence-9e9e4f2169effd38",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e93d3e56b4b82826"
+          ],
+          "draft_excerpt": "四是加强国际美食之都建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-20dabcd00a8ccc13",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e93d3e56b4b82826"
+          ],
+          "draft_excerpt": "出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。",
+          "finding": "supported",
+          "sentence_id": "sentence-5468fa0352951a45",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-92f73ca1372fb565"
+          ],
+          "draft_excerpt": "一是围绕重大事件和活动，增强对外宣传。",
+          "finding": "supported",
+          "sentence_id": "sentence-b2175753e6bb285f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-92f73ca1372fb565"
+          ],
+          "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+          "finding": "supported",
+          "sentence_id": "sentence-e6ec21c4462df982",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-1f473539fb51f613",
+          "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2271aba00abce58c",
+          "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-32218968d20b8bbb",
+          "draft_excerpt": "四是着力推进“家在成都”工程。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1f473539fb51f613"
+          ],
+          "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+          "finding": "supported",
+          "sentence_id": "sentence-6b6077136eabd572",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f473539fb51f613"
+          ],
+          "draft_excerpt": "组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。",
+          "finding": "supported",
+          "sentence_id": "sentence-045fa137e2ae1af5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f473539fb51f613"
+          ],
+          "draft_excerpt": "在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。",
+          "finding": "supported",
+          "sentence_id": "sentence-ce8c02ffe15d29a3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2271aba00abce58c"
+          ],
+          "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+          "finding": "supported",
+          "sentence_id": "sentence-add6a285dee5ec81",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2271aba00abce58c"
+          ],
+          "draft_excerpt": "邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。",
+          "finding": "supported",
+          "sentence_id": "sentence-1a13c1902fec6a92",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2271aba00abce58c"
+          ],
+          "draft_excerpt": "组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。",
+          "finding": "supported",
+          "sentence_id": "sentence-4177aca5b0f74fbe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-32218968d20b8bbb"
+          ],
+          "draft_excerpt": "四是着力推进“家在成都”工程。",
+          "finding": "supported",
+          "sentence_id": "sentence-007b15ff2e0a08b2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-32218968d20b8bbb"
+          ],
+          "draft_excerpt": "外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。",
+          "finding": "supported",
+          "sentence_id": "sentence-84817c2ba6e75386",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "a7704f215af2a47cc0030a304dbece5c45da0ea8a294cadbccacd65f11ff2697",
+  "coverage_history": [
+    {
+      "draft_sha256": "f8bf44c5a92a6784bab1f918c311746c3c277b07760c638a7d9c84d2ec46dfda",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f2eabf240e5dda48",
+            "draft_excerpt": "在会展方面，成都致力于打造国际会展名城，通过改善硬件设施、推进“一市两馆”格局形成以及强化与国际会展公司合作，鼓励展会通过UFI和ICCA认证。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24692a2367d4bb6a",
+            "draft_excerpt": "在旅游方面，成都加快世界旅游目的地城市建设，编制《成都市旅游业发展2025规划纲要》并修订施行《成都市旅游业促进条例》，推进全域旅游示范区创建及绿色旅游标准认证，重点打造平乐古镇－天台山等5A级景区和国家级旅游度假区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2aa3071f0ee47f7f",
+            "draft_excerpt": "在赛事方面，成都创新世界赛事名城建设，出台《国际赛事名城行动计划》，2016年共举办15项国际体育赛事，成功引进世界国际象棋联合会女子大奖赛等国际重大赛事并申办多项2017年国际赛事。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e93d3e56b4b82826",
+            "draft_excerpt": "在美食方面，成都加强国际美食之都建设，推动建立“川菜海外推广中心”，制定“全球精选川菜餐厅”标准，并探索建立“川菜产业化和国际化协同创新中心”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92f73ca1372fb565",
+            "draft_excerpt": "在对外营销方面，成都围绕重大事件增强宣传，协调境内外主流媒体刊发报道1000余条，并策划开展与“一带一路”沿线国家的互访交流活动，如在哈萨克斯坦、德国、波兰及日韩等地举办路演和媒体采访活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f473539fb51f613",
+            "draft_excerpt": "在对外营销方面，成都围绕重大事件增强宣传，协调境内外主流媒体刊发报道1000余条，并策划开展与“一带一路”沿线国家的互访交流活动，如在哈萨克斯坦、德国、波兰及日韩等地举办路演和媒体采访活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2271aba00abce58c",
+            "draft_excerpt": "此外，成都组建市政府国际咨询顾问团，邀请28名国际知名企业高层担任顾问，为“加快推进国家中心城市建设”建言献策。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32218968d20b8bbb",
+            "draft_excerpt": "同时，成都着力推进“家在成都”工程，设立涉外法律援助工作站和外国人志愿者服务队，发布外籍人士办事指南，完成“通借通还”借阅系统和涉外自助公证系统建设。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48",
+              "claim-24692a2367d4bb6a",
+              "claim-2aa3071f0ee47f7f",
+              "claim-e93d3e56b4b82826",
+              "claim-92f73ca1372fb565",
+              "claim-1f473539fb51f613",
+              "claim-2271aba00abce58c",
+              "claim-32218968d20b8bbb"
+            ],
+            "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外营销与优化开放环境，系统推进对外交往中心建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c58dcf452b716215",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都建设对外交往中心的首要任务是加强品牌建设以提升国际竞争力，具体围绕会展、旅游、赛事与美食四大领域展开。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-60d0bf445a22eb17",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "在会展方面，成都致力于打造国际会展名城，通过改善硬件设施、推进“一市两馆”格局形成以及强化与国际会展公司合作，鼓励展会通过UFI和ICCA认证。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d64b3844ffbcb76",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24692a2367d4bb6a"
+            ],
+            "draft_excerpt": "在旅游方面，成都加快世界旅游目的地城市建设，编制《成都市旅游业发展2025规划纲要》并修订施行《成都市旅游业促进条例》，推进全域旅游示范区创建及绿色旅游标准认证，重点打造平乐古镇－天台山等5A级景区和国家级旅游度假区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-668eaec92b5e1556",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2aa3071f0ee47f7f"
+            ],
+            "draft_excerpt": "在赛事方面，成都创新世界赛事名城建设，出台《国际赛事名城行动计划》，2016年共举办15项国际体育赛事，成功引进世界国际象棋联合会女子大奖赛等国际重大赛事并申办多项2017年国际赛事。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c999e9a9912869a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e93d3e56b4b82826"
+            ],
+            "draft_excerpt": "在美食方面，成都加强国际美食之都建设，推动建立“川菜海外推广中心”，制定“全球精选川菜餐厅”标准，并探索建立“川菜产业化和国际化协同创新中心”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c3e227e5bd7a8360",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "上述举措构成了成都对外交往中心建设的核心内容，通过制度保障、硬件提升和国际合作，系统性地提升了城市的国际影响力和竞争力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b9c73c6469fa0f9c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "为支撑四大品牌建设，成都同步加强城市对外营销与开放环境优化。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f3f8fc2a39d1a51e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f73ca1372fb565",
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "在对外营销方面，成都围绕重大事件增强宣传，协调境内外主流媒体刊发报道1000余条，并策划开展与“一带一路”沿线国家的互访交流活动，如在哈萨克斯坦、德国、波兰及日韩等地举办路演和媒体采访活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f0fd34d03c92cc1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "此外，成都组建市政府国际咨询顾问团，邀请28名国际知名企业高层担任顾问，为“加快推进国家中心城市建设”建言献策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bcba6d3e4cbc5ef1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在开放环境方面，成都系统推进领馆区建设，并在135个派出所开通出入境证件受理点，总数达171个，居全国第一。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7589bdd607825c4a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-32218968d20b8bbb"
+            ],
+            "draft_excerpt": "同时，成都着力推进“家在成都”工程，设立涉外法律援助工作站和外国人志愿者服务队，发布外籍人士办事指南，完成“通借通还”借阅系统和涉外自助公证系统建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b35d14ff677ebf1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "此外，成都加快建设“宽带”中国，4G网络城乡综合覆盖率超过95%，互联网骨干直联点带宽达到420G，并推进国家下一代互联网示范城市及“智慧城市”建设。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c72fda80e2cc2354",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "2016年成都举办G20财长和央行行长会议、第十六届中国西部国际博览会等国际性会展活动",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e6b076d2be02449",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2aa3071f0ee47f7f"
+            ],
+            "draft_excerpt": "成都成功引进世界国际象棋联合会女子大奖赛、国际篮联3×3成都挑战赛等国际重大体育赛事",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-79f5c303d9d14887",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f73ca1372fb565"
+            ],
+            "draft_excerpt": "协调《人民日报》、新华社等境内外主流媒体刊发报道1000余条，举办专题新闻发布会40场",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dcf6cc69dc9194b0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在135个有条件的派出所开通出入境证件受理点，全市出入境证件受理点达171个",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12301154f9fd4eed",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "4G网络城乡综合覆盖率超过95%，互联网骨干直联点带宽达到420G",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d810ee1142125f0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都建设对外交往中心的首要任务是加强品牌建设以提升国际竞争力，具体围绕会展、旅游、赛事与美食四大领域展开。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "上述举措构成了成都对外交往中心建设的核心内容，通过制度保障、硬件提升和国际合作，系统性地提升了城市的国际影响力和竞争力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "为支撑四大品牌建设，成都同步加强城市对外营销与开放环境优化。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在开放环境方面，成都系统推进领馆区建设，并在135个派出所开通出入境证件受理点，总数达171个，居全国第一。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "此外，成都加快建设“宽带”中国，4G网络城乡综合覆盖率超过95%，互联网骨干直联点带宽达到420G，并推进国家下一代互联网示范城市及“智慧城市”建设。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在135个有条件的派出所开通出入境证件受理点，全市出入境证件受理点达171个",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "4G网络城乡综合覆盖率超过95%，互联网骨干直联点带宽达到420G",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2017年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "135",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "171",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "4",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "95%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "420",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "20",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "18081abd5362a8a944fd15b4a19f1f6c263f1dafd7281f4bad440fa371545deb",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f2eabf240e5dda48",
+            "draft_excerpt": "一是奋力打造国际会展名城。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24692a2367d4bb6a",
+            "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2aa3071f0ee47f7f",
+            "draft_excerpt": "三是创新世界赛事名城建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e93d3e56b4b82826",
+            "draft_excerpt": "四是加强国际美食之都建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f473539fb51f613",
+            "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2271aba00abce58c",
+            "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32218968d20b8bbb",
+            "draft_excerpt": "四是着力推进“家在成都”工程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92f73ca1372fb565",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c1e49ad2a6f8d234",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "一是奋力打造国际会展名城。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18c1c04de9c9566a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df3d0ba075d55d48",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfb2f26b6dadfd9a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24692a2367d4bb6a"
+            ],
+            "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b20b7e6b41fa054",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24692a2367d4bb6a"
+            ],
+            "draft_excerpt": "编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00a6b573465995d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2aa3071f0ee47f7f"
+            ],
+            "draft_excerpt": "三是创新世界赛事名城建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-064fa29509156308",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2aa3071f0ee47f7f"
+            ],
+            "draft_excerpt": "出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e9e4f2169effd38",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e93d3e56b4b82826"
+            ],
+            "draft_excerpt": "四是加强国际美食之都建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-20dabcd00a8ccc13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e93d3e56b4b82826"
+            ],
+            "draft_excerpt": "出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5468fa0352951a45",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f73ca1372fb565"
+            ],
+            "draft_excerpt": "一是围绕重大事件和活动，增强对外宣传。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2175753e6bb285f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f73ca1372fb565"
+            ],
+            "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6ec21c4462df982",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6b6077136eabd572",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-045fa137e2ae1af5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce8c02ffe15d29a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-add6a285dee5ec81",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1a13c1902fec6a92",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4177aca5b0f74fbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32218968d20b8bbb"
+            ],
+            "draft_excerpt": "四是着力推进“家在成都”工程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-007b15ff2e0a08b2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32218968d20b8bbb"
+            ],
+            "draft_excerpt": "外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84817c2ba6e75386",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a7704f215af2a47cc0030a304dbece5c45da0ea8a294cadbccacd65f11ff2697",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f2eabf240e5dda48",
+            "draft_excerpt": "一是奋力打造国际会展名城。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24692a2367d4bb6a",
+            "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2aa3071f0ee47f7f",
+            "draft_excerpt": "三是创新世界赛事名城建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e93d3e56b4b82826",
+            "draft_excerpt": "四是加强国际美食之都建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f473539fb51f613",
+            "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2271aba00abce58c",
+            "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32218968d20b8bbb",
+            "draft_excerpt": "四是着力推进“家在成都”工程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-92f73ca1372fb565",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c1e49ad2a6f8d234",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "一是奋力打造国际会展名城。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18c1c04de9c9566a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df3d0ba075d55d48",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f2eabf240e5dda48"
+            ],
+            "draft_excerpt": "进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfb2f26b6dadfd9a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24692a2367d4bb6a"
+            ],
+            "draft_excerpt": "二是加快世界旅游目的地城市建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b20b7e6b41fa054",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-24692a2367d4bb6a"
+            ],
+            "draft_excerpt": "编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00a6b573465995d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2aa3071f0ee47f7f"
+            ],
+            "draft_excerpt": "三是创新世界赛事名城建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-064fa29509156308",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2aa3071f0ee47f7f"
+            ],
+            "draft_excerpt": "出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e9e4f2169effd38",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e93d3e56b4b82826"
+            ],
+            "draft_excerpt": "四是加强国际美食之都建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-20dabcd00a8ccc13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e93d3e56b4b82826"
+            ],
+            "draft_excerpt": "出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5468fa0352951a45",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f73ca1372fb565"
+            ],
+            "draft_excerpt": "一是围绕重大事件和活动，增强对外宣传。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2175753e6bb285f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92f73ca1372fb565"
+            ],
+            "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6ec21c4462df982",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "二是策划开展与“一带一路”沿线国家的互访交流活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6b6077136eabd572",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-045fa137e2ae1af5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f473539fb51f613"
+            ],
+            "draft_excerpt": "在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce8c02ffe15d29a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "三是组建国际顾问团，扩大国际化城市影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-add6a285dee5ec81",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1a13c1902fec6a92",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2271aba00abce58c"
+            ],
+            "draft_excerpt": "组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4177aca5b0f74fbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32218968d20b8bbb"
+            ],
+            "draft_excerpt": "四是着力推进“家在成都”工程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-007b15ff2e0a08b2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32218968d20b8bbb"
+            ],
+            "draft_excerpt": "外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84817c2ba6e75386",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n一是奋力打造国际会展名城。充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。\n\n二是加快世界旅游目的地城市建设。编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。\n\n三是创新世界赛事名城建设。出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。\n\n四是加强国际美食之都建设。出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。\n\n一是围绕重大事件和活动，增强对外宣传。协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧+”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。\n\n二是策划开展与“一带一路”沿线国家的互访交流活动。组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。\n\n三是组建国际顾问团，扩大国际化城市影响力。邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。\n\n四是着力推进“家在成都”工程。外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。",
+    "description": "成都通过打造国际会展名城、世界旅游目的地城市、国际赛事名城及美食之都，并加强对外宣传、互访交流、组建国际顾问团及推进“家在成都”工程，系统推进对外交往中心建设。",
+    "ref": {
+      "asset_hints": [
+        "html-table-014",
+        "html-table-015",
+        "image-028"
+      ],
+      "concept_id": "proposition-5b694b506d23",
+      "description": "一是奋力打造国际会展名城。",
+      "document_family_id": "9e3ac4bb851dccd2e74c",
+      "document_version_id": "bfdd46d8149bb22ebd84",
+      "evidence": [
+        "一是奋力打造国际会展名城。充分发挥会展“大事件”效应，成功举办一批具有国际性影响力的高规格国际盛会。进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。",
+        "二是加快世界旅游目的地城市建设。编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。",
+        "三是创新世界赛事名城建设。出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。",
+        "四是加强国际美食之都建设。出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。",
+        "一是围绕重大事件和活动，增强对外宣传。协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧 \\(+\\) ”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场",
+        "二是策划开展与“一带一路”沿线国家的互访交流活动。组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。",
+        "三是组建国际顾问团，扩大国际化城市影响力。邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。",
+        "二是着力推进“家在成都”工程。外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。"
+      ],
+      "evidence_block_ids": [
+        "blk-ed56edd4bee5952c1e28",
+        "blk-0511fb751134cc382668",
+        "blk-1b61efe064ef1489882d",
+        "blk-6025100a830a4df25498",
+        "blk-57ff60839c2783c4adae",
+        "blk-078ee1513c0029c0ba88",
+        "blk-3a08172e74ae2188ccd3",
+        "blk-c5486c9865f24cb4ed64",
+        "blk-c4cf30f811af59b8df5c"
+      ],
+      "page_end": 78,
+      "page_start": 47,
+      "ref_family_hint": "",
+      "ref_version_id": "bfdd46d8149bb22ebd84",
+      "scope": {},
+      "section_path": [
+        "2016年成都融人“一带一路”建设概况"
+      ],
+      "semantic_signature": {},
+      "source": "2f27f8b7-c83d-49c6-96ff-95ff655ed6c4.md",
+      "title": "成都建设对外交往中心的主要举措",
+      "type": "政策建议"
+    },
+    "title": "成都建设对外交往中心的主要举措"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-a390039861e9:bundle-0b8accd4376b",
+      "excluded_fragments": [],
+      "ref_id": "ref-a390039861e9",
+      "source_blocks": [
+        {
+          "block_id": "blk-49ff39958776c2fe4164",
+          "page_number": 47,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-cca713dd25edfccab3be",
+          "page_number": 73,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-904867f39b1dd8fae39d",
+          "page_number": 74,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-8b68b8b988a95ac483cd",
+          "page_number": 76,
+          "text": "续栏"
+        },
+        {
+          "block_id": "blk-ed56edd4bee5952c1e28",
+          "page_number": 74,
+          "text": "一是奋力打造国际会展名城。充分发挥会展“大事件”效应，成功举办一批具"
+        },
+        {
+          "block_id": "blk-0511fb751134cc382668",
+          "page_number": 75,
+          "text": "有国际性影响力的高规格国际盛会。进一步改善和提升会展硬件设施条件，加快推进中国西部国际博览城建设，“一市两馆”格局基本形成。着力推进会展品牌化、国际化发展，强化与国际会展公司合作，加强政策引导和资金支持，鼓励在成都举办的国际性展览通过国际展览会协会（UFI）认证，国际性会议通过国际大会及会议协会（ICCA）认证。加大对重点会展企业、重大展会项目的扶持力度，培育壮大会展龙头企业，做精做专会展服务企业。"
+        },
+        {
+          "block_id": "blk-343244a6e8ff6fcaabab",
+          "page_number": 75,
+          "text": "专栏2-23 2016年在成都举办的部分国际性会展活动"
+        },
+        {
+          "block_id": "blk-605f657394b0b5a34dcc",
+          "page_number": 75,
+          "text": "<table><tr><td>类别</td><td>会议名称</td></tr><tr><td rowspan=\"10\">会议论坛</td><td>G20财长和央行行长会议</td></tr><tr><td>第二十二届世界航展发展大会</td></tr><tr><td>国际行政科学学会暨国际行政院校联合会2016年联合会</td></tr><tr><td>2016亚洲教育论坛年会</td></tr><tr><td>第四届世界3D打印技术产业大会暨博览会秋季会</td></tr><tr><td>第18届IWC国际轮对大会</td></tr><tr><td>2016世界肿瘤转移学术大会</td></tr><tr><td>中外大学校长论坛</td></tr><tr><td>第三届诺贝尔奖获得者医学峰会暨首届国际精准医学高峰论坛</td></tr><tr><td>2016中阿经贸文化交流峰会</td></tr><tr><td rowspan=\"9\">展览</td><td>第十六届中国西部国际博览会</td></tr><tr><td>第94届全国糖酒商品交易会</td></tr><tr><td>2016中国成都全球创新创业交易会</td></tr><tr><td>第十九届成都国际汽车展览会</td></tr><tr><td>iWorld 2016数字世界博览会</td></tr><tr><td>2016全国汽车配件交易会暨全国汽车配件采购交易会</td></tr><tr><td>第六届中国兽药大会</td></tr><tr><td>第98届中国针棉织品交易会</td></tr><tr><td>第48届全国高教仪器设备展示会</td></tr></table>"
+        },
+        {
+          "block_id": "blk-16b3567e3864ef72ead5",
+          "page_number": 76,
+          "text": "<table><tr><td>类别</td><td>会议名称</td></tr><tr><td rowspan=\"2\">展览</td><td>第四届中国网络视听大会</td></tr><tr><td>第15届国际口腔设备与材料展览会暨口腔医学学术会议</td></tr></table>"
+        },
+        {
+          "block_id": "blk-1b61efe064ef1489882d",
+          "page_number": 76,
+          "text": "二是加快世界旅游目的地城市建设。编制完成《成都市旅游业发展2025规划纲要》，制定出台《关于促进旅游业改革发展若干政策措施的意见》，新修订施行《成都市旅游业促进条例》，为建设世界旅游目的地城市提供制度保障。积极争取国家旅游局支持，推进都江堰市、温江区、邛崃市和锦江区、崇州市、新津县、蒲江县“国家全域旅游示范区”创建工作。积极推进旅游绿色开发，加强绿色旅游标准认证，推行绿色旅游产品、绿色旅游企业认证制度。着力打造一批国际旅游精品，加快推进平乐古镇－天台山创建国家5A级旅游景区以及青城山、西岭雪山－花水湾创建国家级旅游度假区。促进乡村旅游提档升级，打造一批精品民宿、乡村旅游创客基地等。积极推动环城生态游憩带建设，配套建设国际自驾车营地，构建国际化自驾网络体系。"
+        },
+        {
+          "block_id": "blk-51dba66167978d36028c",
+          "page_number": 76,
+          "text": "原始 PDF 第 76 页图片"
+        },
+        {
+          "block_id": "blk-87b97dde8924ed9445c4",
+          "page_number": 76,
+          "text": "图2-10 2012—2016年成都市4A级及以上景区数量（个）"
+        },
+        {
+          "block_id": "blk-6025100a830a4df25498",
+          "page_number": 76,
+          "text": "三是创新世界赛事名城建设。出台《国际赛事名城行动计划》《实施国际赛事名城行动计划2016年度工作计划》等文件，引进和创办国际国内重大体育赛事，2016年成都共举办15项国际体育赛事、39项国内体育赛事、215项省级和市级体育赛事。加强与国际体育组织和赛事公司的合作，力促国际高水平赛事落户成都，"
+        },
+        {
+          "block_id": "blk-6e65b8c898a77de827b3",
+          "page_number": 77,
+          "text": "2016年成功引进世界国际象棋联合会女子大奖赛、国际篮联 \\(3\\times 3\\) 成都挑战赛等国际重大体育赛事，成功申办2017年国际篮联 \\(3\\times 3\\) U18世界杯赛、2017年全球象棋双人邀请赛、2017年亚洲国际象棋个人锦标赛、2017—2019年铁人三项世界杯赛，并积极开展国际乒联世界杯赛（男子世界杯和女子世界杯）的申办工作。"
+        },
+        {
+          "block_id": "blk-57ff60839c2783c4adae",
+          "page_number": 77,
+          "text": "四是加强国际美食之都建设。出台《关于进一步加快成都市川菜产业发展的实施意见》，推动建立“川菜海外推广中心”，为川菜国际化发展提供宣传推广平台，制定“全球精选川菜餐厅”标准并开展认证。积极探索建立“川菜产业化和国际化协同创新中心”，打破体制之间的壁垒，全面提升人才、学科、科研“三位一体”创新能力。"
+        },
+        {
+          "block_id": "blk-078ee1513c0029c0ba88",
+          "page_number": 77,
+          "text": "一是围绕重大事件和活动，增强对外宣传。协调中央权威媒体、市场主流媒体及境（涉）外媒体报道成都作为“一带一路”建设和长江经济带建设的重要交汇点，聚焦成都进入“双机场”时代、大力实施“蓉欧 \\(+\\) ”战略、2016中国·成都全球创交会等一系列重大活动，协调《人民日报》、新华社、中央电视台、美国《华盛顿邮报》、英国《每日电讯》等境内外主流媒体刊发报道1000余条（篇），专题报道、深度报道150余条，举办专题新闻发布会40场。"
+        },
+        {
+          "block_id": "blk-3a08172e74ae2188ccd3",
+          "page_number": 77,
+          "text": "二是策划开展与“一带一路”沿线国家的互访交流活动。组织“境内外媒体采访团蓉欧快铁行”大型跨境采访活动，协调中央媒体、境外（涉外）媒体及市级媒体前往“一带一路”节点国家进行宣传报道。在哈萨克斯坦开展文化交流和宣传推广活动，在德国法兰克福、波兰华沙举办“熊猫快铁·穿越成都”大型境外路演活动，组织市级媒体赴日本甲府县、韩国釜山市、金泉市开展“成都媒体访友城”活动。"
+        },
+        {
+          "block_id": "blk-c5486c9865f24cb4ed64",
+          "page_number": 77,
+          "text": "三是组建国际顾问团，扩大国际化城市影响力。邀请英飞尼迪集团、戴尔公司等国际知名企业、机构、院所高层人士28名担任顾问，成立市政府国际咨询顾问团。组织召开成立大会暨第一次年会，为“加快推进国家中心城市建设”建言献策。"
+        },
+        {
+          "block_id": "blk-78b21daeadf04b02bd61",
+          "page_number": 77,
+          "text": "一是系统推进领馆区建设和增加出入境受理点。加快编制成都领馆区建设方案，系统推进公共配套设施、区域景观等建设，加快领馆区周边环境整体打造。在135个有条件的派出所开通出入境证件受理点，全市出入境证件受理点达171个，派出所出入境证件受理点开通数全国第一。"
+        },
+        {
+          "block_id": "blk-c4cf30f811af59b8df5c",
+          "page_number": 78,
+          "text": "二是着力推进“家在成都”工程。外籍人士“家在成都”工程顺利推进，建立外国公民应急联络机制，设立“12345”市长热线英语坐席，成立首个涉外法律援助工作站、“外籍人士之家”，组建西南地区首支外国人志愿者服务队。发布《外籍人士在蓉办事指南》《在蓉外籍人士购房及租房办事指南》，完成外籍人士全城“通借通还”借阅系统和涉外自助公证系统建设。"
+        },
+        {
+          "block_id": "blk-aff7f44bea20de16f22e",
+          "page_number": 78,
+          "text": "三是加快建设“宽带”中国。4G网络城乡综合覆盖率超过 \\(95\\%\\) ，互联网骨干直联点带宽达到420G。积极推进国家下一代互联网示范城市建设，完成电子政务外网IPv6改造。“智慧城市”建设加快，大力推进智能交通系统（二期）、居民健康卡等信息化项目建设，促进信息技术在政务服务、城市管理、民生服务等领域创新应用。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-5b694b506d23",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-a390039861e9"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

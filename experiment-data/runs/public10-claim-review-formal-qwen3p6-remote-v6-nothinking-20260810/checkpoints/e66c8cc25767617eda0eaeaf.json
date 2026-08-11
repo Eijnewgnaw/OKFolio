@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[4].evidence_excerpt (ref-6d59a27aa051:bundle-3523b1f0eaa6) is missing hard anchors from the claim: ['2022年']; claim='2022年以来，四川天府新区与邛崃共建天府新区新能源新材料产业功能区，园区入驻企业达253家。'; excerpt='二是推动先进制造业协同发展。与邛崃共建天府新区新能源新材料产业功能区成势见效，园区入驻企业达253家；与新津共建天府先进智造产业基地实质推动，首开区一期实现开工建设；与蒲江共建四川天府中德产业新城智造园积极筹备签订三方合作协议。'",
+  "group_id": "topic-492bddf8d6fa",
+  "ref_ids": [
+    "ref-6d59a27aa051"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

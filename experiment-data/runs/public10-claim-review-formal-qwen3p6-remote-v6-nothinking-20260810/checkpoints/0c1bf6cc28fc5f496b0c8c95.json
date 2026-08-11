@@ -1,0 +1,946 @@
+{
+  "contract": {
+    "canonical_question": "2023年成都如何通过产业链供需配套与联合招引，推动与省内及周边城市电子信息产业合作？",
+    "claims": [
+      {
+        "claim": "2023年，成都聚焦集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市及重庆、深圳等省外城市开展合作。",
+        "claim_id": "claim-ac3f376d795eabf7",
+        "evidence_block_ids": [
+          "blk-4bbb96640efb5ff54408"
+        ],
+        "evidence_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "time": [
+            "2023年"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式。",
+        "claim_id": "claim-6a597100683117be",
+        "evidence_block_ids": [
+          "blk-50773faefe04bd65d87d"
+        ],
+        "evidence_excerpt": "与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "object": [
+            "极米智能光电产业园"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2023年极米智能光电产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+        "claim_id": "claim-9883812cf443bb52",
+        "evidence_block_ids": [
+          "blk-50773faefe04bd65d87d"
+        ],
+        "evidence_excerpt": "2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "time": [
+            "2023年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都促进京东方等企业与内江中显智能、鸿泰电子等企业相互配套。",
+        "claim_id": "claim-34d4ff7991d5697c",
+        "evidence_block_ids": [
+          "blk-50773faefe04bd65d87d"
+        ],
+        "evidence_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "object": [
+            "京东方",
+            "内江中显智能",
+            "鸿泰电子"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+        "claim_id": "claim-a476468868283ec0",
+        "evidence_block_ids": [
+          "blk-50773faefe04bd65d87d"
+        ],
+        "evidence_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "object": [
+            "四川大学",
+            "雅安雅吉芯电子",
+            "中雅科技"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与重庆在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业。",
+        "claim_id": "claim-4784488e12c693e3",
+        "evidence_block_ids": [
+          "blk-079adbcb26678aef080c"
+        ],
+        "evidence_excerpt": "与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          44
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "object": [
+            "重庆"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "联合推介会推出投资项目规模约1.2万亿元。",
+        "claim_id": "claim-ce47a3bdac07f295",
+        "evidence_block_ids": [
+          "blk-079adbcb26678aef080c"
+        ],
+        "evidence_excerpt": "推出投资项目规模约1.2万亿元。",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          44
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与眉山共同举办成眉电子信息产业协同融合发展研讨会，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+        "claim_id": "claim-d3f010a3b87390a6",
+        "evidence_block_ids": [
+          "blk-079adbcb26678aef080c"
+        ],
+        "evidence_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          44
+        ],
+        "ref_id": "ref-c078e969b3f6",
+        "scope": {
+          "object": [
+            "眉山",
+            "宜宾",
+            "遂宁"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-ac3f376d795eabf7",
+          "claim-6a597100683117be",
+          "claim-9883812cf443bb52",
+          "claim-34d4ff7991d5697c",
+          "claim-a476468868283ec0",
+          "claim-4784488e12c693e3",
+          "claim-ce47a3bdac07f295",
+          "claim-d3f010a3b87390a6"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+        "reason": "该Bundle包含回答中心问题所需的全部核心事实，包括合作对象、合作方式（供需配套、联合招引等）、具体案例（极米产业园、联合推介会）及量化成效（产值、投资规模）。"
+      }
+    ],
+    "group_id": "topic-1ba446d547e4",
+    "members": [
+      {
+        "contribution": "提供2023年成都与宜宾、眉山、内江、雅安、遂宁及重庆、深圳等地在电子信息产业领域的具体合作模式、重点项目及成效数据，涵盖产业配套、联合招商、供应链共建及生态共营等方面。",
+        "ref_id": "ref-c078e969b3f6",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-ac3f376d795eabf7",
+        "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6a597100683117be",
+        "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9883812cf443bb52",
+        "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-34d4ff7991d5697c",
+        "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a476468868283ec0",
+        "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4784488e12c693e3",
+        "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ce47a3bdac07f295",
+        "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d3f010a3b87390a6",
+        "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-ac3f376d795eabf7"
+        ],
+        "draft_excerpt": "2023年成都聚焦集成电路、新型显示等产业链，与省内城市及重庆、深圳等省外城市通过供需配套、联合招引等方式推动电子信息产业合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9e4d6e85b129a803",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ac3f376d795eabf7"
+        ],
+        "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c5e1a3fc23f19b39",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6a597100683117be",
+          "claim-9883812cf443bb52"
+        ],
+        "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-097e84336e619ed5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-34d4ff7991d5697c"
+        ],
+        "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-44d867003b10f94b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a476468868283ec0"
+        ],
+        "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cdf39f01860ae90b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4784488e12c693e3",
+          "claim-ce47a3bdac07f295"
+        ],
+        "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-78156a20f6d90694",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d3f010a3b87390a6"
+        ],
+        "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e0c62e6b51135f1b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ac3f376d795eabf7",
+          "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6a597100683117be",
+          "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9883812cf443bb52",
+          "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-34d4ff7991d5697c",
+          "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a476468868283ec0",
+          "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4784488e12c693e3",
+          "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ce47a3bdac07f295",
+          "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d3f010a3b87390a6",
+          "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-ac3f376d795eabf7"
+          ],
+          "draft_excerpt": "2023年成都聚焦集成电路、新型显示等产业链，与省内城市及重庆、深圳等省外城市通过供需配套、联合招引等方式推动电子信息产业合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-9e4d6e85b129a803",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ac3f376d795eabf7"
+          ],
+          "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+          "finding": "supported",
+          "sentence_id": "sentence-c5e1a3fc23f19b39",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6a597100683117be",
+            "claim-9883812cf443bb52"
+          ],
+          "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-097e84336e619ed5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-34d4ff7991d5697c"
+          ],
+          "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+          "finding": "supported",
+          "sentence_id": "sentence-44d867003b10f94b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a476468868283ec0"
+          ],
+          "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+          "finding": "supported",
+          "sentence_id": "sentence-cdf39f01860ae90b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4784488e12c693e3",
+            "claim-ce47a3bdac07f295"
+          ],
+          "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-78156a20f6d90694",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d3f010a3b87390a6"
+          ],
+          "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+          "finding": "supported",
+          "sentence_id": "sentence-e0c62e6b51135f1b",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "e0c3f1c7f49cc616cf875bc7fb9a53c556c11d351c60251673f3ed44076fb437",
+  "coverage_history": [
+    {
+      "draft_sha256": "96b5bac7cc814409f58b52f8efd5cf96d425ac3bd72dadb0132afb045b81cbc3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ac3f376d795eabf7",
+            "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a597100683117be",
+            "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9883812cf443bb52",
+            "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-34d4ff7991d5697c",
+            "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a476468868283ec0",
+            "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4784488e12c693e3",
+            "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，共同发布“双城双百”产业投资机遇清单和协同招商十条措施，推出投资项目规模约1.2万亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce47a3bdac07f295",
+            "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，共同发布“双城双百”产业投资机遇清单和协同招商十条措施，推出投资项目规模约1.2万亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3f010a3b87390a6",
+            "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ac3f376d795eabf7"
+            ],
+            "draft_excerpt": "2023年成都聚焦集成电路、新型显示等产业链，与省内城市及重庆、深圳等省外城市通过供需配套、联合招引等方式推动电子信息产业合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e4d6e85b129a803",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ac3f376d795eabf7"
+            ],
+            "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5e1a3fc23f19b39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a597100683117be",
+              "claim-9883812cf443bb52"
+            ],
+            "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-097e84336e619ed5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-34d4ff7991d5697c"
+            ],
+            "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44d867003b10f94b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a476468868283ec0"
+            ],
+            "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cdf39f01860ae90b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4784488e12c693e3",
+              "claim-ce47a3bdac07f295"
+            ],
+            "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，共同发布“双城双百”产业投资机遇清单和协同招商十条措施，推出投资项目规模约1.2万亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a13be10b782068f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d3f010a3b87390a6"
+            ],
+            "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e0c62e6b51135f1b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年11月，成都市极米科技有限公司与宜宾临港经济技术开发区签署协议，在宜宾投资建设极米智能光电产业园项目，由极米科技在宜宾临港经济技术开发区注册成立全资子公司-宜宾市极米光电有限公司负责，总投资15亿元，建设22万平方米厂房及配套设施，覆盖整机车间、光学引擎车间及实验室等相关配套车间，共6栋厂房及生产实验室。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a672678f7e0e3c0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "作为成都与宜宾“加强区域合作，共推南向开放”签约后的第一个项目，采用“研发设计在成都、转化生产在宜宾”的产业互动模式，旨在让更多成都研发，宜宾制造的中国产品走向更广阔的市场。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-568cb663502da11b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9883812cf443bb52"
+            ],
+            "draft_excerpt": "2023年产业园实现产值37.76亿元，累计实现产值133.66亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f8fa695c1797aaa5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2018年11月，成都市极米科技有限公司与宜宾临港经济技术开发区签署协议，在宜宾投资建设极米智能光电产业园项目，由极米科技在宜宾临港经济技术开发区注册成立全资子公司-宜宾市极米光电有限公司负责，总投资15亿元，建设22万平方米厂房及配套设施，覆盖整机车间、光学引擎车间及实验室等相关配套车间，共6栋厂房及生产实验室。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "作为成都与宜宾“加强区域合作，共推南向开放”签约后的第一个项目，采用“研发设计在成都、转化生产在宜宾”的产业互动模式，旨在让更多成都研发，宜宾制造的中国产品走向更广阔的市场。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018年11月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "15",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "22",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e0c3f1c7f49cc616cf875bc7fb9a53c556c11d351c60251673f3ed44076fb437",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-ac3f376d795eabf7",
+            "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a597100683117be",
+            "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9883812cf443bb52",
+            "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-34d4ff7991d5697c",
+            "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a476468868283ec0",
+            "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4784488e12c693e3",
+            "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce47a3bdac07f295",
+            "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d3f010a3b87390a6",
+            "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ac3f376d795eabf7"
+            ],
+            "draft_excerpt": "2023年成都聚焦集成电路、新型显示等产业链，与省内城市及重庆、深圳等省外城市通过供需配套、联合招引等方式推动电子信息产业合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e4d6e85b129a803",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ac3f376d795eabf7"
+            ],
+            "draft_excerpt": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5e1a3fc23f19b39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a597100683117be",
+              "claim-9883812cf443bb52"
+            ],
+            "draft_excerpt": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-097e84336e619ed5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-34d4ff7991d5697c"
+            ],
+            "draft_excerpt": "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44d867003b10f94b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a476468868283ec0"
+            ],
+            "draft_excerpt": "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cdf39f01860ae90b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4784488e12c693e3",
+              "claim-ce47a3bdac07f295"
+            ],
+            "draft_excerpt": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-78156a20f6d90694",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d3f010a3b87390a6"
+            ],
+            "draft_excerpt": "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e0c62e6b51135f1b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。\n\n产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。\n\n- 项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，推出投资项目规模约1.2万亿元。与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。",
+    "description": "2023年成都聚焦集成电路、新型显示等产业链，与省内城市及重庆、深圳等省外城市通过供需配套、联合招引等方式推动电子信息产业合作。",
+    "ref": {
+      "asset_hints": [
+        "image-008",
+        "image-009",
+        "image-010"
+      ],
+      "concept_id": "topic-1ba446d547e4",
+      "description": "2023年成都聚焦集成电路、新型显示等产业链，与省内城市及重庆、深圳等省外城市通过供需配套、联合招引等方式推动电子信息产业合作。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作",
+        "与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式",
+        "2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。",
+        "促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套",
+        "推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。",
+        "与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业",
+        "推出投资项目规模约1.2万亿元。",
+        "与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。"
+      ],
+      "evidence_block_ids": [
+        "blk-4bbb96640efb5ff54408",
+        "blk-50773faefe04bd65d87d",
+        "blk-079adbcb26678aef080c"
+      ],
+      "page_end": 45,
+      "page_start": 43,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "年度主题篇",
+        "一、电子信息产业生态圈：产业链上下游供需配套、联合招引"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "电子信息产业生态圈合作",
+      "type": "分析框架"
+    },
+    "title": "电子信息产业生态圈合作"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c078e969b3f6:bundle-26ac1c2075d8",
+      "excluded_fragments": [],
+      "ref_id": "ref-c078e969b3f6",
+      "source_blocks": [
+        {
+          "block_id": "blk-4bbb96640efb5ff54408",
+          "page_number": 43,
+          "text": "2023年，成都紧扣电子信息产业生态圈建设，聚焦打造集成电路、新型显示、智能终端等产业链，与宜宾、眉山、内江、雅安、遂宁等省内城市以及重庆、深圳等省外城市积极开展合作，以共同开展电子信息企业相互配套、供需对接、研发合作、联盟共建、项目联合推介、产业园区共建等方式为主，协力推动电子信息产业合作取得新成效。"
+        },
+        {
+          "block_id": "blk-50773faefe04bd65d87d",
+          "page_number": 43,
+          "text": "产业配套合作方面，与宜宾共建极米智能光电产业园，形成“研发设计在成都、转化生产在宜宾”、“总部在成都、基地在宜宾”“上游在宜宾、下游在成都”的区域协作发展新模式，2023年产业园产值达到37.76亿元，累计实现产值133.66亿元。促进成都京东方等企业与内江中显智能、鸿泰电子等企业相互配套，有效提升跨区域产业链供应链发展水平。推动四川大学与雅安雅吉芯电子、中雅科技签订产学研合作协议，成功开发固态箔等新产品。"
+        },
+        {
+          "block_id": "blk-baf4e0efa974278f7bf9",
+          "page_number": 43,
+          "text": "2018年11月，成都市极米科技有限公司与宜宾临港经济技术开发区签署协议，在宜宾投资建设极米智能光电产业园项目，由极米科技在宜宾临港经济技术开发区注册成立全资子公司-宜宾市极米光电有限"
+        },
+        {
+          "block_id": "blk-afbb2312b9bfc2707a56",
+          "page_number": 43,
+          "text": "原始 PDF 第 43 页图片"
+        },
+        {
+          "block_id": "blk-bd78b90c01502bef8809",
+          "page_number": 43,
+          "text": "公司负责，总投资15亿元，建设22万平方米厂房及配套设施，覆盖整机车间、光学引擎车间及实验室等相关配套车间，共6栋厂房及生产实验室。作为成都与宜宾“加强区域合作，共推南向开放”签约后的第一个项目，采用“研发设计在成都、转化生产在宜宾”的产业互动模式，旨在让更多成都研发，宜宾制造的中国产品走向更广阔的市场。2023年产业园实现产值37.76亿元，累计实现产值133.66亿元。"
+        },
+        {
+          "block_id": "blk-079adbcb26678aef080c",
+          "page_number": 44,
+          "text": "项目联合招商推介方面，与重庆等城市共同在深圳举行“第二届成渝地区双城经济圈全球投资推介会”，联合推介电子信息、新材料等重点产业，共同发布“双城双百”产业投资机遇清单和协同招商十条措施，推出投资项目规模约1.2万亿元。与眉山共同举办成眉电子信息产业协同融合发展研讨会，合作交流电子信息产业协作新模式，吸引宜宾、遂宁等地共70余家企业、120余人参加。"
+        },
+        {
+          "block_id": "blk-4322c7bad66b9227dbe3",
+          "page_number": 44,
+          "text": "2023年，成都围绕建设数字经济产业生态圈，聚焦联合打造大数据与人工智能、金融科技等产业链，与眉山、雅安、重庆等开展了跨区域合作，以共同推进供应链建设、平台共建生态共营等方式为主，数字经济产业合作效应进一步凸显。"
+        },
+        {
+          "block_id": "blk-bf952e13df01cdf1f965",
+          "page_number": 44,
+          "text": "供应链共建方面，牵头在眉山举办数智赋能都市圈产业协同发展活动，围绕大数据与人工智能、锂电等产业跨区域生态构建，在都市圈内广泛征集典型应用场景建设需求和新技术新产品供给能力，供给571条供需信息，涉及总投资473亿元，释放融资需求32亿元。推动雅安中国雅云数智创新中心率先入驻成都天府新区四川区域协调发展总部基地，成功签约三瑞云数赋智、正和乡链等6家企业。"
+        },
+        {
+          "block_id": "blk-b395377fe825ec621998",
+          "page_number": 44,
+          "text": "原始 PDF 第 44 页图片"
+        },
+        {
+          "block_id": "blk-6e0ce1e1c91a8feef7c5",
+          "page_number": 44,
+          "text": "图2-1 中国雅云数智创新中心入驻四川区域协同发展总部基地"
+        },
+        {
+          "block_id": "blk-f146657267da0c00f6aa",
+          "page_number": 44,
+          "text": "工业互联网平台共筑方面，联合重庆推动工业互联网协同发展，工业互联网标识解析国家顶级节点（成都托管与灾备节点）上线运行，与重庆顶级节点共同入围国家“5+"
+        },
+        {
+          "block_id": "blk-924fcdbcefc9b7664edd",
+          "page_number": 45,
+          "text": "2”体系布局；联合建立工业互联网平台一体化发展机制，提升平台面向成渝地区服务能力；开展成渝地区工业互联网一体化“百城千园行活动”，成渝节点标识注册量、解析量增速均居全国第一。国家网络安全产业园区（成渝地区）正式授牌，成都重点建设天府、高新、锦江、双流“四大园区”，重庆聚力建设合川、綦江和经开“三大片区”。"
+        },
+        {
+          "block_id": "blk-c832e2e0ba941243abc3",
+          "page_number": 45,
+          "text": "发展生态共营方面，联合重庆举办“成渝地区软件企业及协同攻关和体验推广中心交流活动”，促进两地园区协作关系和两地软件企业的交流互通，深化两地国家级软件公共服务平台的协作沟通。天府软件园联合成渝软件产业联盟在深圳召开人工智能中高端人才招聘会，重庆七腾机器人、成都爱旗科技等11家成渝企业参与。"
+        },
+        {
+          "block_id": "blk-b3841ca041e882277ddd",
+          "page_number": 45,
+          "text": "原始 PDF 第 45 页图片"
+        },
+        {
+          "block_id": "blk-9d844bcb37684a1f4ee8",
+          "page_number": 45,
+          "text": "图2-2 2023年数智赋能都市圈产业协同发展活动"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-1ba446d547e4",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-c078e969b3f6"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,273 @@
+{
+  "contract": {
+    "canonical_question": "《成渝地区双城经济圈建设规划纲要》何时由谁正式印发？",
+    "claims": [
+      {
+        "claim": "《成渝地区双城经济圈建设规划纲要》于2021年10月20日由中共中央、国务院正式印发。",
+        "claim_id": "claim-0e534391aecc906d",
+        "evidence_block_ids": [
+          "blk-85836c6555b3c17f13c6"
+        ],
+        "evidence_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》",
+        "evidence_id": "ref-743af5529f0a:bundle-5bf9fe9cf6e2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          249
+        ],
+        "ref_id": "ref-743af5529f0a",
+        "scope": {
+          "region": "成渝地区",
+          "time": "2021年10月20日"
+        },
+        "slot": "time",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-0e534391aecc906d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-743af5529f0a:bundle-5bf9fe9cf6e2",
+        "reason": "该证据包含中心问题所需的印发时间与发布主体，是回答固定槽位必须保留的事实。"
+      }
+    ],
+    "group_id": "proposition-577b3ef646bd",
+    "members": [
+      {
+        "contribution": "该证据直接提供了《规划纲要》的印发时间与发布主体，是回答中心问题的核心事实。",
+        "ref_id": "ref-743af5529f0a",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-0e534391aecc906d",
+        "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》。",
+        "finding": "草稿正文完整复现了合同要求的日期、发布主体及文件名称，与证据一致。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-0e534391aecc906d"
+        ],
+        "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发《成渝地区双城经济圈建设规划纲要》。",
+        "finding": "该句完整覆盖了合同要求的日期、主体及文件，无推断性越界。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9ef90f7afdd62cbe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0e534391aecc906d"
+        ],
+        "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》。",
+        "finding": "该句完整覆盖了合同要求的日期、主体及文件，无推断性越界。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d44c3021ce6e4ad",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_draft_sha256": "ec208a901ecbcfe3cea27b09955bd564436fc50158d36cd7f419c5d44d1af71b",
+  "coverage_history": [
+    {
+      "draft_sha256": "2d20ab99835c8ae17ce296cd6b00c6668a9a8fc4d47df5468ee1f9ff9dbeb9a8",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-0e534391aecc906d",
+            "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》（以下简称《规划纲要》）。",
+            "finding": "草稿完整保留了合同要求的日期、发布主体及文件名称，与证据原文一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0e534391aecc906d"
+            ],
+            "draft_excerpt": "2021年10月20日中共中央、国务院正式印发《成渝地区双城经济圈建设规划纲要》，标志着该区域踏上高质量发展新征程。",
+            "finding": "前半句事实与claim-0e534391aecc906d完全对应；后半句“标志着该区域踏上高质量发展新征程”为推断性判断，但合同证据块明确支持该文件是“指导当前和今后一个时期成渝地区双城经济圈建设的纲领性文件”，故整体归因为supported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-78a67afabfce7356",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e534391aecc906d"
+            ],
+            "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》（以下简称《规划纲要》）。",
+            "finding": "该句逐字覆盖了合同claim的核心事实要素（时间、主体、文件名）。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e36189643a08155",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e534391aecc906d"
+            ],
+            "draft_excerpt": "该文件是指导当前和今后一个时期成渝地区双城经济圈建设的纲领性文件，也是制定相关规划和政策的重要依据。",
+            "finding": "该句内容直接源自合同证据块中对该文件定位的描述，属于对claim-0e534391aecc906d证据内容的直接转述，未引入合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5aaa1dea3ce86f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e534391aecc906d"
+            ],
+            "draft_excerpt": "这一举措标志着成渝地区双城经济圈踏上了高质量发展的新征程。",
+            "finding": "该句为推断性判断，但合同证据块明确指出该文件是“指导当前和今后一个时期成渝地区双城经济圈建设的纲领性文件”，此定位直接支持了“踏上高质量发展新征程”的结论，故归因为supported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9dbdaf5e753b6ea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "《规划纲要》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年10月20日中共中央、国务院正式印发《成渝地区双城经济圈建设规划纲要》，标志着该区域踏上高质量发展新征程。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          },
+          {
+            "draft_excerpt": "这一举措标志着成渝地区双城经济圈踏上了高质量发展的新征程。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "ec208a901ecbcfe3cea27b09955bd564436fc50158d36cd7f419c5d44d1af71b",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-0e534391aecc906d",
+            "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》。",
+            "finding": "草稿正文完整复现了合同要求的日期、发布主体及文件名称，与证据一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0e534391aecc906d"
+            ],
+            "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发《成渝地区双城经济圈建设规划纲要》。",
+            "finding": "该句完整覆盖了合同要求的日期、主体及文件，无推断性越界。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9ef90f7afdd62cbe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e534391aecc906d"
+            ],
+            "draft_excerpt": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》。",
+            "finding": "该句完整覆盖了合同要求的日期、主体及文件，无推断性越界。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d44c3021ce6e4ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》。",
+    "description": "2021年10月20日，中共中央、国务院正式印发《成渝地区双城经济圈建设规划纲要》。",
+    "ref": {
+      "asset_hints": [
+        "image-118",
+        "image-119"
+      ],
+      "concept_id": "proposition-577b3ef646bd",
+      "description": "2021年10月20日，中共中央、国务院正式印发《成渝地区双城经济圈建设规划纲要》，标志着成渝地区双城经济圈踏上高质量发展新征程。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》"
+      ],
+      "evidence_block_ids": [
+        "blk-85836c6555b3c17f13c6"
+      ],
+      "page_end": 249,
+      "page_start": 249,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成渝地区",
+        "time": "2021年10月20日"
+      },
+      "section_path": [
+        "重大事件",
+        "《成渝地区双城经济圈建设规划纲要》正式出台"
+      ],
+      "semantic_signature": {
+        "document_name": "《成渝地区双城经济圈建设规划纲要》",
+        "issuing_authority": "中共中央、国务院"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "《成渝地区双城经济圈建设规划纲要》正式出台",
+      "type": "政策建议"
+    },
+    "title": "《成渝地区双城经济圈建设规划纲要》正式出台"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-743af5529f0a:bundle-5bf9fe9cf6e2",
+      "excluded_fragments": [],
+      "ref_id": "ref-743af5529f0a",
+      "source_blocks": [
+        {
+          "block_id": "blk-85836c6555b3c17f13c6",
+          "page_number": 249,
+          "text": "2021年10月20日，中共中央、国务院正式印发了《成渝地区双城经济圈建设规划纲要》（以下简称《规划纲要》），这是指导当前和今后一个时期成渝地区双城经济圈建设的纲领性文件，是制定相关规划和政策的重要依据，标志着成渝地区双城经济圈踏上了高质量发展的新征程。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-577b3ef646bd",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-743af5529f0a"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "df2fcda6921286e3393227e1d27db5bbc185dbe7b6e6b72ba33af7165e7eb111",
+    "prior_recompile_attempts": 1,
+    "run_name": "public10-claim-review-formal-qwen36-v4-batched-20260810"
+  },
+  "status": "complete"
+}

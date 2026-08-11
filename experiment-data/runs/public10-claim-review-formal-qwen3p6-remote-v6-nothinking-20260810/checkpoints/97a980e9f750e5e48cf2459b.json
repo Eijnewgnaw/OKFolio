@@ -1,0 +1,1376 @@
+{
+  "contract": {
+    "canonical_question": "成都对外产业协同的规模、范围、领域及形式如何，成眉高新技术产业带规划进展如何？",
+    "claims": [
+      {
+        "claim": "2018年，成都实际到位内资5746.9亿元，同比增长19.4%。",
+        "claim_id": "claim-ae8b0fc539a395ec",
+        "evidence_block_ids": [
+          "blk-d7f8259512218af8ab8f"
+        ],
+        "evidence_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长 \\(19.4\\%\\) ，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长 \\(18.3\\%\\) ，占实际到位内资总额的 \\(55.4\\%\\) ；全市新签约引进重大项目（含增资）421个，同比增长 \\(12.3\\%",
+        "evidence_id": "ref-97e4ee640246:bundle-0494b968eea5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          42
+        ],
+        "ref_id": "ref-97e4ee640246",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，成都与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”。",
+        "claim_id": "claim-476f69faa3b889e6",
+        "evidence_block_ids": [
+          "blk-f8a625886756fe99b64f"
+        ],
+        "evidence_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”①，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+        "evidence_id": "ref-97e4ee640246:bundle-0494b968eea5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-97e4ee640246",
+        "scope": {
+          "region": [
+            "成都",
+            "省内20个市（州）"
+          ],
+          "time": "2018年"
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+        "claim_id": "claim-7aea39cbd6f7e4af",
+        "evidence_block_ids": [
+          "blk-f60cd1babea46d2f34c1"
+        ],
+        "evidence_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+        "evidence_id": "ref-97e4ee640246:bundle-0494b968eea5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-97e4ee640246",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+        "claim_id": "claim-ed7e979c48d3d9f0",
+        "evidence_block_ids": [
+          "blk-fb4f9aab15f14efd2341"
+        ],
+        "evidence_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个；",
+        "evidence_id": "ref-97e4ee640246:bundle-0494b968eea5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          43
+        ],
+        "ref_id": "ref-97e4ee640246",
+        "scope": {
+          "time": "2018年"
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "已形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲。",
+        "claim_id": "claim-d68c1cb47c5f7cbf",
+        "evidence_block_ids": [
+          "blk-37e1b8edc2a5af706ceb"
+        ],
+        "evidence_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+        "evidence_id": "ref-c57fc74966af:bundle-6a8943064459",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          60
+        ],
+        "ref_id": "ref-c57fc74966af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+        "claim_id": "claim-8167da0e34d9bfba",
+        "evidence_block_ids": [
+          "blk-37e1b8edc2a5af706ceb"
+        ],
+        "evidence_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+        "evidence_id": "ref-c57fc74966af:bundle-6a8943064459",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          60
+        ],
+        "ref_id": "ref-c57fc74966af",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-ae8b0fc539a395ec",
+          "claim-476f69faa3b889e6",
+          "claim-7aea39cbd6f7e4af",
+          "claim-ed7e979c48d3d9f0"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-97e4ee640246:bundle-0494b968eea5",
+        "reason": "包含回答产业协同规模、范围、领域、形式等固定槽位所需的核心事实。"
+      },
+      {
+        "claim_ids": [
+          "claim-d68c1cb47c5f7cbf",
+          "claim-8167da0e34d9bfba"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c57fc74966af:bundle-6a8943064459",
+        "reason": "包含回答成眉高新技术产业带规划进展、选址及先期项目等固定槽位所需的核心事实。"
+      }
+    ],
+    "group_id": "topic-34f245c63dee",
+    "members": [
+      {
+        "contribution": "提供成都对外产业协同的总体规模、空间范围、合作领域及具体形式等宏观事实，构成回答中心问题的基础数据支撑。",
+        "ref_id": "ref-97e4ee640246",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成眉高新技术产业带规划编制、选址及先期项目等具体进展，补充中心问题中关于重点产业带规划的事实细节。",
+        "ref_id": "ref-c57fc74966af",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-ae8b0fc539a395ec",
+        "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-476f69faa3b889e6",
+        "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7aea39cbd6f7e4af",
+        "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ed7e979c48d3d9f0",
+        "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d68c1cb47c5f7cbf",
+        "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8167da0e34d9bfba",
+        "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-ae8b0fc539a395ec",
+          "claim-476f69faa3b889e6",
+          "claim-d68c1cb47c5f7cbf",
+          "claim-8167da0e34d9bfba"
+        ],
+        "draft_excerpt": "2018年成都实际到位内资5746.9亿元，与省内20个市（州）合作覆盖“五大经济区”，并形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-52615ffc2b447ad7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ae8b0fc539a395ec"
+        ],
+        "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f578be6963c90c4b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3cb9d0e63ce1a42f",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-476f69faa3b889e6"
+        ],
+        "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-36237e1f2bc0986a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7aea39cbd6f7e4af"
+        ],
+        "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-984bc6b29fdfca58",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d68c1cb47c5f7cbf",
+          "claim-8167da0e34d9bfba"
+        ],
+        "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ae0a5ddfd6f3c0f5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed7e979c48d3d9f0"
+        ],
+        "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7042e725bf1c9226",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "12.3%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ae8b0fc539a395ec",
+          "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-476f69faa3b889e6",
+          "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7aea39cbd6f7e4af",
+          "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ed7e979c48d3d9f0",
+          "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d68c1cb47c5f7cbf",
+          "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8167da0e34d9bfba",
+          "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-ae8b0fc539a395ec",
+            "claim-476f69faa3b889e6",
+            "claim-d68c1cb47c5f7cbf",
+            "claim-8167da0e34d9bfba"
+          ],
+          "draft_excerpt": "2018年成都实际到位内资5746.9亿元，与省内20个市（州）合作覆盖“五大经济区”，并形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》。",
+          "finding": "supported",
+          "sentence_id": "sentence-52615ffc2b447ad7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ae8b0fc539a395ec"
+          ],
+          "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%；",
+          "finding": "supported",
+          "sentence_id": "sentence-f578be6963c90c4b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-3cb9d0e63ce1a42f",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-476f69faa3b889e6"
+          ],
+          "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+          "finding": "supported",
+          "sentence_id": "sentence-36237e1f2bc0986a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7aea39cbd6f7e4af"
+          ],
+          "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+          "finding": "supported",
+          "sentence_id": "sentence-984bc6b29fdfca58",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d68c1cb47c5f7cbf",
+            "claim-8167da0e34d9bfba"
+          ],
+          "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+          "finding": "supported",
+          "sentence_id": "sentence-ae0a5ddfd6f3c0f5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed7e979c48d3d9f0"
+          ],
+          "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+          "finding": "supported",
+          "sentence_id": "sentence-7042e725bf1c9226",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "612374940f826a407a5e373ccc7178b797b56a16e288bc916c5d0e8088cd289b",
+  "coverage_history": [
+    {
+      "draft_sha256": "d62e39313491d9c149b87690e513ae0c8a2baa5483efd95d8d5c579404982ae5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-476f69faa3b889e6",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-476f69faa3b889e6 is missing hard anchors from the claim: ['2018年', '20']; claim='2018年，成都与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”。'; excerpt='成都与省内市（州）合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d68c1cb47c5f7cbf",
+            "draft_excerpt": "成都已形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8167da0e34d9bfba",
+            "draft_excerpt": "成都已形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ae8b0fc539a395ec",
+            "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长18.3%，占实际到位内资总额的55.4%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7aea39cbd6f7e4af",
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed7e979c48d3d9f0",
+            "draft_excerpt": "先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过天府新区推进对外产业协同，并重点完善成眉高新技术产业带规划以落实同城化发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-06357357a973a063",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过天府新区推进对外产业协同，并重点完善成眉高新技术产业带规划以落实同城化发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09be28e570d34537",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-476f69faa3b889e6"
+            ],
+            "draft_excerpt": "成都与省内市（州）合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d9a12b58fd0e416e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与国内京津冀、长三角、粤港澳大湾区等区域合作较多，其中与上海、广东、浙江、江苏、天津等合作最为频繁。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c1eb336bc6c3df3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-d68c1cb47c5f7cbf",
+              "claim-8167da0e34d9bfba"
+            ],
+            "draft_excerpt": "成都已形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-712a1f0a37fdde53",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都发布成眉交界地带融合发展实施方案，达成“天府通·成眉通”公交卡合作协议，开通运营了市际公交线路T50和T362；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-500ec802cbc49657",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "建立了水、大气、土壤污染联防联治体系和教育、卫生、社会保障等方面的交流和定期会晤机制。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e3d2073115fd2f1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec"
+            ],
+            "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长18.3%，占实际到位内资总额的55.4%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-12ceadabfc3b4c64",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec"
+            ],
+            "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e1f3cfbe287d80c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "省内层面，通过开展“成都企业市州行”活动，成都与省内市（州）合作也达到一定规模，2018年，参加“成都企业市州行”活动的企业累计480家，达成部门间、区县间合作协议95个，签署投资项目协议183个，总投资额达932.1亿元。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f4ccad30fa324342",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7aea39cbd6f7e4af"
+            ],
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5057347b977f3d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "从省内层面来看，产业合作形式主要有政府间签订合作协议、共建产业园区或基地、承接产业转移、建立合作联盟、联合举办招商推介会、跨区域设立分支机构或连锁店、开展产销对接等。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a9ee9a9ad095e0c1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed7e979c48d3d9f0"
+            ],
+            "draft_excerpt": "先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cdd2659fe9293400",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "现代服务业领域主要以各市（州）商务部门签署合作协议、联合举办招商推介会、建立旅游合作联盟、跨区域设立分支机构或连锁店等形式为主。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce4beff834319c0d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-7aea39cbd6f7e4af"
+            ],
+            "draft_excerpt": "新经济领域主要以政府引进项目的形式为主，都市现代农业主要以农产品产销对接的形式为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6dafbdaf9dfd029e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年以来，成都天府新区聚焦“高标准规划建设天府新区”和“做强天府新区平台功能”战略，以深化成眉同城化发展、协同市（州）共建总部基地、精准承接东部产业转移、推动现代金融产业合作、省内合作范围进一步扩展、国内外地区交流合作等为重点，取得丰硕成果。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5035ac75415dcfc4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "天府新区整体打造天府国际商务中心（B栋、C栋）、商业综合体、酒店，规划“国际国内两栋总部大厦、政务商务两个服务中心、生产生活两种配套体系”的总体布局，推进“四川区域协同总部基地”载体建设，形成“总部在成都、基地在其他市州”的产业互动模式。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b3828fd597b65d29",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "精准承接东部产业转移方面，签约中国商飞软件有限公司、苏宁西南地区电子商务运营中心、川商总部、天府讯动人工智能孵化器、海晨（成都）天府空港物流基地5个项目，签约总金额43.5亿元。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5ba6b29862b84c4d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "聚焦文创与金融产业合作方面，举办面向“一带一路”沿线国家的重大文创合作活动，建设中意文化创新产业园、川港设计创意产业园等合作园区，着力打造文创集聚区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b6f5c2354726a156",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加强与英国、法国、德国、澳大利亚等国投资机构的战略合作，通过国际基金小镇加速聚集各类基金及产业链服务机构。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1580f4f424466435",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "推动省内合作范围进一步扩展方面，2019年，天府新区先后走访乐山、遂宁、自贡、泸州、宜宾、南充、达州、巴中、攀枝花、凉山，深入交流通道、产业、平台、服务共建共享工作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e2b418180f892d3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与广元、内江、宜宾三江新区和成都东部新区签订战略合作协议，细化市州合作关系。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7fd70c1b000f7aef",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与邛崃市签订共建天府新区新能源新材料产业功能区框架合作协议，推动“南拓”区域一体化发展迈入实质性合作阶段。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0731c21e6cd8c1c7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加强与国内外地区交流合作方面，与长春新区、贵安新区、西咸新区、浦东新区等地积极合作，形成国家级新区战略联动。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-deff27113d754758",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对接广西南宁、桂林、钦州3市，共建共享对外开放平台、推动川桂国际产能合作产业园建设。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f65dd2aa5c3a003d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "与新加坡、香港共建自由贸易港，建立面向全球的公共信息服务平台、“一带一路”海外风险评估中心、国际仲裁中心和国际商事纠纷调解中心。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f12471fc7444f90",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "下一步，成都天府新区应有序推进成眉高新技术产业带协作建设，深化与天府新区眉山片区全域合作；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-899fca877b4c8b73",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加快推动市（州）总部产业联盟筹建，落实开展实质性合作；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-140ba59f9dc8ff63",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "加强天府新区各片区、“南拓”区域一体化发展；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9588993e5381d343",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "着力促进与两江新区战略合作，加快建设为成渝地区双城经济圈建设的动力源；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5226718f5e971ade",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "稳步推进与其他国家级新友好合作关系，加快打通新区南向合作通道，持续拓展与重点国别与国内其他发达地区区域合作交流。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9bc57405e8477420",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过天府新区推进对外产业协同，并重点完善成眉高新技术产业带规划以落实同城化发展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "与国内京津冀、长三角、粤港澳大湾区等区域合作较多，其中与上海、广东、浙江、江苏、天津等合作最为频繁。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都发布成眉交界地带融合发展实施方案，达成“天府通·成眉通”公交卡合作协议，开通运营了市际公交线路T50和T362；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "建立了水、大气、土壤污染联防联治体系和教育、卫生、社会保障等方面的交流和定期会晤机制。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "省内层面，通过开展“成都企业市州行”活动，成都与省内市（州）合作也达到一定规模，2018年，参加“成都企业市州行”活动的企业累计480家，达成部门间、区县间合作协议95个，签署投资项目协议183个，总投资额达932.1亿元。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "从省内层面来看，产业合作形式主要有政府间签订合作协议、共建产业园区或基地、承接产业转移、建立合作联盟、联合举办招商推介会、跨区域设立分支机构或连锁店、开展产销对接等。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "现代服务业领域主要以各市（州）商务部门签署合作协议、联合举办招商推介会、建立旅游合作联盟、跨区域设立分支机构或连锁店等形式为主。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2019年以来，成都天府新区聚焦“高标准规划建设天府新区”和“做强天府新区平台功能”战略，以深化成眉同城化发展、协同市（州）共建总部基地、精准承接东部产业转移、推动现代金融产业合作、省内合作范围进一步扩展、国内外地区交流合作等为重点，取得丰硕成果。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "天府新区整体打造天府国际商务中心（B栋、C栋）、商业综合体、酒店，规划“国际国内两栋总部大厦、政务商务两个服务中心、生产生活两种配套体系”的总体布局，推进“四川区域协同总部基地”载体建设，形成“总部在成都、基地在其他市州”的产业互动模式。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "精准承接东部产业转移方面，签约中国商飞软件有限公司、苏宁西南地区电子商务运营中心、川商总部、天府讯动人工智能孵化器、海晨（成都）天府空港物流基地5个项目，签约总金额43.5亿元。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "聚焦文创与金融产业合作方面，举办面向“一带一路”沿线国家的重大文创合作活动，建设中意文化创新产业园、川港设计创意产业园等合作园区，着力打造文创集聚区。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "加强与英国、法国、德国、澳大利亚等国投资机构的战略合作，通过国际基金小镇加速聚集各类基金及产业链服务机构。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "推动省内合作范围进一步扩展方面，2019年，天府新区先后走访乐山、遂宁、自贡、泸州、宜宾、南充、达州、巴中、攀枝花、凉山，深入交流通道、产业、平台、服务共建共享工作。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "与广元、内江、宜宾三江新区和成都东部新区签订战略合作协议，细化市州合作关系。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "与邛崃市签订共建天府新区新能源新材料产业功能区框架合作协议，推动“南拓”区域一体化发展迈入实质性合作阶段。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "加强与国内外地区交流合作方面，与长春新区、贵安新区、西咸新区、浦东新区等地积极合作，形成国家级新区战略联动。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "对接广西南宁、桂林、钦州3市，共建共享对外开放平台、推动川桂国际产能合作产业园建设。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "与新加坡、香港共建自由贸易港，建立面向全球的公共信息服务平台、“一带一路”海外风险评估中心、国际仲裁中心和国际商事纠纷调解中心。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "下一步，成都天府新区应有序推进成眉高新技术产业带协作建设，深化与天府新区眉山片区全域合作；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "加快推动市（州）总部产业联盟筹建，落实开展实质性合作；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "加强天府新区各片区、“南拓”区域一体化发展；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "着力促进与两江新区战略合作，加快建设为成渝地区双城经济圈建设的动力源；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "稳步推进与其他国家级新友好合作关系，加快打通新区南向合作通道，持续拓展与重点国别与国内其他发达地区区域合作交流。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "50",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "362",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "18.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "55.4%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "12.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "480",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "95",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "183",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "932.1",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2019年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "43.5",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "1a21587026943524a0902d4532c158130ccd1c75bfbf8701b5dc8d2c49ace1e2",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ae8b0fc539a395ec",
+            "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长18.3%，占实际到位内资总额的55.4%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-476f69faa3b889e6",
+            "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7aea39cbd6f7e4af",
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed7e979c48d3d9f0",
+            "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d68c1cb47c5f7cbf",
+            "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8167da0e34d9bfba",
+            "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec",
+              "claim-476f69faa3b889e6",
+              "claim-d68c1cb47c5f7cbf"
+            ],
+            "draft_excerpt": "2018年成都实际到位内资5746.9亿元，与省内20个市（州）合作覆盖“五大经济区”，并形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52615ffc2b447ad7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec"
+            ],
+            "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长18.3%，占实际到位内资总额的55.4%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-676d1152ddef5c32",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec"
+            ],
+            "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3cb9d0e63ce1a42f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-476f69faa3b889e6"
+            ],
+            "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36237e1f2bc0986a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7aea39cbd6f7e4af"
+            ],
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-984bc6b29fdfca58",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d68c1cb47c5f7cbf",
+              "claim-8167da0e34d9bfba"
+            ],
+            "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae0a5ddfd6f3c0f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed7e979c48d3d9f0"
+            ],
+            "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7042e725bf1c9226",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "18.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "55.4%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "12.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "612374940f826a407a5e373ccc7178b797b56a16e288bc916c5d0e8088cd289b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ae8b0fc539a395ec",
+            "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-476f69faa3b889e6",
+            "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7aea39cbd6f7e4af",
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed7e979c48d3d9f0",
+            "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d68c1cb47c5f7cbf",
+            "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8167da0e34d9bfba",
+            "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec",
+              "claim-476f69faa3b889e6",
+              "claim-d68c1cb47c5f7cbf",
+              "claim-8167da0e34d9bfba"
+            ],
+            "draft_excerpt": "2018年成都实际到位内资5746.9亿元，与省内20个市（州）合作覆盖“五大经济区”，并形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52615ffc2b447ad7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae8b0fc539a395ec"
+            ],
+            "draft_excerpt": "2018年，成都实际到位内资5746.9亿元、同比增长19.4%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f578be6963c90c4b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3cb9d0e63ce1a42f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-476f69faa3b889e6"
+            ],
+            "draft_excerpt": "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36237e1f2bc0986a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7aea39cbd6f7e4af"
+            ],
+            "draft_excerpt": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-984bc6b29fdfca58",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d68c1cb47c5f7cbf",
+              "claim-8167da0e34d9bfba"
+            ],
+            "draft_excerpt": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae0a5ddfd6f3c0f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed7e979c48d3d9f0"
+            ],
+            "draft_excerpt": "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7042e725bf1c9226",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "全市新签约引进重大项目（含增资）421个，同比增长12.3%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "12.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2018年，成都实际到位内资5746.9亿元、同比增长19.4%；全市新签约引进重大项目（含增资）421个，同比增长12.3%。\n\n从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。\n\n成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。\n\n## 成眉高新技术产业带规划与同城化举措\n\n形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。\n\n## 合作领域与形式\n\n其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个。",
+    "description": "2018年成都实际到位内资5746.9亿元，与省内20个市（州）合作覆盖“五大经济区”，并形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》。",
+    "ref": {
+      "asset_hints": [
+        "html-table-005",
+        "image-010"
+      ],
+      "concept_id": "topic-34f245c63dee",
+      "description": "成都通过天府新区推进对外产业协同，并重点完善成眉高新技术产业带规划以落实同城化发展。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2018年，成都实际到位内资5746.9亿元、同比增长 \\(19.4\\%\\) ，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长 \\(18.3\\%\\) ，占实际到位内资总额的 \\(55.4\\%\\) ；全市新签约引进重大项目（含增资）421个，同比增长 \\(12.3\\%",
+        "从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”①，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。",
+        "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。",
+        "其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个；",
+        "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。"
+      ],
+      "evidence_block_ids": [
+        "blk-d7f8259512218af8ab8f",
+        "blk-f8a625886756fe99b64f",
+        "blk-f60cd1babea46d2f34c1",
+        "blk-fb4f9aab15f14efd2341",
+        "blk-37e1b8edc2a5af706ceb"
+      ],
+      "page_end": 76,
+      "page_start": 42,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都对外产业协同与成眉高新技术产业带规划",
+      "type": "分析框架"
+    },
+    "title": "成都对外产业协同与成眉高新技术产业带规划"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-97e4ee640246:bundle-0494b968eea5",
+      "excluded_fragments": [],
+      "ref_id": "ref-97e4ee640246",
+      "source_blocks": [
+        {
+          "block_id": "blk-d7f8259512218af8ab8f",
+          "page_number": 42,
+          "text": "成都对外产业协同有效推进，合作规模不断扩大。2018年，成都实际到位内资5746.9亿元、同比增长 \\(19.4\\%\\) ，其中，来自北京、广东、福建、上海、浙江、重庆6省市资金总额达3183.1亿元、较2017年增长 \\(18.3\\%\\) ，占实际到位内资总额的 \\(55.4\\%\\) ；全市新签约引进重大项目（含增资）421个，同比增长 \\(12.3\\%\\) 。省内层面，通过开展“成都企业市州行”活动，成都与省内市（州）合作也达到一定规模，2018年，参加“成都企业市州行”活动的企业累计480家，达成部门间、区县间合作协议95个，签署投资项目协议183个，总投资额达932.1亿元。"
+        },
+        {
+          "block_id": "blk-3e8c8a090ebd52a90f24",
+          "page_number": 42,
+          "text": "原始 PDF 第 42 页图片"
+        },
+        {
+          "block_id": "blk-56291ef5672ab1185b85",
+          "page_number": 42,
+          "text": "图2-1 2017—2018年成都内资部分来源地情况"
+        },
+        {
+          "block_id": "blk-4e20761486d9b0cec0cb",
+          "page_number": 42,
+          "text": "数据来源：成都市投促局"
+        },
+        {
+          "block_id": "blk-f8a625886756fe99b64f",
+          "page_number": 43,
+          "text": "成都产业合作空间范围较广，遍布国内重要经济区域。从省内层面来看，2018年，成都与德阳、雅安、内江、广元、攀枝花、阿坝等省内14个市（州）相关政府部门签订产业合作协议，与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”①，其中与德阳、眉山、资阳、绵阳等环成都经济圈城市合作较为紧密。从国内层面来看，成都与京津冀、长三角、粤港澳大湾区等区域合作较多，其中与上海、广东、浙江、江苏、天津等合作最为频繁；而在中西部地区主要与重庆、贵州、广西、云南、陕西等省市开展了相关产业合作。"
+        },
+        {
+          "block_id": "blk-f60cd1babea46d2f34c1",
+          "page_number": 43,
+          "text": "成都与省内外区域产业合作已涵盖先进制造业、现代服务业、都市现代农业、新经济等产业的多个细分领域。先进制造业方面，成都与国内、省内区域在汽车及零部件制造、电子信息、新型材料、装备制造等领域均开展了合作，而在食品工业领域主要与省内城市合作，在生物技术、医疗美容等领域与国内区域合作较多。现代服务业方面，成都与国内、省内区域在会展、金融、物流、文创、生态旅游等多个领域均开展了合作。新经济产业方面，成都与国内、省内区域在大数据和新能源产业领域均开展了合作，而在智能制造产业领域则与国内区域合作较多。都市现代农业方面，成都与省内城市合作较多，主要集中于农产品生产基地建立领域，而与国内其他区域主要在农产品加工方面开展了合作。"
+        },
+        {
+          "block_id": "blk-fb4f9aab15f14efd2341",
+          "page_number": 43,
+          "text": "成都与其他区域产业合作形式较为丰富。从省内层面来看，产业合作形式主要有政府间签订合作协议、共建产业园区或基地、承接产业转移、建立合作联盟、联合举办招商推介会、跨区域设立分支机构或连锁店、开展产销对接等。其中，在先进制造业领域主要以产业转移承接、共建工业园区等形式为主，2018年，成都与省内市（州）在建或拟建产业合作园区数量达13个；在现代服务业领域主要以各市（州）商务部门签署合作协议、联合举办招商推介会、建立旅游合作联盟、跨区域设立分支机构或连锁店等形式为主；在新经济领域主要以政府引进项目的形式为主；在都市现代农业主要以农产品产销对接的形式为主。从国内层面来看，产业合作形式主要以政府与企业签订战略合作协议、企业项目跨区域投资、共建载体、投资推介会为主。具体而言，在先进制造业合作方面，主要采取政"
+        },
+        {
+          "block_id": "blk-15bc31f7bf93021f5031",
+          "page_number": 44,
+          "text": "府与企业间签订战略合作协议、企业项目跨区域投资、开展产业投资推介会等合作形式，现代服务业主要以共建基地或平台、签署合作协议等为主，新经济主要以政府和企业签订项目投资合作协议为主，都市现代农业主要以共建农产品生产基地为主。"
+        },
+        {
+          "block_id": "blk-6e43284c13f0cfd4b9c3",
+          "page_number": 44,
+          "text": "表 2-1 2018 成都与省内市(州)合作共建园区情况"
+        },
+        {
+          "block_id": "blk-f64e8130f6593363ecb5",
+          "page_number": 44,
+          "text": "<table><tr><td>园区名称</td><td>建设进度</td><td>所在地</td><td>合作市(州)</td><td>重点发展领域</td></tr><tr><td>成都·阿坝工业集中发展区</td><td rowspan=\"7\">在建</td><td>成都市金堂县</td><td>阿坝州</td><td>节能环保、资源再生利用、电子产业集群</td></tr><tr><td>成眉工业集中发展区</td><td>眉山市彭山区</td><td>眉山市</td><td>化工、机械加工、机电</td></tr><tr><td>四川成雅工业园区</td><td>雅安市名山区</td><td>雅安市</td><td>电子信息、机械制造、表面处理、食品和农产品加工</td></tr><tr><td>成都-德阳工业集中发展区</td><td>德阳市中江县</td><td>德阳市</td><td>电子信息、机械制造、食品饮料、家具轻纺</td></tr><tr><td>成甘工业集中发展区</td><td>成都市邛崃市</td><td>甘孜州</td><td>新材料、新能源、精密机械与智能制造产业</td></tr><tr><td>成都广安生物医药协作研发产业基地</td><td>成都市双流区</td><td>广安市</td><td>重点服务于广安医药产业发展,是集研发、成果转化、产品展示、服务配套、中试生产为一体的创新创业基地</td></tr><tr><td>成都·凉山工业园区</td><td>凉山州西昌市</td><td>凉山州</td><td>烟草食品医药产业,金属压延加工、金属制品及设备制造产业,新能源产业</td></tr><tr><td>四川省鞋服产业基地</td><td rowspan=\"6\">拟建</td><td>资阳市乐至县</td><td>资阳市</td><td>制鞋产品生产、研发、展示、市场、物流、技术培训、电子商务为一体的现代制鞋产业集群散区</td></tr><tr><td>中国大车都成德配套产业园</td><td>德阳经开区</td><td>德阳市</td><td>差异化承接汽车整车转移项目,发展汽车零部件配套产业</td></tr><tr><td>成德国际铁路港口岸产业合作园</td><td>德阳高新区</td><td>德阳市</td><td>对国际铁路港整车进出口、肉类冷链进出口等五大类产业进行延伸服务和配套;开展针对德阳特色产业的进出口口岸业务</td></tr><tr><td>成宜重大装备制造产业园</td><td>宜宾市</td><td>宜宾市</td><td>航空航天、新能源发电等先进装备制造业</td></tr><tr><td>汽车产业配套协同园区</td><td>宜宾市</td><td>宜宾市</td><td>零部件生产、装配产业</td></tr><tr><td>成都·大凉山农特产品加工贸易园区</td><td>成都市简阳市</td><td>凉山州</td><td>农特产品加工</td></tr></table>"
+        },
+        {
+          "block_id": "blk-b8e371600fdc31257d57",
+          "page_number": 44,
+          "text": "资料来源：课题组根据《改革开放40年·成都经济发展道路》、省内市（州）、成都市相关部门及区（市）县提供的相关资料整理得出。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-c57fc74966af:bundle-6a8943064459",
+      "excluded_fragments": [],
+      "ref_id": "ref-c57fc74966af",
+      "source_blocks": [
+        {
+          "block_id": "blk-37e1b8edc2a5af706ceb",
+          "page_number": 60,
+          "text": "形成《成眉高新技术产业带规划编制工作方案》和《成眉高新技术产业带规划提纲》初步提纲，已大致确定成眉高新技术产业转化园区起步区选址及先期项目。发布成眉交界地带融合发展实施方案，达成“天府通·成眉通”公交卡合作协议，开通运营了市际公交线路T50和T362；建立了水、大气、土壤污染联防联治体系和教育、卫生、社会保障等方面的交流和定期会晤机制。"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-9e4129382314d8f50b9e",
+          "page_number": 60,
+          "text": "整体打造天府国际商务中心（B栋、C栋）、商业综合体、酒店，规划“国际国内两栋总部大厦、政务商务两个服务中心、生产生活两种配套体系”的总体布局，推进“四川区域协同总部基地”载体建设，形成“总部在成都、基地在其他市州”的产业互动模式。"
+        },
+        {
+          "block_id": "blk-ff5cb32999997772798d",
+          "page_number": 60,
+          "text": "签约中国商飞软件有限公司、苏宁西南地区电子商务运营中心、川商总部、天府讯动人工智能孵化器、海晨（成都）天府空港物流基地5个项目，签约总金额43.5亿元，推动产业转移工作有序进行。"
+        },
+        {
+          "block_id": "blk-f441546af8735a3d632b",
+          "page_number": 60,
+          "text": "举办面向“一带一路”沿线国家的重大文创合作活动，建设中意文化创新产业园、川港设计创意产业园等合作园区，着力打造文创集聚区。加强与英国、法国、德国、澳大利亚等国投资机构的战略合作，通过国际基金小镇加速聚集各类基金及产业链服务机构。"
+        },
+        {
+          "block_id": "blk-0906cadf06a23417183d",
+          "page_number": 60,
+          "text": "2019年以来，成都天府新区聚焦“高标准规划建设天府新区”和“做强天府新区平台功能”战略，以深化成眉同城化发展、协同市（州）共建总部基地、精准承接东部产业转移、推动现代金融产业合作、省内合作范围进一步扩展、国内外地区交流合作等为重点，取得丰硕成果。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-dee41b45230010c87cbd",
+          "page_number": 60,
+          "text": "2019年，天府新区先后走访乐山、遂宁、自贡、泸州、宜宾、南充、达州、巴中、攀枝花、凉山，深入交流通道、产业、平台、服务共建共享工作。与广元、内江、宜宾三江新区和成都东部新区签订战略合作协议，细化市州合作关系。与邛崃市签订共建天府新区新能源新材料产业功能区框架合作协议，推动“南拓”区域一体化发展迈入实质性合作阶段。"
+        },
+        {
+          "block_id": "blk-94bf613144746809a7ef",
+          "page_number": 60,
+          "text": "与长春新区、贵安新区、西咸新区、浦东新区等地积极合作，形成国家级新区战略联动。对接广西南宁、桂林、钦州3市，共建共享对外开放平台、推动川桂国际产能合作产业园建设。与新加坡、香港共建自由贸易港，建立面向全球的公共信息服务平台、“一带一路”海外风险评估中心、国际仲裁中心和国际商事纠纷调解中心。"
+        },
+        {
+          "block_id": "blk-6da24f5dfc953c2bbe10",
+          "page_number": 60,
+          "text": "下一步，成都天府新区应有序推进成眉高新技术产业带协作建设，深化与天府新区眉山片区全域合作；加快推动市（州）总部产业联盟筹建，落实开展实质性合作；加强天府新区各片区、“南拓”区域一体化发展；着力促进与两江新区战略合作，加快建设为成渝地区双城经济圈建设的动力源；稳步推进与其他国家级新友好合作关系，加快打通新区南向合作通道，持续拓展与重点国别与国内其他发达地区区域合作交流。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-34f245c63dee",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-97e4ee640246",
+    "ref-c57fc74966af"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

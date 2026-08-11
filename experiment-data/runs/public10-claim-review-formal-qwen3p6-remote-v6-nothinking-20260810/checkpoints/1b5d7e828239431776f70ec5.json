@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-46c6f5126583:bundle-9d17ef36c10d) is missing hard anchors from the claim: ['2020年12月31日']; claim='成资渝高速公路于2020年12月31日24时正式开放通车。'; excerpt='2020年12月30日，成资渝高速公路通车仪式举行，并将于12月31日24时正式开放通车，标志着又一条东向出川大通道、成渝“双核”之间的第四条高速公路建成通车。'",
+  "group_id": "topic-23eb42fcf938",
+  "ref_ids": [
+    "ref-46c6f5126583",
+    "ref-bd8c6bca6e9d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[6].evidence_excerpt (ref-9aa9aa3e5165:bundle-5aea0fb6b684) is missing hard anchors from the claim: ['2019年']; claim='2019年成都与德阳、眉山、资阳、乐山、遂宁等周边城市协同推进水利、信息、能源等基础设施建设。'; excerpt='成都进一步与德阳、眉山、资阳、乐山、遂宁等周边城市协同推进水利、信息、能源等基础设施建设，在老鹰水库水源保护一望水河泄水工程、李家岩水库主体工程等跨区域重大水利工程建设取得较大进展，互联网骨干通信通力稳步提升，国际性区域通信枢纽地位增强，在电网建设、天然气管道建设、新能源布局等能源合作领域均取得新进展。'",
+  "group_id": "topic-ef7f0363bda3",
+  "ref_ids": [
+    "ref-9aa9aa3e5165"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

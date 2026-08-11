@@ -1,0 +1,625 @@
+{
+  "contract": {
+    "canonical_question": "成昆高铁快运专线试点运行的具体方案、服务对象及预期经济影响是什么？",
+    "claims": [
+      {
+        "claim": "成昆高铁快运专线试点列车于2023年7月12日正式开通运行。",
+        "claim_id": "claim-a8c5aa4b7fffafaf",
+        "evidence_block_ids": [
+          "blk-1547637e31db89f244ce"
+        ],
+        "evidence_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          294
+        ],
+        "ref_id": "ref-41f3555135e6",
+        "scope": {
+          "time": [
+            "2023年7月12日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "试点列车经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+        "claim_id": "claim-9a10191ce7d5e382",
+        "evidence_block_ids": [
+          "blk-1547637e31db89f244ce"
+        ],
+        "evidence_excerpt": "经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          294
+        ],
+        "ref_id": "ref-41f3555135e6",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营。",
+        "claim_id": "claim-aa9b362c9332bd1f",
+        "evidence_block_ids": [
+          "blk-cb138cb5d78bb099160b"
+        ],
+        "evidence_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          294
+        ],
+        "ref_id": "ref-41f3555135e6",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "高铁快运主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+        "claim_id": "claim-1e0fafc149e5d9b4",
+        "evidence_block_ids": [
+          "blk-cb138cb5d78bb099160b"
+        ],
+        "evidence_excerpt": "主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          294
+        ],
+        "ref_id": "ref-41f3555135e6",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "高铁快运专列将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通。",
+        "claim_id": "claim-ed7dc976b843502f",
+        "evidence_block_ids": [
+          "blk-cb138cb5d78bb099160b"
+        ],
+        "evidence_excerpt": "将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          294
+        ],
+        "ref_id": "ref-41f3555135e6",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "高铁快运专列为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+        "claim_id": "claim-513325600bc43f88",
+        "evidence_block_ids": [
+          "blk-cb138cb5d78bb099160b"
+        ],
+        "evidence_excerpt": "为推动成渝地区、云贵地区经济发展产生积极促进作用",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          294
+        ],
+        "ref_id": "ref-41f3555135e6",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-a8c5aa4b7fffafaf",
+          "claim-9a10191ce7d5e382",
+          "claim-aa9b362c9332bd1f",
+          "claim-1e0fafc149e5d9b4",
+          "claim-ed7dc976b843502f",
+          "claim-513325600bc43f88"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+        "reason": "该证据包含试点运行的时间、路线、运营主体、服务对象及经济影响等关键事实，是回答中心问题所必需的。"
+      }
+    ],
+    "group_id": "topic-b0133e10607c",
+    "members": [
+      {
+        "contribution": "该证据提供了成昆高铁快运专线试点运行的核心事实，包括开通时间、路线、运营主体、服务对象及经济影响，直接回答中心问题。",
+        "ref_id": "ref-41f3555135e6",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-a8c5aa4b7fffafaf",
+        "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9a10191ce7d5e382",
+        "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-aa9b362c9332bd1f",
+        "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1e0fafc149e5d9b4",
+        "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ed7dc976b843502f",
+        "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-513325600bc43f88",
+        "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+        "finding": "draft_excerpt",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-a8c5aa4b7fffafaf",
+          "claim-aa9b362c9332bd1f",
+          "claim-1e0fafc149e5d9b4",
+          "claim-513325600bc43f88"
+        ],
+        "draft_excerpt": "2023年7月12日成昆高铁快运专线开通，由中铁快运经营，服务高附加值货物，旨在促进成渝及云贵地区经济发展。",
+        "finding": "sentence_attributions",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fc58412b8c50b8b6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8c5aa4b7fffafaf",
+          "claim-9a10191ce7d5e382"
+        ],
+        "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+        "finding": "sentence_attributions",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4d57c5ffb9d83f5e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-aa9b362c9332bd1f",
+          "claim-1e0fafc149e5d9b4"
+        ],
+        "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+        "finding": "sentence_attributions",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-19231191c367a9f7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed7dc976b843502f",
+          "claim-513325600bc43f88"
+        ],
+        "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+        "finding": "sentence_attributions",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5341b858f0ed5080",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-a8c5aa4b7fffafaf",
+          "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9a10191ce7d5e382",
+          "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-aa9b362c9332bd1f",
+          "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1e0fafc149e5d9b4",
+          "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ed7dc976b843502f",
+          "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-513325600bc43f88",
+          "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+          "finding": "draft_excerpt",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-a8c5aa4b7fffafaf",
+            "claim-aa9b362c9332bd1f",
+            "claim-1e0fafc149e5d9b4",
+            "claim-513325600bc43f88"
+          ],
+          "draft_excerpt": "2023年7月12日成昆高铁快运专线开通，由中铁快运经营，服务高附加值货物，旨在促进成渝及云贵地区经济发展。",
+          "finding": "sentence_attributions",
+          "sentence_id": "sentence-fc58412b8c50b8b6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8c5aa4b7fffafaf",
+            "claim-9a10191ce7d5e382"
+          ],
+          "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+          "finding": "sentence_attributions",
+          "sentence_id": "sentence-4d57c5ffb9d83f5e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-aa9b362c9332bd1f",
+            "claim-1e0fafc149e5d9b4"
+          ],
+          "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+          "finding": "sentence_attributions",
+          "sentence_id": "sentence-19231191c367a9f7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed7dc976b843502f",
+            "claim-513325600bc43f88"
+          ],
+          "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+          "finding": "sentence_attributions",
+          "sentence_id": "sentence-5341b858f0ed5080",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "64123ea229c1185eaf04082a7cb2004727ba49bb3cc9e478ca2d80dd291e3481",
+  "coverage_history": [
+    {
+      "draft_sha256": "83c52bec99763fb197bddc0ee290505ea742c5ee042b68e3985e99b3240c976b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a8c5aa4b7fffafaf",
+            "draft_excerpt": "2023年7月12日成昆高铁快运专线正式开通，通过高铁动车组试点列车服务高附加值货物，旨在促进区域经济发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a10191ce7d5e382",
+            "draft_excerpt": "该线路经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时，沿途站不进行货物装卸作业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aa9b362c9332bd1f",
+            "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1e0fafc149e5d9b4",
+            "draft_excerpt": "主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed7dc976b843502f",
+            "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-513325600bc43f88",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a8c5aa4b7fffafaf",
+              "claim-1e0fafc149e5d9b4",
+              "claim-513325600bc43f88"
+            ],
+            "draft_excerpt": "2023年7月12日成昆高铁快运专线正式开通，通过高铁动车组试点列车服务高附加值货物，旨在促进区域经济发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57d37db301266017",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8c5aa4b7fffafaf"
+            ],
+            "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e34b146d7377a548",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9a10191ce7d5e382"
+            ],
+            "draft_excerpt": "该线路经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时，沿途站不进行货物装卸作业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2bd6c1d18b619583",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aa9b362c9332bd1f"
+            ],
+            "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09454bd6353180bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1e0fafc149e5d9b4"
+            ],
+            "draft_excerpt": "主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5b2207d50bcc690c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed7dc976b843502f",
+              "claim-513325600bc43f88"
+            ],
+            "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e2e43d3e7f50137c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "64123ea229c1185eaf04082a7cb2004727ba49bb3cc9e478ca2d80dd291e3481",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-a8c5aa4b7fffafaf",
+            "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a10191ce7d5e382",
+            "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aa9b362c9332bd1f",
+            "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1e0fafc149e5d9b4",
+            "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed7dc976b843502f",
+            "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-513325600bc43f88",
+            "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a8c5aa4b7fffafaf",
+              "claim-aa9b362c9332bd1f",
+              "claim-1e0fafc149e5d9b4",
+              "claim-513325600bc43f88"
+            ],
+            "draft_excerpt": "2023年7月12日成昆高铁快运专线开通，由中铁快运经营，服务高附加值货物，旨在促进成渝及云贵地区经济发展。",
+            "finding": "sentence_attributions",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc58412b8c50b8b6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8c5aa4b7fffafaf",
+              "claim-9a10191ce7d5e382"
+            ],
+            "draft_excerpt": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。",
+            "finding": "sentence_attributions",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d57c5ffb9d83f5e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aa9b362c9332bd1f",
+              "claim-1e0fafc149e5d9b4"
+            ],
+            "draft_excerpt": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。",
+            "finding": "sentence_attributions",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-19231191c367a9f7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed7dc976b843502f",
+              "claim-513325600bc43f88"
+            ],
+            "draft_excerpt": "该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+            "finding": "sentence_attributions",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5341b858f0ed5080",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时。试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物。该专线的开通将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。",
+    "description": "2023年7月12日成昆高铁快运专线开通，由中铁快运经营，服务高附加值货物，旨在促进成渝及云贵地区经济发展。",
+    "ref": {
+      "asset_hints": [
+        "image-172"
+      ],
+      "concept_id": "topic-b0133e10607c",
+      "description": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时，沿途站不进行货物装卸作业。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开",
+        "经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时",
+        "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营",
+        "主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物",
+        "将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通",
+        "为推动成渝地区、云贵地区经济发展产生积极促进作用"
+      ],
+      "evidence_block_ids": [
+        "blk-1547637e31db89f244ce",
+        "blk-cb138cb5d78bb099160b"
+      ],
+      "page_end": 294,
+      "page_start": 294,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成都与昆明双向高铁快运专线正式开通运行"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "成都与昆明双向高铁快运专线正式开通运行",
+      "type": "分析框架"
+    },
+    "title": "成都与昆明双向高铁快运专线正式开通运行"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-41f3555135e6:bundle-a4b335043490",
+      "excluded_fragments": [],
+      "ref_id": "ref-41f3555135e6",
+      "source_blocks": [
+        {
+          "block_id": "blk-1547637e31db89f244ce",
+          "page_number": 294,
+          "text": "2023年7月12日，成昆高铁快运动车组试点列车分别从成都双流西站、昆明洛羊镇站双向对开，经沪昆高铁、成贵高铁运行，全程1127公里，运行时间近6个小时，沿途站不进行货物装卸作业。此次实行标志着利用整列动车组开展高铁快运批量运输试点工作正式实施。此后，整列高铁快运动车组列车每日按2列对开安排。"
+        },
+        {
+          "block_id": "blk-cb138cb5d78bb099160b",
+          "page_number": 294,
+          "text": "试点列车由国铁集团所属的中铁快运股份有限公司面向市场开展经营，主要服务于生鲜食品、商务急件、生物医药、电子产品等时效性要求较高的高附加值货物，此次试点列车的开通，可以帮助成渝地区的特色产品及特色轻工业产品下行，并通过云南利用中老通道打开国际市场。此外，云南的鲜花、水果等特色经济产品可以利用成昆线路上行，丰富川渝人民的日常生活供给。对于快递行业来说，高铁货运专列作为航空运力、干线运力之外的有力补充，将扩大城市间范围，大幅提升城市圈之间生产要素的高效流通，为推动成渝地区、云贵地区经济发展产生积极促进作用。"
+        },
+        {
+          "block_id": "blk-c995e6d0d4d3326af206",
+          "page_number": 294,
+          "text": "原始 PDF 第 294 页图片"
+        },
+        {
+          "block_id": "blk-0e4f27323353d64a0911",
+          "page_number": 294,
+          "text": "图7-5 DJ881次列车从成都发出"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-b0133e10607c",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-41f3555135e6"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,1625 @@
+{
+  "contract": {
+    "canonical_question": "2016年至2020年间，成都获批设立哪些国家级开放型经济平台，其核心定位、实施范围及主要产业方向是什么？",
+    "claims": [
+      {
+        "claim": "2020年4月，国家发改委正式批复成都建设中日地方发展合作示范区。",
+        "claim_id": "claim-ed6821cd14b09e30",
+        "evidence_block_ids": [
+          "blk-db2ed33b37a878205023",
+          "blk-071bac77746b15e6c77e"
+        ],
+        "evidence_excerpt": "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158,
+          161
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "time": [
+            "2020年4月"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区位于成都高新区，实施范围36.9平方公里。",
+        "claim_id": "claim-2ad83b5fe265a85a",
+        "evidence_block_ids": [
+          "blk-461c6c7b9d42765c9a20"
+        ],
+        "evidence_excerpt": "中日（成都）地方发展合作示范区。位于成都高新区，实施范围为36.9平方公里，涵盖成都高新南区瞪羚谷片区、骑龙片区及未来科技城片区",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "region": [
+            "成都高新区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区涵盖瞪羚谷片区、骑龙片区及未来科技城片区。",
+        "claim_id": "claim-5d539c9a2ff6b352",
+        "evidence_block_ids": [
+          "blk-461c6c7b9d42765c9a20"
+        ],
+        "evidence_excerpt": "中日（成都）地方发展合作示范区。位于成都高新区，实施范围为36.9平方公里，涵盖成都高新南区瞪羚谷片区、骑龙片区及未来科技城片区",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "region": [
+            "瞪羚谷片区",
+            "骑龙片区",
+            "未来科技城片区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区以文化创意为产业主题。",
+        "claim_id": "claim-d402bbd07e0605bf",
+        "evidence_block_ids": [
+          "blk-14bd3fd864bbe83762c5"
+        ],
+        "evidence_excerpt": "合作示范区将以文化创意为产业主题，带动与文化创意相关的信息技术产业、智能制造产业和金融产业协同发展",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          159
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区瞪羚谷片区重点发展动漫游戏、数字媒体、文化会展、文化商业、文化科技等产业。",
+        "claim_id": "claim-a4c725efd6fd2271",
+        "evidence_block_ids": [
+          "blk-461c6c7b9d42765c9a20"
+        ],
+        "evidence_excerpt": "其中，瞪羚谷片区，是合作示范区的成熟核心区，将重点发展动漫游戏、数字媒体、文化会展、文化商业、文化科技等产业细分领域",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "region": [
+            "瞪羚谷片区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区骑龙片区重点发展信息服务、创意设计、文化贸易、文化金融等产业。",
+        "claim_id": "claim-faaf3f2fd99f7c02",
+        "evidence_block_ids": [
+          "blk-4e1ab5ab5a53a906fbb4"
+        ],
+        "evidence_excerpt": "服务贸易合作区位于骑龙片区，是合作示范区的起步建设区，将重点发展信息服务、创意设计、文化贸易、文化金融等产业细分领域",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          159
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "region": [
+            "骑龙片区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区未来科技城重点发展航空经济、文化旅游、文化教育等产业。",
+        "claim_id": "claim-0af634c29fc9dcf7",
+        "evidence_block_ids": [
+          "blk-4e1ab5ab5a53a906fbb4"
+        ],
+        "evidence_excerpt": "未来科技城是合作示范区的功能拓展区，将重点发展航空经济、文化旅游、文化教育等产业细分领域",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          159
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "region": [
+            "未来科技城"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中日（成都）地方发展合作示范区到2025年全面建成。",
+        "claim_id": "claim-2f11b2134071126f",
+        "evidence_block_ids": [
+          "blk-f480087e44bf7c787cea"
+        ],
+        "evidence_excerpt": "到2025年，合作示范区全面建成，文创产业发展良好、文化贸易往来畅通、运营管理高效完善、辐射带动作用突出。",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          160
+        ],
+        "ref_id": "ref-0b5fa786bb2d",
+        "scope": {
+          "time": [
+            "2025年"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年1月，国务院同意成都设立跨境电子商务综合试验区。",
+        "claim_id": "claim-ce634f5ada1115b2",
+        "evidence_block_ids": [
+          "blk-eaefbf8d7183e847a07a"
+        ],
+        "evidence_excerpt": "2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。",
+        "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          92
+        ],
+        "ref_id": "ref-1aa9a1d33642",
+        "scope": {
+          "time": [
+            "2016年1月"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "跨境电子商务综合试验区旨在在跨境电子商务企业对企业（B2B）方式相关环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试。",
+        "claim_id": "claim-047021f642468224",
+        "evidence_block_ids": [
+          "blk-eaefbf8d7183e847a07a"
+        ],
+        "evidence_excerpt": "着力在跨境电子商务企业对企业（B2B）方式相关环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试",
+        "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          92
+        ],
+        "ref_id": "ref-1aa9a1d33642",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都跨境电子商务综合试验区以跨境B2B出口为主要方向。",
+        "claim_id": "claim-cc19148eb803bc21",
+        "evidence_block_ids": [
+          "blk-aa5629239df377c86acf"
+        ],
+        "evidence_excerpt": "- 以跨境B2B出口为主要方向，探索跨境电子商务新模式，释放市场活力，吸引大中小企业集聚，促进新业态成长",
+        "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          93
+        ],
+        "ref_id": "ref-1aa9a1d33642",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都跨境电子商务综合试验区规划跨境电子商务线下产业载体区域。",
+        "claim_id": "claim-1b3ab2599c691335",
+        "evidence_block_ids": [
+          "blk-a1d9c0f1999a60879e83"
+        ],
+        "evidence_excerpt": "规划跨境电子商务线下产业载体区域",
+        "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          93
+        ],
+        "ref_id": "ref-1aa9a1d33642",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都跨境电子商务综合试验区构建“单一窗口”线上公共服务平台。",
+        "claim_id": "claim-53093c3898b1b507",
+        "evidence_block_ids": [
+          "blk-385b41119ef6296b6e6c"
+        ],
+        "evidence_excerpt": "构建“单一窗口”线上公共服务平台，提供便利化通关服务",
+        "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          93
+        ],
+        "ref_id": "ref-1aa9a1d33642",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-ed6821cd14b09e30",
+          "claim-2ad83b5fe265a85a",
+          "claim-5d539c9a2ff6b352",
+          "claim-d402bbd07e0605bf",
+          "claim-a4c725efd6fd2271",
+          "claim-faaf3f2fd99f7c02",
+          "claim-0af634c29fc9dcf7",
+          "claim-2f11b2134071126f"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+        "reason": "包含示范区批复时间、实施范围、空间布局及产业方向等核心事实，直接回答中心问题。"
+      },
+      {
+        "claim_ids": [
+          "claim-ce634f5ada1115b2",
+          "claim-047021f642468224",
+          "claim-cc19148eb803bc21",
+          "claim-1b3ab2599c691335",
+          "claim-53093c3898b1b507"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+        "reason": "包含成都获批设立跨境电子商务综合试验区的批复时间、政策依据及实施方案核心内容，直接回答中心问题。"
+      }
+    ],
+    "group_id": "topic-029a4f5913c2",
+    "members": [
+      {
+        "contribution": "提供中日（成都）地方发展合作示范区的批复时间、实施范围、空间布局及重点产业方向，确立成都作为内陆城市对日开放示范平台的定位。",
+        "ref_id": "ref-0b5fa786bb2d",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成都获批设立跨境电子商务综合试验区的批复时间、政策依据及实施方案核心内容，确立成都跨境电商先行先试的政策地位。",
+        "ref_id": "ref-1aa9a1d33642",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "human_review",
+    "rows": [
+      {
+        "claim_id": "claim-ce634f5ada1115b2",
+        "draft_excerpt": "2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ed6821cd14b09e30",
+        "draft_excerpt": "2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2f11b2134071126f",
+        "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+        "finding": "uncertain",
+        "status": "uncertain"
+      },
+      {
+        "claim_id": "claim-047021f642468224",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-0af634c29fc9dcf7",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-1b3ab2599c691335",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-2ad83b5fe265a85a",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-53093c3898b1b507",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-5d539c9a2ff6b352",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-a4c725efd6fd2271",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-cc19148eb803bc21",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-d402bbd07e0605bf",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-faaf3f2fd99f7c02",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-761db9080a0189e6",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-70b6db317556f4c1",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d11982f19ca35f8",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8212f0c5fe3d7e0e",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-ce634f5ada1115b2"
+        ],
+        "draft_excerpt": "2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f5b43e86d829e7d5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed6821cd14b09e30"
+        ],
+        "draft_excerpt": "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，其中成都作为唯一入选的内陆城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6a573fffc6023472",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2f11b2134071126f"
+        ],
+        "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+        "finding": "uncertain",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e65cd4fa16ea5379",
+        "source_text_anomalies": [],
+        "status": "uncertain"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5c915a667691f6e1",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8c53e4ae77979da7",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-ce634f5ada1115b2"
+        ],
+        "draft_excerpt": "2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d0068be876fae553",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed6821cd14b09e30"
+        ],
+        "draft_excerpt": "2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3f8f054a1267a9ca",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2f11b2134071126f"
+        ],
+        "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+        "finding": "uncertain",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-600f2460320735ba",
+        "source_text_anomalies": [],
+        "status": "uncertain"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。",
+        "finding": "该句提及的“蓉欧+日韩”东向海铁联运大通道及“新的机遇”属于合同未涵盖的新事实，无对应claim。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5afe58f9a0f7b579",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+        "finding": "该句提及的“2020中日韩（成都）中小企业经贸创新峰会”属于合同未涵盖的新事实，无对应claim。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-32cdac2d9ab98622",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。",
+        "finding": "该句提及的“蓉欧+日韩”东向海铁联运大通道及“新的机遇”属于合同未涵盖的新事实，无对应claim。"
+      },
+      {
+        "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+        "finding": "该句提及的“2020中日韩（成都）中小企业经贸创新峰会”属于合同未涵盖的新事实，无对应claim。"
+      },
+      {
+        "draft_excerpt": "2016年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2020年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2020年5月20日",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2020",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "《中日韩合作未来十年展望》",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ce634f5ada1115b2",
+          "draft_excerpt": "2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ed6821cd14b09e30",
+          "draft_excerpt": "2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2f11b2134071126f",
+          "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+          "finding": "uncertain",
+          "status": "uncertain"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-761db9080a0189e6",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-70b6db317556f4c1",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-5d11982f19ca35f8",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-8212f0c5fe3d7e0e",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-ce634f5ada1115b2"
+          ],
+          "draft_excerpt": "2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。",
+          "finding": "supported",
+          "sentence_id": "sentence-f5b43e86d829e7d5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed6821cd14b09e30"
+          ],
+          "draft_excerpt": "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，其中成都作为唯一入选的内陆城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-6a573fffc6023472",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2f11b2134071126f"
+          ],
+          "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+          "finding": "uncertain",
+          "sentence_id": "sentence-e65cd4fa16ea5379",
+          "status": "uncertain"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-5c915a667691f6e1",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-8c53e4ae77979da7",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-ce634f5ada1115b2"
+          ],
+          "draft_excerpt": "2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。",
+          "finding": "supported",
+          "sentence_id": "sentence-d0068be876fae553",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed6821cd14b09e30"
+          ],
+          "draft_excerpt": "2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。",
+          "finding": "supported",
+          "sentence_id": "sentence-3f8f054a1267a9ca",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2f11b2134071126f"
+          ],
+          "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+          "finding": "uncertain",
+          "sentence_id": "sentence-600f2460320735ba",
+          "status": "uncertain"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。",
+          "finding": "该句提及的“蓉欧+日韩”东向海铁联运大通道及“新的机遇”属于合同未涵盖的新事实，无对应claim。",
+          "sentence_id": "sentence-5afe58f9a0f7b579",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+          "finding": "该句提及的“2020中日韩（成都）中小企业经贸创新峰会”属于合同未涵盖的新事实，无对应claim。",
+          "sentence_id": "sentence-32cdac2d9ab98622",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。",
+          "finding": "该句提及的“蓉欧+日韩”东向海铁联运大通道及“新的机遇”属于合同未涵盖的新事实，无对应claim。"
+        },
+        {
+          "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+          "finding": "该句提及的“2020中日韩（成都）中小企业经贸创新峰会”属于合同未涵盖的新事实，无对应claim。"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "92c0731693d3a1b0cca26711e64def43b77f202dce7cbc09dd2a87d0085a82d3",
+  "coverage_history": [
+    {
+      "draft_sha256": "92c0731693d3a1b0cca26711e64def43b77f202dce7cbc09dd2a87d0085a82d3",
+      "matrix": {
+        "decision": "human_review",
+        "rows": [
+          {
+            "claim_id": "claim-ce634f5ada1115b2",
+            "draft_excerpt": "2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed6821cd14b09e30",
+            "draft_excerpt": "2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f11b2134071126f",
+            "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+            "finding": "uncertain",
+            "status": "uncertain"
+          },
+          {
+            "claim_id": "claim-047021f642468224",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-0af634c29fc9dcf7",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-1b3ab2599c691335",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-2ad83b5fe265a85a",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-53093c3898b1b507",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5d539c9a2ff6b352",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a4c725efd6fd2271",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-cc19148eb803bc21",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d402bbd07e0605bf",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-faaf3f2fd99f7c02",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-761db9080a0189e6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70b6db317556f4c1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d11982f19ca35f8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8212f0c5fe3d7e0e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce634f5ada1115b2"
+            ],
+            "draft_excerpt": "2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f5b43e86d829e7d5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed6821cd14b09e30"
+            ],
+            "draft_excerpt": "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，其中成都作为唯一入选的内陆城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6a573fffc6023472",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f11b2134071126f"
+            ],
+            "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+            "finding": "uncertain",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e65cd4fa16ea5379",
+            "source_text_anomalies": [],
+            "status": "uncertain"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c915a667691f6e1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c53e4ae77979da7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce634f5ada1115b2"
+            ],
+            "draft_excerpt": "2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0068be876fae553",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed6821cd14b09e30"
+            ],
+            "draft_excerpt": "2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3f8f054a1267a9ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f11b2134071126f"
+            ],
+            "draft_excerpt": "2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。",
+            "finding": "uncertain",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-600f2460320735ba",
+            "source_text_anomalies": [],
+            "status": "uncertain"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。",
+            "finding": "该句提及的“蓉欧+日韩”东向海铁联运大通道及“新的机遇”属于合同未涵盖的新事实，无对应claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5afe58f9a0f7b579",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+            "finding": "该句提及的“2020中日韩（成都）中小企业经贸创新峰会”属于合同未涵盖的新事实，无对应claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-32cdac2d9ab98622",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "“蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。",
+            "finding": "该句提及的“蓉欧+日韩”东向海铁联运大通道及“新的机遇”属于合同未涵盖的新事实，无对应claim。"
+          },
+          {
+            "draft_excerpt": "“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+            "finding": "该句提及的“2020中日韩（成都）中小企业经贸创新峰会”属于合同未涵盖的新事实，无对应claim。"
+          },
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年5月20日",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《中日韩合作未来十年展望》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。\n\n成都获批设立跨境电子商务综合试验区，旨在通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造完整的产业链和生态链。\n\n成都获批设立中日地方发展合作示范区，作为唯一入选的内陆城市，体现了成都及整个四川在对日开放方面的良好合作基础。\n\n## 证据与影响\n\n2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。\n\n2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，其中成都作为唯一入选的内陆城市。\n\n2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。\n\n“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。\n\n“2020中日韩（成都）中小企业经贸创新峰会”在蓉举办，进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》。\n\n- 2016年1月，国务院同意成都等12个城市设立跨境电子商务综合试验区。\n- 2020年4月，国家发改委批复成都等六个城市建设中日地方发展合作示范区。\n- 2020年5月20日，中日（成都）地方发展合作示范区挂牌成立。\n- “蓉欧+日韩”东向海铁联运大通道建设将为成都带来新的机遇。\n- “2020中日韩（成都）中小企业经贸创新峰会”在蓉举办。",
+    "description": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+    "ref": {
+      "asset_hints": [
+        "image-034",
+        "image-035",
+        "image-036",
+        "image-037",
+        "image-099",
+        "image-100",
+        "image-101",
+        "image-102",
+        "image-103"
+      ],
+      "concept_id": "topic-029a4f5913c2",
+      "description": "2016年至2020年间，成都先后获批设立跨境电子商务综合试验区及中日地方发展合作示范区，作为内陆城市在国家级开放平台建设中发挥示范作用。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2",
+        "3",
+        "4",
+        "### 中日（成都）地方发展合作示范区挂牌成立",
+        "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，努力创造中日地方合作新样板，促进高水平开放型经济发展，其中，成都作为唯一入选的内陆城市，体现出成都及整个四川在对日开放方面的良好合作基础。2020年5月20日，中日产业合作线上推介会举行，中日（成都）地方发展合作示范区挂牌成立。",
+        "![原始 PDF 第 158 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ef49c470b91768d6cfc4/d693989775b5c9e69cbe499c.jpg)",
+        "图4-4 成都及高新区是省市推进中日合作地重要承载区域\n\n资料来源：成都市商务厅、成都发展改革委\n\n中日（成都）地方发展合作示范区位于成都高新区，按照“一区多片、产业协同、功能拓展”的原则，实施范围36.9平方公里，涵盖成都高新南区瞪羚谷片区、骑龙片区及未来科技城片区，将聚焦文化创意产业，建设业态集聚、功能提升的文化创意场景，打造文化创意创新合作平台。合作示范区内，数字文创合作区位于瞪\n\n羚谷片区，是合作示范区的成熟核心区，将重点发展动漫游戏、数字媒体、文化会展、文化商业、文化科技等产业细分领域，打造文化创意都市林盘；服务贸易合作区位于骑龙片区，是合作示范区的起步建设区，将重点发展信息服务、创意设计、文化贸易、文化金融等产业细分领域，打造中日联合创新创意中心；未来科技城是合作示范区的功能拓展区，将重点发展航空经济、文化旅游、文化教育等产业细分领域，打造中日“文化+”合作示范高地。",
+        "#### 专栏4-3 中日（成都）地方发展合作示范区建设主要方案",
+        "![原始 PDF 第 159 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ef49c470b91768d6cfc4/b18ff0fa701f9dab5bcd5fe6.jpg)",
+        "![原始 PDF 第 159 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ef49c470b91768d6cfc4/762d19603b5e29415dbe4406.jpg)",
+        "根据规划，中日（成都）地方发展合作示范区将着力打造新时代中日双向开放发展引领区、西部文创产业发展典范区、中日第三方市场联合拓展先行区。合作示范区将以文化创意为产业主题，带动与文化创意相关的信息技术产业、智能制造产业和金融产业协同发展，以文化创意产业高质量发展为核心，优化打造中日“双向开放生态”，创新发展中日高质高效“双高发展业态”，培育壮大中日“双边市场主体”，探索构建中日“双赢发展格局”，更加主动服务和融入国家重大战略，更好服\n\n务对外开放总体战略布局，建设成为国际知名的文化创意产业集群创新开放中心。到2022年，合作示范区建设初见成效，初步成为中日文化创意产业国别合作战略平台；到2025年，合作示范区全面建成，文创产业发展良好、文化贸易往来畅通、运营管理高效完善、辐射带动作用突出。",
+        "当前，中日（成都）地方合作发展示范区发展加速。推介会当日，伊藤洋华堂BPO中国区总部、A8国际音乐产业基地、中日动漫街区、日本DAC西南总部及亚太创新中心4个项目正式签约入驻。2020年11月19日，成都举行中日（成都）地方发展合作示范区对日开放合作推介暨集中签约，活动现场发布了中日（成都）地方发展合作示范区对日合作清单、产业规划、骑龙创新园城市设计，从日资企业对华投资意向、第三方市场拓展以及成都优势资源挖掘等三个维度出发，对外发布合作机会清单，清单具体包括TOD开发、地下空间、日本中心、中日联合创新中心、国际动漫游戏街区、智能制造基地、城市动漫主题乐园、社区医疗康养中心项目和中日医疗健康中心（共享医学中心）项目等9个提案，成都与日方相关企业、机构达成28项合作协议，包括2个50亿元级项目、2个20亿元级项目、3个10亿元级项目和4个5亿元级项目。日本三菱重工中日数字低碳城市科技创新中心等15个项目现场集中签约，计划投资总额204.5亿元①。",
+        "成都高新区作为四川省全面创新改革试验区和自由贸易试验区核心区，构建了以软件和信息服务、金融业、商贸服务业、科技服务业为主导的现代服务业体系，在中日产业链、创新链、价值链再造和融合方面，具备推动中日地方合作的雄厚基础。一方面，通过设立合作示范区，聚焦不同领域，加强与日本的地方合作，可以发挥合作示范区的政策、产业、配套等相关优势，同步启动的服务业、都市建设、文化创意合作将为更多日资企业带来机遇，加快形成优势合作，全面提升中日地方合作水平。另一方面，合作示范区的落地也利于中日双方应抓住机遇，进行中日合作的有益探索，发挥互补优势，携手应对调整，积极培育新动能和新的增长点，是实现中日地方合作、发挥互补优势的重要载体和平台。中日（成都）地方发展合作示范区的挂牌成立，以及一批项目入驻，标志着2020年成都对日合作迈出了坚实步伐，将高质量推进合作示范区建设，努力打造成成都高质量发展示范区开放经济带，助力成都建设国际门户枢纽城市。",
+        "#### 专栏4-4 国家发改委批示的六个中日地方发展合作示范区基本情况",
+        "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，努力创造中日地方合作新样板，促进高水平开放型经济发展。这6个示范区涉及高端装备制造和新材料、智能制造、文创、节能环保、大健康、新能源等产业方向。推动设立中日地方发展合作示范区是落实中日地方发展合作机制的重要平台，表明了中国进一步推进改革开放的决心，有利于提升中日地方合作水平。",
+        "中日（大连）地方发展合作示范区。以金普新区为核心，以渤海沿岸和黄海沿岸为两翼，构建“一核两翼、多片区联动”的总体空间格局，总面积52.92平方公里，包含新日本工业团地片区、松木岛片区、西中岛片区、花园口片区。示范区聚焦高端装备制造和新材料产业，构建技术创新、产业对接、金融服务等合作平台，加强与日本的产业对接合作，促进高端装备制造与新材料产业发展质量提升，辐射带动东北地区产业转型升级。",
+        "中日（苏州）地方发展合作示范区。范围覆盖苏州相城区全域，中心区面积38.5平方公里，构建“一核两翼”空间布局。其中，中枢服务核致力打造中日产业对接窗口和技术协同创新中心，智力支持翼致力打造研发产业、科技人才汇聚高地，技术转化翼致力打造智能制造产业集群高地，整体形成有机联动的互补分工。统计数据显示：截至目前，中日(苏州)地方发展合作示范区已成功对接日资项目超150个，签约伊藤忠商事、伊藤喜中国总部等日资项目53个。",
+        "中日（成都）地方发展合作示范区。位于成都高新区，实施范围为36.9平方公里，涵盖成都高新南区瞪羚谷片区、骑龙片区及未来科技城片区。其中，瞪羚谷片区，是合作示范区的成熟核心区，将重点发展动漫游戏、数字媒体、文化会展、文化商业、文化科技等产业细分领域；骑龙片区着力打造中日联合创新创意中心；未来科技城是成都第二机场天府国际机场所在地，未来将重点发展航空经济、文化旅游、文化教育等产业细分领域，着力打造中日“文化+”合作示范高地。",
+        "中日（青岛）地方发展合作示范区。示范区位于青岛国际经济合作区，总面积10.6平方公里，主要聚焦节能环保产业，加强技术创新、产品研发、高端制造等领域合作，创新产业园区合作机制，推动节能环保产业集聚发展，示范引领绿色低碳发展新模式。预计到2025年，该示范区基础设施配套基本完成，入驻企业",
+        "超过200家，工业总产值超过350亿元，GDP达100亿元，就业创业人口达到3.5万人。建成具有浓郁日本特色、低碳环保、产城融合的现代化园区。",
+        "中日（天津）健康产业发展合作示范区。示范区位于京津冀中部核心功能区静海区，占地约38.55平方公里。示范区立足于天津健康产业园规划区和拓展区，完善产学研用一体化创新模式，以中医药为重点，推进医药、医疗、康养领域的科技研发和应用转化，打造健康产业创新区。同时，中日（天津）健康产业发展合作示范区强化公共卫生服务，发展体育休闲产业，深化国际合作与交流，支持企业、大学以及科研、医疗、体育机构广泛开展合作。",
+        "中日（上海）地方发展合作示范区。位于上海自贸区临港新片区。将立足国内外能源消费低碳化、清洁化发展趋势，利用临港新片区前沿开放制度、产业配套、空间承载、政策环境和体制机制综合优势，吸引国内有实力的氢能企业与日资企业加强技术合作，发展以氢能产业为重点的新能源产业，形成符合临港产业基础条件的产业路线图，推动国内氢能产业标准体系的建立和完善。示范区将打造以氢能为主要特色的国内一流、国际知名新能源产业园。",
+        "#### “蓉欧+日韩”东向海铁联运大通道建设圆桌会议在成都召开",
+        "2020年8月25日，“蓉欧+日韩”东向海铁联运大通道建设圆桌会议在成都举行。“蓉欧+日韩”东向海铁联运大通道作为四川对外开放的又一条重要国际大通道，其经由成都国际铁路港出发，再经青岛、日照、上海、宁波等沿海港口换装海运出境，通过海铁联运最终抵达日韩。",
+        "![原始 PDF 第 163 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ef49c470b91768d6cfc4/710d3e4c38c2e91b74f6569c.jpg)",
+        "图4-5 “蓉欧+日韩”东向海铁联运大通道示意图\n\n会议围绕“蓉欧+日韩海铁联运大通道发展与探索”的主题开展，山东港、上海港等沿海港口代表，马士基、新海丰、中远海等船公司代表，伊藤洋华堂、日邮、日通、三井物产等日资物流外贸企业，日本政府驻华机构、省、市、区政府部门代\n\n表、物流领域专家等40余家机构单位的100多名嘉宾参加会议①，共同探讨“蓉欧+”通道创新拓展与合作新机遇。",
+        "“蓉欧+日韩”东向海铁联运大通道将以物流通道为引擎，在西去欧洲、北上蒙俄、南拓东盟的基础上，同时再加上东联日韩，东向海铁联运的加密开行。随着成昆铁路正处于最后的扩能改造完成，在2021年电气化双线通车后，年运能将达到一亿吨，并可连接中老（挝）铁路至万象，并辐射整个东南亚。意味着，对内，“蓉欧+日韩”带动西部内陆城市和青岛、日照、上海等沿海港口形成新的区域经济合作，加快融入成渝双城经济圈、长江经济带、环渤海经济圈；对外，无论是欧洲、东南亚还是日韩的企业，都可以通过西向、北向、南向、东向班列在成都中转货物，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。",
+        "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇。一是成都牵头建设东向双循环大通道是面临日韩内陆高质量开放大通道，具有重要的战略价值。成都东向双循环大通道讲成渝城市群与关中城市群、中原城市群、山东半岛城市群、长江中游城市群、长三角城市群串接起来，形成我国人口最为密集、消费潜力最大、城镇化发展空间广阔的区域，对内可促进国内城市群之间的生产消费内循环，对外又可促进日韩及全球商品流通。通道的打造不仅可以使得一条新的亚欧大陆桥成联成势，也能进一步推动包括成都在内的西部地区对外开放开发水平。二是打造东向海铁联运大通道将带来不可估量的市场价值和机遇。这条通道跨越国内多个省市，涉及人口3亿多人，地区GDP约20万亿元，日韩两国总人口约1.8亿人，2019年GDP总额约6.7万亿美元②；向西，通道辐射罗兹、莫斯科、维也纳、米兰等多个城市。同时，日韩与四川产业链紧密联结、经济结构高度互补。西部地区对日韩汽车、医疗等机械产品、电子产品和化妆品有较大进口需求空间；日韩对西部地区原材料、化工、服装等产品需求较大；LG、三星等日韩电子、汽车机械企业也有大量出口中亚、东盟和欧洲的中转需求。三是以物流通道为基础，探索通道、枢纽、产业、平台等方面互通协作，形成枢纽通道网络、与日韩国际合作、三链融合、建设保障等方面核心战略，进一步提升城市站位。成都可依托于此通道建设打造东向双循环大通道的“核心枢纽”和联通欧洲、俄蒙、东盟以及\n\n日韩四者之间的“十字枢纽”，基于班列，着眼班列和产业、城市联动；基于物流，着眼要素市场配置高效集聚；不限于港区，着眼区域产业开放资源整合；不限于日韩，着眼国内国际产业和要素深度融合。",
+        "下一步，“蓉欧 \\(+\\) 日韩”东向海铁联运大通道的打通还需克服一些瓶颈。其一，通关效益、多式联运效益等方面的通道效益仍需进一步提升；其二，铁海协同加强；其三，对日韩企业加强此通道的宣传推广，主动对接日韩市场和行业组织。未来，一方面将联合推动成都至山东港口间多式联运通道建设，为成都地区进出口货物提供新的出海通道，为川鲁两地物流、信息流、资金流提供新的流通渠道，分别依靠稳定的中欧班列、海运优势有效地将欧洲和东亚迅速连接起来，畅通川鲁双循环物流通道。另一方面加速开展通道、枢纽、产业、平台和保障等方面系统研究，同时按照要素集聚、产业链构建和产业集群培育要求，筛选能依托中欧班列（成都）进行链式扩张、培育产业链拓展、价值链增值的产业，深度参与国际产业链分工合作，提升国际供应链控制力和国际竞争力。",
+        "“蓉欧 \\(+\\) 日韩”东向海铁联运大通道的建设，有基础、有市场、有机遇。一方面，既可促进国内城市群之间的生产消费内循环，又可引进日韩及全球商品，促进成都加快构建双循环互促的新引擎。同时依托成都国际铁路港国家级经济开发区等机遇，铁路港将迎来提质升级，向第三代国际陆港迈进。另一方面，构建大循环双循环大通道有利于成都按照“以国内大循环为主体、国内国际双循环相互促进的新发展格局”的总体要求，打造覆盖全国、辐射国际的大循环双循环通道网络，培育差异能级的枢纽城市。",
+        "#### “2020中日韩（成都）中小企业经贸创新峰会”在蓉举办",
+        "2020年10月20日，由日本驻重庆总领事馆、韩国驻成都总领事馆、市政府外办等共同支持，市贸促会、成都国际商会、日本贸易振兴机构成都代表处、韩国大韩贸易投资振兴公社成都代表处共同主办的“2020中日韩（成都）中小企业经贸创新峰会”在蓉开幕。此次峰会是进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》，中日韩合作迎来迈向“升级版”机遇。",
+        "![原始 PDF 第 166 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ef49c470b91768d6cfc4/e7e5f435a312ede5f5a127fe.jpg)",
+        "图4-6 2020中日韩（成都）中小企业经贸创新峰会交流洽谈现场\n\n此次“2020中日韩（成都）中小企业经贸创新峰会”会期共2天，主题为“携手新模式·创新赢未来”，采取线上线下相结合的形式，主要活动包括开幕式、经贸对话、企业路演、园区参访等，聚焦新经济、健康服务、跨境电商等领域，搭建平台广泛开展经贸交流和项目洽谈对接，中日韩三国企业代表、相关商协会代表、专家\n\n学者、地方政府部门代表等260余人参加了活动①。",
+        "峰会主要内容有以下方面：一是三方发布领域合作和采购机会需求。与以往单项的“招商引资”不同，来自三国政府部门、商促会、企业代表及专家在金融、运输、科技、环保生态、健康及社会服务、旅游、文化教育、城市建设等领域积极寻求合作，共谋企业发展、城市进步的共赢之路。经过前期精选的8家分别来自日韩和3家来自重庆的新经济、健康服务、跨境电商领域的企业和单位在会上进行路演推介与发布合作需求，成都东部新区、成都天府新区、都江堰市等还分别进行投资推介和合作与采购机会需求发布。二是为增进企业对城市的产业了解，中日韩政府及贸易机构汇聚，共享投资政策。市经信局、市商务局、市卫健委、市新经济委分别就电子信息产业、跨境电商产业、健康服务产业以及新经济发展等相关情况进行了成果展示和政策介绍。同时，日本贸易振兴机构成都代表处一般代表寺田俊现场发布日本相关情况和产业政策；韩国大韩贸易投资振兴公社成都代表处首席代表李炳直现场发布韩国相关情况和产业政策。三是为现场一对一洽谈提供平台，近百家日韩企业也将通过线上和线下，与中国企业进行洽谈对接，有力促进双方务实合作交流。近百家日韩企业也在随后一个月的时间内通过线上和线下，与中国企业进行洽谈对接，有力促进双方务实合作交流。",
+        "此次峰会借此契机，充分发挥会展贸促作用，落实中日韩领导人会议成果，并通过成都这一窗口，向日韩展现中国市场的广阔机会，进一步深化中日韩三国在互联互通、经贸往来等方面的合作，并推动中日（成都）现代服务业开放合作示范项目发展。同时，成都和日韩合作的加深，也折射出中国沿海内陆协作互动的全方位开放新格局，依托“一带一路”倡议和成渝地区双城经济圈建设，进一步激发西部地区的经济活力。",
+        "#### 专栏4-5 《中日韩合作未来十年展望》主要内容",
+        "2019年12月24日中国成都举行第八次中日韩领导人会议，会议发表《中日韩合作未来十年展望》（以下简称《展望》），通过了“中日韩 \\(+\\mathrm{X}\\)”早期收获项目清单等成果文件，《展望》主要内容如下：",
+        "共同提升三国合作水平。定期举行领导人会议和外长会有助于三国合作健康稳定发展，三国将共同为此营造积极氛围。我们认可中日韩合作秘书处取得的成绩，支持秘书处继续加强能力建设，一致认为中日韩合作基金将为促进三国合作的项目提供支持。",
+        "维护持久和平安全。加强战略沟通，增进政治互信，本着相互尊重的精神，妥善管控分歧，发展长期和平友好关系。我们致力于朝鲜半岛完全无核化，重申维护半岛和东北亚和平稳定是我们的共同利益和责任。我们忆及《中日韩领导人关于2018朝韩领导人会晤的联合声明》。我们致力于实现半岛和平、安全和繁荣，强调只有通过包括对话和外交在内的国际合作，并根据联合国安理会有关决议全面解决各方关切才能实现朝鲜半岛的完全无核化和永久和平。中韩领导人希望日朝之间的绑架问题通过对话尽快得以解决。",
+        "倡导开放共赢合作。视彼此发展为机遇，加强发展战略对接，提升合作水平。为此，我们将努力实现自由、公平、非歧视、透明、可预期和稳定的贸易投资环境，并保持市场开放。重申支持对世界贸易组织进行必要改革以改进其功能。我们一致认为以规则为基础的多边贸易体制具有重要作用，将致力于维护自由贸易和多边主义，强化现有国际规则，确保公平竞争以培育良好营商环境。我们重申在2019年《区域全面经济伙伴关系协定》（RCEP）领导人会议联合声明中的承诺。我们将在RCEP谈判成果的基础上，加快中日韩自贸协定谈判，力争达成全面、高质量、互惠且具有自身价值的自贸协定。我们鼓励地方政府和企业通过现有机制开展更多三方合作。我们将探索新的合作领域和模式，共同促进经济全球化和自由贸易，为全球经济带来更大稳定和确定性。我们欢迎历届二十国集团（G20）领导人峰会包括大阪峰会成功举行以及取得的成果，将在G20框架下进一步加强合作、发挥领导力。",
+        "引领科技革命。推进科技创新合作，通过现有机制应对地区和全球问题，鼓励在数字经济和电信领域开展合作。我们将继续保持密切沟通协调，共同应对潜",
+        "在的金融不稳定性。加强区域金融合作，包括强化清迈倡议多边化，提升东盟与中日韩宏观经济研究办公室的能力。",
+        "促进包括交通、物流在内的地区互联互通和基础设施合作。基础设施为经济增长和繁荣提供动力。我们强调最大限度发挥基础设施的积极作用有利于实现可持续增长和发展，重视项目在经济、社会、财政、金融和环境方面的可持续性，重申根据普遍接受的国际原则，推进可持续、高质量基础设施建设，提升本地区贸易、投资和服务竞争力。",
+        "重申致力于实现2030年可持续发展议程。强调消除包括极端贫困在内的一切形式和表现的贫困，是全球面临的最大挑战，也是可持续发展的必然要求。我们将进一步加强经济、社会和环境层面的合作。强调在循环经济、资源效率、农业、渔业和北极等领域开展合作的重要意义。将继续支持和鼓励各方共同努力，应对海洋塑料垃圾、空气污染、生物多样性丧失、外来物种入侵和跨境动物疫病等共同挑战。采取综合政策措施，促进积极健康老龄化。继续根据《2015—2030年仙台减灾框架》加强减灾合作，促进有可持续财政支持的全民健康覆盖。我们认识到采取切实可行行动应对气候变化的紧迫性，重申致力于全面落实《联合国气候变化框架公约》和《巴黎协定》。",
+        "促进文明互鉴与民心相通。发扬东亚文化传统，促进东亚合作共赢。抓住三国相继举办奥运会和残奥会的历史性机遇，通过加强体育合作，弘扬友好协作精神。通过丰富多样的文化、教育、人员交流活动，持续增进三国人民相互理解和信任，为三国合作打下稳定、健康、友好的社会基础。积极推动旅游交流，深化民众互信。",
+        "实现整体振兴与共同发展。拓展三国合作的深度和广度，充分发挥互补优势，使三国合作惠及其他国家和地区。推进“中日韩 \\(+\\mathrm{X}\\)”合作，共同制定计划，采取联合行动，拓展与其他国家合作，缩小地区发展差距，实现共同发展。",
+        "5",
+        "### 成都获批设立跨境电子商务综合试验区",
+        "2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。《批复》指出，要因地制宜，突出本地特色和优势，着力在跨境电子商务企业对企业（B2B）方式相关环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试，为推动全国跨境电子商务发展提供可复制、可推广的经验，用新模式为外贸发展提供新支撑。",
+        "跨境电子商务综合试验区是中国设立的跨境电子商务综合素质的先行先试的城市区域，旨在跨境电子商务交易、支付、物流、通关、退税、结汇等环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试，通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造跨境电子商务完整的产业链和生态链，逐步形成一套适应和引领全球跨境电子商务发展的管理制度和规则，为推动中国跨境电子商务健康发展提供可复制、可推广的经验。",
+        "跨境电子商务作为一种新型的国际贸易方式，正逐渐成为稳外贸增长、促经济发展的新动力、新引擎。成都获批为跨境电子商务综合试验区，下一步将大胆探索，不断创新跨境电子商务监管模式和发展模式，形成制度创新洼地，为各类市场主体公平参与市场竞争创造良好的营商环境，从而吸引跨境电商产业链企业集聚，助力全市产业升级和经济转型。",
+        "专栏3-2 成都跨境电子商务综合试验区实施方案主要内容",
+        "#### 发展目标",
+        "#### 总体目标",
+        "经过快速推进，建成“基站”“动力”“中继”三位一体的成都跨境电商综试区。",
+        "![原始 PDF 第 93 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ed18e32e51001c6fe080/5170868abaca60503c416133.jpg)",
+        "#### 具体目标",
+        "![原始 PDF 第 93 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ed18e32e51001c6fe080/41db24546e00af946498d309.jpg)",
+        "实现“单一窗口，全域互通”，在西部提供与东部沿海城市无差距的跨境电子商务通关服务\n\n探索西部跨境电商综试区创新发展路径，跨境电子商务贸易额增速高于全国平均水平\n\n- 以跨境B2B出口为主要方向，探索跨境电子商务新模式，释放市场活力，吸引大中小企业集聚，促进新业态成长\n\n- 以物流基础设施、贸易规则为主要内容，与“丝绸之路经济带”沿途各国城市形成多个点对点电子商务合作",
+        "#### 主要建设任务",
+        "建设西部跨境电子商务创业天府\n\n建设西部电子商务消费之都\n\n探索建立西部产业运营模式创新中心\n\n建设西部企业跨境电子商务应用服务中心\n\n建设“丝绸之路经济带”国际物流中心",
+        "![原始 PDF 第 93 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ed18e32e51001c6fe080/c1ddd2fa0f34990e2136a2e6.jpg)",
+        "#### 主要创新举措",
+        "构建“单一窗口”线上公共服务平台，提供便利化通关服务\n\n规划跨境电子商务线下产业载体区域\n\n建设成都跨境电商综试区多维立体支撑体系\n\n创新跨境电子商务政策支持体系\n\n积极探讨电子商务贸易新规则体系",
+        "![原始 PDF 第 93 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-ed18e32e51001c6fe080/ec483a0edc01348356cff650.jpg)"
+      ],
+      "evidence_block_ids": [
+        "blk-db2ed33b37a878205023",
+        "blk-9f76739c2f57fb06fdd0",
+        "blk-95b7ba2c9d4b5fd78db7",
+        "blk-3863fc181d62c69b1eff",
+        "blk-a90d91c2f4da933353de",
+        "blk-736c6721d8018226a1e4",
+        "blk-4795e6cdf652ee1fbcb0",
+        "blk-4e1ab5ab5a53a906fbb4",
+        "blk-951d8afbc8d3131ac43c",
+        "blk-65161c3db36952979eb7",
+        "blk-14bd3fd864bbe83762c5",
+        "blk-f480087e44bf7c787cea",
+        "blk-05a1085e487263307586",
+        "blk-7620acfb85ec6c4a2ba8",
+        "blk-071bac77746b15e6c77e",
+        "blk-12ef354abce484f07f94",
+        "blk-2a2d8d16a9fc8381c113",
+        "blk-461c6c7b9d42765c9a20",
+        "blk-8f68b48466ef389caceb",
+        "blk-c7476146a0a037f43c61",
+        "blk-6386cb81112633b43471",
+        "blk-3f36022bb987eafa6b59",
+        "blk-834c188a633ece004400",
+        "blk-68410c1935888159b5b5",
+        "blk-9d5cf611979edb3f0672",
+        "blk-ab2b1b7521ed3e0d7af5",
+        "blk-08399dd5f0b96ab9282a",
+        "blk-6d9e3b616ca73dcc7959",
+        "blk-7bdafff3d2206f9e71a7",
+        "blk-ff671ee74d7203fb3a63",
+        "blk-327d3443c2a8a49229db",
+        "blk-d7cc35e4f0ce4736ce66",
+        "blk-6e1b8e18c7efe1466c9d",
+        "blk-3d1562b33b3a83a436ee",
+        "blk-8a9c86d267fe913737fa",
+        "blk-f5610c935bb6fad86be6",
+        "blk-1476fe54ac9e13c246ab",
+        "blk-d72c57376d7db4b08438",
+        "blk-18cbd074f0d216a8d46d",
+        "blk-e3878ae712386bc3d26e",
+        "blk-2c74e318d9d339c8c7ac",
+        "blk-f9f65d7987dac4bff3c0",
+        "blk-cf8c904d0328777b207f",
+        "blk-2422bd8f6d4f52ee7ad3",
+        "blk-ddca10e61f62fffb1b3e",
+        "blk-d885f2fed72a7179ae14",
+        "blk-cb1dd962cf8c4b036aec",
+        "blk-46b34f0831ed0b12f73e",
+        "blk-19b7e5fd3d04f998a398",
+        "blk-eaefbf8d7183e847a07a",
+        "blk-0b294c6960134a025f3a",
+        "blk-b890928a7764ea4d8f7d",
+        "blk-33bc03e4802ee56b3d12",
+        "blk-f34c105e366704e30140",
+        "blk-ff95936b105890c4ac75",
+        "blk-9a0789a8e24e87d88862",
+        "blk-d1e1e3941a501423232b",
+        "blk-5f234e6e0c15f8f408fc",
+        "blk-04e944f0319dd05a90d5",
+        "blk-5ebba20b6e58e74608cb",
+        "blk-aa5629239df377c86acf",
+        "blk-22bf18f06b747db39705",
+        "blk-72a3d693fc34b9302971",
+        "blk-d64c63ed6787db0c4e85",
+        "blk-3f05ea19e92fa35e679e",
+        "blk-6f461b6bc20cc5fba945",
+        "blk-21e272f052fe7a87e5db",
+        "blk-385b41119ef6296b6e6c",
+        "blk-a1d9c0f1999a60879e83",
+        "blk-f1686768fdffcab33a9b",
+        "blk-052dc458277af62fec04",
+        "blk-2b2e5c7b185369ffc905"
+      ],
+      "page_end": 169,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都获批设立国家级开放型经济平台（中日地方发展合作示范区与跨境电子商务综合试验区）",
+      "type": "分析框架"
+    },
+    "title": "成都获批设立国家级开放型经济平台（中日地方发展合作示范区与跨境电子商务综合试验区）"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-0b5fa786bb2d:bundle-3078cd9ef855",
+      "excluded_fragments": [],
+      "ref_id": "ref-0b5fa786bb2d",
+      "source_blocks": [
+        {
+          "block_id": "blk-db2ed33b37a878205023",
+          "page_number": 158,
+          "text": "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，努力创造中日地方合作新样板，促进高水平开放型经济发展，其中，成都作为唯一入选的内陆城市，体现出成都及整个四川在对日开放方面的良好合作基础。2020年5月20日，中日产业合作线上推介会举行，中日（成都）地方发展合作示范区挂牌成立。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-3863fc181d62c69b1eff",
+          "page_number": 158,
+          "text": "原始 PDF 第 158 页图片"
+        },
+        {
+          "block_id": "blk-a90d91c2f4da933353de",
+          "page_number": 158,
+          "text": "图4-4 成都及高新区是省市推进中日合作地重要承载区域"
+        },
+        {
+          "block_id": "blk-736c6721d8018226a1e4",
+          "page_number": 158,
+          "text": "资料来源：成都市商务厅、成都发展改革委"
+        },
+        {
+          "block_id": "blk-4795e6cdf652ee1fbcb0",
+          "page_number": 158,
+          "text": "中日（成都）地方发展合作示范区位于成都高新区，按照“一区多片、产业协同、功能拓展”的原则，实施范围36.9平方公里，涵盖成都高新南区瞪羚谷片区、骑龙片区及未来科技城片区，将聚焦文化创意产业，建设业态集聚、功能提升的文化创意场景，打造文化创意创新合作平台。合作示范区内，数字文创合作区位于瞪"
+        },
+        {
+          "block_id": "blk-4e1ab5ab5a53a906fbb4",
+          "page_number": 159,
+          "text": "羚谷片区，是合作示范区的成熟核心区，将重点发展动漫游戏、数字媒体、文化会展、文化商业、文化科技等产业细分领域，打造文化创意都市林盘；服务贸易合作区位于骑龙片区，是合作示范区的起步建设区，将重点发展信息服务、创意设计、文化贸易、文化金融等产业细分领域，打造中日联合创新创意中心；未来科技城是合作示范区的功能拓展区，将重点发展航空经济、文化旅游、文化教育等产业细分领域，打造中日“文化+”合作示范高地。"
+        },
+        {
+          "block_id": "blk-951d8afbc8d3131ac43c",
+          "page_number": 159,
+          "text": "原始 PDF 第 159 页图片"
+        },
+        {
+          "block_id": "blk-65161c3db36952979eb7",
+          "page_number": 159,
+          "text": "原始 PDF 第 159 页图片"
+        },
+        {
+          "block_id": "blk-14bd3fd864bbe83762c5",
+          "page_number": 159,
+          "text": "根据规划，中日（成都）地方发展合作示范区将着力打造新时代中日双向开放发展引领区、西部文创产业发展典范区、中日第三方市场联合拓展先行区。合作示范区将以文化创意为产业主题，带动与文化创意相关的信息技术产业、智能制造产业和金融产业协同发展，以文化创意产业高质量发展为核心，优化打造中日“双向开放生态”，创新发展中日高质高效“双高发展业态”，培育壮大中日“双边市场主体”，探索构建中日“双赢发展格局”，更加主动服务和融入国家重大战略，更好服"
+        },
+        {
+          "block_id": "blk-f480087e44bf7c787cea",
+          "page_number": 160,
+          "text": "务对外开放总体战略布局，建设成为国际知名的文化创意产业集群创新开放中心。到2022年，合作示范区建设初见成效，初步成为中日文化创意产业国别合作战略平台；到2025年，合作示范区全面建成，文创产业发展良好、文化贸易往来畅通、运营管理高效完善、辐射带动作用突出。"
+        },
+        {
+          "block_id": "blk-05a1085e487263307586",
+          "page_number": 160,
+          "text": "当前，中日（成都）地方合作发展示范区发展加速。推介会当日，伊藤洋华堂BPO中国区总部、A8国际音乐产业基地、中日动漫街区、日本DAC西南总部及亚太创新中心4个项目正式签约入驻。2020年11月19日，成都举行中日（成都）地方发展合作示范区对日开放合作推介暨集中签约，活动现场发布了中日（成都）地方发展合作示范区对日合作清单、产业规划、骑龙创新园城市设计，从日资企业对华投资意向、第三方市场拓展以及成都优势资源挖掘等三个维度出发，对外发布合作机会清单，清单具体包括TOD开发、地下空间、日本中心、中日联合创新中心、国际动漫游戏街区、智能制造基地、城市动漫主题乐园、社区医疗康养中心项目和中日医疗健康中心（共享医学中心）项目等9个提案，成都与日方相关企业、机构达成28项合作协议，包括2个50亿元级项目、2个20亿元级项目、3个10亿元级项目和4个5亿元级项目。日本三菱重工中日数字低碳城市科技创新中心等15个项目现场集中签约，计划投资总额204.5亿元①。"
+        },
+        {
+          "block_id": "blk-7620acfb85ec6c4a2ba8",
+          "page_number": 160,
+          "text": "成都高新区作为四川省全面创新改革试验区和自由贸易试验区核心区，构建了以软件和信息服务、金融业、商贸服务业、科技服务业为主导的现代服务业体系，在中日产业链、创新链、价值链再造和融合方面，具备推动中日地方合作的雄厚基础。一方面，通过设立合作示范区，聚焦不同领域，加强与日本的地方合作，可以发挥合作示范区的政策、产业、配套等相关优势，同步启动的服务业、都市建设、文化创意合作将为更多日资企业带来机遇，加快形成优势合作，全面提升中日地方合作水平。另一方面，合作示范区的落地也利于中日双方应抓住机遇，进行中日合作的有益探索，发挥互补优势，携手应对调整，积极培育新动能和新的增长点，是实现中日地方合作、发挥互补优势的重要载体和平台。中日（成都）地方发展合作示范区的挂牌成立，以及一批项目入驻，标志着2020年成都对日合作迈出了坚实步伐，将高质量推进合作示范区建设，努力打造成成都高质量发展示范区开放经济带，助力成都建设国际门户枢纽城市。"
+        },
+        {
+          "block_id": "blk-071bac77746b15e6c77e",
+          "page_number": 161,
+          "text": "2020年4月，国家发改委正式批复成都及天津、大连、上海、苏州、青岛等国内六个城市建设中日地方发展合作示范区，努力创造中日地方合作新样板，促进高水平开放型经济发展。这6个示范区涉及高端装备制造和新材料、智能制造、文创、节能环保、大健康、新能源等产业方向。推动设立中日地方发展合作示范区是落实中日地方发展合作机制的重要平台，表明了中国进一步推进改革开放的决心，有利于提升中日地方合作水平。"
+        },
+        {
+          "block_id": "blk-12ef354abce484f07f94",
+          "page_number": 161,
+          "text": "中日（大连）地方发展合作示范区。以金普新区为核心，以渤海沿岸和黄海沿岸为两翼，构建“一核两翼、多片区联动”的总体空间格局，总面积52.92平方公里，包含新日本工业团地片区、松木岛片区、西中岛片区、花园口片区。示范区聚焦高端装备制造和新材料产业，构建技术创新、产业对接、金融服务等合作平台，加强与日本的产业对接合作，促进高端装备制造与新材料产业发展质量提升，辐射带动东北地区产业转型升级。"
+        },
+        {
+          "block_id": "blk-2a2d8d16a9fc8381c113",
+          "page_number": 161,
+          "text": "中日（苏州）地方发展合作示范区。范围覆盖苏州相城区全域，中心区面积38.5平方公里，构建“一核两翼”空间布局。其中，中枢服务核致力打造中日产业对接窗口和技术协同创新中心，智力支持翼致力打造研发产业、科技人才汇聚高地，技术转化翼致力打造智能制造产业集群高地，整体形成有机联动的互补分工。统计数据显示：截至目前，中日(苏州)地方发展合作示范区已成功对接日资项目超150个，签约伊藤忠商事、伊藤喜中国总部等日资项目53个。"
+        },
+        {
+          "block_id": "blk-461c6c7b9d42765c9a20",
+          "page_number": 161,
+          "text": "中日（成都）地方发展合作示范区。位于成都高新区，实施范围为36.9平方公里，涵盖成都高新南区瞪羚谷片区、骑龙片区及未来科技城片区。其中，瞪羚谷片区，是合作示范区的成熟核心区，将重点发展动漫游戏、数字媒体、文化会展、文化商业、文化科技等产业细分领域；骑龙片区着力打造中日联合创新创意中心；未来科技城是成都第二机场天府国际机场所在地，未来将重点发展航空经济、文化旅游、文化教育等产业细分领域，着力打造中日“文化+”合作示范高地。"
+        },
+        {
+          "block_id": "blk-8f68b48466ef389caceb",
+          "page_number": 161,
+          "text": "中日（青岛）地方发展合作示范区。示范区位于青岛国际经济合作区，总面积10.6平方公里，主要聚焦节能环保产业，加强技术创新、产品研发、高端制造等领域合作，创新产业园区合作机制，推动节能环保产业集聚发展，示范引领绿色低碳发展新模式。预计到2025年，该示范区基础设施配套基本完成，入驻企业"
+        },
+        {
+          "block_id": "blk-c7476146a0a037f43c61",
+          "page_number": 162,
+          "text": "超过200家，工业总产值超过350亿元，GDP达100亿元，就业创业人口达到3.5万人。建成具有浓郁日本特色、低碳环保、产城融合的现代化园区。"
+        },
+        {
+          "block_id": "blk-6386cb81112633b43471",
+          "page_number": 162,
+          "text": "中日（天津）健康产业发展合作示范区。示范区位于京津冀中部核心功能区静海区，占地约38.55平方公里。示范区立足于天津健康产业园规划区和拓展区，完善产学研用一体化创新模式，以中医药为重点，推进医药、医疗、康养领域的科技研发和应用转化，打造健康产业创新区。同时，中日（天津）健康产业发展合作示范区强化公共卫生服务，发展体育休闲产业，深化国际合作与交流，支持企业、大学以及科研、医疗、体育机构广泛开展合作。"
+        },
+        {
+          "block_id": "blk-3f36022bb987eafa6b59",
+          "page_number": 162,
+          "text": "中日（上海）地方发展合作示范区。位于上海自贸区临港新片区。将立足国内外能源消费低碳化、清洁化发展趋势，利用临港新片区前沿开放制度、产业配套、空间承载、政策环境和体制机制综合优势，吸引国内有实力的氢能企业与日资企业加强技术合作，发展以氢能产业为重点的新能源产业，形成符合临港产业基础条件的产业路线图，推动国内氢能产业标准体系的建立和完善。示范区将打造以氢能为主要特色的国内一流、国际知名新能源产业园。"
+        },
+        {
+          "block_id": "blk-834c188a633ece004400",
+          "page_number": 163,
+          "text": "2020年8月25日，“蓉欧+日韩”东向海铁联运大通道建设圆桌会议在成都举行。“蓉欧+日韩”东向海铁联运大通道作为四川对外开放的又一条重要国际大通道，其经由成都国际铁路港出发，再经青岛、日照、上海、宁波等沿海港口换装海运出境，通过海铁联运最终抵达日韩。"
+        },
+        {
+          "block_id": "blk-68410c1935888159b5b5",
+          "page_number": 163,
+          "text": "原始 PDF 第 163 页图片"
+        },
+        {
+          "block_id": "blk-9d5cf611979edb3f0672",
+          "page_number": 163,
+          "text": "图4-5 “蓉欧+日韩”东向海铁联运大通道示意图"
+        },
+        {
+          "block_id": "blk-ab2b1b7521ed3e0d7af5",
+          "page_number": 163,
+          "text": "会议围绕“蓉欧+日韩海铁联运大通道发展与探索”的主题开展，山东港、上海港等沿海港口代表，马士基、新海丰、中远海等船公司代表，伊藤洋华堂、日邮、日通、三井物产等日资物流外贸企业，日本政府驻华机构、省、市、区政府部门代"
+        },
+        {
+          "block_id": "blk-08399dd5f0b96ab9282a",
+          "page_number": 164,
+          "text": "表、物流领域专家等40余家机构单位的100多名嘉宾参加会议①，共同探讨“蓉欧+”通道创新拓展与合作新机遇。"
+        },
+        {
+          "block_id": "blk-6d9e3b616ca73dcc7959",
+          "page_number": 164,
+          "text": "“蓉欧+日韩”东向海铁联运大通道将以物流通道为引擎，在西去欧洲、北上蒙俄、南拓东盟的基础上，同时再加上东联日韩，东向海铁联运的加密开行。随着成昆铁路正处于最后的扩能改造完成，在2021年电气化双线通车后，年运能将达到一亿吨，并可连接中老（挝）铁路至万象，并辐射整个东南亚。意味着，对内，“蓉欧+日韩”带动西部内陆城市和青岛、日照、上海等沿海港口形成新的区域经济合作，加快融入成渝双城经济圈、长江经济带、环渤海经济圈；对外，无论是欧洲、东南亚还是日韩的企业，都可以通过西向、北向、南向、东向班列在成都中转货物，成都将成为联通欧洲、俄蒙、东盟以及日韩四者之间的十字枢纽。"
+        },
+        {
+          "block_id": "blk-7bdafff3d2206f9e71a7",
+          "page_number": 164,
+          "text": "“蓉欧+日韩”东向海铁联运大通道建设将为成都建设产能和贸易新格局带来新的机遇。一是成都牵头建设东向双循环大通道是面临日韩内陆高质量开放大通道，具有重要的战略价值。成都东向双循环大通道讲成渝城市群与关中城市群、中原城市群、山东半岛城市群、长江中游城市群、长三角城市群串接起来，形成我国人口最为密集、消费潜力最大、城镇化发展空间广阔的区域，对内可促进国内城市群之间的生产消费内循环，对外又可促进日韩及全球商品流通。通道的打造不仅可以使得一条新的亚欧大陆桥成联成势，也能进一步推动包括成都在内的西部地区对外开放开发水平。二是打造东向海铁联运大通道将带来不可估量的市场价值和机遇。这条通道跨越国内多个省市，涉及人口3亿多人，地区GDP约20万亿元，日韩两国总人口约1.8亿人，2019年GDP总额约6.7万亿美元②；向西，通道辐射罗兹、莫斯科、维也纳、米兰等多个城市。同时，日韩与四川产业链紧密联结、经济结构高度互补。西部地区对日韩汽车、医疗等机械产品、电子产品和化妆品有较大进口需求空间；日韩对西部地区原材料、化工、服装等产品需求较大；LG、三星等日韩电子、汽车机械企业也有大量出口中亚、东盟和欧洲的中转需求。三是以物流通道为基础，探索通道、枢纽、产业、平台等方面互通协作，形成枢纽通道网络、与日韩国际合作、三链融合、建设保障等方面核心战略，进一步提升城市站位。成都可依托于此通道建设打造东向双循环大通道的“核心枢纽”和联通欧洲、俄蒙、东盟以及"
+        },
+        {
+          "block_id": "blk-ff671ee74d7203fb3a63",
+          "page_number": 165,
+          "text": "日韩四者之间的“十字枢纽”，基于班列，着眼班列和产业、城市联动；基于物流，着眼要素市场配置高效集聚；不限于港区，着眼区域产业开放资源整合；不限于日韩，着眼国内国际产业和要素深度融合。"
+        },
+        {
+          "block_id": "blk-327d3443c2a8a49229db",
+          "page_number": 165,
+          "text": "下一步，“蓉欧 \\(+\\) 日韩”东向海铁联运大通道的打通还需克服一些瓶颈。其一，通关效益、多式联运效益等方面的通道效益仍需进一步提升；其二，铁海协同加强；其三，对日韩企业加强此通道的宣传推广，主动对接日韩市场和行业组织。未来，一方面将联合推动成都至山东港口间多式联运通道建设，为成都地区进出口货物提供新的出海通道，为川鲁两地物流、信息流、资金流提供新的流通渠道，分别依靠稳定的中欧班列、海运优势有效地将欧洲和东亚迅速连接起来，畅通川鲁双循环物流通道。另一方面加速开展通道、枢纽、产业、平台和保障等方面系统研究，同时按照要素集聚、产业链构建和产业集群培育要求，筛选能依托中欧班列（成都）进行链式扩张、培育产业链拓展、价值链增值的产业，深度参与国际产业链分工合作，提升国际供应链控制力和国际竞争力。"
+        },
+        {
+          "block_id": "blk-d7cc35e4f0ce4736ce66",
+          "page_number": 165,
+          "text": "“蓉欧 \\(+\\) 日韩”东向海铁联运大通道的建设，有基础、有市场、有机遇。一方面，既可促进国内城市群之间的生产消费内循环，又可引进日韩及全球商品，促进成都加快构建双循环互促的新引擎。同时依托成都国际铁路港国家级经济开发区等机遇，铁路港将迎来提质升级，向第三代国际陆港迈进。另一方面，构建大循环双循环大通道有利于成都按照“以国内大循环为主体、国内国际双循环相互促进的新发展格局”的总体要求，打造覆盖全国、辐射国际的大循环双循环通道网络，培育差异能级的枢纽城市。"
+        },
+        {
+          "block_id": "blk-6e1b8e18c7efe1466c9d",
+          "page_number": 166,
+          "text": "2020年10月20日，由日本驻重庆总领事馆、韩国驻成都总领事馆、市政府外办等共同支持，市贸促会、成都国际商会、日本贸易振兴机构成都代表处、韩国大韩贸易投资振兴公社成都代表处共同主办的“2020中日韩（成都）中小企业经贸创新峰会”在蓉开幕。此次峰会是进一步落实第八次中日韩领导人会议发表成果《中日韩合作未来十年展望》，中日韩合作迎来迈向“升级版”机遇。"
+        },
+        {
+          "block_id": "blk-3d1562b33b3a83a436ee",
+          "page_number": 166,
+          "text": "原始 PDF 第 166 页图片"
+        },
+        {
+          "block_id": "blk-8a9c86d267fe913737fa",
+          "page_number": 166,
+          "text": "图4-6 2020中日韩（成都）中小企业经贸创新峰会交流洽谈现场"
+        },
+        {
+          "block_id": "blk-f5610c935bb6fad86be6",
+          "page_number": 166,
+          "text": "此次“2020中日韩（成都）中小企业经贸创新峰会”会期共2天，主题为“携手新模式·创新赢未来”，采取线上线下相结合的形式，主要活动包括开幕式、经贸对话、企业路演、园区参访等，聚焦新经济、健康服务、跨境电商等领域，搭建平台广泛开展经贸交流和项目洽谈对接，中日韩三国企业代表、相关商协会代表、专家"
+        },
+        {
+          "block_id": "blk-1476fe54ac9e13c246ab",
+          "page_number": 167,
+          "text": "学者、地方政府部门代表等260余人参加了活动①。"
+        },
+        {
+          "block_id": "blk-d72c57376d7db4b08438",
+          "page_number": 167,
+          "text": "峰会主要内容有以下方面：一是三方发布领域合作和采购机会需求。与以往单项的“招商引资”不同，来自三国政府部门、商促会、企业代表及专家在金融、运输、科技、环保生态、健康及社会服务、旅游、文化教育、城市建设等领域积极寻求合作，共谋企业发展、城市进步的共赢之路。经过前期精选的8家分别来自日韩和3家来自重庆的新经济、健康服务、跨境电商领域的企业和单位在会上进行路演推介与发布合作需求，成都东部新区、成都天府新区、都江堰市等还分别进行投资推介和合作与采购机会需求发布。二是为增进企业对城市的产业了解，中日韩政府及贸易机构汇聚，共享投资政策。市经信局、市商务局、市卫健委、市新经济委分别就电子信息产业、跨境电商产业、健康服务产业以及新经济发展等相关情况进行了成果展示和政策介绍。同时，日本贸易振兴机构成都代表处一般代表寺田俊现场发布日本相关情况和产业政策；韩国大韩贸易投资振兴公社成都代表处首席代表李炳直现场发布韩国相关情况和产业政策。三是为现场一对一洽谈提供平台，近百家日韩企业也将通过线上和线下，与中国企业进行洽谈对接，有力促进双方务实合作交流。近百家日韩企业也在随后一个月的时间内通过线上和线下，与中国企业进行洽谈对接，有力促进双方务实合作交流。"
+        },
+        {
+          "block_id": "blk-18cbd074f0d216a8d46d",
+          "page_number": 167,
+          "text": "此次峰会借此契机，充分发挥会展贸促作用，落实中日韩领导人会议成果，并通过成都这一窗口，向日韩展现中国市场的广阔机会，进一步深化中日韩三国在互联互通、经贸往来等方面的合作，并推动中日（成都）现代服务业开放合作示范项目发展。同时，成都和日韩合作的加深，也折射出中国沿海内陆协作互动的全方位开放新格局，依托“一带一路”倡议和成渝地区双城经济圈建设，进一步激发西部地区的经济活力。"
+        },
+        {
+          "block_id": "blk-e3878ae712386bc3d26e",
+          "page_number": 168,
+          "text": "2019年12月24日中国成都举行第八次中日韩领导人会议，会议发表《中日韩合作未来十年展望》（以下简称《展望》），通过了“中日韩 \\(+\\mathrm{X}\\)”早期收获项目清单等成果文件，《展望》主要内容如下："
+        },
+        {
+          "block_id": "blk-2c74e318d9d339c8c7ac",
+          "page_number": 168,
+          "text": "共同提升三国合作水平。定期举行领导人会议和外长会有助于三国合作健康稳定发展，三国将共同为此营造积极氛围。我们认可中日韩合作秘书处取得的成绩，支持秘书处继续加强能力建设，一致认为中日韩合作基金将为促进三国合作的项目提供支持。"
+        },
+        {
+          "block_id": "blk-f9f65d7987dac4bff3c0",
+          "page_number": 168,
+          "text": "维护持久和平安全。加强战略沟通，增进政治互信，本着相互尊重的精神，妥善管控分歧，发展长期和平友好关系。我们致力于朝鲜半岛完全无核化，重申维护半岛和东北亚和平稳定是我们的共同利益和责任。我们忆及《中日韩领导人关于2018朝韩领导人会晤的联合声明》。我们致力于实现半岛和平、安全和繁荣，强调只有通过包括对话和外交在内的国际合作，并根据联合国安理会有关决议全面解决各方关切才能实现朝鲜半岛的完全无核化和永久和平。中韩领导人希望日朝之间的绑架问题通过对话尽快得以解决。"
+        },
+        {
+          "block_id": "blk-cf8c904d0328777b207f",
+          "page_number": 168,
+          "text": "倡导开放共赢合作。视彼此发展为机遇，加强发展战略对接，提升合作水平。为此，我们将努力实现自由、公平、非歧视、透明、可预期和稳定的贸易投资环境，并保持市场开放。重申支持对世界贸易组织进行必要改革以改进其功能。我们一致认为以规则为基础的多边贸易体制具有重要作用，将致力于维护自由贸易和多边主义，强化现有国际规则，确保公平竞争以培育良好营商环境。我们重申在2019年《区域全面经济伙伴关系协定》（RCEP）领导人会议联合声明中的承诺。我们将在RCEP谈判成果的基础上，加快中日韩自贸协定谈判，力争达成全面、高质量、互惠且具有自身价值的自贸协定。我们鼓励地方政府和企业通过现有机制开展更多三方合作。我们将探索新的合作领域和模式，共同促进经济全球化和自由贸易，为全球经济带来更大稳定和确定性。我们欢迎历届二十国集团（G20）领导人峰会包括大阪峰会成功举行以及取得的成果，将在G20框架下进一步加强合作、发挥领导力。"
+        },
+        {
+          "block_id": "blk-2422bd8f6d4f52ee7ad3",
+          "page_number": 168,
+          "text": "引领科技革命。推进科技创新合作，通过现有机制应对地区和全球问题，鼓励在数字经济和电信领域开展合作。我们将继续保持密切沟通协调，共同应对潜"
+        },
+        {
+          "block_id": "blk-ddca10e61f62fffb1b3e",
+          "page_number": 169,
+          "text": "在的金融不稳定性。加强区域金融合作，包括强化清迈倡议多边化，提升东盟与中日韩宏观经济研究办公室的能力。"
+        },
+        {
+          "block_id": "blk-d885f2fed72a7179ae14",
+          "page_number": 169,
+          "text": "促进包括交通、物流在内的地区互联互通和基础设施合作。基础设施为经济增长和繁荣提供动力。我们强调最大限度发挥基础设施的积极作用有利于实现可持续增长和发展，重视项目在经济、社会、财政、金融和环境方面的可持续性，重申根据普遍接受的国际原则，推进可持续、高质量基础设施建设，提升本地区贸易、投资和服务竞争力。"
+        },
+        {
+          "block_id": "blk-cb1dd962cf8c4b036aec",
+          "page_number": 169,
+          "text": "重申致力于实现2030年可持续发展议程。强调消除包括极端贫困在内的一切形式和表现的贫困，是全球面临的最大挑战，也是可持续发展的必然要求。我们将进一步加强经济、社会和环境层面的合作。强调在循环经济、资源效率、农业、渔业和北极等领域开展合作的重要意义。将继续支持和鼓励各方共同努力，应对海洋塑料垃圾、空气污染、生物多样性丧失、外来物种入侵和跨境动物疫病等共同挑战。采取综合政策措施，促进积极健康老龄化。继续根据《2015—2030年仙台减灾框架》加强减灾合作，促进有可持续财政支持的全民健康覆盖。我们认识到采取切实可行行动应对气候变化的紧迫性，重申致力于全面落实《联合国气候变化框架公约》和《巴黎协定》。"
+        },
+        {
+          "block_id": "blk-46b34f0831ed0b12f73e",
+          "page_number": 169,
+          "text": "促进文明互鉴与民心相通。发扬东亚文化传统，促进东亚合作共赢。抓住三国相继举办奥运会和残奥会的历史性机遇，通过加强体育合作，弘扬友好协作精神。通过丰富多样的文化、教育、人员交流活动，持续增进三国人民相互理解和信任，为三国合作打下稳定、健康、友好的社会基础。积极推动旅游交流，深化民众互信。"
+        },
+        {
+          "block_id": "blk-19b7e5fd3d04f998a398",
+          "page_number": 169,
+          "text": "实现整体振兴与共同发展。拓展三国合作的深度和广度，充分发挥互补优势，使三国合作惠及其他国家和地区。推进“中日韩 \\(+\\mathrm{X}\\)”合作，共同制定计划，采取联合行动，拓展与其他国家合作，缩小地区发展差距，实现共同发展。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-1aa9a1d33642:bundle-989aae18b2d8",
+      "excluded_fragments": [],
+      "ref_id": "ref-1aa9a1d33642",
+      "source_blocks": [
+        {
+          "block_id": "blk-eaefbf8d7183e847a07a",
+          "page_number": 92,
+          "text": "2016年1月，国务院印发《关于同意在天津等12个城市设立跨境电子商务综合试验区的批复》，同意成都、天津、上海、重庆、合肥、郑州、广州、大连、宁波、青岛、深圳、苏州12个城市设立跨境电子商务综合试验区。《批复》指出，要因地制宜，突出本地特色和优势，着力在跨境电子商务企业对企业（B2B）方式相关环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试，为推动全国跨境电子商务发展提供可复制、可推广的经验，用新模式为外贸发展提供新支撑。"
+        },
+        {
+          "block_id": "blk-0b294c6960134a025f3a",
+          "page_number": 92,
+          "text": "跨境电子商务综合试验区是中国设立的跨境电子商务综合素质的先行先试的城市区域，旨在跨境电子商务交易、支付、物流、通关、退税、结汇等环节的技术标准、业务流程、监管模式和信息化建设等方面先行先试，通过制度创新、管理创新、服务创新和协同发展，破解跨境电子商务发展中的深层次矛盾和体制性难题，打造跨境电子商务完整的产业链和生态链，逐步形成一套适应和引领全球跨境电子商务发展的管理制度和规则，为推动中国跨境电子商务健康发展提供可复制、可推广的经验。"
+        },
+        {
+          "block_id": "blk-b890928a7764ea4d8f7d",
+          "page_number": 92,
+          "text": "跨境电子商务作为一种新型的国际贸易方式，正逐渐成为稳外贸增长、促经济发展的新动力、新引擎。成都获批为跨境电子商务综合试验区，下一步将大胆探索，不断创新跨境电子商务监管模式和发展模式，形成制度创新洼地，为各类市场主体公平参与市场竞争创造良好的营商环境，从而吸引跨境电商产业链企业集聚，助力全市产业升级和经济转型。"
+        },
+        {
+          "block_id": "blk-33bc03e4802ee56b3d12",
+          "page_number": 93,
+          "text": "专栏3-2 成都跨境电子商务综合试验区实施方案主要内容"
+        },
+        {
+          "block_id": "blk-f34c105e366704e30140",
+          "page_number": 93,
+          "text": "经过快速推进，建成“基站”“动力”“中继”三位一体的成都跨境电商综试区。"
+        },
+        {
+          "block_id": "blk-ff95936b105890c4ac75",
+          "page_number": 93,
+          "text": "原始 PDF 第 93 页图片"
+        },
+        {
+          "block_id": "blk-9a0789a8e24e87d88862",
+          "page_number": 93,
+          "text": "原始 PDF 第 93 页图片"
+        },
+        {
+          "block_id": "blk-d1e1e3941a501423232b",
+          "page_number": 93,
+          "text": "原始 PDF 第 93 页图片"
+        },
+        {
+          "block_id": "blk-5f234e6e0c15f8f408fc",
+          "page_number": 93,
+          "text": "原始 PDF 第 93 页图片"
+        },
+        {
+          "block_id": "blk-04e944f0319dd05a90d5",
+          "page_number": 93,
+          "text": "实现“单一窗口，全域互通”，在西部提供与东部沿海城市无差距的跨境电子商务通关服务"
+        },
+        {
+          "block_id": "blk-5ebba20b6e58e74608cb",
+          "page_number": 93,
+          "text": "探索西部跨境电商综试区创新发展路径，跨境电子商务贸易额增速高于全国平均水平"
+        },
+        {
+          "block_id": "blk-aa5629239df377c86acf",
+          "page_number": 93,
+          "text": "- 以跨境B2B出口为主要方向，探索跨境电子商务新模式，释放市场活力，吸引大中小企业集聚，促进新业态成长"
+        },
+        {
+          "block_id": "blk-22bf18f06b747db39705",
+          "page_number": 93,
+          "text": "- 以物流基础设施、贸易规则为主要内容，与“丝绸之路经济带”沿途各国城市形成多个点对点电子商务合作"
+        },
+        {
+          "block_id": "blk-72a3d693fc34b9302971",
+          "page_number": 93,
+          "text": "建设西部跨境电子商务创业天府"
+        },
+        {
+          "block_id": "blk-d64c63ed6787db0c4e85",
+          "page_number": 93,
+          "text": "建设西部电子商务消费之都"
+        },
+        {
+          "block_id": "blk-3f05ea19e92fa35e679e",
+          "page_number": 93,
+          "text": "探索建立西部产业运营模式创新中心"
+        },
+        {
+          "block_id": "blk-6f461b6bc20cc5fba945",
+          "page_number": 93,
+          "text": "建设西部企业跨境电子商务应用服务中心"
+        },
+        {
+          "block_id": "blk-21e272f052fe7a87e5db",
+          "page_number": 93,
+          "text": "建设“丝绸之路经济带”国际物流中心"
+        },
+        {
+          "block_id": "blk-385b41119ef6296b6e6c",
+          "page_number": 93,
+          "text": "构建“单一窗口”线上公共服务平台，提供便利化通关服务"
+        },
+        {
+          "block_id": "blk-a1d9c0f1999a60879e83",
+          "page_number": 93,
+          "text": "规划跨境电子商务线下产业载体区域"
+        },
+        {
+          "block_id": "blk-f1686768fdffcab33a9b",
+          "page_number": 93,
+          "text": "建设成都跨境电商综试区多维立体支撑体系"
+        },
+        {
+          "block_id": "blk-052dc458277af62fec04",
+          "page_number": 93,
+          "text": "创新跨境电子商务政策支持体系"
+        },
+        {
+          "block_id": "blk-2b2e5c7b185369ffc905",
+          "page_number": 93,
+          "text": "积极探讨电子商务贸易新规则体系"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-029a4f5913c2",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-0b5fa786bb2d",
+    "ref-1aa9a1d33642"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

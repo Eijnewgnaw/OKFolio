@@ -1,0 +1,2274 @@
+{
+  "contract": {
+    "canonical_question": "成都如何通过建设现代化成都都市圈与自贸试验区战略实践，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局？",
+    "claims": [
+      {
+        "claim": "《国家新型城镇化规划（2021—2035年）》明确提出建立中心城市带动都市圈的空间动力机制。",
+        "claim_id": "claim-9d67d48d5735f11d",
+        "evidence_block_ids": [
+          "blk-3b65ee46b39a250384b9"
+        ],
+        "evidence_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "四川省委省政府提出以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈。",
+        "claim_id": "claim-6a743ed850a93e62",
+        "evidence_block_ids": [
+          "blk-3b65ee46b39a250384b9"
+        ],
+        "evidence_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议。",
+        "claim_id": "claim-88332cfe7eab6919",
+        "evidence_block_ids": [
+          "blk-3b65ee46b39a250384b9"
+        ],
+        "evidence_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，成都都市圈常住人口达到2995.9万人，经济总量实现2.6万亿元。",
+        "claim_id": "claim-c37d6238c1856117",
+        "evidence_block_ids": [
+          "blk-96a3ad67b28fbf73c336",
+          "blk-d6ab853d988f8ae9c54d"
+        ],
+        "evidence_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿\n\n元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为\\(10.2\\%\\) 、 \\(33.8\\%\\) 、 \\(46.2\\%\\) ，成为西部地区、成渝地区双城经济圈和四川省的强力引擎",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39,
+          40
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，成都都市圈现代产业协作引领水平指数为0.0334，排第5位，与其他成熟型都市圈相比差距较大。",
+        "claim_id": "claim-19d2d78a1eb2d74f",
+        "evidence_block_ids": [
+          "blk-e96403d9f5eae4e99edc"
+        ],
+        "evidence_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          45
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈。",
+        "claim_id": "claim-c9e33bb5f4a0cda1",
+        "evidence_block_ids": [
+          "blk-2efcf7279711bd2f7a41"
+        ],
+        "evidence_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的 \\(3.7\\%\\) 、深圳都市圈的\\(7.1\\%",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          46
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都着力推动与德眉资产业融合创新发展，2022年四市开展跨市域产业协作企业增至1490家。",
+        "claim_id": "claim-ff1817639c8f42e9",
+        "evidence_block_ids": [
+          "blk-30d91df8d5192dc1c0a9"
+        ],
+        "evidence_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。2022年，成都市市圈市场主体总量突破430万户、占全省比例高达\\(52.7\\%\\) ，四市开展跨市域产业协作企业增至1490家、较2021年增长 \\(9.7\\%",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都联动德眉资协同完善知识产权保护制度，共同建立全域重点企业知识产权保护直通车制度。",
+        "claim_id": "claim-e0a1b308ec6e31b4",
+        "evidence_block_ids": [
+          "blk-99c4c8cc1a0b3992183e"
+        ],
+        "evidence_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          63
+        ],
+        "ref_id": "ref-721332d3fee5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年8月，党中央、国务院决定在四川省新设立7个自贸试验区之一，标志着自由贸易试验区建设进入深入内陆的发展布局。",
+        "claim_id": "claim-1ee274d964dbfa83",
+        "evidence_block_ids": [
+          "blk-3ef0246bb4391a58e5a3"
+        ],
+        "evidence_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+        "evidence_id": "ref-bd3bd6c6f966:bundle-904c8cd05d50",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          82
+        ],
+        "ref_id": "ref-bd3bd6c6f966",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的建设工作领导小组。",
+        "claim_id": "claim-838545b1c3f808c6",
+        "evidence_block_ids": [
+          "blk-3ef0246bb4391a58e5a3"
+        ],
+        "evidence_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+        "evidence_id": "ref-bd3bd6c6f966:bundle-904c8cd05d50",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          82
+        ],
+        "ref_id": "ref-bd3bd6c6f966",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争建成高水平高标准自由贸易园区。",
+        "claim_id": "claim-dfacff9709333a43",
+        "evidence_block_ids": [
+          "blk-d4f8c71f099e2f528933"
+        ],
+        "evidence_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+        "evidence_id": "ref-bd3bd6c6f966:bundle-904c8cd05d50",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          83
+        ],
+        "ref_id": "ref-bd3bd6c6f966",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-9d67d48d5735f11d",
+          "claim-6a743ed850a93e62",
+          "claim-88332cfe7eab6919",
+          "claim-c37d6238c1856117",
+          "claim-19d2d78a1eb2d74f",
+          "claim-c9e33bb5f4a0cda1",
+          "claim-ff1817639c8f42e9",
+          "claim-e0a1b308ec6e31b4"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+        "reason": "该Bundle包含成都都市圈建设的核心事实，包括战略定位、发展成效、与对标都市圈的对比分析以及具体实施路径，是回答中心问题关于“都市圈建设”部分的关键证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-1ee274d964dbfa83",
+          "claim-838545b1c3f808c6",
+          "claim-dfacff9709333a43"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-bd3bd6c6f966:bundle-904c8cd05d50",
+        "reason": "该Bundle提供了成都自贸试验区建设的战略背景、定位及目标，是回答中心问题关于“自贸试验区战略实践”部分的关键证据。"
+      }
+    ],
+    "group_id": "topic-9d62a36b10d7",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了成都都市圈的空间动力机制、同城化发展路径及成效，涵盖产业协作、创新资源、开放门户和人口承载四大维度，直接支撑中心城市引领带动功能的发挥。",
+        "ref_id": "ref-721332d3fee5",
+        "relation": "supports"
+      },
+      {
+        "contribution": "该证据明确了成都作为四川自贸试验区排头兵的战略定位与建设实践，从制度创新和开放型经济体系构建角度，补充了中心城市推动内陆开放布局的关键事实。",
+        "ref_id": "ref-bd3bd6c6f966",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-9d67d48d5735f11d",
+        "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6a743ed850a93e62",
+        "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-88332cfe7eab6919",
+        "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c37d6238c1856117",
+        "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-19d2d78a1eb2d74f",
+        "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c9e33bb5f4a0cda1",
+        "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ff1817639c8f42e9",
+        "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e0a1b308ec6e31b4",
+        "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1ee274d964dbfa83",
+        "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-838545b1c3f808c6",
+        "draft_excerpt": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dfacff9709333a43",
+        "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-838545b1c3f808c6"
+        ],
+        "draft_excerpt": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+        "finding": "Supported by claim-838545b1c3f808c6.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5626dd0564303d12",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9d67d48d5735f11d"
+        ],
+        "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+        "finding": "Supported by claim-9d67d48d5735f11d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bcabb80ccc4740f5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6a743ed850a93e62"
+        ],
+        "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+        "finding": "Supported by claim-6a743ed850a93e62.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ac655e2532133317",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-88332cfe7eab6919"
+        ],
+        "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+        "finding": "Supported by claim-88332cfe7eab6919.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2e54d93a346d8da7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-88332cfe7eab6919"
+        ],
+        "draft_excerpt": "并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。",
+        "finding": "Supported by claim-88332cfe7eab6919.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-adf0cbfafb5618fe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c37d6238c1856117"
+        ],
+        "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+        "finding": "Supported by claim-c37d6238c1856117.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0eee0af621947969",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-19d2d78a1eb2d74f"
+        ],
+        "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+        "finding": "Supported by claim-19d2d78a1eb2d74f.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-22e94fcfe8a662be",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c9e33bb5f4a0cda1"
+        ],
+        "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+        "finding": "Supported by claim-c9e33bb5f4a0cda1.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-23bfa7dc6560b905",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+        "finding": "Unsupported. This sentence contains qualitative judgments ('着力推动', '逐步凸显') not explicitly stated as facts in the contract claims, which focus on specific data (",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-67ad3c1612d27fbb",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-ff1817639c8f42e9"
+        ],
+        "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+        "finding": "Supported by claim-ff1817639c8f42e9.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-69e3f5476ce65a16",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e0a1b308ec6e31b4"
+        ],
+        "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+        "finding": "Supported by claim-e0a1b308ec6e31b4.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aad663f567e71a9a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1ee274d964dbfa83"
+        ],
+        "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+        "finding": "Supported by claim-1ee274d964dbfa83.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d75fc87220ace846",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-838545b1c3f808c6"
+        ],
+        "draft_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+        "finding": "Sentence fully supported by claim-838545b1c3f808c6.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-22d1a04e1b8f0032",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dfacff9709333a43"
+        ],
+        "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+        "finding": "Sentence fully supported by claim-dfacff9709333a43.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8a7431ac911eb3b1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+        "finding": "Unsupported claim found in sentence-67ad3c1612d27fbb."
+      },
+      {
+        "draft_excerpt": "10.2%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "33.8%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "46.2%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "3.7%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "7.1%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "52.7%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "9.7%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-9d67d48d5735f11d",
+          "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6a743ed850a93e62",
+          "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-88332cfe7eab6919",
+          "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c37d6238c1856117",
+          "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-19d2d78a1eb2d74f",
+          "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c9e33bb5f4a0cda1",
+          "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ff1817639c8f42e9",
+          "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e0a1b308ec6e31b4",
+          "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1ee274d964dbfa83",
+          "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-838545b1c3f808c6",
+          "draft_excerpt": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-838545b1c3f808c6"
+          ],
+          "draft_excerpt": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+          "finding": "Supported by claim-838545b1c3f808c6.",
+          "sentence_id": "sentence-5626dd0564303d12",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9d67d48d5735f11d"
+          ],
+          "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+          "finding": "Supported by claim-9d67d48d5735f11d.",
+          "sentence_id": "sentence-bcabb80ccc4740f5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6a743ed850a93e62"
+          ],
+          "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+          "finding": "Supported by claim-6a743ed850a93e62.",
+          "sentence_id": "sentence-ac655e2532133317",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-88332cfe7eab6919"
+          ],
+          "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+          "finding": "Supported by claim-88332cfe7eab6919.",
+          "sentence_id": "sentence-2e54d93a346d8da7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-88332cfe7eab6919"
+          ],
+          "draft_excerpt": "并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。",
+          "finding": "Supported by claim-88332cfe7eab6919.",
+          "sentence_id": "sentence-adf0cbfafb5618fe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c37d6238c1856117"
+          ],
+          "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+          "finding": "Supported by claim-c37d6238c1856117.",
+          "sentence_id": "sentence-0eee0af621947969",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-19d2d78a1eb2d74f"
+          ],
+          "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+          "finding": "Supported by claim-19d2d78a1eb2d74f.",
+          "sentence_id": "sentence-22e94fcfe8a662be",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c9e33bb5f4a0cda1"
+          ],
+          "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+          "finding": "Supported by claim-c9e33bb5f4a0cda1.",
+          "sentence_id": "sentence-23bfa7dc6560b905",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+          "finding": "Unsupported. This sentence contains qualitative judgments ('着力推动', '逐步凸显') not explicitly stated as facts in the contract claims, which focus on specific data (",
+          "sentence_id": "sentence-67ad3c1612d27fbb",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-ff1817639c8f42e9"
+          ],
+          "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+          "finding": "Supported by claim-ff1817639c8f42e9.",
+          "sentence_id": "sentence-69e3f5476ce65a16",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e0a1b308ec6e31b4"
+          ],
+          "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+          "finding": "Supported by claim-e0a1b308ec6e31b4.",
+          "sentence_id": "sentence-aad663f567e71a9a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1ee274d964dbfa83"
+          ],
+          "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+          "finding": "Supported by claim-1ee274d964dbfa83.",
+          "sentence_id": "sentence-d75fc87220ace846",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+          "finding": "Unsupported claim found in sentence-67ad3c1612d27fbb."
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-838545b1c3f808c6",
+          "draft_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dfacff9709333a43",
+          "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-838545b1c3f808c6"
+          ],
+          "draft_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+          "finding": "Sentence fully supported by claim-838545b1c3f808c6.",
+          "sentence_id": "sentence-22d1a04e1b8f0032",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dfacff9709333a43"
+          ],
+          "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+          "finding": "Sentence fully supported by claim-dfacff9709333a43.",
+          "sentence_id": "sentence-8a7431ac911eb3b1",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "a96a348ef7299e5c6b87deee0b745c779262535000d6e7d823fb71788b85e90b",
+  "coverage_history": [
+    {
+      "draft_sha256": "f8680e81daaf82424bbced00c40c9cfcb2f5e51569ca9b22fa72057540e9028a",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9d67d48d5735f11d",
+            "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出建立中心城市带动都市圈、都市圈引领城市群、城市群支撑区域协调发展的空间动力机制。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-9d67d48d5735f11d.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a743ed850a93e62",
+            "draft_excerpt": "四川省委省政府遵循区域发展客观规律，提出以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-6a743ed850a93e62.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-838545b1c3f808c6",
+            "draft_excerpt": "成都作为四川首位城市，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-838545b1c3f808c6.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfacff9709333a43",
+            "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-dfacff9709333a43.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-88332cfe7eab6919",
+            "draft_excerpt": "2018年，四川省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-88332cfe7eab6919.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c37d6238c1856117",
+            "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-c37d6238c1856117.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-19d2d78a1eb2d74f",
+            "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，指数得分不到上海大都市圈的1/5；",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-19d2d78a1eb2d74f.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c9e33bb5f4a0cda1",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt contains the start of the sentence covering claim-c9e33bb5f4a0cda1, but the specific numbers for claim-c9e33bb5f4a0cda1 (0.0092, 3.7%, 7.1%) are in the next sentence. However, looking at the provided draft sentences, the sentence covering claim-c9e33bb5f4a0cda1 is not in this batch. Wait, let me re-read the batch. The batch ends at sentence-e6a916410d5613fb. The sentence covering claim-c9e33bb5f4a0cda1 is NOT in this batch. Therefore, claim-c9e33bb5f4a0cda1 is NOT covered in this batch. I must remove it from rows. 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。 代码门禁降级为 omitted：covered claim attribution claim-c9e33bb5f4a0cda1 is missing hard anchors from the claim: ['2022年']; claim='2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈。'; excerpt='尽管经济总量显著增长，但成都都市圈在产业协作与创新资源方面与其他成熟型都市圈相比差距较大。\\n创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ff1817639c8f42e9",
+            "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-ff1817639c8f42e9.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e0a1b308ec6e31b4",
+            "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈同保护工作机制和良好氛围。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-e0a1b308ec6e31b4.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1ee274d964dbfa83",
+            "draft_excerpt": "2016年8月，党中央、国务院决定在四川省等新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过推进成德眉资同城化与建设四川自贸试验区，构建区域发展动力机制与内陆开放高地。",
+            "finding": "This is a summary statement not directly supported by specific claims in the contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14c364c0c7235b2f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d67d48d5735f11d"
+            ],
+            "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出建立中心城市带动都市圈、都市圈引领城市群、城市群支撑区域协调发展的空间动力机制。",
+            "finding": "Matches claim-9d67d48d5735f11d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f5e1dc00c9c417b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a743ed850a93e62"
+            ],
+            "draft_excerpt": "四川省委省政府遵循区域发展客观规律，提出以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈。",
+            "finding": "Matches claim-6a743ed850a93e62.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-302bcb13d71c6d54",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-838545b1c3f808c6"
+            ],
+            "draft_excerpt": "成都作为四川首位城市，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+            "finding": "Matches claim-838545b1c3f808c6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8feeeb8c23a185c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfacff9709333a43"
+            ],
+            "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区。",
+            "finding": "Matches claim-dfacff9709333a43.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5217bc37787fc1e7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88332cfe7eab6919"
+            ],
+            "draft_excerpt": "2018年，四川省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+            "finding": "Matches claim-88332cfe7eab6919.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82bf38b3bee29d40",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88332cfe7eab6919"
+            ],
+            "draft_excerpt": "并在2020年1月召开的成德眉资同城化推进会议上明确分三步走推进成都都市圈建设：起步期（2020—2022年）、成长期（2023—2025年）、提升期（2026—2035年）。",
+            "finding": "Matches claim-88332cfe7eab6919.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f3ea1194891bb887",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ff1817639c8f42e9"
+            ],
+            "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+            "finding": "Matches claim-ff1817639c8f42e9.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9cd500160487e76",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0a1b308ec6e31b4"
+            ],
+            "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈同保护工作机制和良好氛围。",
+            "finding": "Matches claim-e0a1b308ec6e31b4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c54853b8f4c363f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c37d6238c1856117"
+            ],
+            "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+            "finding": "Matches claim-c37d6238c1856117.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8b0b3558e90e6ef0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-19d2d78a1eb2d74f",
+              "claim-c9e33bb5f4a0cda1"
+            ],
+            "draft_excerpt": "尽管经济总量显著增长，但成都都市圈在产业协作与创新资源方面与其他成熟型都市圈相比差距较大。",
+            "finding": "This sentence is a general statement. The specific claims (claim-19d2d78a1eb2d74f and claim-c9e33bb5f4a0cda1) are supported by subsequent sentences with data. I",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-60f5840d70357231",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-19d2d78a1eb2d74f"
+            ],
+            "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，指数得分不到上海大都市圈的1/5；",
+            "finding": "Matches claim-19d2d78a1eb2d74f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6a916410d5613fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c9e33bb5f4a0cda1"
+            ],
+            "draft_excerpt": "创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-88f5ec284dec7fd6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ff1817639c8f42e9"
+            ],
+            "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c100d5da3a4e2154",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1ee274d964dbfa83"
+            ],
+            "draft_excerpt": "2016年8月，党中央、国务院决定在四川省等新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9a0f58d84f5f3cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过推进成德眉资同城化与建设四川自贸试验区，构建区域发展动力机制与内陆开放高地。",
+            "finding": "Summary statement not directly supported by specific claims."
+          },
+          {
+            "draft_excerpt": "10.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "33.8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "46.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "52.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "9.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e114ba716eea78c3f7735a4f623526a9dc44e606dc2d752410ba9a0ff413b7f9",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9d67d48d5735f11d",
+            "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a743ed850a93e62",
+            "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-838545b1c3f808c6",
+            "draft_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfacff9709333a43",
+            "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-88332cfe7eab6919",
+            "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+            "finding": "draft_excerpt matches first part of evidence_excerpt.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e0a1b308ec6e31b4",
+            "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c37d6238c1856117",
+            "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-19d2d78a1eb2d74f",
+            "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c9e33bb5f4a0cda1",
+            "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff1817639c8f42e9",
+            "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+            "finding": "该句逐字匹配claim-ff1817639c8f42e9的证据excerpt中的关键数据：市场主体430万户、占比52.7%、协作企业1490家、增长9.7%。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1ee274d964dbfa83",
+            "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+            "finding": "该句逐字匹配claim-1ee274d964dbfa83的证据excerpt。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都作为四川首位城市，通过推进成德眉资同城化与建设四川自贸试验区，构建区域发展动力机制与内陆开放高地。",
+            "finding": "This is a summary sentence. While it references concepts found in the claims, it does not contain the specific required numbers, dates, or policy names verbatim",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e380496854931ce4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d67d48d5735f11d"
+            ],
+            "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+            "finding": "Matches claim-9d67d48d5735f11d exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bcabb80ccc4740f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a743ed850a93e62"
+            ],
+            "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+            "finding": "Matches claim-6a743ed850a93e62 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac655e2532133317",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-838545b1c3f808c6"
+            ],
+            "draft_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+            "finding": "Matches claim-838545b1c3f808c6 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4550852d1355ddb5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfacff9709333a43"
+            ],
+            "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+            "finding": "Matches claim-dfacff9709333a43 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00c32c10a6991cc8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88332cfe7eab6919"
+            ],
+            "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+            "finding": "Matches first part of claim-88332cfe7eab6919.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0946da79cf345f1c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88332cfe7eab6919"
+            ],
+            "draft_excerpt": "并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。",
+            "finding": "Matches second part of claim-88332cfe7eab6919.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c6e276d519f71da",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+            "finding": "This sentence contains general statements about industrial integration and competitiveness. While related to the context of claim-ff1817639c8f42e9, it does not",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9cd500160487e76",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0a1b308ec6e31b4"
+            ],
+            "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+            "finding": "Matches claim-e0a1b308ec6e31b4 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74cf374d42a460f3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c37d6238c1856117"
+            ],
+            "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+            "finding": "Matches claim-c37d6238c1856117 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8b0b3558e90e6ef0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-19d2d78a1eb2d74f"
+            ],
+            "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+            "finding": "Matches claim-19d2d78a1eb2d74f exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-910e90636333ffda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c9e33bb5f4a0cda1"
+            ],
+            "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+            "finding": "Matches claim-c9e33bb5f4a0cda1 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5113ea2cfc3abee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ff1817639c8f42e9"
+            ],
+            "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+            "finding": "该句事实完全由claim-ff1817639c8f42e9支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-633d7e25b82c9168",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1ee274d964dbfa83"
+            ],
+            "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+            "finding": "该句事实完全由claim-1ee274d964dbfa83支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fcd7d04274b31522",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都作为四川首位城市，通过推进成德眉资同城化与建设四川自贸试验区，构建区域发展动力机制与内陆开放高地。",
+            "finding": "Summary sentence not directly supported by specific claim text."
+          },
+          {
+            "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+            "finding": "General statement not containing specific claim details."
+          },
+          {
+            "draft_excerpt": "10.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "33.8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "46.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "52.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "9.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a96a348ef7299e5c6b87deee0b745c779262535000d6e7d823fb71788b85e90b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9d67d48d5735f11d",
+            "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6a743ed850a93e62",
+            "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-88332cfe7eab6919",
+            "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c37d6238c1856117",
+            "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-19d2d78a1eb2d74f",
+            "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c9e33bb5f4a0cda1",
+            "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ff1817639c8f42e9",
+            "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e0a1b308ec6e31b4",
+            "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1ee274d964dbfa83",
+            "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-838545b1c3f808c6",
+            "draft_excerpt": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfacff9709333a43",
+            "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-838545b1c3f808c6"
+            ],
+            "draft_excerpt": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+            "finding": "Supported by claim-838545b1c3f808c6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5626dd0564303d12",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d67d48d5735f11d"
+            ],
+            "draft_excerpt": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+            "finding": "Supported by claim-9d67d48d5735f11d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bcabb80ccc4740f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6a743ed850a93e62"
+            ],
+            "draft_excerpt": "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+            "finding": "Supported by claim-6a743ed850a93e62.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac655e2532133317",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88332cfe7eab6919"
+            ],
+            "draft_excerpt": "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；",
+            "finding": "Supported by claim-88332cfe7eab6919.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e54d93a346d8da7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-88332cfe7eab6919"
+            ],
+            "draft_excerpt": "并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。",
+            "finding": "Supported by claim-88332cfe7eab6919.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adf0cbfafb5618fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c37d6238c1856117"
+            ],
+            "draft_excerpt": "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。",
+            "finding": "Supported by claim-c37d6238c1856117.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0eee0af621947969",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-19d2d78a1eb2d74f"
+            ],
+            "draft_excerpt": "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+            "finding": "Supported by claim-19d2d78a1eb2d74f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-22e94fcfe8a662be",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c9e33bb5f4a0cda1"
+            ],
+            "draft_excerpt": "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。",
+            "finding": "Supported by claim-c9e33bb5f4a0cda1.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-23bfa7dc6560b905",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+            "finding": "Unsupported. This sentence contains qualitative judgments ('着力推动', '逐步凸显') not explicitly stated as facts in the contract claims, which focus on specific data (",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-67ad3c1612d27fbb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ff1817639c8f42e9"
+            ],
+            "draft_excerpt": "2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。",
+            "finding": "Supported by claim-ff1817639c8f42e9.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69e3f5476ce65a16",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0a1b308ec6e31b4"
+            ],
+            "draft_excerpt": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+            "finding": "Supported by claim-e0a1b308ec6e31b4.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aad663f567e71a9a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1ee274d964dbfa83"
+            ],
+            "draft_excerpt": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+            "finding": "Supported by claim-1ee274d964dbfa83.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d75fc87220ace846",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-838545b1c3f808c6"
+            ],
+            "draft_excerpt": "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+            "finding": "Sentence fully supported by claim-838545b1c3f808c6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-22d1a04e1b8f0032",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfacff9709333a43"
+            ],
+            "draft_excerpt": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+            "finding": "Sentence fully supported by claim-dfacff9709333a43.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a7431ac911eb3b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。",
+            "finding": "Unsupported claim found in sentence-67ad3c1612d27fbb."
+          },
+          {
+            "draft_excerpt": "10.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "33.8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "46.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "52.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "9.7%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为10.2%、33.8%、46.2%，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的3.7%、深圳都市圈的7.1%。成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。2022年，成都市圈市场主体总量突破430万户、占全省比例高达52.7%，四市开展跨市域产业协作企业增至1490家、较2021年增长9.7%。成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。",
+    "description": "成都作为四川首位城市，通过建设现代化成都都市圈与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+    "ref": {
+      "asset_hints": [
+        "html-table-009",
+        "image-001",
+        "image-002",
+        "image-003",
+        "image-004",
+        "image-005",
+        "image-006",
+        "image-007",
+        "image-008",
+        "image-009",
+        "image-010",
+        "image-011",
+        "image-012",
+        "image-013",
+        "image-014",
+        "image-015",
+        "image-016",
+        "image-017",
+        "image-018",
+        "image-019",
+        "image-020",
+        "image-021",
+        "image-022",
+        "image-023",
+        "image-024",
+        "image-025",
+        "image-026",
+        "image-027",
+        "image-028",
+        "image-029",
+        "image-030",
+        "image-031",
+        "image-032",
+        "image-033",
+        "image-034",
+        "image-035"
+      ],
+      "concept_id": "topic-9d62a36b10d7",
+      "description": "成都作为四川首位城市，通过建设现代化成都都市圈（成德眉资同城化）与积极建设中国（四川）自由贸易试验区成都片区，发挥中心城市引领带动功能，推动区域高质量发展与内陆开放布局。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。",
+        "四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。",
+        "2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。",
+        "2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿\n\n元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为\\(10.2\\%\\) 、 \\(33.8\\%\\) 、 \\(46.2\\%\\) ，成为西部地区、成渝地区双城经济圈和四川省的强力引擎",
+        "2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。",
+        "2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的 \\(3.7\\%\\) 、深圳都市圈的\\(7.1\\%",
+        "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。2022年，成都市市圈市场主体总量突破430万户、占全省比例高达\\(52.7\\%\\) ，四市开展跨市域产业协作企业增至1490家、较2021年增长 \\(9.7\\%",
+        "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。",
+        "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。",
+        "成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。",
+        "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。"
+      ],
+      "evidence_block_ids": [
+        "blk-3b65ee46b39a250384b9",
+        "blk-96a3ad67b28fbf73c336",
+        "blk-d6ab853d988f8ae9c54d",
+        "blk-e96403d9f5eae4e99edc",
+        "blk-2efcf7279711bd2f7a41",
+        "blk-30d91df8d5192dc1c0a9",
+        "blk-99c4c8cc1a0b3992183e",
+        "blk-3ef0246bb4391a58e5a3",
+        "blk-d4f8c71f099e2f528933"
+      ],
+      "page_end": 83,
+      "page_start": 39,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都都市圈建设与自贸试验区战略实践",
+      "type": "分析框架"
+    },
+    "title": "成都都市圈建设与自贸试验区战略实践"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-721332d3fee5:bundle-044cc0757b29",
+      "excluded_fragments": [],
+      "ref_id": "ref-721332d3fee5",
+      "source_blocks": [
+        {
+          "block_id": "blk-3b65ee46b39a250384b9",
+          "page_number": 39,
+          "text": "党中央、国务院印发的《国家新型城镇化规划（2021—2035年）》明确提出“建立中心城市带动都市圈，都市圈引领城市群，城市群支撑区域协调发展的空间动力机制”。四川省委省政府站位服务国家战略全局，遵循区域发展客观规律，提出“以成渝地区双城经济圈建设为总牵引，建强动能更充沛的现代化成都都市圈”。2018年，省委省政府高位推动成德眉资签署加快同城化发展合作协议；并在2020年1月召开的成德眉资同城化推进会议上明确分“起步期（2020—2022年）→成长期（2023—2025年）→提升期（2026—2035年）”三步走推进成都都市圈建设。2022年以来，成都充分发挥中心城市引领带动功能，聚焦“三圈一体”打造现代化都市圈，带动德阳、眉山、资阳共同优化都市圈发展布局、推进基础设施同城同网、提升创新驱动发展水平协同、共建现代高端产业集聚区、提升开放合作水平、共享公共服务便利、共保共治生态环境，推动成都都市圈三年行动计划全面收官，都市圈建设成效初显、亮点纷呈，为开启成长期新征程奠定坚实基础。"
+        },
+        {
+          "block_id": "blk-1492389f215a90eef629",
+          "page_number": 39,
+          "text": "依据《成都都市圈发展规划》提出全面增强“现代产业协作引领功能、创新资源集聚转化功能、改革系统集成和内陆开放门户功能、人口综合承载服务功能”的相关要求，结合《成都都市圈发展规划》《成德眉资同城化发展暨成都都市圈建设三年行动计划（2020—2022）》提出的相关发展目标和重要任务，借鉴国内先发研究机构构建的都市圈发展评价模型经验，建立都市圈总体发展水平和同城化发展水平的指标体系和评价模型，从横向与纵向两个角度，综合评价成都都市圈建设水平。"
+        },
+        {
+          "block_id": "blk-96a3ad67b28fbf73c336",
+          "page_number": 39,
+          "text": "当前，成都都市圈处于由起步发展阶段迈入快速成长阶段承前启后的关键阶段，现代产业协作引领能力大幅提升、创新资源集聚转化能力持续增强，内陆开放门户枢纽功能持续强化，人口综合承载服务能力持续提升，都市圈发展水平综合指数从2018年的0.0997提升到2022年的0.8959，成都都市圈建设跑出“加速度”。2022年，成都都市圈常住人口达到2995.9万人、较2018年新增超400万人，都市圈经济总量实现2.6万亿"
+        },
+        {
+          "block_id": "blk-d6ab853d988f8ae9c54d",
+          "page_number": 40,
+          "text": "元、较2018年增长近6千亿，占西部地区、成渝地区双城经济圈和四川省比重分别为\\(10.2\\%\\) 、 \\(33.8\\%\\) 、 \\(46.2\\%\\) ，成为西部地区、成渝地区双城经济圈和四川省的强力引擎。"
+        },
+        {
+          "block_id": "blk-8170a423d01cdc9eff8d",
+          "page_number": 40,
+          "text": "原始 PDF 第 40 页图片"
+        },
+        {
+          "block_id": "blk-3453a72259f7ac4511c2",
+          "page_number": 40,
+          "text": "图2-1 2018—2022年成都都市圈发展水平综合指数变化情况"
+        },
+        {
+          "block_id": "blk-59773a7294429aa7eb4b",
+          "page_number": 40,
+          "text": "数据来源：构建成都都市圈发展水平指标体系计算得到"
+        },
+        {
+          "block_id": "blk-ac4dff0fd209c7e1b01f",
+          "page_number": 40,
+          "text": "现代产业发展引领能力显著增强。成都都市圈现代产业协作引领水平指数保持高速增长的趋势，从2018年的0.0001增加到2022年的0.2208。工业经济综合实力显著提升，2022年成都都市圈实现工业增加值6997.6亿元、规上工业营业收入2.4万亿元，年均增速分别为 \\(6.0\\%\\) 、 \\(9.7\\%\\) ，其中高新技术产业营业收入占规上工业营业收入比重由 \\(37.8\\%\\) 提升至 \\(61.6\\%\\) ，成都都市圈累计培育国家级制造业单项冠军示范企业9家、国家专精特新“小巨人”企业240家。现代服务业辐射带动效应持续增强，2022年成都都市圈服务业增加值超1.6万亿元，占GDP比重超过 \\(61\\%\\) ，较2018年提升10个百分点以上，其中，都市圈金融业增加值达到2687.4亿元，占全省比重为 \\(70.0\\%\\) ，较2018年提升11.3个百分点，成都跻身全球金融中心第34名、稳居中西部第一，都市圈社会消费品零售总额实现11197.6亿元，近五年累计引进首店2500余家，首店经济仅次于上海、北京。"
+        },
+        {
+          "block_id": "blk-76f08ecd1501af148094",
+          "page_number": 41,
+          "text": "原始 PDF 第 41 页图片"
+        },
+        {
+          "block_id": "blk-d8d1076e4108199eac76",
+          "page_number": 41,
+          "text": "原始 PDF 第 41 页图片"
+        },
+        {
+          "block_id": "blk-9eabd1abaa6677bee99f",
+          "page_number": 41,
+          "text": "图2-2 2018—2022年成都市都市圈现代产业协作引领水平指数变化情况"
+        },
+        {
+          "block_id": "blk-b641607d6d187483b6a7",
+          "page_number": 41,
+          "text": "数据来源：2020—2022年成德眉资四市国民经济和社会发展统计公报、2023年成德眉资四市政府工作报告、四川省统计局《四川经济工作手册2021—2023》"
+        },
+        {
+          "block_id": "blk-968a20f50bd61d24a65d",
+          "page_number": 41,
+          "text": "创新“主力军”“先锋队”地位凸显。2018—2022年，成都都市圈创新资源集聚转化水平指数实现大幅提升，由0.0045增长至0.2187。研发投入产出水平大幅提升，2022年，区域全社会研发经费投入强度达 \\(3.1\\%\\) ，较2018年提升0.8个百分点，高于全省水平近1个百分点；截至2022年，万人有效发明专利拥有量增至28.2件，较2018年提升\\(84.3\\%\\) ；技术合同成交总额达到1484.2亿元，2018—2022年年均增长 \\(11.7\\%\\) 。创新主体活力加速进发，截至2022年，成都都市圈内有效国家高新技术企业超1.2万家、数量较2018年激增2.6倍、四年年均增速高达 \\(39.4\\%\\) ，独角兽企业、科创板上市（过会）企业总数分别增至9家、17家。创新载体支撑不断夯实，2022年成都都市圈集聚科创平台2000余家，拥有国家级科创企业孵化器24家、国家级众创空间57家，分别较2018年增加10家、7家。"
+        },
+        {
+          "block_id": "blk-051a5cd08a52608e9f62",
+          "page_number": 42,
+          "text": "原始 PDF 第 42 页图片"
+        },
+        {
+          "block_id": "blk-ba1382832aa169533c3e",
+          "page_number": 42,
+          "text": "原始 PDF 第 42 页图片"
+        },
+        {
+          "block_id": "blk-d0d67333f22cb135d4ad",
+          "page_number": 42,
+          "text": "原始 PDF 第 42 页图片"
+        },
+        {
+          "block_id": "blk-c0f1063b30591e82b9e7",
+          "page_number": 42,
+          "text": "图2-3 2018—2022年成都都市圈创新资源集聚转化水平指数变化情况①"
+        },
+        {
+          "block_id": "blk-0db5cea7b0d181edda3a",
+          "page_number": 42,
+          "text": "数据来源：2018—2021年四川省科技经费投入统计公报、四川省2018—2022年度有效国家高新技术企业名单、2023年德阳市政府工作报告、胡润研究院《2018—2022年胡润全球独角兽榜》、四川省知识产权服务促进中心"
+        },
+        {
+          "block_id": "blk-a67e36b891a768ef9271",
+          "page_number": 42,
+          "text": "内陆门户枢纽开放水平稳步提升。2018—2022年，成都都市圈内陆门户枢纽开放水平指数不断提升，由0.0471提高至0.2114。对内互联互通交通网络逐步成型，2022年，成都都市圈城市轨道交通路网密度达到1.7公里/百平方公里、是2018年的1.7倍，公路路网密度、高速公路路网密度分别达到186.2、7.4公里/百平方公里，分别为2018年的1.1倍、1.3倍。国际空港陆港枢纽地位更加凸显，2022年，成都双机场旅客、货邮吞吐量分别实现3109.2万人次（位居全国第一）和61.2万吨，铁路、公路货物运输总量为6.6亿吨、较2018年增长 \\(24.5\\%\\) ，成都都市圈国际班列开行5260列、开行数量年均增速高达 \\(19.0\\%\\) 。整体对外开放水平不断提高，2022年，成都都市圈货物进出口总额为8688.8亿元，是2018年的两倍左右；实际利用外资实现88.5亿美元，其中外商直接投资（FDI）高达30.6亿美元。"
+        },
+        {
+          "block_id": "blk-693a5c3e4318a395dd05",
+          "page_number": 43,
+          "text": "原始 PDF 第 43 页图片"
+        },
+        {
+          "block_id": "blk-6e89147f8325a81cff99",
+          "page_number": 43,
+          "text": "原始 PDF 第 43 页图片"
+        },
+        {
+          "block_id": "blk-84dcf89509a8b6109e72",
+          "page_number": 43,
+          "text": "原始 PDF 第 43 页图片"
+        },
+        {
+          "block_id": "blk-5045bee252f56afadd40",
+          "page_number": 43,
+          "text": "图2-4 2018—2022年成都都市圈内陆门户枢纽开放水平指数变化情况①"
+        },
+        {
+          "block_id": "blk-ec7b7ffe8a1c66f48402",
+          "page_number": 43,
+          "text": "数据来源：2018—2022年成德眉资四市国民经济和社会发展统计公报、四川统计局《2019—2022年四川统计年鉴》"
+        },
+        {
+          "block_id": "blk-29012ef83c864b0eb4e6",
+          "page_number": 43,
+          "text": "人口综合承载服务能力全面提升。2018—2022年，成都都市圈人口综合承载服务水平指数由0.0480提升至0.2451。城乡发展均衡性协调性不断增强，2022年，成都都市圈常住人口城镇化率达到 \\(71.7\\%\\) ，较2018年提高7.6个百分点；都市圈居民人均可支配收入从2018年的31939.2元增加到2022年的43391.4元，城乡居民人均可支配收入比由2.01降至1.87。绿色生态发展格局加速构建，截至2022年底，成都都市圈国、省考核断面水质优良占比均达 \\(100\\%\\) 、较2018年提高38.8个百分点，空气优良天数率达 \\(81.3\\%\\) 、较2018年提升5.2个百分点，PM2.5平均浓度为36.3微克/立方米、较2018年下降幅度达到 \\(13.6\\%\\) 。公共服务供给水平稳步提升，2022年，成都都市圈普通小学和中学生师比分别降至16.2、12.0，整体教育师资配备水平有所提高；每万人口医院床位数、每万人口执业（助理）医师数分别达69.0张、35.6人，分别较2018年增加6.0张、3.2人。"
+        },
+        {
+          "block_id": "blk-3b1c73d1baecc5706631",
+          "page_number": 44,
+          "text": "原始 PDF 第 44 页图片"
+        },
+        {
+          "block_id": "blk-8ff0a37f9d8f584d60d4",
+          "page_number": 44,
+          "text": "原始 PDF 第 44 页图片"
+        },
+        {
+          "block_id": "blk-e189066a650627cba4b8",
+          "page_number": 44,
+          "text": "原始 PDF 第 44 页图片"
+        },
+        {
+          "block_id": "blk-66b6ebdd6f03eceae62c",
+          "page_number": 44,
+          "text": "图2-5 2018—2022年成都都市圈人口综合承载服务水平指数变化情况①"
+        },
+        {
+          "block_id": "blk-c8092c3c27275d61f994",
+          "page_number": 44,
+          "text": "数据来源：2018—2022年成德眉资四市国民经济和社会发展统计公报、国家统计局《2019—2022年中国城市统计年鉴》"
+        },
+        {
+          "block_id": "blk-e2b2c2da46994ddaf14b",
+          "page_number": 44,
+          "text": "从横向对比来看，成都都市圈综合竞争力仍然偏弱。通过对重点都市圈综合发展水平指数计算发现，2022年，成都都市圈综合发展指数为0.2317，与上海大都市圈②(0.7641)、深圳都市圈③（0.4637）、杭州都市圈④（0.3223）、广州都市圈⑤（0.3118）等国内成熟型都市圈相比还有一定差距，未来仍有较大提升空间。2022年，成都都市圈人均GDP不足10万元，仅相当于上海大都市圈、杭州都市圈的 \\(51.5\\%\\) 、 \\(66.8\\%\\) ，占比均较2021年下降0.4个百分点；成都都市圈单位面积产出为0.8亿元/平方公里，不到上海大"
+        },
+        {
+          "block_id": "blk-63ada27c5fd1ebeae402",
+          "page_number": 45,
+          "text": "都市圈的1/3、深圳都市圈的1/4。分维度看，成都都市圈的国际门户枢纽开放水平、人口综合承载服务水平排名相对其他领域更有优势，均位居第4位，而现代产业协作引领水平、创新资源集聚转化水平指数排名靠后，均位于五个都市圈末位。"
+        },
+        {
+          "block_id": "blk-42567c651010717ee4f8",
+          "page_number": 45,
+          "text": "<table><tr><td></td><td>上海大都市圈</td><td>深圳都市圈</td><td>杭州都市圈</td><td>广州都市圈</td><td>成都都市圈</td></tr><tr><td>现代产业协作引领水平</td><td>0.1826</td><td>0.0742</td><td>0.0739</td><td>0.0613</td><td>0.0334</td></tr><tr><td>创新资源集聚转化水平</td><td>0.2512</td><td>0.1300</td><td>0.0720</td><td>0.0481</td><td>0.0092</td></tr><tr><td>国际门户枢纽开放水平</td><td>0.1956</td><td>0.1207</td><td>0.0469</td><td>0.1318</td><td>0.0713</td></tr><tr><td>人口综合承载服务水平</td><td>0.1347</td><td>0.1424</td><td>0.1294</td><td>0.0707</td><td>0.1177</td></tr><tr><td>都市圈整体发展水平</td><td>0.7641</td><td>0.4673</td><td>0.3223</td><td>0.3118</td><td>0.2317</td></tr></table>"
+        },
+        {
+          "block_id": "blk-8ec4ed68dcd7d79db576",
+          "page_number": 45,
+          "text": "图2-6 2022年五大都市圈发展水平及各分项指标指标排名"
+        },
+        {
+          "block_id": "blk-e96403d9f5eae4e99edc",
+          "page_number": 45,
+          "text": "现代产业支撑引领能力相对不足。2022年，成都都市圈现代产业协作引领水平指数为0.0334、排第5位，与其他成熟型都市圈相比差距较大，指数得分不到上海大都市圈的1/5。以服务业为主导的经济结构特征非常显著，但商业消费能力仍有差距，2022年，成都都市圈第三产业增加值占GDP比重为 \\(61.8\\%\\) ，高居五大都市圈首位，领先深圳都市圈、杭州都市圈5个百分点以上，但人均社会消费品零售总额仅为3.7万元，均落后于其他都市圈、仅为上海大都市圈的 \\(64.8\\%\\) 。制造业企业先进性和引领力相对不足，规模以上工业企业营业收入仅实现上海大都市圈的 \\(12.7\\%\\) 、深圳都市圈的 \\(29.9\\%\\) ；国家级制造业单项冠军示范企业（产品）、国家级“专特精新”小巨人企业数量居于五大都市圈最末，亟待推动优质企业数量持续增长、质量稳步提升。"
+        },
+        {
+          "block_id": "blk-1b3c5b7052e5ecda83f1",
+          "page_number": 45,
+          "text": "原始 PDF 第 45 页图片"
+        },
+        {
+          "block_id": "blk-2f5bbd2af0b09b1b72e8",
+          "page_number": 45,
+          "text": "原始 PDF 第 45 页图片"
+        },
+        {
+          "block_id": "blk-3e77414b0a6878456f41",
+          "page_number": 45,
+          "text": "图2-7 成都都市圈与对标都市圈现代产业协作引领水平指数情况"
+        },
+        {
+          "block_id": "blk-3143843ed7b7057a21ff",
+          "page_number": 45,
+          "text": "资料来源：由2022年各城市统计公报、历年国家级全国制造业单项冠军示范企业名单、专特精新小巨人企业名单计算而得"
+        },
+        {
+          "block_id": "blk-2efcf7279711bd2f7a41",
+          "page_number": 46,
+          "text": "科技创新和技术研发水平相对滞后。2022年，成都都市圈创新资源集聚转化水平指数为0.0092，远落后于其他都市圈，得分仅为上海大都市圈的 \\(3.7\\%\\) 、深圳都市圈的\\(7.1\\%\\) 。研发投入产出相对不足，2022年，成都都市圈全社会研发经费投入强度分别低于深圳都市圈、上海大都市圈1.9、0.8个百分点，差距均较上年扩大0.2个百分点；成都都市圈发明专利授权量超2万件，不及上海大都市圈的1/4、深圳都市圈的1/2，每万人有效发明专利拥有量仅达到占深圳都市圈的 \\(30.7\\%\\) 、上海大都市圈的 \\(42.6\\%\\) 。创新支撑有待进一步夯实，2022年，成都都市圈有效国家高新技术企业、独角兽企业和科创板上市企业数量分别为12082家、9家和17家，国家级科技企业孵化器数量为24个，均位居对标都市圈最后一名，与上海、深圳等创新型都市圈差距仍然较大。"
+        },
+        {
+          "block_id": "blk-dae50a81404da90d87f3",
+          "page_number": 46,
+          "text": "原始 PDF 第 46 页图片"
+        },
+        {
+          "block_id": "blk-b67404336eb2b035b2a8",
+          "page_number": 46,
+          "text": "原始 PDF 第 46 页图片"
+        },
+        {
+          "block_id": "blk-9786867fb194d23e4bb6",
+          "page_number": 46,
+          "text": "图2-8 成都都市圈与对标都市圈创新资源集聚转化水平指数情况"
+        },
+        {
+          "block_id": "blk-18227f3334542ccc70c6",
+          "page_number": 46,
+          "text": "资料来源：2022年各城市统计公报、科研经费支出和知识产权统计公报、2022年国家有效高新技术企业数量名单、历年国家级科技企业孵化器名单"
+        },
+        {
+          "block_id": "blk-09aa5c5d3d9ae76a5a97",
+          "page_number": 46,
+          "text": "通道枢纽链接水平仍有提升空间。2022年，成都都市圈国际门户枢纽开放水平指数为0.0713，排名位列第四，是杭州都市圈的1.5倍。道路路网畅通水平较高，成都都市圈公路路网密度位居对标都市圈第一，分别是杭州都市圈、深圳都市圈的1.6倍、1.3倍，由于广州都市圈、深圳都市圈对划定范围进行了调整，成都都市圈的高速公路路网密度、城市轨道交通路网优势不再凸显，仅优于杭州都市圈水平。综合运输能力和对外开放水平有待提升，2022年，成都都市圈机场旅客吞吐量仅落后于上海大都市圈、位居对标都市圈第二，但航空货邮吞吐量之和仅为上海大都市圈 \\(17.1\\%\\) 、广州都市圈的"
+        },
+        {
+          "block_id": "blk-8f2b230be25d1a447e46",
+          "page_number": 47,
+          "text": "\\(32.4\\%\\) ，铁、公路货物运输总量不及上海都市圈的三成、杭州都市圈的五成；成都都市圈外贸依存度分别低于上海大都市圈、深圳都市圈54.5、76.6个百分点，实际利用外资仅实现上海大都市圈水平的 \\(17.9\\%\\) 、较2021年降低1.2个百分点。"
+        },
+        {
+          "block_id": "blk-71606953adae58ddb895",
+          "page_number": 47,
+          "text": "原始 PDF 第 47 页图片"
+        },
+        {
+          "block_id": "blk-ca6e795217e81c91793d",
+          "page_number": 47,
+          "text": "原始 PDF 第 47 页图片"
+        },
+        {
+          "block_id": "blk-8846d16c69dce672d51e",
+          "page_number": 47,
+          "text": "图2-9 成都都市圈与对标都市圈国际门户枢纽开放水平指数情况"
+        },
+        {
+          "block_id": "blk-1957551df4228501384b",
+          "page_number": 47,
+          "text": "资料来源：2022年各城市统计公报、国家交通部《2022年城市轨道交通运营数据速报》"
+        },
+        {
+          "block_id": "blk-1586d17b29e93c33540b",
+          "page_number": 47,
+          "text": "人口综合承载服务能力短板明显。2022年，成都都市圈人口综合承载能力指数达到0.1177，位居五大都市圈中第四，仅领先于广州都市圈（0.0707）。城乡融合水平显著落后于其他都市圈，2022年，成都都市圈常住人口城镇化率仅为 \\(71.7\\%\\) 、低于深圳都市圈21.1个百分点，且城乡居民可支配收入比在对标都市圈内为最高水平，表明城镇化水平有待提升、城乡居民收入差距仍然较大。教育医疗公共资源基础较好，成都都市圈小学生师比、普通中学生师比均处于较低水平（普通小学生师比为对标都市圈中的最低水平），每万人口医院床位数和执业（助理）医师数分别位居对标都市圈内第2、第3名，师资配备和医疗服务水平具有一定优势。绿色生态环境仍有较大提升空间，2022年，成都都市圈国、省考核断面水质优良比例领先于杭州都市圈以外的其他都市圈，但空气优良天数比例位居对标都市圈末位，分别低于深圳都市圈、广州都市圈9.9、6.6个百分点。"
+        },
+        {
+          "block_id": "blk-ff7a06849840b9098d00",
+          "page_number": 48,
+          "text": "原始 PDF 第 48 页图片"
+        },
+        {
+          "block_id": "blk-d8222a02b2af07f14995",
+          "page_number": 48,
+          "text": "原始 PDF 第 48 页图片"
+        },
+        {
+          "block_id": "blk-88d0401adad057140505",
+          "page_number": 48,
+          "text": "原始 PDF 第 48 页图片"
+        },
+        {
+          "block_id": "blk-c9699049347761814808",
+          "page_number": 48,
+          "text": "原始 PDF 第 48 页图片"
+        },
+        {
+          "block_id": "blk-6fd592f8342332018739",
+          "page_number": 48,
+          "text": "图2-10 成都都市圈与对标都市圈人口综合承载能力指数情况"
+        },
+        {
+          "block_id": "blk-9503877bb7fc251ba464",
+          "page_number": 48,
+          "text": "资料来源：2022年各城市统计公报、教育事业统计公报和卫生健康统计公报"
+        },
+        {
+          "block_id": "blk-3797c04983f154411530",
+          "page_number": 48,
+          "text": "2022年，成德眉资同城化发展全面提速，互联互通水平持续提升，产业配套协作持续深化，公服共建共享持续提质，协同创新能力持续增强。成都与德眉资3市的经济联系强度为12419.6、6849.8、6376.8，分别较去年提高 \\(6.2\\%\\) 、 \\(6.0\\%\\) 、 \\(5.4\\%\\) ，成都都市圈的人均地区生产总值变异系数为1.2605，较去年下降 \\(0.4\\%\\) ，但与上海大都市圈、广州都市圈等较为成熟的都市圈相比，成德眉资同城化发展水平仍待提升。具体来看："
+        },
+        {
+          "block_id": "blk-4238a9bfe5ded1e28586",
+          "page_number": 48,
+          "text": "图2-11 2021—2022年成都与德眉资的经济联系强度示意图"
+        },
+        {
+          "block_id": "blk-621fd2ea50a5c9af7825",
+          "page_number": 48,
+          "text": "资料来源：根据2020—2021年各个城市统计公报中人口、GDP数据以及城市之间的时间距离计算、绘制"
+        },
+        {
+          "block_id": "blk-a3de3e0737ea047cfa50",
+          "page_number": 49,
+          "text": "内联外通开放大通道加速构筑，但流量交互水平提升空间较大。公共交通便利共享程度提升，2022年，成都都市圈稳定开行跨市域公交线路14条、数量为2021年的1.3倍，都市圈公交天府通刷卡互惠人数达到78.6万人次，较2021年降低 \\(29.8\\%\\) ，与广州都市圈相比（2022年广佛、深莞两市之间日均出行量分别为171万人次、84万人次①），交通同城化联系还不够强。对外开放协同共进逐步深入，截至2022年，成都都市圈外贸依存度、实际利用外资变异系数分别为1.0198、1.5794，较上年分别降低 \\(12.0\\%\\) 、 \\(0.8\\%\\) 近五年来下降幅度分别高达 \\(13.6\\%\\) 、 \\(4.2\\%\\) ，表明都市圈内外贸、外资协调发展水平整体呈现持续提升的良好趋势，但对外大通道共建共享仍较不足，2022年，成都中欧班列以服务本土产业发展为主，本地货源占比 \\(50\\%\\) 以上，德眉资通过中欧班列发运货物货值仅占德眉资出口总额比重不到 \\(1\\%\\) 。"
+        },
+        {
+          "block_id": "blk-163acb373a352694de80",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-28cf47b37fc3d6dfd81d",
+          "page_number": 49,
+          "text": "图2-12 2018—2022年成都都市圈外贸依存度和实际利用外资变异系数变化"
+        },
+        {
+          "block_id": "blk-f21f35ab7bb972415e4e",
+          "page_number": 49,
+          "text": "资料来源：由2018—2022年成德眉资四市统计公报中对外开放相关数据计算而得"
+        },
+        {
+          "block_id": "blk-33f10f628054ef45ab86",
+          "page_number": 49,
+          "text": "高能级产业生态圈加快建设，现代产业协作共兴走深走实。产业协作配套、一体化发展加快，2021年，成都与德阳、资阳的规模以上工业结构相似系数分别较上年降低\\(4.0\\%\\) 、 \\(6.4\\%\\) ，成眉工业结构相似系数略有提升，成都与德眉资规模以上工业克鲁格曼专业化指数均高于1，且较2020年分别提升 \\(3.6\\%\\) 、 \\(2.5\\%\\) 和 \\(4.3\\%\\) ，工业错位协同发展、专业化程度不断提升。内部市场主体不平衡、产业发展不协调的情况仍然明显，成都都市圈市场主体数量变异系数整体上呈现缓慢下降的趋势，成德眉资4市之间市场主体总量差距有所减小、空间分布愈加均衡，但国家级专精特新“小巨人”企业数量变异系数持"
+        },
+        {
+          "block_id": "blk-aca1d088ac0b41c09bfc",
+          "page_number": 50,
+          "text": "续增大，德眉资3市该类企业总量之和仅占都市圈的 \\(15.8\\%\\) ，亟待推动排头兵企业高质量发展、提升专业化优势；随着成德眉资锚定“工业大梁”，成都都市圈规模以上工业营业收入持续提升、2022年实现近2.5万亿元，近三年以来都市圈内部变异系数从1.1212降至1.0961，表明内部工业发展不协调的难题有所缓解。"
+        },
+        {
+          "block_id": "blk-491f1ececb75d3328006",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-1b5fad37f68b2d4ebd04",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-4f57862f252fb060d3aa",
+          "page_number": 50,
+          "text": "图2-13 2020—2021年成都与德眉资产业结构相似系数和专业化指数变化①"
+        },
+        {
+          "block_id": "blk-61d183fe4a941ed6a43e",
+          "page_number": 50,
+          "text": "资料来源：由成德眉资四市《2021—2022年统计年鉴》中分行业规模以上工业营业收入计算而得"
+        },
+        {
+          "block_id": "blk-64e55764a30c1df3a722",
+          "page_number": 50,
+          "text": "图2-14 2018—2022年成都市圈产业相关指标变异系数变化"
+        },
+        {
+          "block_id": "blk-d86d0bd9f56b78e1e1bb",
+          "page_number": 50,
+          "text": "资料来源：由2018—2022年成德眉资四市统计公报中产业相关数据计算而得"
+        },
+        {
+          "block_id": "blk-52fb56fd547d4a6fb9e6",
+          "page_number": 51,
+          "text": "便利共享品质生活圈成型起势，居民获得感幸福感持续提升。生态环境协同治理效果显著，国、省考核断面中水质优良断面比变异系数实现快速下降，2018—2022年成德眉资四市空气质量优良天数比例的变异系数下降幅度高达 \\(24.3\\%\\) ，成都都市圈生态环境共保共治进展明显。公共服务共享水平稳步提升，截至2022年，四市结对学校增至254对、同比增长 \\(11.4\\%\\) ，2018—2022年普通小学生师比变异系数整体保持稳定的下降趋势、降幅高达 \\(61.0\\%\\) ，2022年四市普通中学生师比变异系数同比降低 \\(17.2\\%\\) ，城际教育质量、师资配置差距加快缩小；开通异地就医联网结算定点医药机构达到22340家、是去年同期数量的1.1倍，都市圈每万人口执业（助理）医师数变异系数下降幅度达到\\(47.6\\%\\) ，医疗服务同城化供给不断深入、专业人员等医疗资源分布均衡程度不断提升。"
+        },
+        {
+          "block_id": "blk-19f7dc75cfc8145470e7",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-de6a66f58ecbed29b881",
+          "page_number": 51,
+          "text": "图2-15 2018—2022年成都都市圈生态治理和公共服务相关指标变异系数变化"
+        },
+        {
+          "block_id": "blk-120b9ed379e9350582b5",
+          "page_number": 51,
+          "text": "资料来源：由2018—2022年成德眉资四市统计公报中相关数据计算而得"
+        },
+        {
+          "block_id": "blk-259931c9b383625bb165",
+          "page_number": 51,
+          "text": "紧密型创新共同体加快打造，但创新发展仍呈现区域不平衡局面。四市之间的研发投入强度差距具有持续显著缩小趋势，根据四川省科学技术厅《2022年全省科技创新统计检测报告》相关数据统计，成德眉资地区科技创新综合水平指数差异系数两年累计下降6.13个百分点，2022年，成都都市圈研发投入强度变异系数为0.6215，五年以来下降\\(22.1\\%\\) ，整体上实现创新驱动发展水平稳步提升；都市圈万人有效发明专利拥有量变异系数、技术合同成交总额变异系数、国家高新技术企业数量变异系数均一直维持在1以上，其中，技术合同成交总额变异系数从2018年1.7152的高位水平缓慢减少到2022年的1.6916、下降幅度仅为 \\(1.4\\%\\) ，表明都市圈科技创新效率的区域差异程度仍然较大。"
+        },
+        {
+          "block_id": "blk-762d9cf481ff3ea84c4b",
+          "page_number": 52,
+          "text": "原始 PDF 第 52 页图片"
+        },
+        {
+          "block_id": "blk-64129532de5059256cf7",
+          "page_number": 52,
+          "text": "图2-16 2018—2022年成都都市圈创新发展相关指标变异系数变化"
+        },
+        {
+          "block_id": "blk-48381b1a8da039a118fc",
+          "page_number": 52,
+          "text": "资料来源：由2018—2022年成德眉资统计公报、《2018—2022年四川省有效国家高新技术企业名单》相关数据计算而得"
+        },
+        {
+          "block_id": "blk-f4c35d058dea53b36452",
+          "page_number": 52,
+          "text": "2022年，成都将成都都市圈建设摆在突出位置、高位推动，携手德眉资围绕都市圈发展布局优化、基础设施同城同网、现代高端产业集聚区共建等九大攻坚行动31个具体任务，共同推动194个重大项目取得明显进展，轨道交通圈逐渐成型、高能级产业生态圈加快构建、公共服务均衡共享优质生活圈逐步呈现、成德眉资创新共同体优势凸显，带动全省高质量发展的主引擎作用进一步夯实。"
+        },
+        {
+          "block_id": "blk-d3ab7b4e3ec0d529ae2c",
+          "page_number": 52,
+          "text": "成都以推动干线铁路网、城际铁路网、市域（郊）铁路网、城市轨道交通网“四网融合”的重大项目为引领，联合德眉资建立“管家式”项目前期工作协同机制，统筹联动、高效衔接推进轨道交通重大项目各项任务，轨道上的都市圈逐渐成型。一是多层次轨道交通体系建设有序推进。按照“统一规划、分段实施”原则，相继开工建设市域铁路成眉线S5、成德线S11，推动“两环三射”①都市圈轨道交通主骨架初具维形，以成都为中心枢纽构建多方式有机衔接的轨道交通网络，基本实现半小时至1小时通达，圈内轨道交通同城化走在前列。二是铁路公交化运营服务水平大力提升。主动与成都铁路局深化合作，通过联合购置（租赁）新型公交化动车组增加车次、加大早晚高峰时段及节假日列车开行密度、缩短发车间隔、采用“一站直达”“多站停靠”“跨线运行”等多种"
+        },
+        {
+          "block_id": "blk-51343f2c1fdfb2a3ce19",
+          "page_number": 53,
+          "text": "开行方案，实现动车公交化运营。2022年，成都铁路枢纽环线正式开通公交化运营，至此成都都市圈已形成7条铁路公交化线路，成都境内运营里程达到483公里。成都都市圈动车公交化开行数为134对、日均客流量为2.3万人次，日开行动车对数较去年提升\\(11.7\\%\\) ，成都与德眉资的平均发车间隔时间为26分钟，用时较去年缩减 \\(11.3\\%\\) 。三是国际铁路枢纽共建进程持续加快。成都国际铁路港智慧陆港项目加快建设，全国首列采用进境“铁路快通”新模式的中老班列顺利抵达成都国际铁路港，成都国际班列单日开行达30列，创下新高。成都大力推广“一港多站”合作模式，与德阳国际铁路物流港初步实现两港一体化运营，与眉山、资阳共同搭建“蓉欧+”通道营销揽货平台和一体化服务平台，共同推动眉山和资阳物流园区组货基地建设。"
+        },
+        {
+          "block_id": "blk-73e110b2c88ff76b2e1b",
+          "page_number": 53,
+          "text": "原始 PDF 第 53 页图片"
+        },
+        {
+          "block_id": "blk-411d4677c7200ebd91a0",
+          "page_number": 53,
+          "text": "图2-17 成都市圈动车公交化发车间隔时间变化①"
+        },
+        {
+          "block_id": "blk-46ee89ddd4134d3c9d6a",
+          "page_number": 53,
+          "text": "资料来源：“成德眉资同城化暨成都都市圈建设”微信公众号《都市圈这三年③同城同人便捷出行成都市圈跨市公交服务体系日趋完善》"
+        },
+        {
+          "block_id": "blk-30d91df8d5192dc1c0a9",
+          "page_number": 53,
+          "text": "成都着力推动与德眉资产业融合创新发展，产业分工协作水平提升，产业发展综合竞争优势逐步凸显。2022年，成都市市圈市场主体总量突破430万户、占全省比例高达\\(52.7\\%\\) ，四市开展跨市域产业协作企业增至1490家、较2021年增长 \\(9.7\\%\\) 。一是制造业集群共建取得新突破。成都市软件和信息服务集群、成德高端能源装备集群、成渝地区电子信息先进制造集群成功入选国家先进制造业集群，获批数量居西部首位。截至2022"
+        },
+        {
+          "block_id": "blk-fa179f479ba3b85b31df",
+          "page_number": 54,
+          "text": "年，成德高端能源装备产业集群聚集上下游企业2686家，成都市市圈重点产业“4图4表”产业链全景图初步形成。二是文旅融合发展取得良好成效。成功发布成德眉资四市精品旅游线路清单，推出成德眉资五大主题11条精品旅游线路，推出9条精品文化旅游线路。成功举办“金秋纳爽·2022成都平原经济区文旅邀您耍翻天”成都都市圈金秋消费季系列活动，共赴武汉、长沙等地开展“雪山下的公园城市·烟火里的幸福成都”“向往的生活在成都”等主题文旅营销推介。都市圈景区实现流量互导，截至2022年，成德国宝旅游专线输送游客4000余人次，田园文景成都景区直通车输送大熊猫繁育基地至三星堆游客23000余人次、宽窄巷子至三星堆8700余人次。三是“天府粮仓”稳粮保供能力日益提升。组织成都农产品商贸流通企业打通产品采购和销售渠道，联合德眉资建立跨区域应急生活物资运输中转站，合力保障市场供应。截至2022年，成都在都市圈投资合作共建“菜篮子”保供示范基地5个、面积约4400亩，建立直采供基地21个、面积5.5万亩。四是产业合作园区共建实现突破。金牛一什邡、武侯一东坡、成都高新区一资阳牙谷等产业园区跨区协作共建成效显著，其中金什合作产业园引进的中航智无人机等产业化项目在金牛、什邡已实现同步开工建设。五是产业供需对接平台服务效能持续提升。持续优化运营成都市工业互联网供需对接平台，截至2022年，平台共吸引德眉资企业数量达2100家、是2021年的1.5倍，发布1万余条供需对接信息，成功匹配5000余条供需信息。截至2022年，成功举办两届成都都市圈产业生态建设暨企业供需对接云共享大会，服务都市圈3700多家工业企业，发布15000余条供需对接信息。"
+        },
+        {
+          "block_id": "blk-898251266d1f5465bccb",
+          "page_number": 54,
+          "text": "原始 PDF 第 54 页图片"
+        },
+        {
+          "block_id": "blk-26f46a61dd974b0bf845",
+          "page_number": 54,
+          "text": "图2-18 成德眉资开展跨市域产业配套协作企业数"
+        },
+        {
+          "block_id": "blk-2c7f90aa0d64de9d922f",
+          "page_number": 55,
+          "text": "成都联动德眉资先后实施两批成德眉资同城生活便捷行动，力促四城服务同频、加速市民生活“同圈”，都市圈群众幸福感获得感、企业认同感满意度实现切实提升。一是教育同城化发展稳步推进。持续推动都市圈校校结对，4市结对学校增至254对，其中成资两市结对共建中小学达122对，数量占都市圈一半。成都优质网校资源覆盖德眉资45所学校、服务学生13000余名，成都优质教育资源覆盖面持续扩大。联合举办学科常态化教研活动等研修培训、讲座交流年均20场以上、参与人次超过12万。二是医疗共建合作不断深化。四川大学华西第二医院天府医院（四川省儿童医院）在眉山揭牌开诊。截至2022年底，在蓉三甲医疗机构牵头建设了18个跨区域医联体、组建了6个专科联盟，25家三甲医院99项检查检验结果实现互认，开通异地就医结算医药机构增至22340家，共计519家公立医疗卫生机构实现电子健康卡二维码“一码通”互认互用，1719家中医医疗机构上线“成德眉资中医寻诊地图”。三是社保服务对接深入推进。开通“国家医保APP”异地就医自助备案，实现四市异地就医服务“就近办”“门口办”的零距离服务。截至2022年四地间共办理企业职工基本养老保险关系转移共计1.8万人次。职工基本医疗保险关系实现跨统筹区转移接续，医疗异地联网结算覆盖面持续扩大，都市圈参保人员异地就医结算425.3万人次、支付金额18.2亿元，同比增长 \\(45.7\\%\\) 产\\(29.7\\%\\) 。四是生态环境共保共治进程加快。成都联合德眉资实现大气污染防治协同立法，共同成立“成德眉资空气质量预测预报中心”，建立空气质量预测预报系统，设立大气观察员制度。2022年，河长制E平台覆盖四市全部区（市）县，都市圈84个国省考断面水质优良率达 \\(100\\%\\) 、同比提升9.5个百分点，无V类和劣V类水质断面。四是政务服务更加高效便捷。建立成德眉资数据资源专区，186项数据跨地域、跨系统、跨层级共享。430项政务事项实现跨区通办，其中166项高频政务服务事项实现同城无差别受理。"
+        },
+        {
+          "block_id": "blk-6f921a9844d346bb2675",
+          "page_number": 56,
+          "text": "原始 PDF 第 56 页图片"
+        },
+        {
+          "block_id": "blk-23288a4aa19a00c144d9",
+          "page_number": 56,
+          "text": "图2-19 四川大学华西第二医院天府医院（四川省儿童医院）"
+        },
+        {
+          "block_id": "blk-f14afde07aef539705ea",
+          "page_number": 56,
+          "text": "成都充分发挥创新资源及平台优势，联动德眉资共同持续深化创新平台共建共享、创新资源互通共用、创新生态协同营造，积极构建高质量紧密型创新生态圈，区域创新驱动发展水平不断提升。一是区域协同创新顶层设计持续完善。在《成德眉资同城化科技协同创新合作协议》的引导下，成都与德眉资持续加强协同创新机制、创新资源、创新平台的共建共享，协同完成《天府大道北延线、南延线科创走廊和成资协同开放走廊国土空间专项规划》，牵头编制《天府大道科创走廊建设方案》，目前已形成《天府大道南延线科创走廊初步建设方案》。二是创新平台体系协同共建取得新进展。国家超级计算成都中心获批四川省区域型数字化转型促进中心，为德眉资用户提供算力支撑，覆盖人工智能、航空航天、新型材料等30余个领域，服务德阳东方电气集团等10余家传统企业。成资协同创新中心提质运营，截至2022年，累计服务科创企业200余户，33户口腔企业实现“成都研发、资阳生产”；成眉、成德协同创新中心挂牌运行。德阳“科创通”分平台实现稳定运行，“科创通”眉山、资阳分平台成功上线运营。截至2022年，成都都市圈内国家备案众创空间、国家级科技企业孵化器分别达57家、24家。三是科技成果转移转化成效显著。成德眉资4市鼓励和引导企业转化科技成果，截至2022年实施重大科技成果转化项目300余项①。完成成德绵国家科技成果转移转化示范建设任务，推进军民科技成果双向转移转化1714项，培育孵化军民融合科技型中小微企业1229"
+        },
+        {
+          "block_id": "blk-d9e79ae8766be0c1405f",
+          "page_number": 57,
+          "text": "家，培育科技成果转化示范企业619家。企业创新主体地位更加凸显，2022年，都市圈有效国家高技术企业增至12082家、同比增长 \\(44.5\\%\\) ，独角兽企业9家、较上年增加2家，万人有效发明专利拥有量达到28.2件、较上年增加5.7件①。四是科技创新资源互通共享加速推进。成都与德眉资联合发布《关于开展成德眉资同城化区域科技创新券互认互通试点的通知》，共同推动区域科技创新券互认互通。共同编制印发《成德眉资创新资源汇编》，促成签约科技合作项目18项，意向合作项目10余项，涉及合作金额超过2亿元。常态化举办“菁蓉汇校企双进”系列活动300余场，累计征集并发布电子信息、先进制造、医药健康、新能源、新材料等领域科技成果667项，促进企业与高校院所达成科技合作项目986项。"
+        },
+        {
+          "block_id": "blk-9717592c59356ef76fc8",
+          "page_number": 57,
+          "text": "原始 PDF 第 57 页图片"
+        },
+        {
+          "block_id": "blk-4abd9949edbbe10e1947",
+          "page_number": 57,
+          "text": "图2-20 德阳“科创通”分平台"
+        },
+        {
+          "block_id": "blk-d009180478a4bfa7129e",
+          "page_number": 58,
+          "text": "聚焦“三圈一体”，深入推进经济区与行政区适度分离改革，协同推进基础设施一张网、产业协作一盘棋、政策设计一体化，加快建设动能更充沛的现代化成都都市圈。"
+        },
+        {
+          "block_id": "blk-a4d7421245d92d934c79",
+          "page_number": 58,
+          "text": "构建高效轨道交通体系，加快推进成都铁路枢纽环线公交化运营改造、成都外环铁路、成都至德眉资市域（郊）铁路等建设，构建“两环三射”都市圈轨道交通骨架；提质优化成都铁路枢纽环线、成绵乐客专、成灌（彭）客专铁路开行方案，进一步加密城际高铁（动车）频次，进一步优化成都铁路枢纽环线、成绵乐客专、成渝客专、成灌（彭）客专铁路开行方案，发展“站站停”与“大站停”相结合的灵活运输组织模式。着力畅通高快速路网，加快推动天府大道北延线、东西城市轴线及延长线、梓州大道南延线等城市联通轴线项目和天眉乐、天邛、彭广青淮等城际高快速通道建设，打造都市圈高效连接的骨干通道；加快建设龙泉山、龙门山和沱江、岷江“两山两江”绿色交通廊道，实现通道建设步伐与资源要素拓展空间相契合；全力推进都市圈“断头路”打通项目，力争全面消除城际“断头路”。强化交通衔接转换能力，探索成都地铁以多种接驳方式向德眉资毗邻区域延伸，协同构建以成都站、成都东站、天府站、东部新区站、德阳北站、眉山东站、资阳西站为核心节点，多种交通方式有机衔接的都市圈出行体系。优化跨市域公交线网布局，推行都市圈“轨道+公交”多元化出行模式，协同调整枢纽站点周边公交线路及运营时间，实现轨道交通与城市公交无缝对接；推动高速公路出入口通道合理规划布局，畅通城际通道与市县路网衔接转换。"
+        },
+        {
+          "block_id": "blk-74b7b4d218194d8f8562",
+          "page_number": 58,
+          "text": "推动制造业跨区域协作配套，推动建立都市圈重点优势产业链“链长”机制，建设“链主企业+配套企业+产业投资基金+中介机构+领军人才”资源库并动态更新，联动德眉资共同梳理链属企业，建立产业链缺失环节补链清单、重点细分领域企业招陪计划、链主企业供应商招商计划，补齐产业链空白薄弱及头部企业核心供应链环节，提升区域链环相扣、集群高效的产业链系统能力；依托电子信息、先进材料、医药健康、绿色智能汽车等产业生态圈联盟，加快共建宜眉成遂锂电产业带、成绵眉新型显示产业带、成眉乐光伏产业带，协同壮大电子信息、装备制造等一批具有国际影响力的制造业集群。推动现代服务业协同融合发展，共享成都国际消费中心城市建设势能，建设消费促进和经贸交流平台，联合开展“川货全国行”“企业市（州）行”等特色促销活动，共同发"
+        },
+        {
+          "block_id": "blk-a762ca80a289cbfc0afc",
+          "page_number": 59,
+          "text": "布都市圈商业机会清单，拓展“买全球、卖全球”消费供给网络；充分挖掘大熊猫、三星堆等优质文旅资源，联动三苏祠、安岳石刻共建文旅联盟，联合推出研学游基地和精品旅游线路，共建巴蜀文化旅游走廊示范区。合力打造更高水平的“天府粮仓”，推动农业在周边区域成链集群，依托中国天府农业博览园、天府现代种业园等，协同优化区域粮油、蔬菜、生猪等主要农产品生产力布局，合力打造青广现代粮油产业园等连片粮油产业园区、粮经复合产业园区；持续提升都江堰灌区粮食综合生产能力，加强新津国家农村产业融合发展示范园建设，强化在农业种植及新技术研发推广、农产品精深加工、流通销售等环节的合作，培育壮大“天府菜油”“天府好米”等区域共享品牌，打造粮食产业链供应链稳定闭环。"
+        },
+        {
+          "block_id": "blk-02e2c9c05ecdea92ef45",
+          "page_number": 59,
+          "text": "加快打造教育发展共同体，深化与德眉资中小学教育同城合作，深入推进校校结对，促进教育资源和学校治理共建共享；共享中小学实践基地，联合制定实施研学实践计划，共同开发研学实践课程；推进职业教育融合发展，聚焦优势产业领域，协同优化成都都市圈职业院校和专业布局，探索共建区域型、行业型及复合型职业教育集团。加快打造医疗协作共同体，启动创建国家医学中心，组建心血管科、呼吸科等专科联盟，医联体全面开通疑难重症会诊、双向转诊绿色通道，建立毗邻地区急救医疗网络联动机制；协同推动符合条件的都市圈医疗机构接入“5G+医疗健康”远程应用体系建设；有序扩增检验检查结果互认医疗机构范围及互认事项，实现二级以上公立医院电子健康卡就诊“一码通”。加快打造社会保障服务共同体，依托成德眉资同城化网络招聘专区，联合举办成德眉资人才招聘活动；深化社保医保服务同城化，协同推进社会保障卡和医保电子凭证多场景应用，助力全面取消异地就医提前备案手续，更好实现异地就医“一单式”直接结算；持续推动住房公积金政策同城、业务统一、信息共享，深入开展灵活就业人员参加住房公积金制度试点。"
+        },
+        {
+          "block_id": "blk-d476c13ff4224817848c",
+          "page_number": 59,
+          "text": "推动创新平台开放共享，继续发挥“科创通”平台辐射作用，共同推动都市圈重大科研基础设施和大型科研仪器共享共用，共建技术交易公共服务平台，促进成德眉资4市科技服务、技术市场、创业导师、双创平台等资源信息共建共享。推动产学研深度融合动力提升，充分发挥成都高校和科研机构众多、创新人才集聚，以及产业体系较为完善、产业基础雄厚的优势，联合德眉资共同构建新型创新联合体，组建“科学家+工程"
+        },
+        {
+          "block_id": "blk-1cd324b533afe9b8694b",
+          "page_number": 60,
+          "text": "师”“科学家+企业家”团队，有效链接高校“成果导向”和企业“市场导向”；着力在西南交大、成都理工大学等院所开展职务科技成果权属混改试点，挖掘与四市主导产业相关的创新成果并推动落地转化。建立创新要素统一市场和良好生态环境，协同德眉资开展外籍AB类人才在都市圈创业就业试点，探索建立户口不迁关系不转、职称互认的科技人才柔性流动机制。探索科研经费跨区域使用试点，依托成德同城化科创基金投资建设科技类项目，以市场化方式启动组建成眉、成资同城化科创基金，围绕跨区域的联合技术开发、成果转移转化、共建联合研发平台等开展专项投资；健全知识产权行政执法协作机制，协同构建统一的知识产权“一站式”协同保护平台。"
+        },
+        {
+          "block_id": "blk-40d8a748266fbb96e33f",
+          "page_number": 60,
+          "text": "金什合作园区规划面积2000亩，其中起步区面积约500亩，重点以通航产业跨区域建圈强链为突破口，打造金牛乃至成都的航空航天、绿色建筑、食品饮料等产业配套基地。具体做法可概括为：一是构建“联席会议+工作专班+合资公司”投建管营机制，形成各司其职、协同高效的发展合力。两地形成了金牛一什邡融合发展联席会议制度，负责统筹产业融合发展决策部署，协调解决重大困难问题；组建以两地发改部门牵头、相关部门全面参与的“1+N”工作专班，负责拟定产业合作具体事项；由两地城投公司成立合资公司，作为园区建设运营主体，负责园区投资开发、企业招引落地、项目配套服务等。二是采取“一业一模式”，促进不同产业协同发展。聚焦通航产业，创新“总部+基地”合作模式，两地凭借什邡通用机场试飞条件，利用金牛在无人机领域的研发优势，协同构建无人机研发、测试、生产、应用的全链条产业体系。聚焦绿色建筑产业，创新“市场+产品”合作模式，什邡建材企业利用金牛链接成都广阔市场优势，通过畅通什邡绿色建筑、装配式建筑材料至成都的销售渠道，构建“什邡生产、金牛销售”的协同共赢格局。聚焦食品饮料产业，创新“平台+产业”合作模式，依托金牛国际商贸城等平台，推动什邡雪茄、饮料等特色食品饮料“走出去”，既支撑金牛市场采购平台发展，又全面提升什邡食品饮料发展质效。三是强化“企业共同引育+园区联合开发”双重利益链接，充分调动两地共同“做大蛋糕”的积极性。金什双方立足“优势互补、合作共赢”，形成“总公司在金牛、生产型子公司在什邡”的分地设置模式，其产生的经济指标和财税利益按照属地原则统计分成。同时，针对园区开发成本和运营收益，由金什两地的合资公司按照同股同权原则，以出资比例实现共担共享。"
+        },
+        {
+          "block_id": "blk-4d3494db1a37ef55e6aa",
+          "page_number": 61,
+          "text": "原始 PDF 第 61 页图片"
+        },
+        {
+          "block_id": "blk-2ceb794ed86fbfbf806f",
+          "page_number": 61,
+          "text": "图2-21 金什合作产业园实景图"
+        },
+        {
+          "block_id": "blk-5113b6224a518fafbfc0",
+          "page_number": 61,
+          "text": "蒲丹都市现代农业融合发展示范区位于成都市蒲江县和丹棱县交界地带，总面积269.2平方公里。2022年，蒲江、丹棱围绕协同打造全国最大晚熟柑橘基地，共建行业标准、共享人才专家库、共办节会活动，推动柑橘产业深度融合发展。具体做法可概括为：一是突出标准共建、执法联动，确保柑橘产品质量安全。蒲丹两地加强品质监管，共同制定《晚熟柑橘种植技术规程》，发布《蒲江柑橘社会化服务组织管理规范》《蒲江柑橘投入品使用管理规范》等实施标准，从栽植、水肥管理、病虫害防治、储存、销售等多个方面对晚熟柑橘全产业链各环节的实操性问题进行规范；两地还共同搭建农产品质量安全追溯平台，常态化开展农业投入品检查、商标冒用专项执法、农业面源污染巡查等联合行动，确保柑橘产品质量安全。二是加强流通渠道共建、创新资源共享，提升柑橘产品效益。依托蒲江西南特色水果冷链物流贸易港，以完善的水果冷链物流为基础，蒲丹两地共聚集初加工企业（个体）百余家、网络电商主体6000余家，协同提升商品化处理率和冷链运输能力，共同打造柑橘商贸物流中心，为蒲丹两地柑橘产品流向消费市场提供了便利。同时，筹建国内首家“产学研”深度融合专业晚熟柑橘研究机构——"
+        },
+        {
+          "block_id": "blk-efb6cd1a35471135b970",
+          "page_number": 62,
+          "text": "中国晚熟柑橘专家大院，具体承担两地晚熟柑橘新品种、新技术研发、实验、示范等功能，带动两地协会、种植大户开展技术交流。三是借力节会活动共办，扩大柑橘产品品牌影响力。蒲丹两地借力形式多样的平台，共同开展“蒲江丑柑节”“丹棱不知火桔橙节”等特色旅游节会，共同组织两地水果企业参加“‘柑’品不凡·‘橘’润心田”的大型农产品推介展销活动，孵化壮大“水口红”等品牌40余个。"
+        },
+        {
+          "block_id": "blk-a6a4c8ad0cbe0460cc7f",
+          "page_number": 62,
+          "text": "原始 PDF 第 62 页图片"
+        },
+        {
+          "block_id": "blk-bc12dde25530c5866ea0",
+          "page_number": 62,
+          "text": "图2-22 蒲江水果现代物流中心"
+        },
+        {
+          "block_id": "blk-04048d0082cbf5758d57",
+          "page_number": 62,
+          "text": "聚焦提升人力资源与产业的协同度、人力资源要素获取的便利度，成都创新打造集“市县一体、事企融合、一网求职、安全高效”的“天府招聘云”人力资源协同网络平台。具体做法可概况为：一是创新打造网络对接平台，推动人力资源服务业加速发展。成都牵头搭建“天府招聘云”人力资源协同网络平台，邀请成德眉资经营性人力资源服务机构免费入驻，帮助其拓宽信息发布渠道。通过整合人力资源供求信息，积极发挥市场配置资源作用，提升人力资源协同效率，形成紧密的产业链、供应链、服务链和信息链。二是充分发挥政企优势，营造安全便捷求职环境。作为由政府主导、各类人力资源服务机构多方参与的网络招聘权威平台，“天府招聘云”对入驻平台人力资源服务机构所发布的招聘信息进行严格收集审核，通过天府市民云、市人社局官网等网络媒体向公众展示，在保证用人单位生产经营招聘需求的同时，为求职者提供安全便捷的求职服务。三是整合线上线下优质资源，促进人力资源高效配置。平台开设“天天招聘会”“‘府’助你成才”“招四海英杰”“聘请你留步”“云风采展示”五大专区，汇聚政策咨询、招聘求职、见习基地、就业培训等人力资源服务产品信息，求职者可以按照职位"
+        },
+        {
+          "block_id": "blk-1f318e5e82d53dc0cc1c",
+          "page_number": 63,
+          "text": "类别、学历要求、薪酬待遇等条件在线筛选岗位，线上投递简历。截至2022年底，“天府招聘云”平台共集聚成德眉资各类人力资源服务机构152家，服务企事业单位8568家次、发布需求职位3.9万余个、发布需求岗位25万个，为成都都市圈建设发展提供坚实的人才支撑①。"
+        },
+        {
+          "block_id": "blk-935b4c52ed084b2d5185",
+          "page_number": 63,
+          "text": "原始 PDF 第 63 页图片"
+        },
+        {
+          "block_id": "blk-3f359f53f8f31c0795c9",
+          "page_number": 63,
+          "text": "图2-23 成德眉资共建的“天府招聘云”人力资源协同网络平台"
+        },
+        {
+          "block_id": "blk-99c4c8cc1a0b3992183e",
+          "page_number": 63,
+          "text": "成都联动德眉资协同完善成都市圈知识产权保护相关制度，共同建立全域重点企业知识产权保护直通车制度，形成了都市圈“同保护”工作机制和良好氛围。具体做法可概况为：一是建立重点企业知识产权保护名录库。采取企业自愿申报与知识产权管理部门重点推荐相结合方式，由属地知识产权管理部门组织辖区内企业申报，重点推荐符合条件的知识产权成长型企业，经综合考察确定企业名单。二是确立快速授权、快速维权机制。依托中国（四川）知识产权保护中心、中国（成都）知识产权保护中心等各地设立的知识产权维权援助机构对重点企业进行快速授权与维权指导。三是确立案件快速处理机制。对于具有管辖权的涉及重点企业的知识产权侵权行政案件，按照即时受理即"
+        },
+        {
+          "block_id": "blk-9a1e8e67f3fc73221a0e",
+          "page_number": 64,
+          "text": "时查办原则，在最短时间内办结侵权案件，从严处理重点企业被恶意侵权、多次侵权的违法行为。四是强化咨询与维权指导。组织知识产权维权援助机构和专家为重点企业的重大、疑难或涉外知识产权案件提供智力支撑，确保知识产权纠纷事前有预案，事中有处置，事后有跟踪。成德眉资全域重点企业知识产权保护直通车制度的建立运行，强化了成都都市圈内重点企业知识产权保护措施，积极为企业提供知识产权相关便捷服务，切实为企业解决了知识产权保护方面的“痛点”和“堵点”问题。"
+        },
+        {
+          "block_id": "blk-0915fb7fa114af67445b",
+          "page_number": 64,
+          "text": "原始 PDF 第 64 页图片"
+        },
+        {
+          "block_id": "blk-c9c8c5affd160ac4790f",
+          "page_number": 64,
+          "text": "图2-24 中国（四川）知识产权保护中心"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-bd3bd6c6f966:bundle-904c8cd05d50",
+      "excluded_fragments": [],
+      "ref_id": "ref-bd3bd6c6f966",
+      "source_blocks": [
+        {
+          "block_id": "blk-3ef0246bb4391a58e5a3",
+          "page_number": 82,
+          "text": "2016年8月，党中央、国务院决定，在浙江省、河南省、湖北省、重庆市、辽宁省、四川省、陕西省新设立7个自贸试验区，标志着自由贸易试验区建设进入连点成线、深入内陆的发展布局。成都作为四川“首位城市”，在自贸试验区建设中勇当排头兵，成立了以市委主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，专门负责推动自贸试验区建设各项工作。"
+        },
+        {
+          "block_id": "blk-a1624615a5b3c718e266",
+          "page_number": 82,
+          "text": "原始 PDF 第 82 页图片"
+        },
+        {
+          "block_id": "blk-17f8b0048048a2fd56b4",
+          "page_number": 82,
+          "text": "图3-1我国分三批次设立自贸区涉及的省市"
+        },
+        {
+          "block_id": "blk-86a762d2a06f6a01e9a9",
+          "page_number": 82,
+          "text": "当前，我国推进的自由贸易试验区是指在境内关外设立的，以优惠税收和海关特殊监督政策为主要手段，以贸易自由化、便利化为主要目的的多功能经济特区。自2013年上海自由贸易试验区成功试运行以来，我国先后批准设立广东、福建和天津三个自由贸易试验区，形成了一批可复制、可推广的经验。新设立的7个自贸试验区大多集中于内陆地区，尤其是四川、重庆、陕西同时获批，是国家进一步加大西部地区对外开放、激发西部增长潜力的战略之举，有利于形成国家东西互济、区域协调发展的新格局。"
+        },
+        {
+          "block_id": "blk-1786f588420d72a35edb",
+          "page_number": 83,
+          "text": "在国家改革开放战略版图上，成都既是丝绸之路经济带与长江经济带的战略交汇点，又是南方丝绸之路的起点、孟中印缅经济走廊的重要节点，具有连接两大经济带、承东启西的独特区位优势。四川建设自由贸易试验区，成都必将是主体核心，这将有利于成都加快构建资源要素自由流动、互联互通的开放型经济体系，有利于加快形成与国际高标准投资和贸易规则相适应的体制机制和营商环境，促进投资、贸易、金融等领域更深层次的开放，形成对全球性优质生产要素的强大吸附力和配置力，吸引更多生产、服务性总部企业布局和创新创业人才汇聚，加快提升成都在全球价值链、创新链的地位。"
+        },
+        {
+          "block_id": "blk-d4f8c71f099e2f528933",
+          "page_number": 83,
+          "text": "目前，成都正积极参与编制《中国（四川）自由贸易试验区总体方案》，力争经过三至五年改革探索，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，在打造内陆开放型经济高地、深入推进西部大开发和长江经济带发展中发挥示范作用。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-9d62a36b10d7",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-721332d3fee5",
+    "ref-bd3bd6c6f966"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

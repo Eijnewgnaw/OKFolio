@@ -1,0 +1,986 @@
+{
+  "contract": {
+    "canonical_question": "四川白酒与文旅产业融合面临路径依赖锁定的三大原因是什么？",
+    "claims": [
+      {
+        "claim": "川酒对GDP的贡献量受到过度重视，导致白酒产量扩张和产能过剩。",
+        "claim_id": "claim-980a72bbaf979582",
+        "evidence_block_ids": [
+          "blk-3f56e5fb52435292a977"
+        ],
+        "evidence_excerpt": "1）川酒对GDP的贡献量受到过度重视。川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在 \\(40\\%\\) 以上，是我国最大的白酒产销来源。因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩",
+        "evidence_id": "ref-e275fdd55551:bundle-6e878edbe1a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          231
+        ],
+        "ref_id": "ref-e275fdd55551",
+        "scope": {
+          "region": "四川省"
+        },
+        "slot": "cause",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "川酒品牌定位较为模糊，致使“中国白酒金三角”品牌定位陷入混乱且处于动态变化中。",
+        "claim_id": "claim-6e41206897e409e4",
+        "evidence_block_ids": [
+          "blk-65c9ef62b7a880e1fa3f"
+        ],
+        "evidence_excerpt": "（2）川酒品牌定位较为模糊。《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+        "evidence_id": "ref-e275fdd55551:bundle-6e878edbe1a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          231
+        ],
+        "ref_id": "ref-e275fdd55551",
+        "scope": {
+          "region": "四川省",
+          "time": "《战略》出台后"
+        },
+        "slot": "cause",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "公务用酒消费量减少引致白酒需求不稳定下降，致使白酒产业缺乏主动变革积极性。",
+        "claim_id": "claim-6063c77906d015dd",
+        "evidence_block_ids": [
+          "blk-b3b72083989dd983b699"
+        ],
+        "evidence_excerpt": "（3）公务用酒消费量巨大。一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+        "evidence_id": "ref-e275fdd55551:bundle-6e878edbe1a6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          231
+        ],
+        "ref_id": "ref-e275fdd55551",
+        "scope": {
+          "region": "四川省"
+        },
+        "slot": "cause",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-980a72bbaf979582",
+          "claim-6e41206897e409e4",
+          "claim-6063c77906d015dd"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e275fdd55551:bundle-6e878edbe1a6",
+        "reason": "该证据Bundle完整包含了分析框架所需的核心原因（cause）事实，是回答中心问题的必要证据。"
+      }
+    ],
+    "group_id": "topic-d69697fa3550",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了导致四川白酒与文旅产业融合陷入路径依赖锁定的三个核心原因：GDP贡献过度重视导致产能过剩、品牌定位模糊以及公务用酒减少导致需求不稳定。",
+        "ref_id": "ref-e275fdd55551",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-980a72bbaf979582",
+        "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6063c77906d015dd",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-6e41206897e409e4",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-980a72bbaf979582",
+          "claim-6e41206897e409e4",
+          "claim-6063c77906d015dd"
+        ],
+        "draft_excerpt": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊（如“中国白酒金三角”动态变化）以及公务用酒消费减少引致的需求不稳定。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-229cf257bd6f0144",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-980a72bbaf979582",
+          "claim-6e41206897e409e4",
+          "claim-6063c77906d015dd"
+        ],
+        "draft_excerpt": "四川白酒与文旅产业融合面临路径依赖锁定的困境，主要源于对GDP贡献量的过度重视、品牌定位的模糊性以及公务用酒消费减少引致的需求不稳定。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-40a4bb4fbb86ff66",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6063c77906d015dd"
+        ],
+        "draft_excerpt": "这些结构性因素导致川酒产业缺乏主动变革和融入文旅融合大势的积极性，从而陷入发展瓶颈。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ef52e2c19958e6a4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-980a72bbaf979582"
+        ],
+        "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-51738cce1ace8838",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-980a72bbaf979582"
+        ],
+        "draft_excerpt": "川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在40%以上，是我国最大的白酒产销来源。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-27a8213544bb9f23",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-980a72bbaf979582"
+        ],
+        "draft_excerpt": "因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b0af03a8567994ce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6e41206897e409e4"
+        ],
+        "draft_excerpt": "其次，川酒品牌定位较为模糊。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e01d8aba3a1a5e44",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6e41206897e409e4"
+        ],
+        "draft_excerpt": "《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ae928f1bc780561c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6e41206897e409e4"
+        ],
+        "draft_excerpt": "后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c06bad760a8a17cf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6063c77906d015dd"
+        ],
+        "draft_excerpt": "最后，公务用酒消费量巨大。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1343ab4dfea3a4d1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6063c77906d015dd"
+        ],
+        "draft_excerpt": "一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7e68e031d0270e28",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6063c77906d015dd"
+        ],
+        "draft_excerpt": "随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8226846de6e0c8f4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "40%",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-980a72bbaf979582",
+          "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-980a72bbaf979582",
+            "claim-6e41206897e409e4",
+            "claim-6063c77906d015dd"
+          ],
+          "draft_excerpt": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊（如“中国白酒金三角”动态变化）以及公务用酒消费减少引致的需求不稳定。",
+          "finding": "supported",
+          "sentence_id": "sentence-229cf257bd6f0144",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-980a72bbaf979582",
+            "claim-6e41206897e409e4",
+            "claim-6063c77906d015dd"
+          ],
+          "draft_excerpt": "四川白酒与文旅产业融合面临路径依赖锁定的困境，主要源于对GDP贡献量的过度重视、品牌定位的模糊性以及公务用酒消费减少引致的需求不稳定。",
+          "finding": "supported",
+          "sentence_id": "sentence-40a4bb4fbb86ff66",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6063c77906d015dd"
+          ],
+          "draft_excerpt": "这些结构性因素导致川酒产业缺乏主动变革和融入文旅融合大势的积极性，从而陷入发展瓶颈。",
+          "finding": "supported",
+          "sentence_id": "sentence-ef52e2c19958e6a4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-980a72bbaf979582"
+          ],
+          "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+          "finding": "supported",
+          "sentence_id": "sentence-51738cce1ace8838",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-980a72bbaf979582"
+          ],
+          "draft_excerpt": "川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在40%以上，是我国最大的白酒产销来源。",
+          "finding": "supported",
+          "sentence_id": "sentence-27a8213544bb9f23",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-980a72bbaf979582"
+          ],
+          "draft_excerpt": "因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。",
+          "finding": "supported",
+          "sentence_id": "sentence-b0af03a8567994ce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6e41206897e409e4"
+          ],
+          "draft_excerpt": "其次，川酒品牌定位较为模糊。",
+          "finding": "supported",
+          "sentence_id": "sentence-e01d8aba3a1a5e44",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6e41206897e409e4"
+          ],
+          "draft_excerpt": "《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。",
+          "finding": "supported",
+          "sentence_id": "sentence-ae928f1bc780561c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6e41206897e409e4"
+          ],
+          "draft_excerpt": "后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+          "finding": "supported",
+          "sentence_id": "sentence-c06bad760a8a17cf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6063c77906d015dd"
+          ],
+          "draft_excerpt": "最后，公务用酒消费量巨大。",
+          "finding": "supported",
+          "sentence_id": "sentence-1343ab4dfea3a4d1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6063c77906d015dd"
+          ],
+          "draft_excerpt": "一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。",
+          "finding": "supported",
+          "sentence_id": "sentence-7e68e031d0270e28",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6063c77906d015dd"
+          ],
+          "draft_excerpt": "随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+          "finding": "supported",
+          "sentence_id": "sentence-8226846de6e0c8f4",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "682111557feb0b71a88579ec344cd553e4b36f8d62ef2fb3eefba72439954e0d",
+  "coverage_history": [
+    {
+      "draft_sha256": "0bb1f433ad6ea84a321359ec624f260165f430c3bb3a571679070dd90415a149",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-980a72bbaf979582",
+            "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6063c77906d015dd",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6e41206897e409e4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582",
+              "claim-6e41206897e409e4",
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊以及公务用酒消费减少引致的需求不稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4bae9207e2987117",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582",
+              "claim-6e41206897e409e4",
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "四川白酒与文旅产业融合面临路径依赖锁定的困境，主要源于对GDP贡献量的过度重视、品牌定位的模糊性以及公务用酒消费减少引致的需求不稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40a4bb4fbb86ff66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "这些结构性因素导致川酒产业缺乏主动变革和融入文旅融合大势的积极性，从而陷入发展瓶颈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef52e2c19958e6a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51738cce1ace8838",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在40%以上，是我国最大的白酒产销来源。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27a8213544bb9f23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b0af03a8567994ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "其次，川酒品牌定位较为模糊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e01d8aba3a1a5e44",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "《四川省地理标志产品保护战略》出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c7dbd1178e97697",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c06bad760a8a17cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "最后，公务用酒消费量巨大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1343ab4dfea3a4d1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e68e031d0270e28",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8226846de6e0c8f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "40%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "682111557feb0b71a88579ec344cd553e4b36f8d62ef2fb3eefba72439954e0d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-980a72bbaf979582",
+            "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6063c77906d015dd",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6e41206897e409e4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582",
+              "claim-6e41206897e409e4",
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊（如“中国白酒金三角”动态变化）以及公务用酒消费减少引致的需求不稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-229cf257bd6f0144",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582",
+              "claim-6e41206897e409e4",
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "四川白酒与文旅产业融合面临路径依赖锁定的困境，主要源于对GDP贡献量的过度重视、品牌定位的模糊性以及公务用酒消费减少引致的需求不稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40a4bb4fbb86ff66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "这些结构性因素导致川酒产业缺乏主动变革和融入文旅融合大势的积极性，从而陷入发展瓶颈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef52e2c19958e6a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51738cce1ace8838",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在40%以上，是我国最大的白酒产销来源。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27a8213544bb9f23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b0af03a8567994ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "其次，川酒品牌定位较为模糊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e01d8aba3a1a5e44",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae928f1bc780561c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c06bad760a8a17cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "最后，公务用酒消费量巨大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1343ab4dfea3a4d1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e68e031d0270e28",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8226846de6e0c8f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "40%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "682111557feb0b71a88579ec344cd553e4b36f8d62ef2fb3eefba72439954e0d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-980a72bbaf979582",
+            "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6063c77906d015dd",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6e41206897e409e4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582",
+              "claim-6e41206897e409e4",
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊（如“中国白酒金三角”动态变化）以及公务用酒消费减少引致的需求不稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-229cf257bd6f0144",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582",
+              "claim-6e41206897e409e4",
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "四川白酒与文旅产业融合面临路径依赖锁定的困境，主要源于对GDP贡献量的过度重视、品牌定位的模糊性以及公务用酒消费减少引致的需求不稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40a4bb4fbb86ff66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "这些结构性因素导致川酒产业缺乏主动变革和融入文旅融合大势的积极性，从而陷入发展瓶颈。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef52e2c19958e6a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "首先，川酒对GDP的贡献量受到过度重视。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51738cce1ace8838",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在40%以上，是我国最大的白酒产销来源。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27a8213544bb9f23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980a72bbaf979582"
+            ],
+            "draft_excerpt": "因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b0af03a8567994ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "其次，川酒品牌定位较为模糊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e01d8aba3a1a5e44",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae928f1bc780561c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e41206897e409e4"
+            ],
+            "draft_excerpt": "后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c06bad760a8a17cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "最后，公务用酒消费量巨大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1343ab4dfea3a4d1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e68e031d0270e28",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6063c77906d015dd"
+            ],
+            "draft_excerpt": "随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8226846de6e0c8f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "40%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n四川白酒与文旅产业融合面临路径依赖锁定的困境，主要源于对GDP贡献量的过度重视、品牌定位的模糊性以及公务用酒消费减少引致的需求不稳定。这些结构性因素导致川酒产业缺乏主动变革和融入文旅融合大势的积极性，从而陷入发展瓶颈。\n\n## 成因与证据\n\n首先，川酒对GDP的贡献量受到过度重视。川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在40%以上，是我国最大的白酒产销来源。因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。\n\n其次，川酒品牌定位较为模糊。《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。\n\n最后，公务用酒消费量巨大。一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。",
+    "description": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊（如“中国白酒金三角”动态变化）以及公务用酒消费减少引致的需求不稳定。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-d69697fa3550",
+      "description": "分析四川白酒与文旅产业融合面临路径依赖锁定的三大原因：对GDP贡献量过度重视导致产能过剩、品牌定位模糊（如“中国白酒金三角”动态变化）以及公务用酒消费减少引致的需求不稳定。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "1）川酒对GDP的贡献量受到过度重视。川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在 \\(40\\%\\) 以上，是我国最大的白酒产销来源。因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩",
+        "（2）川酒品牌定位较为模糊。《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。",
+        "（3）公务用酒消费量巨大。一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。"
+      ],
+      "evidence_block_ids": [
+        "blk-3f56e5fb52435292a977",
+        "blk-65c9ef62b7a880e1fa3f",
+        "blk-b3b72083989dd983b699"
+      ],
+      "page_end": 231,
+      "page_start": 231,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "objects": [
+          "白酒产业",
+          "文化旅游产业"
+        ],
+        "region": "四川省"
+      },
+      "section_path": [
+        "建言献策篇",
+        "川酒与文旅产业融合测度及发展对策研究",
+        "一、文献综述",
+        "2.耦合协调与关联性测度",
+        "（三）实证结果及原因分析"
+      ],
+      "semantic_signature": {
+        "key": "path-dependence-problems"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "四川白酒与文旅产业融合的路径依赖锁定困境及成因",
+      "type": "分析框架"
+    },
+    "title": "四川白酒与文旅产业融合的路径依赖锁定困境及成因"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e275fdd55551:bundle-6e878edbe1a6",
+      "excluded_fragments": [],
+      "ref_id": "ref-e275fdd55551",
+      "source_blocks": [
+        {
+          "block_id": "blk-3f56e5fb52435292a977",
+          "page_number": 231,
+          "text": "（1）川酒对GDP的贡献量受到过度重视。川酒品牌集中度高，区域聚集性强，产量和销售额全国占比均在 \\(40\\%\\) 以上，是我国最大的白酒产销来源。因此，在衡量地区经济发展水平时，川酒对GDP的贡献量受到更多关注，容易加速白酒产量扩张，引起产能过剩。"
+        },
+        {
+          "block_id": "blk-65c9ef62b7a880e1fa3f",
+          "page_number": 231,
+          "text": "（2）川酒品牌定位较为模糊。《四川省地理标志产品保护战略》（简称《战略》）出台后，“中国白酒金三角（川酒）”地理标志被正式纳入《战略》工作目标。后期制度设计的不完善和品牌规划的模糊，致使品牌定位陷入混乱，“中国白酒金三角”更是常处于动态变化中。"
+        },
+        {
+          "block_id": "blk-b3b72083989dd983b699",
+          "page_number": 231,
+          "text": "（3）公务用酒消费量巨大。一直以来，公务用酒都是白酒消费的主要去向，这会致使白酒产业缺乏主动变革，积极融入文旅融合大势的积极性。随着规范公务用餐工作的平稳推进，白酒公务用酒减少，引致白酒需求的不稳定下降。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d69697fa3550",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-e275fdd55551"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

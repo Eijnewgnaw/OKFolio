@@ -1,0 +1,784 @@
+{
+  "contract": {
+    "canonical_question": "2020年以来，大邑县在推进成德眉资同城化、川西北生态示范区协同及成渝合作方面取得了哪些具体成效？",
+    "claims": [
+      {
+        "claim": "成都平原经济区环线高速大邑段已全面完工。",
+        "claim_id": "claim-00fe86f01faa893f",
+        "evidence_block_ids": [
+          "blk-bc0927e346ab7320240c"
+        ],
+        "evidence_excerpt": "成都平原经济区环线高速大邑段已全面完工",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "三坝水库正在开展现场勘测和可研修改等前期工作。",
+        "claim_id": "claim-9130b6c712269509",
+        "evidence_block_ids": [
+          "blk-bc0927e346ab7320240c"
+        ],
+        "evidence_excerpt": "三坝水库正在开展现场勘测和可研修改等前期工作",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "大熊猫国家公园生态红线保护范围、自然保护地范围初步划定。",
+        "claim_id": "claim-d512c59833be7db0",
+        "evidence_block_ids": [
+          "blk-bc0927e346ab7320240c"
+        ],
+        "evidence_excerpt": "大熊猫国家公园生态红线保护范围、自然保护地范围初步划定",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "大邑县山地轨道交通项目正加快推进。",
+        "claim_id": "claim-255ac11ff3984369",
+        "evidence_block_ids": [
+          "blk-bc0927e346ab7320240c"
+        ],
+        "evidence_excerpt": "目前大邑县山地轨道交通项目正加快推进",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "大邑县协助完成松潘县镇坪花椒主题公园核心区建设。",
+        "claim_id": "claim-a301d8b5b6576c97",
+        "evidence_block_ids": [
+          "blk-73b94703dc1742ac513a"
+        ],
+        "evidence_excerpt": "进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {
+          "object": [
+            "松潘县",
+            "镇坪花椒主题公园"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "大邑县与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设。",
+        "claim_id": "claim-6f0e6b4e1181087d",
+        "evidence_block_ids": [
+          "blk-73b94703dc1742ac513a"
+        ],
+        "evidence_excerpt": "与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "大邑县新培育发展农民专合组织9家。",
+        "claim_id": "claim-6d64328c738aa356",
+        "evidence_block_ids": [
+          "blk-73b94703dc1742ac513a"
+        ],
+        "evidence_excerpt": "新培育发展农民专合组织9家",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "大邑县重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+        "claim_id": "claim-0a7fe1f6579bd5f7",
+        "evidence_block_ids": [
+          "blk-73b94703dc1742ac513a"
+        ],
+        "evidence_excerpt": "重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          119
+        ],
+        "ref_id": "ref-c5f5ef60eaf7",
+        "scope": {
+          "object": [
+            "松潘县淞赞商贸有限公司"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-00fe86f01faa893f",
+          "claim-9130b6c712269509",
+          "claim-d512c59833be7db0",
+          "claim-255ac11ff3984369",
+          "claim-a301d8b5b6576c97",
+          "claim-6f0e6b4e1181087d",
+          "claim-6d64328c738aa356",
+          "claim-0a7fe1f6579bd5f7"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+        "reason": "该证据包含回答中心问题所需的全部核心事实，涵盖三大合作领域的具体项目、签约及进展，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-6c98ab6c198e",
+    "members": [
+      {
+        "contribution": "该证据详细列举了大邑县在区域合作方面的三大具体成效：成德眉资同城化项目建设、与川西北生态示范区协同发展、以及推动成渝合作的具体签约与项目进展。",
+        "ref_id": "ref-c5f5ef60eaf7",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-00fe86f01faa893f",
+        "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9130b6c712269509",
+        "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d512c59833be7db0",
+        "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a301d8b5b6576c97",
+        "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0a7fe1f6579bd5f7",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-255ac11ff3984369",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-6d64328c738aa356",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-6f0e6b4e1181087d",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-00fe86f01faa893f",
+          "claim-9130b6c712269509",
+          "claim-d512c59833be7db0",
+          "claim-a301d8b5b6576c97"
+        ],
+        "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4dc335b5cfd15420",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00fe86f01faa893f",
+          "claim-9130b6c712269509",
+          "claim-d512c59833be7db0",
+          "claim-a301d8b5b6576c97"
+        ],
+        "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2019577d18000d3f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-00fe86f01faa893f",
+          "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9130b6c712269509",
+          "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d512c59833be7db0",
+          "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a301d8b5b6576c97",
+          "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-00fe86f01faa893f",
+            "claim-9130b6c712269509",
+            "claim-d512c59833be7db0",
+            "claim-a301d8b5b6576c97"
+          ],
+          "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-4dc335b5cfd15420",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-00fe86f01faa893f",
+            "claim-9130b6c712269509",
+            "claim-d512c59833be7db0",
+            "claim-a301d8b5b6576c97"
+          ],
+          "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-2019577d18000d3f",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "06e4c2a0e2e5f606911817ddb418c3a9b2beddb2958dd7ea58071f4cdb51930d",
+  "coverage_history": [
+    {
+      "draft_sha256": "ba83d1c40cd3a6c9eaaf2f0e01492bd427cd2a9ea7116bbdf4d72ba8cb684c27",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-00fe86f01faa893f",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "draft_excerpt中明确包含'成都平原经济区环线高速大邑段已全面完工'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9130b6c712269509",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "draft_excerpt中明确包含'三坝水库正在开展现场勘测和可研修改等前期工作'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d512c59833be7db0",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "draft_excerpt中明确包含'大熊猫国家公园生态红线保护范围、自然保护地范围初步划定'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-255ac11ff3984369",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "draft_excerpt中明确包含'目前大邑县山地轨道交通项目正加快推进'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a301d8b5b6576c97",
+            "draft_excerpt": "在区域协作与产业培育方面，大邑县进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+            "finding": "draft_excerpt中明确包含'协助完成镇坪花椒主题公园核心区建设'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6f0e6b4e1181087d",
+            "draft_excerpt": "同时，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设，新培育发展农民专合组织9家。",
+            "finding": "draft_excerpt中明确包含'与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d64328c738aa356",
+            "draft_excerpt": "同时，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设，新培育发展农民专合组织9家。",
+            "finding": "draft_excerpt中明确包含'新培育发展农民专合组织9家'，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0a7fe1f6579bd5f7",
+            "draft_excerpt": "在区域协作与产业培育方面，大邑县进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+            "finding": "draft_excerpt中明确包含'重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作'，与claim一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "大邑县依托交通与生态优势，通过推进成德眉资同城化、川西北协同及成渝合作，并深化农业科技与产业培育，实现区域协同发展。",
+            "finding": "该句为总结性陈述，'实现区域协同发展'属于推断性判断，且'依托交通与生态优势'未在合同中明确作为因果前提，合同仅列举事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1bdf5c399cfec77a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。",
+            "finding": "该句为宏观背景与成效总结，'取得一定成效'为定性判断，非合同中的具体事实claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-288e717f0654a2fa",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "大邑县通过完善交通基础设施、划定生态红线及推进山地轨道交通项目，夯实了区域协同发展的硬件基础与生态屏障。",
+            "finding": "该句包含推断性判断'夯实了...硬件基础与生态屏障'，合同仅陈述项目进展事实，未提供此因果关系的证据。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66d2ec7a82b6154d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-00fe86f01faa893f",
+              "claim-9130b6c712269509",
+              "claim-d512c59833be7db0",
+              "claim-255ac11ff3984369"
+            ],
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "该句完整包含了四个具体事实claim，且表述与合同证据一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca3f65b2195e56a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a301d8b5b6576c97",
+              "claim-0a7fe1f6579bd5f7"
+            ],
+            "draft_excerpt": "在区域协作与产业培育方面，大邑县进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+            "finding": "该句包含了两个具体事实claim，表述与合同证据一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-faec4d1cadbebe53",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6f0e6b4e1181087d",
+              "claim-6d64328c738aa356"
+            ],
+            "draft_excerpt": "同时，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设，新培育发展农民专合组织9家。",
+            "finding": "该句包含了两个具体事实claim，表述与合同证据一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a928b05e6f3b83c8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "大邑县依托交通与生态优势，通过推进成德眉资同城化、川西北协同及成渝合作，并深化农业科技与产业培育，实现区域协同发展。",
+            "finding": "该句包含合同未支持的推断性结论'实现区域协同发展'及'依托...优势'。"
+          },
+          {
+            "draft_excerpt": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。",
+            "finding": "该句包含合同未支持的宏观定性判断'取得一定成效'。"
+          },
+          {
+            "draft_excerpt": "大邑县通过完善交通基础设施、划定生态红线及推进山地轨道交通项目，夯实了区域协同发展的硬件基础与生态屏障。",
+            "finding": "该句包含合同未支持的因果推断'夯实了...硬件基础与生态屏障'。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a4636d2b02f9e8712ecb01c374302a32114875302f366fc89d66592bed58474e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-00fe86f01faa893f",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9130b6c712269509",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d512c59833be7db0",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-255ac11ff3984369",
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a301d8b5b6576c97",
+            "draft_excerpt": "在区域协作与产业培育方面，大邑县进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0a7fe1f6579bd5f7",
+            "draft_excerpt": "在区域协作与产业培育方面，大邑县进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6f0e6b4e1181087d",
+            "draft_excerpt": "同时，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设，新培育发展农民专合组织9家。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d64328c738aa356",
+            "draft_excerpt": "同时，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设，新培育发展农民专合组织9家。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1dd254e82a2e5aca",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-288e717f0654a2fa",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-00fe86f01faa893f",
+              "claim-9130b6c712269509",
+              "claim-d512c59833be7db0",
+              "claim-255ac11ff3984369"
+            ],
+            "draft_excerpt": "在交通与生态建设方面，成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，目前大邑县山地轨道交通项目正加快推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18b67869879e0231",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a301d8b5b6576c97",
+              "claim-0a7fe1f6579bd5f7"
+            ],
+            "draft_excerpt": "在区域协作与产业培育方面，大邑县进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83832c4cc2f8cf6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6f0e6b4e1181087d",
+              "claim-6d64328c738aa356"
+            ],
+            "draft_excerpt": "同时，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设，新培育发展农民专合组织9家。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db354ff6ef46a825",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "06e4c2a0e2e5f606911817ddb418c3a9b2beddb2958dd7ea58071f4cdb51930d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-00fe86f01faa893f",
+            "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9130b6c712269509",
+            "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d512c59833be7db0",
+            "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a301d8b5b6576c97",
+            "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0a7fe1f6579bd5f7",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-255ac11ff3984369",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6d64328c738aa356",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6f0e6b4e1181087d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-00fe86f01faa893f",
+              "claim-9130b6c712269509",
+              "claim-d512c59833be7db0",
+              "claim-a301d8b5b6576c97"
+            ],
+            "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4dc335b5cfd15420",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00fe86f01faa893f",
+              "claim-9130b6c712269509",
+              "claim-d512c59833be7db0",
+              "claim-a301d8b5b6576c97"
+            ],
+            "draft_excerpt": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2019577d18000d3f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+    "description": "大邑县在交通基础设施、生态保护及区域协作方面取得进展，包括高速完工、水库勘测、生态红线划定及与松潘县的合作。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6c98ab6c198e",
+      "description": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建 设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。",
+      "document_family_id": "28e2a49e271094505210",
+      "document_version_id": "24023fd3da9de6ac6517",
+      "evidence": [
+        "成都平原经济区环线高速大邑段已全面完工",
+        "三坝水库正在开展现场勘测和可研修改等前期工作",
+        "大熊猫国家公园生态红线保护范围、自然保护地范围初步划定",
+        "目前大邑县山地轨道交通项目正加快推进",
+        "进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设",
+        "与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设",
+        "新培育发展农民专合组织9家",
+        "重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作"
+      ],
+      "evidence_block_ids": [
+        "blk-bc0927e346ab7320240c",
+        "blk-73b94703dc1742ac513a"
+      ],
+      "page_end": 119,
+      "page_start": 117,
+      "ref_family_hint": "",
+      "ref_version_id": "24023fd3da9de6ac6517",
+      "scope": {},
+      "section_path": [
+        "区（市）县篇"
+      ],
+      "semantic_signature": {},
+      "source": "c4fa936d-bb21-4b09-931b-345720909d3a.md",
+      "title": "大邑县",
+      "type": "分析框架"
+    },
+    "title": "大邑县"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c5f5ef60eaf7:bundle-18e5be673552",
+      "excluded_fragments": [],
+      "ref_id": "ref-c5f5ef60eaf7",
+      "source_blocks": [
+        {
+          "block_id": "blk-14710fca91a6bb09100f",
+          "page_number": 117,
+          "text": "取得一定成效。"
+        },
+        {
+          "block_id": "blk-c30434e75cd53242b63d",
+          "page_number": 118,
+          "text": "2020年以来，大邑县依托自身发展优势，聚焦推进成德眉资同城化发展重大项目建"
+        },
+        {
+          "block_id": "blk-3cecbf9efaa72ee3a357",
+          "page_number": 119,
+          "text": "设、强化与川西北生态示范区协同发展、推动成渝合作，在区域合作上取得一定成效。"
+        },
+        {
+          "block_id": "blk-bc0927e346ab7320240c",
+          "page_number": 119,
+          "text": "一是推进成德眉资同城化发展重大项目建设。成都平原经济区环线高速大邑段已全面完工，三坝水库正在开展现场勘测和可研修改等前期工作，大熊猫国家公园生态红线保护范围、自然保护地范围初步划定，龙门山奇观骨干旅游线正着手谋划实施，目前大邑县山地轨道交通项目正加快推进。"
+        },
+        {
+          "block_id": "blk-73b94703dc1742ac513a",
+          "page_number": 119,
+          "text": "二是强化与川西北生态示范区协同发展。进一步加强与松潘县友好合作，协助完成镇坪花椒主题公园核心区建设；实施科技支撑计划，与四川农业大学、成都市农林科学院等合作完成农业科技专家大院（工作站）建设。实施组织化建设，新培育发展农民专合组织9家，重点实施松潘县淞赞商贸有限公司等3个农业产业化企业组织的培育提升工作。"
+        },
+        {
+          "block_id": "blk-c09b24c0a0473372e059",
+          "page_number": 119,
+          "text": "三是推动成渝合作。大邑县沙渠街道办事处和沙渠街道祥龙社区分别与巴南区石滩镇人民政府石滩镇双寨村村民委员会签订了成渝融合发展框架下的战略合作协议；与重庆市武隆区、江北区签订了合作意向书，目前正着手细化具体合作事项和项目。"
+        },
+        {
+          "block_id": "blk-ec1b6650e1290fe94534",
+          "page_number": 119,
+          "text": "接下来，大邑县应加快推动与武隆区建立两地友好合作关系，细化与江北区合作事项、与武隆区景区间合作协议事项；继续推进与松潘县、名山区的区域合作，推进泸州老窖·大自然青梅全产业链综合开发项目建设；充分利用大邑县、眉山、资阳、德阳的优质文旅资源都市旅游“热地”，推动安仁·中国文博产业功能区、西岭雪山运动康养产业功能区积极探索与三地建立生态文化旅游联动发展机制。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6c98ab6c198e",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-c5f5ef60eaf7"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,72 @@
+{
+  "configuration": {
+    "allow_partial": false,
+    "client": {
+      "routing": "schema_stage",
+      "stages": {
+        "compile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "contract": {
+          "enable_thinking": true,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "coverage": {
+          "enable_thinking": true,
+          "max_tokens": 16384,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "recompile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        }
+      }
+    },
+    "coverage_batch_size": 12,
+    "known_source_anomalies": [
+      "见色号"
+    ],
+    "max_recompile_attempts": 2,
+    "prompt_sha256": {
+      "compile": "22444bca30d4e66a3f9a0334ba4fa9163e212cf8bc8fc63ae76e968dafd8eabb",
+      "contract": "9893eb67810130fc4d73b6e378b1b02a556fadc5b1f801f47d7e5e95f2846f76",
+      "coverage": "84d9da031ac5bed808c9f42e44e1d76d78a0a5238d370289fd7032c639fd6248",
+      "recompile": "112224824684d5d9ee9f4b5233e4a188718a5c22ff58cc8e089704fd3e4b8292"
+    },
+    "seed": {
+      "checkpoint_sha256": {
+        "evidence-0dc054af8da0": "7663465f35f0fc316b6779f06b0e220512239d96b794195723e00adfbec12a12",
+        "evidence-f4b917d5cc03": "901378ba4dce1cb73d74ae367e4144bd79b53ec971d31f9a03a212c45cdeeae8",
+        "proposition-0479c96775ac": "e349199452bfc0b70c4d7bdc7ced70edd61e33da411da99f220360b5ffc39edf",
+        "proposition-119678b32d8f": "fe8d9be4dcd25ecd2f092b9faa01b8aea087f4554ccaba8aa09d1eb83ed9840b",
+        "proposition-1e74b5b9b331": "71b7467c067dfcedcd26daa5709f8a85394c31cedb8c87b49b81a500aea32bc7",
+        "proposition-4c19f8848dea": "43b12389d9abb201e6884387bd6411dd927cba12919bfefe22026cb863612c90",
+        "proposition-577b3ef646bd": "ee67a24c47e7e2a257148e707f17b168ea6b812d89c51ac95442406a1e5d248d",
+        "topic-66d93b99f07b": "3fb3c10f54423103fff8364879d5a994c6b92740ede2c091ac91ac5aa34e1299"
+      },
+      "coverage_prompt_relaxed": true,
+      "run_name": "public10-claim-review-formal-qwen36-v3-20260810",
+      "skipped_checkpoints": {
+        "proposition-074dc85e74c6": "seed checkpoint must contain Contract, Draft and Coverage"
+      },
+      "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7"
+    },
+    "selected_group_ids": []
+  },
+  "schema": "okfolio.claim-review-run.v1",
+  "source_run_name": "public10-local-qwen36-semantic-v2-20260809",
+  "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7",
+  "status": "running"
+}

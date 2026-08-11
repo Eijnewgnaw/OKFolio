@@ -1,0 +1,588 @@
+{
+  "contract": {
+    "canonical_question": "2020年成都在信息基础设施建设、区域骨干通信能力及数字经济方面取得了哪些具体进展，以巩固其国际性区域通信枢纽地位？",
+    "claims": [
+      {
+        "claim": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》和《成都市5G基站建设三年行动计划（2020—2022年）》。",
+        "claim_id": "claim-bede3222457b2dc4",
+        "evidence_block_ids": [
+          "blk-ce24029488ac2c563c43"
+        ],
+        "evidence_excerpt": "出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》",
+        "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          79
+        ],
+        "ref_id": "ref-1eb82605c79e",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+        "claim_id": "claim-b55873f4d31b5a5e",
+        "evidence_block_ids": [
+          "blk-ce24029488ac2c563c43",
+          "blk-3ef628c79385c817cf23"
+        ],
+        "evidence_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+        "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          79,
+          80
+        ],
+        "ref_id": "ref-1eb82605c79e",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+        "claim_id": "claim-ee70250c896754ad",
+        "evidence_block_ids": [
+          "blk-3ef628c79385c817cf23"
+        ],
+        "evidence_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+        "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          80
+        ],
+        "ref_id": "ref-1eb82605c79e",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+        "claim_id": "claim-dfd5b4252a60f9ac",
+        "evidence_block_ids": [
+          "blk-2f6feb1dad2765c566b0"
+        ],
+        "evidence_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户①，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+        "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          80
+        ],
+        "ref_id": "ref-1eb82605c79e",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+        "claim_id": "claim-c51f20eb796c540a",
+        "evidence_block_ids": [
+          "blk-b9b26406fa416bcb20ea"
+        ],
+        "evidence_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+        "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          81
+        ],
+        "ref_id": "ref-1eb82605c79e",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-bede3222457b2dc4",
+          "claim-b55873f4d31b5a5e",
+          "claim-ee70250c896754ad",
+          "claim-dfd5b4252a60f9ac",
+          "claim-c51f20eb796c540a"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+        "reason": "该Bundle包含回答中心问题所需的所有核心事实，涵盖基础设施政策、超算中心数据、通信带宽指标及数字经济产业成果，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-8a5031082472",
+    "members": [
+      {
+        "contribution": "该证据详细列举了2020年成都通过出台行动方案、建成超算中心、优化5G网络及拓展国际数字合作，从基础设施、通信能力和数字经济三个维度巩固国际通信枢纽地位的具体事实。",
+        "ref_id": "ref-1eb82605c79e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-bede3222457b2dc4",
+        "draft_excerpt": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。",
+        "finding": "draft_excerpt matches evidence for claim-bede3222457b2dc4",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b55873f4d31b5a5e",
+        "draft_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+        "finding": "draft_excerpt matches evidence for claim-b55873f4d31b5a5e",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ee70250c896754ad",
+        "draft_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+        "finding": "draft_excerpt matches evidence for claim-ee70250c896754ad",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dfd5b4252a60f9ac",
+        "draft_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+        "finding": "draft_excerpt matches evidence for claim-dfd5b4252a60f9ac",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c51f20eb796c540a",
+        "draft_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+        "finding": "draft_excerpt matches evidence for claim-c51f20eb796c540a",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-bede3222457b2dc4",
+          "claim-b55873f4d31b5a5e",
+          "claim-ee70250c896754ad"
+        ],
+        "draft_excerpt": "2020年成都通过出台新型基础设施及5G建设行动计划、建成西部首个存算一体数据中心及大规模部署5G基站，巩固了其国际性区域通信枢纽地位。",
+        "finding": "Sentence summarizes covered claims",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-db94e675f53aa03a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c51f20eb796c540a"
+        ],
+        "draft_excerpt": "2020年，成都以信息基础设施建设为支撑，持续提高区域骨干通信能力，大力发展基于信息化技术的数字经济，国际性区域通信枢纽地位得到进一步巩固和提升。",
+        "finding": "Sentence summarizes covered claims",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5334400212833e9d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bede3222457b2dc4"
+        ],
+        "draft_excerpt": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。",
+        "finding": "Sentence matches evidence for claim-bede3222457b2dc4",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-826d652513c59a4f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b55873f4d31b5a5e"
+        ],
+        "draft_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+        "finding": "Sentence matches evidence for claim-b55873f4d31b5a5e",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-baeed16c0ed85aa8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ee70250c896754ad"
+        ],
+        "draft_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+        "finding": "Sentence matches evidence for claim-ee70250c896754ad",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-03cfe3ca2fd43c13",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dfd5b4252a60f9ac"
+        ],
+        "draft_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+        "finding": "Sentence matches evidence for claim-dfd5b4252a60f9ac",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0dcc299052ee8f1f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c51f20eb796c540a"
+        ],
+        "draft_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+        "finding": "Sentence matches evidence for claim-c51f20eb796c540a",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-931cfd2e0c04635b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-bede3222457b2dc4",
+          "draft_excerpt": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。",
+          "finding": "draft_excerpt matches evidence for claim-bede3222457b2dc4",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b55873f4d31b5a5e",
+          "draft_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+          "finding": "draft_excerpt matches evidence for claim-b55873f4d31b5a5e",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ee70250c896754ad",
+          "draft_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+          "finding": "draft_excerpt matches evidence for claim-ee70250c896754ad",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dfd5b4252a60f9ac",
+          "draft_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+          "finding": "draft_excerpt matches evidence for claim-dfd5b4252a60f9ac",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c51f20eb796c540a",
+          "draft_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+          "finding": "draft_excerpt matches evidence for claim-c51f20eb796c540a",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-bede3222457b2dc4",
+            "claim-b55873f4d31b5a5e",
+            "claim-ee70250c896754ad"
+          ],
+          "draft_excerpt": "2020年成都通过出台新型基础设施及5G建设行动计划、建成西部首个存算一体数据中心及大规模部署5G基站，巩固了其国际性区域通信枢纽地位。",
+          "finding": "Sentence summarizes covered claims",
+          "sentence_id": "sentence-db94e675f53aa03a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c51f20eb796c540a"
+          ],
+          "draft_excerpt": "2020年，成都以信息基础设施建设为支撑，持续提高区域骨干通信能力，大力发展基于信息化技术的数字经济，国际性区域通信枢纽地位得到进一步巩固和提升。",
+          "finding": "Sentence summarizes covered claims",
+          "sentence_id": "sentence-5334400212833e9d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bede3222457b2dc4"
+          ],
+          "draft_excerpt": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。",
+          "finding": "Sentence matches evidence for claim-bede3222457b2dc4",
+          "sentence_id": "sentence-826d652513c59a4f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b55873f4d31b5a5e"
+          ],
+          "draft_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+          "finding": "Sentence matches evidence for claim-b55873f4d31b5a5e",
+          "sentence_id": "sentence-baeed16c0ed85aa8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ee70250c896754ad"
+          ],
+          "draft_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+          "finding": "Sentence matches evidence for claim-ee70250c896754ad",
+          "sentence_id": "sentence-03cfe3ca2fd43c13",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dfd5b4252a60f9ac"
+          ],
+          "draft_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+          "finding": "Sentence matches evidence for claim-dfd5b4252a60f9ac",
+          "sentence_id": "sentence-0dcc299052ee8f1f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c51f20eb796c540a"
+          ],
+          "draft_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+          "finding": "Sentence matches evidence for claim-c51f20eb796c540a",
+          "sentence_id": "sentence-931cfd2e0c04635b",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "d35553117dd327bec3e05b57e609147d6d42b1833a2d6d488969f3d2bf16a52d",
+  "coverage_history": [
+    {
+      "draft_sha256": "d35553117dd327bec3e05b57e609147d6d42b1833a2d6d488969f3d2bf16a52d",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-bede3222457b2dc4",
+            "draft_excerpt": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。",
+            "finding": "draft_excerpt matches evidence for claim-bede3222457b2dc4",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b55873f4d31b5a5e",
+            "draft_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+            "finding": "draft_excerpt matches evidence for claim-b55873f4d31b5a5e",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ee70250c896754ad",
+            "draft_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+            "finding": "draft_excerpt matches evidence for claim-ee70250c896754ad",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfd5b4252a60f9ac",
+            "draft_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+            "finding": "draft_excerpt matches evidence for claim-dfd5b4252a60f9ac",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c51f20eb796c540a",
+            "draft_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+            "finding": "draft_excerpt matches evidence for claim-c51f20eb796c540a",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-bede3222457b2dc4",
+              "claim-b55873f4d31b5a5e",
+              "claim-ee70250c896754ad"
+            ],
+            "draft_excerpt": "2020年成都通过出台新型基础设施及5G建设行动计划、建成西部首个存算一体数据中心及大规模部署5G基站，巩固了其国际性区域通信枢纽地位。",
+            "finding": "Sentence summarizes covered claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db94e675f53aa03a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c51f20eb796c540a"
+            ],
+            "draft_excerpt": "2020年，成都以信息基础设施建设为支撑，持续提高区域骨干通信能力，大力发展基于信息化技术的数字经济，国际性区域通信枢纽地位得到进一步巩固和提升。",
+            "finding": "Sentence summarizes covered claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5334400212833e9d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bede3222457b2dc4"
+            ],
+            "draft_excerpt": "成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。",
+            "finding": "Sentence matches evidence for claim-bede3222457b2dc4",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-826d652513c59a4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b55873f4d31b5a5e"
+            ],
+            "draft_excerpt": "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+            "finding": "Sentence matches evidence for claim-b55873f4d31b5a5e",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-baeed16c0ed85aa8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ee70250c896754ad"
+            ],
+            "draft_excerpt": "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+            "finding": "Sentence matches evidence for claim-ee70250c896754ad",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-03cfe3ca2fd43c13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfd5b4252a60f9ac"
+            ],
+            "draft_excerpt": "截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+            "finding": "Sentence matches evidence for claim-dfd5b4252a60f9ac",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0dcc299052ee8f1f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c51f20eb796c540a"
+            ],
+            "draft_excerpt": "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+            "finding": "Sentence matches evidence for claim-c51f20eb796c540a",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-931cfd2e0c04635b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2020年，成都以信息基础设施建设为支撑，持续提高区域骨干通信能力，大力发展基于信息化技术的数字经济，国际性区域通信枢纽地位得到进一步巩固和提升。\n\n## 政策与基础设施支撑\n\n成都出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，为通信枢纽建设提供政策指引。\n\n- 西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。\n- 截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。\n\n## 网络能力与产业成效\n\n截至2020年底，成都互联网宽带接入用户达771.9万户，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。",
+    "description": "2020年成都通过出台新型基础设施及5G建设行动计划、建成西部首个存算一体数据中心及大规模部署5G基站，巩固了其国际性区域通信枢纽地位。",
+    "ref": {
+      "asset_hints": [
+        "image-055",
+        "image-056"
+      ],
+      "concept_id": "topic-8a5031082472",
+      "description": "2020年，成都以信息基础设施建设为支撑，持续提高区域骨干通信能力，大力发展基于信息化技术的数字经济，国际性区域通信枢纽地位得到进一步巩固和提升。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》",
+        "西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿次/秒，超算速度进入全球前10。",
+        "截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。",
+        "截至2020年底，成都互联网宽带接入用户达771.9万户①，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。",
+        "2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。"
+      ],
+      "evidence_block_ids": [
+        "blk-ce24029488ac2c563c43",
+        "blk-3ef628c79385c817cf23",
+        "blk-2f6feb1dad2765c566b0",
+        "blk-b9b26406fa416bcb20ea"
+      ],
+      "page_end": 81,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "国际性区域通信枢纽加快建设",
+      "type": "国际比较"
+    },
+    "title": "国际性区域通信枢纽加快建设"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1eb82605c79e:bundle-709417ae59b2",
+      "excluded_fragments": [],
+      "ref_id": "ref-1eb82605c79e",
+      "source_blocks": [
+        {
+          "block_id": "blk-5cef51de070cb65a4a36",
+          "page_number": 79,
+          "text": "2020年，成都以信息基础设施建设为支撑，持续提高区域骨干通信能力，大力发展基于信息化技术的数字经济，国际性区域通信枢纽地位得到进一步巩固和提升。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ce24029488ac2c563c43",
+          "page_number": 79,
+          "text": "信息基础设施进一步完善。出台《成都市新型基础设施建设行动方案（2020—2022年）》，制定《成都市5G基站建设三年行动计划（2020—2022年）》，实施基础网络优化工程和5G基站建设三年攻坚行动，加快构建以5G、大数据、人工智能、工业互联网、卫星互联网等为核心的基础信息网。“一带一路”信息港建设持续推进，西部首个存算一体数据中心——成都超算中心建成投运，最高运算速度达到10亿亿"
+        },
+        {
+          "block_id": "blk-3ef628c79385c817cf23",
+          "page_number": 80,
+          "text": "次/秒，超算速度进入全球前10。截至2020年底，成都累计建成5G基站2.01万个，基本实现绕城高速内重点区域、重点商圈、重点景区连续覆盖。"
+        },
+        {
+          "block_id": "blk-494ef3b2749cab054868",
+          "page_number": 80,
+          "text": "专栏2-7 成都超算中心"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-551c360a2f5433d9f03d",
+          "page_number": 80,
+          "text": "原始 PDF 第 80 页图片"
+        },
+        {
+          "block_id": "blk-2f6feb1dad2765c566b0",
+          "page_number": 80,
+          "text": "区域骨干通信能力不断提升。2020年，成都积极争取区块链、网络安全、工业互联网国家顶级节点等重大布局纳入“十四五”相关规划，进一步强化国际通信枢纽功能和承载能力。持续推进三大运营商、互联网企业和大数据企业协调配合，整合优势资源促进5G网络共享和异网漫游，初步形成资源集约、运行高效的精品网络。持续优化扩容城域骨干网络，加快推进成德眉资数据中心直连，为信息网络互连打下坚实基础。截至2020年底，成都互联网宽带接入用户达771.9万户①，互联网直连点带宽达到660G，城域网出口带宽达到32.2T，位居全国第5位。"
+        },
+        {
+          "block_id": "blk-4cbb20764ca135667904",
+          "page_number": 80,
+          "text": "基于信息化技术的数字经济蓬勃发展。2020年，成都以5G创新名城、世界软件名城为抓手，以网络空间世界文化名城建设为突破口，大力发展软件服务业、电子信息制造业、大数据、人工智能、5G、数字文创等数字经济，初步构建“数字内容+"
+        },
+        {
+          "block_id": "blk-b9b26406fa416bcb20ea",
+          "page_number": 81,
+          "text": "5G网络+运营平台+终端呈现+软件服务”的产业链和细分生态圈，形成具有专业显示度的细分行业功能区。中国电信云锦天府项目、科成云计算基地、西南云计算智慧产业基地等项目加快建设，数字丝绸之路、“丝路电商”等建设合作有序展开，2020中国一东盟数字经济合作论坛成功举办，获批国家“芯火”双创基地。2020年，成都电子信息产业突破万亿级，基于信息化技术的数字经济对建设国际性通讯枢纽的支撑作用更加坚实。"
+        },
+        {
+          "block_id": "blk-5b82dd464440a5e12aa3",
+          "page_number": 81,
+          "text": "专栏2-8 2020中国一东盟数字经济合作论坛"
+        },
+        {
+          "block_id": "blk-2c1d9f56ad8e5e2605ea",
+          "page_number": 81,
+          "text": "原始 PDF 第 81 页图片"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-8a5031082472",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-1eb82605c79e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

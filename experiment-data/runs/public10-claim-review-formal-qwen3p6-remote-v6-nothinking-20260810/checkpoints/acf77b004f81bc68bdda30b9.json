@@ -1,0 +1,727 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在加大外商投资企业知识产权保护力度方面采取了哪些具体改革措施和管理机制？",
+    "claims": [
+      {
+        "claim": "在成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+        "claim_id": "claim-31f32812ebeb7e48",
+        "evidence_block_ids": [
+          "blk-6eda9610abcc7bcf64d8"
+        ],
+        "evidence_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-2054f78feea0",
+        "scope": {
+          "region": [
+            "成都高新区",
+            "成都天府新区",
+            "郫都区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+        "claim_id": "claim-563fd08690b48598",
+        "evidence_block_ids": [
+          "blk-ba5b469a509626840e06"
+        ],
+        "evidence_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-2054f78feea0",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+        "claim_id": "claim-6c70fc420f1b6844",
+        "evidence_block_ids": [
+          "blk-ba5b469a509626840e06"
+        ],
+        "evidence_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-2054f78feea0",
+        "scope": {
+          "actor": [
+            "来蓉投资和进行技术合作的国外公司"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+        "claim_id": "claim-b410591e1441a8da",
+        "evidence_block_ids": [
+          "blk-c070f405f9bff6beca7f"
+        ],
+        "evidence_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-2054f78feea0",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+        "claim_id": "claim-043e8f1e83bfacb7",
+        "evidence_block_ids": [
+          "blk-23feb8127d57b85a2486"
+        ],
+        "evidence_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-2054f78feea0",
+        "scope": {
+          "actor": "外商投资企业"
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持外商投资企业参加我市知识产权行业协会。",
+        "claim_id": "claim-5b456960a5278099",
+        "evidence_block_ids": [
+          "blk-23feb8127d57b85a2486"
+        ],
+        "evidence_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-2054f78feea0",
+        "scope": {
+          "actor": "外商投资企业"
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-31f32812ebeb7e48",
+          "claim-563fd08690b48598",
+          "claim-6c70fc420f1b6844",
+          "claim-b410591e1441a8da",
+          "claim-043e8f1e83bfacb7",
+          "claim-5b456960a5278099"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+        "reason": "该Bundle包含了回答“加大外商投资企业知识产权保护力度”所需的所有核心措施，包括体制改革试点、维权中心建设、司法快审机制及企业支持政策，是构成完整回答的必要事实集合。"
+      }
+    ],
+    "group_id": "topic-6ac00abf5a1f",
+    "members": [
+      {
+        "contribution": "该证据详细列出了成都高新区、天府新区和郫都区试点“三合一”体制改革、快速维权中心建设、法律宣讲援助、审判庭快审机制及贯标支持等具体措施，直接回答了如何加大保护力度的问题。",
+        "ref_id": "ref-2054f78feea0",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-31f32812ebeb7e48",
+        "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-563fd08690b48598",
+        "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6c70fc420f1b6844",
+        "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b410591e1441a8da",
+        "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-043e8f1e83bfacb7",
+        "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5b456960a5278099",
+        "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-31f32812ebeb7e48"
+        ],
+        "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-744a9eb2fe87c687",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-31f32812ebeb7e48"
+        ],
+        "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-df7a9e88dd354b3a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-563fd08690b48598"
+        ],
+        "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-596419d63b6991b1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6c70fc420f1b6844"
+        ],
+        "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-53bffdbdf21ed94f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b410591e1441a8da"
+        ],
+        "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6c22a978334e18b0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-043e8f1e83bfacb7"
+        ],
+        "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-843efeb656af9560",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5b456960a5278099"
+        ],
+        "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a8e14a5ddbca1a9f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-31f32812ebeb7e48",
+          "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-563fd08690b48598",
+          "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6c70fc420f1b6844",
+          "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b410591e1441a8da",
+          "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-043e8f1e83bfacb7",
+          "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5b456960a5278099",
+          "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-31f32812ebeb7e48"
+          ],
+          "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+          "finding": "supported",
+          "sentence_id": "sentence-744a9eb2fe87c687",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-31f32812ebeb7e48"
+          ],
+          "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+          "finding": "supported",
+          "sentence_id": "sentence-df7a9e88dd354b3a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-563fd08690b48598"
+          ],
+          "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+          "finding": "supported",
+          "sentence_id": "sentence-596419d63b6991b1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6c70fc420f1b6844"
+          ],
+          "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+          "finding": "supported",
+          "sentence_id": "sentence-53bffdbdf21ed94f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b410591e1441a8da"
+          ],
+          "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+          "finding": "supported",
+          "sentence_id": "sentence-6c22a978334e18b0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-043e8f1e83bfacb7"
+          ],
+          "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+          "finding": "supported",
+          "sentence_id": "sentence-843efeb656af9560",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5b456960a5278099"
+          ],
+          "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+          "finding": "supported",
+          "sentence_id": "sentence-a8e14a5ddbca1a9f",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "4c954ea7b0bb93cd6ecfa9c7b6631918e0dff3f055abfb3511e18da945a8dde1",
+  "coverage_history": [
+    {
+      "draft_sha256": "975ae604d9badbc61ddac0b370c5324ee48a41484e08e51a611552bdaf3bfb82",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-31f32812ebeb7e48",
+            "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-563fd08690b48598",
+            "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b410591e1441a8da",
+            "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c70fc420f1b6844",
+            "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-043e8f1e83bfacb7",
+            "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b456960a5278099",
+            "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过试点知识产权综合管理体制改革、建设快速维权中心、完善司法审判机制及提供法律援助等措施，强化对外商投资企业的知识产权保护与服务。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d429e4792685d709",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-31f32812ebeb7e48"
+            ],
+            "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df7a9e88dd354b3a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-563fd08690b48598"
+            ],
+            "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-596419d63b6991b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b410591e1441a8da"
+            ],
+            "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bec1235d133d9766",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c70fc420f1b6844"
+            ],
+            "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6beec71aa46b8af3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-043e8f1e83bfacb7"
+            ],
+            "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-843efeb656af9560",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b456960a5278099"
+            ],
+            "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a8e14a5ddbca1a9f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过试点知识产权综合管理体制改革、建设快速维权中心、完善司法审判机制及提供法律援助等措施，强化对外商投资企业的知识产权保护与服务。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "4c954ea7b0bb93cd6ecfa9c7b6631918e0dff3f055abfb3511e18da945a8dde1",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-31f32812ebeb7e48",
+            "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-563fd08690b48598",
+            "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c70fc420f1b6844",
+            "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b410591e1441a8da",
+            "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-043e8f1e83bfacb7",
+            "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5b456960a5278099",
+            "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-31f32812ebeb7e48"
+            ],
+            "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-744a9eb2fe87c687",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-31f32812ebeb7e48"
+            ],
+            "draft_excerpt": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df7a9e88dd354b3a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-563fd08690b48598"
+            ],
+            "draft_excerpt": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-596419d63b6991b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c70fc420f1b6844"
+            ],
+            "draft_excerpt": "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-53bffdbdf21ed94f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b410591e1441a8da"
+            ],
+            "draft_excerpt": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c22a978334e18b0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-043e8f1e83bfacb7"
+            ],
+            "draft_excerpt": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-843efeb656af9560",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b456960a5278099"
+            ],
+            "draft_excerpt": "支持外商投资企业参加我市知识产权行业协会。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a8e14a5ddbca1a9f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。\n\n- 加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。\n- 对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。\n- 充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。\n- 鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。\n- 支持外商投资企业参加我市知识产权行业协会。",
+    "description": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6ac00abf5a1f",
+      "description": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。",
+        "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。",
+        "对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。",
+        "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。",
+        "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。",
+        "支持外商投资企业参加我市知识产权行业协会。"
+      ],
+      "evidence_block_ids": [
+        "blk-6eda9610abcc7bcf64d8",
+        "blk-ba5b469a509626840e06",
+        "blk-c070f405f9bff6beca7f",
+        "blk-23feb8127d57b85a2486"
+      ],
+      "page_end": 155,
+      "page_start": 154,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（四）加大外商投资企业知识产权保护力度。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "加大外商投资企业知识产权保护力度。",
+      "type": "分析框架"
+    },
+    "title": "加大外商投资企业知识产权保护力度。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-2054f78feea0:bundle-a7fcb72e7bf0",
+      "excluded_fragments": [],
+      "ref_id": "ref-2054f78feea0",
+      "source_blocks": [
+        {
+          "block_id": "blk-6eda9610abcc7bcf64d8",
+          "page_number": 154,
+          "text": "在外商投资企业比较集中的成都高新区、成都天府新区和郫都区先行试点专利、商标、版权“三合一”知识产权综合管理体制改革。（责任部门：市知识产"
+        },
+        {
+          "block_id": "blk-fc587803420f4f1a49af",
+          "page_number": 155,
+          "text": "权局、市工商局、市文广新局）"
+        },
+        {
+          "block_id": "blk-ba5b469a509626840e06",
+          "page_number": 155,
+          "text": "加快中国成都（家居鞋业）知识产权快速维权中心落地运行，争创成都产业知识产权保护中心。对来蓉投资和进行技术合作的国外公司、机构和组织，定期义务宣讲法律法规，提供不同层次的法律援助。（责任部门：市知识产权局、市工商局、市文广新局、市司法局）"
+        },
+        {
+          "block_id": "blk-c070f405f9bff6beca7f",
+          "page_number": 155,
+          "text": "充分发挥成都知识产权审判庭作用，完善知识产权快审机制，构建知识产权跨区域集中管辖机制、优化知识产权综合审判模式。（责任部门：市知识产权局、市司法局）"
+        },
+        {
+          "block_id": "blk-23feb8127d57b85a2486",
+          "page_number": 155,
+          "text": "鼓励外商投资企业按照有关规定开展知识产权试点示范、优势培育和《企业知识产权管理规范》国家标准贯标工作。支持外商投资企业参加我市知识产权行业协会。（责任部门：市知识产权局、市工商局、市文广新局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6ac00abf5a1f",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-2054f78feea0"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

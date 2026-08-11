@@ -1,0 +1,2284 @@
+{
+  "contract": {
+    "canonical_question": "成都与重点城市在对外开放枢纽通道（航空、班列）方面的优势表现及对比情况如何？",
+    "claims": [
+      {
+        "claim": "2019年成都国际铁路港全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+        "claim_id": "claim-3937b8f05e84e0ad",
+        "evidence_block_ids": [
+          "blk-0d0621f265f76d001b19",
+          "blk-64d407df9208966996df"
+        ],
+        "evidence_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          52,
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都国际班列开行量是重庆的2.1倍、西安的1.5倍。",
+        "claim_id": "claim-7923288b7e85a3f2",
+        "evidence_block_ids": [
+          "blk-64d407df9208966996df"
+        ],
+        "evidence_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+        "claim_id": "claim-a2099fe34719c384",
+        "evidence_block_ids": [
+          "blk-64d407df9208966996df"
+        ],
+        "evidence_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。从“质”来看，2019年",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+        "claim_id": "claim-89318ec29dd56bae",
+        "evidence_block_ids": [
+          "blk-64d407df9208966996df"
+        ],
+        "evidence_excerpt": "2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位。",
+        "claim_id": "claim-9d60dbf2c0bec60c",
+        "evidence_block_ids": [
+          "blk-b5e7af221aebbcc8cb96"
+        ],
+        "evidence_excerpt": "2019年，成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都共有国际（地区）航线126条，在中西部城市中处于领先地位。",
+        "claim_id": "claim-81a78257abdb390c",
+        "evidence_block_ids": [
+          "blk-b5e7af221aebbcc8cb96"
+        ],
+        "evidence_excerpt": "2019年成都共有国际（地区）航线126条",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+        "claim_id": "claim-d5dbab3803109de0",
+        "evidence_block_ids": [
+          "blk-b5e7af221aebbcc8cb96"
+        ],
+        "evidence_excerpt": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-3d712ac4d7d5",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都成为全国第三个拥有双4F级机场的城市。",
+        "claim_id": "claim-966b0494a38403b9",
+        "evidence_block_ids": [
+          "blk-00857b513801b26d8b96"
+        ],
+        "evidence_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市",
+        "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-92a4c2bfd83d",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨。",
+        "claim_id": "claim-9c315dd96c9dbb1b",
+        "evidence_block_ids": [
+          "blk-00857b513801b26d8b96"
+        ],
+        "evidence_excerpt": "全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。国际班列开行领先。2021年",
+        "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-92a4c2bfd83d",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都国际班列已联通境内外共93个城市。",
+        "claim_id": "claim-ecf7c99b916d5fbf",
+        "evidence_block_ids": [
+          "blk-00857b513801b26d8b96"
+        ],
+        "evidence_excerpt": "2021年，成都国际班列已联通境内外共93个城市",
+        "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-92a4c2bfd83d",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%。",
+        "claim_id": "claim-9a2cc0c3cc39f51f",
+        "evidence_block_ids": [
+          "blk-00857b513801b26d8b96"
+        ],
+        "evidence_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超 \\(30\\%",
+        "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-92a4c2bfd83d",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年成都中欧班列综合运行指标保持全国第一方阵。",
+        "claim_id": "claim-291a42d1c460bd41",
+        "evidence_block_ids": [
+          "blk-00857b513801b26d8b96"
+        ],
+        "evidence_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超 \\(30\\%\\) ，综合运行指标保持全国第一方阵",
+        "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-92a4c2bfd83d",
+        "scope": {
+          "time": [
+            "2021年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-3937b8f05e84e0ad",
+          "claim-7923288b7e85a3f2",
+          "claim-a2099fe34719c384",
+          "claim-89318ec29dd56bae",
+          "claim-9d60dbf2c0bec60c",
+          "claim-81a78257abdb390c",
+          "claim-d5dbab3803109de0"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+        "reason": "包含2019年成都国际班列开行量、运行指标及航空枢纽航线、吞吐量等核心对比数据，是回答中心问题的关键证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-966b0494a38403b9",
+          "claim-9c315dd96c9dbb1b",
+          "claim-ecf7c99b916d5fbf",
+          "claim-9a2cc0c3cc39f51f",
+          "claim-291a42d1c460bd41"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+        "reason": "包含2021年成都天府机场通航后的客货吞吐量、班列联通情况及综合运行指标数据，补充最新年份的枢纽通道优势事实。"
+      }
+    ],
+    "group_id": "topic-669b039058b4",
+    "members": [
+      {
+        "contribution": "提供2019年成都国际班列及航空枢纽的具体运行指标、吞吐量及排名数据，直接支撑对成都枢纽通道优势的事实认定。",
+        "ref_id": "ref-3d712ac4d7d5",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2021年成都双机场通航后的客货吞吐量、班列联通城市及开行量数据，补充最新年份的枢纽通道优势事实。",
+        "ref_id": "ref-92a4c2bfd83d",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-3937b8f05e84e0ad",
+        "draft_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7923288b7e85a3f2",
+        "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a2099fe34719c384",
+        "draft_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-89318ec29dd56bae",
+        "draft_excerpt": "从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9d60dbf2c0bec60c",
+        "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+        "finding": "The draft excerpt contains the exact text for the airport ranking claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-81a78257abdb390c",
+        "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+        "finding": "The draft excerpt contains the exact text for the route count claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d5dbab3803109de0",
+        "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+        "finding": "The draft excerpt contains the exact text for the throughput claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-966b0494a38403b9",
+        "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+        "finding": "The draft excerpt contains the exact text for the dual 4F airport claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9c315dd96c9dbb1b",
+        "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+        "finding": "The draft excerpt contains the exact text for the 2021 throughput claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ecf7c99b916d5fbf",
+        "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+        "finding": "The draft excerpt contains the exact text for the city connectivity claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9a2cc0c3cc39f51f",
+        "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+        "finding": "The draft excerpt contains the exact text for the 2021 train volume claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-291a42d1c460bd41",
+        "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+        "finding": "General qualitative statement not explicitly supported by specific factual claims in the contract.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6a27ebb6a78d20d8",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-3937b8f05e84e0ad"
+        ],
+        "draft_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+        "finding": "Matches claim-3937b8f05e84e0ad.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f7fe2ce88c38584d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7923288b7e85a3f2"
+        ],
+        "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+        "finding": "Matches claim-7923288b7e85a3f2.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5bff94acc12e0561",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a2099fe34719c384"
+        ],
+        "draft_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+        "finding": "Matches claim-a2099fe34719c384.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7fc245c92ba10e27",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-89318ec29dd56bae"
+        ],
+        "draft_excerpt": "从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+        "finding": "Matches claim-89318ec29dd56bae.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-59c53b733e81ab26",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9d60dbf2c0bec60c",
+          "claim-81a78257abdb390c",
+          "claim-d5dbab3803109de0"
+        ],
+        "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+        "finding": "Contains text supporting claim-9d60dbf2c0bec60c, claim-81a78257abdb390c, and claim-d5dbab3803109de0.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c43c890679d661e7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-966b0494a38403b9",
+          "claim-9c315dd96c9dbb1b"
+        ],
+        "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+        "finding": "Contains text supporting claim-966b0494a38403b9 and claim-9c315dd96c9dbb1b.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-14f619b11dfd2ea8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ecf7c99b916d5fbf",
+          "claim-9a2cc0c3cc39f51f",
+          "claim-291a42d1c460bd41"
+        ],
+        "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+        "finding": "Contains text supporting claim-ecf7c99b916d5fbf, claim-9a2cc0c3cc39f51f, and claim-291a42d1c460bd41.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-032a7eb0b1a9589f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3937b8f05e84e0ad"
+        ],
+        "draft_excerpt": "2019年成都国际铁路港开行国际班列3186列，连续四年全国第一",
+        "finding": "Summarizes claim-3937b8f05e84e0ad.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-112b9518583121c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7923288b7e85a3f2"
+        ],
+        "draft_excerpt": "2019年成都国际班列开行量是重庆的2.1倍、西安的1.5倍",
+        "finding": "Summarizes claim-7923288b7e85a3f2.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f63ab2c54e6350a9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a2099fe34719c384"
+        ],
+        "draft_excerpt": "2019年成都中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4",
+        "finding": "Summarizes claim-a2099fe34719c384.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8011b292f765d8e3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-89318ec29dd56bae"
+        ],
+        "draft_excerpt": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一",
+        "finding": "Summarizes claim-89318ec29dd56bae.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0277c66da2b8905c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9d60dbf2c0bec60c"
+        ],
+        "draft_excerpt": "2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c175b756cca36d2c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-81a78257abdb390c"
+        ],
+        "draft_excerpt": "2019年成都共有国际（地区）航线126条",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f147269292f6ea66",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d5dbab3803109de0"
+        ],
+        "draft_excerpt": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-052559f52d826115",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-966b0494a38403b9"
+        ],
+        "draft_excerpt": "2021年成都成为全国第三个拥有双4F级机场的城市",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0103db36ebe0394b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9c315dd96c9dbb1b"
+        ],
+        "draft_excerpt": "2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-af34fdd5f555b766",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ecf7c99b916d5fbf"
+        ],
+        "draft_excerpt": "2021年成都国际班列已联通境内外共93个城市",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e8d7548939b4db61",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9a2cc0c3cc39f51f"
+        ],
+        "draft_excerpt": "2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f7dd7450a3159e25",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-291a42d1c460bd41"
+        ],
+        "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f407b0f4f5de3572",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+        "finding": "General qualitative assessment not explicitly in contract."
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-3937b8f05e84e0ad",
+          "draft_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7923288b7e85a3f2",
+          "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a2099fe34719c384",
+          "draft_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-89318ec29dd56bae",
+          "draft_excerpt": "从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9d60dbf2c0bec60c",
+          "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+          "finding": "The draft excerpt contains the exact text for the airport ranking claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-81a78257abdb390c",
+          "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+          "finding": "The draft excerpt contains the exact text for the route count claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d5dbab3803109de0",
+          "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+          "finding": "The draft excerpt contains the exact text for the throughput claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-966b0494a38403b9",
+          "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+          "finding": "The draft excerpt contains the exact text for the dual 4F airport claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9c315dd96c9dbb1b",
+          "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+          "finding": "The draft excerpt contains the exact text for the 2021 throughput claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ecf7c99b916d5fbf",
+          "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+          "finding": "The draft excerpt contains the exact text for the city connectivity claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9a2cc0c3cc39f51f",
+          "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+          "finding": "The draft excerpt contains the exact text for the 2021 train volume claim.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+          "finding": "General qualitative statement not explicitly supported by specific factual claims in the contract.",
+          "sentence_id": "sentence-6a27ebb6a78d20d8",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-3937b8f05e84e0ad"
+          ],
+          "draft_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+          "finding": "Matches claim-3937b8f05e84e0ad.",
+          "sentence_id": "sentence-f7fe2ce88c38584d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7923288b7e85a3f2"
+          ],
+          "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+          "finding": "Matches claim-7923288b7e85a3f2.",
+          "sentence_id": "sentence-5bff94acc12e0561",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a2099fe34719c384"
+          ],
+          "draft_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+          "finding": "Matches claim-a2099fe34719c384.",
+          "sentence_id": "sentence-7fc245c92ba10e27",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-89318ec29dd56bae"
+          ],
+          "draft_excerpt": "从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+          "finding": "Matches claim-89318ec29dd56bae.",
+          "sentence_id": "sentence-59c53b733e81ab26",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9d60dbf2c0bec60c",
+            "claim-81a78257abdb390c",
+            "claim-d5dbab3803109de0"
+          ],
+          "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+          "finding": "Contains text supporting claim-9d60dbf2c0bec60c, claim-81a78257abdb390c, and claim-d5dbab3803109de0.",
+          "sentence_id": "sentence-c43c890679d661e7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-966b0494a38403b9",
+            "claim-9c315dd96c9dbb1b"
+          ],
+          "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+          "finding": "Contains text supporting claim-966b0494a38403b9 and claim-9c315dd96c9dbb1b.",
+          "sentence_id": "sentence-14f619b11dfd2ea8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ecf7c99b916d5fbf",
+            "claim-9a2cc0c3cc39f51f",
+            "claim-291a42d1c460bd41"
+          ],
+          "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+          "finding": "Contains text supporting claim-ecf7c99b916d5fbf, claim-9a2cc0c3cc39f51f, and claim-291a42d1c460bd41.",
+          "sentence_id": "sentence-032a7eb0b1a9589f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3937b8f05e84e0ad"
+          ],
+          "draft_excerpt": "2019年成都国际铁路港开行国际班列3186列，连续四年全国第一",
+          "finding": "Summarizes claim-3937b8f05e84e0ad.",
+          "sentence_id": "sentence-112b9518583121c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7923288b7e85a3f2"
+          ],
+          "draft_excerpt": "2019年成都国际班列开行量是重庆的2.1倍、西安的1.5倍",
+          "finding": "Summarizes claim-7923288b7e85a3f2.",
+          "sentence_id": "sentence-f63ab2c54e6350a9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a2099fe34719c384"
+          ],
+          "draft_excerpt": "2019年成都中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4",
+          "finding": "Summarizes claim-a2099fe34719c384.",
+          "sentence_id": "sentence-8011b292f765d8e3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-89318ec29dd56bae"
+          ],
+          "draft_excerpt": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一",
+          "finding": "Summarizes claim-89318ec29dd56bae.",
+          "sentence_id": "sentence-0277c66da2b8905c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+          "finding": "General qualitative assessment not explicitly in contract."
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-9d60dbf2c0bec60c",
+          "draft_excerpt": "2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-81a78257abdb390c",
+          "draft_excerpt": "2019年成都共有国际（地区）航线126条",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d5dbab3803109de0",
+          "draft_excerpt": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-966b0494a38403b9",
+          "draft_excerpt": "2021年成都成为全国第三个拥有双4F级机场的城市",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9c315dd96c9dbb1b",
+          "draft_excerpt": "2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ecf7c99b916d5fbf",
+          "draft_excerpt": "2021年成都国际班列已联通境内外共93个城市",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9a2cc0c3cc39f51f",
+          "draft_excerpt": "2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-291a42d1c460bd41",
+          "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-9d60dbf2c0bec60c"
+          ],
+          "draft_excerpt": "2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+          "finding": "supported",
+          "sentence_id": "sentence-c175b756cca36d2c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-81a78257abdb390c"
+          ],
+          "draft_excerpt": "2019年成都共有国际（地区）航线126条",
+          "finding": "supported",
+          "sentence_id": "sentence-f147269292f6ea66",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d5dbab3803109de0"
+          ],
+          "draft_excerpt": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+          "finding": "supported",
+          "sentence_id": "sentence-052559f52d826115",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-966b0494a38403b9"
+          ],
+          "draft_excerpt": "2021年成都成为全国第三个拥有双4F级机场的城市",
+          "finding": "supported",
+          "sentence_id": "sentence-0103db36ebe0394b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9c315dd96c9dbb1b"
+          ],
+          "draft_excerpt": "2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨",
+          "finding": "supported",
+          "sentence_id": "sentence-af34fdd5f555b766",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ecf7c99b916d5fbf"
+          ],
+          "draft_excerpt": "2021年成都国际班列已联通境内外共93个城市",
+          "finding": "supported",
+          "sentence_id": "sentence-e8d7548939b4db61",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9a2cc0c3cc39f51f"
+          ],
+          "draft_excerpt": "2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%",
+          "finding": "supported",
+          "sentence_id": "sentence-f7dd7450a3159e25",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-291a42d1c460bd41"
+          ],
+          "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+          "finding": "supported",
+          "sentence_id": "sentence-f407b0f4f5de3572",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "39f6e31b59cafd3d60108aafb463f0c085796a46264f4f6fafa73b65d43fdbc5",
+  "coverage_history": [
+    {
+      "draft_sha256": "133103d200eb069d678e9b3c62bcb07910861369cd15133a8384569028676fb2",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3937b8f05e84e0ad",
+            "draft_excerpt": "成都国际铁路港在“量”与“质”上均表现突出，2019年开行国际班列3186列，连续四年保持全国第一，其中中欧班列（成都）累计开行超过4600列，约占全国总量1/4；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2099fe34719c384",
+            "draft_excerpt": "成都国际铁路港在“量”与“质”上均表现突出，2019年开行国际班列3186列，连续四年保持全国第一，其中中欧班列（成都）累计开行超过4600列，约占全国总量1/4；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-89318ec29dd56bae",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-89318ec29dd56bae is missing hard anchors from the claim: ['2019年']; claim='2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一。'; excerpt='自然列、发送箱、回程占比三项运行指标均位列全国第一。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9d60dbf2c0bec60c",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，中国大陆城市第5位，国际（地区）航线数在中西部城市中处于领先地位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81a78257abdb390c",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-81a78257abdb390c is missing hard anchors from the claim: ['126']; claim='2019年成都共有国际（地区）航线126条，在中西部城市中处于领先地位。'; excerpt='国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，中国大陆城市第5位，国际（地区）航线数在中西部城市中处于领先地位。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-291a42d1c460bd41",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-7923288b7e85a3f2",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-966b0494a38403b9",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9a2cc0c3cc39f51f",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9c315dd96c9dbb1b",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d5dbab3803109de0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ecf7c99b916d5fbf",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列，但通信基础支撑力仍需加强。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee3fd8171a8f7144",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都对外开放水平在中西部城市中保持前列，国际航空及班列开行优势明显，但通信基础支撑力仍需加强。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f4174946db8eac82",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3937b8f05e84e0ad",
+              "claim-a2099fe34719c384"
+            ],
+            "draft_excerpt": "成都国际铁路港在“量”与“质”上均表现突出，2019年开行国际班列3186列，连续四年保持全国第一，其中中欧班列（成都）累计开行超过4600列，约占全国总量1/4；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4250ea91f11d7cec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89318ec29dd56bae"
+            ],
+            "draft_excerpt": "自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a0585798cf0371e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d60dbf2c0bec60c",
+              "claim-81a78257abdb390c"
+            ],
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，中国大陆城市第5位，国际（地区）航线数在中西部城市中处于领先地位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a21e813e6c720a22",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "尽管枢纽通道优势明显，成都通信基础支撑力仍有待夯实。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99d8811f4b7e83ea",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年，成都固定宽带速率仅为38.56Mbit/s，在全国城市中排名第9位，与排名前三的上海、北京（已超40Mbit/s）存在差距。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d279a96d655134fc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，成都互联网活力较强，2019年互联网综合指数跻身全国第4位，领先于广州，仅次于北京、上海、深圳。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-10d00d4747a34cee",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都开放平台体系构建相对完善但总量偏少，2019年共有高能级开放平台9个，其中综合保税区发展质效显著，成都高新综保区在全国绩效评估中综合排名第一。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ecbc9682b4f997f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "开放经济在中西部领先但距东部沿海仍有差距，2019年成都拥有世界500强企业301家居中西部首位，进出口总额达5822.7亿元，但实际利用外资80.4亿美元与上海、北京等突破百亿美元的沿海城市差距明显。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f85186ff6302a731",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3937b8f05e84e0ad"
+            ],
+            "draft_excerpt": "2019年成都国际铁路港开行国际班列3186列，连续四年全国第一",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ffa2d0bd2b307b79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都固定宽带速率为38.56Mbit/s，全国排名第9位",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c3d325c9226dd9bf",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都高新综保区在全国综合保税区发展绩效评估中综合排名第一",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f38f03db0e92eb9e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年成都进出口总额达5822.7亿元，实际利用外资80.4亿美元",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd6fb7fe14556f4b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列，但通信基础支撑力仍需加强。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "成都对外开放水平在中西部城市中保持前列，国际航空及班列开行优势明显，但通信基础支撑力仍需加强。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "尽管枢纽通道优势明显，成都通信基础支撑力仍有待夯实。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年，成都固定宽带速率仅为38.56Mbit/s，在全国城市中排名第9位，与排名前三的上海、北京（已超40Mbit/s）存在差距。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "同时，成都互联网活力较强，2019年互联网综合指数跻身全国第4位，领先于广州，仅次于北京、上海、深圳。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "成都开放平台体系构建相对完善但总量偏少，2019年共有高能级开放平台9个，其中综合保税区发展质效显著，成都高新综保区在全国绩效评估中综合排名第一。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "开放经济在中西部领先但距东部沿海仍有差距，2019年成都拥有世界500强企业301家居中西部首位，进出口总额达5822.7亿元，但实际利用外资80.4亿美元与上海、北京等突破百亿美元的沿海城市差距明显。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年成都固定宽带速率为38.56Mbit/s，全国排名第9位",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2019年成都高新综保区在全国综合保税区发展绩效评估中综合排名第一",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2019年成都进出口总额达5822.7亿元，实际利用外资80.4亿美元",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "38.56",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "9",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "40",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "500",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "301",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5822.7",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "80.4",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "de75797aaaa32ffe0b6ccbab903896c4f169ba8ca0a157d9847d2de60faabb4c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3937b8f05e84e0ad",
+            "draft_excerpt": "成都国际铁路港在“量”与“质”上均表现突出，2019年开行国际班列3186列，已连续四年保持开行量全国第一，其中中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4；",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7923288b7e85a3f2",
+            "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2099fe34719c384",
+            "draft_excerpt": "成都国际铁路港在“量”与“质”上均表现突出，2019年开行国际班列3186列，已连续四年保持开行量全国第一，其中中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4；",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-89318ec29dd56bae",
+            "draft_excerpt": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9d60dbf2c0bec60c",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81a78257abdb390c",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d5dbab3803109de0",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-966b0494a38403b9",
+            "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9c315dd96c9dbb1b",
+            "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ecf7c99b916d5fbf",
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a2cc0c3cc39f51f",
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-291a42d1c460bd41",
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "covered 代码门禁已将主句指针规范化为该 claim 的首个受支持草稿句。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6a27ebb6a78d20d8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都对外开放水平在中西部城市中保持前列，国际航空及班列开行优势明显。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0559243b13e8400e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3937b8f05e84e0ad",
+              "claim-a2099fe34719c384"
+            ],
+            "draft_excerpt": "成都国际铁路港在“量”与“质”上均表现突出，2019年开行国际班列3186列，已连续四年保持开行量全国第一，其中中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-377012146bafd8bf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89318ec29dd56bae"
+            ],
+            "draft_excerpt": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa517551b57d5615",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7923288b7e85a3f2"
+            ],
+            "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b9aff26ded2921ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d60dbf2c0bec60c",
+              "claim-81a78257abdb390c",
+              "claim-d5dbab3803109de0"
+            ],
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c43c890679d661e7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-966b0494a38403b9",
+              "claim-9c315dd96c9dbb1b"
+            ],
+            "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14f619b11dfd2ea8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecf7c99b916d5fbf",
+              "claim-9a2cc0c3cc39f51f",
+              "claim-291a42d1c460bd41"
+            ],
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-032a7eb0b1a9589f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3937b8f05e84e0ad"
+            ],
+            "draft_excerpt": "2019年成都国际铁路港开行国际班列3186列，连续四年全国第一",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-112b9518583121c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7923288b7e85a3f2"
+            ],
+            "draft_excerpt": "2019年成都国际班列开行量是重庆的2.1倍、西安的1.5倍",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f63ab2c54e6350a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2099fe34719c384"
+            ],
+            "draft_excerpt": "2019年成都中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8011b292f765d8e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89318ec29dd56bae"
+            ],
+            "draft_excerpt": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0277c66da2b8905c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d60dbf2c0bec60c"
+            ],
+            "draft_excerpt": "2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c175b756cca36d2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81a78257abdb390c"
+            ],
+            "draft_excerpt": "2019年成都共有国际（地区）航线126条",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f147269292f6ea66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d5dbab3803109de0"
+            ],
+            "draft_excerpt": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-052559f52d826115",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-966b0494a38403b9"
+            ],
+            "draft_excerpt": "2021年成都成为全国第三个拥有双4F级机场的城市",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0103db36ebe0394b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9c315dd96c9dbb1b"
+            ],
+            "draft_excerpt": "2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af34fdd5f555b766",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecf7c99b916d5fbf"
+            ],
+            "draft_excerpt": "2021年成都国际班列已联通境内外共93个城市",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8d7548939b4db61",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9a2cc0c3cc39f51f"
+            ],
+            "draft_excerpt": "2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f7dd7450a3159e25",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-291a42d1c460bd41"
+            ],
+            "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f407b0f4f5de3572",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都对外开放水平在中西部城市中保持前列，国际航空及班列开行优势明显。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "39f6e31b59cafd3d60108aafb463f0c085796a46264f4f6fafa73b65d43fdbc5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3937b8f05e84e0ad",
+            "draft_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7923288b7e85a3f2",
+            "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2099fe34719c384",
+            "draft_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-89318ec29dd56bae",
+            "draft_excerpt": "从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9d60dbf2c0bec60c",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "The draft excerpt contains the exact text for the airport ranking claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81a78257abdb390c",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "The draft excerpt contains the exact text for the route count claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d5dbab3803109de0",
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "The draft excerpt contains the exact text for the throughput claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-966b0494a38403b9",
+            "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+            "finding": "The draft excerpt contains the exact text for the dual 4F airport claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9c315dd96c9dbb1b",
+            "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+            "finding": "The draft excerpt contains the exact text for the 2021 throughput claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ecf7c99b916d5fbf",
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "The draft excerpt contains the exact text for the city connectivity claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9a2cc0c3cc39f51f",
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "The draft excerpt contains the exact text for the 2021 train volume claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-291a42d1c460bd41",
+            "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+            "finding": "General qualitative statement not explicitly supported by specific factual claims in the contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6a27ebb6a78d20d8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3937b8f05e84e0ad"
+            ],
+            "draft_excerpt": "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。",
+            "finding": "Matches claim-3937b8f05e84e0ad.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f7fe2ce88c38584d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7923288b7e85a3f2"
+            ],
+            "draft_excerpt": "2019年开行量是重庆的2.1倍、西安的1.5倍。",
+            "finding": "Matches claim-7923288b7e85a3f2.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5bff94acc12e0561",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2099fe34719c384"
+            ],
+            "draft_excerpt": "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。",
+            "finding": "Matches claim-a2099fe34719c384.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7fc245c92ba10e27",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89318ec29dd56bae"
+            ],
+            "draft_excerpt": "从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。",
+            "finding": "Matches claim-89318ec29dd56bae.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-59c53b733e81ab26",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d60dbf2c0bec60c",
+              "claim-81a78257abdb390c",
+              "claim-d5dbab3803109de0"
+            ],
+            "draft_excerpt": "国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。",
+            "finding": "Contains text supporting claim-9d60dbf2c0bec60c, claim-81a78257abdb390c, and claim-d5dbab3803109de0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c43c890679d661e7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-966b0494a38403b9",
+              "claim-9c315dd96c9dbb1b"
+            ],
+            "draft_excerpt": "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。",
+            "finding": "Contains text supporting claim-966b0494a38403b9 and claim-9c315dd96c9dbb1b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14f619b11dfd2ea8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecf7c99b916d5fbf",
+              "claim-9a2cc0c3cc39f51f",
+              "claim-291a42d1c460bd41"
+            ],
+            "draft_excerpt": "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。",
+            "finding": "Contains text supporting claim-ecf7c99b916d5fbf, claim-9a2cc0c3cc39f51f, and claim-291a42d1c460bd41.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-032a7eb0b1a9589f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3937b8f05e84e0ad"
+            ],
+            "draft_excerpt": "2019年成都国际铁路港开行国际班列3186列，连续四年全国第一",
+            "finding": "Summarizes claim-3937b8f05e84e0ad.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-112b9518583121c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7923288b7e85a3f2"
+            ],
+            "draft_excerpt": "2019年成都国际班列开行量是重庆的2.1倍、西安的1.5倍",
+            "finding": "Summarizes claim-7923288b7e85a3f2.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f63ab2c54e6350a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2099fe34719c384"
+            ],
+            "draft_excerpt": "2019年成都中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4",
+            "finding": "Summarizes claim-a2099fe34719c384.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8011b292f765d8e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89318ec29dd56bae"
+            ],
+            "draft_excerpt": "2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一",
+            "finding": "Summarizes claim-89318ec29dd56bae.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0277c66da2b8905c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d60dbf2c0bec60c"
+            ],
+            "draft_excerpt": "2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c175b756cca36d2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81a78257abdb390c"
+            ],
+            "draft_excerpt": "2019年成都共有国际（地区）航线126条",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f147269292f6ea66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d5dbab3803109de0"
+            ],
+            "draft_excerpt": "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-052559f52d826115",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-966b0494a38403b9"
+            ],
+            "draft_excerpt": "2021年成都成为全国第三个拥有双4F级机场的城市",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0103db36ebe0394b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9c315dd96c9dbb1b"
+            ],
+            "draft_excerpt": "2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af34fdd5f555b766",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ecf7c99b916d5fbf"
+            ],
+            "draft_excerpt": "2021年成都国际班列已联通境内外共93个城市",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8d7548939b4db61",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9a2cc0c3cc39f51f"
+            ],
+            "draft_excerpt": "2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f7dd7450a3159e25",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-291a42d1c460bd41"
+            ],
+            "draft_excerpt": "2021年成都中欧班列综合运行指标保持全国第一方阵",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f407b0f4f5de3572",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+            "finding": "General qualitative assessment not explicitly in contract."
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一。2019年开行量是重庆的2.1倍、西安的1.5倍。其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一。国际航空枢纽能力相对领先，2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，2019年成都共有国际（地区）航线126条，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨。2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超30%，综合运行指标保持全国第一方阵。\n\n- 2019年成都国际铁路港开行国际班列3186列，连续四年全国第一\n- 2019年成都国际班列开行量是重庆的2.1倍、西安的1.5倍\n- 2019年成都中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4\n- 2019年成都自然列、发送箱、回程占比三项运行指标均位列全国第一\n- 2019年成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位\n- 2019年成都共有国际（地区）航线126条\n- 2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨\n- 2021年成都成为全国第三个拥有双4F级机场的城市\n- 2021年成都全年实现客货吞吐量分别为4447.2万人次、64.9万吨\n- 2021年成都国际班列已联通境内外共93个城市\n- 2021年成都中欧班列（成渝）全年开行达4800列，占全国比例超30%\n- 2021年成都中欧班列综合运行指标保持全国第一方阵",
+    "description": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列。",
+    "ref": {
+      "asset_hints": [
+        "html-table-007",
+        "image-028",
+        "image-029",
+        "image-030",
+        "image-031",
+        "image-032",
+        "image-033",
+        "image-038",
+        "image-039",
+        "image-040",
+        "image-041",
+        "image-042",
+        "image-043",
+        "image-044",
+        "image-045"
+      ],
+      "concept_id": "topic-669b039058b4",
+      "description": "成都在国际航空及中欧班列等枢纽通道建设上优势突出，在中西部重点城市中对外开放水平保持前列，但通信基础支撑力仍需加强。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2019年，成都国际铁路港已有境外直达站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一",
+        "2019年开行量是重庆的2.1倍、西安的1.5倍",
+        "其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。从“质”来看，2019年",
+        "2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一",
+        "2019年，成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位",
+        "2019年成都共有国际（地区）航线126条",
+        "2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨",
+        "2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市",
+        "全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。国际班列开行领先。2021年",
+        "2021年，成都国际班列已联通境内外共93个城市",
+        "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超 \\(30\\%",
+        "2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超 \\(30\\%\\) ，综合运行指标保持全国第一方阵"
+      ],
+      "evidence_block_ids": [
+        "blk-0d0621f265f76d001b19",
+        "blk-64d407df9208966996df",
+        "blk-b5e7af221aebbcc8cb96",
+        "blk-00857b513801b26d8b96"
+      ],
+      "page_end": 60,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都对外开放枢纽通道优势与重点城市对比分析",
+      "type": "分析框架"
+    },
+    "title": "成都对外开放枢纽通道优势与重点城市对比分析"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-3d712ac4d7d5:bundle-4bd8156cdf8e",
+      "excluded_fragments": [],
+      "ref_id": "ref-3d712ac4d7d5",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-0d0621f265f76d001b19",
+          "page_number": 52,
+          "text": "对比分析发现，成都国际航空及班列开行优势明显，但通信基础支撑力仍需加强。国际铁路港优势突出。从“量”来看，2019年，成都国际铁路港已有境外直达"
+        },
+        {
+          "block_id": "blk-64d407df9208966996df",
+          "page_number": 53,
+          "text": "站点26个，覆盖国内沿海、沿边城市15个，全年开行国际班列3186列，已连续四年保持开行量全国第一，2019年开行量是重庆的2.1倍、西安的1.5倍，其中，中欧班列（成都）累计开行超过4600列，约占全国开行总量1/4。从“质”来看，2019年，成都自然列、发送箱、回程占比三项运行指标均位列全国第一，分别占全国的\\(19.2\\%\\) 、 \\(18.6\\%\\) 、 \\(16.6\\%\\) ，成为全国运行最稳定、运行时间最短、发班频率最高的中欧班列①。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-f7ce9b7ea2f5e6b6aff3",
+          "page_number": 53,
+          "text": "原始 PDF 第 53 页图片"
+        },
+        {
+          "block_id": "blk-d47a37a203443acbd9fd",
+          "page_number": 53,
+          "text": "图1-19 成都与重点城市2019年国际班列开行量对比"
+        },
+        {
+          "block_id": "blk-503839c449e67a3f514c",
+          "page_number": 53,
+          "text": "资料来源：2019年各城市国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-b5e7af221aebbcc8cb96",
+          "page_number": 53,
+          "text": "国际航空枢纽能力相对领先。2019年，成都双流机场在全球TOP50机场发展指数中排名第21位，在中国大陆城市中排名第5位，仅次于上海浦东、北京首都、广州白云和深圳宝安。从国际（地区）航线来看，2019年成都共有国际（地区）航线126条，与广州（194条）、上海（176条）存在一定差距，但中西部城市中处于领先地位，分别高出重庆35条、武汉63条。从机场客货吞吐量来看，2019年成都实现机场旅客吞吐量5585.9万人次、货邮吞吐量67.2万吨，在11个对比城市中分别排名第四位和第五位，旅客吞吐量仅次于上海、北京（均拥有双机场）以及广州。"
+        },
+        {
+          "block_id": "blk-fd7519ef55b73ccf8145",
+          "page_number": 54,
+          "text": "原始 PDF 第 54 页图片"
+        },
+        {
+          "block_id": "blk-6d10728f77a834e855fc",
+          "page_number": 54,
+          "text": "原始 PDF 第 54 页图片"
+        },
+        {
+          "block_id": "blk-ca243a0cc70729df9fb9",
+          "page_number": 54,
+          "text": "图1-20 2019年成都与重点城市国际（地区）航线数对比"
+        },
+        {
+          "block_id": "blk-1ec327d282d9ba47647f",
+          "page_number": 54,
+          "text": "资料来源：2019年各城市国民经济和社会发展统计公，中国民航局发布2019民航机场生产统计公报"
+        },
+        {
+          "block_id": "blk-9d58d6f0fe9857608278",
+          "page_number": 54,
+          "text": "图1-21 成都与重点城市2019年机场旅客吞吐量、货邮吞吐量对比"
+        },
+        {
+          "block_id": "blk-5468d8354d837cd08bb9",
+          "page_number": 54,
+          "text": "资料来源：中国民航局发布《2019年民航行业发展统计公报》"
+        },
+        {
+          "block_id": "blk-ff81a11df136e7cba57e",
+          "page_number": 54,
+          "text": "互联网活力较强，但通信基础支撑有待夯实。从城市“互联网 \\(+\\) ”排名来看，2019年，成都在互联网综合指数中跻身4位，领先于广州，仅次于北京、上海、深圳，成为中国互联网新一极①。从设施支撑来看，2019年，根据宽带发展联盟统计数"
+        },
+        {
+          "block_id": "blk-687dcfd15ae53ed6329f",
+          "page_number": 55,
+          "text": "据显示，成都固定宽带速率为38.56Mbit/s，在全国城市中排名第9位，与排名前三的上海、北京、天津存在一定差距，其中上海、北京已率先超过了40Mbit/s。"
+        },
+        {
+          "block_id": "blk-792dfb22b90f4d3ad2e9",
+          "page_number": 55,
+          "text": "原始 PDF 第 55 页图片"
+        },
+        {
+          "block_id": "blk-53a22f5a93c01ec45c68",
+          "page_number": 55,
+          "text": "图1-22 2019年固定宽带速率排名前10位城市"
+        },
+        {
+          "block_id": "blk-7543bed72257900c079a",
+          "page_number": 55,
+          "text": "资料来源：2019年《中国宽带速率状况报告》"
+        },
+        {
+          "block_id": "blk-29e4bc1c18d556165e5b",
+          "page_number": 55,
+          "text": "对比分析发现，成都开放平台体系构建相对完善，尤其综合保税区建设成效突出，但开放平台体系整体支撑仍需进一步提升。2019年，成都共有高能级开放平台9个，其中一类口岸2个、综合保税区2个、国家级新区（园区）5个，开放平台体系逐步完善。综合保税区发展质效显著，2019年成都高新综合保税区在2019年度全国综合保税区发展绩效评估中综合排名第一，规模效益、质量效益、开发利用、辐射服务、业态创新5类指标均排名靠前，25项指标评估结果高于全国平均水平①。但成都开放平台总量相对较少，与中西部城市中的武汉（13个）、郑州（9个）等城市尚有差距；与上海（22个）、深圳（18个）、杭州（15个）等东部沿海城市相比，差距较为明显，开放平台体系支撑仍需进一步夯实。"
+        },
+        {
+          "block_id": "blk-5214af04e268bc86753b",
+          "page_number": 56,
+          "text": "原始 PDF 第 56 页图片"
+        },
+        {
+          "block_id": "blk-75a9b611e4cb04378ba9",
+          "page_number": 56,
+          "text": "图1-23 2019年成都与主要城市综合保税区数量对比"
+        },
+        {
+          "block_id": "blk-b4ca00ed67d28b5b734e",
+          "page_number": 56,
+          "text": "资料来源：中国海关总署，http://zms.customs.gov.cn/zms/hgtsjgqy0/hgtsjgqysl-hys/index.html"
+        },
+        {
+          "block_id": "blk-1398340ee559551b3a9c",
+          "page_number": 56,
+          "text": "对比分析发现，成都开放经济在中西部城市中排名前列，与东部沿海城市仍有较大差距。高能级企业集聚优势明显，2019年，成都拥有世界500强企业301家，仅次于北京、上海、广州，在中西部城市排名首位。对外贸易中西部领先，但与东部沿海城市差距较大，2019年，成都进出口总额达5822.7亿元，外贸依存度达 \\(34.2\\%\\) 均居于中西部城市前列，但与上海、深圳、北京等进出口总额超过万亿的城市差距明显；2019年，成都在中国外贸百强城市中位居百强城市第16位，较2015年提升10个位次，提升幅度远超上海、深圳、广州等城市①。外资引进有待加强，2019年，成都实际利用外资80.4亿美元，在11个对比城市中排名第5，但排名靠前的上海、北京、武汉、重庆实际利用外资均突破百亿美元，成都仍有较大追赶空间。"
+        },
+        {
+          "block_id": "blk-563fb3ebbec9a596e767",
+          "page_number": 57,
+          "text": "原始 PDF 第 57 页图片"
+        },
+        {
+          "block_id": "blk-5351c2126e85f5a0521b",
+          "page_number": 57,
+          "text": "原始 PDF 第 57 页图片"
+        },
+        {
+          "block_id": "blk-3b3fbd8ca4d41ad4dc5f",
+          "page_number": 57,
+          "text": "图1-24 2019年成都与主要城市世界500强企业数量对比"
+        },
+        {
+          "block_id": "blk-bd5161a29ca6434bcd50",
+          "page_number": 57,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-cb465a2af12c0080c107",
+          "page_number": 57,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-05d4a5da1fc6da994ca8",
+          "page_number": 58,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-9c150d5753754d1ee127",
+          "page_number": 60,
+          "text": "资料来源：各城市2019年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-613002cf86e42a698df8",
+          "page_number": 57,
+          "text": "图1-25 2019年成都与主要城市进出口总额对比"
+        },
+        {
+          "block_id": "blk-9cf158e6b85e8dfe314f",
+          "page_number": 58,
+          "text": "原始 PDF 第 58 页图片"
+        },
+        {
+          "block_id": "blk-c55be29a229a6d3c2f1f",
+          "page_number": 58,
+          "text": "图1-26 2019年成都与主要城市实际利用外资对比"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-92a4c2bfd83d:bundle-0343e8b973c4",
+      "excluded_fragments": [],
+      "ref_id": "ref-92a4c2bfd83d",
+      "source_blocks": [
+        {
+          "block_id": "blk-2df1336b8c8bfa601850",
+          "page_number": 47,
+          "text": "近年来，成都对外开放水平整体在中西部城市中保持前列，在枢纽通道、开放平台、开放经济、资源要素运筹、国际交流交往等方面均表现出不同程度的优势。在加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局部署下，立足成都自身特色和优势，积极联动其他城市“扬长补短”，有利于充分利用两个市场两种资源，拓展对外经贸合作，推动更高层次、更高水平对外开放。因此，选取北京、上海、天津、广州、深圳、杭州、武汉、郑州、西安、重庆10个重点城市，对比分析其他重点城市融入“一带一路”推进对外开放的特点及优势，为成都发挥优势、补齐短板、联动开放找寻方向。"
+        },
+        {
+          "block_id": "blk-00857b513801b26d8b96",
+          "page_number": 47,
+          "text": "国际航空优势明显。2021年，天府国际机场建成通航以后，成都成为全国第三个拥有双4F级机场的城市，全年实现客货吞吐量分别为4447.2万人次、64.9万吨，旅客吞吐量在全国排名第3位，仅次于北京、上海。国际班列开行领先。2021年，成都国际班列已联通境内外共93个城市，中欧班列（成渝）统一品牌运行以来，全年开行达4800列，占全国比例超 \\(30\\%\\) ，综合运行指标保持全国第一方阵。"
+        },
+        {
+          "block_id": "blk-7816aee45e8a661e284e",
+          "page_number": 47,
+          "text": "原始 PDF 第 47 页图片"
+        },
+        {
+          "block_id": "blk-d42e98422921a15b1601",
+          "page_number": 47,
+          "text": "图1-12 2021年国内重点城市机场客货吞吐量"
+        },
+        {
+          "block_id": "blk-7c2a2ae871e1e48ef5e4",
+          "page_number": 47,
+          "text": "数据来源：中国民航局，2021年全国民用机场吞吐量排名"
+        },
+        {
+          "block_id": "blk-a20627ded4dd69f45bea",
+          "page_number": 48,
+          "text": "国际航空枢纽能级尚有提升空间，“海陆空”多式联运仍需做强。航空方面，成都尚未开放第五航权，国际（地区）航线与上海、广州等城市相比数量较少，同时，面临客货比较高（68.5）①、航空物流发展不充分等问题。下一步，亟需加快积极争取第五航权，主动加强与上海、广州等国际性航空枢纽联动，深化空地资源协同，共同拓展国际航空枢纽网络。多式联运方面，由于成都无水港，出海运输方面存在先天弱项，可依托成都国际铁路港与国际航空枢纽优势，加强与重庆、武汉等拥有港口的城市协同联动，联手做强国际多式联运，持续增强国际供应链保障水平和可持续发展能力。"
+        },
+        {
+          "block_id": "blk-5f257b8700b7a904c77b",
+          "page_number": 48,
+          "text": "对外开放平台体系构建日渐完善。截至2021年，成都共拥有高能级开放平台13个，包括航空、铁路、公路立体化口岸，“三区（四园）两中心”海关特殊监管区域（场所）体系，以及天府新区、成都高新区等在内的5个国家级新区（园区）。综合保税区发展全国领先，2021年，成都高新综保区进出口总额已连续4年居全国综保区首位，且连续两年在海关总署发展绩效评估中位列全国综合保税区第1位②。"
+        },
+        {
+          "block_id": "blk-27aa6d44c88890d2d4c7",
+          "page_number": 48,
+          "text": "原始 PDF 第 48 页图片"
+        },
+        {
+          "block_id": "blk-081c9baea7fd0753124c",
+          "page_number": 48,
+          "text": "图1-13 2021年重点城市高能级开放平台对比"
+        },
+        {
+          "block_id": "blk-bb03dff3e5394af76cac",
+          "page_number": 48,
+          "text": "数据来源：海关总署2021年全国海关特殊监管区域名单、保税物流中心（B型）名单"
+        },
+        {
+          "block_id": "blk-789e353548ac24382a56",
+          "page_number": 49,
+          "text": "成都高能级平台建设质效仍有待提高，改革创新有待进一步深化。口岸便利化水平有待提升，2021年，成都海关进口、出口货物整体通关时间分别为48小时、1.1小时，较广州海关（分别为16.4小时、0.5小时）有较大差距①。国家级新区建设水平仍需提升，2021年，天府新区地区生产总值在全国19个国家级新区中排名第5位，仅为浦东新区 \\(27.1\\%\\) 。自贸试验区投资自由便利有待加强，第四届进博会上发布的《2021年度“投资自由便利”评价报告》中，四川自贸试验区在全国21个自贸区中仅排名第10位，与上海等先发地区仍有较大差距。未来，成都仍需主动对接先发地区，学习借鉴改革创新成功经验，加强与各地自贸试验区、国家级新区（园区）、口岸等紧密合作，加快推进制度创新、口岸通关、产业发展等方面联动，推动开放平台体系实现能级跃升。"
+        },
+        {
+          "block_id": "blk-eb515a200dc5356b945b",
+          "page_number": 49,
+          "text": "外贸规模中西部领先。2021年，成都货物进出口规模达8222.0亿元，在全国城市中排名第11位，高于重庆、杭州、郑州等重点对比城市。跨国经营企业数量相对较多。2021年，在蓉世界500强企业达312家，在中西部城市中居于前列，本土世界500强实现零的突破。"
+        },
+        {
+          "block_id": "blk-e777e775811406dfb498",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-2aba0dc57fabfb3f9ddb",
+          "page_number": 49,
+          "text": "图1-14 2021年重点城市货物进出口总额与一般贸易比重对比"
+        },
+        {
+          "block_id": "blk-6187fac57ef2a243ef1b",
+          "page_number": 49,
+          "text": "数据来源：各城市2021年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-2c0c9d0173f70530b2a8",
+          "page_number": 50,
+          "text": "外贸结构有待优化，2021年，成都一般贸易进出口为1338.3亿元，占全市进出口比重仅为 \\(16.3\\%\\) ，在10个重点对比城市中排名末位，与北京、杭州、上海等城市差距较大。外资引进需加快发力，2021年，成都外商投资实际到位78.2亿美元，在重点对比城市中排名靠后，仅高于天津、郑州、武汉，与北京、重庆等市均存在较大差距。高能级企业总部与先发城市差距仍然明显，2021年《财富》杂志世界500强榜单中，成都仅有1家，与北京（50家）、上海（9家）、深圳（8家）、杭州（7家）等城市差距较大。成都需抢抓《区域全面经济伙伴关系协定》（RCEP）实施机遇，充分利用国际枢纽通道、开放平台等优势资源，强化高能级项目及企业引进与培育，推动产业结构的合理化和高端化发展，加快实现开放经济增量提质。"
+        },
+        {
+          "block_id": "blk-09fab96dba915f04029c",
+          "page_number": 50,
+          "text": "数据来源：各城市2021年国民经济和社会发展统计公报"
+        },
+        {
+          "block_id": "blk-0552a235ff8bf85d5e47",
+          "page_number": 50,
+          "text": "原始 PDF 第 50 页图片"
+        },
+        {
+          "block_id": "blk-81fbc179702c8621eec8",
+          "page_number": 50,
+          "text": "图1-15 2021年重点城市外商投资实际到位对比"
+        },
+        {
+          "block_id": "blk-f7264b8ea43e3d09929d",
+          "page_number": 50,
+          "text": "资源要素的吸附力较强。2021年，成都分别在全球城市综合排名①、第31期全球金融中心指数排名、中国城市人才吸引力排名中居于86位、37位、8位，领先于天津、武汉、西安、重庆。其中，成都全球金融功能较为突出，尤其是“金融科技专项排名”较上期大幅提升16位。"
+        },
+        {
+          "block_id": "blk-312eb90edee991f89a8d",
+          "page_number": 51,
+          "text": "表 1-6 2021 年各城市主要排名对比"
+        },
+        {
+          "block_id": "blk-ea0a548f4c82bc331579",
+          "page_number": 51,
+          "text": "<table><tr><td>城市</td><td>全球城市综合排名</td><td>全球金融中心指数排名</td><td>中国城市人才吸引力排名</td></tr><tr><td>北京</td><td>6</td><td>8</td><td>1</td></tr><tr><td>上海</td><td>10</td><td>4</td><td>3</td></tr><tr><td>广州</td><td>61</td><td>24</td><td>5</td></tr><tr><td>深圳</td><td>72</td><td>10</td><td>4</td></tr><tr><td>杭州</td><td>80</td><td>93</td><td>2</td></tr><tr><td>成都</td><td>86</td><td>37</td><td>8</td></tr><tr><td>天津</td><td>94</td><td>105</td><td>20</td></tr><tr><td>武汉</td><td>95</td><td>119</td><td>11</td></tr><tr><td>西安</td><td>96</td><td>117</td><td>18</td></tr><tr><td>重庆</td><td>107</td><td>120位以外</td><td>15</td></tr></table>"
+        },
+        {
+          "block_id": "blk-21a2d8ddf00fc76dfcf1",
+          "page_number": 51,
+          "text": "数据来源：科尼尔发布的2021年全球城市综合排名、英国智库Z/Yen与中国（深圳）综合开发研究院发布的《第31期全球金融中心指数》、智联招聘发布的《中国城市人才吸引力排名：2021》"
+        },
+        {
+          "block_id": "blk-3575edfd6b2db884a298",
+          "page_number": 51,
+          "text": "成都科技要素运筹转化水平不高，与打造全国重要的科技中心定位尚有差距。2021年，成都输出技术成交额与吸纳技术成交额分别为1189.4亿元、664.4亿元，在重点对比城市中均排在第7位，与北京、上海、西安等城市有不同程度差距，其中，输出技术成交额与吸纳技术成交额均不到北京的 \\(20\\%\\) 、上海的 \\(50\\%\\) 。未来，成都在加快提升金融、人才等高端要素集聚同时，亟需加快推进西部（成都）科学城等创新载体建设，充分激发高校、研发机构、企业等创新主体活力，着力提升科技成果转化能力，推动在全球创新网络中实现地位攀升。"
+        },
+        {
+          "block_id": "blk-11e090799b17b881c8cc",
+          "page_number": 51,
+          "text": "原始 PDF 第 51 页图片"
+        },
+        {
+          "block_id": "blk-2937e09753941c1c6734",
+          "page_number": 51,
+          "text": "图1-16 2021年重点城市输出技术与吸纳技术成交额对比"
+        },
+        {
+          "block_id": "blk-320aa5b23b4db5989f6a",
+          "page_number": 51,
+          "text": "数据来源：科技部火炬中心，2021年全国技术流向情况表"
+        },
+        {
+          "block_id": "blk-de4ef50ea202ba5ce529",
+          "page_number": 52,
+          "text": "据《中国城市对外交往影响力分析报告（2022）》显示，成都排名仅次于北京与上海，在蓉领事馆数量居全国内地城市第3位、中西部第1位，城市外交活力度和城市对外展示度表现突出。国际会展之都竞争力较强，2021年全球商务旅行管理公司嘉信力（CWT）研究成果显示，成都已连续2年跻身亚太十大会展城市；截至2021年，拥有ICCA会员11个、IAEE会员8个、UFI认证项目13个，分别在内地城市中居第1、第2和第5位①。"
+        },
+        {
+          "block_id": "blk-951fdd80c1828f7424cb",
+          "page_number": 52,
+          "text": "成都城市品牌国际影响力、竞争力仍需进一步提升。会展方面，2021年成都办展126个，约占全国的 \\(4.3\\%\\) ，与上海（341个、 \\(11.6\\%\\) ）、广州（186个、 \\(6.3\\%\\) ）差距较为明显。赛事方面，与全球体育名城及国内先发城市相比，存在体育产业规模不大、品牌不强、人才不足等短板。音乐方面，成都缺乏具有国际影响力的地标性文化设施、国际音乐品牌奖项，与国际音乐之都的定位尚有差距。成都应充分利用好高能级对外开放平台、在蓉领馆等优质资源，强化城市间协同联动，加快拓展友好交流国际网络，加强多层次对外交流合作，加快推进“三城三都”建设，进一步提升城市品牌国际影响力与显示度。"
+        },
+        {
+          "block_id": "blk-9b85469c662bc6b696dd",
+          "page_number": 52,
+          "text": "原始 PDF 第 52 页图片"
+        },
+        {
+          "block_id": "blk-4104e647f993e539f7a0",
+          "page_number": 52,
+          "text": "图1-17 2021年办展数量前10城市"
+        },
+        {
+          "block_id": "blk-9dfc75d0da327c4571cd",
+          "page_number": 52,
+          "text": "数据来源：中国国际贸易促进委员会，2021年中国展览经济发展报告"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-669b039058b4",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-3d712ac4d7d5",
+    "ref-92a4c2bfd83d"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

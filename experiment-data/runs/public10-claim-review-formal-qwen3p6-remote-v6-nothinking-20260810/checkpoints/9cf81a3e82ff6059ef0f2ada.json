@@ -1,0 +1,597 @@
+{
+  "contract": {
+    "canonical_question": "成都市在2017-2019年期间，如何通过财政资金和金融服务支持加工贸易企业的技术改造、转型升级及承接转移？",
+    "claims": [
+      {
+        "claim": "充分发挥现有财政资金引导作用，加大对加工贸易企业技术改造、产品创新、研发设计和标准制定。",
+        "claim_id": "claim-d97bcf5a4bbc1eff",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "充分发挥现有财政资金引导作用，加大对加工贸易企业技术改造、产品创新、研发设计和标准制定",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持承接加工贸易转移和转型升级。",
+        "claim_id": "claim-0cb764307dcc3ced",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "支持承接加工贸易转移和转型升级",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励金融机构创新金融产品和服务，加大对承接产业转移提供信贷支持。",
+        "claim_id": "claim-413b56c024e78029",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "鼓励金融机构创新金融产品和服务，加大对承接产业转移提供信贷支持",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "为加工贸易企业转型升级提供各类融资服务。",
+        "claim_id": "claim-6b5a5ba26fce6741",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "为加工贸易企业转型升级提供各类融资服务",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "引导融资担保机构加强对中小型加工贸易企业的服务。",
+        "claim_id": "claim-447f67f127a9b9dc",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {
+          "object": [
+            "中小型加工贸易企业"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励金融机构通过内保外贷等方式为加工贸易企业开展跨国经营提供融资支持。",
+        "claim_id": "claim-42e953344b75275b",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "鼓励金融机构通过内保外贷等方式为加工贸易企业开展跨国经营提供融资支持",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {
+          "scenario": [
+            "跨国经营"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "责任单位为市财政局、市商务委、市金融工作局。",
+        "claim_id": "claim-59fa0e5619c18be7",
+        "evidence_block_ids": [
+          "blk-9103b41fe0c32f333ba0"
+        ],
+        "evidence_excerpt": "（责任单位：市财政局、市商务委、市金融工作局）",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          180
+        ],
+        "ref_id": "ref-ade5dc476eeb",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-d97bcf5a4bbc1eff",
+          "claim-0cb764307dcc3ced",
+          "claim-413b56c024e78029",
+          "claim-6b5a5ba26fce6741",
+          "claim-447f67f127a9b9dc",
+          "claim-42e953344b75275b",
+          "claim-59fa0e5619c18be7"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+        "reason": "该证据包含回答分析框架中subject、core_judgment、evidence、implementer等核心槽位所需的全部原子事实，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-f7addeebda62",
+    "members": [
+      {
+        "contribution": "明确财政资金引导方向及金融信贷支持措施，涵盖技术改造、产品创新、研发设计、标准制定及跨国经营融资，并指定责任部门。",
+        "ref_id": "ref-ade5dc476eeb",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-d97bcf5a4bbc1eff",
+        "draft_excerpt": "充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0cb764307dcc3ced",
+        "draft_excerpt": "同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-413b56c024e78029",
+        "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6b5a5ba26fce6741",
+        "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-447f67f127a9b9dc",
+        "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-42e953344b75275b",
+        "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-59fa0e5619c18be7",
+        "draft_excerpt": "责任单位：市财政局、市商务委、市金融工作局",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-d97bcf5a4bbc1eff",
+          "claim-0cb764307dcc3ced",
+          "claim-413b56c024e78029",
+          "claim-6b5a5ba26fce6741",
+          "claim-447f67f127a9b9dc",
+          "claim-42e953344b75275b"
+        ],
+        "draft_excerpt": "通过财政资金引导、金融创新及融资担保等措施，支持加工贸易企业技术改造、转型升级及跨国经营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-889b487e171871d3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d97bcf5a4bbc1eff"
+        ],
+        "draft_excerpt": "充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f1d7a75191c84139",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0cb764307dcc3ced"
+        ],
+        "draft_excerpt": "同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3c9b5303c2bf65ac",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-413b56c024e78029",
+          "claim-6b5a5ba26fce6741"
+        ],
+        "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f94caf8e7e374cbf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-447f67f127a9b9dc",
+          "claim-42e953344b75275b"
+        ],
+        "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e6b3744a8e9ca9ea",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-59fa0e5619c18be7"
+        ],
+        "draft_excerpt": "责任单位：市财政局、市商务委、市金融工作局",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-541723fee4ee8720",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-d97bcf5a4bbc1eff",
+          "draft_excerpt": "充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0cb764307dcc3ced",
+          "draft_excerpt": "同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-413b56c024e78029",
+          "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6b5a5ba26fce6741",
+          "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-447f67f127a9b9dc",
+          "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-42e953344b75275b",
+          "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-59fa0e5619c18be7",
+          "draft_excerpt": "责任单位：市财政局、市商务委、市金融工作局",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-d97bcf5a4bbc1eff",
+            "claim-0cb764307dcc3ced",
+            "claim-413b56c024e78029",
+            "claim-6b5a5ba26fce6741",
+            "claim-447f67f127a9b9dc",
+            "claim-42e953344b75275b"
+          ],
+          "draft_excerpt": "通过财政资金引导、金融创新及融资担保等措施，支持加工贸易企业技术改造、转型升级及跨国经营。",
+          "finding": "supported",
+          "sentence_id": "sentence-889b487e171871d3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d97bcf5a4bbc1eff"
+          ],
+          "draft_excerpt": "充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。",
+          "finding": "supported",
+          "sentence_id": "sentence-f1d7a75191c84139",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0cb764307dcc3ced"
+          ],
+          "draft_excerpt": "同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。",
+          "finding": "supported",
+          "sentence_id": "sentence-3c9b5303c2bf65ac",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-413b56c024e78029",
+            "claim-6b5a5ba26fce6741"
+          ],
+          "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+          "finding": "supported",
+          "sentence_id": "sentence-f94caf8e7e374cbf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-447f67f127a9b9dc",
+            "claim-42e953344b75275b"
+          ],
+          "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-e6b3744a8e9ca9ea",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-59fa0e5619c18be7"
+          ],
+          "draft_excerpt": "责任单位：市财政局、市商务委、市金融工作局",
+          "finding": "supported",
+          "sentence_id": "sentence-541723fee4ee8720",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "e8f809dfaf3de35a5c82b07ec65543b0da898a8d21a395b67adb99306a28d04f",
+  "coverage_history": [
+    {
+      "draft_sha256": "e8f809dfaf3de35a5c82b07ec65543b0da898a8d21a395b67adb99306a28d04f",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-d97bcf5a4bbc1eff",
+            "draft_excerpt": "充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0cb764307dcc3ced",
+            "draft_excerpt": "同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-413b56c024e78029",
+            "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6b5a5ba26fce6741",
+            "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-447f67f127a9b9dc",
+            "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-42e953344b75275b",
+            "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-59fa0e5619c18be7",
+            "draft_excerpt": "责任单位：市财政局、市商务委、市金融工作局",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-d97bcf5a4bbc1eff",
+              "claim-0cb764307dcc3ced",
+              "claim-413b56c024e78029",
+              "claim-6b5a5ba26fce6741",
+              "claim-447f67f127a9b9dc",
+              "claim-42e953344b75275b"
+            ],
+            "draft_excerpt": "通过财政资金引导、金融创新及融资担保等措施，支持加工贸易企业技术改造、转型升级及跨国经营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-889b487e171871d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d97bcf5a4bbc1eff"
+            ],
+            "draft_excerpt": "充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1d7a75191c84139",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0cb764307dcc3ced"
+            ],
+            "draft_excerpt": "同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c9b5303c2bf65ac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-413b56c024e78029",
+              "claim-6b5a5ba26fce6741"
+            ],
+            "draft_excerpt": "在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f94caf8e7e374cbf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-447f67f127a9b9dc",
+              "claim-42e953344b75275b"
+            ],
+            "draft_excerpt": "引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6b3744a8e9ca9ea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-59fa0e5619c18be7"
+            ],
+            "draft_excerpt": "责任单位：市财政局、市商务委、市金融工作局",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-541723fee4ee8720",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n充分发挥现有财政资金的引导作用，重点加大对加工贸易企业在技术改造、产品创新、研发设计以及标准制定方面的支持力度。同时，积极支持加工贸易企业承接产业转移，推动其实现转型升级。\n\n## 金融支持与责任分工\n\n在财政引导之外，鼓励金融机构创新金融产品和服务，加大对承接产业转移的信贷支持，为加工贸易企业转型升级提供各类融资服务。引导融资担保机构加强对中小型加工贸易企业的服务，并鼓励金融机构通过内保外贷等方式，为加工贸易企业开展跨国经营提供融资支持。\n\n- 责任单位：市财政局、市商务委、市金融工作局",
+    "description": "通过财政资金引导、金融创新及融资担保等措施，支持加工贸易企业技术改造、转型升级及跨国经营。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-f7addeebda62",
+      "description": "充分发挥现有财政资金引导作用，加大对加工贸易企业技术改造、产品创新、研发设计和标准制定，支持承接加工贸易转移和转型升级。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "充分发挥现有财政资金引导作用，加大对加工贸易企业技术改造、产品创新、研发设计和标准制定",
+        "支持承接加工贸易转移和转型升级",
+        "鼓励金融机构创新金融产品和服务，加大对承接产业转移提供信贷支持",
+        "为加工贸易企业转型升级提供各类融资服务",
+        "引导融资担保机构加强对中小型加工贸易企业的服务",
+        "鼓励金融机构通过内保外贷等方式为加工贸易企业开展跨国经营提供融资支持",
+        "（责任单位：市财政局、市商务委、市金融工作局）"
+      ],
+      "evidence_block_ids": [
+        "blk-9103b41fe0c32f333ba0"
+      ],
+      "page_end": 180,
+      "page_start": 180,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（一）加大财政支持"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "加大财政支持",
+      "type": "分析框架"
+    },
+    "title": "加大财政支持"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-ade5dc476eeb:bundle-e66d9757c250",
+      "excluded_fragments": [],
+      "ref_id": "ref-ade5dc476eeb",
+      "source_blocks": [
+        {
+          "block_id": "blk-9103b41fe0c32f333ba0",
+          "page_number": 180,
+          "text": "充分发挥现有财政资金引导作用，加大对加工贸易企业技术改造、产品创新、研发设计和标准制定，支持承接加工贸易转移和转型升级。鼓励金融机构创新金融产品和服务，加大对承接产业转移提供信贷支持，为加工贸易企业转型升级提供各类融资服务。引导融资担保机构加强对中小型加工贸易企业的服务，鼓励金融机构通过内保外贷等方式为加工贸易企业开展跨国经营提供融资支持。（责任单位：市财政局、市商务委、市金融工作局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-f7addeebda62",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-ade5dc476eeb"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

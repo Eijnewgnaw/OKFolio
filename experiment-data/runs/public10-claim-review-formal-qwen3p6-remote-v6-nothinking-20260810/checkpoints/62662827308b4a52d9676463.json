@@ -1,0 +1,1756 @@
+{
+  "contract": {
+    "canonical_question": "成都市在基础设施和公共服务领域的区域合作范围、主要合作对象及拓展趋势是什么？",
+    "claims": [
+      {
+        "claim": "成都在基础设施建设方面的合作对象主要分布在省内市（州）。",
+        "claim_id": "claim-74bd408177cad047",
+        "evidence_block_ids": [
+          "blk-99ae4437c0284ab6b7b8"
+        ],
+        "evidence_excerpt": "成都在基础设施建设方面的合作对象主要分布在省内市（州）。",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+        "claim_id": "claim-2d818bd1c600ab69",
+        "evidence_block_ids": [
+          "blk-99ae4437c0284ab6b7b8"
+        ],
+        "evidence_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {
+          "time": [
+            "截至2018年底"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与川南经济区、川东北经济区和攀西经济区大部分市（州）签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+        "claim_id": "claim-778f9b76037752ee",
+        "evidence_block_ids": [
+          "blk-99ae4437c0284ab6b7b8"
+        ],
+        "evidence_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+        "claim_id": "claim-092714fbe86bf371",
+        "evidence_block_ids": [
+          "blk-99ae4437c0284ab6b7b8"
+        ],
+        "evidence_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {
+          "time": [
+            "2017—2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与国内区域合作对象主要以东部沿海城市为主，与中西部少数城市进行了相关合作。",
+        "claim_id": "claim-fe0b2d6c497e6e2a",
+        "evidence_block_ids": [
+          "blk-99ae4437c0284ab6b7b8"
+        ],
+        "evidence_excerpt": "从国内层面来看，成都开展基础设施建设合作对象主要以东部沿海城市为主，2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作，与中西部少数城市进行了相关合作。",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "交通共建是成都基础设施建设合作的主题，省内不同经济区具体合作内容存在差异。",
+        "claim_id": "claim-610e4467bc8fa422",
+        "evidence_block_ids": [
+          "blk-1c38811c41a5a257d7a0"
+        ],
+        "evidence_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。从省内层面来看，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与环成都经济圈合作由交通设施互联互通为主向交通设施一体化布局转变。",
+        "claim_id": "claim-96dd07bdf40a7e72",
+        "evidence_block_ids": [
+          "blk-1c38811c41a5a257d7a0"
+        ],
+        "evidence_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {
+          "object": [
+            "环成都经济圈"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与川南经济区主要以南向出川通道共建为主，与川东北经济区主要在北向出川通道建设方面开展合作。",
+        "claim_id": "claim-16d5481c5b5d4211",
+        "evidence_block_ids": [
+          "blk-1c38811c41a5a257d7a0"
+        ],
+        "evidence_excerpt": "与川南经济区主要以南向出川通道共建为主",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          78
+        ],
+        "ref_id": "ref-4fe33a289651",
+        "scope": {
+          "object": [
+            "川南经济区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+        "claim_id": "claim-04df77c2fa1e32f9",
+        "evidence_block_ids": [
+          "blk-6762917f0c94e32b8a20"
+        ],
+        "evidence_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+        "claim_id": "claim-d01c5a7f596bca19",
+        "evidence_block_ids": [
+          "blk-6762917f0c94e32b8a20"
+        ],
+        "evidence_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {
+          "object": [
+            "成都平原经济区",
+            "川南经济区",
+            "川东北经济区",
+            "攀西经济区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市与全省其他20个市（州）均开展了广泛的医疗卫生合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+        "claim_id": "claim-bad33e6cc72b0ed1",
+        "evidence_block_ids": [
+          "blk-6762917f0c94e32b8a20"
+        ],
+        "evidence_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在就业和社会保障方面，成都市以成都平原经济区为主体，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+        "claim_id": "claim-32bd6a841cd4da5f",
+        "evidence_block_ids": [
+          "blk-6762917f0c94e32b8a20"
+        ],
+        "evidence_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {
+          "object": [
+            "成都平原经济区",
+            "粤港澳",
+            "京津冀",
+            "长三角"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+        "claim_id": "claim-d272d999f2d5fe2d",
+        "evidence_block_ids": [
+          "blk-c36c1be33e70cb275108"
+        ],
+        "evidence_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在医疗卫生方面，成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+        "claim_id": "claim-953470e02bae0546",
+        "evidence_block_ids": [
+          "blk-cc5c84c242de4d036229"
+        ],
+        "evidence_excerpt": "在医疗卫生方面，成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在就业与社会保障方面，成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+        "claim_id": "claim-e7f231ab46f58164",
+        "evidence_block_ids": [
+          "blk-cc5c84c242de4d036229"
+        ],
+        "evidence_excerpt": "在就业与社会保障方面，成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+        "claim_id": "claim-0163a4414c98d862",
+        "evidence_block_ids": [
+          "blk-6ec8d27b048ddf7bf91a"
+        ],
+        "evidence_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9f680209b362",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-74bd408177cad047",
+          "claim-2d818bd1c600ab69",
+          "claim-778f9b76037752ee",
+          "claim-092714fbe86bf371",
+          "claim-fe0b2d6c497e6e2a",
+          "claim-610e4467bc8fa422",
+          "claim-96dd07bdf40a7e72",
+          "claim-16d5481c5b5d4211"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+        "reason": "该Bundle包含基础设施合作的核心事实，包括省内省外合作对象分布、具体城市名单及合作领域，是回答中心问题关于基础设施范围的关键证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-04df77c2fa1e32f9",
+          "claim-d01c5a7f596bca19",
+          "claim-bad33e6cc72b0ed1",
+          "claim-32bd6a841cd4da5f",
+          "claim-d272d999f2d5fe2d",
+          "claim-953470e02bae0546",
+          "claim-e7f231ab46f58164",
+          "claim-0163a4414c98d862"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+        "reason": "该Bundle包含公共服务合作的核心事实，明确省内省外合作范围及教育、医疗、社保领域的具体拓展情况，是回答中心问题关于公共服务范围的关键证据。"
+      }
+    ],
+    "group_id": "topic-69b3f4b8aefc",
+    "members": [
+      {
+        "contribution": "提供基础设施建设领域的合作范围证据，明确省内以环成都经济圈为主，省外以东部沿海城市为主，并列举具体合作城市及协议签署情况。",
+        "ref_id": "ref-4fe33a289651",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供公共服务建设领域的合作范围证据，明确省内以四大经济区为主体，省外向西部、京津冀、粤港澳扩展，并列举教育、医疗、社保的具体合作形式。",
+        "ref_id": "ref-9f680209b362",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-0163a4414c98d862",
+        "draft_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-74bd408177cad047",
+        "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fe0b2d6c497e6e2a",
+        "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2d818bd1c600ab69",
+        "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-778f9b76037752ee",
+        "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-092714fbe86bf371",
+        "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-610e4467bc8fa422",
+        "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-96dd07bdf40a7e72",
+        "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-16d5481c5b5d4211",
+        "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-04df77c2fa1e32f9",
+        "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d01c5a7f596bca19",
+        "draft_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d272d999f2d5fe2d",
+        "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bad33e6cc72b0ed1",
+        "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-953470e02bae0546",
+        "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-32bd6a841cd4da5f",
+        "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e7f231ab46f58164",
+        "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-04df77c2fa1e32f9",
+          "claim-74bd408177cad047"
+        ],
+        "draft_excerpt": "成都市在基础设施建设及公共服务建设领域的区域合作，主要依托省内市（州）共建共享，并逐步向西部其他地区、京津冀和粤港澳等国内重点区域拓展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-789c25474dec4c03",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0163a4414c98d862"
+        ],
+        "draft_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4197684b109e3b30",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-74bd408177cad047"
+        ],
+        "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-835a57ac5479d852",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fe0b2d6c497e6e2a"
+        ],
+        "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4e49d4a73997e93f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2d818bd1c600ab69"
+        ],
+        "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-efe00166afe60b1f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-778f9b76037752ee"
+        ],
+        "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0d3dd9b6de5da4d3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-092714fbe86bf371"
+        ],
+        "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-142450486b0605df",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-610e4467bc8fa422"
+        ],
+        "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-40a991d6dc46f52e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-610e4467bc8fa422"
+        ],
+        "draft_excerpt": "在省内层面，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1766bdd072e02188",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-96dd07bdf40a7e72"
+        ],
+        "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e3d3bc7a9c47a36b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-16d5481c5b5d4211"
+        ],
+        "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0e87b4a3e5296a0e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-04df77c2fa1e32f9"
+        ],
+        "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-650b9ef6f6b4c123",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d01c5a7f596bca19"
+        ],
+        "draft_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-14582ccfc1e20ab0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d272d999f2d5fe2d"
+        ],
+        "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2637b1f7eb252c6b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bad33e6cc72b0ed1"
+        ],
+        "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0d7285c5a9c97ff9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-953470e02bae0546"
+        ],
+        "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-08deff28ff819b2c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-32bd6a841cd4da5f"
+        ],
+        "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-299277a3ac55ee96",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e7f231ab46f58164"
+        ],
+        "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b31ea9cf1cae71d3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-0163a4414c98d862",
+          "draft_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-74bd408177cad047",
+          "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fe0b2d6c497e6e2a",
+          "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2d818bd1c600ab69",
+          "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-778f9b76037752ee",
+          "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-092714fbe86bf371",
+          "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-610e4467bc8fa422",
+          "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-96dd07bdf40a7e72",
+          "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-16d5481c5b5d4211",
+          "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-04df77c2fa1e32f9",
+          "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-04df77c2fa1e32f9",
+            "claim-74bd408177cad047"
+          ],
+          "draft_excerpt": "成都市在基础设施建设及公共服务建设领域的区域合作，主要依托省内市（州）共建共享，并逐步向西部其他地区、京津冀和粤港澳等国内重点区域拓展。",
+          "finding": "supported",
+          "sentence_id": "sentence-789c25474dec4c03",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0163a4414c98d862"
+          ],
+          "draft_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-4197684b109e3b30",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-74bd408177cad047"
+          ],
+          "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+          "finding": "supported",
+          "sentence_id": "sentence-835a57ac5479d852",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fe0b2d6c497e6e2a"
+          ],
+          "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-4e49d4a73997e93f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2d818bd1c600ab69"
+          ],
+          "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+          "finding": "supported",
+          "sentence_id": "sentence-efe00166afe60b1f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-778f9b76037752ee"
+          ],
+          "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+          "finding": "supported",
+          "sentence_id": "sentence-0d3dd9b6de5da4d3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-092714fbe86bf371"
+          ],
+          "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-142450486b0605df",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-610e4467bc8fa422"
+          ],
+          "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+          "finding": "supported",
+          "sentence_id": "sentence-40a991d6dc46f52e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-610e4467bc8fa422"
+          ],
+          "draft_excerpt": "在省内层面，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异。",
+          "finding": "supported",
+          "sentence_id": "sentence-1766bdd072e02188",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-96dd07bdf40a7e72"
+          ],
+          "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+          "finding": "supported",
+          "sentence_id": "sentence-e3d3bc7a9c47a36b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-16d5481c5b5d4211"
+          ],
+          "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-0e87b4a3e5296a0e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-04df77c2fa1e32f9"
+          ],
+          "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+          "finding": "supported",
+          "sentence_id": "sentence-650b9ef6f6b4c123",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-d01c5a7f596bca19",
+          "draft_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d272d999f2d5fe2d",
+          "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bad33e6cc72b0ed1",
+          "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-953470e02bae0546",
+          "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-32bd6a841cd4da5f",
+          "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e7f231ab46f58164",
+          "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-d01c5a7f596bca19"
+          ],
+          "draft_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+          "finding": "supported",
+          "sentence_id": "sentence-14582ccfc1e20ab0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d272d999f2d5fe2d"
+          ],
+          "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+          "finding": "supported",
+          "sentence_id": "sentence-2637b1f7eb252c6b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bad33e6cc72b0ed1"
+          ],
+          "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+          "finding": "supported",
+          "sentence_id": "sentence-0d7285c5a9c97ff9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-953470e02bae0546"
+          ],
+          "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-08deff28ff819b2c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-32bd6a841cd4da5f"
+          ],
+          "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-299277a3ac55ee96",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e7f231ab46f58164"
+          ],
+          "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+          "finding": "supported",
+          "sentence_id": "sentence-b31ea9cf1cae71d3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "7e02e3d7d5517c74fb06f873bf88805342dfc97fe8fe206f6586c4697f5a5574",
+  "coverage_history": [
+    {
+      "draft_sha256": "41fc44d422cb57349922b07c6a7653050aa3afc2ff4c493e81263ab2305a05f2",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-0163a4414c98d862",
+            "draft_excerpt": "成都市的区域合作以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-74bd408177cad047",
+            "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe0b2d6c497e6e2a",
+            "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2d818bd1c600ab69",
+            "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-778f9b76037752ee",
+            "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-092714fbe86bf371",
+            "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-610e4467bc8fa422",
+            "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-96dd07bdf40a7e72",
+            "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-16d5481c5b5d4211",
+            "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04df77c2fa1e32f9",
+            "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d272d999f2d5fe2d",
+            "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bad33e6cc72b0ed1",
+            "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-953470e02bae0546",
+            "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32bd6a841cd4da5f",
+            "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e7f231ab46f58164",
+            "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d01c5a7f596bca19",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0163a4414c98d862",
+              "claim-74bd408177cad047",
+              "claim-04df77c2fa1e32f9"
+            ],
+            "draft_excerpt": "成都市在基础设施建设及公共服务建设领域的区域合作，主要依托省内市（州）共建共享，并逐步向西部其他地区、京津冀和粤港澳等国内重点区域拓展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-789c25474dec4c03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0163a4414c98d862"
+            ],
+            "draft_excerpt": "成都市的区域合作以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da0bbc17492c22bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74bd408177cad047"
+            ],
+            "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-835a57ac5479d852",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fe0b2d6c497e6e2a"
+            ],
+            "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e49d4a73997e93f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2d818bd1c600ab69"
+            ],
+            "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-efe00166afe60b1f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-778f9b76037752ee"
+            ],
+            "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d3dd9b6de5da4d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-092714fbe86bf371"
+            ],
+            "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-142450486b0605df",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-610e4467bc8fa422"
+            ],
+            "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40a991d6dc46f52e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-610e4467bc8fa422"
+            ],
+            "draft_excerpt": "在省内层面，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1766bdd072e02188",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-96dd07bdf40a7e72"
+            ],
+            "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3d3bc7a9c47a36b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-16d5481c5b5d4211"
+            ],
+            "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e87b4a3e5296a0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04df77c2fa1e32f9"
+            ],
+            "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-650b9ef6f6b4c123",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d272d999f2d5fe2d"
+            ],
+            "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d95f4667f90d1ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bad33e6cc72b0ed1"
+            ],
+            "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-65bc8604553b540e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-953470e02bae0546"
+            ],
+            "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7fe6f534e467729",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32bd6a841cd4da5f"
+            ],
+            "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5147f0b6a68b86d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e7f231ab46f58164"
+            ],
+            "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e7fb9acc19a55cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "7e02e3d7d5517c74fb06f873bf88805342dfc97fe8fe206f6586c4697f5a5574",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-0163a4414c98d862",
+            "draft_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-74bd408177cad047",
+            "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe0b2d6c497e6e2a",
+            "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2d818bd1c600ab69",
+            "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-778f9b76037752ee",
+            "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-092714fbe86bf371",
+            "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-610e4467bc8fa422",
+            "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-96dd07bdf40a7e72",
+            "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-16d5481c5b5d4211",
+            "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04df77c2fa1e32f9",
+            "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d01c5a7f596bca19",
+            "draft_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d272d999f2d5fe2d",
+            "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bad33e6cc72b0ed1",
+            "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-953470e02bae0546",
+            "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32bd6a841cd4da5f",
+            "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e7f231ab46f58164",
+            "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-04df77c2fa1e32f9",
+              "claim-74bd408177cad047"
+            ],
+            "draft_excerpt": "成都市在基础设施建设及公共服务建设领域的区域合作，主要依托省内市（州）共建共享，并逐步向西部其他地区、京津冀和粤港澳等国内重点区域拓展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-789c25474dec4c03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0163a4414c98d862"
+            ],
+            "draft_excerpt": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4197684b109e3b30",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74bd408177cad047"
+            ],
+            "draft_excerpt": "在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-835a57ac5479d852",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fe0b2d6c497e6e2a"
+            ],
+            "draft_excerpt": "从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e49d4a73997e93f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2d818bd1c600ab69"
+            ],
+            "draft_excerpt": "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-efe00166afe60b1f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-778f9b76037752ee"
+            ],
+            "draft_excerpt": "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d3dd9b6de5da4d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-092714fbe86bf371"
+            ],
+            "draft_excerpt": "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-142450486b0605df",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-610e4467bc8fa422"
+            ],
+            "draft_excerpt": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-40a991d6dc46f52e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-610e4467bc8fa422"
+            ],
+            "draft_excerpt": "在省内层面，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1766bdd072e02188",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-96dd07bdf40a7e72"
+            ],
+            "draft_excerpt": "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3d3bc7a9c47a36b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-16d5481c5b5d4211"
+            ],
+            "draft_excerpt": "与川南经济区主要以南向出川通道共建为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e87b4a3e5296a0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04df77c2fa1e32f9"
+            ],
+            "draft_excerpt": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-650b9ef6f6b4c123",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d01c5a7f596bca19"
+            ],
+            "draft_excerpt": "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14582ccfc1e20ab0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d272d999f2d5fe2d"
+            ],
+            "draft_excerpt": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2637b1f7eb252c6b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bad33e6cc72b0ed1"
+            ],
+            "draft_excerpt": "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d7285c5a9c97ff9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-953470e02bae0546"
+            ],
+            "draft_excerpt": "成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08deff28ff819b2c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32bd6a841cd4da5f"
+            ],
+            "draft_excerpt": "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-299277a3ac55ee96",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e7f231ab46f58164"
+            ],
+            "draft_excerpt": "成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b31ea9cf1cae71d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。在基础设施建设方面，合作对象主要分布在省内市（州），并逐步向国内重点区域拓展。从国内层面来看，合作对象主要以东部沿海城市为主，同时与中西部少数城市进行了相关合作。\n\n截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案。此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。\n\n2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作。成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。在省内层面，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异。成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变；与川南经济区主要以南向出川通道共建为主。\n\n成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助。2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建。\n\n在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流。成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。\n\n在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现。",
+    "description": "成都市在基础设施建设及公共服务建设领域的区域合作，主要依托省内市（州）共建共享，并逐步向西部其他地区、京津冀和粤港澳等国内重点区域拓展。",
+    "ref": {
+      "asset_hints": [
+        "image-154",
+        "image-155",
+        "image-156"
+      ],
+      "concept_id": "topic-69b3f4b8aefc",
+      "description": "成都市在基础设施建设及公共服务建设领域的区域合作，主要依托省内市（州）共建共享，并逐步向西部其他地区、京津冀和粤港澳等国内重点区域拓展。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "成都在基础设施建设方面的合作对象主要分布在省内市（州）。",
+        "截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案",
+        "此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。",
+        "2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作",
+        "从国内层面来看，成都开展基础设施建设合作对象主要以东部沿海城市为主，2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作，与中西部少数城市进行了相关合作。",
+        "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。从省内层面来看，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异",
+        "成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变",
+        "与川南经济区主要以南向出川通道共建为主",
+        "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。",
+        "在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助",
+        "在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流",
+        "在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。",
+        "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建",
+        "在医疗卫生方面，成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。",
+        "在就业与社会保障方面，成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现",
+        "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。"
+      ],
+      "evidence_block_ids": [
+        "blk-99ae4437c0284ab6b7b8",
+        "blk-1c38811c41a5a257d7a0",
+        "blk-6762917f0c94e32b8a20",
+        "blk-c36c1be33e70cb275108",
+        "blk-cc5c84c242de4d036229",
+        "blk-6ec8d27b048ddf7bf91a"
+      ],
+      "page_end": 79,
+      "page_start": 49,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都区域合作总体情况与基础设施共建范围",
+      "type": "分析框架"
+    },
+    "title": "成都区域合作总体情况与基础设施共建范围"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-4fe33a289651:bundle-d00d6328498e",
+      "excluded_fragments": [],
+      "ref_id": "ref-4fe33a289651",
+      "source_blocks": [
+        {
+          "block_id": "blk-99ae4437c0284ab6b7b8",
+          "page_number": 78,
+          "text": "成都在基础设施建设方面的合作对象主要分布在省内市（州）。从省内层面来看，成都与省内市（州）均有不同程度的基础设施建设合作，主要合作区域为环成都经济圈，截至2018年底，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安均针对交通等基础设施合作签署了协议或制定了行动计划、实施方案；此外，成都与川南经济区、川东北经济区和攀西经济区大部分市（州）也签订了合作协议，而与川西北生态示范区相关市（州）合作相对较少。从国内层面来看，成都开展基础设施建设合作对象主要以东部沿海城市为主，2017—2018年，成都与北京、上海、天津、香港、深圳、厦门、无锡等东部重点城市开展了交通、市政等基础设施建设合作，与中西部少数城市进行了相关合作。"
+        },
+        {
+          "block_id": "blk-1c38811c41a5a257d7a0",
+          "page_number": 78,
+          "text": "成都与省内市（州）开展基础设施建设合作领域比较集中，而与国内区域合作领域涉及广泛。从省内层面来看，交通共建是基础设施建设合作的主题，但就省内不同经济区而言，其具体合作内容仍有差异，成都与环成都经济圈主要由原来以交通设施互联互通为主的合作向交通设施一体化布局转变，在城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面开展紧密合作；与川南经济区主要以南向出川通道共建为主，在多式联运通道建设、高速公路建设、铁路建设等方面开展紧密合作；与川东北经济区主要在航空、铁路、高速公路等北向出川通道建设方面开展合作；与川西北生态示范区和攀西经济区主要在高速公路扩容改造、航班加密、高铁建设等互联互通方面开展合作。从国内层面来看，成都与其他区域合作仍以交通基础设施领域为主，也涉及市政基础设施、地下综合管廊等市政设施、信息基础设施、能源基础设施等领域，但多数合作仍处"
+        },
+        {
+          "block_id": "blk-6f18c646f85801ff3ddc",
+          "page_number": 79,
+          "text": "于协议签署阶段，合作项目有待进一步推动落实。"
+        },
+        {
+          "block_id": "blk-2e0fb71c7dd9c921d818",
+          "page_number": 79,
+          "text": "成都与其他地区开展基础设施建设合作的形式呈现多样化的特征，其中，省内层面主要以政府间签订共建协议为主，国内层面主要以企业跨区域投资建设为主。从省内层面来看，成都与德阳、眉山、资阳、内江等市在政府层面均签订了基础设施框架合作协议、项目共建协议，积极搭建基础设施建设顶层设计，协同推动区域间交通、水利、信息等基础设施重大工程建设。从国内层面看，成都与其他城市合作主要表现为政府与企业签订战略合作协议，推动企业投资建设基础设施项目；企业间的合作也是基础设施建设合作的重要形式，已有多家在蓉企业与北京、天津、香港等地企业开展基础设施项目建设合作。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-9f680209b362:bundle-a4653488d4f2",
+      "excluded_fragments": [],
+      "ref_id": "ref-9f680209b362",
+      "source_blocks": [
+        {
+          "block_id": "blk-69b6639c007c791621f4",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-51861442cf9048d44ff6",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-6622a7f09159fac444df",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-be7c4881e361aed965ad",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-2f2ec4efa76d0ab58773",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-6762917f0c94e32b8a20",
+          "page_number": 49,
+          "text": "成都市公共服务建设在巩固省内市（州）共建共享基础上，也在向西部其他地区、京津冀和粤港澳地区扩展。在教育合作方面，成都市以成都平原经济区、川南经济区合作为主体，向川东北经济区和攀西经济区延伸，同时增强对川西北生态示范区教育服务援助；同时以网络教育为依托，通过线上线下相结合的方式拓展与西部省份教育协同。在医疗卫生方面，成都市与全省其他20个市（州）均开展了广泛的合作，另外还与西部地区南宁、贵阳等开展实质性交流，并进一步向全国其他地区扩展。在就业和社会保障方面，以成都平原经济区为主体，通过网络化服务共享，向省内其他四大区域延伸，与粤港澳、京津冀和长三角地区也开展了不同形式的合作。"
+        },
+        {
+          "block_id": "blk-c36c1be33e70cb275108",
+          "page_number": 49,
+          "text": "2019年，成都市在公共服务合作领域进一步扩大，在教育服务方面，通过跨区办学、研学实践和职教联盟实现教学模式共建；以数字教育资源为依托实现教学内容共"
+        },
+        {
+          "block_id": "blk-cc5c84c242de4d036229",
+          "page_number": 49,
+          "text": "享；以师资培养、学科建设、对外交流实现教学方法共建；以信息公开和制度互认实现教育信息共享。在医疗卫生方面，成都市与省内外其他市州在医疗服务、学科建设、科研攻关、公共卫生、应急联动、疾病防控、中医保健和人才交流等领域展开合作。在就业与社会保障方面，成都市与省内市（州）在人才引进与培养、就业创业环境优化和社保异地经办方面协同效果逐渐显现，并与全国其他区域在医疗保险异地结算和劳动保障监察方面开展广泛合作。"
+        },
+        {
+          "block_id": "blk-6ec8d27b048ddf7bf91a",
+          "page_number": 49,
+          "text": "成都市以政府部门合作为主导，带动企事业单位与省内外不同地区开展形式多样的区域合作。政府部门间主要通过教育局、卫健委、人社局和医保局等部门互访交流，并在具体事项签署合作协议或备忘录。政府部门和企事业单位间主要通过学校、医院等公共服务提供者采用校地合作、挂职交流等形式展开；企事业之间主要采取共同运营、服务协作、交流培训等方式实现共同发展。在教育事业领域，采取跨区办学、学校结对、教育联盟、资源共享、教师交流培训实现教育服务共建共享，同时采取校企的方式，增"
+        },
+        {
+          "block_id": "blk-a59af4a69bf757ba72df",
+          "page_number": 49,
+          "text": "强区域产学研合作能效。在医疗卫生领域，采取双向转诊、远程会诊实现医院联动，通过专业培训、科研合作、学术交流增强学科互动；开展联合演练、信息共享和“传帮带”等实现区域医疗服务协同发展。在人力"
+        },
+        {
+          "block_id": "blk-ca5f03592adf98b5fd08",
+          "page_number": 49,
+          "text": "资源协同方面，通过区域合作专场招聘会、岗位对接方式开展就业合作；以专题讲座、智力帮扶和职业培训信息共享优化就业创业环境。在社会保障方面，通过社保异地办理、医保跨区结算、创建人才服务联盟和劳动保障协查等形式加强与省内外地区合作。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-69b3f4b8aefc",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-4fe33a289651",
+    "ref-9f680209b362"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

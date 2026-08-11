@@ -1,0 +1,528 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在“注重人才支撑”方面，如何深化干部人事制度改革并构建市场化管理体系及培训机制？",
+    "claims": [
+      {
+        "claim": "深化干部人事制度改革，建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+        "claim_id": "claim-959adabc8c8d3eb5",
+        "evidence_block_ids": [
+          "blk-c624bfd488d3bd80d071"
+        ],
+        "evidence_excerpt": "深化干部人事制度改革，建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+        "evidence_id": "ref-f8624de2e048:bundle-dfbd986f1c94",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          148
+        ],
+        "ref_id": "ref-f8624de2e048",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "按照对比管理原则，分层、分类、分批开展干部和从业人员培训。",
+        "claim_id": "claim-c90c5947d95e8897",
+        "evidence_block_ids": [
+          "blk-c624bfd488d3bd80d071"
+        ],
+        "evidence_excerpt": "按照对比管理原则，分层、分类、分批开展干部和从业人员培训。",
+        "evidence_id": "ref-f8624de2e048:bundle-dfbd986f1c94",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          148
+        ],
+        "ref_id": "ref-f8624de2e048",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "充分整合国内外专家学者、高校机构、社会组织等资源，建立健全成都自贸试验区专家咨询委员会。",
+        "claim_id": "claim-661b3932b5ac0ab5",
+        "evidence_block_ids": [
+          "blk-c624bfd488d3bd80d071"
+        ],
+        "evidence_excerpt": "充分整合国内外专家学者、高校机构、社会组织等资源，建立健全成都自贸试验区专家咨询委员会，搭建课题研究智库、人才培训基地和对外宣传平台。",
+        "evidence_id": "ref-f8624de2e048:bundle-dfbd986f1c94",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          148
+        ],
+        "ref_id": "ref-f8624de2e048",
+        "scope": {
+          "region": [
+            "成都自贸试验区"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "搭建课题研究智库、人才培训基地和对外宣传平台。",
+        "claim_id": "claim-2e0f3d1b9119deae",
+        "evidence_block_ids": [
+          "blk-c624bfd488d3bd80d071"
+        ],
+        "evidence_excerpt": "充分整合国内外专家学者、高校机构、社会组织等资源，建立健全成都自贸试验区专家咨询委员会，搭建课题研究智库、人才培训基地和对外宣传平台。",
+        "evidence_id": "ref-f8624de2e048:bundle-dfbd986f1c94",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          148
+        ],
+        "ref_id": "ref-f8624de2e048",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-959adabc8c8d3eb5",
+          "claim-c90c5947d95e8897",
+          "claim-661b3932b5ac0ab5",
+          "claim-2e0f3d1b9119deae"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-f8624de2e048:bundle-dfbd986f1c94",
+        "reason": "该Bundle包含改革目标、管理原则、培训方式及资源平台等关键事实，是回答中心问题所必需的原子事实来源。"
+      }
+    ],
+    "group_id": "topic-a8fe9c632dcb",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了干部人事制度改革的核心内容（聘用制、岗位管理、市场化体系）以及配套的人才培训与智库建设措施，完整覆盖了分析框架中关于主体、核心判断及实施路径的要素。",
+        "ref_id": "ref-f8624de2e048",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-959adabc8c8d3eb5",
+        "draft_excerpt": "注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c90c5947d95e8897",
+        "draft_excerpt": "该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-661b3932b5ac0ab5",
+        "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+        "finding": "draft_excerpt contains '建立健全成都自贸试验区专家咨询委员会' and '搭建...智库、人才培训基地和对外宣传平台', covering the claim's resources and committee establishment.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2e0f3d1b9119deae",
+        "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+        "finding": "draft_excerpt contains '搭建课题研究智库、人才培训基地和对外宣传平台'.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-959adabc8c8d3eb5",
+          "claim-c90c5947d95e8897",
+          "claim-661b3932b5ac0ab5"
+        ],
+        "draft_excerpt": "通过深化干部人事制度改革、实施分层分类培训及整合专家资源，构建市场化的人才支撑体系。",
+        "finding": "Summarizes claims 959, c90c, and 661b.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-50b763160ea19ea0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-959adabc8c8d3eb5"
+        ],
+        "draft_excerpt": "注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+        "finding": "Matches claim 959adabc8c8d3eb5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d616b84ba8f3eecc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c90c5947d95e8897"
+        ],
+        "draft_excerpt": "该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。",
+        "finding": "Matches claim c90c5947d95e8897.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4a81e47f7c03ab00",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-661b3932b5ac0ab5"
+        ],
+        "draft_excerpt": "为强化人才支撑，需充分整合国内外专家学者、高校机构及社会组织等资源。",
+        "finding": "Matches the resource integration part of claim 661b3932b5ac0ab5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7bfccc354ad020ae",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-661b3932b5ac0ab5",
+          "claim-2e0f3d1b9119deae"
+        ],
+        "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+        "finding": "Matches claim 661b3932b5ac0ab5 (committee) and claim 2e0f3d1b9119deae (platforms).",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-00b6c01b36358e98",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-661b3932b5ac0ab5"
+        ],
+        "draft_excerpt": "整合国内外专家学者、高校机构、社会组织等资源",
+        "finding": "Matches the resource integration part of claim 661b3932b5ac0ab5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9e2b657ac950badd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-661b3932b5ac0ab5"
+        ],
+        "draft_excerpt": "建立健全成都自贸试验区专家咨询委员会",
+        "finding": "Matches the committee part of claim 661b3932b5ac0ab5.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3af98037f4811adc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2e0f3d1b9119deae"
+        ],
+        "draft_excerpt": "搭建课题研究智库、人才培训基地和对外宣传平台",
+        "finding": "Matches claim 2e0f3d1b9119deae.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3762de04b8b60ee9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-959adabc8c8d3eb5",
+          "draft_excerpt": "注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c90c5947d95e8897",
+          "draft_excerpt": "该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-661b3932b5ac0ab5",
+          "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+          "finding": "draft_excerpt contains '建立健全成都自贸试验区专家咨询委员会' and '搭建...智库、人才培训基地和对外宣传平台', covering the claim's resources and committee establishment.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2e0f3d1b9119deae",
+          "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+          "finding": "draft_excerpt contains '搭建课题研究智库、人才培训基地和对外宣传平台'.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-959adabc8c8d3eb5",
+            "claim-c90c5947d95e8897",
+            "claim-661b3932b5ac0ab5"
+          ],
+          "draft_excerpt": "通过深化干部人事制度改革、实施分层分类培训及整合专家资源，构建市场化的人才支撑体系。",
+          "finding": "Summarizes claims 959, c90c, and 661b.",
+          "sentence_id": "sentence-50b763160ea19ea0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-959adabc8c8d3eb5"
+          ],
+          "draft_excerpt": "注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+          "finding": "Matches claim 959adabc8c8d3eb5.",
+          "sentence_id": "sentence-d616b84ba8f3eecc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c90c5947d95e8897"
+          ],
+          "draft_excerpt": "该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。",
+          "finding": "Matches claim c90c5947d95e8897.",
+          "sentence_id": "sentence-4a81e47f7c03ab00",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-661b3932b5ac0ab5"
+          ],
+          "draft_excerpt": "为强化人才支撑，需充分整合国内外专家学者、高校机构及社会组织等资源。",
+          "finding": "Matches the resource integration part of claim 661b3932b5ac0ab5.",
+          "sentence_id": "sentence-7bfccc354ad020ae",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-661b3932b5ac0ab5",
+            "claim-2e0f3d1b9119deae"
+          ],
+          "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+          "finding": "Matches claim 661b3932b5ac0ab5 (committee) and claim 2e0f3d1b9119deae (platforms).",
+          "sentence_id": "sentence-00b6c01b36358e98",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-661b3932b5ac0ab5"
+          ],
+          "draft_excerpt": "整合国内外专家学者、高校机构、社会组织等资源",
+          "finding": "Matches the resource integration part of claim 661b3932b5ac0ab5.",
+          "sentence_id": "sentence-9e2b657ac950badd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-661b3932b5ac0ab5"
+          ],
+          "draft_excerpt": "建立健全成都自贸试验区专家咨询委员会",
+          "finding": "Matches the committee part of claim 661b3932b5ac0ab5.",
+          "sentence_id": "sentence-3af98037f4811adc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2e0f3d1b9119deae"
+          ],
+          "draft_excerpt": "搭建课题研究智库、人才培训基地和对外宣传平台",
+          "finding": "Matches claim 2e0f3d1b9119deae.",
+          "sentence_id": "sentence-3762de04b8b60ee9",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "21040fca63672eb53a732eb7231783141f255cb4c320f9ec2dc3f5aa6ef0ca46",
+  "coverage_history": [
+    {
+      "draft_sha256": "21040fca63672eb53a732eb7231783141f255cb4c320f9ec2dc3f5aa6ef0ca46",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-959adabc8c8d3eb5",
+            "draft_excerpt": "注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c90c5947d95e8897",
+            "draft_excerpt": "该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-661b3932b5ac0ab5",
+            "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+            "finding": "draft_excerpt contains '建立健全成都自贸试验区专家咨询委员会' and '搭建...智库、人才培训基地和对外宣传平台', covering the claim's resources and committee establishment.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2e0f3d1b9119deae",
+            "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+            "finding": "draft_excerpt contains '搭建课题研究智库、人才培训基地和对外宣传平台'.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-959adabc8c8d3eb5",
+              "claim-c90c5947d95e8897",
+              "claim-661b3932b5ac0ab5"
+            ],
+            "draft_excerpt": "通过深化干部人事制度改革、实施分层分类培训及整合专家资源，构建市场化的人才支撑体系。",
+            "finding": "Summarizes claims 959, c90c, and 661b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-50b763160ea19ea0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-959adabc8c8d3eb5"
+            ],
+            "draft_excerpt": "注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+            "finding": "Matches claim 959adabc8c8d3eb5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d616b84ba8f3eecc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c90c5947d95e8897"
+            ],
+            "draft_excerpt": "该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。",
+            "finding": "Matches claim c90c5947d95e8897.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a81e47f7c03ab00",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-661b3932b5ac0ab5"
+            ],
+            "draft_excerpt": "为强化人才支撑，需充分整合国内外专家学者、高校机构及社会组织等资源。",
+            "finding": "Matches the resource integration part of claim 661b3932b5ac0ab5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7bfccc354ad020ae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-661b3932b5ac0ab5",
+              "claim-2e0f3d1b9119deae"
+            ],
+            "draft_excerpt": "通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。",
+            "finding": "Matches claim 661b3932b5ac0ab5 (committee) and claim 2e0f3d1b9119deae (platforms).",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00b6c01b36358e98",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-661b3932b5ac0ab5"
+            ],
+            "draft_excerpt": "整合国内外专家学者、高校机构、社会组织等资源",
+            "finding": "Matches the resource integration part of claim 661b3932b5ac0ab5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9e2b657ac950badd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-661b3932b5ac0ab5"
+            ],
+            "draft_excerpt": "建立健全成都自贸试验区专家咨询委员会",
+            "finding": "Matches the committee part of claim 661b3932b5ac0ab5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3af98037f4811adc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2e0f3d1b9119deae"
+            ],
+            "draft_excerpt": "搭建课题研究智库、人才培训基地和对外宣传平台",
+            "finding": "Matches claim 2e0f3d1b9119deae.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3762de04b8b60ee9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n注重人才支撑的核心在于深化干部人事制度改革，旨在建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。\n\n该体系强调按照对比管理原则，对干部和从业人员进行分层、分类、分批的培训，以提升整体专业能力。\n\n## 资源与平台支撑\n\n为强化人才支撑，需充分整合国内外专家学者、高校机构及社会组织等资源。\n\n通过建立健全成都自贸试验区专家咨询委员会，搭建集课题研究智库、人才培训基地和对外宣传平台于一体的综合支撑体系。\n\n- 整合国内外专家学者、高校机构、社会组织等资源\n- 建立健全成都自贸试验区专家咨询委员会\n- 搭建课题研究智库、人才培训基地和对外宣传平台",
+    "description": "通过深化干部人事制度改革、实施分层分类培训及整合专家资源，构建市场化的人才支撑体系。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-a8fe9c632dcb",
+      "description": "深化干部人事制度改革，建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "深化干部人事制度改革，建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。",
+        "按照对比管理原则，分层、分类、分批开展干部和从业人员培训。",
+        "充分整合国内外专家学者、高校机构、社会组织等资源，建立健全成都自贸试验区专家咨询委员会，搭建课题研究智库、人才培训基地和对外宣传平台。"
+      ],
+      "evidence_block_ids": [
+        "blk-c624bfd488d3bd80d071"
+      ],
+      "page_end": 148,
+      "page_start": 148,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二）注重人才支撑。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "注重人才支撑。",
+      "type": "分析框架"
+    },
+    "title": "注重人才支撑"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-f8624de2e048:bundle-dfbd986f1c94",
+      "excluded_fragments": [],
+      "ref_id": "ref-f8624de2e048",
+      "source_blocks": [
+        {
+          "block_id": "blk-c624bfd488d3bd80d071",
+          "page_number": 148,
+          "text": "深化干部人事制度改革，建立健全以聘用制和岗位管理为核心的市场化干部人事管理体系。按照对比管理原则，分层、分类、分批开展干部和从业人员培训。充分整合国内外专家学者、高校机构、社会组织等资源，建立健全成都自贸试验区专家咨询委员会，搭建课题研究智库、人才培训基地和对外宣传平台。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-a8fe9c632dcb",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-f8624de2e048"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

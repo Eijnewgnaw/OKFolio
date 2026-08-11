@@ -1,0 +1,2679 @@
+{
+  "contract": {
+    "canonical_question": "国家层面“一带一路”高质量发展新部署与成渝地区双城经济圈战略定位如何协同支撑西部高质量发展增长极及向西开放战略高地建设？",
+    "claims": [
+      {
+        "claim": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署。",
+        "claim_id": "claim-cd6a2ecfe1e879b7",
+        "evidence_block_ids": [
+          "blk-367321e09ac0d221fc26"
+        ],
+        "evidence_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {
+          "time": [
+            "2021年11月"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+        "claim_id": "claim-9c32675732ae40ac",
+        "evidence_block_ids": [
+          "blk-367321e09ac0d221fc26"
+        ],
+        "evidence_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {},
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国家层面重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+        "claim_id": "claim-8e8c216d88838f93",
+        "evidence_block_ids": [
+          "blk-f18e5ac270770637731c"
+        ],
+        "evidence_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          53
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {},
+        "slot": "implementation_path",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都应深度融入“一带一路”建设，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+        "claim_id": "claim-9bfc0baca6aeb0c0",
+        "evidence_block_ids": [
+          "blk-efa1d2b548f885d93297"
+        ],
+        "evidence_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          54
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {
+          "object": [
+            "成都"
+          ]
+        },
+        "slot": "target_group",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+        "claim_id": "claim-3594674a496f2eb6",
+        "evidence_block_ids": [
+          "blk-b16473bd352fabc6ee17",
+          "blk-d89d8949e08da1f36462"
+        ],
+        "evidence_excerpt": "加快建设亚蓉欧航空枢纽。充分发挥双机场优势，促进“两场一体”高水平运营，稳妥推进国际客运航线复飞和货运航线拓展，进一步织密国际航线网络，提升与国际航空枢纽航点航班频次，持续提高“全货机+包机+客改货+腹仓”多元航空物流服务水平，建设中西部面向全球的航空门户枢纽、洲际航空中转枢纽和航空货物转运中心。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          54,
+          55
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {
+          "object": [
+            "成都"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+        "claim_id": "claim-9950abd9581dbdf5",
+        "evidence_block_ids": [
+          "blk-d89d8949e08da1f36462"
+        ],
+        "evidence_excerpt": "积极打造泛欧泛亚陆港枢纽。持续推进中欧班列与西部陆海新通道互联互融，加快落实中欧班列集结中心示范工程项目，加强“一带一路”多式联运综合试验区建设；紧抓中老铁路开通契机，加密成都至老挝国际铁路班列开行频次，推动提升对外通道能级。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          55
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {
+          "object": [
+            "成都"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+        "claim_id": "claim-0dda38ecfad81802",
+        "evidence_block_ids": [
+          "blk-a3e88389347fcc016a24"
+        ],
+        "evidence_excerpt": "推进自贸区改革创新与协同开放。主动设计开展“成都首创”改革试验，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地，争取设立自贸试验区成都东部新区新片区。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          55
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {
+          "object": [
+            "成都"
+          ]
+        },
+        "slot": "implementation_path",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+        "claim_id": "claim-39bc53da0acdc39d",
+        "evidence_block_ids": [
+          "blk-383cbc9421503f99d841"
+        ],
+        "evidence_excerpt": "推动对外贸易“上量提质”。深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作，拓展外贸市场。",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          55
+        ],
+        "ref_id": "ref-8327453df4bb",
+        "scope": {
+          "object": [
+            "成都"
+          ]
+        },
+        "slot": "expected_effect",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。”",
+        "claim_id": "claim-4996e2b6f90e5be6",
+        "evidence_block_ids": [
+          "blk-27c503148fb07e1db701"
+        ],
+        "evidence_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。”这为深入推进双核联动联建，持续增强区域带动力和国际竞争力，提供了方向指引和根本遵循。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "time": [
+            "2023年7月"
+          ]
+        },
+        "slot": "target_problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设。",
+        "claim_id": "claim-ca2906fdaac4bcca",
+        "evidence_block_ids": [
+          "blk-27c503148fb07e1db701"
+        ],
+        "evidence_excerpt": "未来，成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成都",
+            "重庆"
+          ]
+        },
+        "slot": "implementation_path",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+        "claim_id": "claim-d6bfe196852cfc8a",
+        "evidence_block_ids": [
+          "blk-bafa192aafc770f52f58"
+        ],
+        "evidence_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程，加大力度推动四川跨境公路运输集散中心全面开工，协同开行西部陆海新通道铁海联运班列。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成渝地区"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+        "claim_id": "claim-b8fe8dea907f51fe",
+        "evidence_block_ids": [
+          "blk-d5ad82337aa662e02b57"
+        ],
+        "evidence_excerpt": "加快布局战略产业总部基地，率先梳理战略性产业发展趋势，门类和落地条件，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成渝地区"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+        "claim_id": "claim-a2da7c980f57779c",
+        "evidence_block_ids": [
+          "blk-efa4003ffedcf6c5c977"
+        ],
+        "evidence_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台，制作成渝双核科创资源地图，初步实现科技资源“一图尽览”，形成两地科技创新资源“共享池”。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成渝地区"
+          ]
+        },
+        "slot": "implementation_path",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+        "claim_id": "claim-95c21b483d4f537e",
+        "evidence_block_ids": [
+          "blk-17f7d5cc98c987d34f3d",
+          "blk-e8ec8a307158ca02ec5b"
+        ],
+        "evidence_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团，完善金融机构落户激励政策，加快引进境内外金融机构，鼓励国际多边开发金融机构设立服务共建“一带一路”、中欧班列和西部陆海新通道的业务拓展中心和运营管理中心，健全金融中介服务和专业服务体系。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146,
+          147
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成渝地区"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+        "claim_id": "claim-9310e20f22937e62",
+        "evidence_block_ids": [
+          "blk-9e9b7b9d29941d547349"
+        ],
+        "evidence_excerpt": "继续挖掘和开发两地文旅资源，进一步梳理两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造一批在文化传承、研学旅游、自驾游、房车露营等各方面的精品线路和产品，推出一批生活美学场景，加强产品供给，联动谋划，筹划好年度系列合作事项，共同向外地游客提供优惠政策，用好144小时过境免签政策，提供国际化、专业化旅游服务共建“入境消费友好型商圈”。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成渝地区"
+          ]
+        },
+        "slot": "measure",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+        "claim_id": "claim-26ac88c28105ec99",
+        "evidence_block_ids": [
+          "blk-9e9b7b9d29941d547349"
+        ],
+        "evidence_excerpt": "联合强化市场主体培育。遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动，孵化一批“成渝双城”文旅产业合作项目。",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          147
+        ],
+        "ref_id": "ref-99ce0811e4e8",
+        "scope": {
+          "object": [
+            "成渝地区"
+          ]
+        },
+        "slot": "implementer",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-cd6a2ecfe1e879b7",
+          "claim-9c32675732ae40ac",
+          "claim-8e8c216d88838f93",
+          "claim-9bfc0baca6aeb0c0",
+          "claim-3594674a496f2eb6",
+          "claim-9950abd9581dbdf5",
+          "claim-0dda38ecfad81802",
+          "claim-39bc53da0acdc39d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+        "reason": "该Bundle包含“一带一路”新部署的核心目标、实施路径及成都具体落实措施，直接回答中心问题中关于国家战略与区域协同的部分。"
+      },
+      {
+        "claim_ids": [
+          "claim-4996e2b6f90e5be6",
+          "claim-ca2906fdaac4bcca",
+          "claim-d6bfe196852cfc8a",
+          "claim-b8fe8dea907f51fe",
+          "claim-a2da7c980f57779c",
+          "claim-95c21b483d4f537e",
+          "claim-9310e20f22937e62",
+          "claim-26ac88c28105ec99"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+        "reason": "该Bundle明确成渝双城经济圈的战略定位及具体实施路径，直接回答中心问题中关于区域协同与战略高地的部分。"
+      }
+    ],
+    "group_id": "proposition-4137bc2a9114",
+    "members": [
+      {
+        "contribution": "提供2021年“一带一路”高质量发展新部署的核心目标与实施路径，明确高标准、可持续、惠民生导向及双循环衔接要求。",
+        "ref_id": "ref-8327453df4bb",
+        "relation": "supports"
+      },
+      {
+        "contribution": "明确成渝双城经济圈作为西部高质量发展增长极和向西开放战略高地的具体定位与实施重点。",
+        "ref_id": "ref-99ce0811e4e8",
+        "relation": "applies_to"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-cd6a2ecfe1e879b7",
+        "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9c32675732ae40ac",
+        "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8e8c216d88838f93",
+        "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4996e2b6f90e5be6",
+        "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9bfc0baca6aeb0c0",
+        "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ca2906fdaac4bcca",
+        "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3594674a496f2eb6",
+        "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9950abd9581dbdf5",
+        "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0dda38ecfad81802",
+        "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-39bc53da0acdc39d",
+        "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d6bfe196852cfc8a",
+        "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b8fe8dea907f51fe",
+        "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a2da7c980f57779c",
+        "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-95c21b483d4f537e",
+        "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9310e20f22937e62",
+        "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-26ac88c28105ec99",
+        "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c6e9ed7f58ca3d0d",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-cd6a2ecfe1e879b7",
+          "claim-9c32675732ae40ac"
+        ],
+        "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8bb2d97240c7a9fe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-29e3ee1c86f4fff6",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-8e8c216d88838f93"
+        ],
+        "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4e710ddc29fd6bfc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4996e2b6f90e5be6"
+        ],
+        "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-23a3a32868980d0a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "”",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b1b2e9623f979e56",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-9bfc0baca6aeb0c0"
+        ],
+        "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ee58155b0e22a89c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ca2906fdaac4bcca"
+        ],
+        "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-349eb9a087a3d5bb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9c32675732ae40ac"
+        ],
+        "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4756150f7b37e8a5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3594674a496f2eb6"
+        ],
+        "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b8e287087936e007",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9950abd9581dbdf5"
+        ],
+        "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-025a80d1dce543e4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0dda38ecfad81802"
+        ],
+        "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ecc046932873775d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-39bc53da0acdc39d"
+        ],
+        "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d7b03047bda9da13",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d6bfe196852cfc8a"
+        ],
+        "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c036a7a74b8c8d27",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b8fe8dea907f51fe"
+        ],
+        "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3d9fe288a95ea548",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a2da7c980f57779c"
+        ],
+        "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ebb15432148d9f93",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-95c21b483d4f537e"
+        ],
+        "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5b9a086dc028cba1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9310e20f22937e62"
+        ],
+        "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a4dc269014fb9c89",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-26ac88c28105ec99"
+        ],
+        "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7542416bfe069fc7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "”",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-cd6a2ecfe1e879b7",
+          "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9c32675732ae40ac",
+          "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8e8c216d88838f93",
+          "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4996e2b6f90e5be6",
+          "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9bfc0baca6aeb0c0",
+          "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ca2906fdaac4bcca",
+          "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3594674a496f2eb6",
+          "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9950abd9581dbdf5",
+          "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0dda38ecfad81802",
+          "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-c6e9ed7f58ca3d0d",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-cd6a2ecfe1e879b7",
+            "claim-9c32675732ae40ac"
+          ],
+          "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-8bb2d97240c7a9fe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-29e3ee1c86f4fff6",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-8e8c216d88838f93"
+          ],
+          "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+          "finding": "supported",
+          "sentence_id": "sentence-4e710ddc29fd6bfc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4996e2b6f90e5be6"
+          ],
+          "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+          "finding": "supported",
+          "sentence_id": "sentence-23a3a32868980d0a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "”",
+          "finding": "unsupported",
+          "sentence_id": "sentence-b1b2e9623f979e56",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-9bfc0baca6aeb0c0"
+          ],
+          "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-ee58155b0e22a89c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ca2906fdaac4bcca"
+          ],
+          "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+          "finding": "supported",
+          "sentence_id": "sentence-349eb9a087a3d5bb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9c32675732ae40ac"
+          ],
+          "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+          "finding": "supported",
+          "sentence_id": "sentence-4756150f7b37e8a5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3594674a496f2eb6"
+          ],
+          "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+          "finding": "supported",
+          "sentence_id": "sentence-b8e287087936e007",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9950abd9581dbdf5"
+          ],
+          "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+          "finding": "supported",
+          "sentence_id": "sentence-025a80d1dce543e4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0dda38ecfad81802"
+          ],
+          "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+          "finding": "supported",
+          "sentence_id": "sentence-ecc046932873775d",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "”",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-39bc53da0acdc39d",
+          "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d6bfe196852cfc8a",
+          "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b8fe8dea907f51fe",
+          "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a2da7c980f57779c",
+          "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-95c21b483d4f537e",
+          "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9310e20f22937e62",
+          "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-26ac88c28105ec99",
+          "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-39bc53da0acdc39d"
+          ],
+          "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-d7b03047bda9da13",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d6bfe196852cfc8a"
+          ],
+          "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+          "finding": "supported",
+          "sentence_id": "sentence-c036a7a74b8c8d27",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b8fe8dea907f51fe"
+          ],
+          "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+          "finding": "supported",
+          "sentence_id": "sentence-3d9fe288a95ea548",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a2da7c980f57779c"
+          ],
+          "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+          "finding": "supported",
+          "sentence_id": "sentence-ebb15432148d9f93",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-95c21b483d4f537e"
+          ],
+          "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+          "finding": "supported",
+          "sentence_id": "sentence-5b9a086dc028cba1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9310e20f22937e62"
+          ],
+          "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+          "finding": "supported",
+          "sentence_id": "sentence-a4dc269014fb9c89",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-26ac88c28105ec99"
+          ],
+          "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+          "finding": "supported",
+          "sentence_id": "sentence-7542416bfe069fc7",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "285eaef4bd513716c6863f719ca0a10f2c04c79e249498ef49b01dbea7708f0b",
+  "coverage_history": [
+    {
+      "draft_sha256": "001364d0bb07dbeee267d0d8c729b55c2e35d8b56b031cb026742c045f999693",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd6a2ecfe1e879b7",
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，国家明确以高标准、可持续、惠民生为目标推动共建“一带一路”高质量发展。",
+            "finding": "本批句子正确表达了该claim的时间、会议名称及核心目标，与合同证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9c32675732ae40ac",
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，国家明确以高标准、可持续、惠民生为目标推动共建“一带一路”高质量发展。",
+            "finding": "本批句子完整保留了该claim关于高质量目标的表述，与合同证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4996e2b6f90e5be6",
+            "draft_excerpt": "2023年7月，国家明确提出加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "本批句子正确表达了该claim的时间、核心指示内容及战略定位，与合同证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca2906fdaac4bcca",
+            "draft_excerpt": "成渝双城经济圈建设以“五个互联互通”为重点，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设。",
+            "finding": "本批句子正确表达了该claim关于成渝双城经济圈以“五个互联互通”为重点及后续协同措施的内容，与合同证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9bfc0baca6aeb0c0",
+            "draft_excerpt": "成都深度融入“一带一路”建设，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "本批句子正确表达了该claim关于成都深度融入“一带一路”及建设国际门户枢纽的目标，与合同证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26ac88c28105ec99",
+            "draft_excerpt": "成渝地区联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源。",
+            "finding": "本批句子正确表达了该claim关于成渝地区联合提升产业、争取科技项目及加强金融竞争力的措施，与合同证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dda38ecfad81802",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-3594674a496f2eb6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-39bc53da0acdc39d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8e8c216d88838f93",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9310e20f22937e62",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-95c21b483d4f537e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9950abd9581dbdf5",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a2da7c980f57779c",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b8fe8dea907f51fe",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d6bfe196852cfc8a",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "综合解读2021年“一带一路”高质量发展新部署与2023年成渝双城经济圈战略定位，明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+            "finding": "该句为整体描述性语句，未包含具体可归因的合同claim事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74e81f31cbc9d169",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd6a2ecfe1e879b7",
+              "claim-9c32675732ae40ac"
+            ],
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，国家明确以高标准、可持续、惠民生为目标推动共建“一带一路”高质量发展。",
+            "finding": "该句完整覆盖了claim-cd6a2ecfe1e879b7和claim-9c32675732ae40ac的核心事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56669453ab7f3a5f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4996e2b6f90e5be6"
+            ],
+            "draft_excerpt": "2023年7月，国家明确提出加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "该句完整覆盖了claim-4996e2b6f90e5be6的核心事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c4809c6b75eca365",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "国家层面部署强调统筹考虑构建新发展格局与共建“一带一路”，聚焦新发力点，塑造新结合点。",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-540253c97f6896ff",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca2906fdaac4bcca"
+            ],
+            "draft_excerpt": "成渝双城经济圈建设以“五个互联互通”为重点，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设。",
+            "finding": "该句完整覆盖了claim-ca2906fdaac4bcca的核心事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70bcf12c840c7045",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "国家“一带一路”新部署注重夯实互信合作发展根基，完善陆、海、天、网“四位一体”互联互通布局；",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-033e03c783a34e0c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "支持稳妥探索健康、绿色、数字、创新等新领域合作；",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-609ca5a1e71aa897",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "强调更好服务新发展格局构建，优化战略通道布局。",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1945bdd88ce9cb2c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝双城经济圈建设聚焦共建国际性综合交通枢纽、世界级先进制造业集群、西部科学城、西部金融中心及现代化国际都市，全面提升区域带动力和国际竞争力。",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-425b79752a87c186",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9bfc0baca6aeb0c0"
+            ],
+            "draft_excerpt": "成都深度融入“一带一路”建设，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "该句完整覆盖了claim-9bfc0baca6aeb0c0的核心事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3ec0f9dfdf1d00d5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26ac88c28105ec99"
+            ],
+            "draft_excerpt": "成渝地区联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源。",
+            "finding": "该句完整覆盖了claim-26ac88c28105ec99的核心事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b160bbe674abbce7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年11月第三次“一带一路”建设座谈会部署",
+            "finding": "该句为标题或短语，未包含具体可归因的合同claim事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-556b1f6aaa9b36b0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2023年7月国家关于成渝区域协同发展的明确指示",
+            "finding": "该句仅为标题性短语，未包含任何可归因于合同claim的具体事实、数字或政策名称。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-756cd43a85b55719",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "国家层面部署强调统筹考虑构建新发展格局与共建“一带一路”，聚焦新发力点，塑造新结合点。",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。"
+          },
+          {
+            "draft_excerpt": "国家“一带一路”新部署注重夯实互信合作发展根基，完善陆、海、天、网“四位一体”互联互通布局；",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。"
+          },
+          {
+            "draft_excerpt": "支持稳妥探索健康、绿色、数字、创新等新领域合作；",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。"
+          },
+          {
+            "draft_excerpt": "强调更好服务新发展格局构建，优化战略通道布局。",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。"
+          },
+          {
+            "draft_excerpt": "成渝双城经济圈建设聚焦共建国际性综合交通枢纽、世界级先进制造业集群、西部科学城、西部金融中心及现代化国际都市，全面提升区域带动力和国际竞争力。",
+            "finding": "该句内容未在合同claim中直接体现，属于合同外事实或判断。"
+          },
+          {
+            "draft_excerpt": "2021年11月第三次“一带一路”建设座谈会部署",
+            "finding": "该句为标题或短语，未包含具体可归因的合同claim事实。"
+          },
+          {
+            "draft_excerpt": "2023年7月国家关于成渝区域协同发展的明确指示",
+            "finding": "该短语未包含合同要求的任何具体claim内容（如时间、地点、主体、措施等），属于合同外概括性表述。"
+          },
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2023年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "综合解读2021年“一带一路”高质量发展新部署与2023年成渝双城经济圈战略定位，明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+            "finding": "该句为整体描述性语句，未包含具体可归因的合同claim事实。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9921874166bb7baff5aa307c5e84387e13b43572afb443948a0ab5cf00b4ffd3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd6a2ecfe1e879b7",
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署。",
+            "finding": "本批句子正确表达了该claim，保留了时间、会议名称及核心动作。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8e8c216d88838f93",
+            "draft_excerpt": "国家层面重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "本批句子正确表达了该claim，保留了国家层面及四个重点方面。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4996e2b6f90e5be6",
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "本批句子正确表达了该claim，保留了时间、人物及核心战略定位表述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9bfc0baca6aeb0c0",
+            "draft_excerpt": "成都应深度融入“一带一路”建设，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "本批句子正确表达了该claim，保留了成都主体及门户枢纽城市目标。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca2906fdaac4bcca",
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设。",
+            "finding": "本批句子正确表达了该claim，保留了成渝双核主体及五个互联互通重点。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dda38ecfad81802",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-26ac88c28105ec99",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-3594674a496f2eb6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-39bc53da0acdc39d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9310e20f22937e62",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-95c21b483d4f537e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9950abd9581dbdf5",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9c32675732ae40ac",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a2da7c980f57779c",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b8fe8dea907f51fe",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d6bfe196852cfc8a",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "综合解读2021年“一带一路”高质量发展新部署与2023年成渝双城经济圈战略定位，明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+            "finding": "该句为对前文事实的总结性推断，未直接表达合同中的具体事实claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74e81f31cbc9d169",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd6a2ecfe1e879b7"
+            ],
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署。",
+            "finding": "该句直接对应claim-cd6a2ecfe1e879b7。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45a00f530df60989",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8e8c216d88838f93"
+            ],
+            "draft_excerpt": "国家层面重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "该句直接对应claim-8e8c216d88838f93。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5fe2c651f516b1f3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4996e2b6f90e5be6"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "该句直接对应claim-4996e2b6f90e5be6。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed1b382ff6a21b8a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "”",
+            "finding": "该句仅为标点符号，无实质事实内容。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-011e99dfeaf92cfc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9bfc0baca6aeb0c0"
+            ],
+            "draft_excerpt": "成都应深度融入“一带一路”建设，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "该句直接对应claim-9bfc0baca6aeb0c0。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5b4a42d5380a2e23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca2906fdaac4bcca"
+            ],
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设。",
+            "finding": "该句直接对应claim-ca2906fdaac4bcca。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af89681cfacf216d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "综合解读2021年“一带一路”高质量发展新部署与2023年成渝双城经济圈战略定位，明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+            "finding": "该句为对前文事实的总结性推断，未直接表达合同中的具体事实claim。"
+          },
+          {
+            "draft_excerpt": "”",
+            "finding": "该句仅为标点符号，无实质事实内容。"
+          },
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2023年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a5df9ce609292cdbef914fb7a008ce45b4caf9b8d45886b06d34fb8166b64e0c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd6a2ecfe1e879b7",
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署。",
+            "finding": "sentence-45a00f530df60989",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8e8c216d88838f93",
+            "draft_excerpt": "国家层面重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "sentence-5fe2c651f516b1f3",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4996e2b6f90e5be6",
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "sentence-ed1b382ff6a21b8a",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9bfc0baca6aeb0c0",
+            "draft_excerpt": "成都应深度融入“一带一路”建设，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "sentence-5b4a42d5380a2e23",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca2906fdaac4bcca",
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设。",
+            "finding": "sentence-af89681cfacf216d",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9c32675732ae40ac",
+            "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+            "finding": "sentence-229c2e991adc875f",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3594674a496f2eb6",
+            "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+            "finding": "sentence-9a28ae9861e90f76",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9950abd9581dbdf5",
+            "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+            "finding": "sentence-3c1f97983d26cc9d",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dda38ecfad81802",
+            "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+            "finding": "sentence-8a61c38c0e63afb3",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-39bc53da0acdc39d",
+            "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+            "finding": "sentence-81deae4d18a59527",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d6bfe196852cfc8a",
+            "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+            "finding": "本批句子完整复述了合同claim-d6bfe196852cfc8a的核心措施与对象（成渝地区/成渝中线高铁、成渝高速公路扩容工程），未改变时间、范围或政策名。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b8fe8dea907f51fe",
+            "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+            "finding": "本批句子完整复述了合同claim-b8fe8dea907f51fe的核心措施与对象（成渝地区/汽车、集成电路、新型显示等细分领域），未改变时间、范围或政策名。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2da7c980f57779c",
+            "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+            "finding": "本批句子完整复述了合同claim-a2da7c980f57779c的核心措施与对象（成渝地区/科创通平台），未改变时间、范围或政策名。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-95c21b483d4f537e",
+            "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+            "finding": "本批句子完整复述了合同claim-95c21b483d4f537e的核心措施与对象（成渝地区/大型金融机构、企业集团、科技创新企业等申请设立金融控股集团），未改变时间、范围或政策名。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9310e20f22937e62",
+            "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+            "finding": "本批句子完整复述了合同claim-9310e20f22937e62的核心措施与对象（成渝地区/大熊猫、三国文化、巴蜀文化等知名文旅品牌），未改变时间、范围或政策名。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26ac88c28105ec99",
+            "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+            "finding": "本批句子完整复述了合同claim-26ac88c28105ec99的核心措施与对象（成渝地区/重点文化旅游协会、文旅企业等），未改变时间、范围或政策名。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "综合解读2021年“一带一路”高质量发展新部署与2023年成渝双城经济圈战略定位，明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+            "finding": "description",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74e81f31cbc9d169",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd6a2ecfe1e879b7"
+            ],
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45a00f530df60989",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8e8c216d88838f93"
+            ],
+            "draft_excerpt": "国家层面重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5fe2c651f516b1f3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4996e2b6f90e5be6"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed1b382ff6a21b8a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "”",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-011e99dfeaf92cfc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9bfc0baca6aeb0c0"
+            ],
+            "draft_excerpt": "成都应深度融入“一带一路”建设，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5b4a42d5380a2e23",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca2906fdaac4bcca"
+            ],
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af89681cfacf216d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9c32675732ae40ac"
+            ],
+            "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-229c2e991adc875f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3594674a496f2eb6"
+            ],
+            "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a28ae9861e90f76",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9950abd9581dbdf5"
+            ],
+            "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c1f97983d26cc9d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dda38ecfad81802"
+            ],
+            "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a61c38c0e63afb3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-39bc53da0acdc39d"
+            ],
+            "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+            "finding": "body",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-81deae4d18a59527",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d6bfe196852cfc8a"
+            ],
+            "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+            "finding": "该句完整对应claim-d6bfe196852cfc8a，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-abd5809efe4d6e03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b8fe8dea907f51fe"
+            ],
+            "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+            "finding": "该句完整对应claim-b8fe8dea907f51fe，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3900f23befed684a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2da7c980f57779c"
+            ],
+            "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+            "finding": "该句完整对应claim-a2da7c980f57779c，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da5baf5cdd996f31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-95c21b483d4f537e"
+            ],
+            "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+            "finding": "该句完整对应claim-95c21b483d4f537e，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c1549fa926c6b549",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9310e20f22937e62"
+            ],
+            "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+            "finding": "该句完整对应claim-9310e20f22937e62，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d68d9ea146ee2e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26ac88c28105ec99"
+            ],
+            "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+            "finding": "该句完整对应claim-26ac88c28105ec99，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db2290e387210da6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "综合解读2021年“一带一路”高质量发展新部署与2023年成渝双城经济圈战略定位，明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+            "finding": "description"
+          },
+          {
+            "draft_excerpt": "”",
+            "finding": "body"
+          },
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2023年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "345ae0a093814edd1953b48d8f82401a5fa455fc0402dce7b7eaca87d8b4880e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd6a2ecfe1e879b7",
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9c32675732ae40ac",
+            "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8e8c216d88838f93",
+            "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4996e2b6f90e5be6",
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9bfc0baca6aeb0c0",
+            "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca2906fdaac4bcca",
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3594674a496f2eb6",
+            "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9950abd9581dbdf5",
+            "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dda38ecfad81802",
+            "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+            "finding": "draft_excerpt matches claim exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-39bc53da0acdc39d",
+            "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d6bfe196852cfc8a",
+            "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b8fe8dea907f51fe",
+            "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2da7c980f57779c",
+            "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-95c21b483d4f537e",
+            "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9310e20f22937e62",
+            "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26ac88c28105ec99",
+            "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+            "finding": "Unsupported: '综合解读' is a meta-description not found in contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6e9ed7f58ca3d0d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd6a2ecfe1e879b7",
+              "claim-9c32675732ae40ac"
+            ],
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+            "finding": "Supported: Covers claim-cd6a2ecfe1e879b7 and claim-9c32675732ae40ac.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8bb2d97240c7a9fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+            "finding": "Unsupported: Contextual background not in contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29e3ee1c86f4fff6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8e8c216d88838f93"
+            ],
+            "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "Supported: Covers claim-8e8c216d88838f93.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e710ddc29fd6bfc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4996e2b6f90e5be6"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "Supported: Covers claim-4996e2b6f90e5be6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-23a3a32868980d0a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "”这为深入推进双核联动联建，持续增强区域带动力和国际竞争力，提供了方向指引和根本遵循。",
+            "finding": "Unsupported: Interpretive conclusion not in contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc22a6c8794b6594",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9bfc0baca6aeb0c0"
+            ],
+            "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "Supported: Covers claim-9bfc0baca6aeb0c0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee58155b0e22a89c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca2906fdaac4bcca"
+            ],
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+            "finding": "Supported: Covers claim-ca2906fdaac4bcca.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-349eb9a087a3d5bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9c32675732ae40ac"
+            ],
+            "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+            "finding": "Supported: Covers claim-9c32675732ae40ac.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4756150f7b37e8a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3594674a496f2eb6"
+            ],
+            "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+            "finding": "Supported: Covers claim-3594674a496f2eb6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8e287087936e007",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9950abd9581dbdf5"
+            ],
+            "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+            "finding": "Supported: Covers claim-9950abd9581dbdf5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-025a80d1dce543e4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dda38ecfad81802"
+            ],
+            "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+            "finding": "Supported: Covers claim-0dda38ecfad81802.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ecc046932873775d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-39bc53da0acdc39d"
+            ],
+            "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7b03047bda9da13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d6bfe196852cfc8a"
+            ],
+            "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c036a7a74b8c8d27",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b8fe8dea907f51fe"
+            ],
+            "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d9fe288a95ea548",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2da7c980f57779c"
+            ],
+            "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ebb15432148d9f93",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-95c21b483d4f537e"
+            ],
+            "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5b9a086dc028cba1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9310e20f22937e62"
+            ],
+            "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a4dc269014fb9c89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26ac88c28105ec99"
+            ],
+            "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7542416bfe069fc7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+            "finding": "Unsupported: '综合解读' is a meta-description not found in contract."
+          },
+          {
+            "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+            "finding": "Unsupported: Contextual background not in contract."
+          },
+          {
+            "draft_excerpt": "”这为深入推进双核联动联建，持续增强区域带动力和国际竞争力，提供了方向指引和根本遵循。",
+            "finding": "Unsupported: Interpretive conclusion not in contract."
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "285eaef4bd513716c6863f719ca0a10f2c04c79e249498ef49b01dbea7708f0b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd6a2ecfe1e879b7",
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9c32675732ae40ac",
+            "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8e8c216d88838f93",
+            "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4996e2b6f90e5be6",
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9bfc0baca6aeb0c0",
+            "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca2906fdaac4bcca",
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3594674a496f2eb6",
+            "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9950abd9581dbdf5",
+            "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dda38ecfad81802",
+            "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-39bc53da0acdc39d",
+            "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d6bfe196852cfc8a",
+            "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b8fe8dea907f51fe",
+            "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2da7c980f57779c",
+            "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-95c21b483d4f537e",
+            "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9310e20f22937e62",
+            "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-26ac88c28105ec99",
+            "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c6e9ed7f58ca3d0d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd6a2ecfe1e879b7",
+              "claim-9c32675732ae40ac"
+            ],
+            "draft_excerpt": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8bb2d97240c7a9fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29e3ee1c86f4fff6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8e8c216d88838f93"
+            ],
+            "draft_excerpt": "面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e710ddc29fd6bfc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4996e2b6f90e5be6"
+            ],
+            "draft_excerpt": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-23a3a32868980d0a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "”",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1b2e9623f979e56",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9bfc0baca6aeb0c0"
+            ],
+            "draft_excerpt": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee58155b0e22a89c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca2906fdaac4bcca"
+            ],
+            "draft_excerpt": "成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-349eb9a087a3d5bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9c32675732ae40ac"
+            ],
+            "draft_excerpt": "推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4756150f7b37e8a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3594674a496f2eb6"
+            ],
+            "draft_excerpt": "加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8e287087936e007",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9950abd9581dbdf5"
+            ],
+            "draft_excerpt": "积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-025a80d1dce543e4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dda38ecfad81802"
+            ],
+            "draft_excerpt": "推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ecc046932873775d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-39bc53da0acdc39d"
+            ],
+            "draft_excerpt": "推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7b03047bda9da13",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d6bfe196852cfc8a"
+            ],
+            "draft_excerpt": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c036a7a74b8c8d27",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b8fe8dea907f51fe"
+            ],
+            "draft_excerpt": "加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d9fe288a95ea548",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2da7c980f57779c"
+            ],
+            "draft_excerpt": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ebb15432148d9f93",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-95c21b483d4f537e"
+            ],
+            "draft_excerpt": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5b9a086dc028cba1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9310e20f22937e62"
+            ],
+            "draft_excerpt": "继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a4dc269014fb9c89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-26ac88c28105ec99"
+            ],
+            "draft_excerpt": "联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7542416bfe069fc7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "”",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。\n\n2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。”\n\n2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。\n\n- 推动共建“一带一路”高质量发展的目标包括高标准、可持续、惠民生。\n- 加快建设亚蓉欧航空枢纽，充分发挥双机场优势，促进“两场一体”高水平运营。\n- 积极打造泛欧泛亚陆港枢纽，持续推进中欧班列与西部陆海新通道互联互融。\n- 推进自贸区改革创新与协同开放，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地。\n- 推动对外贸易“上量提质”，深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作。\n- 共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程。\n- 加快布局战略产业总部基地，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。\n- 加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台。\n- 加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团。\n- 继续挖掘和开发两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造精品线路和产品。\n- 联合强化市场主体培育，遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动。",
+    "description": "综合解读2021年11月“一带一路”建设座谈会部署与2023年7月来川视察指示，明确成渝区域协同发展及向西开放战略高地等目标。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "proposition-4137bc2a9114",
+      "description": "综合解读国家层面推动“一带一路”高质量发展的新部署（2021年）与成渝地区双城经济圈建设建议（2023年），明确西部高质量发展增长极、向西开放战略高地及国际竞争新基地的战略目标。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。",
+        "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。",
+        "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。",
+        "加快建设亚蓉欧航空枢纽。充分发挥双机场优势，促进“两场一体”高水平运营，稳妥推进国际客运航线复飞和货运航线拓展，进一步织密国际航线网络，提升与国际航空枢纽航点航班频次，持续提高“全货机+包机+客改货+腹仓”多元航空物流服务水平，建设中西部面向全球的航空门户枢纽、洲际航空中转枢纽和航空货物转运中心。",
+        "积极打造泛欧泛亚陆港枢纽。持续推进中欧班列与西部陆海新通道互联互融，加快落实中欧班列集结中心示范工程项目，加强“一带一路”多式联运综合试验区建设；紧抓中老铁路开通契机，加密成都至老挝国际铁路班列开行频次，推动提升对外通道能级。",
+        "推进自贸区改革创新与协同开放。主动设计开展“成都首创”改革试验，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地，争取设立自贸试验区成都东部新区新片区。",
+        "推动对外贸易“上量提质”。深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作，拓展外贸市场。",
+        "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。”这为深入推进双核联动联建，持续增强区域带动力和国际竞争力，提供了方向指引和根本遵循。",
+        "未来，成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。",
+        "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程，加大力度推动四川跨境公路运输集散中心全面开工，协同开行西部陆海新通道铁海联运班列。",
+        "加快布局战略产业总部基地，率先梳理战略性产业发展趋势，门类和落地条件，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。",
+        "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台，制作成渝双核科创资源地图，初步实现科技资源“一图尽览”，形成两地科技创新资源“共享池”。",
+        "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融机构、企业集团、科技创新企业等申请设立金融控股集团，完善金融机构落户激励政策，加快引进境内外金融机构，鼓励国际多边开发金融机构设立服务共建“一带一路”、中欧班列和西部陆海新通道的业务拓展中心和运营管理中心，健全金融中介服务和专业服务体系。",
+        "继续挖掘和开发两地文旅资源，进一步梳理两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造一批在文化传承、研学旅游、自驾游、房车露营等各方面的精品线路和产品，推出一批生活美学场景，加强产品供给，联动谋划，筹划好年度系列合作事项，共同向外地游客提供优惠政策，用好144小时过境免签政策，提供国际化、专业化旅游服务共建“入境消费友好型商圈”。",
+        "联合强化市场主体培育。遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动，孵化一批“成渝双城”文旅产业合作项目。"
+      ],
+      "evidence_block_ids": [
+        "blk-367321e09ac0d221fc26",
+        "blk-f18e5ac270770637731c",
+        "blk-efa1d2b548f885d93297",
+        "blk-b16473bd352fabc6ee17",
+        "blk-d89d8949e08da1f36462",
+        "blk-a3e88389347fcc016a24",
+        "blk-383cbc9421503f99d841",
+        "blk-27c503148fb07e1db701",
+        "blk-bafa192aafc770f52f58",
+        "blk-d5ad82337aa662e02b57",
+        "blk-efa4003ffedcf6c5c977",
+        "blk-17f7d5cc98c987d34f3d",
+        "blk-e8ec8a307158ca02ec5b",
+        "blk-9e9b7b9d29941d547349"
+      ],
+      "page_end": 147,
+      "page_start": 53,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "国家“一带一路”高质量发展新部署与成渝双城经济圈战略定位",
+      "type": "政策建议"
+    },
+    "title": "国家“一带一路”高质量发展新部署与成渝双城经济圈战略定位"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-8327453df4bb:bundle-190c7798bb02",
+      "excluded_fragments": [],
+      "ref_id": "ref-8327453df4bb",
+      "source_blocks": [
+        {
+          "block_id": "blk-367321e09ac0d221fc26",
+          "page_number": 53,
+          "text": "2021年11月，在第三次“一带一路”建设座谈会上，习近平总书记对推动共建“一带一路”高质量发展做了重要部署，强调以高标准、可持续、惠民生为目标，巩固互联互通合作基础，拓展国际合作新空间，扎牢风险防控网络，努力实现更高合作水平、更高投入效益、更高供给质量、更高发展韧性，推动共建“一带一路”高质量发展。"
+        },
+        {
+          "block_id": "blk-f18e5ac270770637731c",
+          "page_number": 53,
+          "text": "当前，世界百年未有之大变局正加速演变，新一轮科技革命和产业变革带来激烈竞争，气候变化、疫情防控等全球性问题影响前所未有。面对共建“一带一路”日趋复杂的国际环境，国家重点围绕政治互信、基础设施、贸易产能、资金融通等方面作出进一步安排部署。政治互信方面，要求探索建立更多合作对接机制，推动把政治共识转化为具体行动、把理念认同转化为务实成果。基础设施互联互通方面，要求完善陆、海、天、网“四位一体”互联互通布局，深化传统基础设施项目合作，推进新型基础设施项目合作，提升规则标准等“软联通”水平。贸易产能合作方面，要求着力推动贸易畅通，扩大同周边国家贸易规模，鼓励进口更多优质商品，提高贸易和投资自由化便利化水平；继续扩大三方或多方市场合作，开展国际产能合作。资金融通方面，强调吸引多边开发机构、发达国家金融机构参与，健全多元化投融资体系。深化人文交流，形成多元互动的人文交流大格局。"
+        },
+        {
+          "block_id": "blk-e1245102208fed482b22",
+          "page_number": 53,
+          "text": "顺应新技术新业态发展趋势，积极回应“一带一路”沿线国家和地区新关切，支持稳妥开展健康、绿色、数字、创新等新领域合作探索，培育合作新增长点。更加主动加强抗疫国际合作，继续向共建国家提供力所能及的帮助。更加强调支持发展中国家能源绿色低碳发展，推进绿色低碳发展信息共享和能力建设，深化生态环境和气候治理合作。注重深化数字领域开放合作，发展“丝路电商”，构建数字合作"
+        },
+        {
+          "block_id": "blk-c8c092334f845a692680",
+          "page_number": 54,
+          "text": "格局，助力国际经贸合作。强调实施好科技创新行动计划，加强知识产权保护国际合作，打造开放、公平、公正、非歧视的科技发展环境。"
+        },
+        {
+          "block_id": "blk-06fb92bbcb6f29a5692f",
+          "page_number": 54,
+          "text": "围绕“加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局”重大战略决策，更加注重统筹考虑和谋划构建新发展格局和共建“一带一路”，聚焦新发力点，塑造新结合点。一方面，注重加快完善各具特色、互为补充、畅通安全的陆海空通道，优化战略通道布局，为畅通国内国际双循环提供有力支撑。另一方面，注重加强与欧洲、西亚、中亚及东南亚、南亚等地贸易网络建设，加强产业链供应链畅通衔接，推动产业发展所需资源要素来源多元化、产品及服务供给渠道多样化，实现国内国际双循环相互促进。"
+        },
+        {
+          "block_id": "blk-186cd2bb6171940f2c2a",
+          "page_number": 54,
+          "text": "针对当前及未来一段时期国际形势的不确定性，更加强调落实风险防控制度，压紧压实企业主体责任和主管部门管理责任。支持探索建立境外项目风险的全天候预警评估综合服务平台，及时预警、定期评估。注重加强海外利益保护、国际反恐、安全保障等机制的协同协作。强调统筹推进疫情防控和共建“一带一路”合作，全力保障境外人员生命安全和身心健康，突出防控措施的精准性，着力保障用工需求、人员倒班回国、物资供应、资金支持等。积极教育引导我国在海外企业和公民自觉遵守当地法律，尊重当地风俗习惯。加快形成系统完备的反腐败涉外法律法规体系，加大跨境腐败治理力度。"
+        },
+        {
+          "block_id": "blk-efa1d2b548f885d93297",
+          "page_number": 54,
+          "text": "2022年，面对世界百年未有之大变局，新冠肺炎疫情持续肆虐，国际形势和外部环境加速演变，在充分把握国家推进“一带一路”建设的导向和下一步工作重点下，成都应深度融入“一带一路”建设，深入落实四川省“一干多支、五区协同”“四向拓展、全域开放”战略部署，持续拓展开放合作领域、提升合作水平，加快泛欧泛亚有重要影响力的国际门户枢纽城市建设。"
+        },
+        {
+          "block_id": "blk-b16473bd352fabc6ee17",
+          "page_number": 54,
+          "text": "加快建设亚蓉欧航空枢纽。充分发挥双机场优势，促进“两场一体”高水平运营，稳妥推进国际客运航线复飞和货运航线拓展，进一步织密国际航线网络，提升"
+        },
+        {
+          "block_id": "blk-d89d8949e08da1f36462",
+          "page_number": 55,
+          "text": "与国际航空枢纽航点航班频次，持续提高“全货机+包机+客改货+腹仓”多元航空物流服务水平，建设中西部面向全球的航空门户枢纽、洲际航空中转枢纽和航空货物转运中心。积极打造泛欧泛亚陆港枢纽。持续推进中欧班列与西部陆海新通道互联互融，加快落实中欧班列集结中心示范工程项目，加强“一带一路”多式联运综合试验区建设；紧抓中老铁路开通契机，加密成都至老挝国际铁路班列开行频次，推动提升对外通道能级。强化中欧班列（成渝）品牌建设，依托中欧班列布局海外国际营销服务平台、境外经贸合作区，打造公共海外仓。加快国际性区域通信枢纽建设。加快推进5G网络建设，全面部署千兆光纤宽带网络，积极争取国家新型互联网交换中心等国家级通信网络基础设施布局，持续扩容互联网国际出入口带宽，提升国际通信功能和承载能力，加快打造“一带一路”重要信息通信节点、数据中心和国际信息港。"
+        },
+        {
+          "block_id": "blk-a3e88389347fcc016a24",
+          "page_number": 55,
+          "text": "推进自贸区改革创新与协同开放。主动设计开展“成都首创”改革试验，依托川渝自贸协同等重大战略实施，积极对上争取改革试点政策落地，争取设立自贸试验区成都东部新区新片区。持续深化成渝自贸试验区合作，充分发挥自贸区政府、平台等优势，推动与德眉资等城市协同开放走深走实。推动综保区和开放口岸拓能升级。积极推动天府国际机场口岸通过正式验收、天府国际机场口岸设施及综合性指定监管场地建成投运。优化提升口岸布局功能和服务保障能力，推动天府国际空港综保区获批，力争封关运营的综保区发展绩效稳居全国前列。加快高能级平台提质增效。高水平建设成都国际铁路港经开区，持续推进成都高新区高质量建设国家外贸转型升级基地，加快提升天府新区成都直管区国际科技创新水平，积极推动成都经开区申建综保区，支持成都东部新区依托天府国际机场争取设立国家级临空经济示范区。强化国际合作园区引领带动。高质量推进六个国别合作园区建设，深入推进中日（成都）城市建设和现代服务业开放合作示范项目建设，持续推动6个“国别合作馆”建设运营。"
+        },
+        {
+          "block_id": "blk-383cbc9421503f99d841",
+          "page_number": 55,
+          "text": "推动对外贸易“上量提质”。深化与区域全面经济伙伴关系协定（RCEP）成员国、欧盟、“一带一路”沿线等国家和地区经贸合作，拓展外贸市场。加快建设“一带一路”进出口商品集散中心、进出口商品交易与展示中心，深化国家服务贸易创新发展试点，加强国家数字服务出口基地、三国文化国家文化出口基地、中医药服"
+        },
+        {
+          "block_id": "blk-7a28e34f78c0796d4ffd",
+          "page_number": 56,
+          "text": "务出口基地建设，依托进口贸易促进创新示范区、跨境电商综合试验区等促进外贸新业态新模式加快发展。提升“引进来”水平质效。持续以先进制造业、先进生产性服务业为重点，精细研究电子信息、生物医药等先进制造业发展趋势及其投资机遇，用好中日、中欧等开放合作平台，着力引进一批高质量科创项目、高能级产业化项目和产业链关键配套项目。持续优化国际化投资环境。聚焦外商投资企业的共性诉求，推动投资服务平台做好政策咨询和讲解，点对点、一对一帮助企业解决困难和问题；充分发挥外国商协会和行业协会的优势，畅通交流渠道，为利用外资提供支持。"
+        },
+        {
+          "block_id": "blk-b27dd10576e5c6ea645a",
+          "page_number": 56,
+          "text": "提升国际创新影响力。加快建设成渝（兴隆湖）综合性科学中心、西部（成都）科学城，鼓励与“一带一路”沿线国家（地区）共建国际性研发机构、联合实验室和国合基地等平台，积极推动“一带一路”科技创新合作区建设，充分发挥天府国际技术转移中心等功能，持续筑强中韩创新创业园等园区支撑，务实推进国际科技交流合作，提升在全球创新网络中的地位及影响力。强化高端国际化人才引进。深入实施全球高端人才招引计划、留学生回引工程，动态优化调整国际人才招引政策，做强“蓉漂”品牌国际影响力，推动引才聚智。面向全球“揭榜挂帅”，加快招募顶尖科技团队开展技术攻关、成果转化，鼓励海内外科技创新团队落户成都。提升国际金融服务能力。加快建设交子公园金融总部产业园等金融集聚区，大力引进有影响力的国内外金融机构。积极推进合格境内有限合伙人（QDLP）试点，争取设立人民币国际投贷基金，探索打造“一带一路”金融资产交易服务平台，继续推进“一带一路”金融服务中心建设。推动数据要素集聚与应用转化。深化国家数字经济创新发展试验区建设，发挥全国一体化算力网络国家枢纽（成渝）节点、国家超算成都中心效能，加快构建数据、算力、算法、应用资源协同的产业生态，推动数字要素赋能壮大数字经济。"
+        },
+        {
+          "block_id": "blk-257a187a2c196f3637bb",
+          "page_number": 56,
+          "text": "积极拓展对外交往范围。持续推进成都领馆区建设，推动有意愿在华增设领事机构的“一带一路”沿线国家在蓉设领，力争与更多“一带一路”经济中心城市建立友好合作关系，加入更多有影响力的国际组织；积极推进成渝两地外国高访、领事机构、国际友城等外事资源互动共享，协同拓展交往空间。高标准推进“三城三都”建设。充分发挥熊猫文化、东安湖体育公园、成都露天音乐公园、天府国际会"
+        },
+        {
+          "block_id": "blk-ab27997945da6325c4df",
+          "page_number": 57,
+          "text": "议中心、中国西部国际博览城等优质本底与载体资源优势，高标准办好第31届世界大学生夏季运动会，高水平引进国际会议会展，争取更多国家级“一带一路”国际活动落户成都，高质量推进熊猫文化、三国文化等IP走向世界，持续提升成都国际显示度、知名度、美誉度。大力丰富对外合作领域。持续深化医疗、教育等领域对外开放，加快提升城市国际化水平，积极开展绿色、数字、创新等新领域合作，鼓励支持开展民间交流交往，培育对外开放合作新增长点。"
+        },
+        {
+          "block_id": "blk-8e28d3f5c827bdb2fa24",
+          "page_number": 59,
+          "text": "2021年，成都聚焦建设改革开放新高地，积极融入“一带一路”建设，“双循环”互促更加有力，对外开放成效亮点纷呈。一是空港陆港枢纽能级显著提升，天府国际机场和双流国际机场实现“两场一体”协同运营，中欧班列（成渝）统一品牌高质运行，成都都市圈环线高速公路全线贯通。二是高能级开放平台扩容增效，成都国际铁路港国家级经开区成功获批，高新西园、成都国际铁路港综保区实现封关运行，国际合作园区城市会客厅陆续呈现。三是开放经济上量提质，外贸结构持续优化，一般贸易实现大幅增长，跨境电商交易规模增长强劲。四是高端资源要素“含金量”加快提升，全球创新指数、金融科技等排名持续提升，连续荣获获评“中国最佳引才城市”，数字经济指数居于全国前列。五是国际交流合作成果多样，第七届金砖国家国际竞争大会等重大活动成功举办，成功申办世界科幻大会，大运村正式揭牌，驻蓉领事机构数量居中西部首位。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-99ce0811e4e8:bundle-3266933d217f",
+      "excluded_fragments": [],
+      "ref_id": "ref-99ce0811e4e8",
+      "source_blocks": [
+        {
+          "block_id": "blk-27c503148fb07e1db701",
+          "page_number": 145,
+          "text": "2023年7月，习近平总书记来川视察时，明确提出“加强成渝区域协同发展，构筑向西开放战略高地和参与国际竞争新基地，尽快成为带动西部高质量发展的重要增长极和新的动力源。”这为深入推进双核联动联建，持续增强区域带动力和国际竞争力，提供了方向指引和根本遵循。未来，成都和重庆要继续以“五个互联互通”为重点，进一步与重庆加强立体交通运输网络建设，联合提升产业培育和承接能力，协同争取重大科技项目布局，重点加强双核金融市场竞争力建设，统筹利用好两地优质的公共资源，提升公共产品供给质量，增强服务国家战略全局能力。"
+        },
+        {
+          "block_id": "blk-bafa192aafc770f52f58",
+          "page_number": 145,
+          "text": "共同完善互联互通交通体系建设，提速建设成渝中线高铁、成渝高速公路扩容工程，加大力度推动四川跨境公路运输集散中心全面开工，协同开行西部陆海新通道铁海联运班列。合力提升世界级机场群发展能级，加快实施双流机场提质改造工程，联合拓"
+        },
+        {
+          "block_id": "blk-3e9492602b65e02a4624",
+          "page_number": 146,
+          "text": "展国际航线，共同争取中远程国际航权配额，加强双核空域终端区建设，优化空域资源配置，合力拓展东西向大通道。协同优化物流运输服务，探索“铁路 \\(+\\) ”多式联运单证签发应用流程，推动跨省域“一单制”单证格式统一、标准互认，探索中欧班列（成渝）提单数字技术应用及金融服务，实现全流程物流信息可追溯可共享。"
+        },
+        {
+          "block_id": "blk-d5ad82337aa662e02b57",
+          "page_number": 146,
+          "text": "加快布局战略产业总部基地，率先梳理战略性产业发展趋势，门类和落地条件，围绕汽车、集成电路、新型显示等细分领域编制成渝重点产业链全景图。按照产业总部建设要求，规划和落实相关配套环境与设施，争取中央企业集成电路、新型显示、工业母机、大型成套装备、大宗材料等产业领域重大项目优先在成渝地区布局；共同争取国家设立成渝地区产业转移引导基金，高质量承接东部沿海地区产业转移。积极落实共建世界级汽车产业集群，持续优化完善“三走廊”设施体系，共同推进燃料电池汽车示范应用，携手争创国家氢燃料电池示范城市群。联合打造中国电子信息制造业“第三极”，以特色工艺集成电路、新型智能终端、能源电子、军工电子等为重点，进一步深化产业链供应链融合对接，强化软硬协同，依托成都超高清视频创新中心和重庆硅基混合集成创新中心两大国家级制造业创新中心，加强两地创新资源整合，打造具有国际竞争力的电子信息产业创新生态。"
+        },
+        {
+          "block_id": "blk-efa4003ffedcf6c5c977",
+          "page_number": 146,
+          "text": "加强科技创新资源互联互通，梳理两地重点科技创新资源布局情况，优化升级“科创通”平台，制作成渝双核科创资源地图，初步实现科技资源“一图尽览”，形成两地科技创新资源“共享池”。加强在科技创新与科技成果转化上的“同频共振”。协同增强科技创新能力，继续共同争取国家支持在成渝地区布局重大科技装备和战略性科技力量，适时优化调整成都市科创券办法，扩大两地科创区互认通用试点范围与深度，组织和支持成都企业联合重庆高校院所、企业等单位产学研合作实施科技创新项目，加强对基础性和战略性的科技创新项目进行联合攻关。联合夯实科技成果转化渠道，继续联合举办科技成果对接活动，统筹利用两地科技创新与产业优势，继续实施关键核心技术联合攻关，组织并支持成都市企业联合重庆市高校院所、企业等单位产学研合作实施科技创新项目，促进优质科技成果在成渝双城落地转化。"
+        },
+        {
+          "block_id": "blk-17f7d5cc98c987d34f3d",
+          "page_number": 146,
+          "text": "加快形成具有竞争力的金融机构组织体系，共同出台政策支持符合条件的大型金融"
+        },
+        {
+          "block_id": "blk-e8ec8a307158ca02ec5b",
+          "page_number": 147,
+          "text": "机构、企业集团、科技创新企业等申请设立金融控股集团，完善金融机构落户激励政策，加快引进境内外金融机构，鼓励国际多边开发金融机构设立服务共建“一带一路”、中欧班列和西部陆海新通道的业务拓展中心和运营管理中心，健全金融中介服务和专业服务体系。协同打造西部股权投资基金发展高地，共同探索开展私募基金管理模式创新试点，推动两地国有金融企业开展特色化金融产品开发和合作模式创新，形成多元参与的重点项目培育支撑体系。以共建西部金融中心为契机，用好成渝地区双城经济圈建设基金，助力区域重点产业发展。"
+        },
+        {
+          "block_id": "blk-9e9b7b9d29941d547349",
+          "page_number": 147,
+          "text": "继续挖掘和开发两地文旅资源，进一步梳理两地文旅资源，依托大熊猫、三国文化、巴蜀文化等知名文旅品牌，联动打造一批在文化传承、研学旅游、自驾游、房车露营等各方面的精品线路和产品，推出一批生活美学场景，加强产品供给，联动谋划，筹划好年度系列合作事项，共同向外地游客提供优惠政策，用好144小时过境免签政策，提供国际化、专业化旅游服务共建“入境消费友好型商圈”。联动对外营销推广，探索联合制作或互推两地文旅宣传片、通过联合参展推介等多种形式，继续开行巴蜀文化旅游走廊主题旅游列车，促进客源互送和品牌宣推。联合强化市场主体培育。遴选培育一批重点文化旅游协会、文旅企业等，围绕文旅产业品牌塑造、人才培育、项目合作等领域联动，孵化一批“成渝双城”文旅产业合作项目。共同加强数智赋能提升社会保障服务水平，聚焦挖掘共享数据价值，进一步提升数据质量，合力强化数据分析，发挥好共享数据在推进双核人社合作中的支撑作用。携手提升优质公共服务供给水平。进一步完善随迁子女就学机制，在就学资格认定、学位安排等方面保障两地随迁子女受教育机会与权力，继续推动中小学结对发展，围绕两地轨道交通、汽车产业等发展目标，协同布局职业教育发展重点。持续加强成渝地区双城经济圈医学科技创新联盟建设，建立成渝地区生物样本库联盟，加快实施成渝采供血信息互联互通建设、中药院内制剂合作共赢项目等，促进双城医疗卫生健康协同走深走实。"
+        }
+      ]
+    }
+  ],
+  "group_id": "proposition-4137bc2a9114",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-8327453df4bb",
+    "ref-99ce0811e4e8"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "f04809cc01ddf3e618f395a2cddd8d830c005e33a1c93dd733e722553fc4d9ee",
+    "prior_recompile_attempts": 2,
+    "run_name": "public10-claim-review-formal-qwen36-v4-batched-20260810"
+  },
+  "status": "complete"
+}

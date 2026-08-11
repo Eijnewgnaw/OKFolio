@@ -1,0 +1,1044 @@
+{
+  "contract": {
+    "canonical_question": "成渝地区双城经济圈流空间网络中各城市在经济流和交通流网络中的中心性等级分布及双核对比特征是什么？",
+    "claims": [
+      {
+        "claim": "成渝地区流空间网络中36个城市的度数中心性被划分为从高到低5个等级。",
+        "claim_id": "claim-15e62ef844929df3",
+        "evidence_block_ids": [
+          "blk-8055fcbb24483813ed35",
+          "blk-456a5366b9040f595c7c"
+        ],
+        "evidence_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级（表4-2）。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          189,
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都和重庆中心城区在经济流和交通流网络中的中心性均属最高等级。",
+        "claim_id": "claim-f54175bab900b5c8",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "成都、重庆中心城区在经济流和交通流网络中的中心性均属最高等级，对周围城市有很强的带动能力，是成渝地区重要的经济中心和综合性交通枢纽，但成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性高于成都。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性高于成都。",
+        "claim_id": "claim-253b297850eb4fb8",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "成都、重庆中心城区在经济流和交通流网络中的中心性均属最高等级，对周围城市有很强的带动能力，是成渝地区重要的经济中心和综合性交通枢纽，但成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性高于成都。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+        "claim_id": "claim-c74821c952f66b2a",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+        "claim_id": "claim-93d48fde130122a6",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流。",
+        "claim_id": "claim-04754cbc032904e0",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "claim_id": "claim-57d7cb4d8b0f81e2",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+        "claim_id": "claim-db22e9eb056c5e74",
+        "evidence_block_ids": [
+          "blk-14abcf270cc5042e4981"
+        ],
+        "evidence_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          190
+        ],
+        "ref_id": "ref-3fa418140061",
+        "scope": {
+          "region": "成渝地区"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-15e62ef844929df3",
+          "claim-f54175bab900b5c8",
+          "claim-253b297850eb4fb8",
+          "claim-c74821c952f66b2a",
+          "claim-93d48fde130122a6",
+          "claim-04754cbc032904e0",
+          "claim-57d7cb4d8b0f81e2",
+          "claim-db22e9eb056c5e74"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+        "reason": "该Bundle包含中心性计算依据、等级划分标准及所有关键节点（双核、二级、三级等）的具体等级归属，是回答中心问题的核心事实来源。"
+      }
+    ],
+    "group_id": "topic-339afa0201c3",
+    "members": [
+      {
+        "contribution": "提供36个城市的度数中心度计算结果及5级等级划分，明确成都、重庆的双核最高地位及绵阳、德阳的二级节点地位，直接回答中心问题。",
+        "ref_id": "ref-3fa418140061",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-f54175bab900b5c8",
+        "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-253b297850eb4fb8",
+        "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c74821c952f66b2a",
+        "draft_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-93d48fde130122a6",
+        "draft_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-04754cbc032904e0",
+        "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-57d7cb4d8b0f81e2",
+        "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-db22e9eb056c5e74",
+        "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-15e62ef844929df3",
+        "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d63760ab789b3ab9",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-f54175bab900b5c8"
+        ],
+        "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cf397075611f511f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-253b297850eb4fb8"
+        ],
+        "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e2244098f3e55389",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c74821c952f66b2a"
+        ],
+        "draft_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7039f051e0b7097e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-93d48fde130122a6"
+        ],
+        "draft_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0f9607326d074095",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-04754cbc032904e0",
+          "claim-57d7cb4d8b0f81e2"
+        ],
+        "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-de4fd8178027ac91",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-db22e9eb056c5e74"
+        ],
+        "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d3cb8cf33f7517ab",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-15e62ef844929df3"
+        ],
+        "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9d0544b7a5df2134",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f54175bab900b5c8",
+          "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-253b297850eb4fb8",
+          "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c74821c952f66b2a",
+          "draft_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-93d48fde130122a6",
+          "draft_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-04754cbc032904e0",
+          "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-57d7cb4d8b0f81e2",
+          "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-db22e9eb056c5e74",
+          "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-15e62ef844929df3",
+          "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-d63760ab789b3ab9",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-f54175bab900b5c8"
+          ],
+          "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+          "finding": "supported",
+          "sentence_id": "sentence-cf397075611f511f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-253b297850eb4fb8"
+          ],
+          "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+          "finding": "supported",
+          "sentence_id": "sentence-e2244098f3e55389",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c74821c952f66b2a"
+          ],
+          "draft_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-7039f051e0b7097e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-93d48fde130122a6"
+          ],
+          "draft_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-0f9607326d074095",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-04754cbc032904e0",
+            "claim-57d7cb4d8b0f81e2"
+          ],
+          "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-de4fd8178027ac91",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-db22e9eb056c5e74"
+          ],
+          "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+          "finding": "supported",
+          "sentence_id": "sentence-d3cb8cf33f7517ab",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-15e62ef844929df3"
+          ],
+          "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+          "finding": "supported",
+          "sentence_id": "sentence-9d0544b7a5df2134",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "df581d02a8c43f800cfa83db9d1f249b82bf95501f442f5ac1b1f9faa6247db5",
+  "coverage_history": [
+    {
+      "draft_sha256": "8a33d23df76c133a8526bb2432c8b9050d2f072a1ca1a14a1b60dd9e1f51f70d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f54175bab900b5c8",
+            "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-253b297850eb4fb8",
+            "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-15e62ef844929df3",
+            "draft_excerpt": "基于36个城市的度数中心度计算与自然断裂点法划分，成渝地区流空间网络呈现出清晰的五级层级结构。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c74821c952f66b2a",
+            "draft_excerpt": "绵阳和德阳在经济流与交通流网络中均占据重要地位，已确立为综合性二级节点城市；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-93d48fde130122a6",
+            "draft_excerpt": "南充、遂宁、合川、长寿、涪陵等5个城市在两类网络中均属于第三级，为综合性三级节点城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04754cbc032904e0",
+            "draft_excerpt": "四级与五级节点城市在两类网络中的分布存在显著差异：经济流网络中仅包含6个四级节点，而交通流网络中多达11个；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-db22e9eb056c5e74",
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属五级节点，其经济流与交通流中心度均处于较低水平。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57d7cb4d8b0f81e2",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f54175bab900b5c8",
+              "claim-253b297850eb4fb8",
+              "claim-c74821c952f66b2a"
+            ],
+            "draft_excerpt": "成都和重庆中心城区在经济流与交通流网络中均居最高等级，但中心性侧重不同，绵阳、德阳等二级节点城市在两类网络中地位一致，共同体现成渝地区流空间网络的层级结构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9bd760a8e9500e7a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f54175bab900b5c8"
+            ],
+            "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf397075611f511f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-253b297850eb4fb8"
+            ],
+            "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e2244098f3e55389",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-15e62ef844929df3"
+            ],
+            "draft_excerpt": "基于36个城市的度数中心度计算与自然断裂点法划分，成渝地区流空间网络呈现出清晰的五级层级结构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b71d4efc0770e1c5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c74821c952f66b2a"
+            ],
+            "draft_excerpt": "绵阳和德阳在经济流与交通流网络中均占据重要地位，已确立为综合性二级节点城市；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-220b26bd102b7ac1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-93d48fde130122a6"
+            ],
+            "draft_excerpt": "南充、遂宁、合川、长寿、涪陵等5个城市在两类网络中均属于第三级，为综合性三级节点城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b77312376adae067",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04754cbc032904e0"
+            ],
+            "draft_excerpt": "四级与五级节点城市在两类网络中的分布存在显著差异：经济流网络中仅包含6个四级节点，而交通流网络中多达11个；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95a088cc49be6617",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-db22e9eb056c5e74"
+            ],
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属五级节点，其经济流与交通流中心度均处于较低水平。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e9268ffa18b1280c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-15e62ef844929df3"
+            ],
+            "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fcb1348f8b98e47c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04754cbc032904e0"
+            ],
+            "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-acf977023e0e74a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-db22e9eb056c5e74"
+            ],
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c682dbd339ddc1a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "绵阳和德阳在经济流与交通流网络中均占据重要地位，已确立为综合性二级节点城市；",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "65aa35c3cefb24fdf9bf03453ed1021c9479bc982ae7fbe5486c634abf7a4ab9",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f54175bab900b5c8",
+            "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-253b297850eb4fb8",
+            "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-15e62ef844929df3",
+            "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04754cbc032904e0",
+            "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-db22e9eb056c5e74",
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57d7cb4d8b0f81e2",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-93d48fde130122a6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-c74821c952f66b2a",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，但中心性侧重不同，绵阳、德阳等二级节点城市在两类网络中地位一致，共同体现成渝地区流空间网络的层级结构。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae610b95290898f9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f54175bab900b5c8"
+            ],
+            "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf397075611f511f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-253b297850eb4fb8"
+            ],
+            "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e2244098f3e55389",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-15e62ef844929df3"
+            ],
+            "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11330cc6160d524c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04754cbc032904e0"
+            ],
+            "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92158d3d8a72bea9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-db22e9eb056c5e74"
+            ],
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-266744e4b6c0acf1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，但中心性侧重不同，绵阳、德阳等二级节点城市在两类网络中地位一致，共同体现成渝地区流空间网络的层级结构。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "df581d02a8c43f800cfa83db9d1f249b82bf95501f442f5ac1b1f9faa6247db5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f54175bab900b5c8",
+            "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-253b297850eb4fb8",
+            "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c74821c952f66b2a",
+            "draft_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-93d48fde130122a6",
+            "draft_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04754cbc032904e0",
+            "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-57d7cb4d8b0f81e2",
+            "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-db22e9eb056c5e74",
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-15e62ef844929df3",
+            "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d63760ab789b3ab9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f54175bab900b5c8"
+            ],
+            "draft_excerpt": "成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cf397075611f511f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-253b297850eb4fb8"
+            ],
+            "draft_excerpt": "两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e2244098f3e55389",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c74821c952f66b2a"
+            ],
+            "draft_excerpt": "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7039f051e0b7097e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-93d48fde130122a6"
+            ],
+            "draft_excerpt": "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0f9607326d074095",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04754cbc032904e0",
+              "claim-57d7cb4d8b0f81e2"
+            ],
+            "draft_excerpt": "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-de4fd8178027ac91",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-db22e9eb056c5e74"
+            ],
+            "draft_excerpt": "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3cb8cf33f7517ab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-15e62ef844929df3"
+            ],
+            "draft_excerpt": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9d0544b7a5df2134",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都与重庆中心城区在经济流和交通流网络中的中心性均处于最高等级，对周边城市具有显著的带动能力，共同构成成渝地区重要的经济中心与综合性交通枢纽。\n\n两类网络中核心城市的中心性存在结构性差异：成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性则高于成都。\n\n绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。\n\n南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。\n\n经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。\n\n南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。\n\n- 运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级。",
+    "description": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，绵阳、德阳等二级节点城市在两类网络中地位一致，南充、遂宁等属三级节点，铜梁属四级节点，南川等属五级节点，共同体现成渝地区流空间网络的层级结构。",
+    "ref": {
+      "asset_hints": [
+        "html-table-021",
+        "image-111",
+        "image-112"
+      ],
+      "concept_id": "topic-339afa0201c3",
+      "description": "成都和重庆中心城区在经济流和交通流网络中均居最高等级，但绵阳、德阳等二级节点城市在两类网络中地位不同，体现了成渝地区双城经济圈流空间网络的层级结构。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级（表4-2）。",
+        "成都、重庆中心城区在经济流和交通流网络中的中心性均属最高等级，对周围城市有很强的带动能力，是成渝地区重要的经济中心和综合性交通枢纽，但成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性高于成都。",
+        "绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。",
+        "南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。",
+        "经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。",
+        "南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。"
+      ],
+      "evidence_block_ids": [
+        "blk-8055fcbb24483813ed35",
+        "blk-456a5366b9040f595c7c",
+        "blk-14abcf270cc5042e4981"
+      ],
+      "page_end": 190,
+      "page_start": 189,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成渝地区双城经济圈"
+      },
+      "section_path": [
+        "建言献策篇",
+        "成渝地区双城经济圈流空间网络特征",
+        "（1.西南大学经济管理学院；2.西南大学地理科学学院）",
+        "三、成渝地区流空间网络节点中心性特征",
+        "（一）节点中心性等级特征"
+      ],
+      "semantic_signature": {
+        "key_features": [
+          "双核最高等级",
+          "二级节点城市分布"
+        ],
+        "network_types": [
+          "经济流",
+          "交通流"
+        ],
+        "region": "成渝地区双城经济圈"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成渝地区流空间网络节点中心性特征",
+      "type": "分析框架"
+    },
+    "title": "成渝地区流空间网络节点中心性特征"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-3fa418140061:bundle-a2acf9eb68a7",
+      "excluded_fragments": [],
+      "ref_id": "ref-3fa418140061",
+      "source_blocks": [
+        {
+          "block_id": "blk-8055fcbb24483813ed35",
+          "page_number": 189,
+          "text": "运用公式（9）计算出成渝地区流空间网络中36个城市的度数中"
+        },
+        {
+          "block_id": "blk-456a5366b9040f595c7c",
+          "page_number": 190,
+          "text": "心度，利用ArcGIS10.4软件的自然断裂点法将城市中心性划分成从高到低5个等级（表4-2）。"
+        },
+        {
+          "block_id": "blk-14abcf270cc5042e4981",
+          "page_number": 190,
+          "text": "成都、重庆中心城区在经济流和交通流网络中的中心性均属最高等级，对周围城市有很强的带动能力，是成渝地区重要的经济中心和综合性交通枢纽，但成都的经济中心性高于重庆中心城区，而重庆中心城区的交通中心性高于成都。绵阳和德阳在经济流和交通流网络中均占据较为重要的地位，已成为成渝地区综合性二级节点城市。南充、遂宁、合川、长寿、涪陵的经济流和交通流中心性均属第三级，为综合性三级节点城市。经济流网络中有6个四级节点城市，而在交通流网络中有11个，远多于经济流，其中铜梁在经济流和交通流网络中均属于四级节点城市。南川、开州、云阳、忠县、黔江同属于五级经济流和交通流节点城市，经济流和交通流中心度均较低。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-339afa0201c3",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-3fa418140061"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

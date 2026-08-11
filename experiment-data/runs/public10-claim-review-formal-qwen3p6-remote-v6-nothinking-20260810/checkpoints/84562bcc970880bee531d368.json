@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-1cd22cd6f7f1:bundle-0accf39bff50) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都驻蓉领事机构数量增至20个。'; excerpt='外事资源加速聚集。成都坚持服务国家总体外交大局，圆满完成参与撤销某国驻蓉总领事馆的设立和运行相关工作，西班牙、智利先后获批在蓉设立总领事馆，与国际音乐之都美国纳什维尔市缔结国际友城，驻蓉领事机构数量增至20个，国际友城和友好合作关系城市总数增至104个①。'",
+  "group_id": "topic-cafc3e098887",
+  "ref_ids": [
+    "ref-1cd22cd6f7f1",
+    "ref-90550bb08caa"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

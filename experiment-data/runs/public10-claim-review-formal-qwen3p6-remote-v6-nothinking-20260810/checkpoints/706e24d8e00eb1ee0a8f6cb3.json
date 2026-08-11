@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[1].claims[4].evidence_excerpt (ref-9f4cd55fe341:bundle-305db375ce74) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都实现全国首批地方债“债券通”跨境分销，成功实现全国首批境外机构以“债券通”等方式参与境内地方债一级市场投资。'; excerpt='实现全国首批地方债“债券通”跨境分销，工行、建行、交行四川分行联动境外分行牵头承销疫情防控相关的四川地方债，成功实现全国首批境外机构以“债券通”等方式参与境内地方债一级市场投资，进一步调动境外投资者参与国内地方债发行积极性。'",
+  "group_id": "topic-820e515bd53a",
+  "ref_ids": [
+    "ref-364810f0419a",
+    "ref-9f4cd55fe341"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

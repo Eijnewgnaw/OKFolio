@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-3e30a40a82ce:bundle-0e06df1f4a4e) is missing hard anchors from the claim: ['2023年9月1日']; claim='2023年9月1日起，成都与广州参保人员在对方城市就医无需办理异地就医备案手续。'; excerpt='一是实现穗蓉异地就医互免备案，9月1日起，两地参保人员在对方城市就医，无需办理异地就医备案手续，即可享受普通住院、外伤住院、普通门诊、门诊统筹、“两病”门诊和门诊特殊疾病就医医保待遇。'",
+  "group_id": "topic-b44a6d9698a1",
+  "ref_ids": [
+    "ref-3e30a40a82ce"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

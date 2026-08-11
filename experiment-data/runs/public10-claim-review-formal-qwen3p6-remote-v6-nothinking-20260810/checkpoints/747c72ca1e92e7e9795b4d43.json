@@ -1,0 +1,958 @@
+{
+  "contract": {
+    "canonical_question": "成都在生态文明低碳建设与国际音乐文化交流两个领域，分别采取了哪些具体的国际合作措施、载体建设及量化成效，以推动城市能级提升？",
+    "claims": [
+      {
+        "claim": "成都加快推进中瑞低碳生物医学产业园和中法生态园建设。",
+        "claim_id": "claim-181aad3d75ca3a17",
+        "evidence_block_ids": [
+          "blk-30830c736cf74398b866"
+        ],
+        "evidence_excerpt": "加快推进中瑞低碳生物医学产业园、中法生态园建设",
+        "evidence_id": "ref-5465e1b4ae35:bundle-bcdff20237be",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          169
+        ],
+        "ref_id": "ref-5465e1b4ae35",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作。",
+        "claim_id": "claim-0af14a2c47a5f333",
+        "evidence_block_ids": [
+          "blk-30830c736cf74398b866"
+        ],
+        "evidence_excerpt": "引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作",
+        "evidence_id": "ref-5465e1b4ae35:bundle-bcdff20237be",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          169
+        ],
+        "ref_id": "ref-5465e1b4ae35",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都建立产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+        "claim_id": "claim-6737bceedc99682d",
+        "evidence_block_ids": [
+          "blk-30830c736cf74398b866"
+        ],
+        "evidence_excerpt": "建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力",
+        "evidence_id": "ref-5465e1b4ae35:bundle-bcdff20237be",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          169
+        ],
+        "ref_id": "ref-5465e1b4ae35",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+        "claim_id": "claim-4f62f462cd488075",
+        "evidence_block_ids": [
+          "blk-a043d9294b7f5f7a3f88"
+        ],
+        "evidence_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+        "evidence_id": "ref-d3c36422d4de:bundle-9e06f87e448e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          133
+        ],
+        "ref_id": "ref-d3c36422d4de",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年8月举办的成都国际友城青年音乐周吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+        "claim_id": "claim-337cee89e1616ff5",
+        "evidence_block_ids": [
+          "blk-1f46badc798ff6f72350"
+        ],
+        "evidence_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+        "evidence_id": "ref-d3c36422d4de:bundle-9e06f87e448e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          133
+        ],
+        "ref_id": "ref-d3c36422d4de",
+        "scope": {
+          "time": [
+            "2020年8月"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年11月举办的成都（国际）童声音乐周吸引丹麦、日本、韩国等“一带一路”沿线国家知名童声合唱团参与。",
+        "claim_id": "claim-8372e667003918b2",
+        "evidence_block_ids": [
+          "blk-03333c353d45548abdc8"
+        ],
+        "evidence_excerpt": "2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与",
+        "evidence_id": "ref-d3c36422d4de:bundle-9e06f87e448e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          133
+        ],
+        "ref_id": "ref-d3c36422d4de",
+        "scope": {
+          "time": [
+            "2020年11月"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-181aad3d75ca3a17",
+          "claim-0af14a2c47a5f333",
+          "claim-6737bceedc99682d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5465e1b4ae35:bundle-bcdff20237be",
+        "reason": "包含低碳园区建设、技术合作、碳标识制度等核心措施，是回答国际比较中comparison_subject和difference的关键证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-4f62f462cd488075",
+          "claim-337cee89e1616ff5",
+          "claim-8372e667003918b2"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d3c36422d4de:bundle-9e06f87e448e",
+        "reason": "包含2020年成都音乐场馆数量、座位数及国际活动参与情况，是回答国际比较中measurement_basis和difference的关键证据。"
+      }
+    ],
+    "group_id": "topic-af2261b409e2",
+    "members": [
+      {
+        "contribution": "提供成都生态文明建设国际合作的具体措施，包括中瑞、中法园区建设，低碳技术引进与输出，以及碳标识制度建立，支撑绿色低碳体系构建。",
+        "ref_id": "ref-5465e1b4ae35",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成都国际音乐之都建设的量化成效，包括品牌活动、场馆数量及国际参与情况，支撑城市文化品质与国际影响力提升。",
+        "ref_id": "ref-d3c36422d4de",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-181aad3d75ca3a17",
+        "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0af14a2c47a5f333",
+        "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6737bceedc99682d",
+        "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4f62f462cd488075",
+        "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-337cee89e1616ff5",
+        "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8372e667003918b2",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-181aad3d75ca3a17",
+          "claim-0af14a2c47a5f333",
+          "claim-6737bceedc99682d"
+        ],
+        "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，建立产品和服务碳标识制度，以及举办国际音乐周活动，提升绿色低碳发展影响力与国际文化影响力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d056afacbb6e508b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-181aad3d75ca3a17",
+          "claim-0af14a2c47a5f333",
+          "claim-6737bceedc99682d"
+        ],
+        "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5af89897fb94f664",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ba233899260dee08",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-4f62f462cd488075"
+        ],
+        "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-00d0ec6d18cdf078",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-337cee89e1616ff5"
+        ],
+        "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-207dba3f9ab616ff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-337cee89e1616ff5"
+        ],
+        "draft_excerpt": "活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e7acc9d69651eb89",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8372e667003918b2"
+        ],
+        "draft_excerpt": "2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-392bc8f56ada8073",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8372e667003918b2"
+        ],
+        "draft_excerpt": "活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-854f81fbc91e94fa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-181aad3d75ca3a17",
+          "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0af14a2c47a5f333",
+          "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6737bceedc99682d",
+          "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4f62f462cd488075",
+          "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-337cee89e1616ff5",
+          "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-181aad3d75ca3a17",
+            "claim-0af14a2c47a5f333",
+            "claim-6737bceedc99682d"
+          ],
+          "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，建立产品和服务碳标识制度，以及举办国际音乐周活动，提升绿色低碳发展影响力与国际文化影响力。",
+          "finding": "supported",
+          "sentence_id": "sentence-d056afacbb6e508b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-181aad3d75ca3a17",
+            "claim-0af14a2c47a5f333",
+            "claim-6737bceedc99682d"
+          ],
+          "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+          "finding": "supported",
+          "sentence_id": "sentence-5af89897fb94f664",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-ba233899260dee08",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-4f62f462cd488075"
+          ],
+          "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+          "finding": "supported",
+          "sentence_id": "sentence-00d0ec6d18cdf078",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-337cee89e1616ff5"
+          ],
+          "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+          "finding": "supported",
+          "sentence_id": "sentence-207dba3f9ab616ff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-337cee89e1616ff5"
+          ],
+          "draft_excerpt": "活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+          "finding": "supported",
+          "sentence_id": "sentence-e7acc9d69651eb89",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8372e667003918b2"
+          ],
+          "draft_excerpt": "2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。",
+          "finding": "supported",
+          "sentence_id": "sentence-392bc8f56ada8073",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8372e667003918b2"
+          ],
+          "draft_excerpt": "活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与。",
+          "finding": "supported",
+          "sentence_id": "sentence-854f81fbc91e94fa",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "925b3b77b9e108413e293e057474d1652b37c8d377d0712295d59d0e429ac5a8",
+  "coverage_history": [
+    {
+      "draft_sha256": "e5e5ba22bb9e10631ff0f0b978a37bd922297486ae92638b0a6da985c8f67bc3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-181aad3d75ca3a17",
+            "draft_excerpt": "在生态合作方面，成都重点推进中瑞低碳生物医学产业园和中法生态园建设，旨在引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域的技术研发合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0af14a2c47a5f333",
+            "draft_excerpt": "在生态合作方面，成都重点推进中瑞低碳生物医学产业园和中法生态园建设，旨在引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域的技术研发合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6737bceedc99682d",
+            "draft_excerpt": "同时，建立成都产品和服务碳标识制度，以进一步提升城市绿色低碳发展的影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4f62f462cd488075",
+            "draft_excerpt": "成都拥有完善的专业音乐场馆设施，2020年专业音乐场馆共计60个，座位数达4.3万座，为国际文化交流提供了硬件支撑。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-337cee89e1616ff5",
+            "draft_excerpt": "2020年8月，成都举办“2020成都国际友城青年音乐周”，主题为“音乐连线叙友情、世界同心抗疫情”，吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8372e667003918b2",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-8372e667003918b2 is missing hard anchors from the claim: ['2020年11月']; claim='2020年11月举办的成都（国际）童声音乐周吸引丹麦、日本、韩国等“一带一路”沿线国家知名童声合唱团参与。'; excerpt='同年11月，举办“成都（国际）童声音乐周”，主题为“云端聚童声，线上续友情”，丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团以“云”方式参与。'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过深化中瑞、中法低碳合作及举办国际音乐交流活动，推动绿色低碳体系构建并提升城市国际影响力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3fec9d61ffbc3919",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过实施生态文明建设国际合作工程及全面开展国际音乐交流，加快构建绿色低碳体系并提升城市文化品质与国际影响力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2f8ae8eefb680b01",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-181aad3d75ca3a17",
+              "claim-0af14a2c47a5f333"
+            ],
+            "draft_excerpt": "在生态合作方面，成都重点推进中瑞低碳生物医学产业园和中法生态园建设，旨在引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域的技术研发合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e65dbb9944fe80ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6737bceedc99682d"
+            ],
+            "draft_excerpt": "同时，建立成都产品和服务碳标识制度，以进一步提升城市绿色低碳发展的影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bef8a20e38d8f465",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4f62f462cd488075"
+            ],
+            "draft_excerpt": "成都拥有完善的专业音乐场馆设施，2020年专业音乐场馆共计60个，座位数达4.3万座，为国际文化交流提供了硬件支撑。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a35788414035556c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-337cee89e1616ff5"
+            ],
+            "draft_excerpt": "2020年8月，成都举办“2020成都国际友城青年音乐周”，主题为“音乐连线叙友情、世界同心抗疫情”，吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-229f5874942ff98d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8372e667003918b2"
+            ],
+            "draft_excerpt": "同年11月，举办“成都（国际）童声音乐周”，主题为“云端聚童声，线上续友情”，丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团以“云”方式参与。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6d2dc74b10c10d43",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过深化中瑞、中法低碳合作及举办国际音乐交流活动，推动绿色低碳体系构建并提升城市国际影响力。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "成都通过实施生态文明建设国际合作工程及全面开展国际音乐交流，加快构建绿色低碳体系并提升城市文化品质与国际影响力。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "成都拥有完善的专业音乐场馆设施，2020年专业音乐场馆共计60个，座位数达4.3万座，为国际文化交流提供了硬件支撑。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "11",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "784ddba667435eb2fc84bf021143ce8c423ae2f88f8c2e71a603669ac6976547",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-181aad3d75ca3a17",
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0af14a2c47a5f333",
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6737bceedc99682d",
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4f62f462cd488075",
+            "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-337cee89e1616ff5",
+            "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8372e667003918b2",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园和中法生态园建设、建立碳标识制度，以及举办国际音乐周活动，提升绿色低碳发展影响力与国际文化影响力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-425aadb50d4bb149",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-181aad3d75ca3a17",
+              "claim-0af14a2c47a5f333",
+              "claim-6737bceedc99682d"
+            ],
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5af89897fb94f664",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba233899260dee08",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-4f62f462cd488075"
+            ],
+            "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00d0ec6d18cdf078",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-337cee89e1616ff5"
+            ],
+            "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-207dba3f9ab616ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-337cee89e1616ff5"
+            ],
+            "draft_excerpt": "活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e7acc9d69651eb89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8372e667003918b2"
+            ],
+            "draft_excerpt": "2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-392bc8f56ada8073",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8372e667003918b2"
+            ],
+            "draft_excerpt": "活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-854f81fbc91e94fa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园和中法生态园建设、建立碳标识制度，以及举办国际音乐周活动，提升绿色低碳发展影响力与国际文化影响力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "925b3b77b9e108413e293e057474d1652b37c8d377d0712295d59d0e429ac5a8",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-181aad3d75ca3a17",
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0af14a2c47a5f333",
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6737bceedc99682d",
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4f62f462cd488075",
+            "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-337cee89e1616ff5",
+            "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8372e667003918b2",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-181aad3d75ca3a17",
+              "claim-0af14a2c47a5f333",
+              "claim-6737bceedc99682d"
+            ],
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，建立产品和服务碳标识制度，以及举办国际音乐周活动，提升绿色低碳发展影响力与国际文化影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d056afacbb6e508b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-181aad3d75ca3a17",
+              "claim-0af14a2c47a5f333",
+              "claim-6737bceedc99682d"
+            ],
+            "draft_excerpt": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5af89897fb94f664",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba233899260dee08",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-4f62f462cd488075"
+            ],
+            "draft_excerpt": "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-00d0ec6d18cdf078",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-337cee89e1616ff5"
+            ],
+            "draft_excerpt": "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-207dba3f9ab616ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-337cee89e1616ff5"
+            ],
+            "draft_excerpt": "活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e7acc9d69651eb89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8372e667003918b2"
+            ],
+            "draft_excerpt": "2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-392bc8f56ada8073",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8372e667003918b2"
+            ],
+            "draft_excerpt": "活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-854f81fbc91e94fa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，并建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。同时，依托完善的专业音乐场馆设施，举办国际音乐交流活动，提升城市国际影响力。\n\n## 证据与影响\n\n2020年，成都专业音乐场馆共计60个，座位数4.3万座。2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与。",
+    "description": "成都通过加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，建立产品和服务碳标识制度，以及举办国际音乐周活动，提升绿色低碳发展影响力与国际文化影响力。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-af2261b409e2",
+      "description": "成都通过实施生态文明建设国际合作工程及全面开展国际音乐交流，加快构建绿色低碳体系并提升城市文化品质与国际影响力。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "加快推进中瑞低碳生物医学产业园、中法生态园建设",
+        "引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作",
+        "建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力",
+        "2020年，成都专业音乐场馆共计60个，座位数4.3万座。",
+        "2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。",
+        "2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与"
+      ],
+      "evidence_block_ids": [
+        "blk-30830c736cf74398b866",
+        "blk-a043d9294b7f5f7a3f88",
+        "blk-1f46badc798ff6f72350",
+        "blk-03333c353d45548abdc8"
+      ],
+      "page_end": 169,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都国际交流合作与城市能级提升",
+      "type": "国际比较"
+    },
+    "title": "成都国际交流合作与城市能级提升"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5465e1b4ae35:bundle-bcdff20237be",
+      "excluded_fragments": [],
+      "ref_id": "ref-5465e1b4ae35",
+      "source_blocks": [
+        {
+          "block_id": "blk-30830c736cf74398b866",
+          "page_number": 169,
+          "text": "加快构建绿色低碳制度、产业、城市、能源、消费、碳汇体系，提升低碳发展基础能力，推动国家低碳城市建设。支持开展国际合作推动天府绿道建设，实现“绿色、生态、低碳”集成发展模式。加快推进中瑞低碳生物医学产业园、中法生态园建设，引进国际资金和气候友好技术，促进可再生能源、节能环保装备等领域技术研发合作，做大做强绿色低碳制造业、服务业和循环产业，推动生产系统和生活系统循环链接。支持在臭氧污染防治、空气质量监测等领域开展国际技术合作，推动我市低碳技术、适应技术及产品“走出去”，鼓励出口产品低碳认证，建立成都产品和服务碳标识制度，提升城市绿色低碳发展影响力。〔牵头单位：市发改委；责任单位：市环保局、市建委、市经信委、市投促委、市商务委，相关区（市）县]"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-d3c36422d4de:bundle-9e06f87e448e",
+      "excluded_fragments": [],
+      "ref_id": "ref-d3c36422d4de",
+      "source_blocks": [
+        {
+          "block_id": "blk-e3a4f8864df475fa7b1f",
+          "page_number": 132,
+          "text": "2020年，成都加快建设国际音乐之都，广泛开展品牌音乐交流活动，不断完善音乐交流载体布局，营造浓厚音乐文化氛围，持续提升城市音乐品质和发展内涵。"
+        },
+        {
+          "block_id": "blk-c443effc3f099c6bcc75",
+          "page_number": 132,
+          "text": "品牌音乐交流活动成效显著。开展中国网络视听大会、“2020年成都国际青年音乐周”、第四届成都“金芙蓉”音乐比赛、第26届“蓉城之秋”成都国际音乐季、成都（国际）童声音乐周等优质音乐品牌活动，举办星巢音乐节、草莓音乐嘉年华、仙人掌音乐节等市场知名音乐节；发布《来自中国成都的问候——2020年中秋佳节"
+        },
+        {
+          "block_id": "blk-004c0d444307faa26dea",
+          "page_number": 133,
+          "text": "“云端”音乐MV》，获德国、意大利、日本、新家坡等“一带一路”沿线国家广泛好评，在全球取得良好传播效果。"
+        },
+        {
+          "block_id": "blk-a043d9294b7f5f7a3f88",
+          "page_number": 133,
+          "text": "音乐交流载体建设扎实推进。合纵成都国际音乐产业基地（西南总部）项目场馆建设完工，“一带一路”国际艺术中心、金沙演艺综合体、东来印象大剧院、露天音乐公园、成都中演华天艺术中心、大运会文化产业发展剧院等项目加快建设，2020年，成都专业音乐场馆共计60个，座位数4.3万座。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-1f46badc798ff6f72350",
+          "page_number": 133,
+          "text": "“成都国际友城青年音乐周”。2020年8月，举办了以“音乐连线叙友情、世界同心抗疫情”为主题的“2020成都国际友城青年音乐周”。活动吸引来自45个国家72个城市、地区、国际机构的129支境外艺术团参加。"
+        },
+        {
+          "block_id": "blk-03333c353d45548abdc8",
+          "page_number": 133,
+          "text": "“成都（国际）童声音乐周”。2020年11月，举办了以“云端聚童声，线上续友情”为主题的“成都（国际）童声音乐周”。活动吸引丹麦皇家音乐学院童声合唱团、日本耕友会联盟合唱团、韩国光州儿童艺术团等“一带一路”沿线国家的知名童声合唱团“云”参与，实现了良好的国际传播效果。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-af2261b409e2",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-5465e1b4ae35",
+    "ref-d3c36422d4de"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

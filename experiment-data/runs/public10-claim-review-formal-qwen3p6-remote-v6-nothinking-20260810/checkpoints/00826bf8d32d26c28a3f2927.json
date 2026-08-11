@@ -1,0 +1,874 @@
+{
+  "contract": {
+    "canonical_question": "2016年第三次G20财长和央行行长会议在成都召开时，其核心议题、主要共识及为杭州峰会所做的财金成果准备情况如何？",
+    "claims": [
+      {
+        "claim": "2016年第三次G20财长和央行行长会议在成都召开，主题为“共促增长、共担责任、共建治理、共享发展”。",
+        "claim_id": "claim-540fecc87591cc8c",
+        "evidence_block_ids": [
+          "blk-fe3bcbbcb6f1459823bd"
+        ],
+        "evidence_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议成都召开",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          88
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {
+          "time": [
+            "2016年7月"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议主题为“共促增长、共担责任、共建治理、共享发展”。",
+        "claim_id": "claim-97c31a9b09ecfef3",
+        "evidence_block_ids": [
+          "blk-d25b6795c17f813f4809"
+        ],
+        "evidence_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          88
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+        "claim_id": "claim-b5533b41a992c19a",
+        "evidence_block_ids": [
+          "blk-d25b6795c17f813f4809",
+          "blk-31db0f1fb46f1a520489"
+        ],
+        "evidence_excerpt": "主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          88,
+          89
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议认为全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+        "claim_id": "claim-0010f23c1b14328b",
+        "evidence_block_ids": [
+          "blk-31db0f1fb46f1a520489"
+        ],
+        "evidence_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          89
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议指出G20正在采取行动增强信心和促进增长。",
+        "claim_id": "claim-2072ea73a3481267",
+        "evidence_block_ids": [
+          "blk-31db0f1fb46f1a520489"
+        ],
+        "evidence_excerpt": "会议指出G20正在采取行动增强信心和促进增长",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          89
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+        "claim_id": "claim-dce953e8d6512aef",
+        "evidence_block_ids": [
+          "blk-31db0f1fb46f1a520489"
+        ],
+        "evidence_excerpt": "并重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          89
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+        "claim_id": "claim-8cb64c337ae61847",
+        "evidence_block_ids": [
+          "blk-31db0f1fb46f1a520489"
+        ],
+        "evidence_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          89
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+        "claim_id": "claim-e15e2bfe40585413",
+        "evidence_block_ids": [
+          "blk-31db0f1fb46f1a520489"
+        ],
+        "evidence_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          89
+        ],
+        "ref_id": "ref-844c0017df5d",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-540fecc87591cc8c",
+          "claim-97c31a9b09ecfef3",
+          "claim-b5533b41a992c19a",
+          "claim-0010f23c1b14328b",
+          "claim-2072ea73a3481267",
+          "claim-dce953e8d6512aef",
+          "claim-8cb64c337ae61847",
+          "claim-e15e2bfe40585413"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+        "reason": "该Bundle包含会议主题、议题列表、政策共识及成果公报等核心事实，是回答中心问题所必需的原子事实来源。"
+      }
+    ],
+    "group_id": "topic-db35b2de874d",
+    "members": [
+      {
+        "contribution": "该证据直接提供了会议的基本背景、主题、主要讨论议题、达成的宏观政策共识（如货币与财政战略、汇率立场）以及最终成果（公报），完整回答了关于会议内容与意义的中心问题。",
+        "ref_id": "ref-844c0017df5d",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-540fecc87591cc8c",
+        "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-97c31a9b09ecfef3",
+        "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b5533b41a992c19a",
+        "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0010f23c1b14328b",
+        "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2072ea73a3481267",
+        "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dce953e8d6512aef",
+        "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8cb64c337ae61847",
+        "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e15e2bfe40585413",
+        "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-540fecc87591cc8c",
+          "claim-97c31a9b09ecfef3"
+        ],
+        "draft_excerpt": "2016年7月召开的G20财长和央行行长会议，以“共促增长、共担责任、共建治理、共享发展”为主题，探讨了全球经济形势及政策协调议题。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c662d978b08efddc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-540fecc87591cc8c"
+        ],
+        "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5271742732773a54",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-97c31a9b09ecfef3",
+          "claim-b5533b41a992c19a"
+        ],
+        "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-07ff8d7a9386ed12",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0010f23c1b14328b"
+        ],
+        "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-af360e16a7811344",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2072ea73a3481267"
+        ],
+        "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3b2501b0d052866d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dce953e8d6512aef"
+        ],
+        "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0abd55ade20a5271",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8cb64c337ae61847"
+        ],
+        "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ebf02dad438a912f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e15e2bfe40585413"
+        ],
+        "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-36cab4b6b37e7702",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-540fecc87591cc8c",
+          "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-97c31a9b09ecfef3",
+          "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b5533b41a992c19a",
+          "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0010f23c1b14328b",
+          "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2072ea73a3481267",
+          "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dce953e8d6512aef",
+          "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8cb64c337ae61847",
+          "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e15e2bfe40585413",
+          "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-540fecc87591cc8c",
+            "claim-97c31a9b09ecfef3"
+          ],
+          "draft_excerpt": "2016年7月召开的G20财长和央行行长会议，以“共促增长、共担责任、共建治理、共享发展”为主题，探讨了全球经济形势及政策协调议题。",
+          "finding": "supported",
+          "sentence_id": "sentence-c662d978b08efddc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-540fecc87591cc8c"
+          ],
+          "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+          "finding": "supported",
+          "sentence_id": "sentence-5271742732773a54",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-97c31a9b09ecfef3",
+            "claim-b5533b41a992c19a"
+          ],
+          "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+          "finding": "supported",
+          "sentence_id": "sentence-07ff8d7a9386ed12",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0010f23c1b14328b"
+          ],
+          "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+          "finding": "supported",
+          "sentence_id": "sentence-af360e16a7811344",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2072ea73a3481267"
+          ],
+          "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+          "finding": "supported",
+          "sentence_id": "sentence-3b2501b0d052866d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dce953e8d6512aef"
+          ],
+          "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+          "finding": "supported",
+          "sentence_id": "sentence-0abd55ade20a5271",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8cb64c337ae61847"
+          ],
+          "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+          "finding": "supported",
+          "sentence_id": "sentence-ebf02dad438a912f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e15e2bfe40585413"
+          ],
+          "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+          "finding": "supported",
+          "sentence_id": "sentence-36cab4b6b37e7702",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "02c021e18070e9074a5265307decce700016a2a263f82e43c737b947587e9130",
+  "coverage_history": [
+    {
+      "draft_sha256": "3048bbe00a657b780fcd36a1cf85b5cad2ef007108c8f19f065e21de99012465",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-540fecc87591cc8c",
+            "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-97c31a9b09ecfef3",
+            "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b5533b41a992c19a",
+            "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0010f23c1b14328b",
+            "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2072ea73a3481267",
+            "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dce953e8d6512aef",
+            "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8cb64c337ae61847",
+            "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e15e2bfe40585413",
+            "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年7月在成都召开的G20财长和央行行长会议，作为杭州峰会前的最后一次成员国会议，确立了以“共促增长、共担责任、共建治理、共享发展”为主题的全球经济治理与政策协调框架。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9e507f963adce2e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-540fecc87591cc8c"
+            ],
+            "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5271742732773a54",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这是G20财长和央行行长会议自诞生以来首次在中国西部举办。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b595e0becef7161e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-97c31a9b09ecfef3",
+              "claim-b5533b41a992c19a"
+            ],
+            "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-19f350e30a795e15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0010f23c1b14328b"
+            ],
+            "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6741004ab1728a63",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2072ea73a3481267"
+            ],
+            "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3dff5580462e7843",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dce953e8d6512aef"
+            ],
+            "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef7345c6c4aa84c7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8cb64c337ae61847"
+            ],
+            "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6e0b5d0b8d870ebc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e15e2bfe40585413"
+            ],
+            "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c21392fdb72070e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年7月在成都召开的G20财长和央行行长会议，作为杭州峰会前的最后一次成员国会议，确立了以“共促增长、共担责任、共建治理、共享发展”为主题的全球经济治理与政策协调框架。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "这是G20财长和央行行长会议自诞生以来首次在中国西部举办。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "02c021e18070e9074a5265307decce700016a2a263f82e43c737b947587e9130",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-540fecc87591cc8c",
+            "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-97c31a9b09ecfef3",
+            "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b5533b41a992c19a",
+            "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0010f23c1b14328b",
+            "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2072ea73a3481267",
+            "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dce953e8d6512aef",
+            "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8cb64c337ae61847",
+            "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e15e2bfe40585413",
+            "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-540fecc87591cc8c",
+              "claim-97c31a9b09ecfef3"
+            ],
+            "draft_excerpt": "2016年7月召开的G20财长和央行行长会议，以“共促增长、共担责任、共建治理、共享发展”为主题，探讨了全球经济形势及政策协调议题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c662d978b08efddc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-540fecc87591cc8c"
+            ],
+            "draft_excerpt": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5271742732773a54",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-97c31a9b09ecfef3",
+              "claim-b5533b41a992c19a"
+            ],
+            "draft_excerpt": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07ff8d7a9386ed12",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0010f23c1b14328b"
+            ],
+            "draft_excerpt": "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af360e16a7811344",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2072ea73a3481267"
+            ],
+            "draft_excerpt": "会议指出G20正在采取行动增强信心和促进增长。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3b2501b0d052866d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dce953e8d6512aef"
+            ],
+            "draft_excerpt": "会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0abd55ade20a5271",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8cb64c337ae61847"
+            ],
+            "draft_excerpt": "会议承诺货币政策将继续支持经济活动，保持价格稳定。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ebf02dad438a912f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e15e2bfe40585413"
+            ],
+            "draft_excerpt": "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36cab4b6b37e7702",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议在成都召开。本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。\n\n会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在。会议指出G20正在采取行动增强信心和促进增长。\n\n会议重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标。会议承诺货币政策将继续支持经济活动，保持价格稳定。会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用。",
+    "description": "2016年7月召开的G20财长和央行行长会议，以“共促增长、共担责任、共建治理、共享发展”为主题，探讨了全球经济形势及政策协调议题。",
+    "ref": {
+      "asset_hints": [
+        "image-032"
+      ],
+      "concept_id": "topic-db35b2de874d",
+      "description": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议成都召开，这是G20财长和央行行长会议自诞生以来首次在中国西部举办。",
+      "document_family_id": "9e3ac4bb851dccd2e74c",
+      "document_version_id": "bfdd46d8149bb22ebd84",
+      "evidence": [
+        "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议成都召开",
+        "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题",
+        "主要探讨了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。",
+        "会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在",
+        "会议指出G20正在采取行动增强信心和促进增长",
+        "并重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标",
+        "会议承诺货币政策将继续支持经济活动，保持价格稳定",
+        "会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用"
+      ],
+      "evidence_block_ids": [
+        "blk-fe3bcbbcb6f1459823bd",
+        "blk-d25b6795c17f813f4809",
+        "blk-31db0f1fb46f1a520489"
+      ],
+      "page_end": 89,
+      "page_start": 88,
+      "ref_family_hint": "",
+      "ref_version_id": "bfdd46d8149bb22ebd84",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "2016年第三次G20财长和央行行长会议"
+      ],
+      "semantic_signature": {},
+      "source": "2f27f8b7-c83d-49c6-96ff-95ff655ed6c4.md",
+      "title": "2016年第三次G20财长和央行行长会议",
+      "type": "分析框架"
+    },
+    "title": "2016年第三次G20财长和央行行长会议"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-844c0017df5d:bundle-5cf962a0bfbb",
+      "excluded_fragments": [],
+      "ref_id": "ref-844c0017df5d",
+      "source_blocks": [
+        {
+          "block_id": "blk-fe3bcbbcb6f1459823bd",
+          "page_number": 88,
+          "text": "2016年7月，作为G20杭州峰会之前的最后一次成员国会议，2016年第三次G20财长和央行行长会议成都召开，这是G20财长和央行行长会议自诞生以来首次在中国西部举办。本次会议为期两天，来自G20成员和受邀嘉宾国的财长和央行行长以及世界银行、国际货币基金组织（IMF）、经合组织（OECD）等国际机构的900余名代表出席会议。"
+        },
+        {
+          "block_id": "blk-e5f46c123e8a1229d0a7",
+          "page_number": 88,
+          "text": "原始 PDF 第 88 页图片"
+        },
+        {
+          "block_id": "blk-e8228036d36f3e549bb7",
+          "page_number": 88,
+          "text": "图3-42016年第三次G20财长和央行行长会议与会代表合影图"
+        },
+        {
+          "block_id": "blk-eaadc419d446b082ea78",
+          "page_number": 88,
+          "text": "G20初期的运行机制是财长和央行行长会议，2008年金融危机后，G20升格为领导人峰会，形成了以峰会为引领、协调人和财金渠道“双轨机制”为支撑、部长级会议和工作组为辅助的架构。当前，每届G20峰会之前会先期召开一次或几次G20财长和央行行长会议、财长和央行行长副手会议及G20协调人会议，为最终的峰会作前期磋商。此次G20财长和央行行长会议在成都举行，有利于进一步扩大成都的国际影响力，推动成都乃至整个四川对外开放水平的提升。"
+        },
+        {
+          "block_id": "blk-d25b6795c17f813f4809",
+          "page_number": 88,
+          "text": "本次会议以“共促增长、共担责任、共建治理、共享发展”为主题，主要探讨"
+        },
+        {
+          "block_id": "blk-31db0f1fb46f1a520489",
+          "page_number": 89,
+          "text": "了当前全球经济形势、“强劲、可持续和平衡增长框架”、国际金融架构、投资和基础设施、金融部门改革、国际税收合作、绿色金融、气候资金、反恐融资等议题。会议认为，全球经济持续复苏，但仍旧弱于预期，下行风险持续存在；会议指出G20正在采取行动增强信心和促进增长，并重申将各自以及共同使用所有政策工具，包括货币、财政和结构性改革政策，以实现强劲、可持续、平衡和包容性增长目标；会议承诺货币政策将继续支持经济活动，保持价格稳定；在强调结构性改革的关键作用的同时，会议强调财政战略在促进实现共同增长目标方面具有同等重要的作用；会议承诺继续研究在必要时可能采取的适合各国国情的政策措施；会议重申将就外汇市场密切讨论沟通，避免竞争性贬值和不以竞争性目的来盯住汇率，并反对各种形式的保护主义。最后，会议核准了各议题下的主要成果，并发表了会议公报，为杭州峰会做好了财金成果准备。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-db35b2de874d",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-844c0017df5d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

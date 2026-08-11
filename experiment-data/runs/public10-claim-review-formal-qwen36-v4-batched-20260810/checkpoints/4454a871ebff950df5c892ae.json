@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-81766682e1a1:bundle-37cc0ad2804d; submitted='《成德眉资同城化发展暨成都都市圈建设成长期三年行动计划（2023—2025年）》聚焦纵深推进成德眉资同城化发展，加快打造具有国际竞争力和区域带动力的现代化都市圈'; nearest_verbatim_span='》聚焦纵深推进成德眉资同城化发展，加快打造具有国际竞争力和区域带动力的现代化都市圈'; remove any contextual title/framing not present in that span",
+  "group_id": "proposition-7e4a36a43afc",
+  "ref_ids": [
+    "ref-2aea9c62ce8c",
+    "ref-81766682e1a1"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

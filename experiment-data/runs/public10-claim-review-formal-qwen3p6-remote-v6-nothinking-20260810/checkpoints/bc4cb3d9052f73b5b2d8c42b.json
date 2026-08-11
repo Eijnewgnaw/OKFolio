@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-06ecc7d8521e:bundle-30beeccef68b; submitted='一是深化制度创新。借鉴上海、海南等先进地区已试点政策，加快知识产权、创新要素流动、竞争政策、争端解决等制度探索，加强与CPTPP、RCEP等国际经贸规则的衔接。深化“铁路运单物权凭证属性”“铁路 + 多式联运“一单制”等改革创新，共同探索构建以铁路提单、多式联运“一单制”为核心的陆上国际贸易规则体系。二是加强通道口岸建'; nearest_verbatim_span='一是深化制度创新。借鉴上海、海南等先进地区已试点政策，加快知识产权、创新要素流动、竞争政策、争端解决等制度探索，加强与CPTPP、RCEP等国际经贸规则的衔接。深化“铁路运单物权凭证属性”“铁路 \\\\(+\\\\) ”多式联运“一单制”等改革创新，共同探索构建以铁路提单、多式联运“一单制”为核心的陆上国际贸易规则体系。二是加强'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-c2391e3e6250",
+  "ref_ids": [
+    "ref-06ecc7d8521e",
+    "ref-314f288e4b73"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

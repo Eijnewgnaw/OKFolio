@@ -1,0 +1,578 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸区在2017-2019年间针对畅通国际通道提出了哪些具体行动措施及责任主体？",
+    "claims": [
+      {
+        "claim": "成都自贸区计划进一步增加蓉欧班列的开行频次。",
+        "claim_id": "claim-a30a033882541f9a",
+        "evidence_block_ids": [
+          "blk-906c02a2a5a615c60f88"
+        ],
+        "evidence_excerpt": "进一步增加蓉欧班列开行频次",
+        "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-5762ee813145",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸区支持新开国际航线。",
+        "claim_id": "claim-37b30c526f7c0524",
+        "evidence_block_ids": [
+          "blk-906c02a2a5a615c60f88"
+        ],
+        "evidence_excerpt": "支持新开国际航线",
+        "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-5762ee813145",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸区加强与沿海地区对接。",
+        "claim_id": "claim-a1796c8667b17b9c",
+        "evidence_block_ids": [
+          "blk-906c02a2a5a615c60f88"
+        ],
+        "evidence_excerpt": "加强与沿海地区对接",
+        "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-5762ee813145",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸区促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "claim_id": "claim-24122176dfdf02a6",
+        "evidence_block_ids": [
+          "blk-906c02a2a5a615c60f88"
+        ],
+        "evidence_excerpt": "促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务",
+        "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-5762ee813145",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "蓉欧班列频次增加、新开航线及沿海对接的责任单位是市口岸物流办和市商务委。",
+        "claim_id": "claim-fb86df68913c5abd",
+        "evidence_block_ids": [
+          "blk-906c02a2a5a615c60f88"
+        ],
+        "evidence_excerpt": "（责任单位：市口岸物流办、市商务委）",
+        "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          181
+        ],
+        "ref_id": "ref-5762ee813145",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-a30a033882541f9a",
+          "claim-37b30c526f7c0524",
+          "claim-a1796c8667b17b9c",
+          "claim-24122176dfdf02a6",
+          "claim-fb86df68913c5abd"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+        "reason": "该Bundle包含国际比较概念所需的comparison_subject（成都）、measurement_basis（具体行动措施）、time（2017-2019隐含于文档标题）、implementer（责任主体）等固定槽位的关键事实。"
+      }
+    ],
+    "group_id": "topic-102e9ca9c79c",
+    "members": [
+      {
+        "contribution": "该证据明确了“畅通国际通道”这一主题下的具体行动措施（增加班列频次、新开航线、对接沿海）及责任主体，是回答该概念下政策执行细节的核心依据。",
+        "ref_id": "ref-5762ee813145",
+        "relation": "applies_to"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-a30a033882541f9a",
+        "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-37b30c526f7c0524",
+        "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a1796c8667b17b9c",
+        "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-24122176dfdf02a6",
+        "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fb86df68913c5abd",
+        "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-a30a033882541f9a",
+          "claim-37b30c526f7c0524",
+          "claim-a1796c8667b17b9c",
+          "claim-24122176dfdf02a6"
+        ],
+        "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d2c34aaddbe1069",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a30a033882541f9a",
+          "claim-37b30c526f7c0524",
+          "claim-a1796c8667b17b9c",
+          "claim-24122176dfdf02a6"
+        ],
+        "draft_excerpt": "畅通国际通道的核心在于进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-28a603acdd7b44dc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fb86df68913c5abd"
+        ],
+        "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c70ae3009fcb3d1a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fb86df68913c5abd"
+        ],
+        "draft_excerpt": "责任单位：市口岸物流办、市商务委",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4d805d8bf5c5a7f1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-a30a033882541f9a",
+          "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-37b30c526f7c0524",
+          "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a1796c8667b17b9c",
+          "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-24122176dfdf02a6",
+          "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fb86df68913c5abd",
+          "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-a30a033882541f9a",
+            "claim-37b30c526f7c0524",
+            "claim-a1796c8667b17b9c",
+            "claim-24122176dfdf02a6"
+          ],
+          "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+          "finding": "supported",
+          "sentence_id": "sentence-5d2c34aaddbe1069",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a30a033882541f9a",
+            "claim-37b30c526f7c0524",
+            "claim-a1796c8667b17b9c",
+            "claim-24122176dfdf02a6"
+          ],
+          "draft_excerpt": "畅通国际通道的核心在于进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+          "finding": "supported",
+          "sentence_id": "sentence-28a603acdd7b44dc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fb86df68913c5abd"
+          ],
+          "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+          "finding": "supported",
+          "sentence_id": "sentence-c70ae3009fcb3d1a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fb86df68913c5abd"
+          ],
+          "draft_excerpt": "责任单位：市口岸物流办、市商务委",
+          "finding": "supported",
+          "sentence_id": "sentence-4d805d8bf5c5a7f1",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "5e10a95a18cb306f44dcdeee3ccda3a67c23524a5dd4a887fa18f7b8b45299c0",
+  "coverage_history": [
+    {
+      "draft_sha256": "97e8fe83e15bc53b1f128567cd27a907d7ea37a53fe1c949237174d18ba0b375",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a30a033882541f9a",
+            "draft_excerpt": "通过增加蓉欧班列开行频次、支持新开国际航线及加强与沿海地区对接，促进沿海加工贸易企业转移并使用本地国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-37b30c526f7c0524",
+            "draft_excerpt": "通过增加蓉欧班列开行频次、支持新开国际航线及加强与沿海地区对接，促进沿海加工贸易企业转移并使用本地国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a1796c8667b17b9c",
+            "draft_excerpt": "通过增加蓉欧班列开行频次、支持新开国际航线及加强与沿海地区对接，促进沿海加工贸易企业转移并使用本地国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24122176dfdf02a6",
+            "draft_excerpt": "通过增加蓉欧班列开行频次、支持新开国际航线及加强与沿海地区对接，促进沿海加工贸易企业转移并使用本地国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb86df68913c5abd",
+            "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a30a033882541f9a",
+              "claim-37b30c526f7c0524",
+              "claim-a1796c8667b17b9c",
+              "claim-24122176dfdf02a6"
+            ],
+            "draft_excerpt": "通过增加蓉欧班列开行频次、支持新开国际航线及加强与沿海地区对接，促进沿海加工贸易企业转移并使用本地国际通道开展进出口业务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-feccd8e566bb3d95",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "畅通国际通道的核心在于通过提升现有物流通道效能与拓展新航线，强化本地与国际市场的连接能力。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55aeb22ac7a36516",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a30a033882541f9a",
+              "claim-37b30c526f7c0524"
+            ],
+            "draft_excerpt": "重点策略包括进一步增加蓉欧班列的开行频次，并支持新开国际航线，以构建更密集的国际物流网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52e961909a47a2a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a1796c8667b17b9c",
+              "claim-24122176dfdf02a6"
+            ],
+            "draft_excerpt": "同时需加强与沿海地区的对接合作，旨在促进沿海加工贸易企业向本地转移，并引导其利用本市的国际通道开展进出口业务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-713798662eabee79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb86df68913c5abd"
+            ],
+            "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6aa13728b8b9c40c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过上述措施，预期将实现沿海加工贸易企业的转移及本地国际通道的有效利用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bea9470c8e68eea0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb86df68913c5abd"
+            ],
+            "draft_excerpt": "责任单位：市口岸物流办、市商务委",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f6c880a28cca43e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "畅通国际通道的核心在于通过提升现有物流通道效能与拓展新航线，强化本地与国际市场的连接能力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "通过上述措施，预期将实现沿海加工贸易企业的转移及本地国际通道的有效利用。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "5e10a95a18cb306f44dcdeee3ccda3a67c23524a5dd4a887fa18f7b8b45299c0",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-a30a033882541f9a",
+            "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-37b30c526f7c0524",
+            "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a1796c8667b17b9c",
+            "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-24122176dfdf02a6",
+            "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb86df68913c5abd",
+            "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a30a033882541f9a",
+              "claim-37b30c526f7c0524",
+              "claim-a1796c8667b17b9c",
+              "claim-24122176dfdf02a6"
+            ],
+            "draft_excerpt": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d2c34aaddbe1069",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a30a033882541f9a",
+              "claim-37b30c526f7c0524",
+              "claim-a1796c8667b17b9c",
+              "claim-24122176dfdf02a6"
+            ],
+            "draft_excerpt": "畅通国际通道的核心在于进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-28a603acdd7b44dc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb86df68913c5abd"
+            ],
+            "draft_excerpt": "该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c70ae3009fcb3d1a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb86df68913c5abd"
+            ],
+            "draft_excerpt": "责任单位：市口岸物流办、市商务委",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d805d8bf5c5a7f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n畅通国际通道的核心在于进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。\n\n## 证据与影响\n\n该策略由市级相关部门负责执行，具体责任主体明确为市口岸物流办与市商务委。\n\n- 责任单位：市口岸物流办、市商务委",
+    "description": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-102e9ca9c79c",
+      "description": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "进一步增加蓉欧班列开行频次",
+        "支持新开国际航线",
+        "加强与沿海地区对接",
+        "促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务",
+        "（责任单位：市口岸物流办、市商务委）"
+      ],
+      "evidence_block_ids": [
+        "blk-906c02a2a5a615c60f88"
+      ],
+      "page_end": 181,
+      "page_start": 181,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（四）畅通国际通道"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "畅通国际通道",
+      "type": "国际比较"
+    },
+    "title": "畅通国际通道"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5762ee813145:bundle-d0ad2c89cfc5",
+      "excluded_fragments": [],
+      "ref_id": "ref-5762ee813145",
+      "source_blocks": [
+        {
+          "block_id": "blk-906c02a2a5a615c60f88",
+          "page_number": 181,
+          "text": "进一步增加蓉欧班列开行频次，支持新开国际航线，加强与沿海地区对接，促进沿海加工贸易企业转移并使用我市的国际通道开展进出口业务。（责任单位：市口岸物流办、市商务委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-102e9ca9c79c",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-5762ee813145"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

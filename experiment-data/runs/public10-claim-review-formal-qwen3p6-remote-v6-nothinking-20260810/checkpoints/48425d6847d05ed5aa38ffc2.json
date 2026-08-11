@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-33633b068469:bundle-5a97c29373e0; submitted='2021年，长江经济带高质量发展扎实推进，地区生产总值达53.0亿元，对全国经济增长的贡献率超过50%'; nearest_verbatim_span='长江经济带高质量发展扎实推进，地区生产总值达53.0亿元，对全国经济增长的贡献率超过 \\\\(50\\\\%'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-c8eff17a5682",
+  "ref_ids": [
+    "ref-10a839c481cc",
+    "ref-33633b068469"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,418 @@
+{
+  "contract": {
+    "canonical_question": "温江区通过与青白江、成都国际铁路港对接花木出口，实现出口额达1000万美元的跨区域产业协作成果具体包括哪些内容？",
+    "claims": [
+      {
+        "claim": "温江区与青白江、成都国际铁路港对接花木出口。",
+        "claim_id": "claim-1546c710906c4da6",
+        "evidence_block_ids": [
+          "blk-24eeb2f3dafcb3136de6"
+        ],
+        "evidence_excerpt": "与青白江、成都国际铁路港对接花木出口，出口额达1000万美元；",
+        "evidence_id": "ref-1300cca9deb4:bundle-95f78a96fa20",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          65
+        ],
+        "ref_id": "ref-1300cca9deb4",
+        "scope": {
+          "region": [
+            "温江区",
+            "青白江",
+            "成都国际铁路港"
+          ],
+          "time": [
+            "2019年以来"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "温江区通过花木出口协作实现出口额达1000万美元。",
+        "claim_id": "claim-6c681762dcf68876",
+        "evidence_block_ids": [
+          "blk-24eeb2f3dafcb3136de6"
+        ],
+        "evidence_excerpt": "与青白江、成都国际铁路港对接花木出口，出口额达1000万美元；",
+        "evidence_id": "ref-1300cca9deb4:bundle-95f78a96fa20",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          65
+        ],
+        "ref_id": "ref-1300cca9deb4",
+        "scope": {
+          "region": [
+            "温江区"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1546c710906c4da6",
+          "claim-6c681762dcf68876"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1300cca9deb4:bundle-95f78a96fa20",
+        "reason": "该Bundle包含描述温江区花木出口协作及金额的核心事实，是回答中心问题必须保留的证据。"
+      }
+    ],
+    "group_id": "topic-9ba402508fb1",
+    "members": [
+      {
+        "contribution": "该证据直接描述了温江区在花木出口方面的跨区域协作具体举措及达成的1000万美元出口额成果，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-1300cca9deb4",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-1546c710906c4da6",
+        "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6c681762dcf68876",
+        "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-1546c710906c4da6",
+          "claim-6c681762dcf68876"
+        ],
+        "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-848ddbdf76fc6823",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1546c710906c4da6"
+        ],
+        "draft_excerpt": "温江区通过建立与青白江及成都国际铁路港的对接机制，实现了花木产品的跨区域出口协作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5797fa1374ab007f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6c681762dcf68876"
+        ],
+        "draft_excerpt": "该跨区域产业协作模式直接推动了出口业务的增长，最终实现出口额达1000万美元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-80fc7461f108e999",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1546c710906c4da6"
+        ],
+        "draft_excerpt": "与青白江、成都国际铁路港对接花木出口",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c9db7a46c1d06eea",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6c681762dcf68876"
+        ],
+        "draft_excerpt": "出口额达1000万美元",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f7f576fdd2c1f8b7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1546c710906c4da6",
+          "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6c681762dcf68876",
+          "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1546c710906c4da6",
+            "claim-6c681762dcf68876"
+          ],
+          "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+          "finding": "supported",
+          "sentence_id": "sentence-848ddbdf76fc6823",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1546c710906c4da6"
+          ],
+          "draft_excerpt": "温江区通过建立与青白江及成都国际铁路港的对接机制，实现了花木产品的跨区域出口协作。",
+          "finding": "supported",
+          "sentence_id": "sentence-5797fa1374ab007f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6c681762dcf68876"
+          ],
+          "draft_excerpt": "该跨区域产业协作模式直接推动了出口业务的增长，最终实现出口额达1000万美元。",
+          "finding": "supported",
+          "sentence_id": "sentence-80fc7461f108e999",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1546c710906c4da6"
+          ],
+          "draft_excerpt": "与青白江、成都国际铁路港对接花木出口",
+          "finding": "supported",
+          "sentence_id": "sentence-c9db7a46c1d06eea",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6c681762dcf68876"
+          ],
+          "draft_excerpt": "出口额达1000万美元",
+          "finding": "supported",
+          "sentence_id": "sentence-f7f576fdd2c1f8b7",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "73907a2de02c51a43b0112e7236350c529a0d158355a0c241fc2650f32766199",
+  "coverage_history": [
+    {
+      "draft_sha256": "73907a2de02c51a43b0112e7236350c529a0d158355a0c241fc2650f32766199",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-1546c710906c4da6",
+            "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c681762dcf68876",
+            "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1546c710906c4da6",
+              "claim-6c681762dcf68876"
+            ],
+            "draft_excerpt": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-848ddbdf76fc6823",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1546c710906c4da6"
+            ],
+            "draft_excerpt": "温江区通过建立与青白江及成都国际铁路港的对接机制，实现了花木产品的跨区域出口协作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5797fa1374ab007f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c681762dcf68876"
+            ],
+            "draft_excerpt": "该跨区域产业协作模式直接推动了出口业务的增长，最终实现出口额达1000万美元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-80fc7461f108e999",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1546c710906c4da6"
+            ],
+            "draft_excerpt": "与青白江、成都国际铁路港对接花木出口",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9db7a46c1d06eea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c681762dcf68876"
+            ],
+            "draft_excerpt": "出口额达1000万美元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f7f576fdd2c1f8b7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n温江区通过建立与青白江及成都国际铁路港的对接机制，实现了花木产品的跨区域出口协作。\n\n## 证据与影响\n\n该跨区域产业协作模式直接推动了出口业务的增长，最终实现出口额达1000万美元。\n\n- 与青白江、成都国际铁路港对接花木出口\n- 出口额达1000万美元",
+    "description": "温江区通过与青白江及成都国际铁路港对接实现花木出口，出口额达1000万美元。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-9ba402508fb1",
+      "description": "温江区通过与青白江、成都国际铁路港对接花木出口，实现出口额达1000万美元的跨区域产业协作成果。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "与青白江、成都国际铁路港对接花木出口，出口额达1000万美元；"
+      ],
+      "evidence_block_ids": [
+        "blk-24eeb2f3dafcb3136de6"
+      ],
+      "page_end": 76,
+      "page_start": 65,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "温江区花木出口与跨区域产业协作",
+      "type": "分析框架"
+    },
+    "title": "温江区花木出口与跨区域产业协作"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1300cca9deb4:bundle-95f78a96fa20",
+      "excluded_fragments": [],
+      "ref_id": "ref-1300cca9deb4",
+      "source_blocks": [
+        {
+          "block_id": "blk-24eeb2f3dafcb3136de6",
+          "page_number": 65,
+          "text": "与青白江、成都国际铁路港对接花木出口，出口额达1000万美元；与攀枝花西区开展“全国百家康复辅具企业四川行”企业推介会互访交流合作活动3次；与郫都区、绵阳梓潼县就产业合作项目等合作领域开展座谈会2次。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-854f3fd9692f7404b53d",
+          "page_number": 65,
+          "text": "2019年以来，温江区以推进产业跨区域协作、共建交通基础设施、推动体制机制共建、推进教育医疗事业合作等为重点，区域协作发展成果丰硕。"
+        },
+        {
+          "block_id": "blk-c453f1ebc9246914f0e2",
+          "page_number": 65,
+          "text": "与郫都区对接货运大道东延线连接永宁立交项目，并启动八一路北沿线施工图编制和概算评审工作；与双流区合作形成2条公交路线互通具体方案；启动与青羊区互联的花都大道东段延伸段施工图设计工作，开工建设日月大道BRT延伸项目。"
+        },
+        {
+          "block_id": "blk-b66636b40a53cbfcf062",
+          "page_number": 65,
+          "text": "与攀枝花市盐边县开展“名师课堂互动”活动，互派教师联合开展教研交流活动。与四川大学华西医院医学研发、医疗数据互通、临床试验平台搭建等方面合作，建立5个专科联盟，开展1项科研课题研究，开展远程会诊30例，远程教学52次，专业培训、学术交流7次。"
+        },
+        {
+          "block_id": "blk-b377dae40665df603fb9",
+          "page_number": 65,
+          "text": "与乌鲁木齐海关、阿拉山口口岸合作，探索实施花木进口异地监管模式；与青羊区、双流区、都区制定《行政边界区域城乡环境综合治理联动机制》；与双流分局签订警务合作协议，联合开展清查整治行动；与青羊、都分局达成警务区域合作共识，共同推进治安综合治理。"
+        },
+        {
+          "block_id": "blk-5674ac62aa19bfe296cb",
+          "page_number": 65,
+          "text": "下一步，温江区应继续推进与资阳市雁江区在三医产业、小商品贸易、高端医疗养老、职业教育等领域开展合作；加快与四川自贸试验区片区、德阳等等其他协同改革先行区以及自贸区建立相关合作机制，深化自贸试验区协同改革先行区建设；促进与泸州医学产业园开展实质性的研究与合作，实现信息互通、资源共享、成果共享。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-9ba402508fb1",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-1300cca9deb4"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[3].evidence_excerpt (ref-f5a2c22c6fad:bundle-bb34a7e2c4d1) is missing hard anchors from the claim: ['20']; claim='经济流网络地理邻近效应较交通流更明显，经济流最强前20城市对中相邻城市对占90%，不相邻仅宜宾-内江、眉山-德阳2个。'; excerpt='经济流网络中，除与成都、重庆中心城区相联系的城市对以外，其余561个城市对中，联系最强的前二十个城市对中相邻城市对占 \\\\(90\\\\%\\\\) ，不相邻城市对仅有宜宾-内江、眉山-德阳2个'",
+  "group_id": "topic-cdcbb1af48e0",
+  "ref_ids": [
+    "ref-f5a2c22c6fad"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

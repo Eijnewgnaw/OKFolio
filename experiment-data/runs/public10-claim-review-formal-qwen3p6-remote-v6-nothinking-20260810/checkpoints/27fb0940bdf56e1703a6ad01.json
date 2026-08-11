@@ -1,0 +1,864 @@
+{
+  "contract": {
+    "canonical_question": "国家网络安全产业园区（成渝地区）的获批时间、授牌时间、历史地位及规划布局是怎样的？",
+    "claims": [
+      {
+        "claim": "国家网络安全产业园区（成渝地区）于2022年4月获批。",
+        "claim_id": "claim-e24c6b0d322f30fd",
+        "evidence_block_ids": [
+          "blk-7b3231a5748ef15e382a"
+        ],
+        "evidence_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国家网络安全产业园区（成渝地区）是继北京、长沙之后第三个获此国家级称号的园区。",
+        "claim_id": "claim-1388c399f8c1d333",
+        "evidence_block_ids": [
+          "blk-7b3231a5748ef15e382a"
+        ],
+        "evidence_excerpt": "是继北京、长沙之后第三个获此国家级称号的园区",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国家网络安全产业园区（成渝地区）是首个跨省域的国家级网络安全产业园区。",
+        "claim_id": "claim-081049064e488394",
+        "evidence_block_ids": [
+          "blk-7b3231a5748ef15e382a"
+        ],
+        "evidence_excerpt": "也是首个跨省域的国家级网络安全产业园区",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国家网络安全产业园区（成渝地区）于2023年2月23日正式授牌。",
+        "claim_id": "claim-a04994e1b4512315",
+        "evidence_block_ids": [
+          "blk-7b3231a5748ef15e382a"
+        ],
+        "evidence_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，国家网络安全产业园区（成渝地区）正式授牌",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国家网络安全产业园区（成渝地区）构建“双城七园一大区”总体布局。",
+        "claim_id": "claim-d4e0f2b6e6474d8b",
+        "evidence_block_ids": [
+          "blk-a963ba0ed9d1c222dcdf"
+        ],
+        "evidence_excerpt": "构建“双城七园一大区”总体布局",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都方面重点建设天府、高新、锦江、双流四大园区。",
+        "claim_id": "claim-2f689e7308803ec6",
+        "evidence_block_ids": [
+          "blk-a963ba0ed9d1c222dcdf"
+        ],
+        "evidence_excerpt": "成都方面，将重点建设天府、高新、锦江、双流四大园区",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重庆方面重点建设合川、綦江和经开“三大片区”。",
+        "claim_id": "claim-652bdd1f90c3fcab",
+        "evidence_block_ids": [
+          "blk-a963ba0ed9d1c222dcdf"
+        ],
+        "evidence_excerpt": "重庆方面，将重点建设合川、綦江和经开“三大片区”",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+        "claim_id": "claim-fb279b6aa01f5be8",
+        "evidence_block_ids": [
+          "blk-a963ba0ed9d1c222dcdf"
+        ],
+        "evidence_excerpt": "其中，天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          289
+        ],
+        "ref_id": "ref-c290d53c3278",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-e24c6b0d322f30fd",
+          "claim-1388c399f8c1d333",
+          "claim-081049064e488394",
+          "claim-a04994e1b4512315",
+          "claim-d4e0f2b6e6474d8b",
+          "claim-2f689e7308803ec6",
+          "claim-652bdd1f90c3fcab",
+          "claim-fb279b6aa01f5be8"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+        "reason": "该Bundle包含获批时间、授牌时间、历史地位及详细规划布局，是回答中心问题所有固定槽位的必要证据。"
+      }
+    ],
+    "group_id": "topic-ee1bcb0bbd79",
+    "members": [
+      {
+        "contribution": "该证据完整覆盖了分析框架所需的主体、核心事实（获批与授牌时间）、历史地位（第三个、首个跨省域）以及具体的规划布局（双城七园一大区及各地功能定位），直接回答中心问题。",
+        "ref_id": "ref-c290d53c3278",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-e24c6b0d322f30fd",
+        "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1388c399f8c1d333",
+        "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-081049064e488394",
+        "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a04994e1b4512315",
+        "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d4e0f2b6e6474d8b",
+        "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2f689e7308803ec6",
+        "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-652bdd1f90c3fcab",
+        "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fb279b6aa01f5be8",
+        "draft_excerpt": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-e24c6b0d322f30fd",
+          "claim-1388c399f8c1d333",
+          "claim-081049064e488394",
+          "claim-a04994e1b4512315"
+        ],
+        "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-681e294b03d78213",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e24c6b0d322f30fd",
+          "claim-1388c399f8c1d333",
+          "claim-081049064e488394"
+        ],
+        "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1f6f3fcd2c2ab104",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a04994e1b4512315"
+        ],
+        "draft_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-612962e192371fb8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d4e0f2b6e6474d8b",
+          "claim-2f689e7308803ec6",
+          "claim-652bdd1f90c3fcab"
+        ],
+        "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fbb75df5bb0c78c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fb279b6aa01f5be8"
+        ],
+        "draft_excerpt": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5c35cfe605122fb9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-e24c6b0d322f30fd",
+          "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1388c399f8c1d333",
+          "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-081049064e488394",
+          "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a04994e1b4512315",
+          "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d4e0f2b6e6474d8b",
+          "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2f689e7308803ec6",
+          "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-652bdd1f90c3fcab",
+          "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fb279b6aa01f5be8",
+          "draft_excerpt": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-e24c6b0d322f30fd",
+            "claim-1388c399f8c1d333",
+            "claim-081049064e488394",
+            "claim-a04994e1b4512315"
+          ],
+          "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+          "finding": "supported",
+          "sentence_id": "sentence-681e294b03d78213",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e24c6b0d322f30fd",
+            "claim-1388c399f8c1d333",
+            "claim-081049064e488394"
+          ],
+          "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+          "finding": "supported",
+          "sentence_id": "sentence-1f6f3fcd2c2ab104",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a04994e1b4512315"
+          ],
+          "draft_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。",
+          "finding": "supported",
+          "sentence_id": "sentence-612962e192371fb8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d4e0f2b6e6474d8b",
+            "claim-2f689e7308803ec6",
+            "claim-652bdd1f90c3fcab"
+          ],
+          "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+          "finding": "supported",
+          "sentence_id": "sentence-fbb75df5bb0c78c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fb279b6aa01f5be8"
+          ],
+          "draft_excerpt": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+          "finding": "supported",
+          "sentence_id": "sentence-5c35cfe605122fb9",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "eca313c33215055dd82f487e9ab2768ffc003087b2c8110e2293644c4d1ebe46",
+  "coverage_history": [
+    {
+      "draft_sha256": "09bfddded9bc31151c2198781ceccef4818da57d22ef15819c98b58f4f40d9a1",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-e24c6b0d322f30fd",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1388c399f8c1d333",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-081049064e488394",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a04994e1b4512315",
+            "draft_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d4e0f2b6e6474d8b",
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f689e7308803ec6",
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-652bdd1f90c3fcab",
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb279b6aa01f5be8",
+            "draft_excerpt": "在总体布局中，天府园被明确定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-e24c6b0d322f30fd",
+              "claim-1388c399f8c1d333",
+              "claim-081049064e488394",
+              "claim-a04994e1b4512315"
+            ],
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82c6bef58b0e5aec",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e24c6b0d322f30fd",
+              "claim-1388c399f8c1d333",
+              "claim-081049064e488394"
+            ],
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f6f3fcd2c2ab104",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a04994e1b4512315"
+            ],
+            "draft_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-612962e192371fb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d4e0f2b6e6474d8b",
+              "claim-2f689e7308803ec6",
+              "claim-652bdd1f90c3fcab"
+            ],
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbb75df5bb0c78c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb279b6aa01f5be8"
+            ],
+            "draft_excerpt": "在总体布局中，天府园被明确定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-97dd4436eb2bc55d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2023年2月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "73020aa0cf8a282e8116bef08a1cda3a5ddde3c353241f277d7d97ff2b3238a6",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-e24c6b0d322f30fd",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1388c399f8c1d333",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-081049064e488394",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a04994e1b4512315",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f689e7308803ec6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-652bdd1f90c3fcab",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d4e0f2b6e6474d8b",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fb279b6aa01f5be8",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-e24c6b0d322f30fd",
+              "claim-1388c399f8c1d333",
+              "claim-081049064e488394",
+              "claim-a04994e1b4512315"
+            ],
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-681e294b03d78213",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e24c6b0d322f30fd",
+              "claim-1388c399f8c1d333",
+              "claim-081049064e488394"
+            ],
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f6f3fcd2c2ab104",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a04994e1b4512315"
+            ],
+            "draft_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-612962e192371fb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d4e0f2b6e6474d8b",
+              "claim-2f689e7308803ec6",
+              "claim-652bdd1f90c3fcab"
+            ],
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbb75df5bb0c78c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb279b6aa01f5be8"
+            ],
+            "draft_excerpt": "在总体布局中，天府园被明确定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-97dd4436eb2bc55d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "eca313c33215055dd82f487e9ab2768ffc003087b2c8110e2293644c4d1ebe46",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-e24c6b0d322f30fd",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1388c399f8c1d333",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-081049064e488394",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a04994e1b4512315",
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d4e0f2b6e6474d8b",
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f689e7308803ec6",
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-652bdd1f90c3fcab",
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fb279b6aa01f5be8",
+            "draft_excerpt": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-e24c6b0d322f30fd",
+              "claim-1388c399f8c1d333",
+              "claim-081049064e488394",
+              "claim-a04994e1b4512315"
+            ],
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-681e294b03d78213",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e24c6b0d322f30fd",
+              "claim-1388c399f8c1d333",
+              "claim-081049064e488394"
+            ],
+            "draft_excerpt": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1f6f3fcd2c2ab104",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a04994e1b4512315"
+            ],
+            "draft_excerpt": "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-612962e192371fb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d4e0f2b6e6474d8b",
+              "claim-2f689e7308803ec6",
+              "claim-652bdd1f90c3fcab"
+            ],
+            "draft_excerpt": "园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbb75df5bb0c78c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb279b6aa01f5be8"
+            ],
+            "draft_excerpt": "天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c35cfe605122fb9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，该园区正式授牌。\n\n园区构建“双城七园一大区”总体布局，其中成都方面重点建设天府、高新、锦江、双流四大园区，重庆方面重点建设合川、綦江和经开“三大片区”。\n\n- 天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地。",
+    "description": "国家网络安全产业园区（成渝地区）于2022年4月获批，2023年2月23日正式授牌，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+    "ref": {
+      "asset_hints": [
+        "image-171"
+      ],
+      "concept_id": "topic-ee1bcb0bbd79",
+      "description": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "国家网络安全产业园区（成渝地区）于2022年4月获批",
+        "是继北京、长沙之后第三个获此国家级称号的园区",
+        "也是首个跨省域的国家级网络安全产业园区",
+        "2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，国家网络安全产业园区（成渝地区）正式授牌",
+        "构建“双城七园一大区”总体布局",
+        "成都方面，将重点建设天府、高新、锦江、双流四大园区",
+        "重庆方面，将重点建设合川、綦江和经开“三大片区”",
+        "其中，天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地"
+      ],
+      "evidence_block_ids": [
+        "blk-7b3231a5748ef15e382a",
+        "blk-a963ba0ed9d1c222dcdf"
+      ],
+      "page_end": 289,
+      "page_start": 289,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "国家网络安全产业园区（成渝地区）正式授牌"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "国家网络安全产业园区（成渝地区）正式授牌",
+      "type": "分析框架"
+    },
+    "title": "国家网络安全产业园区（成渝地区）正式授牌"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-c290d53c3278:bundle-4026f1eb1a14",
+      "excluded_fragments": [],
+      "ref_id": "ref-c290d53c3278",
+      "source_blocks": [
+        {
+          "block_id": "blk-7b3231a5748ef15e382a",
+          "page_number": 289,
+          "text": "国家网络安全产业园区（成渝地区）于2022年4月获批，是继北京、长沙之后第三个获此国家级称号的园区，也是首个跨省域的国家级网络安全产业园区。2023年2月23日，在成都举办的2023年中国网络和数据安全产业高峰论坛上，国家网络安全产业园区（成渝地区）正式授牌。园区以服务保障国家战略、推动网络安全产业高质量发展为核心，充分发挥川渝两地产业、技术、人才优势，着力建设特色突出、国内领先、世界一流的网络安全产业集聚区。"
+        },
+        {
+          "block_id": "blk-8c552c0d1c611cdd08e0",
+          "page_number": 289,
+          "text": "原始 PDF 第 289 页图片"
+        },
+        {
+          "block_id": "blk-294ca771b0d076804965",
+          "page_number": 289,
+          "text": "图7-4 国家网络安全产业园区（成渝地区）授牌仪式"
+        },
+        {
+          "block_id": "blk-a963ba0ed9d1c222dcdf",
+          "page_number": 289,
+          "text": "在规划布局上，以成都园区和重庆园区为主体，吸纳有条件的市州、区县融入国家园区建设，构建“双城七园一大区”总体布局，形成“多点支撑、辐射全国、优势互补、协同发展”的新格局。成都方面，将重点建设天府、高新、锦江、双流四大园区。其中，天府园定位于打造国家网络安全战略支撑基地与领军人才培育基地；高新园着力于搭建网络安全高端研发与运营服务基地；双流园专注于培育网络安全+先进制造融合创新示范基地；锦江园致力于建设网络安全应用高端产业集聚示范基地。重庆方面，将重点建设合川、綦江和经开“三大片区”。其中，合川锚定创建“网络安全产业城”目标；綦江加快建设西部信息安全谷；经开全力构建全链路网络安全生态。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ee1bcb0bbd79",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-c290d53c3278"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

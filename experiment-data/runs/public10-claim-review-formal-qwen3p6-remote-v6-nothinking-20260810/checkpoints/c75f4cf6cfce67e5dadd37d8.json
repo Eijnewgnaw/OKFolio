@@ -1,0 +1,1122 @@
+{
+  "contract": {
+    "canonical_question": "中老铁路全线开通后，成渝两地始发的首列国际铁路直达货运班列的基本情况及运输优势是什么？",
+    "claims": [
+      {
+        "claim": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+        "claim_id": "claim-1f12e432339c1aea",
+        "evidence_block_ids": [
+          "blk-ffe7f8558df11b17c3ce"
+        ],
+        "evidence_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "time": [
+            "2021年12月4日"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+        "claim_id": "claim-0e709ef1a2ee9e9d",
+        "evidence_block_ids": [
+          "blk-94b1dcfc0f1cbe535d08"
+        ],
+        "evidence_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里，是融入和服务“一带一路”建设、推进中国与周边国家互联互通的重要基础设施，是中老双方高质量共建“一带一路”标志性工程。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "region": [
+            "中国昆明",
+            "老挝万象"
+          ]
+        },
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品。",
+        "claim_id": "claim-2654ad20bf6fa52a",
+        "evidence_block_ids": [
+          "blk-94b1dcfc0f1cbe535d08"
+        ],
+        "evidence_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "object": [
+            "轻型商用货车",
+            "坚果",
+            "摩托车配件",
+            "化工品"
+          ]
+        },
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "依托中老铁路，商品从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天。",
+        "claim_id": "claim-310989e90acd4ae2",
+        "evidence_block_ids": [
+          "blk-94b1dcfc0f1cbe535d08",
+          "blk-95174c77bbdb6dfbbc89"
+        ],
+        "evidence_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①，中老铁路国际货运班列极大缩短了运输时间。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162,
+          163
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "time": [
+            "约10天"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中老铁路国际货运班列途经云南最快3天到达老挝首都万象。",
+        "claim_id": "claim-8f31d4cbeb13c42e",
+        "evidence_block_ids": [
+          "blk-94b1dcfc0f1cbe535d08"
+        ],
+        "evidence_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          162
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "time": [
+            "最快3天"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”。",
+        "claim_id": "claim-00873695a38fcef9",
+        "evidence_block_ids": [
+          "blk-c76d69ba1e9c2e0337bc"
+        ],
+        "evidence_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          163
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "region": [
+            "成都",
+            "沿线地区"
+          ]
+        },
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中老铁路国际货运班列将推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道。",
+        "claim_id": "claim-4e6e69a0282c57a3",
+        "evidence_block_ids": [
+          "blk-c76d69ba1e9c2e0337bc"
+        ],
+        "evidence_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          163
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {
+          "region": [
+            "欧洲",
+            "成都",
+            "RCEP成员国"
+          ]
+        },
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "随着中老铁路的启用，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+        "claim_id": "claim-43ea6ade66b2cfee",
+        "evidence_block_ids": [
+          "blk-c76d69ba1e9c2e0337bc"
+        ],
+        "evidence_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。相较于传统公路运输方式，选择铁路运输更加安全可靠，更利于产品保持出厂状态。",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          163
+        ],
+        "ref_id": "ref-81b3f458d94f",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1f12e432339c1aea",
+          "claim-0e709ef1a2ee9e9d",
+          "claim-2654ad20bf6fa52a",
+          "claim-310989e90acd4ae2",
+          "claim-8f31d4cbeb13c42e",
+          "claim-00873695a38fcef9",
+          "claim-4e6e69a0282c57a3",
+          "claim-43ea6ade66b2cfee"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+        "reason": "该证据包含回答中心问题所需的所有核心事实，包括首发时间、路线、货物类型、时效对比及战略意义，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-ffab46544f5f",
+    "members": [
+      {
+        "contribution": "该证据详细描述了2021年12月4日成都和重庆始发的首列中老铁路国际班列的路线、货物、时效对比及政策意义，直接回答了关于班列基本情况和优势的问题。",
+        "ref_id": "ref-81b3f458d94f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-1f12e432339c1aea",
+        "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0e709ef1a2ee9e9d",
+        "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2654ad20bf6fa52a",
+        "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-310989e90acd4ae2",
+        "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8f31d4cbeb13c42e",
+        "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-43ea6ade66b2cfee",
+        "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-00873695a38fcef9",
+        "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4e6e69a0282c57a3",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-1f12e432339c1aea"
+        ],
+        "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0e769fa2d5a8e344",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f12e432339c1aea"
+        ],
+        "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ca7a73eac289e442",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f12e432339c1aea"
+        ],
+        "draft_excerpt": "这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a912839663a30a42",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0e709ef1a2ee9e9d"
+        ],
+        "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b5c882c2cc19ca4f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2654ad20bf6fa52a",
+          "claim-8f31d4cbeb13c42e"
+        ],
+        "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ce8f155e44ae9285",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-310989e90acd4ae2"
+        ],
+        "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d2b50aef1c467bac",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-43ea6ade66b2cfee"
+        ],
+        "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-998081585daaea27",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00873695a38fcef9"
+        ],
+        "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8826b69f40b596f5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4e6e69a0282c57a3"
+        ],
+        "draft_excerpt": "同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8c685933010e5f59",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1f12e432339c1aea",
+          "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0e709ef1a2ee9e9d",
+          "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2654ad20bf6fa52a",
+          "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-310989e90acd4ae2",
+          "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8f31d4cbeb13c42e",
+          "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-43ea6ade66b2cfee",
+          "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-00873695a38fcef9",
+          "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1f12e432339c1aea"
+          ],
+          "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+          "finding": "supported",
+          "sentence_id": "sentence-0e769fa2d5a8e344",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f12e432339c1aea"
+          ],
+          "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+          "finding": "supported",
+          "sentence_id": "sentence-ca7a73eac289e442",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f12e432339c1aea"
+          ],
+          "draft_excerpt": "这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+          "finding": "supported",
+          "sentence_id": "sentence-a912839663a30a42",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0e709ef1a2ee9e9d"
+          ],
+          "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+          "finding": "supported",
+          "sentence_id": "sentence-b5c882c2cc19ca4f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2654ad20bf6fa52a",
+            "claim-8f31d4cbeb13c42e"
+          ],
+          "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+          "finding": "supported",
+          "sentence_id": "sentence-ce8f155e44ae9285",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-310989e90acd4ae2"
+          ],
+          "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+          "finding": "supported",
+          "sentence_id": "sentence-d2b50aef1c467bac",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-43ea6ade66b2cfee"
+          ],
+          "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+          "finding": "supported",
+          "sentence_id": "sentence-998081585daaea27",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-00873695a38fcef9"
+          ],
+          "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+          "finding": "supported",
+          "sentence_id": "sentence-8826b69f40b596f5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4e6e69a0282c57a3"
+          ],
+          "draft_excerpt": "同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+          "finding": "supported",
+          "sentence_id": "sentence-8c685933010e5f59",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "9d0fa6eece3a90e23d159649293b645fc1cfadea21215175940f1d06dbfd2ff5",
+  "coverage_history": [
+    {
+      "draft_sha256": "b474fa21aa682d5a6827d0ee63ab45d711bee0a3847cbd3f1cd776ab7542a1be",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1f12e432339c1aea",
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0e709ef1a2ee9e9d",
+            "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2654ad20bf6fa52a",
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-310989e90acd4ae2",
+            "draft_excerpt": "在依靠中老铁路运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8f31d4cbeb13c42e",
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00873695a38fcef9",
+            "draft_excerpt": "中老铁路作为连接中国与老挝乃至东盟的交通要道，其国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4e6e69a0282c57a3",
+            "draft_excerpt": "同时，该班列推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43ea6ade66b2cfee",
+            "draft_excerpt": "中老铁路国际货运班列极大缩短了运输时间，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+            "finding": "draft_excerpt",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年12月4日，成都和重庆分别始发首列中老铁路国际班列直达老挝万象，标志着成渝地区融入中老铁路物流网络，大幅缩短运输时间并推动西部陆海新通道建设。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18a84f2645b4f4e8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca7a73eac289e442",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a912839663a30a42",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e709ef1a2ee9e9d"
+            ],
+            "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b5c882c2cc19ca4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该线路是融入和服务“一带一路”建设、推进中国与周边国家互联互通的重要基础设施，也是中老双方高质量共建“一带一路”的标志性工程。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e398dab3be61d59b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-2654ad20bf6fa52a",
+              "claim-8f31d4cbeb13c42e"
+            ],
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-86985869e79c3b1b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-310989e90acd4ae2"
+            ],
+            "draft_excerpt": "在依靠中老铁路运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dc5a95097de53d6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-43ea6ade66b2cfee"
+            ],
+            "draft_excerpt": "中老铁路国际货运班列极大缩短了运输时间，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9d2122bb85abe3d4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "相较于传统公路运输方式，选择铁路运输更加安全可靠，更利于产品保持出厂状态。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d53bf0f114fe338",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-00873695a38fcef9"
+            ],
+            "draft_excerpt": "中老铁路作为连接中国与老挝乃至东盟的交通要道，其国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-89d3aebf627bcae8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4e6e69a0282c57a3"
+            ],
+            "draft_excerpt": "同时，该班列推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+            "finding": "draft_excerpt",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43db0311024fedbd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年12月4日，成都和重庆分别始发首列中老铁路国际班列直达老挝万象，标志着成渝地区融入中老铁路物流网络，大幅缩短运输时间并推动西部陆海新通道建设。",
+            "finding": "draft_excerpt"
+          },
+          {
+            "draft_excerpt": "该线路是融入和服务“一带一路”建设、推进中国与周边国家互联互通的重要基础设施，也是中老双方高质量共建“一带一路”的标志性工程。",
+            "finding": "draft_excerpt"
+          },
+          {
+            "draft_excerpt": "相较于传统公路运输方式，选择铁路运输更加安全可靠，更利于产品保持出厂状态。",
+            "finding": "draft_excerpt"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9d0fa6eece3a90e23d159649293b645fc1cfadea21215175940f1d06dbfd2ff5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1f12e432339c1aea",
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0e709ef1a2ee9e9d",
+            "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2654ad20bf6fa52a",
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-310989e90acd4ae2",
+            "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8f31d4cbeb13c42e",
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43ea6ade66b2cfee",
+            "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00873695a38fcef9",
+            "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4e6e69a0282c57a3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e769fa2d5a8e344",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca7a73eac289e442",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a912839663a30a42",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e709ef1a2ee9e9d"
+            ],
+            "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b5c882c2cc19ca4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2654ad20bf6fa52a",
+              "claim-8f31d4cbeb13c42e"
+            ],
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce8f155e44ae9285",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-310989e90acd4ae2"
+            ],
+            "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2b50aef1c467bac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-43ea6ade66b2cfee"
+            ],
+            "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-998081585daaea27",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00873695a38fcef9"
+            ],
+            "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8826b69f40b596f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4e6e69a0282c57a3"
+            ],
+            "draft_excerpt": "同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c685933010e5f59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "9d0fa6eece3a90e23d159649293b645fc1cfadea21215175940f1d06dbfd2ff5",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1f12e432339c1aea",
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0e709ef1a2ee9e9d",
+            "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2654ad20bf6fa52a",
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-310989e90acd4ae2",
+            "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8f31d4cbeb13c42e",
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43ea6ade66b2cfee",
+            "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00873695a38fcef9",
+            "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4e6e69a0282c57a3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e769fa2d5a8e344",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ca7a73eac289e442",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f12e432339c1aea"
+            ],
+            "draft_excerpt": "这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a912839663a30a42",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e709ef1a2ee9e9d"
+            ],
+            "draft_excerpt": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b5c882c2cc19ca4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2654ad20bf6fa52a",
+              "claim-8f31d4cbeb13c42e"
+            ],
+            "draft_excerpt": "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ce8f155e44ae9285",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-310989e90acd4ae2"
+            ],
+            "draft_excerpt": "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d2b50aef1c467bac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-43ea6ade66b2cfee"
+            ],
+            "draft_excerpt": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-998081585daaea27",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00873695a38fcef9"
+            ],
+            "draft_excerpt": "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8826b69f40b596f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4e6e69a0282c57a3"
+            ],
+            "draft_excerpt": "同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c685933010e5f59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象。这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里。从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①。随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+    "description": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+    "ref": {
+      "asset_hints": [
+        "image-080"
+      ],
+      "concept_id": "topic-ffab46544f5f",
+      "description": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+      "document_family_id": "3b48f7708ca2fd5e224b",
+      "document_version_id": "e6240784b5bdbcf0b12e",
+      "evidence": [
+        "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。",
+        "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里，是融入和服务“一带一路”建设、推进中国与周边国家互联互通的重要基础设施，是中老双方高质量共建“一带一路”标志性工程。",
+        "从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。",
+        "在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①，中老铁路国际货运班列极大缩短了运输时间。",
+        "另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。",
+        "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。相较于传统公路运输方式，选择铁路运输更加安全可靠，更利于产品保持出厂状态。"
+      ],
+      "evidence_block_ids": [
+        "blk-ffe7f8558df11b17c3ce",
+        "blk-94b1dcfc0f1cbe535d08",
+        "blk-95174c77bbdb6dfbbc89",
+        "blk-c76d69ba1e9c2e0337bc"
+      ],
+      "page_end": 163,
+      "page_start": 162,
+      "ref_family_hint": "",
+      "ref_version_id": "e6240784b5bdbcf0b12e",
+      "scope": {},
+      "section_path": [
+        "编委会",
+        "中老铁路（成渝一万象）国际班列在蓉首发"
+      ],
+      "semantic_signature": {},
+      "source": "46a57605-7f91-4664-87f7-7ed1e58dade6.md",
+      "title": "中老铁路（成渝一万象）国际班列在蓉首发",
+      "type": "国际比较"
+    },
+    "title": "中老铁路（成渝一万象）国际班列在蓉首发"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-81b3f458d94f:bundle-fe40b74d5487",
+      "excluded_fragments": [],
+      "ref_id": "ref-81b3f458d94f",
+      "source_blocks": [
+        {
+          "block_id": "blk-ffe7f8558df11b17c3ce",
+          "page_number": 162,
+          "text": "2021年12月4日，成都和重庆两地分别始发一列中老铁路（成渝一万象）国际班列，前往老挝首都万象，这是中老铁路于12月3日全线开通运营后，成渝两地始发的首列国际铁路直达货运班列。"
+        },
+        {
+          "block_id": "blk-16930e94a1bcfe04c037",
+          "page_number": 162,
+          "text": "原始 PDF 第 162 页图片"
+        },
+        {
+          "block_id": "blk-ad3b7932b52693636fb9",
+          "page_number": 162,
+          "text": "图4-8 中老铁路（成渝一万象）国际班列首发"
+        },
+        {
+          "block_id": "blk-94b1dcfc0f1cbe535d08",
+          "page_number": 162,
+          "text": "中老铁路北起中国昆明，过中国磨憨铁路口岸和老挝磨丁铁路口岸，南连老挝万象，全长1035公里，是融入和服务“一带一路”建设、推进中国与周边国家互联互通的重要基础设施，是中老双方高质量共建“一带一路”标志性工程。从成都国际铁路港和重庆国际物流枢纽园区始发的班列主要搭载轻型商用货车、坚果、摩托车配件、化工品等产品，途经云南最快3天到达老挝首都万象。其中，轻型商业货车的产地为始发站成都市青白江区，在老挝的建筑业、矿业、农业等行业有较广阔的需求市场。在依靠中老铁轮运输前，商品依托公路从成都经磨憨口岸至老挝万象交货，全程约2000公里，用时约10天①，中老铁路国际货运班列极大缩短了运输时"
+        },
+        {
+          "block_id": "blk-95174c77bbdb6dfbbc89",
+          "page_number": 163,
+          "text": "间。为了保证货物运输时效，成都陆港公司作为多式联运经营人，将多式联运“一单制”规则和保险运用到此次新线路上，实现货物“一次委托、一口报价、一单到底、一票结算、全程保险”，在帮助出口企业实现“门到门”的多式联运解决方案上，将保险全覆盖，避免责任划分不清、保险理赔困难等问题。"
+        },
+        {
+          "block_id": "blk-72438610e584fa981388",
+          "page_number": 163,
+          "text": "中老铁路工程是中老友谊的标志性项目，也是地区路网的关键枢纽，对提升中老互利合作和地区互联互通具有重要意义，也是成渝两地落实《成渝地区双城经济圈建设规划纲要》，贯彻中国一东盟建立对话关系30周年纪念峰会、第三次“一带一路”建设座谈会精神，高水平共建西部陆海新通道，共同打造内陆开放战略高地和参与国际竞争的新基地，助推形成陆海内外联动、东西双向互济的对外开放新格局的具体体现。"
+        },
+        {
+          "block_id": "blk-c76d69ba1e9c2e0337bc",
+          "page_number": 163,
+          "text": "随着中老铁路的启用，一方面，企业可节省一半以上运输时间，同时运输损耗也进一步降低。相较于传统公路运输方式，选择铁路运输更加安全可靠，更利于产品保持出厂状态。另一方面，中老铁路作为连接中国与老挝乃至东盟的交通要道，中老铁路国际货运班列将推动成都与沿线地区经济合作，带动市场采购贸易一同驶入“快车道”；同时推动西部陆海新通道形成新优势，加快构建“欧洲一成都一RCEP成员国”经济廊道，为成都外贸进出口提供新的发展空间。"
+        },
+        {
+          "block_id": "blk-78913d30099378187e32",
+          "page_number": 163,
+          "text": "下一步，随着泛亚铁路网和中老泰连接线建设、中老铁路南下同马新铁路网联通，待中泰铁路通达至泰国曼谷后，将进一步延伸至吉隆坡、新加坡，中老铁路将成为西南部地区铁路直达东盟地区更经济、更便捷的物流运输通道。依托中老班列的常态化开行，成都将根据物流需求与老挝共同建设多式联运转运中心，仓储物流园区、农业示范园区等，促进运贸一体化发展；协同重庆共同拓展南向国际铁路通道，通过衔接泰国林查班港、缅甸仰光港等沿海港口，可辐射印度洋、南海区域，推动中国一东盟自贸区内经济联系进一步增强，有利带动成渝两地经济发展，为西南地区经济发展注入新的动力。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ffab46544f5f",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-81b3f458d94f"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

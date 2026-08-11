@@ -1,0 +1,1181 @@
+{
+  "contract": {
+    "canonical_question": "2022年我国区域协调发展在整体规模、相对差距、重大战略引擎及公共服务均等化方面呈现哪些具体成效与数据表现？",
+    "claims": [
+      {
+        "claim": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+        "claim_id": "claim-dff518db9e99615c",
+        "evidence_block_ids": [
+          "blk-d72e2d58d807df76cc75"
+        ],
+        "evidence_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+        "claim_id": "claim-accd78c24cb98d6b",
+        "evidence_block_ids": [
+          "blk-70f4fcd1f5b7fbf94612"
+        ],
+        "evidence_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的 \\(21.3\\%\\) 、 \\(19.6\\%\\) 提高到2022年的 \\(22.1\\%\\) 、 \\(21.4\\%",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年",
+            "2012年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，东部与中部、西部地区的人均地区生产总值之比分别从2012年的1.69、1.87缩小至1.50、1.64。",
+        "claim_id": "claim-f589759228f36cd3",
+        "evidence_block_ids": [
+          "blk-70f4fcd1f5b7fbf94612"
+        ],
+        "evidence_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、 \\(1.64",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年",
+            "2012年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；东北地区GDP增速为1.3%。",
+        "claim_id": "claim-4175881302dbb386",
+        "evidence_block_ids": [
+          "blk-70f4fcd1f5b7fbf94612"
+        ],
+        "evidence_excerpt": "2022年的1.50、 \\(1.64^{\\text{①}}\\) 。从近年来区域经济运行看，中西部地区主要经济指标增长情况总体好于东部地区，其中，中部地区GDP增速最快、达到 \\(4.0\\%\\) ，西部地区为 \\(3.2\\%\\) ，分别高于东部地区1.5个、0.7个百分点；东北地区GDP增速为 \\(1.3\\%\\) ，低于全国平均水平，但也呈现好转复苏迹象",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎，重大战略引领作用持续显现。",
+        "claim_id": "claim-fabd30e41205853d",
+        "evidence_block_ids": [
+          "blk-c7ed62ebca7de35c4cee"
+        ],
+        "evidence_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，长江经济带地区生产总值达56万亿元、占全国GDP比重超过46%，初步呈现绿色高质量协同发展趋势。",
+        "claim_id": "claim-628861043e9158a2",
+        "evidence_block_ids": [
+          "blk-c7ed62ebca7de35c4cee"
+        ],
+        "evidence_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。京津冀协同发展取得新的显著成效，北京非首都功能持续疏解，雄安新区进入大规模建设与承接北京非首都功能并重的阶段，京津200余所中小学幼儿园与河北273所学校开展跨区域合作办学。长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过\\(46\\%",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，长三角进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+        "claim_id": "claim-1a3b232d79acccca",
+        "evidence_block_ids": [
+          "blk-c7ed62ebca7de35c4cee",
+          "blk-682dd1f949e19a8986b0"
+        ],
+        "evidence_excerpt": "长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长 \\(7\\%\\) ，占全国进\n\n出口总值比重高达 \\(35.8\\%\\) 。黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到 \\(87.5\\%\\) ，同比上升5.6个百分点①。成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势，截至2022年",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15,
+          16
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+        "claim_id": "claim-6093b3063c7053de",
+        "evidence_block_ids": [
+          "blk-682dd1f949e19a8986b0"
+        ],
+        "evidence_excerpt": "黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到 \\(87.5\\%\\) ，同比上升5.6个百分点①。成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势，截至2022年",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          16
+        ],
+        "ref_id": "ref-5aac7429ba12",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-dff518db9e99615c",
+          "claim-accd78c24cb98d6b",
+          "claim-f589759228f36cd3",
+          "claim-4175881302dbb386",
+          "claim-fabd30e41205853d",
+          "claim-628861043e9158a2",
+          "claim-1a3b232d79acccca",
+          "claim-6093b3063c7053de"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+        "reason": "该Bundle包含2022年区域协调发展的全面数据与事实，涵盖经济、战略、基建、公共服务四大维度，是回答中心问题的核心证据。"
+      }
+    ],
+    "group_id": "topic-dc773f8529a0",
+    "members": [
+      {
+        "contribution": "提供2022年区域协调发展的核心事实，涵盖经济总量、差距缩小、战略引擎及公共服务均等化，直接支撑分析框架的subject、core_judgment、evidence、impact等槽位。",
+        "ref_id": "ref-5aac7429ba12",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-dff518db9e99615c",
+        "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-accd78c24cb98d6b",
+        "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f589759228f36cd3",
+        "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4175881302dbb386",
+        "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fabd30e41205853d",
+        "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-628861043e9158a2",
+        "draft_excerpt": "2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1a3b232d79acccca",
+        "draft_excerpt": "2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+        "finding": "draft_excerpt matches evidence exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6093b3063c7053de",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-dff518db9e99615c"
+        ],
+        "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+        "finding": "Sentence is identical to evidence for claim-dff518db9e99615c.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ffa018cf19bfa28",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dff518db9e99615c"
+        ],
+        "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+        "finding": "Sentence is identical to evidence for claim-dff518db9e99615c.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f981dca9dd97c2a4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-accd78c24cb98d6b"
+        ],
+        "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+        "finding": "Sentence is identical to evidence for claim-accd78c24cb98d6b.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-51433173dd429261",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f589759228f36cd3"
+        ],
+        "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+        "finding": "Sentence is identical to evidence for claim-f589759228f36cd3.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8c294a05f4347df8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4175881302dbb386"
+        ],
+        "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+        "finding": "Sentence is part of evidence for claim-4175881302dbb386.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dbdf2a38a96cfa6d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4175881302dbb386"
+        ],
+        "draft_excerpt": "东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。",
+        "finding": "Sentence is part of evidence for claim-4175881302dbb386.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-247049113d6ddaf5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fabd30e41205853d"
+        ],
+        "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+        "finding": "Sentence is identical to evidence for claim-fabd30e41205853d.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8f302bf6ad7730b7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-628861043e9158a2"
+        ],
+        "draft_excerpt": "2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+        "finding": "Sentence is identical to evidence for claim-628861043e9158a2.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9a9063e6fb34fcd8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1a3b232d79acccca"
+        ],
+        "draft_excerpt": "2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+        "finding": "Sentence is identical to evidence for claim-1a3b232d79acccca.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-29df3097b5d20a76",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6093b3063c7053de"
+        ],
+        "draft_excerpt": "2022年，黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+        "finding": "Sentence is identical to evidence for claim-6093b3063c7053de.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-59b9bd575a3b223d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-dff518db9e99615c",
+          "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-accd78c24cb98d6b",
+          "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f589759228f36cd3",
+          "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4175881302dbb386",
+          "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fabd30e41205853d",
+          "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-628861043e9158a2",
+          "draft_excerpt": "2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1a3b232d79acccca",
+          "draft_excerpt": "2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+          "finding": "draft_excerpt matches evidence exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-dff518db9e99615c"
+          ],
+          "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+          "finding": "Sentence is identical to evidence for claim-dff518db9e99615c.",
+          "sentence_id": "sentence-1ffa018cf19bfa28",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dff518db9e99615c"
+          ],
+          "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+          "finding": "Sentence is identical to evidence for claim-dff518db9e99615c.",
+          "sentence_id": "sentence-f981dca9dd97c2a4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-accd78c24cb98d6b"
+          ],
+          "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+          "finding": "Sentence is identical to evidence for claim-accd78c24cb98d6b.",
+          "sentence_id": "sentence-51433173dd429261",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f589759228f36cd3"
+          ],
+          "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+          "finding": "Sentence is identical to evidence for claim-f589759228f36cd3.",
+          "sentence_id": "sentence-8c294a05f4347df8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4175881302dbb386"
+          ],
+          "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+          "finding": "Sentence is part of evidence for claim-4175881302dbb386.",
+          "sentence_id": "sentence-dbdf2a38a96cfa6d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4175881302dbb386"
+          ],
+          "draft_excerpt": "东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。",
+          "finding": "Sentence is part of evidence for claim-4175881302dbb386.",
+          "sentence_id": "sentence-247049113d6ddaf5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fabd30e41205853d"
+          ],
+          "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+          "finding": "Sentence is identical to evidence for claim-fabd30e41205853d.",
+          "sentence_id": "sentence-8f302bf6ad7730b7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-628861043e9158a2"
+          ],
+          "draft_excerpt": "2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+          "finding": "Sentence is identical to evidence for claim-628861043e9158a2.",
+          "sentence_id": "sentence-9a9063e6fb34fcd8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1a3b232d79acccca"
+          ],
+          "draft_excerpt": "2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+          "finding": "Sentence is identical to evidence for claim-1a3b232d79acccca.",
+          "sentence_id": "sentence-29df3097b5d20a76",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6093b3063c7053de"
+          ],
+          "draft_excerpt": "2022年，黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+          "finding": "Sentence is identical to evidence for claim-6093b3063c7053de.",
+          "sentence_id": "sentence-59b9bd575a3b223d",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "7c1734fae2d14e49dccfc0003c44f79e7509420cddc57612731aec2f771e271b",
+  "coverage_history": [
+    {
+      "draft_sha256": "1c01930badae4ed6bcfcf5dd1422bbbe9511e9c7a5bb67a109f62871632c781e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dff518db9e99615c",
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-accd78c24cb98d6b",
+            "draft_excerpt": "从经济总量看，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f589759228f36cd3",
+            "draft_excerpt": "从人均地区生产总值看，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4175881302dbb386",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-4175881302dbb386 is missing hard anchors from the claim: ['2022年']; claim='2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；东北地区GDP增速为1.3%。'; excerpt='近年来区域经济运行显示，中西部地区主要经济指标增长情况总体好于东部地区。\\n其中，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；\\n东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-fabd30e41205853d",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-fabd30e41205853d is missing hard anchors from the claim: ['2022年']; claim='2022年，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎，重大战略引领作用持续显现。'; excerpt='随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-628861043e9158a2",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-628861043e9158a2 is missing hard anchors from the claim: ['2022年']; claim='2022年，长江经济带地区生产总值达56万亿元、占全国GDP比重超过46%，初步呈现绿色高质量协同发展趋势。'; excerpt='长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6093b3063c7053de",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-6093b3063c7053de is missing hard anchors from the claim: ['2022年']; claim='2022年，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。'; excerpt='黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-1a3b232d79acccca",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年我国区域发展相对差距缩小，中西部地区经济比重提升且增速优于东部，京津冀、长三角等重大战略区域成为高质量发展引擎。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f96da1117051557a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-dff518db9e99615c"
+            ],
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe837311338c5f2f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dff518db9e99615c"
+            ],
+            "draft_excerpt": "在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5df9859e8e44ecf1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-accd78c24cb98d6b"
+            ],
+            "draft_excerpt": "从经济总量看，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-28ae5b088752b4f6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f589759228f36cd3"
+            ],
+            "draft_excerpt": "从人均地区生产总值看，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9ba3c16ef5c730c3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "近年来区域经济运行显示，中西部地区主要经济指标增长情况总体好于东部地区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df3c2c24dec8c9e5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "其中，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69f1eaeecd6a5d5c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c91aeecaf4d7e51",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fabd30e41205853d"
+            ],
+            "draft_excerpt": "随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-795a5fa38d133b0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "京津冀协同发展取得新的显著成效，北京非首都功能持续疏解，雄安新区进入大规模建设与承接北京非首都功能并重的阶段，京津200余所中小学幼儿园与河北273所学校开展跨区域合作办学。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-039bfde1574c3cad",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-628861043e9158a2"
+            ],
+            "draft_excerpt": "长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af7b757f897ba8be",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a3b232d79acccca"
+            ],
+            "draft_excerpt": "长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-24e69bffc1a2d82a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6093b3063c7053de"
+            ],
+            "draft_excerpt": "黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-16be221a086748d7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-793f2d4725f69f30",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2022年我国区域发展相对差距缩小，中西部地区经济比重提升且增速优于东部，京津冀、长三角等重大战略区域成为高质量发展引擎。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "京津冀协同发展取得新的显著成效，北京非首都功能持续疏解，雄安新区进入大规模建设与承接北京非首都功能并重的阶段，京津200余所中小学幼儿园与河北273所学校开展跨区域合作办学。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "3b8ce15ec790f4c6c484a2808b1147484783cf6be9e8ce665d285e94ef5571cc",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dff518db9e99615c",
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-accd78c24cb98d6b",
+            "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f589759228f36cd3",
+            "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4175881302dbb386",
+            "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fabd30e41205853d",
+            "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-628861043e9158a2",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches evidence exactly. 代码门禁降级为 omitted：covered claim attribution claim-628861043e9158a2 is missing hard anchors from the claim: ['2022年']; claim='2022年，长江经济带地区生产总值达56万亿元、占全国GDP比重超过46%，初步呈现绿色高质量协同发展趋势。'; excerpt='长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-1a3b232d79acccca",
+            "draft_excerpt": "",
+            "finding": "draft_excerpt matches evidence exactly. 代码门禁降级为 omitted：covered claim attribution claim-1a3b232d79acccca is missing hard anchors from the claim: ['2022年']; claim='2022年，长三角进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。'; excerpt='长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6093b3063c7053de",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dff518db9e99615c"
+            ],
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "Sentence matches claim-dff518db9e99615c exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ffa018cf19bfa28",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dff518db9e99615c"
+            ],
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "Sentence matches claim-dff518db9e99615c exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f981dca9dd97c2a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-accd78c24cb98d6b"
+            ],
+            "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+            "finding": "Sentence matches claim-accd78c24cb98d6b exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51433173dd429261",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f589759228f36cd3"
+            ],
+            "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+            "finding": "Sentence matches claim-f589759228f36cd3 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c294a05f4347df8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+            "finding": "Sentence matches part of claim-4175881302dbb386.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dbdf2a38a96cfa6d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。",
+            "finding": "Sentence matches part of claim-4175881302dbb386.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-247049113d6ddaf5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fabd30e41205853d"
+            ],
+            "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+            "finding": "Sentence matches claim-fabd30e41205853d exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f302bf6ad7730b7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-628861043e9158a2"
+            ],
+            "draft_excerpt": "长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+            "finding": "Sentence matches claim-628861043e9158a2 exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d78a7b78ebea87e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a3b232d79acccca"
+            ],
+            "draft_excerpt": "长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+            "finding": "Sentence matches claim-1a3b232d79acccca exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1384f154869633b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6093b3063c7053de"
+            ],
+            "draft_excerpt": "黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+            "finding": "Sentence matches claim-6093b3063c7053de exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c4ef27789f106f42",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "7c1734fae2d14e49dccfc0003c44f79e7509420cddc57612731aec2f771e271b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dff518db9e99615c",
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-accd78c24cb98d6b",
+            "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f589759228f36cd3",
+            "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4175881302dbb386",
+            "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fabd30e41205853d",
+            "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-628861043e9158a2",
+            "draft_excerpt": "2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1a3b232d79acccca",
+            "draft_excerpt": "2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+            "finding": "draft_excerpt matches evidence exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6093b3063c7053de",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dff518db9e99615c"
+            ],
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "Sentence is identical to evidence for claim-dff518db9e99615c.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ffa018cf19bfa28",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dff518db9e99615c"
+            ],
+            "draft_excerpt": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+            "finding": "Sentence is identical to evidence for claim-dff518db9e99615c.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f981dca9dd97c2a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-accd78c24cb98d6b"
+            ],
+            "draft_excerpt": "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。",
+            "finding": "Sentence is identical to evidence for claim-accd78c24cb98d6b.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51433173dd429261",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f589759228f36cd3"
+            ],
+            "draft_excerpt": "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。",
+            "finding": "Sentence is identical to evidence for claim-f589759228f36cd3.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c294a05f4347df8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；",
+            "finding": "Sentence is part of evidence for claim-4175881302dbb386.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dbdf2a38a96cfa6d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4175881302dbb386"
+            ],
+            "draft_excerpt": "东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。",
+            "finding": "Sentence is part of evidence for claim-4175881302dbb386.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-247049113d6ddaf5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fabd30e41205853d"
+            ],
+            "draft_excerpt": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+            "finding": "Sentence is identical to evidence for claim-fabd30e41205853d.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f302bf6ad7730b7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-628861043e9158a2"
+            ],
+            "draft_excerpt": "2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。",
+            "finding": "Sentence is identical to evidence for claim-628861043e9158a2.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a9063e6fb34fcd8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a3b232d79acccca"
+            ],
+            "draft_excerpt": "2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。",
+            "finding": "Sentence is identical to evidence for claim-1a3b232d79acccca.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29df3097b5d20a76",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6093b3063c7053de"
+            ],
+            "draft_excerpt": "2022年，黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+            "finding": "Sentence is identical to evidence for claim-6093b3063c7053de.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-59b9bd575a3b223d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。\n\n2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的21.3%、19.6%提高到2022年的22.1%、21.4%。特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、1.64。\n\n2022年，中部地区GDP增速最快、达到4.0%，西部地区为3.2%，分别高于东部地区1.5个、0.7个百分点；东北地区GDP增速为1.3%，低于全国平均水平，但也呈现好转复苏迹象。\n\n2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。\n\n2022年，长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过46%。\n\n2022年，长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长7%，占全国进出口总值比重高达35.8%。\n\n2022年，黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到87.5%，同比上升5.6个百分点。",
+    "description": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-dc773f8529a0",
+      "description": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+      "document_family_id": "a3416d58cffb469497b1",
+      "document_version_id": "e551b06ba3832ffdbb34",
+      "evidence": [
+        "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。",
+        "2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的 \\(21.3\\%\\) 、 \\(19.6\\%\\) 提高到2022年的 \\(22.1\\%\\) 、 \\(21.4\\%",
+        "特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、 \\(1.64",
+        "2022年的1.50、 \\(1.64^{\\text{①}}\\) 。从近年来区域经济运行看，中西部地区主要经济指标增长情况总体好于东部地区，其中，中部地区GDP增速最快、达到 \\(4.0\\%\\) ，西部地区为 \\(3.2\\%\\) ，分别高于东部地区1.5个、0.7个百分点；东北地区GDP增速为 \\(1.3\\%\\) ，低于全国平均水平，但也呈现好转复苏迹象",
+        "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。",
+        "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。京津冀协同发展取得新的显著成效，北京非首都功能持续疏解，雄安新区进入大规模建设与承接北京非首都功能并重的阶段，京津200余所中小学幼儿园与河北273所学校开展跨区域合作办学。长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过\\(46\\%",
+        "长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长 \\(7\\%\\) ，占全国进\n\n出口总值比重高达 \\(35.8\\%\\) 。黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到 \\(87.5\\%\\) ，同比上升5.6个百分点①。成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势，截至2022年",
+        "黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到 \\(87.5\\%\\) ，同比上升5.6个百分点①。成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势，截至2022年"
+      ],
+      "evidence_block_ids": [
+        "blk-d72e2d58d807df76cc75",
+        "blk-70f4fcd1f5b7fbf94612",
+        "blk-c7ed62ebca7de35c4cee",
+        "blk-682dd1f949e19a8986b0"
+      ],
+      "page_end": 16,
+      "page_start": 15,
+      "ref_family_hint": "",
+      "ref_version_id": "e551b06ba3832ffdbb34",
+      "scope": {},
+      "section_path": [
+        "综合篇",
+        "一、国内区域协调发展概况"
+      ],
+      "semantic_signature": {},
+      "source": "102a4976-6f08-42bc-b866-6b9f7b53cc31.md",
+      "title": "国内区域协调发展概况",
+      "type": "分析框架"
+    },
+    "title": "国内区域协调发展概况"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5aac7429ba12:bundle-f26a858a57ea",
+      "excluded_fragments": [],
+      "ref_id": "ref-5aac7429ba12",
+      "source_blocks": [
+        {
+          "block_id": "blk-d72e2d58d807df76cc75",
+          "page_number": 15,
+          "text": "2022年，我国深入实施区域发展总体战略，区域经济展示出强大韧性和活力，在整体发展规模持续扩大的同时，区域发展相对差距日益缩小，各板块发展的平衡性与协调性显著增强。"
+        },
+        {
+          "block_id": "blk-70f4fcd1f5b7fbf94612",
+          "page_number": 15,
+          "text": "我国经济发展总量持续扩大，其中，中西部地区发展速度较快，与东部地区发展差距日益缩小，区域整体平衡性与协调性明显提升。2022年，中部和西部地区生产总值分别达到26.7万亿元、25.7万亿元，占全国的比重由2012年的 \\(21.3\\%\\) 、 \\(19.6\\%\\) 提高到2022年的 \\(22.1\\%\\) 、 \\(21.4\\%\\) ，特别是对于人均地区生产总值而言，东部与中部、西部地区之比分别从2012年的1.69、1.87缩小至2022年的1.50、 \\(1.64^{\\text{①}}\\) 。从近年来区域经济运行看，中西部地区主要经济指标增长情况总体好于东部地区，其中，中部地区GDP增速最快、达到 \\(4.0\\%\\) ，西部地区为 \\(3.2\\%\\) ，分别高于东部地区1.5个、0.7个百分点；东北地区GDP增速为 \\(1.3\\%\\) ，低于全国平均水平，但也呈现好转复苏迹象。"
+        },
+        {
+          "block_id": "blk-c7ed62ebca7de35c4cee",
+          "page_number": 15,
+          "text": "2022年，随着国家区域发展战略深入实施，重大战略引领作用持续显现，京津冀、长三角、粤港澳大湾区等区域日益成为我国高质量发展的强大引擎。京津冀协同发展取得新的显著成效，北京非首都功能持续疏解，雄安新区进入大规模建设与承接北京非首都功能并重的阶段，京津200余所中小学幼儿园与河北273所学校开展跨区域合作办学。长江经济带建设稳步推进，地区生产总值达56万亿元、占全国GDP比重超过\\(46\\%\\)③，初步呈现绿色高质量协同发展趋势。粤港澳大湾区建设深入推进，横琴、前海、南沙、河套等战略性平台加快建设，集聚独角兽企业达51家，约占全国的1/6、全球的\\(1/20\\)④。长三角一体化科创与产业融合发展持续增添新动能，生态绿色一体化发展示范区深化制度探索，外贸规模创下新高，进出口额达15.1万亿元、同比增长 \\(7\\%\\) ，占全国进"
+        },
+        {
+          "block_id": "blk-682dd1f949e19a8986b0",
+          "page_number": 16,
+          "text": "出口总值比重高达 \\(35.8\\%\\) 。黄河流域生态保护和高质量发展取得积极成效，黄河流域地表水优良水质断面比例已经达到 \\(87.5\\%\\) ，同比上升5.6个百分点①。成渝地区双城经济圈建设呈现从“全面提速”到“乘势跃升”的良好态势，截至2022年，川渝共同实施了成渝中线高铁等160个重大项目，出台科技创新中心、金融中心、生态环境保护等规划方案，311项事项实现“川渝通办”②。"
+        },
+        {
+          "block_id": "blk-d196a0039d7391b3c785",
+          "page_number": 16,
+          "text": "交通可达性区域差距明显缩小，中西部地区铁路营业总里程达到9万公里、占全国比重近 \\(60\\%\\) ，东北地区铁路营业总里程达1.9万公里，路网密度超过全国平均水平；西部地区高速公路、国省干线公路连线成网，多个省份已实现县县通高速；航空运输服务已覆盖全国 \\(92\\%\\) 的地级行政单元、 \\(88\\%\\) 的人口，中西部地区机场容量大幅增加。区域电网结构持续优化，特高压工程建设加快推进，跨区域输电能力有效提升。中西部地区信息网络、水利工程等建设成效也十分显著。"
+        },
+        {
+          "block_id": "blk-d8f766cb6cebbffb194f",
+          "page_number": 16,
+          "text": "基本公共服务均等化水平不断提高，东、中、西部和东北地区义务教育生师比基本持平，生均用房面积差距明显缩小，中西部地区大班额比例显著下降；东北地区每千人口医疗卫生机构床位数位居全国前列，中西部地区超过东部地区；社会保险制度改革稳步推进，全国基本养老保险覆盖10.5亿人，基本医疗保险参保率达到 \\(95\\%\\) 。区域间基本生活保障水平逐步接近，东部、东北、中部同西部地区居民人均可支配收入之比持续缩小，中西部地区人均社会消费品零售总额增速快于东部地区，中部、西部地区农村低保标准显著提升；中西部地区积极承接东部产业转移，带动就近就业机会不断增加，外出农民工数量占比持续下降。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-dc773f8529a0",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-5aac7429ba12"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,1507 @@
+{
+  "contract": {
+    "canonical_question": "2018-2020年间成都与四川省内公路及高速公路路网密度变化趋势及区域差异情况如何，以及邛崃市与芦山县在交通基础设施共建方面的具体进展是什么？",
+    "claims": [
+      {
+        "claim": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里。",
+        "claim_id": "claim-f1f92073ea69c20c",
+        "evidence_block_ids": [
+          "blk-e81cb6d3cfdbebc6cea3"
+        ],
+        "evidence_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-248d571296fb",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2020年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都与四川省内各城市间公路路网总体平均密度较2018年增长20.1%。",
+        "claim_id": "claim-05d5ef9418012045",
+        "evidence_block_ids": [
+          "blk-e81cb6d3cfdbebc6cea3"
+        ],
+        "evidence_excerpt": "较2018年增长 \\(20.1\\%\\) ，变异系数由2018年的0.492下降至2020年",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-248d571296fb",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2018-2020年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都与四川省内各城市间公路路网密度变异系数由2018年的0.492下降至0.481。",
+        "claim_id": "claim-e1fe91d7f0df64a4",
+        "evidence_block_ids": [
+          "blk-e81cb6d3cfdbebc6cea3"
+        ],
+        "evidence_excerpt": "变异系数由2018年的0.492下降至2020年的0.481",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-248d571296fb",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2018-2020年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里。",
+        "claim_id": "claim-934083205c9b61ef",
+        "evidence_block_ids": [
+          "blk-e81cb6d3cfdbebc6cea3"
+        ],
+        "evidence_excerpt": "2020年的0.481，表明成都与四川省内各城市间公路路网密度差异在不断缩小；同时，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-248d571296fb",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2020年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都与四川省内各城市间高速公路路网总体平均密度较2018年增长8.4%。",
+        "claim_id": "claim-43645ad9b5db8440",
+        "evidence_block_ids": [
+          "blk-e81cb6d3cfdbebc6cea3"
+        ],
+        "evidence_excerpt": "较2018年增长增幅为 \\(8.4\\%\\) ，其变异系数从2018年的0.52增加至2020年",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-248d571296fb",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2018-2020年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都与四川省内各城市间高速公路路网密度变异系数从2018年的0.52增加至0.56。",
+        "claim_id": "claim-8da7b5cefb0437a3",
+        "evidence_block_ids": [
+          "blk-e81cb6d3cfdbebc6cea3"
+        ],
+        "evidence_excerpt": "其变异系数从2018年的0.52增加至2020年的0.56",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          75
+        ],
+        "ref_id": "ref-248d571296fb",
+        "scope": {
+          "region": "四川省内各城市",
+          "time": "2018-2020年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。",
+        "claim_id": "claim-53ecffa1205503ff",
+        "evidence_block_ids": [
+          "blk-bad1dddc437dc55f9615"
+        ],
+        "evidence_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作",
+        "evidence_id": "ref-3b49ad85a66e:bundle-2f03ce81aa31",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          69
+        ],
+        "ref_id": "ref-3b49ad85a66e",
+        "scope": {
+          "time": "2019年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。",
+        "claim_id": "claim-2fb864a4d99e7c2d",
+        "evidence_block_ids": [
+          "blk-bad1dddc437dc55f9615"
+        ],
+        "evidence_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作，同时邛雅高速公路正式列入《四川省高速路网规划》修编。",
+        "evidence_id": "ref-3b49ad85a66e:bundle-2f03ce81aa31",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          69
+        ],
+        "ref_id": "ref-3b49ad85a66e",
+        "scope": {
+          "region": "四川省",
+          "time": "2019年"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f1f92073ea69c20c",
+          "claim-05d5ef9418012045",
+          "claim-e1fe91d7f0df64a4",
+          "claim-934083205c9b61ef",
+          "claim-43645ad9b5db8440",
+          "claim-8da7b5cefb0437a3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+        "reason": "该Bundle包含回答中心问题所需的所有宏观数据事实，包括公路和高速公路的密度数值、增长率及变异系数变化，是分析框架的核心证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-53ecffa1205503ff",
+          "claim-2fb864a4d99e7c2d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3b49ad85a66e:bundle-2f03ce81aa31",
+        "reason": "该Bundle包含邛崃市与芦山县交通基础设施共建的具体项目事实，是回答中心问题中微观合作进展的必要证据。"
+      }
+    ],
+    "group_id": "topic-866ba1b548b9",
+    "members": [
+      {
+        "contribution": "提供2018-2020年成都与四川省内公路及高速公路路网密度的宏观数据、增长率及变异系数变化，直接回答路网密度提升及区域差异分化的核心事实。",
+        "ref_id": "ref-248d571296fb",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供邛崃市与芦山县在2019年推进旅游公路示范工程及高速路网规划修编的具体项目进展，作为微观层面的基础设施共建合作证据，支持中心问题。",
+        "ref_id": "ref-3b49ad85a66e",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-05d5ef9418012045",
+        "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8da7b5cefb0437a3",
+        "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-53ecffa1205503ff",
+        "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2fb864a4d99e7c2d",
+        "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f1f92073ea69c20c",
+        "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e1fe91d7f0df64a4",
+        "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-934083205c9b61ef",
+        "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-43645ad9b5db8440",
+        "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-05d5ef9418012045",
+          "claim-8da7b5cefb0437a3"
+        ],
+        "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8ca0d4c7551113b9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-53ecffa1205503ff",
+          "claim-2fb864a4d99e7c2d"
+        ],
+        "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bd7b4f9f566e5f19",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f1f92073ea69c20c",
+          "claim-05d5ef9418012045"
+        ],
+        "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4ac98a7317562e47",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e1fe91d7f0df64a4"
+        ],
+        "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-400326c3390ac6e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-934083205c9b61ef",
+          "claim-43645ad9b5db8440"
+        ],
+        "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-95a3eeb31151f07d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8da7b5cefb0437a3"
+        ],
+        "draft_excerpt": "其变异系数从2018年的0.52增加至2020年的0.56。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e6b877196d9664a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-53ecffa1205503ff"
+        ],
+        "draft_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-18dfe719d0be4f88",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2fb864a4d99e7c2d"
+        ],
+        "draft_excerpt": "2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-193afc05e86c49d6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f1f92073ea69c20c",
+          "claim-05d5ef9418012045"
+        ],
+        "draft_excerpt": "2020年公路路网平均密度81.1公里/百平方公里，较2018年增长20.1%",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f998237c0a165243",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e1fe91d7f0df64a4"
+        ],
+        "draft_excerpt": "公路路网密度变异系数由0.492降至0.481，区域差异缩小",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9df3d11e6c0ad043",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-934083205c9b61ef",
+          "claim-43645ad9b5db8440"
+        ],
+        "draft_excerpt": "2020年高速公路路网平均密度1.6公里/百平方公里，较2018年增长8.4%",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a3d3610fccea79b4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8da7b5cefb0437a3"
+        ],
+        "draft_excerpt": "高速公路路网密度变异系数由0.52增至0.56，区域差异扩大",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ab2a11f46132bbee",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-53ecffa1205503ff"
+        ],
+        "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dc761bc9fb991445",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2fb864a4d99e7c2d"
+        ],
+        "draft_excerpt": "2019年邛雅高速公路列入《四川省高速路网规划》修编",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0979bdc44c49baf1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-05d5ef9418012045",
+          "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8da7b5cefb0437a3",
+          "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-53ecffa1205503ff",
+          "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2fb864a4d99e7c2d",
+          "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f1f92073ea69c20c",
+          "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e1fe91d7f0df64a4",
+          "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-934083205c9b61ef",
+          "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-43645ad9b5db8440",
+          "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-05d5ef9418012045",
+            "claim-8da7b5cefb0437a3"
+          ],
+          "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+          "finding": "supported",
+          "sentence_id": "sentence-8ca0d4c7551113b9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-53ecffa1205503ff",
+            "claim-2fb864a4d99e7c2d"
+          ],
+          "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+          "finding": "supported",
+          "sentence_id": "sentence-bd7b4f9f566e5f19",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f1f92073ea69c20c",
+            "claim-05d5ef9418012045"
+          ],
+          "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+          "finding": "supported",
+          "sentence_id": "sentence-4ac98a7317562e47",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e1fe91d7f0df64a4"
+          ],
+          "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+          "finding": "supported",
+          "sentence_id": "sentence-400326c3390ac6e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-934083205c9b61ef",
+            "claim-43645ad9b5db8440"
+          ],
+          "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+          "finding": "supported",
+          "sentence_id": "sentence-95a3eeb31151f07d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8da7b5cefb0437a3"
+          ],
+          "draft_excerpt": "其变异系数从2018年的0.52增加至2020年的0.56。",
+          "finding": "supported",
+          "sentence_id": "sentence-1e6b877196d9664a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-53ecffa1205503ff"
+          ],
+          "draft_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。",
+          "finding": "supported",
+          "sentence_id": "sentence-18dfe719d0be4f88",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2fb864a4d99e7c2d"
+          ],
+          "draft_excerpt": "2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。",
+          "finding": "supported",
+          "sentence_id": "sentence-193afc05e86c49d6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f1f92073ea69c20c",
+            "claim-05d5ef9418012045"
+          ],
+          "draft_excerpt": "2020年公路路网平均密度81.1公里/百平方公里，较2018年增长20.1%",
+          "finding": "supported",
+          "sentence_id": "sentence-f998237c0a165243",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e1fe91d7f0df64a4"
+          ],
+          "draft_excerpt": "公路路网密度变异系数由0.492降至0.481，区域差异缩小",
+          "finding": "supported",
+          "sentence_id": "sentence-9df3d11e6c0ad043",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-934083205c9b61ef",
+            "claim-43645ad9b5db8440"
+          ],
+          "draft_excerpt": "2020年高速公路路网平均密度1.6公里/百平方公里，较2018年增长8.4%",
+          "finding": "supported",
+          "sentence_id": "sentence-a3d3610fccea79b4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8da7b5cefb0437a3"
+          ],
+          "draft_excerpt": "高速公路路网密度变异系数由0.52增至0.56，区域差异扩大",
+          "finding": "supported",
+          "sentence_id": "sentence-ab2a11f46132bbee",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-53ecffa1205503ff",
+          "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2fb864a4d99e7c2d",
+          "draft_excerpt": "2019年邛雅高速公路列入《四川省高速路网规划》修编",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-53ecffa1205503ff"
+          ],
+          "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作",
+          "finding": "supported",
+          "sentence_id": "sentence-dc761bc9fb991445",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2fb864a4d99e7c2d"
+          ],
+          "draft_excerpt": "2019年邛雅高速公路列入《四川省高速路网规划》修编",
+          "finding": "supported",
+          "sentence_id": "sentence-0979bdc44c49baf1",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "eef479b2c47bf0f4c1546db6307d01d04a67000ac6e5d0ac3ecf5b044a6f3032",
+  "coverage_history": [
+    {
+      "draft_sha256": "9c1522cc0cedba52a5eeff891c33813cf5eb0c6ee1de933b47a9316bd63e1838",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f1f92073ea69c20c",
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度达到81.1公里/百平方公里，较2018年显著增长20.1%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-05d5ef9418012045",
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度达到81.1公里/百平方公里，较2018年显著增长20.1%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1fe91d7f0df64a4",
+            "draft_excerpt": "这一增长伴随着区域差异的缩小，公路路网密度的变异系数由2018年的0.492下降至2020年的0.481，表明成都与四川省内各城市间公路路网密度的区域差异在不断缩小。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-934083205c9b61ef",
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年的增幅为8.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43645ad9b5db8440",
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年的增幅为8.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8da7b5cefb0437a3",
+            "draft_excerpt": "然而，其变异系数从2018年的0.52增加至2020年的0.56，显示高速公路路网密度的区域差异在扩大。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-53ecffa1205503ff",
+            "draft_excerpt": "以邛崃市和芦山县为例，两地于2019年共同推进芦山县龙门至宝盛至大川旅游公路示范工程的前期工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2fb864a4d99e7c2d",
+            "draft_excerpt": "同年，邛雅高速公路正式列入《四川省高速路网规划》修编，进一步从规划层面强化了跨区域交通基础设施的协同与连接。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045",
+              "claim-e1fe91d7f0df64a4",
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440",
+              "claim-8da7b5cefb0437a3",
+              "claim-53ecffa1205503ff",
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2018至2020年间，成都与四川省内各城市间公路路网密度增长且区域差异缩小，高速公路密度增长但差异扩大，同时邛崃市与芦山县深化旅游公路及高速路网规划合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c3c019ea575638a3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045"
+            ],
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度达到81.1公里/百平方公里，较2018年显著增长20.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-299559a14b9a28df",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1fe91d7f0df64a4"
+            ],
+            "draft_excerpt": "这一增长伴随着区域差异的缩小，公路路网密度的变异系数由2018年的0.492下降至2020年的0.481，表明成都与四川省内各城市间公路路网密度的区域差异在不断缩小。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d58a5b5e9c32aa9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "相比之下，高速公路路网的发展呈现出不同的空间特征。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0044a679e780f2f6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440"
+            ],
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年的增幅为8.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-08cced986efc7458",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "然而，其变异系数从2018年的0.52增加至2020年的0.56，显示高速公路路网密度的区域差异在扩大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fb89431209914376",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在路网密度变化的同时，区域内城市间的基础设施共建合作也在深化。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9b6a3778caa7f53",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff"
+            ],
+            "draft_excerpt": "以邛崃市和芦山县为例，两地于2019年共同推进芦山县龙门至宝盛至大川旅游公路示范工程的前期工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95a26afee212f7f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "同年，邛雅高速公路正式列入《四川省高速路网规划》修编，进一步从规划层面强化了跨区域交通基础设施的协同与连接。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ec87bcf02c9ecae1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045"
+            ],
+            "draft_excerpt": "2020年公路路网平均密度81.1公里/百平方公里，较2018年增长20.1%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd12a35b16ba74ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "公路路网密度变异系数由0.492降至0.482，区域差异缩小",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f84bc7028ad1d508",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440"
+            ],
+            "draft_excerpt": "2020年高速公路路网平均密度1.6公里/百平方公里，较2018年增长8.4%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c3fceaa8d9c43052",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "高速公路路网密度变异系数由0.52增至0.56，区域差异扩大",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6a9c79ae4b1c5b79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff"
+            ],
+            "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d377f9b393239a02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2019年邛雅高速公路列入《四川省高速路网规划》修编",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd3713d9b87c5c5a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "相比之下，高速公路路网的发展呈现出不同的空间特征。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在路网密度变化的同时，区域内城市间的基础设施共建合作也在深化。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "公路路网密度变异系数由0.492降至0.482，区域差异缩小",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "0.482",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "这一增长伴随着区域差异的缩小，公路路网密度的变异系数由2018年的0.492下降至2020年的0.481，表明成都与四川省内各城市间公路路网密度的区域差异在不断缩小。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "80f2de029782217228de4147aff0fac336904302837669d78639ba7b89177dfb",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f1f92073ea69c20c",
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-05d5ef9418012045",
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1fe91d7f0df64a4",
+            "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-934083205c9b61ef",
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43645ad9b5db8440",
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8da7b5cefb0437a3",
+            "draft_excerpt": "其变异系数从2018年的0.52增加至2020年的0.56。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-53ecffa1205503ff",
+            "draft_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2fb864a4d99e7c2d",
+            "draft_excerpt": "2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018-2020年间，成都与四川省内各城市间公路及高速公路路网密度持续增长且区域差异呈现分化趋势；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e29014f24a5b73d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，以邛崃市、芦山县为代表的地区正通过推进旅游公路示范工程及高速路网规划修编，深化跨区域基础设施共建合作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9f881205b188c006",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045"
+            ],
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4ac98a7317562e47",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1fe91d7f0df64a4"
+            ],
+            "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-400326c3390ac6e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440"
+            ],
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95a3eeb31151f07d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "其变异系数从2018年的0.52增加至2020年的0.56。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e6b877196d9664a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff"
+            ],
+            "draft_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18dfe719d0be4f88",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-193afc05e86c49d6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045"
+            ],
+            "draft_excerpt": "2020年公路路网平均密度81.1公里/百平方公里，较2018年增长20.1%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f998237c0a165243",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1fe91d7f0df64a4"
+            ],
+            "draft_excerpt": "公路路网密度变异系数由0.492降至0.481，区域差异缩小",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9df3d11e6c0ad043",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440"
+            ],
+            "draft_excerpt": "2020年高速公路路网平均密度1.6公里/百平方公里，较2018年增长8.4%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3d3610fccea79b4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "高速公路路网密度变异系数由0.52增至0.56，区域差异扩大",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab2a11f46132bbee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff"
+            ],
+            "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dc761bc9fb991445",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2019年邛雅高速公路列入《四川省高速路网规划》修编",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0979bdc44c49baf1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2018-2020年间，成都与四川省内各城市间公路及高速公路路网密度持续增长且区域差异呈现分化趋势；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "同时，以邛崃市、芦山县为代表的地区正通过推进旅游公路示范工程及高速路网规划修编，深化跨区域基础设施共建合作。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "eef479b2c47bf0f4c1546db6307d01d04a67000ac6e5d0ac3ecf5b044a6f3032",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-05d5ef9418012045",
+            "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8da7b5cefb0437a3",
+            "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-53ecffa1205503ff",
+            "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2fb864a4d99e7c2d",
+            "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f1f92073ea69c20c",
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1fe91d7f0df64a4",
+            "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-934083205c9b61ef",
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-43645ad9b5db8440",
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-05d5ef9418012045",
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ca0d4c7551113b9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff",
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd7b4f9f566e5f19",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045"
+            ],
+            "draft_excerpt": "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4ac98a7317562e47",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1fe91d7f0df64a4"
+            ],
+            "draft_excerpt": "公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-400326c3390ac6e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440"
+            ],
+            "draft_excerpt": "2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95a3eeb31151f07d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "其变异系数从2018年的0.52增加至2020年的0.56。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e6b877196d9664a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff"
+            ],
+            "draft_excerpt": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18dfe719d0be4f88",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-193afc05e86c49d6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f1f92073ea69c20c",
+              "claim-05d5ef9418012045"
+            ],
+            "draft_excerpt": "2020年公路路网平均密度81.1公里/百平方公里，较2018年增长20.1%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f998237c0a165243",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1fe91d7f0df64a4"
+            ],
+            "draft_excerpt": "公路路网密度变异系数由0.492降至0.481，区域差异缩小",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9df3d11e6c0ad043",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-934083205c9b61ef",
+              "claim-43645ad9b5db8440"
+            ],
+            "draft_excerpt": "2020年高速公路路网平均密度1.6公里/百平方公里，较2018年增长8.4%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3d3610fccea79b4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8da7b5cefb0437a3"
+            ],
+            "draft_excerpt": "高速公路路网密度变异系数由0.52增至0.56，区域差异扩大",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab2a11f46132bbee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53ecffa1205503ff"
+            ],
+            "draft_excerpt": "2019年邛崃市会同芦山县推进旅游公路示范工程前期工作",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dc761bc9fb991445",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2fb864a4d99e7c2d"
+            ],
+            "draft_excerpt": "2019年邛雅高速公路列入《四川省高速路网规划》修编",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0979bdc44c49baf1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长20.1%。公路路网密度的变异系数由2018年的0.492下降至2020年的0.481。2020年，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为8.4%。其变异系数从2018年的0.52增加至2020年的0.56。2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作。2019年，邛雅高速公路正式列入《四川省高速路网规划》修编。\n\n- 2020年公路路网平均密度81.1公里/百平方公里，较2018年增长20.1%\n- 公路路网密度变异系数由0.492降至0.481，区域差异缩小\n- 2020年高速公路路网平均密度1.6公里/百平方公里，较2018年增长8.4%\n- 高速公路路网密度变异系数由0.52增至0.56，区域差异扩大\n- 2019年邛崃市会同芦山县推进旅游公路示范工程前期工作\n- 2019年邛雅高速公路列入《四川省高速路网规划》修编",
+    "description": "2020年成都与四川省内各城市间公路及高速公路路网密度较2018年分别增长20.1%和8.4%，公路路网密度差异缩小而高速公路路网密度差异扩大；2019年邛崃市会同芦山县推进旅游公路示范工程前期工作，邛雅高速公路列入《四川省高速路网规划》修编。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-866ba1b548b9",
+      "description": "2018-2020年间，成都与四川省内各城市间公路及高速公路路网密度持续增长且区域差异呈现分化趋势；同时，以邛崃市、芦山县为代表的地区正通过推进旅游公路示范工程及高速路网规划修编，深化跨区域基础设施共建合作。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里",
+        "较2018年增长 \\(20.1\\%\\) ，变异系数由2018年的0.492下降至2020年",
+        "变异系数由2018年的0.492下降至2020年的0.481",
+        "2020年的0.481，表明成都与四川省内各城市间公路路网密度差异在不断缩小；同时，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里",
+        "较2018年增长增幅为 \\(8.4\\%\\) ，其变异系数从2018年的0.52增加至2020年",
+        "其变异系数从2018年的0.52增加至2020年的0.56",
+        "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作",
+        "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作，同时邛雅高速公路正式列入《四川省高速路网规划》修编。"
+      ],
+      "evidence_block_ids": [
+        "blk-e81cb6d3cfdbebc6cea3",
+        "blk-bad1dddc437dc55f9615"
+      ],
+      "page_end": 76,
+      "page_start": 69,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {
+        "region": "四川省内各城市",
+        "time": "2018-2020年"
+      },
+      "section_path": [],
+      "semantic_signature": {
+        "key": "交通路网密度提升"
+      },
+      "source": "多来源联合编译",
+      "title": "成都与四川省内交通路网密度提升及基础设施共建合作",
+      "type": "分析框架"
+    },
+    "title": "成都与四川省内交通路网密度提升及基础设施共建合作"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-248d571296fb:bundle-44fa406cad7c",
+      "excluded_fragments": [],
+      "ref_id": "ref-248d571296fb",
+      "source_blocks": [
+        {
+          "block_id": "blk-e81cb6d3cfdbebc6cea3",
+          "page_number": 75,
+          "text": "交通路网密度不断织密，区域通达性持续提升。2020年，成都与四川省内各城市间公路路网总体平均密度为81.1公里/百平方公里，较2018年增长 \\(20.1\\%\\) ，变异系数由2018年的0.492下降至2020年的0.481，表明成都与四川省内各城市间公路路网密度差异在不断缩小；同时，成都与四川省内各城市间高速公路路网总体平均密度为1.6公里/百平方公里，较2018年增长增幅为 \\(8.4\\%\\) ，其变异系数从2018年的0.52增加至2020年的0.56，表明高速公路路网密度地区差异有扩大趋势。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-3b49ad85a66e:bundle-2f03ce81aa31",
+      "excluded_fragments": [],
+      "ref_id": "ref-3b49ad85a66e",
+      "source_blocks": [
+        {
+          "block_id": "blk-bad1dddc437dc55f9615",
+          "page_number": 69,
+          "text": "2019年，邛崃市会同芦山县共同推进芦山县龙门至宝盛至大川旅游公路示范工程前期工作，同时邛雅高速公路正式列入《四川省高速路网规划》修编。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-f71681503f1c02629d9c",
+          "page_number": 69,
+          "text": "2019年，邛崃市从挖掘自身区域优势出发，聚焦推进基础设施共建合作、工业协同发展、现代农业与医药产业协同发展、商务商贸交流合作、旅游业共兴合作、教育事业合作、就业服务事业交流合作、与名山区全域合作等领域，区域合作成效显著。"
+        },
+        {
+          "block_id": "blk-83a8a015966f6a09f496",
+          "page_number": 69,
+          "text": "与甘孜州合作共建飞地园区，成甘工业园区被评为省工业产业扶贫工作突出产业园区。组织文君、有缘坊、古川等市内重点白酒企业赴西安、贵阳、上海、北京等地推广，加强与各白酒重点产区协同发展。与天府新区签署新能源新材料产业功能区框架合作协议，共同打造“南拓”区域高质量一体化协同创新发展的聚集区和示范区。"
+        },
+        {
+          "block_id": "blk-07a613c34b5ac2b59d6c",
+          "page_number": 69,
+          "text": "与绵竹市联合举办第六届环龙门山自行车骑游活动，并将邛崃市优质旅游资源纳入环龙门山骑游精品旅游线路；与重庆部分旅行社代表签署年度合作协议；与雅安雨城区、名山区召签订区域合作协议，打造川西旅游黄金走廊一本通护照精品旅游线路产品。与九寨沟县建立结对帮扶关系，实现邛崃有美堂文旅公司等4家企业在九寨沟县投资兴业。"
+        },
+        {
+          "block_id": "blk-934d21f52a3f430a6478",
+          "page_number": 69,
+          "text": "邛崃市总商会与凉山州现代农业投资发展有限责任公司签订战略合作协议，加快凉山州农产品提档升级；邛崃市蟲鑫蜂业专业合作社与九寨沟县农业畜牧和水务局签订合作协议，成立注册“九寨沟县顺蜂农业科技有限公司”。邛崃大朋药中药材有限公司与广安生物科技有限公司合作，投资约1000万元在广安岳池县建设黄连素初加工生产线，已建成并投入使用。"
+        },
+        {
+          "block_id": "blk-965cc58d02eb3b82d468",
+          "page_number": 69,
+          "text": "与安岳县签订教育合作框架协议；与锦江区、龙泉驿区、都江堰市、简州新城签订《区域教育联盟五方协议》；推进邛崃市与雅安市天全县教学人员交流合作；与岳池县共同初步商定在师资培训和教育资源共享等领域交流合作；与利州区就两地在教育教学研究、师资队伍建设、教育资源共享等领域开展合作进行沟通。"
+        },
+        {
+          "block_id": "blk-8577cb0c14f51056ec79",
+          "page_number": 69,
+          "text": "协助邛九雪域公司加入邛崃市电商协会，促进九寨沟特色产品进入邛崃市场；与缅甸中国商会川渝商会缔结友好商会；与老挝四川商会签订战略合作协议书；与老中锡矿联合开发公司签署定觉湖旅游度假区项目协议书；与老挝36庄园有限公司签署特色农副产品展会推广合作协议书。"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-523a9933ba026fcc844b",
+          "page_number": 69,
+          "text": "积极对接岳池县、芦山县、九寨沟县，分别建立就业服务管理负责人联席会议和就业服务工作协调机制，联合举办现场招聘活动。"
+        },
+        {
+          "block_id": "blk-e7a53f288fdf081804d0",
+          "page_number": 69,
+          "text": "与名山区签订旅游合作协议，天台山与蒙顶山、中国酒村与牛碾坪景区缔结友好景区，同时签订民宿联盟整合营销协议；与名山区民政局签订合作协议，加快推进社区治理、养老服务等七项具体合作事项；与名山区卫健局签订合作协议，将在医院管理、医疗技术、公共卫生服务等领域开展互动学习。"
+        },
+        {
+          "block_id": "blk-1538e59c3a3702a34d54",
+          "page_number": 69,
+          "text": "接下来，邛崃市应与持续九寨沟县合作，深化商务商贸与农业领域合作；加快推进成甘工业园区建设，加强对接天府新区、芦山县、名山区等区域，抓好产业互动协作发展；积极深化与九寨沟县、泸定县、锦江区及重庆等区域合作，推进旅游业合作；持续与天府新区、锦江区等招商合作，拓展招商引资范围；落实与各合作区域在公共服务领域的合作协议，实现公共服务资源共建共享。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-866ba1b548b9",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-248d571296fb",
+    "ref-3b49ad85a66e"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

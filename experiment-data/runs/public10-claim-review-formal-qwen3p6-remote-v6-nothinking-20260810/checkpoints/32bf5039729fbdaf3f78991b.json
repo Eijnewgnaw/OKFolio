@@ -1,0 +1,940 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年期间，针对外商投资企业登记制度改革采取了哪些具体措施？",
+    "claims": [
+      {
+        "claim": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求。",
+        "claim_id": "claim-93fd8bc3b0946f4b",
+        "evidence_block_ids": [
+          "blk-a26846e376305ce193e5"
+        ],
+        "evidence_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "进一步削减工商登记前置审批。",
+        "claim_id": "claim-fc9f82357bd702b1",
+        "evidence_block_ids": [
+          "blk-a26846e376305ce193e5",
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "进一步削减工商登记前置审批。",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          153,
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推行“多证合一、一照一码”登记制度改革。",
+        "claim_id": "claim-7ceb4641e3972189",
+        "evidence_block_ids": [
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "推行“多证合一、一照一码”登记制度改革",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+        "claim_id": "claim-6c71546eb6d32d2f",
+        "evidence_block_ids": [
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+        "claim_id": "claim-b339c6b459963de6",
+        "evidence_block_ids": [
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+        "claim_id": "claim-0377f317f8187884",
+        "evidence_block_ids": [
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+        "claim_id": "claim-5c33b0f5ce1a765b",
+        "evidence_block_ids": [
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {
+          "region": [
+            "自贸试验区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "实施外商投资企业简易注销改革。",
+        "claim_id": "claim-000eebc1faa83423",
+        "evidence_block_ids": [
+          "blk-f6494e686dc428fccf3b"
+        ],
+        "evidence_excerpt": "实施外商投资企业简易注销改革。",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          154
+        ],
+        "ref_id": "ref-d3b4e6ddca48",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-93fd8bc3b0946f4b",
+          "claim-fc9f82357bd702b1",
+          "claim-7ceb4641e3972189",
+          "claim-6c71546eb6d32d2f",
+          "claim-b339c6b459963de6",
+          "claim-0377f317f8187884",
+          "claim-5c33b0f5ce1a765b",
+          "claim-000eebc1faa83423"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+        "reason": "该证据包含回答中心问题所需的所有核心措施，如取消注册资本、多证合一、住所放宽、名称改革、集群注册和简易注销，是构成回答义务的最小原子事实集合。"
+      }
+    ],
+    "group_id": "topic-740681ba5c07",
+    "members": [
+      {
+        "contribution": "该证据直接列举了外商投资企业登记制度改革的具体措施，包括取消最低注册资本、削减前置审批、推行多证合一、放宽住所登记、名称自主申报、集群注册及简易注销等，完整覆盖了分析框架中关于“measure”和“implementation_path”的",
+        "ref_id": "ref-d3b4e6ddca48",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-93fd8bc3b0946f4b",
+        "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fc9f82357bd702b1",
+        "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7ceb4641e3972189",
+        "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6c71546eb6d32d2f",
+        "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b339c6b459963de6",
+        "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0377f317f8187884",
+        "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5c33b0f5ce1a765b",
+        "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-000eebc1faa83423",
+        "draft_excerpt": "实施外商投资企业简易注销改革。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-93fd8bc3b0946f4b",
+          "claim-fc9f82357bd702b1"
+        ],
+        "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4015a9416eab7dbf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-93fd8bc3b0946f4b",
+          "claim-fc9f82357bd702b1"
+        ],
+        "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-915ff2d8ded448b9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7ceb4641e3972189"
+        ],
+        "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1fc866515645c83a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6c71546eb6d32d2f"
+        ],
+        "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3cded5dfe310ddce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b339c6b459963de6"
+        ],
+        "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7d1b7b2f85f6ad5f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0377f317f8187884"
+        ],
+        "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0bd2567370593939",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5c33b0f5ce1a765b"
+        ],
+        "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-55d4e1e3e780abf4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-000eebc1faa83423"
+        ],
+        "draft_excerpt": "实施外商投资企业简易注销改革。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b7e730a430c4a248",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-93fd8bc3b0946f4b",
+          "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fc9f82357bd702b1",
+          "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7ceb4641e3972189",
+          "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6c71546eb6d32d2f",
+          "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b339c6b459963de6",
+          "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0377f317f8187884",
+          "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5c33b0f5ce1a765b",
+          "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-000eebc1faa83423",
+          "draft_excerpt": "实施外商投资企业简易注销改革。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-93fd8bc3b0946f4b",
+            "claim-fc9f82357bd702b1"
+          ],
+          "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+          "finding": "supported",
+          "sentence_id": "sentence-4015a9416eab7dbf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-93fd8bc3b0946f4b",
+            "claim-fc9f82357bd702b1"
+          ],
+          "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+          "finding": "supported",
+          "sentence_id": "sentence-915ff2d8ded448b9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7ceb4641e3972189"
+          ],
+          "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+          "finding": "supported",
+          "sentence_id": "sentence-1fc866515645c83a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6c71546eb6d32d2f"
+          ],
+          "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+          "finding": "supported",
+          "sentence_id": "sentence-3cded5dfe310ddce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b339c6b459963de6"
+          ],
+          "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+          "finding": "supported",
+          "sentence_id": "sentence-7d1b7b2f85f6ad5f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0377f317f8187884"
+          ],
+          "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+          "finding": "supported",
+          "sentence_id": "sentence-0bd2567370593939",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5c33b0f5ce1a765b"
+          ],
+          "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+          "finding": "supported",
+          "sentence_id": "sentence-55d4e1e3e780abf4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-000eebc1faa83423"
+          ],
+          "draft_excerpt": "实施外商投资企业简易注销改革。",
+          "finding": "supported",
+          "sentence_id": "sentence-b7e730a430c4a248",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "f712a33eecda58340867968bc1706da21c507aeb848ab1f897cacbecd3ae6001",
+  "coverage_history": [
+    {
+      "draft_sha256": "41f0589249776b185abdc1a036fca37781ec4681514e0d8a3c61c0f19d8e5799",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-93fd8bc3b0946f4b",
+            "draft_excerpt": "核心举措包括在法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，并进一步削减工商登记前置审批事项，以简化准入程序。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fc9f82357bd702b1",
+            "draft_excerpt": "核心举措包括在法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，并进一步削减工商登记前置审批事项，以简化准入程序。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-000eebc1faa83423",
+            "draft_excerpt": "同时，实施外商投资企业简易注销改革，优化退出机制，形成从准入到退出的全链条登记便利化体系，提升市场主体的运行效率。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7ceb4641e3972189",
+            "draft_excerpt": "在登记流程方面，推行“多证合一、一照一码”登记制度改革，整合多项证照信息，实现数据共享与业务协同。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b339c6b459963de6",
+            "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽名称表述限制，开放名称数据库，并推行名称自主申报与网上核准，提高命名效率。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c71546eb6d32d2f",
+            "draft_excerpt": "在住所（经营场所）登记方面，放宽登记条件，允许“一址多照”和“一照多址”，提升空间资源利用率。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0377f317f8187884",
+            "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”经营范围。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5c33b0f5ce1a765b",
+            "draft_excerpt": "此外，在自贸试验区内试点推行企业住所备案登记制度改革，探索更灵活的住所管理模式。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过取消最低注册资本、削减前置审批、推行多证合一及住所登记便利化等措施，全面优化外商投资企业的准入与登记流程。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fcc1b2ceeeb36d78",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该改革框架旨在大幅降低外商投资企业的设立门槛与行政成本。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99279dbd4c1a9242",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-93fd8bc3b0946f4b",
+              "claim-fc9f82357bd702b1"
+            ],
+            "draft_excerpt": "核心举措包括在法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，并进一步削减工商登记前置审批事项，以简化准入程序。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5c486c32d3bab59",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-000eebc1faa83423"
+            ],
+            "draft_excerpt": "同时，实施外商投资企业简易注销改革，优化退出机制，形成从准入到退出的全链条登记便利化体系，提升市场主体的运行效率。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc78d521c937f7d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7ceb4641e3972189"
+            ],
+            "draft_excerpt": "在登记流程方面，推行“多证合一、一照一码”登记制度改革，整合多项证照信息，实现数据共享与业务协同。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-201bd66306b63bba",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b339c6b459963de6"
+            ],
+            "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽名称表述限制，开放名称数据库，并推行名称自主申报与网上核准，提高命名效率。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6680e4f557043d2e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c71546eb6d32d2f"
+            ],
+            "draft_excerpt": "在住所（经营场所）登记方面，放宽登记条件，允许“一址多照”和“一照多址”，提升空间资源利用率。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f48315da904ec1b8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0377f317f8187884"
+            ],
+            "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”经营范围。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c146c35956171cbb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5c33b0f5ce1a765b"
+            ],
+            "draft_excerpt": "此外，在自贸试验区内试点推行企业住所备案登记制度改革，探索更灵活的住所管理模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-74c946617856c207",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-93fd8bc3b0946f4b"
+            ],
+            "draft_excerpt": "取消外商投资企业最低注册资本要求",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-145488aa8a68874b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fc9f82357bd702b1"
+            ],
+            "draft_excerpt": "进一步削减工商登记前置审批",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d830efd44962e065",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7ceb4641e3972189"
+            ],
+            "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d39f22ef965250d1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c71546eb6d32d2f"
+            ],
+            "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-badd194c1c808827",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b339c6b459963de6"
+            ],
+            "draft_excerpt": "开展外商投资企业名称登记管理改革，推行名称自主申报、网上核准",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e65bdd4b4a9a356",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0377f317f8187884"
+            ],
+            "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”经营范围",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d19cd14a15517daa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5c33b0f5ce1a765b"
+            ],
+            "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c38d0e58b77695c4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-000eebc1faa83423"
+            ],
+            "draft_excerpt": "实施外商投资企业简易注销改革",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-afe11a40bc6b99b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过取消最低注册资本、削减前置审批、推行多证合一及住所登记便利化等措施，全面优化外商投资企业的准入与登记流程。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "该改革框架旨在大幅降低外商投资企业的设立门槛与行政成本。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "f712a33eecda58340867968bc1706da21c507aeb848ab1f897cacbecd3ae6001",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-93fd8bc3b0946f4b",
+            "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fc9f82357bd702b1",
+            "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7ceb4641e3972189",
+            "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6c71546eb6d32d2f",
+            "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b339c6b459963de6",
+            "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0377f317f8187884",
+            "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5c33b0f5ce1a765b",
+            "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-000eebc1faa83423",
+            "draft_excerpt": "实施外商投资企业简易注销改革。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-93fd8bc3b0946f4b",
+              "claim-fc9f82357bd702b1"
+            ],
+            "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4015a9416eab7dbf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-93fd8bc3b0946f4b",
+              "claim-fc9f82357bd702b1"
+            ],
+            "draft_excerpt": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-915ff2d8ded448b9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7ceb4641e3972189"
+            ],
+            "draft_excerpt": "推行“多证合一、一照一码”登记制度改革",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1fc866515645c83a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6c71546eb6d32d2f"
+            ],
+            "draft_excerpt": "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3cded5dfe310ddce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b339c6b459963de6"
+            ],
+            "draft_excerpt": "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7d1b7b2f85f6ad5f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0377f317f8187884"
+            ],
+            "draft_excerpt": "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bd2567370593939",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5c33b0f5ce1a765b"
+            ],
+            "draft_excerpt": "在自贸试验区内试点推行企业住所备案登记制度改革。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55d4e1e3e780abf4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-000eebc1faa83423"
+            ],
+            "draft_excerpt": "实施外商投资企业简易注销改革。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b7e730a430c4a248",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。\n\n- 推行“多证合一、一照一码”登记制度改革\n- 放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。\n- 开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。\n- 推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。\n- 在自贸试验区内试点推行企业住所备案登记制度改革。\n- 实施外商投资企业简易注销改革。",
+    "description": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一步削减工商登记前置审批。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-740681ba5c07",
+      "description": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一 步削减工商登记前置审批。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求",
+        "进一步削减工商登记前置审批。",
+        "推行“多证合一、一照一码”登记制度改革",
+        "放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。",
+        "开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。",
+        "推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。",
+        "在自贸试验区内试点推行企业住所备案登记制度改革。",
+        "实施外商投资企业简易注销改革。"
+      ],
+      "evidence_block_ids": [
+        "blk-a26846e376305ce193e5",
+        "blk-f6494e686dc428fccf3b"
+      ],
+      "page_end": 154,
+      "page_start": 153,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二）推进外资登记制度改革。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "推进外资登记制度改革。",
+      "type": "分析框架"
+    },
+    "title": "推进外资登记制度改革。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-d3b4e6ddca48:bundle-093cf832eada",
+      "excluded_fragments": [],
+      "ref_id": "ref-d3b4e6ddca48",
+      "source_blocks": [
+        {
+          "block_id": "blk-a26846e376305ce193e5",
+          "page_number": 153,
+          "text": "除法律、行政法规另有规定外，取消外商投资企业最低注册资本要求，进一"
+        },
+        {
+          "block_id": "blk-f6494e686dc428fccf3b",
+          "page_number": 154,
+          "text": "步削减工商登记前置审批。推行“多证合一、一照一码”登记制度改革，放宽企业住所（经营场所）登记条件，允许“一址多照”和“一照多址”。开展外商投资企业名称登记管理改革，放宽企业名称表述限制，开放企业名称数据库，推行企业名称自主申报、网上核准。推行外商投资企业集群注册登记管理，支持商务秘书类公司增加“集群企业住所托管”的经营范围。在自贸试验区内试点推行企业住所备案登记制度改革。实施外商投资企业简易注销改革。（责任部门：市工商局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-740681ba5c07",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-d3b4e6ddca48"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

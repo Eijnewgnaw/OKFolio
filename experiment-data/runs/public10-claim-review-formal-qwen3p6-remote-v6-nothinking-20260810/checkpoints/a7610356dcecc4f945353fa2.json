@@ -1,0 +1,948 @@
+{
+  "contract": {
+    "canonical_question": "2019年新津区在交通基础设施建设和区域协同发展方面取得了哪些具体进展？",
+    "claims": [
+      {
+        "claim": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目。",
+        "claim_id": "claim-b215d2b369f9731a",
+        "evidence_block_ids": [
+          "blk-90f05b849bcfa054d23e"
+        ],
+        "evidence_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，新津区加快推进成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "claim_id": "claim-7a0e19704cac8be5",
+        "evidence_block_ids": [
+          "blk-90f05b849bcfa054d23e"
+        ],
+        "evidence_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+        "claim_id": "claim-ccd1e70089ccf407",
+        "evidence_block_ids": [
+          "blk-78ffb1e8d8830e43a60d"
+        ],
+        "evidence_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+        "claim_id": "claim-2f5f81962ac9c1bd",
+        "evidence_block_ids": [
+          "blk-373e397a34060929d8a5"
+        ],
+        "evidence_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+        "claim_id": "claim-21a108719e09a954",
+        "evidence_block_ids": [
+          "blk-14c387409dc871750dac"
+        ],
+        "evidence_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+        "claim_id": "claim-e1cfb88e8cb4738e",
+        "evidence_block_ids": [
+          "blk-65a9041bc23e623bbdc5"
+        ],
+        "evidence_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区推进与眉山市彭山区警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+        "claim_id": "claim-fe3ca56cde97d3fb",
+        "evidence_block_ids": [
+          "blk-65a9041bc23e623bbdc5"
+        ],
+        "evidence_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新津区协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+        "claim_id": "claim-cedda141f75fe1ff",
+        "evidence_block_ids": [
+          "blk-6f598165cd53424c0996"
+        ],
+        "evidence_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          66
+        ],
+        "ref_id": "ref-3d5d5639eb27",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b215d2b369f9731a",
+          "claim-7a0e19704cac8be5",
+          "claim-ccd1e70089ccf407",
+          "claim-2f5f81962ac9c1bd",
+          "claim-21a108719e09a954",
+          "claim-e1cfb88e8cb4738e",
+          "claim-fe3ca56cde97d3fb",
+          "claim-cedda141f75fe1ff"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+        "reason": "该Bundle包含了回答中心问题所需的所有核心事实，包括具体项目名称、合作领域及成效，无重复或纯背景信息。"
+      }
+    ],
+    "group_id": "topic-3a3c4c8cd49c",
+    "members": [
+      {
+        "contribution": "该证据直接列举了2019年新津区推进的具体续建项目（如五津廊桥、白鹤大桥等）及国家省市重点项目（如成乐高速扩容、川藏铁路等），并详细描述了在交通互联互通、产业协同、公共服务共建及区域联防联控等方面的具体合作成效。",
+        "ref_id": "ref-3d5d5639eb27",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-b215d2b369f9731a",
+        "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "finding": "草稿句完整包含该claim所需的所有项目列表及时间状语，与证据一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7a0e19704cac8be5",
+        "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "finding": "草稿句完整包含该claim所需的所有项目列表及时间状语，与证据一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ccd1e70089ccf407",
+        "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+        "finding": "草稿句逐字匹配证据excerpt，涵盖所有合作领域及成效描述。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2f5f81962ac9c1bd",
+        "draft_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+        "finding": "草稿句逐字匹配证据excerpt，涵盖对接对象、重点项目及合作内容。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-21a108719e09a954",
+        "draft_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+        "finding": "草稿句逐字匹配证据excerpt，涵盖赛事名称、年份、参与名校及队伍数量。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e1cfb88e8cb4738e",
+        "draft_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+        "finding": "草稿句逐字匹配证据excerpt，涵盖签订预案及建立的机制。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fe3ca56cde97d3fb",
+        "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+        "finding": "草稿句逐字匹配证据excerpt，涵盖警务合作内容及目标。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-cedda141f75fe1ff",
+        "draft_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+        "finding": "草稿句逐字匹配证据excerpt，涵盖协助对象、项目及成效。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-b215d2b369f9731a",
+          "claim-7a0e19704cac8be5"
+        ],
+        "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "finding": "该句为description字段，内容完全由claim-b215d2b369f9731a和claim-7a0e19704cac8be5覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2c23b9806887fa2d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b215d2b369f9731a",
+          "claim-7a0e19704cac8be5"
+        ],
+        "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "finding": "该句为body字段，内容完全由claim-b215d2b369f9731a和claim-7a0e19704cac8be5覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ed60be00ab66a044",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ccd1e70089ccf407"
+        ],
+        "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+        "finding": "该句完全由claim-ccd1e70089ccf407覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9c98fe8e82896036",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2f5f81962ac9c1bd"
+        ],
+        "draft_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+        "finding": "该句完全由claim-2f5f81962ac9c1bd覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-238dba7c5d618dd2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-21a108719e09a954"
+        ],
+        "draft_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+        "finding": "该句完全由claim-21a108719e09a954覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c4420040141b9d33",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e1cfb88e8cb4738e"
+        ],
+        "draft_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+        "finding": "该句完全由claim-e1cfb88e8cb4738e覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a59e75c14a46a762",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fe3ca56cde97d3fb"
+        ],
+        "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+        "finding": "该句完全由claim-fe3ca56cde97d3fb覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-799445f20739d054",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cedda141f75fe1ff"
+        ],
+        "draft_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+        "finding": "该句完全由claim-cedda141f75fe1ff覆盖。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0c15c83c09418084",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-b215d2b369f9731a",
+          "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+          "finding": "草稿句完整包含该claim所需的所有项目列表及时间状语，与证据一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7a0e19704cac8be5",
+          "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+          "finding": "草稿句完整包含该claim所需的所有项目列表及时间状语，与证据一致。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ccd1e70089ccf407",
+          "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+          "finding": "草稿句逐字匹配证据excerpt，涵盖所有合作领域及成效描述。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2f5f81962ac9c1bd",
+          "draft_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+          "finding": "草稿句逐字匹配证据excerpt，涵盖对接对象、重点项目及合作内容。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-21a108719e09a954",
+          "draft_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+          "finding": "草稿句逐字匹配证据excerpt，涵盖赛事名称、年份、参与名校及队伍数量。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e1cfb88e8cb4738e",
+          "draft_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+          "finding": "草稿句逐字匹配证据excerpt，涵盖签订预案及建立的机制。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fe3ca56cde97d3fb",
+          "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+          "finding": "草稿句逐字匹配证据excerpt，涵盖警务合作内容及目标。",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cedda141f75fe1ff",
+          "draft_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+          "finding": "草稿句逐字匹配证据excerpt，涵盖协助对象、项目及成效。",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-b215d2b369f9731a",
+            "claim-7a0e19704cac8be5"
+          ],
+          "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+          "finding": "该句为description字段，内容完全由claim-b215d2b369f9731a和claim-7a0e19704cac8be5覆盖。",
+          "sentence_id": "sentence-2c23b9806887fa2d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b215d2b369f9731a",
+            "claim-7a0e19704cac8be5"
+          ],
+          "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+          "finding": "该句为body字段，内容完全由claim-b215d2b369f9731a和claim-7a0e19704cac8be5覆盖。",
+          "sentence_id": "sentence-ed60be00ab66a044",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ccd1e70089ccf407"
+          ],
+          "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+          "finding": "该句完全由claim-ccd1e70089ccf407覆盖。",
+          "sentence_id": "sentence-9c98fe8e82896036",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2f5f81962ac9c1bd"
+          ],
+          "draft_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+          "finding": "该句完全由claim-2f5f81962ac9c1bd覆盖。",
+          "sentence_id": "sentence-238dba7c5d618dd2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-21a108719e09a954"
+          ],
+          "draft_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+          "finding": "该句完全由claim-21a108719e09a954覆盖。",
+          "sentence_id": "sentence-c4420040141b9d33",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e1cfb88e8cb4738e"
+          ],
+          "draft_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+          "finding": "该句完全由claim-e1cfb88e8cb4738e覆盖。",
+          "sentence_id": "sentence-a59e75c14a46a762",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fe3ca56cde97d3fb"
+          ],
+          "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+          "finding": "该句完全由claim-fe3ca56cde97d3fb覆盖。",
+          "sentence_id": "sentence-799445f20739d054",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cedda141f75fe1ff"
+          ],
+          "draft_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+          "finding": "该句完全由claim-cedda141f75fe1ff覆盖。",
+          "sentence_id": "sentence-0c15c83c09418084",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "ef94181118736a074607bdeaeb341410f995fa1446d53866c53fd4cb3cb2fe0b",
+  "coverage_history": [
+    {
+      "draft_sha256": "085a2bb8e2bf0dcf802cf3cb409504c82d795fe822249b57fa8f11bd0154a809",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b215d2b369f9731a",
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目，以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a0e19704cac8be5",
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目，以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ccd1e70089ccf407",
+            "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f5f81962ac9c1bd",
+            "draft_excerpt": "新津区与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-21a108719e09a954",
+            "draft_excerpt": "新津区承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1cfb88e8cb4738e",
+            "draft_excerpt": "新津区与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe3ca56cde97d3fb",
+            "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cedda141f75fe1ff",
+            "draft_excerpt": "新津区协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2019年新津区通过推进交通基础设施项目、深化成德眉资同城化及多领域协同合作，实现区域互联互通与共同发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-17b8d4f0647952fc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b215d2b369f9731a",
+              "claim-7a0e19704cac8be5"
+            ],
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目，以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c7bee10c1e61648f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ccd1e70089ccf407"
+            ],
+            "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c98fe8e82896036",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f5f81962ac9c1bd"
+            ],
+            "draft_excerpt": "新津区与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7c8e42d33e98757e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21a108719e09a954"
+            ],
+            "draft_excerpt": "新津区承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be90b0c431c88268",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1cfb88e8cb4738e"
+            ],
+            "draft_excerpt": "新津区与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-16bc430084959df3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fe3ca56cde97d3fb"
+            ],
+            "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-799445f20739d054",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cedda141f75fe1ff"
+            ],
+            "draft_excerpt": "新津区协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-119e68b3c1ae653a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "协助简阳市五合乡省定贫困村龙潭村、护民村建成农业产业园核心示范区500亩，种植金秋砂糖桔2300余亩。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-78884f47297a7bf6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新津区与金牛区教育局正式签订《教育合作发展协议书》，在师资配备、人事管理等方面达成共识。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a9c9e0aa57883970",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "金牛区所属成都市石笋街小学和成都市机关第三幼儿园将领办成都市机关三幼新津分园和成都石笋街小学新津校区，积极深化两地教育事业协同发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2390628c4a301841",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "协助简阳市五合乡省定贫困村龙潭村、护民村建成农业产业园核心示范区500亩，种植金秋砂糖桔2300余亩。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "新津区与金牛区教育局正式签订《教育合作发展协议书》，在师资配备、人事管理等方面达成共识。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "金牛区所属成都市石笋街小学和成都市机关第三幼儿园将领办成都市机关三幼新津分园和成都石笋街小学新津校区，积极深化两地教育事业协同发展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "500",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2300",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《教育合作发展协议书》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2019年新津区通过推进交通基础设施项目、深化成德眉资同城化及多领域协同合作，实现区域互联互通与共同发展。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "ef94181118736a074607bdeaeb341410f995fa1446d53866c53fd4cb3cb2fe0b",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-b215d2b369f9731a",
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "草稿句完整包含该claim所需的所有项目列表及时间状语，与证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a0e19704cac8be5",
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "草稿句完整包含该claim所需的所有项目列表及时间状语，与证据一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ccd1e70089ccf407",
+            "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+            "finding": "草稿句逐字匹配证据excerpt，涵盖所有合作领域及成效描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f5f81962ac9c1bd",
+            "draft_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+            "finding": "草稿句逐字匹配证据excerpt，涵盖对接对象、重点项目及合作内容。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-21a108719e09a954",
+            "draft_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+            "finding": "草稿句逐字匹配证据excerpt，涵盖赛事名称、年份、参与名校及队伍数量。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e1cfb88e8cb4738e",
+            "draft_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+            "finding": "草稿句逐字匹配证据excerpt，涵盖签订预案及建立的机制。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fe3ca56cde97d3fb",
+            "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+            "finding": "草稿句逐字匹配证据excerpt，涵盖警务合作内容及目标。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cedda141f75fe1ff",
+            "draft_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+            "finding": "草稿句逐字匹配证据excerpt，涵盖协助对象、项目及成效。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b215d2b369f9731a",
+              "claim-7a0e19704cac8be5"
+            ],
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "该句为description字段，内容完全由claim-b215d2b369f9731a和claim-7a0e19704cac8be5覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c23b9806887fa2d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b215d2b369f9731a",
+              "claim-7a0e19704cac8be5"
+            ],
+            "draft_excerpt": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+            "finding": "该句为body字段，内容完全由claim-b215d2b369f9731a和claim-7a0e19704cac8be5覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed60be00ab66a044",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ccd1e70089ccf407"
+            ],
+            "draft_excerpt": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+            "finding": "该句完全由claim-ccd1e70089ccf407覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c98fe8e82896036",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f5f81962ac9c1bd"
+            ],
+            "draft_excerpt": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+            "finding": "该句完全由claim-2f5f81962ac9c1bd覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-238dba7c5d618dd2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21a108719e09a954"
+            ],
+            "draft_excerpt": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+            "finding": "该句完全由claim-21a108719e09a954覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c4420040141b9d33",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e1cfb88e8cb4738e"
+            ],
+            "draft_excerpt": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+            "finding": "该句完全由claim-e1cfb88e8cb4738e覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a59e75c14a46a762",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fe3ca56cde97d3fb"
+            ],
+            "draft_excerpt": "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+            "finding": "该句完全由claim-fe3ca56cde97d3fb覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-799445f20739d054",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cedda141f75fe1ff"
+            ],
+            "draft_excerpt": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+            "finding": "该句完全由claim-cedda141f75fe1ff覆盖。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c15c83c09418084",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。\n\n2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。\n\n与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。\n\n承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。\n\n与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。\n\n推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。\n\n协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。",
+    "description": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-3a3c4c8cd49c",
+      "description": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。",
+        "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。",
+        "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。",
+        "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。",
+        "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。",
+        "推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。",
+        "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。"
+      ],
+      "evidence_block_ids": [
+        "blk-90f05b849bcfa054d23e",
+        "blk-78ffb1e8d8830e43a60d",
+        "blk-373e397a34060929d8a5",
+        "blk-14c387409dc871750dac",
+        "blk-65a9041bc23e623bbdc5",
+        "blk-6f598165cd53424c0996"
+      ],
+      "page_end": 76,
+      "page_start": 66,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "第十四节 新津区",
+      "type": "分析框架"
+    },
+    "title": "第十四节 新津区"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-3d5d5639eb27:bundle-ebc59ab5afbf",
+      "excluded_fragments": [],
+      "ref_id": "ref-3d5d5639eb27",
+      "source_blocks": [
+        {
+          "block_id": "blk-90f05b849bcfa054d23e",
+          "page_number": 66,
+          "text": "2019年，新津区加快推进五津廊桥、白鹤大桥、兴园11路南延线、金三角缓堵保畅工程等续建项目以及成乐高速扩容、川藏铁路、天邛高速等国家省市重点项目。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-78ffb1e8d8830e43a60d",
+          "page_number": 66,
+          "text": "2019年以来，新津区围绕推进交通互联互通合作、加快促进成德眉资同城化发展、加强与眉山市彭山区协同合作、加强优教事业合作、推进国际名校赛艇赛赛事合作、加强与其他市(州)协同发展，区域合作取得一定成效。"
+        },
+        {
+          "block_id": "blk-373e397a34060929d8a5",
+          "page_number": 66,
+          "text": "与天府新区眉山管委会、眉山市彭山区对接交流，以成都邓双环保发电厂项目建设为重点，扎实推进区域间基础设施互联互通、产业协同发展、公共服务共建共享。"
+        },
+        {
+          "block_id": "blk-14c387409dc871750dac",
+          "page_number": 66,
+          "text": "承办第九届（2019）中国成都国际名校赛艇挑战赛及赛事配套活动，吸引了悉尼大学、伦敦大学、北京大学等12所国内外名校共19支男女赛艇队参赛。"
+        },
+        {
+          "block_id": "blk-65a9041bc23e623bbdc5",
+          "page_number": 66,
+          "text": "与眉山市彭山区签订了联防联控预案，建立了区域联防联控的环境应急联动长效机制和生态环境领域联防联控机制。推进两地警务交流合作、警务人才队伍交流、公安机关的联合与协作，加快实现区域社会共治。"
+        },
+        {
+          "block_id": "blk-6f598165cd53424c0996",
+          "page_number": 66,
+          "text": "协助阿坝州小金县建成木兰村“苹果共享农庄”，促进当地乡村文化旅游资源价值高效转化。协助简阳市五合乡省定贫困村龙潭村、护民村建成农业产业园核心示范区500亩，种植金秋砂糖桔2300余亩。"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-63ba91d6b111e53f2f51",
+          "page_number": 66,
+          "text": "与金牛区教育局正式签订《教育合作发展协议书》，在师资配备、人事管理等方面达成共识。金牛区所属成都市石笋街小学和成都市机关第三幼儿园将领办成都市机关三幼新津分园和成都石笋街小学新津校区，积极深化两地教育事业协同发展。"
+        },
+        {
+          "block_id": "blk-e817bbd871c6f95be170",
+          "page_number": 66,
+          "text": "下一步，新津区应持续深化与眉山市彭山区合作，探索共建新津-彭山边界区域融合发展试验区，深化天府智能制造产业园与彭山产业新城合作对接，扩大梨花溪文化旅游区辐射带动能力，加强两地农业合作，推动两地联合打造区域合作示范平台。加快建设泛欧亚国际商品展示交易馆，打通欧美及一带一路国家的贸易通道，做大做强优新津区对外发展平台。联合举办成眉产业人才需求对接会，完善人力资源市场信息互通和就业服务互动机制。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-3a3c4c8cd49c",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-3d5d5639eb27"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

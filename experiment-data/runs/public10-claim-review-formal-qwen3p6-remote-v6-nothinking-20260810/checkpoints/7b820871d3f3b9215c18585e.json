@@ -1,0 +1,11 @@
+{
+  "error": "ContractError: evidence_units[1].claims[1].evidence_excerpt (ref-1969520ed7a0:bundle-e407a5778e0c) is missing hard anchors from the claim: ['2022年']; claim='2022年，锦江区推动商务商贸协同发展，在德阳、眉山、资阳等地累计开设高品质品牌店铺30家，探索与德眉资等地联动打造同城化诚信消费体系。'; excerpt='一是推动商务商贸协同发展。锦江区星巴克、乡村基、德克士等知名零售企业在德阳、眉山、资阳等地累计开设高品质品牌店铺30家，推动延长壳牌（四川）石油公司和四川蜀交中油能源有限公司分别在资阳市、德阳市设立加油站，依托“交子券”创新载体，探索与德眉资等地联动打造同城化诚信消费体系。'",
+  "group_id": "topic-f0cf3e02a84e",
+  "ref_ids": [
+    "ref-1969520ed7a0",
+    "ref-2198a4f223f2",
+    "ref-390da01bf908"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

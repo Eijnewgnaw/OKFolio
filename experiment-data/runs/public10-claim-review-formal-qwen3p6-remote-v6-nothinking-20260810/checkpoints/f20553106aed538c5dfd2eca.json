@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-61e36be67ce9:bundle-3220ee46a98b) is missing hard anchors from the claim: ['2016年']; claim='2016年蓉欧快铁欧洲段开行了至德国纽伦堡、蒂尔堡等互联互通班列。'; excerpt='欧洲段开行了至德国纽伦堡、蒂尔堡等互联互通班列。'",
+  "group_id": "topic-ec624c65bc29",
+  "ref_ids": [
+    "ref-61e36be67ce9"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

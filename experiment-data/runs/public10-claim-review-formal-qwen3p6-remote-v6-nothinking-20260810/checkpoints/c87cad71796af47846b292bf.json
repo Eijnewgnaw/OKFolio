@@ -1,0 +1,12 @@
+{
+  "error": "ContractError: evidence block IDs must be globally unique in a group",
+  "group_id": "topic-d668738ddeb0",
+  "ref_ids": [
+    "ref-3f24312ccd69",
+    "ref-cd9f0169a476",
+    "ref-dfc2fa7a35a1",
+    "ref-e5b19329859d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

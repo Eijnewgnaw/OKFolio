@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-6ac353311a05:bundle-c729427a12cc) is missing hard anchors from the claim: ['2020年']; claim='2020年以来，成华区加速推进教育同城化，德阳市旌阳区选派干部到成华区教育局跟岗锻炼，资阳市教体局考察成华区智慧教育云平台。'; excerpt='一是加速推进教育同城化。德阳市旌阳区选派了两名干部分别到成华区教育局督导室、学前与终身教育科跟岗锻炼；资阳市教育和体育局到成华区考察智慧教育云平台建设情况。'",
+  "group_id": "topic-c511d329ed74",
+  "ref_ids": [
+    "ref-6ac353311a05"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,1152 @@
+{
+  "contract": {
+    "canonical_question": "中欧班列（成渝）号在成渝两地同时首发的背景、运营特征及合作意义是什么？",
+    "claims": [
+      {
+        "claim": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+        "claim_id": "claim-852e0da7eed8c7f0",
+        "evidence_block_ids": [
+          "blk-0df04ebd189634e102b9"
+        ],
+        "evidence_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          141
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+        "claim_id": "claim-b6645024ee87bd88",
+        "evidence_block_ids": [
+          "blk-81ff9a4cd4d274af688b"
+        ],
+        "evidence_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量 \\(40\\%\\) 以上①",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          141
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，国铁集团复函支持成渝两地中欧班列合作发展。",
+        "claim_id": "claim-01bafc9c12696bc4",
+        "evidence_block_ids": [
+          "blk-81ff9a4cd4d274af688b"
+        ],
+        "evidence_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          141
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "cause",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "自2021年1月起，国铁集团以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+        "claim_id": "claim-e2c5a0f03acb35ee",
+        "evidence_block_ids": [
+          "blk-81ff9a4cd4d274af688b"
+        ],
+        "evidence_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          141
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线；成都则在欧洲入口分拨，主攻成都-波兰罗兹线。",
+        "claim_id": "claim-d2463c871743f116",
+        "evidence_block_ids": [
+          "blk-60e810016d00bb37d8c9"
+        ],
+        "evidence_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          142
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+        "claim_id": "claim-f974a2eda6c35c49",
+        "evidence_block_ids": [
+          "blk-60e810016d00bb37d8c9"
+        ],
+        "evidence_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超 \\(30\\%\\) ，运输箱量超40万标箱，回程班列占比达 \\(55\\%\\) ，实现双向运输平衡",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          142
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步。",
+        "claim_id": "claim-9541a0ef375abacd",
+        "evidence_block_ids": [
+          "blk-816793af21abba76b4c1"
+        ],
+        "evidence_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          142
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "下一步合作目标分为三步走：近期统一品牌整合数据，中期深化统一订舱降低成本，远期深化国际物流大通道全方位合作。",
+        "claim_id": "claim-e0ca6516e37fbb1d",
+        "evidence_block_ids": [
+          "blk-2fd217fb788fcf383d03"
+        ],
+        "evidence_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          142
+        ],
+        "ref_id": "ref-7a5e6e700489",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-852e0da7eed8c7f0",
+          "claim-b6645024ee87bd88",
+          "claim-01bafc9c12696bc4",
+          "claim-e2c5a0f03acb35ee",
+          "claim-d2463c871743f116",
+          "claim-f974a2eda6c35c49",
+          "claim-9541a0ef375abacd",
+          "claim-e0ca6516e37fbb1d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+        "reason": "该Bundle包含了回答中心问题所需的所有核心事实，包括首发事件、运营数据、合作背景、差异化定位及战略意义，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-2bbb2912cf73",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了中欧班列（成渝）号首发的时间、地点、货物去向，回顾了2020年的运营数据及合作背景，分析了成渝两地班列的差异化定位与合并运营的优势，并明确了其在成渝地区双城经济圈建设中的战略意义及未来合作路径。",
+        "ref_id": "ref-7a5e6e700489",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-852e0da7eed8c7f0",
+        "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9541a0ef375abacd",
+        "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b6645024ee87bd88",
+        "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-01bafc9c12696bc4",
+        "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e2c5a0f03acb35ee",
+        "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d2463c871743f116",
+        "draft_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f974a2eda6c35c49",
+        "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e0ca6516e37fbb1d",
+        "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-852e0da7eed8c7f0",
+          "claim-9541a0ef375abacd"
+        ],
+        "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车，标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4b7e14d67d118416",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-852e0da7eed8c7f0"
+        ],
+        "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3a64655633074726",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9541a0ef375abacd"
+        ],
+        "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1a8a46eddc7a3a00",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b6645024ee87bd88"
+        ],
+        "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7d3ff5d1cf4fbd3a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-01bafc9c12696bc4"
+        ],
+        "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0671058b725bf594",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-01bafc9c12696bc4"
+        ],
+        "draft_excerpt": "随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2021da14f4fc0001",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e2c5a0f03acb35ee"
+        ],
+        "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-84c397450f6ecc81",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d2463c871743f116"
+        ],
+        "draft_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-11f8441bef073717",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d2463c871743f116"
+        ],
+        "draft_excerpt": "成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a553cdfdbbe473c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f974a2eda6c35c49"
+        ],
+        "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a1631b93e83e64ce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e0ca6516e37fbb1d"
+        ],
+        "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c85ce166cb356009",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e0ca6516e37fbb1d"
+        ],
+        "draft_excerpt": "中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-906dff22bc476ef6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e0ca6516e37fbb1d"
+        ],
+        "draft_excerpt": "远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c34aea01fc10762c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-852e0da7eed8c7f0",
+          "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9541a0ef375abacd",
+          "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b6645024ee87bd88",
+          "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-01bafc9c12696bc4",
+          "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e2c5a0f03acb35ee",
+          "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d2463c871743f116",
+          "draft_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f974a2eda6c35c49",
+          "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e0ca6516e37fbb1d",
+          "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-852e0da7eed8c7f0",
+            "claim-9541a0ef375abacd"
+          ],
+          "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车，标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步。",
+          "finding": "supported",
+          "sentence_id": "sentence-4b7e14d67d118416",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-852e0da7eed8c7f0"
+          ],
+          "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+          "finding": "supported",
+          "sentence_id": "sentence-3a64655633074726",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9541a0ef375abacd"
+          ],
+          "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+          "finding": "supported",
+          "sentence_id": "sentence-1a8a46eddc7a3a00",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b6645024ee87bd88"
+          ],
+          "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+          "finding": "supported",
+          "sentence_id": "sentence-7d3ff5d1cf4fbd3a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-01bafc9c12696bc4"
+          ],
+          "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-0671058b725bf594",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-01bafc9c12696bc4"
+          ],
+          "draft_excerpt": "随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-2021da14f4fc0001",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e2c5a0f03acb35ee"
+          ],
+          "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+          "finding": "supported",
+          "sentence_id": "sentence-84c397450f6ecc81",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d2463c871743f116"
+          ],
+          "draft_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+          "finding": "supported",
+          "sentence_id": "sentence-11f8441bef073717",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d2463c871743f116"
+          ],
+          "draft_excerpt": "成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。",
+          "finding": "supported",
+          "sentence_id": "sentence-a553cdfdbbe473c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f974a2eda6c35c49"
+          ],
+          "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+          "finding": "supported",
+          "sentence_id": "sentence-a1631b93e83e64ce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e0ca6516e37fbb1d"
+          ],
+          "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+          "finding": "supported",
+          "sentence_id": "sentence-c85ce166cb356009",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e0ca6516e37fbb1d"
+          ],
+          "draft_excerpt": "中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；",
+          "finding": "supported",
+          "sentence_id": "sentence-906dff22bc476ef6",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-e0ca6516e37fbb1d",
+          "draft_excerpt": "远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-e0ca6516e37fbb1d"
+          ],
+          "draft_excerpt": "远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-c34aea01fc10762c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "2ac8fdfb06f305b7410a33213abd8b1c03450e39eb6df41cd556dee9b89a3fbd",
+  "coverage_history": [
+    {
+      "draft_sha256": "24a8ca50a5a4a9525e67a2259f9d5210713634938ebc1e2d636d53f0210bd98e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-852e0da7eed8c7f0",
+            "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9541a0ef375abacd",
+            "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b6645024ee87bd88",
+            "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01bafc9c12696bc4",
+            "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2c5a0f03acb35ee",
+            "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d2463c871743f116",
+            "draft_excerpt": "两者分别聚焦各自的专攻领域和发家线路，重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f974a2eda6c35c49",
+            "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e0ca6516e37fbb1d",
+            "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-852e0da7eed8c7f0",
+              "claim-9541a0ef375abacd"
+            ],
+            "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车，标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b7e14d67d118416",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-852e0da7eed8c7f0"
+            ],
+            "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a64655633074726",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "发车仪式分别在成都铁路港和重庆国际物流枢纽园区内举行，两列中欧班列满载着电子产品机械零件、智能家电等货物，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-690cc6ace7441cad",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-9541a0ef375abacd"
+            ],
+            "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e1b2c23e3537b0bb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b6645024ee87bd88"
+            ],
+            "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d49629d3ad34a2e0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01bafc9c12696bc4"
+            ],
+            "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e34ff6d22ac7eb3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01bafc9c12696bc4"
+            ],
+            "draft_excerpt": "随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-954e212d8bb8df7b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2c5a0f03acb35ee"
+            ],
+            "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d05f6c5c439a3b1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成渝地区是中欧班列开行最早、运行最稳定、影响力最大的地区，成渝中欧班列为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列，此次成渝两地统一品牌、使用统一定名称开展品牌宣传推广，正式合并运营有利于企业整合成渝两地产业链，共同发挥中欧班列的成本优势和速度优势。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eaf451bee06448d7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-d2463c871743f116"
+            ],
+            "draft_excerpt": "两者分别聚焦各自的专攻领域和发家线路，重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3169980dc967970a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d2463c871743f116"
+            ],
+            "draft_excerpt": "成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-81778e2927132687",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f974a2eda6c35c49"
+            ],
+            "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c883be6424c1a54",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "开行线路已可通达欧洲超百个城市，货源品类覆盖电子、机械、汽车及配件、智能终端、医疗药品及器械、食品饮料、衣物鞋帽等上千种产品。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-667351a5ae6d661f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "当前，我国正在推动成渝地区双城经济圈建设，强调成渝地区要“打造带动全国高质量发展的重要增长极和新的动力源”，要求成渝地区牢固树立一盘棋思想和一体化发展理念，健全合作机制，打造区域协作的高水平样板。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b1064f69cb77f4b9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0ca6516e37fbb1d"
+            ],
+            "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a6f6d5ee238dfa4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0ca6516e37fbb1d"
+            ],
+            "draft_excerpt": "中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-67e3761fe6480737",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0ca6516e37fbb1d"
+            ],
+            "draft_excerpt": "远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5982ce55664b5e61",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "最终，通过通道带物流、物流带贸易、贸易带产业，延展全球供应链前后端服务，依托成渝两地综保区及铁路口岸等开放平台，加速促进两地通道与物流、贸易、产业的融合发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-824a3c170ba37aae",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "发车仪式分别在成都铁路港和重庆国际物流枢纽园区内举行，两列中欧班列满载着电子产品机械零件、智能家电等货物，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成渝地区是中欧班列开行最早、运行最稳定、影响力最大的地区，成渝中欧班列为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列，此次成渝两地统一品牌、使用统一定名称开展品牌宣传推广，正式合并运营有利于企业整合成渝两地产业链，共同发挥中欧班列的成本优势和速度优势。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "开行线路已可通达欧洲超百个城市，货源品类覆盖电子、机械、汽车及配件、智能终端、医疗药品及器械、食品饮料、衣物鞋帽等上千种产品。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "当前，我国正在推动成渝地区双城经济圈建设，强调成渝地区要“打造带动全国高质量发展的重要增长极和新的动力源”，要求成渝地区牢固树立一盘棋思想和一体化发展理念，健全合作机制，打造区域协作的高水平样板。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "最终，通过通道带物流、物流带贸易、贸易带产业，延展全球供应链前后端服务，依托成渝两地综保区及铁路口岸等开放平台，加速促进两地通道与物流、贸易、产业的融合发展。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "2ac8fdfb06f305b7410a33213abd8b1c03450e39eb6df41cd556dee9b89a3fbd",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-852e0da7eed8c7f0",
+            "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9541a0ef375abacd",
+            "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b6645024ee87bd88",
+            "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01bafc9c12696bc4",
+            "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e2c5a0f03acb35ee",
+            "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d2463c871743f116",
+            "draft_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f974a2eda6c35c49",
+            "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e0ca6516e37fbb1d",
+            "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-852e0da7eed8c7f0",
+              "claim-9541a0ef375abacd"
+            ],
+            "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车，标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b7e14d67d118416",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-852e0da7eed8c7f0"
+            ],
+            "draft_excerpt": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a64655633074726",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9541a0ef375abacd"
+            ],
+            "draft_excerpt": "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1a8a46eddc7a3a00",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b6645024ee87bd88"
+            ],
+            "draft_excerpt": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7d3ff5d1cf4fbd3a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01bafc9c12696bc4"
+            ],
+            "draft_excerpt": "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0671058b725bf594",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01bafc9c12696bc4"
+            ],
+            "draft_excerpt": "随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2021da14f4fc0001",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e2c5a0f03acb35ee"
+            ],
+            "draft_excerpt": "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-84c397450f6ecc81",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d2463c871743f116"
+            ],
+            "draft_excerpt": "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11f8441bef073717",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d2463c871743f116"
+            ],
+            "draft_excerpt": "成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a553cdfdbbe473c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f974a2eda6c35c49"
+            ],
+            "draft_excerpt": "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a1631b93e83e64ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0ca6516e37fbb1d"
+            ],
+            "draft_excerpt": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c85ce166cb356009",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0ca6516e37fbb1d"
+            ],
+            "draft_excerpt": "中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-906dff22bc476ef6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e0ca6516e37fbb1d"
+            ],
+            "draft_excerpt": "远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c34aea01fc10762c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。\n\n## 证据与影响\n\n2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量40%以上。2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。\n\n重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超30%，运输箱量超40万标箱，回程班列占比达55%，实现双向运输平衡。\n\n下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。",
+    "description": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车，标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步。",
+    "ref": {
+      "asset_hints": [
+        "image-071"
+      ],
+      "concept_id": "topic-2bbb2912cf73",
+      "description": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+      "document_family_id": "3b48f7708ca2fd5e224b",
+      "document_version_id": "e6240784b5bdbcf0b12e",
+      "evidence": [
+        "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。",
+        "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量 \\(40\\%\\) 以上①",
+        "2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。",
+        "自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。",
+        "重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。",
+        "2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超 \\(30\\%\\) ，运输箱量超40万标箱，回程班列占比达 \\(55\\%\\) ，实现双向运输平衡",
+        "中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。",
+        "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。"
+      ],
+      "evidence_block_ids": [
+        "blk-0df04ebd189634e102b9",
+        "blk-81ff9a4cd4d274af688b",
+        "blk-60e810016d00bb37d8c9",
+        "blk-816793af21abba76b4c1",
+        "blk-2fd217fb788fcf383d03"
+      ],
+      "page_end": 142,
+      "page_start": 141,
+      "ref_family_hint": "",
+      "ref_version_id": "e6240784b5bdbcf0b12e",
+      "scope": {},
+      "section_path": [
+        "编委会",
+        "中欧班列（成渝）号在成渝同时首发"
+      ],
+      "semantic_signature": {},
+      "source": "46a57605-7f91-4664-87f7-7ed1e58dade6.md",
+      "title": "中欧班列（成渝）号在成渝同时首发",
+      "type": "分析框架"
+    },
+    "title": "中欧班列（成渝）号在成渝同时首发"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-7a5e6e700489:bundle-66d6869786b0",
+      "excluded_fragments": [],
+      "ref_id": "ref-7a5e6e700489",
+      "source_blocks": [
+        {
+          "block_id": "blk-0df04ebd189634e102b9",
+          "page_number": 141,
+          "text": "2021年1月1日，成都、重庆两地同时发出2021年首列中欧班列（成渝）号列车。发车仪式分别在成都铁路港和重庆国际物流枢纽园区内举行，两列中欧班列满载着电子产品机械零件、智能家电等货物，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。"
+        },
+        {
+          "block_id": "blk-41c9f319a53f92b6a380",
+          "page_number": 141,
+          "text": "原始 PDF 第 141 页图片"
+        },
+        {
+          "block_id": "blk-d1613736c4e48cbb8189",
+          "page_number": 141,
+          "text": "图4-1 2021年首列中欧班列（成渝）号列车"
+        },
+        {
+          "block_id": "blk-81ff9a4cd4d274af688b",
+          "page_number": 141,
+          "text": "2020年，成渝两地中欧班列开行数量近5000列，历年累计开行量达1.4万列，占全国开行总量 \\(40\\%\\) 以上①。2020年11月，重庆与四川及成都就中欧班列共商共建共享达成一致意见，在统一品牌、定价机制、整合资源、提升服务、降低成本等方面开展深度合作。随后，国铁集团复函重庆、成都两地政府，支持成渝两地中欧班列合作发展。自2021年1月起，国铁集团将以成渝两地合计开行数发布相关指标数据，并支持两地政府与国铁集团共建联席会议机制。"
+        },
+        {
+          "block_id": "blk-7e7eff41ebc5e7e66d62",
+          "page_number": 141,
+          "text": "成渝地区是中欧班列开行最早、运行最稳定、影响力最大的地区，成渝中欧班"
+        },
+        {
+          "block_id": "blk-60e810016d00bb37d8c9",
+          "page_number": 142,
+          "text": "列为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列，此次成渝两地统一品牌、使用统一定名称开展品牌宣传推广，正式合并运营有利于企业整合成渝两地产业链，共同发挥中欧班列的成本优势和速度优势。两者分别聚焦各自的专攻领域和发家线路，重庆主要在欧洲内陆集散，主打重庆-德国杜伊斯堡线，在南向与东南亚的连接上，重庆与广西政府合作运行经凭祥的重庆东盟公路班车；成都则在欧洲入口分拨，主攻成都-波兰罗兹线，借西部陆海新通道建设发展海铁联运，货物由铁路运往钦州港后转海运至东盟市场。2021年，中欧班列（成渝）实现逆势大幅度增长，开行量超4800列，占全国比例超 \\(30\\%\\) ，运输箱量超40万标箱，回程班列占比达 \\(55\\%\\) ，实现双向运输平衡；开行线路已可通达欧洲超百个城市，货源品类覆盖电子、机械、汽车及配件、智能终端、医疗药品及器械、食品饮料、衣物鞋帽等上千种产品。"
+        },
+        {
+          "block_id": "blk-816793af21abba76b4c1",
+          "page_number": 142,
+          "text": "当前，我国正在推动成渝地区双城经济圈建设，强调成渝地区要“打造带动全国高质量发展的重要增长极和新的动力源”，要求成渝地区牢固树立一盘棋思想和一体化发展理念，健全合作机制，打造区域协作的高水平样板。中欧班列（成渝）号的首发标志着成渝地区双城经济圈建设在“十四五”开局首日迈出重要一步，中欧班列（成渝）将肩负推动中欧班列高质量发展的使命，拉开两地合作共建、高效运营的新序幕。"
+        },
+        {
+          "block_id": "blk-2fd217fb788fcf383d03",
+          "page_number": 142,
+          "text": "下一步，根据双方确定的近、中、远“三步走”合作目标，近期，将统一品牌，整合数据，协同机制；中期，将围绕统一订舱、提高服务、降低成本、探索标准、合资经营等方面深化合作；远期，将进一步深化西部陆海新通道、航空及水运等国际物流大通道的全方位合作。最终，通过通道带物流、物流带贸易、贸易带产业，延展全球供应链前后端服务，依托成渝两地综保区及铁路口岸等开放平台，加速促进两地通道与物流、贸易、产业的融合发展。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-2bbb2912cf73",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-7a5e6e700489"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

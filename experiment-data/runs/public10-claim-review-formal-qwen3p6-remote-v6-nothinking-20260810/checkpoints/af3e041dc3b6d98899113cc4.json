@@ -1,0 +1,1069 @@
+{
+  "contract": {
+    "canonical_question": "2021年1月中欧班列（成渝）号在成都、重庆同时首发，其发车地点、目的地及运营模式目标是什么？",
+    "claims": [
+      {
+        "claim": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+        "claim_id": "claim-1dda31a2cf55c421",
+        "evidence_block_ids": [
+          "blk-82fcf11d5d09f569b11d"
+        ],
+        "evidence_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+        "evidence_id": "ref-e6bd297a0f70:bundle-e5bcdb216391",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          167
+        ],
+        "ref_id": "ref-e6bd297a0f70",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）号发车仪式在成都铁路港和重庆团结村铁路中心站举行。",
+        "claim_id": "claim-80cbbc4e2e7be1fc",
+        "evidence_block_ids": [
+          "blk-82fcf11d5d09f569b11d"
+        ],
+        "evidence_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行",
+        "evidence_id": "ref-e6bd297a0f70:bundle-e5bcdb216391",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          167
+        ],
+        "ref_id": "ref-e6bd297a0f70",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）号分别发往德国杜伊斯堡和波兰罗兹。",
+        "claim_id": "claim-1c13d65f58c947bd",
+        "evidence_block_ids": [
+          "blk-82fcf11d5d09f569b11d"
+        ],
+        "evidence_excerpt": "两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+        "evidence_id": "ref-e6bd297a0f70:bundle-e5bcdb216391",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          167
+        ],
+        "ref_id": "ref-e6bd297a0f70",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+        "claim_id": "claim-09720890286bbaba",
+        "evidence_block_ids": [
+          "blk-82fcf11d5d09f569b11d"
+        ],
+        "evidence_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+        "evidence_id": "ref-e6bd297a0f70:bundle-e5bcdb216391",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          167
+        ],
+        "ref_id": "ref-e6bd297a0f70",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1dda31a2cf55c421",
+          "claim-80cbbc4e2e7be1fc",
+          "claim-1c13d65f58c947bd",
+          "claim-09720890286bbaba"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e6bd297a0f70:bundle-e5bcdb216391",
+        "reason": "该证据包含中心问题所需的所有关键事实，包括时间、地点、目的地及运营目标，是回答义务的唯一来源。"
+      }
+    ],
+    "group_id": "topic-09409c522f14",
+    "members": [
+      {
+        "contribution": "该证据直接描述了2021年1月中欧班列（成渝）号在成都、重庆同时首发的具体事实，包括发车仪式地点、目的地及未来运营模式目标，是回答中心问题的核心依据。",
+        "ref_id": "ref-e6bd297a0f70",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-1dda31a2cf55c421",
+        "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-80cbbc4e2e7be1fc",
+        "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1c13d65f58c947bd",
+        "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-09720890286bbaba",
+        "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-1dda31a2cf55c421"
+        ],
+        "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e042ec49fc7c2706",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1dda31a2cf55c421"
+        ],
+        "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f630de76dbed0bff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-80cbbc4e2e7be1fc",
+          "claim-1c13d65f58c947bd"
+        ],
+        "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-31496e6fdca751dd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-09720890286bbaba"
+        ],
+        "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5caef4dea166f59b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2021年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1dda31a2cf55c421",
+          "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-80cbbc4e2e7be1fc",
+          "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1c13d65f58c947bd",
+          "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-09720890286bbaba",
+          "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1dda31a2cf55c421"
+          ],
+          "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+          "finding": "supported",
+          "sentence_id": "sentence-e042ec49fc7c2706",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1dda31a2cf55c421"
+          ],
+          "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+          "finding": "supported",
+          "sentence_id": "sentence-f630de76dbed0bff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-80cbbc4e2e7be1fc",
+            "claim-1c13d65f58c947bd"
+          ],
+          "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+          "finding": "supported",
+          "sentence_id": "sentence-31496e6fdca751dd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-09720890286bbaba"
+          ],
+          "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+          "finding": "supported",
+          "sentence_id": "sentence-5caef4dea166f59b",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "427d592b1477713fffb54de51dc83d1a6040ee0b4edf2e02fe48269a8fd63772",
+  "coverage_history": [
+    {
+      "draft_sha256": "d264b43620179a2d6cbbd5f3a9ff8d2f2b3e334e54e2b399f1451adb6871149b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1dda31a2cf55c421",
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发，分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c13d65f58c947bd",
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发，分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-09720890286bbaba",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-80cbbc4e2e7be1fc",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年成都通过中欧班列首发、天府机场投运及多项国际经贸活动，加速构建面向“一带一路”的立体开放通道与枢纽经济。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ce3976cf471d295",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年，成都通过中欧班列（成渝）号首发、天府国际机场投运及多项国际经贸活动，加速构建面向“一带一路”的立体开放通道与枢纽经济。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52c1fe0b997ad305",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都国际铁路港综合保税区封关运行，并获批国家级经济技术开发区，强化了产业合作与区域一体化。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c44c93fa40de980",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1dda31a2cf55c421",
+              "claim-1c13d65f58c947bd"
+            ],
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发，分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e56578e006cbf9d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年6月成都天府国际机场正式投运，定位为国家级国际航空枢纽。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2904b2b1620bd51d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年9月全国首条“航空+”西部陆海新通道货运班列从成都发车驶向老挝万象。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3726b02b9a151d47",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年12月中老铁路国际货运班列从成都始发，加速开拓南向国际铁路通道。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b961c28952add8ae",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年成都正式获得2024年世界园艺博览会举办权，园区选址位于成都东部新区空港新城核心区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-583ec19a0d4932b7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年4月顺丰集团西部航空货运枢纽项目落户成都，建成后年货运吞吐量将达到30万吨。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36766b88d0cc9d20",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年5月亚洲体育舞蹈联合会总部落户成都，是首个总部落户成都的国际组织。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c33ea812504e0d1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年5月国际行政科学学会（IIAS）“世界幸福城市治理研究中心”落户成都。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6f9a481f7bfe3018",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年7月土耳其在成都设立总领事馆获批准，领区范围包括四川省、重庆市、贵州省和云南省。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dd27d66206f60f2f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年7月智利驻成都总领事馆正式开馆，是首个在蓉设立领事机构的拉美国家。",
+            "finding": "该句关于智利领事馆的事实不在Claim Contract范围内，且存在逻辑语病（智利是拉美国家，而非‘首个在蓉设立领事机构的拉美国家’这一表述指代不清，通常指首个拉美国家领事馆，但合同未提及此排名事实）。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d337ff324e604485",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年7月中国南亚国家应急物资储备库在蓉正式启用。",
+            "finding": "该句关于应急物资储备库的事实不在Claim Contract范围内。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e026cc51694854a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年10月成都当选世界智慧可持续城市组织执委会副主席城市。",
+            "finding": "该句关于世界智慧可持续城市组织的事实不在Claim Contract范围内。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52e2a3f1c01bed70",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2021年12月首趟成都至英国伊明汉姆中欧班列开行，进一步扩大了成都始发中欧班列的辐射范围。",
+            "finding": "该句关于英国伊明汉姆班列的事实不在Claim Contract范围内。Claim Contract仅涉及2021年1月首发及杜伊斯堡/罗兹目的地。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e530347d7fe41e4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年成都通过中欧班列首发、天府机场投运及多项国际经贸活动，加速构建面向“一带一路”的立体开放通道与枢纽经济。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年，成都通过中欧班列（成渝）号首发、天府国际机场投运及多项国际经贸活动，加速构建面向“一带一路”的立体开放通道与枢纽经济。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "成都国际铁路港综合保税区封关运行，并获批国家级经济技术开发区，强化了产业合作与区域一体化。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年6月成都天府国际机场正式投运，定位为国家级国际航空枢纽。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年9月全国首条“航空+”西部陆海新通道货运班列从成都发车驶向老挝万象。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年12月中老铁路国际货运班列从成都始发，加速开拓南向国际铁路通道。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年成都正式获得2024年世界园艺博览会举办权，园区选址位于成都东部新区空港新城核心区。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年4月顺丰集团西部航空货运枢纽项目落户成都，建成后年货运吞吐量将达到30万吨。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年5月亚洲体育舞蹈联合会总部落户成都，是首个总部落户成都的国际组织。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年5月国际行政科学学会（IIAS）“世界幸福城市治理研究中心”落户成都。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年7月土耳其在成都设立总领事馆获批准，领区范围包括四川省、重庆市、贵州省和云南省。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2021年7月智利驻成都总领事馆正式开馆，是首个在蓉设立领事机构的拉美国家。",
+            "finding": "智利驻成都总领事馆开馆及‘首个拉美国家’排名事实。"
+          },
+          {
+            "draft_excerpt": "2021年7月中国南亚国家应急物资储备库在蓉正式启用。",
+            "finding": "中国南亚国家应急物资储备库启用事实。"
+          },
+          {
+            "draft_excerpt": "2021年10月成都当选世界智慧可持续城市组织执委会副主席城市。",
+            "finding": "成都当选世界智慧可持续城市组织执委会副主席城市事实。"
+          },
+          {
+            "draft_excerpt": "2021年12月首趟成都至英国伊明汉姆中欧班列开行，进一步扩大了成都始发中欧班列的辐射范围。",
+            "finding": "成都至英国伊明汉姆中欧班列开行事实。"
+          },
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年6月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年9月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年12月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2024年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年4月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "30",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年5月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年7月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2021年10月",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "979742bd0cc9510770c1ba3e26017b0889f8a8a8f2fa952ae364ba35c6c096c3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1dda31a2cf55c421",
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-80cbbc4e2e7be1fc",
+            "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c13d65f58c947bd",
+            "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-09720890286bbaba",
+            "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1dda31a2cf55c421",
+              "claim-80cbbc4e2e7be1fc",
+              "claim-1c13d65f58c947bd"
+            ],
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发，发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c2813af2389df0ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1dda31a2cf55c421"
+            ],
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f630de76dbed0bff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-80cbbc4e2e7be1fc",
+              "claim-1c13d65f58c947bd"
+            ],
+            "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-31496e6fdca751dd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-09720890286bbaba"
+            ],
+            "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5caef4dea166f59b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "427d592b1477713fffb54de51dc83d1a6040ee0b4edf2e02fe48269a8fd63772",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1dda31a2cf55c421",
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-80cbbc4e2e7be1fc",
+            "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1c13d65f58c947bd",
+            "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-09720890286bbaba",
+            "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1dda31a2cf55c421"
+            ],
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e042ec49fc7c2706",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1dda31a2cf55c421"
+            ],
+            "draft_excerpt": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f630de76dbed0bff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-80cbbc4e2e7be1fc",
+              "claim-1c13d65f58c947bd"
+            ],
+            "draft_excerpt": "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-31496e6fdca751dd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-09720890286bbaba"
+            ],
+            "draft_excerpt": "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5caef4dea166f59b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2021年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2021年1月中欧班列（成渝）号在成都、重庆同时首发。两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。",
+    "description": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-09409c522f14",
+      "description": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+      "document_family_id": "3b48f7708ca2fd5e224b",
+      "document_version_id": "e6240784b5bdbcf0b12e",
+      "evidence": [
+        "2021年1月中欧班列（成渝）号在成都、重庆同时首发。",
+        "两地发车仪式在成都铁路港和重庆团结村铁路中心站举行",
+        "两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。",
+        "未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。"
+      ],
+      "evidence_block_ids": [
+        "blk-82fcf11d5d09f569b11d"
+      ],
+      "page_end": 174,
+      "page_start": 167,
+      "ref_family_hint": "",
+      "ref_version_id": "e6240784b5bdbcf0b12e",
+      "scope": {},
+      "section_path": [
+        "附录 0",
+        "2021年成都融入“一带一路”建设大事记"
+      ],
+      "semantic_signature": {},
+      "source": "46a57605-7f91-4664-87f7-7ed1e58dade6.md",
+      "title": "2021年成都融入“一带一路”建设大事记",
+      "type": "分析框架"
+    },
+    "title": "2021年成都融入“一带一路”建设大事记"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e6bd297a0f70:bundle-e5bcdb216391",
+      "excluded_fragments": [],
+      "ref_id": "ref-e6bd297a0f70",
+      "source_blocks": [
+        {
+          "block_id": "blk-82fcf11d5d09f569b11d",
+          "page_number": 167,
+          "text": "2021年1月中欧班列（成渝）号在成都、重庆同时首发。两地发车仪式在成都铁路港和重庆团结村铁路中心站举行，两列中欧班列分别发往德国杜伊斯堡和波兰罗兹。未来中欧班列（成渝）号将探索高质量运营模式，统筹优化去回程线路和运力资源，打造合作共建、高效运营的样板。"
+        },
+        {
+          "block_id": "blk-e6b2239b330ccfdbf22f",
+          "page_number": 167,
+          "text": "2021年1月成都正式获得2024年世界园艺博览会举办权。本届世园会主题为“公园城市、美好人居”，园区选址位于成都东部新区空港新城核心区，展览期间将举行各类室内外展出、学术交流、花卉园艺竞赛等活动。成都将大力推进城市公园体系建设，将世界园艺融入城市公共空间，打造公园城市的展示窗口。"
+        },
+        {
+          "block_id": "blk-7db02851c73453d08d2c",
+          "page_number": 167,
+          "text": "2021年1月“NEW IN CITY 2021成都新经济共享大会”在成都召开。大会以“共享城市场景机会，实现高质量发展”为主题，来自19个国家和地区的新经济组织、新经济企业代表和知名学者，通过全球连线探讨城市发展、共话未来机遇。大会发布了《城市场景机会清单》，涵盖城市十大共享机遇，释放约1.9万亿元机会。"
+        },
+        {
+          "block_id": "blk-554e499d5c46d552440a",
+          "page_number": 167,
+          "text": "2021年1月成都国际铁路港综合保税区正式封关运行。成都国际铁路港设置综合保税区集中封关运行暨入区项目签约仪式主会场，现场签约项目26个，总投资达到64.4亿元，未来将瞄准发展智能家电等先进制造，配套发展以跨境电商等为重点的国际贸易、以汽车零配件等为重点的保税物流和以机电检测维修为重点的保税服务。"
+        },
+        {
+          "block_id": "blk-8b1d9c20780972ffe7de",
+          "page_number": 167,
+          "text": "2021年2月首趟成都至俄罗斯圣彼得堡中欧班列开行。本次专列是俄罗斯GCC项目建设所用配套物资，该项目是中国化学所属七化建公司在“一带一路”的重大项目，是中欧班列通道与一带一路重点项目结合的成功实践，成都国际铁路港高效的运输服务和全程供应链服务方案为及时、全面推进项目各阶段建设任务完成提供了重要支撑。"
+        },
+        {
+          "block_id": "blk-e9b8bbdc78a9bc90b2b1",
+          "page_number": 167,
+          "text": "2021年3月成都飞达卡全货机航线顺利首航。达卡是孟加拉国最大的工业中心和最大的商品集散地，该航班主要服务于服装、纺织原料、机械工业设备等货品的"
+        },
+        {
+          "block_id": "blk-5c1dd182cb73bc8d846e",
+          "page_number": 168,
+          "text": "进出口物流需求。随着该航线的开通，成都在南亚地区的货运航线已达3条，该航线为西南地区与南亚之间的经贸往来搭建起一条高效稳定的航空货运通道。"
+        },
+        {
+          "block_id": "blk-f177eb57f160d511d369",
+          "page_number": 168,
+          "text": "2021年3月成都飞伦敦全货机航线顺利起飞。“成都一伦敦”定期货运航班出港货物均为电商包裹，采用A330F型全货机执飞，满载货量约60吨，每周一、三固定两班，至此，成都双流国际机场全货机航线达到14条，客改货航线30余条。"
+        },
+        {
+          "block_id": "blk-6213207ce28ba3779e58",
+          "page_number": 168,
+          "text": "2021年3月 成都举办“蓉欧产业对话”首场活动。本次论坛活动邀请到10个欧洲国家的政府、机构、院校、企业代表近100人现场参会，嘉宾代表围绕我国职业教育发展趋势、国际职教城发展规划和合作前景等话题进行主旨发言。会议期间，淮安新城分别与成都欧盟项目创新中心、法国卢浮宫酒店集团等组织签订战略合作项目。该活动以产业合作为桥梁，畅通全市对欧合作渠道，夯实友好合作基础，助力成都加快形成对欧立体全面开放新态势。"
+        },
+        {
+          "block_id": "blk-0f01992aa76bfea3aa63",
+          "page_number": 168,
+          "text": "2021年4月深化蓉欧投资合作交流对话会在蓉举行。来自成都市政府外办、各区（市）县商务主管部门、对欧合作国别园区和开放平台、在蓉国际经贸机构、开展涉欧业务的外经贸企业等相关负责人参加活动。活动搭建蓉欧双向投资合作交流平台，助力成都抢抓中欧全面投资协定（CAI）为对欧开放合作带来的新机遇。"
+        },
+        {
+          "block_id": "blk-3f68c41e3d81cec2526d",
+          "page_number": 168,
+          "text": "2021年4月 中意文化交流城市会客厅开馆仪式在蓉举行。会客厅以“丝路知己·造梦未来”为主题，旨在促进中意文化交流交融、互学互鉴，通过光电感应、全景互动影院、智慧感应场景等互动体验技术，设置启梦、织梦、筑梦、圆梦四大篇章展陈内容，打造集展示、推介、路演、接洽等功能为一体的服务平台，搭建中意文化创意产业园对外展示形象窗口。"
+        },
+        {
+          "block_id": "blk-75a3e20058cb97613e53",
+          "page_number": 168,
+          "text": "2021年4月四川自贸试验区“中欧e单通”2.0版本正式发布。“中欧e单通”平台是全国首个基于中欧班列多式联运“一单制”的跨境区块链平台，此次升级完善后版本将“一单制”单据线上签发和“外贸e贷”两大功能一并投产，为推动中欧班列沿线贸易金融畅通、实现小微外贸企业金融可获得性的又一举措，将有效推进中欧沿线普惠金融和跨境贸易的互联互通。"
+        },
+        {
+          "block_id": "blk-cd51ff922abad1b75fb7",
+          "page_number": 168,
+          "text": "2021年4月“蓉港合作·对话安仁”活动在蓉举办。香港贸发局在活动座谈会上介绍了香港会展业的举办情况以及与内地开展经贸合作情况，并分别与安仁华侨城、安仁文博、建川博物馆等企业进行了现场对接，从创意设计、影视文创、会展平台建设等方面针对企业的需求进行了深入解答，帮助企业走向国际市场建立了合作渠道。"
+        },
+        {
+          "block_id": "blk-55c902d946a90fcab7c6",
+          "page_number": 169,
+          "text": "2021年4月 2021年成都国际友城市长视频交流会成功举办。以“同舟共济共创幸福美好生活”为主题，活动邀请到来自亚洲、欧洲、北美洲、南美洲、非洲、大洋洲23个国家28个国际友城（含友好合作关系城市及友好交流城市）的市长及市长代表出席。成都将与各友城携手应对全球性挑战，全面加强多领域能务实合作。"
+        },
+        {
+          "block_id": "blk-9ac7f2a549a2c86b7720",
+          "page_number": 169,
+          "text": "2021年4月“在蓉港澳台侨大学生城市互动体验营”活动在蓉举办。活动邀请来自四川大学、电子科技大学、西南交通大学、西南财经大学、成都中医药大学、四川师范大学六所在蓉高校130余名港澳台侨大学生到成都大运村、东安湖主会场、博客小镇等地参观。港澳台侨新生代切身感受大运氛围，体验特色文旅场景，对都有了更深入的了解。"
+        },
+        {
+          "block_id": "blk-bd96cbb12d84159047a3",
+          "page_number": 169,
+          "text": "2021年4月“外国领团成德眉资同城行——走进眉山”专场活动成功举办。成都首站邀请外国访问团共聚眉山，来自韩国、泰国、新加坡、巴基斯坦、澳大利亚等国家和地区驻蓉代表30余人赴眉山参观眉山中法农业科技园、眉山天府新区、天府新区乐高乐园等项目。活动顺利开展有利于引进海外资源、促成项目落地、协力推动国际交流合作。"
+        },
+        {
+          "block_id": "blk-f287ee4461db40ec60dd",
+          "page_number": 169,
+          "text": "2021年4月顺丰集团西部航空货运枢纽项目落户成都。项目建成后，成都双流国际机场将成为顺丰集团继北京、杭州、深圳之后的第四个区域性国际航空货运转运中心，年货运吞吐量将达到30万吨。未来双方在航空货运、快递物流等领域将进一步深化合作，携手共建全球供应链体系。"
+        },
+        {
+          "block_id": "blk-6870b8d8f128063075a6",
+          "page_number": 169,
+          "text": "2021年4月成都国际铁路港亚蓉欧国家（商品）馆举行开馆仪式。亚蓉欧国家（商品）馆包括欧洲、中亚、东南亚、大洋洲等地区近30个国家的特色场馆，引入日用日化、特色食品、酒类饮品，轻奢皮包、特色工艺品等百余个品类商品。该馆以欧亚经贸往来为基础，搭建“一带一路”沿线国家商品展销及文化交流的开放平台，使市民“零时差、零距离”享受全球优质商品。"
+        },
+        {
+          "block_id": "blk-6e87420b94cbc79e2964",
+          "page_number": 169,
+          "text": "2021年5月 亚洲体育舞蹈联合会总部落户成都。亚舞联作为首个总部落户成都的国际组织，是成都国际化营商环境建设的成果展现，是成都体育事业发展的重大突破和里程碑事件，将进一步推动成都、中国乃至亚洲体育舞蹈运动的发展。"
+        },
+        {
+          "block_id": "blk-9ef47df2d6b4248ffd66",
+          "page_number": 169,
+          "text": "2021年5月 国际行政科学学会（IIAS）“世界幸福城市治理研究中心”落户成都。该中心将充分发挥专业智库优势，系统深入开展幸福城市建设基础理论研究和实践路径探索，全力构建科学、权威、实用的幸福城市评价指标体系，为成都建设世界幸福美好生活城市提供智力支撑。"
+        },
+        {
+          "block_id": "blk-5ccba1208463e3f2144b",
+          "page_number": 170,
+          "text": "2021年5月“2021年对外投资和跨境并购研讨沙龙”在蓉举办。成都市政府外办以“APEC商务旅行卡助推企业海外发展”为主题，向通威股份、新希望乳业等30多家与会企业推介了APEC商务旅行卡，活动搭建了“政+银+企”合作平台，为成都企业“走出去”提供多渠道的精准服务，推动更多企业“走出去”开拓海外市场。"
+        },
+        {
+          "block_id": "blk-45de6176ddb29356688d",
+          "page_number": 170,
+          "text": "2021年5月 世界大都市协会成都研修中心举行首期公园城市主题研讨会。本次研讨会主题为“绘制绿色未来：公园城市理念下的城市规划”，来自17个国家29个城市162名代表注册参会，就全域城市规划、绿色经济与生活、城市更新、未来公园社区等角度进行知识分享和经验交流。"
+        },
+        {
+          "block_id": "blk-81c1ac23db927ad04c55",
+          "page_number": 170,
+          "text": "2021年5月“中国与巴基斯坦建交七十周年”主题图片国际巡展在蓉启幕。巡展内容包括外交关系、经贸往来、文化交流、“巴、蜀”风光、校际交流五个部分，并借助成都友城高校联盟联动机制，在联盟成员高校中巡回展出，展现两国人民风雨同舟的深情厚谊。"
+        },
+        {
+          "block_id": "blk-d0d224dbfbd8c61d7bcb",
+          "page_number": 170,
+          "text": "2021年5月 2021成都外籍人才招聘会举办。现场共吸引包括成都先导药物开发、四川航天中天动力装备等超过40家企业参展，招聘职位覆盖经济、传媒、教育、科技、医疗等多个领域。此次招聘会为全球创新人才搭建了就业平台，也为成都本土科技型企业对接外籍优质人才资源提供了机会。"
+        },
+        {
+          "block_id": "blk-16e884d136b393c15cc6",
+          "page_number": 170,
+          "text": "2021年5月 2021国际门户枢纽城市发展论坛在蓉举行。知名专家学者和专业机构、上市公司、新经济企业代表参加论坛，积极探讨中国经济高质量发展的方向和路径，并以成都为样本，为城市发展聚势谋局，成都将以开放厚植新优势，打造以开放为新引擎的双循环发展先行区。"
+        },
+        {
+          "block_id": "blk-40d80ecf44676fc16820",
+          "page_number": 170,
+          "text": "2021年5月 亚蓉欧国家（商品）馆尼泊尔国家馆正式开馆。亚蓉欧国家馆集群是成都国际铁路港为推动国际经贸与文化交流而打造的重要载体，目前已签约33个“一带一路”国家（商品）馆。尼泊尔驻成都国家馆的落地奠定了双方互惠互利合作的基础，成都和尼泊尔在未来将创造更多合作机会，推动深化多领域合作。"
+        },
+        {
+          "block_id": "blk-501eac7333d78f7af59a",
+          "page_number": 170,
+          "text": "2021年5月 尼泊尔驻成都总领事馆正式开馆。尼泊尔驻成都总领事馆位于成都高新区天府国际社区，领区范围涵盖四川、贵州和重庆三省市，该馆是继尼泊尔驻拉萨、广州总领事馆后，尼方在中国内地设立的第三个总领事馆。此次开馆也意味着尼泊尔成为继2018年奥地利开馆后，时隔3年首次在蓉开馆的国家。"
+        },
+        {
+          "block_id": "blk-79119cc212b872afaa55",
+          "page_number": 170,
+          "text": "2021年6月成都市友城教育工作会召开。以“发挥友城资源作用，促进教育对外开放”为主题，成都蒙彼利埃小学、成都霍森斯小学等国际友城学校代表分享了"
+        },
+        {
+          "block_id": "blk-67e899b44cf29f455e15",
+          "page_number": 171,
+          "text": "各自的办学理念，就教育国际化问题展开深入研讨，未来成都将携手更多友城在国际化教育领域深入合作，推动成都市国际化教育提档升级。"
+        },
+        {
+          "block_id": "blk-e22f56030be2e529036f",
+          "page_number": 171,
+          "text": "2021年6月成都国际铁路港国家级经济技术开发区获批。成都青白江经济开发区经国务院批复升级为国家级经济技术开发区，其设立有利于形成辐射“一带一路”沿线国家和地区的产业集聚区，有利于成都发挥主干城市作用，强化产业合作、区域一体化，加快推动成渝地区双城经济圈建设。"
+        },
+        {
+          "block_id": "blk-dd67ea6a00655cb8f112",
+          "page_number": 171,
+          "text": "2021年6月成都天府国际机场正式投运。天府国际机场定位为国家级国际航空枢纽，是成都国际航空枢纽的主枢纽，未来，成都将深入推进天府国际机场、双流国际机场“两场一体”协同运行，提升成都国际门户枢纽城市的辐射带动、集散集聚和资源配置能力，推动“通道经济”向“枢纽经济”跃迁，形成更高水平开放型经济体系，更好地服务和融入构建新发展格局。"
+        },
+        {
+          "block_id": "blk-5adc144216ce8817985d",
+          "page_number": 171,
+          "text": "2021年7月 首趟成都至德国罗斯托克和波兰斯瓦夫库夫中欧班列开行。罗斯托克港是波罗的海上重要货运枢纽，也是德国在波罗的海上唯一的深水港，发往波兰斯瓦夫库夫的班列则是中欧班列首列宽轨直达欧洲腹地的班列，双列同步班列的首发，将进一步扩充开行线路、丰富产品结构、释放运能运力。"
+        },
+        {
+          "block_id": "blk-bb74ed86c179aafd3db3",
+          "page_number": 171,
+          "text": "2021年7月 土耳其在成都设立总领事馆获批准。土耳其在成都设立总领事馆经国家批准通过，领区范围包括四川省、重庆市、贵州省和云南省，这是土耳其在中国内地设立的第3家领事机构，将为成都进一步深化与土耳其经贸往来和人文交流搭建良好平台。"
+        },
+        {
+          "block_id": "blk-52545c873e8d21cff4f4",
+          "page_number": 171,
+          "text": "2021年7月 智利驻成都总领事馆正式开馆。智利驻成都总领事馆位于成都市中心天府广场百扬大厦，领区范围包括四川省、重庆市、贵州省、云南省和陕西省。智利是四川和成都在拉美重要的经贸合作与人文交流国家之一，也是首个在蓉设立领事机构的拉美国家，将有力推动成都与拉美和加勒比地区深入合作。"
+        },
+        {
+          "block_id": "blk-3fcbb61075737bd7c389",
+          "page_number": 171,
+          "text": "2021年7月 中欧氢能产业合作大会在成都举办。大会邀请国内外多家氢能领域知名企业、外国驻蓉（渝）领事馆领事官员、外国驻蓉（渝）机构及商会代表参加，就中欧氢能产业发展趋势、氢能技术研发、氢能应用场景等主题进行合作交流，探讨中欧氢能国际合作的机遇和项目，同时签订氢能产业入园协议、中欧合作项目协议，促进氢能产业高质量发展并助力达成“双碳”目标。"
+        },
+        {
+          "block_id": "blk-42e17ced752005da61e2",
+          "page_number": 171,
+          "text": "2021年7月成都一马德里货运包机顺利实现首航发运。全新开通的首条成都直飞马德里货运航线，有助于缓解国际货运航线紧缺、货物跨境运输难的棘手问题，"
+        },
+        {
+          "block_id": "blk-1fee433fce379d1f0291",
+          "page_number": 172,
+          "text": "为成都乃至西南地区外贸业务的顺利推进强化了保障。"
+        },
+        {
+          "block_id": "blk-e8d4c4db964fa1aa6bd3",
+          "page_number": 172,
+          "text": "2021年7月 中国南亚国家应急物资储备库在蓉正式启用。为应对新冠病毒疫情和其他危机，在四川省成都市青白江区成都国际铁路港设立中国南亚国家应急物资储备库，将为中国南亚国家携手抗疫和应急合作提供新的平台，助力深化与南亚国家的关系纽带与友好合作。"
+        },
+        {
+          "block_id": "blk-56d234cad7cc75975f57",
+          "page_number": 172,
+          "text": "2021年7月 澳门投资优势介绍座谈会在蓉举办。为进一步探索蓉澳经贸合作新途径，澳门贸促局就澳门营商环境及特色餐饮业的最新政策及发展机遇做了推介，就成都企业“走出去”、澳门企业“走进来”、美食文化“国际化”、企业参展等方面合作进行了交流。"
+        },
+        {
+          "block_id": "blk-f819577c67a531afba20",
+          "page_number": 172,
+          "text": "2021年7月“领事官员区（市）县行——走进大邑”专场活动成功举办。访问团参观了“锦绣安仁”现代农业花卉博览园、乡村会客厅、民国风情街、安仁书院等点位，详细了解大邑实施乡村振兴、推动文创文博文旅融合等发展成效，活动对大邑县进行全面推介，将推动在农业、旅游、运动、文化等领域开展更多合作。"
+        },
+        {
+          "block_id": "blk-99bc830f8e9c5c905663",
+          "page_number": 172,
+          "text": "2021年8月在蓉高校海外专场宣讲会成功举办。为深化成都与马来西亚槟城、印度尼西亚棉兰等友城交流和教育合作，吸引更多留学生来蓉学习生活，四川大学、电子科技大学等8所在蓉高校开展线上推介，吸引超800人参与。"
+        },
+        {
+          "block_id": "blk-c13b18b82b469ee6828d",
+          "page_number": 172,
+          "text": "2021年9月“外国领团成德眉资同城行——走进资阳”专场活动成功举办。德国、泰国、尼泊尔等16个国家和地区共28位驻蓉代表赴资阳市参加访问，参观了城乡规划展示馆、中国牙谷科创园和百威（四川）啤酒有限公司，成资将继续拓宽合作交流领域，共推国际交流交往。"
+        },
+        {
+          "block_id": "blk-004b8b674df9d5993c93",
+          "page_number": 172,
+          "text": "2021年9月“家在成都·一起运动吧”中秋趣味运动会成功举办。成渝领团队、外籍人才队、国际化社区队、外事代表队共四支队伍在东安湖体育中心小球馆内展开竞赛，中外友人积极参与“家在成都”“爱成都·迎大运”等多个主题体验区互动，进一步提升了对“家在成都”的认同感、增强了对成都大运会的认知度。"
+        },
+        {
+          "block_id": "blk-67694ec6f32694b29aab",
+          "page_number": 172,
+          "text": "2021年9月 2021成都·欧洲文化季在蓉启幕。开幕式正式发布《蓉欧文化交流合作机会清单》，涉及全市16个区（市）县、8个欧洲国家驻华使领馆，共计84个项目，举办艺术展、音乐会、线上论坛、云游博物馆等十余场极具特色的文化活动，进一步加深国际文化友好交流合作。"
+        },
+        {
+          "block_id": "blk-f05c1c455da8a3a36847",
+          "page_number": 172,
+          "text": "2021年9月“跟着大运学英语”大运语言服务惠民系列活动正式启动。启动仪式现场推出《成都2021年第31届世界大学生夏季运动会汉英公示语汇编》《成都大"
+        },
+        {
+          "block_id": "blk-db182449c4eb08decf3e",
+          "page_number": 173,
+          "text": "运会参赛国家/地区名称及旗帜手册》及大运术语库、“大运小译”多语手机智能翻译APP，让大运会高质量语言服务精细分布到城市的每个角落，将为建设具有全球影响力的国际化公园城市贡献力量。"
+        },
+        {
+          "block_id": "blk-48414476077724a21b78",
+          "page_number": 173,
+          "text": "2021年9月“四川·成都澳门周”大型推广活动在蓉开幕。活动由开幕式、澳门旅游及会展推介会、蓉澳商业配对洽谈会、“把握澳门，把握葡语国家机遇”投资推介会、美食推广活动——“川粤澳葡”传承美食之魅等系列活动组成，全方位展示澳门经济、文化、旅游、会展等最新情况，促进川澳相关业界合作。"
+        },
+        {
+          "block_id": "blk-94a08785d3649670779d",
+          "page_number": 173,
+          "text": "2021年9月全国首条“航空 \\(+\\) ”西部陆海新通道货运班列从成都发车。首趟由成都（双流）空铁国际联运港始发的国际班列正式出发驶向老挝万象，该条全国首开的空铁公水多式联运班列帮助企业大幅降低物流成本，促进成都南向发展、“空铁互济、综合立体”对外通道体系更加完善。"
+        },
+        {
+          "block_id": "blk-8796a563e34b99f1a116",
+          "page_number": 173,
+          "text": "2021年10月成都当选世界智慧可持续城市组织执委会副主席城市。世界智慧可持续城市组织第五届全体大会成功在线举行，成都当选2021—2023届WeGO执委会成员城市，同时被任命为副主席城市，将有利于深度参与该组织全球事务的酝酿决策，提升成都在国际组织中的话语权，进一步推广城市治理经验。"
+        },
+        {
+          "block_id": "blk-36c73cce529c449e2fce",
+          "page_number": 173,
+          "text": "2021年10月 2021中日韩（成都）中小企业经贸创新峰会在蓉举行。峰会期间，200余位中日韩政府官员、贸易机构、企业代表就深化三国在互联互通、经贸往来等方面的合作展开交流，为成都和日韩在蓉企业带来新的机遇，充分促进对外贸易、双向投资和经济技术合作。"
+        },
+        {
+          "block_id": "blk-3ce74478b2371f9e7b72",
+          "page_number": 173,
+          "text": "2021年10月 第七届全球创新创业交易会于蓉开幕。大会主题为“链接数字时代·蓉入美好生活”，包含超级对接、专业竞赛、论坛峰会等多种活动形式，旨在推动全球创新创业资源在成都汇聚，打造具有全球影响力的数字经济成果展示和交易平台，助力成都加快建成具有全国影响力的数字经济发展高地。"
+        },
+        {
+          "block_id": "blk-cab1887498e26e8f2ccc",
+          "page_number": 173,
+          "text": "2021年10月“2021成都国际友城青年音乐周”在蓉举行。本届音乐周以“音蔚成都，乐动四海”为主题，共邀请到来自亚洲、欧洲、北美洲、南美洲、非洲、大洋洲36个国家（地区）的47支艺术团现场参演或发送演出视频，演出规模超500人，彰显了成都市独特城市文化魅力和良好城市形象。"
+        },
+        {
+          "block_id": "blk-e7d26177914d5cab2616",
+          "page_number": 173,
+          "text": "2021年10月成都蓉欧陆海供应链管理有限公司正式成立。蓉欧陆海供应链管理有限公司落户成都青白江区，将重点布局总部基地和冷链物流节点，建设蓉欧供应链总部枢纽、西南酒业交易中心及国际冷链物流中心，为主动融入“一带一路”"
+        },
+        {
+          "block_id": "blk-e1bb4426a57fe2d88ffb",
+          "page_number": 174,
+          "text": "助力成渝地区双城经济圈建设贡献积极力量。"
+        },
+        {
+          "block_id": "blk-6fd6a35de5fee2c75d3c",
+          "page_number": 174,
+          "text": "2021年11月成都双流首趟“海铁联运”班列发车驶向东南亚。成都经钦州港至东南亚的成都（双流）空铁国际联运港海铁联运班列首发开行，为综保区生产加工企业往来于东南亚间的原材料和成品运输带来新的物流解决方案，在综保区加工企业与东南亚生产制造工厂之间建立了稳定的国际供应链保障通道。"
+        },
+        {
+          "block_id": "blk-9bc2917ebd01b6b4c034",
+          "page_number": 174,
+          "text": "2021年12月 中老铁路国际货运班列从成都始发。搭载轻型商用货车和坚果、摩托车配件、化工品等产品的中老铁路（成渝一万象）国际货运班列从成都国际铁路港始发，是中老铁路贯通后成都发出的首列国际铁路直达货运班列。同时，成都（双流）空铁国际联运港也开出了搭载五金件、电配箱、真空设备、纺织品、电子配件、防疫物资等货物的首趟中老国际班列，加速成都开拓南向国际铁路通道。"
+        },
+        {
+          "block_id": "blk-c82fcc5bbb8d9730093c",
+          "page_number": 174,
+          "text": "2021年12月 成都市委外事办与成都传媒集团签署战略合作框架协议。双方基于各自的外事港澳资源优势和现代全媒体传播体系优势，围绕外事活动宣传、互动平台建设、友城合作交流等内容深入推进“外事+外宣”融合发展，共同做强国际传播平台、讲好成都故事，有效提升成都国际传播能级和城市国际影响力。"
+        },
+        {
+          "block_id": "blk-7c2ea10d24be3316edab",
+          "page_number": 174,
+          "text": "2021年12月成都市外国人服务管理工作专题座谈会外商专场成功举办。韩国贸易协会、英国西南商会等在蓉外国商协会，以及伊藤洋华堂、奥地利三康机械等在蓉外资企业的中外代表共计100余人参会。围绕政务服务、生活服务、社会融入服务等方面展开座谈交流，推动成都提升政府涉外公共服务水平，加快实现中外居民共建、共治、共享，服务城市国际化建设和社会经济发展。"
+        },
+        {
+          "block_id": "blk-b14fd851f636c4a28e3e",
+          "page_number": 174,
+          "text": "2021年12月首趟成都至英国伊明汉姆中欧班列开行。伊明汉姆是英国货运量最大的港口，成都至伊明汉姆中欧班列的顺利开行，进一步扩大了成都始发中欧班列的辐射范围，有利于两地实现资源和产业优势互补，助力我国西南地区商品打开更加广阔的海外市场。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-09409c522f14",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-e6bd297a0f70"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,12 @@
+{
+  "error": "ContractError: evidence_units[1].claims[1].evidence_excerpt (ref-902bc982a038:bundle-78e3bfb77220) is missing hard anchors from the claim: ['22']; claim='联合国世界旅游组织第22届全体大会吸引了来自130多个国家的部长级贵宾和800多位代表参会。'; excerpt='本届大会为期4天，吸引了来自130多个国家的部长级贵宾和800多位代表参会。'",
+  "group_id": "topic-cd834717ee69",
+  "ref_ids": [
+    "ref-17371b1dff04",
+    "ref-902bc982a038",
+    "ref-922be0d0988b",
+    "ref-c0a0df9ff983"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

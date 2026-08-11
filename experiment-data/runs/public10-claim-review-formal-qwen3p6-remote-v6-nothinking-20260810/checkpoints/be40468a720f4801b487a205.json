@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-b6456a0ad922:bundle-5ad220340a4a) is missing hard anchors from the claim: ['2018年']; claim='到2018年，利用外资实际到位额年均增长10%，“一带一路”沿线对外贸易年均增长8%。'; excerpt='——产业国际化水平明显提升。利用外资实际到位额年均增长 \\\\(10\\\\%\\\\) ，“一带\\n\\n一路”沿线对外贸易年均增长 \\\\(8\\\\%'",
+  "group_id": "proposition-976c64e613ec",
+  "ref_ids": [
+    "ref-309d0d0e1484",
+    "ref-b6456a0ad922"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

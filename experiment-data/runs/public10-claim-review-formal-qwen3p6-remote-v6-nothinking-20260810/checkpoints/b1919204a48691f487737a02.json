@@ -1,0 +1,1021 @@
+{
+  "contract": {
+    "canonical_question": "成都市国际科技合作项目资助包含哪些具体类别，各类别的资助对象、核心条件及经费资助标准分别是什么？",
+    "claims": [
+      {
+        "claim": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地四类。",
+        "claim_id": "claim-0a658071cf22c2b8",
+        "evidence_block_ids": [
+          "blk-ac58e3aa6762a3de60a2"
+        ],
+        "evidence_excerpt": "第六条 国际科技合作项目资助是指对在蓉高校院所、企业等与国（境）外高校院所、研发机构、企业等围绕我市主导产业在我市开展的科技合作项目给予的资助。分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          214
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "comparison_subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+        "claim_id": "claim-843258e4c209243f",
+        "evidence_block_ids": [
+          "blk-11aa92a05d2f186b0e76"
+        ],
+        "evidence_excerpt": "（1）与国（境）外知名外资企业（世界500强企业、独角兽企业、全球科技领袖企业100强等）、国（境）外全球TOP100的高校和国（境）外独立科研院所等开展的国际科技合作；",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          214
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+        "claim_id": "claim-afdf66941814c793",
+        "evidence_block_ids": [
+          "blk-67aa58d285b3a53ff1d3",
+          "blk-1b1de931dd6418be1c98"
+        ],
+        "evidence_excerpt": "（3）合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度；",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          214,
+          215
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+        "claim_id": "claim-ae3c4c37e5be39fa",
+        "evidence_block_ids": [
+          "blk-964ea87bc4f6000f2f2e"
+        ],
+        "evidence_excerpt": "(4）合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          214
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+        "claim_id": "claim-805e79730f0d776a",
+        "evidence_block_ids": [
+          "blk-2de11986ee31ac492815"
+        ],
+        "evidence_excerpt": "对经评审立项的重点科技合作项目，给予项目实际研发经费联合投入 \\(30\\%\\) 、最高100万元的经费资助",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          215
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+        "claim_id": "claim-b1b8e766c0fd4c8c",
+        "evidence_block_ids": [
+          "blk-fedd4e6271bb05b88565"
+        ],
+        "evidence_excerpt": "（1）国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权；",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          215
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+        "claim_id": "claim-97a9162441493d98",
+        "evidence_block_ids": [
+          "blk-89fd7e85d873076dd14c"
+        ],
+        "evidence_excerpt": "（4）合作双方实际研发经费联合投入不低于申请资助金额",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          215
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "一般国际科技合作项目给予最高20万元经费资助。",
+        "claim_id": "claim-ce3d796d8f3c8bf2",
+        "evidence_block_ids": [
+          "blk-bd0134232a4777c6aacd"
+        ],
+        "evidence_excerpt": "对经评审立项的一般科技合作项目，给予最高20万元经费资助。",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          215
+        ],
+        "ref_id": "ref-d94506abf930",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-0a658071cf22c2b8",
+          "claim-843258e4c209243f",
+          "claim-afdf66941814c793",
+          "claim-ae3c4c37e5be39fa",
+          "claim-805e79730f0d776a",
+          "claim-b1b8e766c0fd4c8c",
+          "claim-97a9162441493d98",
+          "claim-ce3d796d8f3c8bf2"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+        "reason": "该证据包含回答固定槽位所需的所有核心事实，包括资助类别、适用对象、具体条件及资助标准，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-a90d03759151",
+    "members": [
+      {
+        "contribution": "该证据完整定义了国际科技合作项目资助的四大类别（重点、一般、引进外国人才智力、市级引才引智示范基地），并详细列出了各类别的申报主体、合作条件、资质要求及具体的经费资助金额或比例标准。",
+        "ref_id": "ref-d94506abf930",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-0a658071cf22c2b8",
+        "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-843258e4c209243f",
+        "draft_excerpt": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-afdf66941814c793",
+        "draft_excerpt": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ae3c4c37e5be39fa",
+        "draft_excerpt": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-805e79730f0d776a",
+        "draft_excerpt": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b1b8e766c0fd4c8c",
+        "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-97a9162441493d98",
+        "draft_excerpt": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ce3d796d8f3c8bf2",
+        "draft_excerpt": "一般国际科技合作项目给予最高20万元经费资助。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-0a658071cf22c2b8"
+        ],
+        "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a2e92df0c20ca0d2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0a658071cf22c2b8"
+        ],
+        "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-93b607d9eecc7d5d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-843258e4c209243f"
+        ],
+        "draft_excerpt": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-158598e7bbd2e3d6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-afdf66941814c793"
+        ],
+        "draft_excerpt": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3e76e6d71bdc79aa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ae3c4c37e5be39fa"
+        ],
+        "draft_excerpt": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-36de4c3ef92a6fd2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-805e79730f0d776a"
+        ],
+        "draft_excerpt": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9bceb34432832a94",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b1b8e766c0fd4c8c"
+        ],
+        "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b9f6708bc41a6ac6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-97a9162441493d98"
+        ],
+        "draft_excerpt": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-aaa6e1903f9ef674",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ce3d796d8f3c8bf2"
+        ],
+        "draft_excerpt": "一般国际科技合作项目给予最高20万元经费资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cb5dbdf8b2b86453",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-0a658071cf22c2b8",
+          "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-843258e4c209243f",
+          "draft_excerpt": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-afdf66941814c793",
+          "draft_excerpt": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ae3c4c37e5be39fa",
+          "draft_excerpt": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-805e79730f0d776a",
+          "draft_excerpt": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b1b8e766c0fd4c8c",
+          "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-97a9162441493d98",
+          "draft_excerpt": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ce3d796d8f3c8bf2",
+          "draft_excerpt": "一般国际科技合作项目给予最高20万元经费资助。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-0a658071cf22c2b8"
+          ],
+          "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+          "finding": "supported",
+          "sentence_id": "sentence-a2e92df0c20ca0d2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0a658071cf22c2b8"
+          ],
+          "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+          "finding": "supported",
+          "sentence_id": "sentence-93b607d9eecc7d5d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-843258e4c209243f"
+          ],
+          "draft_excerpt": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+          "finding": "supported",
+          "sentence_id": "sentence-158598e7bbd2e3d6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-afdf66941814c793"
+          ],
+          "draft_excerpt": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+          "finding": "supported",
+          "sentence_id": "sentence-3e76e6d71bdc79aa",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ae3c4c37e5be39fa"
+          ],
+          "draft_excerpt": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+          "finding": "supported",
+          "sentence_id": "sentence-36de4c3ef92a6fd2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-805e79730f0d776a"
+          ],
+          "draft_excerpt": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-9bceb34432832a94",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b1b8e766c0fd4c8c"
+          ],
+          "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+          "finding": "supported",
+          "sentence_id": "sentence-b9f6708bc41a6ac6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-97a9162441493d98"
+          ],
+          "draft_excerpt": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+          "finding": "supported",
+          "sentence_id": "sentence-aaa6e1903f9ef674",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ce3d796d8f3c8bf2"
+          ],
+          "draft_excerpt": "一般国际科技合作项目给予最高20万元经费资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-cb5dbdf8b2b86453",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "81d4fa8e8a428655ccaf9112c51b0a97aca837e245ce787161518ce4a887b142",
+  "coverage_history": [
+    {
+      "draft_sha256": "2acf30f942ac82666dea33f7d3ab27b1ff9cfa2c51acc5609e93ea410044430b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-0a658071cf22c2b8",
+            "draft_excerpt": "该资助体系分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地四类。",
+            "finding": "draft_excerpt matches claim-0a658071cf22c2b8 exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-843258e4c209243f",
+            "draft_excerpt": "重点国际科技合作项目要求与国（境）外知名外资企业（如世界500强、独角兽企业、全球科技领袖企业100强等）、国（境）外全球TOP100的高校和国（境）外独立科研院所等开展合作。",
+            "finding": "draft_excerpt matches claim-843258e4c209243f exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-afdf66941814c793",
+            "draft_excerpt": "合作双方需签署合作协议，具备明确规划目标、稳定合作机制、清晰知识产权归属及健全管理制度，并实现科研设备和信息共享。",
+            "finding": "draft_excerpt matches claim-afdf66941814c793 exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ae3c4c37e5be39fa",
+            "draft_excerpt": "在经费投入方面，重点项目的实际研发经费联合投入应不低于300万元。",
+            "finding": "draft_excerpt matches claim-ae3c4c37e5be39fa exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-805e79730f0d776a",
+            "draft_excerpt": "对经评审立项的重点科技合作项目，给予项目实际研发经费联合投入30%的经费资助，最高资助金额为100万元。",
+            "finding": "draft_excerpt matches claim-805e79730f0d776a exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b1b8e766c0fd4c8c",
+            "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，并拥有自主核心知识产权。",
+            "finding": "draft_excerpt matches claim-b1b8e766c0fd4c8c exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-97a9162441493d98",
+            "draft_excerpt": "在经费匹配方面，合作双方实际研发经费联合投入不低于申请资助金额。",
+            "finding": "draft_excerpt matches claim-97a9162441493d98 exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce3d796d8f3c8bf2",
+            "draft_excerpt": "对经评审立项的一般科技合作项目，给予最高20万元的经费资助。",
+            "finding": "draft_excerpt matches claim-ce3d796d8f3c8bf2 exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "针对在蓉主体与境外机构围绕主导产业开展的科技合作项目，依据合作层级与投入规模提供分级经费资助。",
+            "finding": "Unsupported: '在蓉主体' is broader than '在蓉高校院所、企业等'; '境外机构' is broader than '国（境）外高校院所、研发机构、企业等'; '分级经费资助' is a summary not a specific claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a3ae287055f2797",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "国际科技合作项目资助旨在对在蓉高校院所、企业等与国（境）外高校院所、研发机构、企业等围绕我市主导产业在我市开展的科技合作项目给予资金支持。",
+            "finding": "Unsupported: This sentence defines the scope of the funding but does not match any specific claim_id in the contract which focus on categories, conditions, or资助",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9bb80c0ae8c74c3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-0a658071cf22c2b8"
+            ],
+            "draft_excerpt": "该资助体系分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地四类。",
+            "finding": "Supported: Matches claim-0a658071cf22c2b8.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba45dba87f07f153",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-843258e4c209243f"
+            ],
+            "draft_excerpt": "重点国际科技合作项目要求与国（境）外知名外资企业（如世界500强、独角兽企业、全球科技领袖企业100强等）、国（境）外全球TOP100的高校和国（境）外独立科研院所等开展合作。",
+            "finding": "Supported: Matches claim-843258e4c209243f.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2419ce76aabbc473",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-afdf66941814c793"
+            ],
+            "draft_excerpt": "合作双方需签署合作协议，具备明确规划目标、稳定合作机制、清晰知识产权归属及健全管理制度，并实现科研设备和信息共享。",
+            "finding": "Supported: Matches claim-afdf66941814c793.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad67f464cc1c3d5f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae3c4c37e5be39fa"
+            ],
+            "draft_excerpt": "在经费投入方面，重点项目的实际研发经费联合投入应不低于300万元。",
+            "finding": "Supported: Matches claim-ae3c4c37e5be39fa.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a434a40898d8cec3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-805e79730f0d776a"
+            ],
+            "draft_excerpt": "对经评审立项的重点科技合作项目，给予项目实际研发经费联合投入30%的经费资助，最高资助金额为100万元。",
+            "finding": "Supported: Matches claim-805e79730f0d776a.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-875432257ed99a7e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b1b8e766c0fd4c8c"
+            ],
+            "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，并拥有自主核心知识产权。",
+            "finding": "Supported: Matches claim-b1b8e766c0fd4c8c.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-708d1c647b4e7b2d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-97a9162441493d98"
+            ],
+            "draft_excerpt": "在经费匹配方面，合作双方实际研发经费联合投入不低于申请资助金额。",
+            "finding": "Supported: Matches claim-97a9162441493d98.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e4c1b724d1d3dc38",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce3d796d8f3c8bf2"
+            ],
+            "draft_excerpt": "对经评审立项的一般科技合作项目，给予最高20万元的经费资助。",
+            "finding": "Supported: Matches claim-ce3d796d8f3c8bf2.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c443c4349183c9f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "针对在蓉主体与境外机构围绕主导产业开展的科技合作项目，依据合作层级与投入规模提供分级经费资助。",
+            "finding": "Unsupported: '在蓉主体' is broader than '在蓉高校院所、企业等'; '境外机构' is broader than '国（境）外高校院所、研发机构、企业等'; '分级经费资助' is a summary not a specific claim."
+          },
+          {
+            "draft_excerpt": "国际科技合作项目资助旨在对在蓉高校院所、企业等与国（境）外高校院所、研发机构、企业等围绕我市主导产业在我市开展的科技合作项目给予资金支持。",
+            "finding": "Unsupported: This sentence defines the scope of the funding but does not match any specific claim_id in the contract which focus on categories, conditions, or资助"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "81d4fa8e8a428655ccaf9112c51b0a97aca837e245ce787161518ce4a887b142",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-0a658071cf22c2b8",
+            "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-843258e4c209243f",
+            "draft_excerpt": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-afdf66941814c793",
+            "draft_excerpt": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ae3c4c37e5be39fa",
+            "draft_excerpt": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-805e79730f0d776a",
+            "draft_excerpt": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b1b8e766c0fd4c8c",
+            "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-97a9162441493d98",
+            "draft_excerpt": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce3d796d8f3c8bf2",
+            "draft_excerpt": "一般国际科技合作项目给予最高20万元经费资助。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-0a658071cf22c2b8"
+            ],
+            "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a2e92df0c20ca0d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0a658071cf22c2b8"
+            ],
+            "draft_excerpt": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-93b607d9eecc7d5d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-843258e4c209243f"
+            ],
+            "draft_excerpt": "重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-158598e7bbd2e3d6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-afdf66941814c793"
+            ],
+            "draft_excerpt": "重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e76e6d71bdc79aa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae3c4c37e5be39fa"
+            ],
+            "draft_excerpt": "重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36de4c3ef92a6fd2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-805e79730f0d776a"
+            ],
+            "draft_excerpt": "重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9bceb34432832a94",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b1b8e766c0fd4c8c"
+            ],
+            "draft_excerpt": "一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b9f6708bc41a6ac6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-97a9162441493d98"
+            ],
+            "draft_excerpt": "一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aaa6e1903f9ef674",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce3d796d8f3c8bf2"
+            ],
+            "draft_excerpt": "一般国际科技合作项目给予最高20万元经费资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb5dbdf8b2b86453",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。\n\n- 重点国际科技合作项目资助对象为与国（境）外知名外资企业、全球TOP100高校和独立科研院所等开展合作的在蓉高校院所、企业等。\n- 重点国际科技合作项目要求合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度。\n- 重点国际科技合作项目要求合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。\n- 重点国际科技合作项目给予项目实际研发经费联合投入30%、最高100万元的经费资助。\n- 一般国际科技合作项目要求国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权。\n- 一般国际科技合作项目要求合作双方实际研发经费联合投入不低于申请资助金额。\n- 一般国际科技合作项目给予最高20万元经费资助。",
+    "description": "国际科技合作项目资助分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-a90d03759151",
+      "description": "第六条 国际科技合作项目资助是指对在蓉高校院所、企业等与国（境）外高校院所、研发机构、企业等围绕我市主导产业在我市开展的科技合作项目给予的资助。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "第六条 国际科技合作项目资助是指对在蓉高校院所、企业等与国（境）外高校院所、研发机构、企业等围绕我市主导产业在我市开展的科技合作项目给予的资助。分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。",
+        "（1）与国（境）外知名外资企业（世界500强企业、独角兽企业、全球科技领袖企业100强等）、国（境）外全球TOP100的高校和国（境）外独立科研院所等开展的国际科技合作；",
+        "（3）合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度；",
+        "(4）合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。",
+        "对经评审立项的重点科技合作项目，给予项目实际研发经费联合投入 \\(30\\%\\) 、最高100万元的经费资助",
+        "（1）国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权；",
+        "（4）合作双方实际研发经费联合投入不低于申请资助金额",
+        "对经评审立项的一般科技合作项目，给予最高20万元经费资助。"
+      ],
+      "evidence_block_ids": [
+        "blk-ac58e3aa6762a3de60a2",
+        "blk-11aa92a05d2f186b0e76",
+        "blk-67aa58d285b3a53ff1d3",
+        "blk-1b1de931dd6418be1c98",
+        "blk-964ea87bc4f6000f2f2e",
+        "blk-2de11986ee31ac492815",
+        "blk-fedd4e6271bb05b88565",
+        "blk-89fd7e85d873076dd14c",
+        "blk-bd0134232a4777c6aacd"
+      ],
+      "page_end": 216,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "第三章 国际科技合作项目资助",
+      "type": "国际比较"
+    },
+    "title": "第三章 国际科技合作项目资助"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-d94506abf930:bundle-c0a703d24d7c",
+      "excluded_fragments": [],
+      "ref_id": "ref-d94506abf930",
+      "source_blocks": [
+        {
+          "block_id": "blk-ac58e3aa6762a3de60a2",
+          "page_number": 214,
+          "text": "第六条 国际科技合作项目资助是指对在蓉高校院所、企业等与国（境）外高校院所、研发机构、企业等围绕我市主导产业在我市开展的科技合作项目给予的资助。分为重点国际科技合作项目、一般国际科技合作项目、引进外国人才智力项目和市级引才引智示范基地。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-11aa92a05d2f186b0e76",
+          "page_number": 214,
+          "text": "（1）与国（境）外知名外资企业（世界500强企业、独角兽企业、全球科技领袖企业100强等）、国（境）外全球TOP100的高校和国（境）外独立科研院所等开展的国际科技合作；"
+        },
+        {
+          "block_id": "blk-a1e0afea5cfcdf1e01e5",
+          "page_number": 214,
+          "text": "（2）在蓉高校院所、企业等具有固定的场所和组织机构，具有开展高水平国际科技合作项目的基础条件、科研实力和人才团队；"
+        },
+        {
+          "block_id": "blk-67aa58d285b3a53ff1d3",
+          "page_number": 214,
+          "text": "（3）合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度；"
+        },
+        {
+          "block_id": "blk-1b1de931dd6418be1c98",
+          "page_number": 215,
+          "text": "（3）合作双方签署合作协议，具有明确规划目标、稳定的合作机制、清晰的知识产权归属和健全的管理制度；"
+        },
+        {
+          "block_id": "blk-964ea87bc4f6000f2f2e",
+          "page_number": 214,
+          "text": "(4）合作双方科研设备和信息共享，实际研发经费联合投入的应不低于300万元。"
+        },
+        {
+          "block_id": "blk-2de11986ee31ac492815",
+          "page_number": 215,
+          "text": "对经评审立项的重点科技合作项目，给予项目实际研发经费联合投入 \\(30\\%\\) 、最高100万元的经费资助。"
+        },
+        {
+          "block_id": "blk-fedd4e6271bb05b88565",
+          "page_number": 215,
+          "text": "（1）国外参与单位具有较强的技术研发实力，在所在行业具有较高的国际影响力，拥有自主核心知识产权；"
+        },
+        {
+          "block_id": "blk-c9219ccfafa68e4ef4e0",
+          "page_number": 215,
+          "text": "（2）在蓉高校院所、企业等具有较强的研发实力，具备开展国际科技合作的基础条件；"
+        },
+        {
+          "block_id": "blk-89fd7e85d873076dd14c",
+          "page_number": 215,
+          "text": "（4）合作双方实际研发经费联合投入不低于申请资助金额"
+        },
+        {
+          "block_id": "blk-bd0134232a4777c6aacd",
+          "page_number": 215,
+          "text": "对经评审立项的一般科技合作项目，给予最高20万元经费资助。"
+        },
+        {
+          "block_id": "blk-93ffcf53b169e058000d",
+          "page_number": 215,
+          "text": "（1）申报科技部（国家外专局）各类引进外国人才智力项目的外国专家或团队（5人以上）人选须符合下列基本条件之一。"
+        },
+        {
+          "block_id": "blk-7747cc29790b478a20fc",
+          "page_number": 215,
+          "text": "a.在国外著名高校、科研院所担任相当于副教授及以上职务、职称的专家学者；"
+        },
+        {
+          "block_id": "blk-237f77720741f1b93071",
+          "page_number": 215,
+          "text": "b. 在国际知名企业、机构担任高级职务的专业技术人才和经营管理人才；"
+        },
+        {
+          "block_id": "blk-dbd44d8bb84b2d4c93f8",
+          "page_number": 215,
+          "text": "c. 国家急需紧缺的其他高层次外国人才。"
+        },
+        {
+          "block_id": "blk-decd264aa314e7853e32",
+          "page_number": 215,
+          "text": "（2）申报成都市科学技术局（外国专家局）各类引进外国人才智力项目的外国专家或团队人选须符合下列基本条件之一："
+        },
+        {
+          "block_id": "blk-afd2bdb8eca24cfe4228",
+          "page_number": 215,
+          "text": "a. 中长期聘请的外国专家为用人单位解决重大关键技术和瓶颈难题，形成自主知识产权和自主创新能力；"
+        },
+        {
+          "block_id": "blk-5b609e1f9b7830921c63",
+          "page_number": 215,
+          "text": "b. 短期聘（邀）请外国专家来蓉指导业务工作，解决核心技术问题；"
+        },
+        {
+          "block_id": "blk-c723faba5ebd11bcc86a",
+          "page_number": 215,
+          "text": "c. 短期邀请外国专家来蓉举办学术交流讲座等引进国外智力的行为。"
+        },
+        {
+          "block_id": "blk-3fae3b02faa197821890",
+          "page_number": 215,
+          "text": "引进外国人才智力项目按照科技部（国家外专局）现行资助标准执行。"
+        },
+        {
+          "block_id": "blk-1a96f6fc265edf1f3b73",
+          "page_number": 216,
+          "text": "由成都市科学技术局（外国专家局）批准命名，在开展引才引智工作中取得突出成绩，能够发挥重要示范引领作用的企事业单位、社会组织以及各类园区等引才引智载体。"
+        },
+        {
+          "block_id": "blk-eef129dac17ba27444df",
+          "page_number": 216,
+          "text": "（1）建立了常态化的引才引智机制，引进了本行业（专业）外国人才智力，形成了新产品、新技术、新工艺或先进经验，愿意提供其工作模式或经验在全市示范宣传。"
+        },
+        {
+          "block_id": "blk-2c3552f83cc2ecc850f1",
+          "page_number": 216,
+          "text": "（2）从事行业和主要研究方向符合以下之一："
+        },
+        {
+          "block_id": "blk-22c8d2ec18a444709fff",
+          "page_number": 216,
+          "text": "a. 围绕我市建设全国重要的科技中心，通过引进外国战略科技人才、科技领军人才和高水平创新团队，在基础与应用研究、关键技术研发上取得进展，并形成引才引智经验；"
+        },
+        {
+          "block_id": "blk-b69dcd2c5b9c3ce66dbd",
+          "page_number": 216,
+          "text": "b. 围绕我市“5+5+1”重点产业领域，通过引进外国高层次技术和管理人才，在技术研发、工艺改进、管理优化上取得成效，并形成引才引智工作模式与经验；"
+        },
+        {
+          "block_id": "blk-fb9896c8590bb1863efa",
+          "page_number": 216,
+          "text": "c. 围绕我市建设美丽宜居公园城市，通过引进外国各类高层次人才，在生态环境、医疗健康、科技与文化融合、公园城市建设等社会发展领域取得成绩，并形成引才引智工作模式与渠道；"
+        },
+        {
+          "block_id": "blk-33f1f570df1b2d518b83",
+          "page_number": 216,
+          "text": "d. 围绕我市都市现代农业领域，通过引进外国高层次农业人才，在农业发展、农村建设、农民增收、扶智扶贫等方面取得成果，并形成引才引智成果示范推广模式与经验。"
+        },
+        {
+          "block_id": "blk-01501c7061df941da604",
+          "page_number": 216,
+          "text": "对获得成都市科学技术局（外国专家局）批准命名的市级引才引智示范基地一次性给予20万元经费资助。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-a90d03759151",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-d94506abf930"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

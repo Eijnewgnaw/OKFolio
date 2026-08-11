@@ -1,0 +1,1354 @@
+{
+  "contract": {
+    "canonical_question": "我国区域经济发展态势及展望",
+    "claims": [
+      {
+        "claim": "自党的十九大报告提出实施区域协调发展战略以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+        "claim_id": "claim-93e90e93b24ed912",
+        "evidence_block_ids": [
+          "blk-6fc9b94049c5993ac760"
+        ],
+        "evidence_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%；中部地区GDP为22.2万亿元，同比增长1.3%；西部地区GDP达21.3万亿元，同比增长3.3%；东北地区GDP为5.1万亿元，同比增长1.1%。",
+        "claim_id": "claim-84368e05b5ce2353",
+        "evidence_block_ids": [
+          "blk-f86a5d55d20d9d0bfa8e"
+        ],
+        "evidence_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长 \\(2.9\\%\\) ，增速高于全国平均增速0.6个百分点；中部地区GDP为22.2万亿元，同比增长 \\(1.3\\%\\) ，低于全国平均增速1个百分点；西部地区GDP达21.3万亿元，同比增长 \\(3.3\\%\\) ，增速居“四大板块”首位；东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为 \\(1.1\\%\\) ，增速居“四大板块”末位",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。",
+        "claim_id": "claim-a8f1dfd4159628e0",
+        "evidence_block_ids": [
+          "blk-f86a5d55d20d9d0bfa8e"
+        ],
+        "evidence_excerpt": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为 \\(51.9\\%\\) 、 \\(22.0\\%\\) 、 \\(21.1\\%\\) 、 \\(5.0\\%\\) ，与2000年相比①，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点②",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          15
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {
+          "time": [
+            "2020年",
+            "2000年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+        "claim_id": "claim-b57fbb6c0394af53",
+        "evidence_block_ids": [
+          "blk-8ec7668a80253abdc3ce"
+        ],
+        "evidence_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近 \\(30\\%\\) ，承包工程完成营业额911亿美元、占比接近 \\(60\\%",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          16
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+        "claim_id": "claim-865efd8e13e6b0a6",
+        "evidence_block_ids": [
+          "blk-8ec7668a80253abdc3ce"
+        ],
+        "evidence_excerpt": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          16
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {
+          "time": [
+            "2017年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+        "claim_id": "claim-c06ffe3c16fb610d",
+        "evidence_block_ids": [
+          "blk-8ec7668a80253abdc3ce",
+          "blk-454d717e86b58e0894c7"
+        ],
+        "evidence_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势①。",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          16,
+          17
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+        "claim_id": "claim-ddfa5049284bd7fe",
+        "evidence_block_ids": [
+          "blk-fdb823e0b107908dfca2"
+        ],
+        "evidence_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“\\(19 + 2\\)”城市群为主体形态的新型区域发展格局",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          17
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒。",
+        "claim_id": "claim-8b0c639b0b81d441",
+        "evidence_block_ids": [
+          "blk-c8c55d0c376150737721"
+        ],
+        "evidence_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          18
+        ],
+        "ref_id": "ref-f4a4968e9394",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-93e90e93b24ed912",
+          "claim-84368e05b5ce2353",
+          "claim-a8f1dfd4159628e0",
+          "claim-b57fbb6c0394af53",
+          "claim-865efd8e13e6b0a6",
+          "claim-c06ffe3c16fb610d",
+          "claim-ddfa5049284bd7fe",
+          "claim-8b0c639b0b81d441"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+        "reason": "该Bundle包含分析框架所需的核心事实，包括区域协调发展的总体态势、四大板块经济数据、城市群格局、重大战略进展及未来政策导向，是回答中心问题的必要证据。"
+      }
+    ],
+    "group_id": "topic-ebb8d579fef9",
+    "members": [
+      {
+        "contribution": "该证据直接提供了我国区域经济发展的宏观态势、四大板块GDP数据、城市群发展格局、重大战略进展及未来展望，完整覆盖分析框架所需的事实要素。",
+        "ref_id": "ref-f4a4968e9394",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-93e90e93b24ed912",
+        "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8b0c639b0b81d441",
+        "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ddfa5049284bd7fe",
+        "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b57fbb6c0394af53",
+        "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-84368e05b5ce2353",
+        "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c06ffe3c16fb610d",
+        "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-865efd8e13e6b0a6",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-a8f1dfd4159628e0",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-93e90e93b24ed912"
+        ],
+        "draft_excerpt": "自党的十九大报告提出实施区域协调发展战略以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+        "finding": "Supported by claim-93e90e93b24ed912.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-44b92c87336490ed",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-93e90e93b24ed912",
+          "claim-8b0c639b0b81d441"
+        ],
+        "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+        "finding": "Supported by claim-93e90e93b24ed912.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-008be2e2a95d0881",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8b0c639b0b81d441"
+        ],
+        "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+        "finding": "Supported by claim-8b0c639b0b81d441.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b232d0d2fbcf498d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ddfa5049284bd7fe"
+        ],
+        "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+        "finding": "Supported by claim-ddfa5049284bd7fe.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-995aa7e2ef9c49d9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b57fbb6c0394af53"
+        ],
+        "draft_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。",
+        "finding": "Supported by claim-b57fbb6c0394af53.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-023efdc5ebed1766",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b57fbb6c0394af53"
+        ],
+        "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+        "finding": "Supported by claim-b57fbb6c0394af53.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a5111ae868a61281",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-84368e05b5ce2353"
+        ],
+        "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+        "finding": "Supported by claim-84368e05b5ce2353.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-45148201fe17512f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-84368e05b5ce2353"
+        ],
+        "draft_excerpt": "中部地区GDP为22.2万亿元，同比增长1.3%，低于全国平均增速1个百分点；",
+        "finding": "Supported by claim-84368e05b5ce2353.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c5d147c96d2438ef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-84368e05b5ce2353"
+        ],
+        "draft_excerpt": "西部地区GDP达21.3万亿元，同比增长3.3%，增速居“四大板块”首位；",
+        "finding": "Supported by claim-84368e05b5ce2353.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f0ce7808cfb22bd5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-84368e05b5ce2353"
+        ],
+        "draft_excerpt": "东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为1.1%，增速居“四大板块”末位。",
+        "finding": "Supported by claim-84368e05b5ce2353.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d7e56dccb3d2fa0f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8f1dfd4159628e0"
+        ],
+        "draft_excerpt": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。",
+        "finding": "Supported by claim-a8f1dfd4159628e0.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-21ba30052a9125c9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-865efd8e13e6b0a6"
+        ],
+        "draft_excerpt": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+        "finding": "Supported by claim-865efd8e13e6b0a6.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0641ed276dd79798",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c06ffe3c16fb610d"
+        ],
+        "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-beb7205f8a57a2f1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-93e90e93b24ed912",
+          "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8b0c639b0b81d441",
+          "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ddfa5049284bd7fe",
+          "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b57fbb6c0394af53",
+          "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-84368e05b5ce2353",
+          "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-93e90e93b24ed912"
+          ],
+          "draft_excerpt": "自党的十九大报告提出实施区域协调发展战略以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+          "finding": "Supported by claim-93e90e93b24ed912.",
+          "sentence_id": "sentence-44b92c87336490ed",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-93e90e93b24ed912",
+            "claim-8b0c639b0b81d441"
+          ],
+          "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+          "finding": "Supported by claim-93e90e93b24ed912.",
+          "sentence_id": "sentence-008be2e2a95d0881",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8b0c639b0b81d441"
+          ],
+          "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+          "finding": "Supported by claim-8b0c639b0b81d441.",
+          "sentence_id": "sentence-b232d0d2fbcf498d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ddfa5049284bd7fe"
+          ],
+          "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+          "finding": "Supported by claim-ddfa5049284bd7fe.",
+          "sentence_id": "sentence-995aa7e2ef9c49d9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b57fbb6c0394af53"
+          ],
+          "draft_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。",
+          "finding": "Supported by claim-b57fbb6c0394af53.",
+          "sentence_id": "sentence-023efdc5ebed1766",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b57fbb6c0394af53"
+          ],
+          "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+          "finding": "Supported by claim-b57fbb6c0394af53.",
+          "sentence_id": "sentence-a5111ae868a61281",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-84368e05b5ce2353"
+          ],
+          "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+          "finding": "Supported by claim-84368e05b5ce2353.",
+          "sentence_id": "sentence-45148201fe17512f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-84368e05b5ce2353"
+          ],
+          "draft_excerpt": "中部地区GDP为22.2万亿元，同比增长1.3%，低于全国平均增速1个百分点；",
+          "finding": "Supported by claim-84368e05b5ce2353.",
+          "sentence_id": "sentence-c5d147c96d2438ef",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-84368e05b5ce2353"
+          ],
+          "draft_excerpt": "西部地区GDP达21.3万亿元，同比增长3.3%，增速居“四大板块”首位；",
+          "finding": "Supported by claim-84368e05b5ce2353.",
+          "sentence_id": "sentence-f0ce7808cfb22bd5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-84368e05b5ce2353"
+          ],
+          "draft_excerpt": "东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为1.1%，增速居“四大板块”末位。",
+          "finding": "Supported by claim-84368e05b5ce2353.",
+          "sentence_id": "sentence-d7e56dccb3d2fa0f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8f1dfd4159628e0"
+          ],
+          "draft_excerpt": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。",
+          "finding": "Supported by claim-a8f1dfd4159628e0.",
+          "sentence_id": "sentence-21ba30052a9125c9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-865efd8e13e6b0a6"
+          ],
+          "draft_excerpt": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+          "finding": "Supported by claim-865efd8e13e6b0a6.",
+          "sentence_id": "sentence-0641ed276dd79798",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-c06ffe3c16fb610d",
+          "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-c06ffe3c16fb610d"
+          ],
+          "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+          "finding": "supported",
+          "sentence_id": "sentence-beb7205f8a57a2f1",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "e38f3d26a21b65f5fcf0372efd8882287503f2483ddec6c0f51d49ebeacd2aae",
+  "coverage_history": [
+    {
+      "draft_sha256": "f8212a607b51d6562ff86f006c6f1a67004a35898b8cb033ca1ca118e49cac93",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-93e90e93b24ed912",
+            "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8b0c639b0b81d441",
+            "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ddfa5049284bd7fe",
+            "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b57fbb6c0394af53",
+            "draft_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-84368e05b5ce2353",
+            "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c06ffe3c16fb610d",
+            "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-865efd8e13e6b0a6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a8f1dfd4159628e0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "自党的十九大提出实施区域协调发展战略以来，国家区域发展的整体性、协调性与开放性进一步增强，东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成。",
+            "finding": "The phrase '东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成' is not in the contract.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-60bedf5804ef4fc9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-93e90e93b24ed912"
+            ],
+            "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "Matches claim-93e90e93b24ed912.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-008be2e2a95d0881",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8b0c639b0b81d441"
+            ],
+            "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+            "finding": "Matches claim-8b0c639b0b81d441.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b232d0d2fbcf498d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ddfa5049284bd7fe"
+            ],
+            "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+            "finding": "Matches claim-ddfa5049284bd7fe.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-995aa7e2ef9c49d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b57fbb6c0394af53"
+            ],
+            "draft_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。",
+            "finding": "Matches claim-b57fbb6c0394af53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-023efdc5ebed1766",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b57fbb6c0394af53"
+            ],
+            "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+            "finding": "Matches claim-b57fbb6c0394af53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5111ae868a61281",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+            "finding": "Matches claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45148201fe17512f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "中部地区GDP为22.2万亿元，同比增长1.3%，低于全国平均增速1个百分点；",
+            "finding": "Matches claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5d147c96d2438ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "西部地区GDP达21.3万亿元，同比增长3.3%，增速居“四大板块”首位；",
+            "finding": "Matches claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0ce7808cfb22bd5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为1.1%，增速居“四大板块”末位。",
+            "finding": "Matches claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e56dccb3d2fa0f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f1dfd4159628e0"
+            ],
+            "draft_excerpt": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。",
+            "finding": "Matches claim-a8f1dfd4159628e0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21ba30052a9125c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-865efd8e13e6b0a6"
+            ],
+            "draft_excerpt": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+            "finding": "Matches claim-865efd8e13e6b0a6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0641ed276dd79798",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c06ffe3c16fb610d"
+            ],
+            "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-beb7205f8a57a2f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成。",
+            "finding": "This phrase is not supported by the contract."
+          },
+          {
+            "draft_excerpt": "自党的十九大提出实施区域协调发展战略以来，国家区域发展的整体性、协调性与开放性进一步增强，东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成。",
+            "finding": "The phrase '东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成' is not in the contract."
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "e38f3d26a21b65f5fcf0372efd8882287503f2483ddec6c0f51d49ebeacd2aae",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-93e90e93b24ed912",
+            "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8b0c639b0b81d441",
+            "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ddfa5049284bd7fe",
+            "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b57fbb6c0394af53",
+            "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-84368e05b5ce2353",
+            "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c06ffe3c16fb610d",
+            "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-865efd8e13e6b0a6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a8f1dfd4159628e0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-93e90e93b24ed912"
+            ],
+            "draft_excerpt": "自党的十九大报告提出实施区域协调发展战略以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "Supported by claim-93e90e93b24ed912.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44b92c87336490ed",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-93e90e93b24ed912",
+              "claim-8b0c639b0b81d441"
+            ],
+            "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "Supported by claim-93e90e93b24ed912.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-008be2e2a95d0881",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8b0c639b0b81d441"
+            ],
+            "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+            "finding": "Supported by claim-8b0c639b0b81d441.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b232d0d2fbcf498d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ddfa5049284bd7fe"
+            ],
+            "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+            "finding": "Supported by claim-ddfa5049284bd7fe.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-995aa7e2ef9c49d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b57fbb6c0394af53"
+            ],
+            "draft_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。",
+            "finding": "Supported by claim-b57fbb6c0394af53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-023efdc5ebed1766",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b57fbb6c0394af53"
+            ],
+            "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+            "finding": "Supported by claim-b57fbb6c0394af53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5111ae868a61281",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45148201fe17512f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "中部地区GDP为22.2万亿元，同比增长1.3%，低于全国平均增速1个百分点；",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5d147c96d2438ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "西部地区GDP达21.3万亿元，同比增长3.3%，增速居“四大板块”首位；",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0ce7808cfb22bd5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为1.1%，增速居“四大板块”末位。",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e56dccb3d2fa0f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f1dfd4159628e0"
+            ],
+            "draft_excerpt": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。",
+            "finding": "Supported by claim-a8f1dfd4159628e0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21ba30052a9125c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-865efd8e13e6b0a6"
+            ],
+            "draft_excerpt": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+            "finding": "Supported by claim-865efd8e13e6b0a6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0641ed276dd79798",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c06ffe3c16fb610d"
+            ],
+            "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-beb7205f8a57a2f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "e38f3d26a21b65f5fcf0372efd8882287503f2483ddec6c0f51d49ebeacd2aae",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-93e90e93b24ed912",
+            "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8b0c639b0b81d441",
+            "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ddfa5049284bd7fe",
+            "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b57fbb6c0394af53",
+            "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-84368e05b5ce2353",
+            "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c06ffe3c16fb610d",
+            "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-865efd8e13e6b0a6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a8f1dfd4159628e0",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-93e90e93b24ed912"
+            ],
+            "draft_excerpt": "自党的十九大报告提出实施区域协调发展战略以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "Supported by claim-93e90e93b24ed912.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44b92c87336490ed",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-93e90e93b24ed912",
+              "claim-8b0c639b0b81d441"
+            ],
+            "draft_excerpt": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+            "finding": "Supported by claim-93e90e93b24ed912.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-008be2e2a95d0881",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8b0c639b0b81d441"
+            ],
+            "draft_excerpt": "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。",
+            "finding": "Supported by claim-8b0c639b0b81d441.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b232d0d2fbcf498d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ddfa5049284bd7fe"
+            ],
+            "draft_excerpt": "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。",
+            "finding": "Supported by claim-ddfa5049284bd7fe.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-995aa7e2ef9c49d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b57fbb6c0394af53"
+            ],
+            "draft_excerpt": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。",
+            "finding": "Supported by claim-b57fbb6c0394af53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-023efdc5ebed1766",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b57fbb6c0394af53"
+            ],
+            "draft_excerpt": "我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。",
+            "finding": "Supported by claim-b57fbb6c0394af53.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5111ae868a61281",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45148201fe17512f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "中部地区GDP为22.2万亿元，同比增长1.3%，低于全国平均增速1个百分点；",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c5d147c96d2438ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "西部地区GDP达21.3万亿元，同比增长3.3%，增速居“四大板块”首位；",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0ce7808cfb22bd5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-84368e05b5ce2353"
+            ],
+            "draft_excerpt": "东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为1.1%，增速居“四大板块”末位。",
+            "finding": "Supported by claim-84368e05b5ce2353.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e56dccb3d2fa0f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f1dfd4159628e0"
+            ],
+            "draft_excerpt": "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。",
+            "finding": "Supported by claim-a8f1dfd4159628e0.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21ba30052a9125c9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-865efd8e13e6b0a6"
+            ],
+            "draft_excerpt": "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+            "finding": "Supported by claim-865efd8e13e6b0a6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0641ed276dd79798",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c06ffe3c16fb610d"
+            ],
+            "draft_excerpt": "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-beb7205f8a57a2f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。\n\n截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“19 + 2”城市群为主体形态的新型区域发展格局。\n\n## 证据与影响\n\n2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近30%，承包工程完成营业额911亿美元、占比接近60%。\n\n2020年，东部地区GDP达52.6万亿元，同比增长2.9%，增速高于全国平均增速0.6个百分点；中部地区GDP为22.2万亿元，同比增长1.3%，低于全国平均增速1个百分点；西部地区GDP达21.3万亿元，同比增长3.3%，增速居“四大板块”首位；东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为1.1%，增速居“四大板块”末位。\n\n2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为51.9%、22.0%、21.1%、5.0%，与2000年相比，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点。\n\n- 粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。\n- 川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势。",
+    "description": "自党的十九大报告提出实施区域协调发展战略以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+    "ref": {
+      "asset_hints": [
+        "image-001",
+        "image-002"
+      ],
+      "concept_id": "topic-ebb8d579fef9",
+      "description": "自党的十九大提出实施区域协调发展战略以来，国家区域发展的整体性、协调性与开放性进一步增强，东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成。",
+      "document_family_id": "28e2a49e271094505210",
+      "document_version_id": "24023fd3da9de6ac6517",
+      "evidence": [
+        "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。",
+        "2020年，东部地区GDP达52.6万亿元，同比增长 \\(2.9\\%\\) ，增速高于全国平均增速0.6个百分点；中部地区GDP为22.2万亿元，同比增长 \\(1.3\\%\\) ，低于全国平均增速1个百分点；西部地区GDP达21.3万亿元，同比增长 \\(3.3\\%\\) ，增速居“四大板块”首位；东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为 \\(1.1\\%\\) ，增速居“四大板块”末位",
+        "2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为 \\(51.9\\%\\) 、 \\(22.0\\%\\) 、 \\(21.1\\%\\) 、 \\(5.0\\%\\) ，与2000年相比①，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点②",
+        "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近 \\(30\\%\\) ，承包工程完成营业额911亿美元、占比接近 \\(60\\%",
+        "粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。",
+        "川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城经济圈建设全面起势①。",
+        "截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“\\(19 + 2\\)”城市群为主体形态的新型区域发展格局",
+        "顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。"
+      ],
+      "evidence_block_ids": [
+        "blk-6fc9b94049c5993ac760",
+        "blk-f86a5d55d20d9d0bfa8e",
+        "blk-8ec7668a80253abdc3ce",
+        "blk-454d717e86b58e0894c7",
+        "blk-fdb823e0b107908dfca2",
+        "blk-c8c55d0c376150737721"
+      ],
+      "page_end": 19,
+      "page_start": 15,
+      "ref_family_hint": "",
+      "ref_version_id": "24023fd3da9de6ac6517",
+      "scope": {},
+      "section_path": [
+        "综合篇",
+        "一、我国区域经济发展态势及展望"
+      ],
+      "semantic_signature": {},
+      "source": "c4fa936d-bb21-4b09-931b-345720909d3a.md",
+      "title": "我国区域经济发展态势及展望",
+      "type": "分析框架"
+    },
+    "title": "我国区域经济发展态势及展望"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-f4a4968e9394:bundle-19074f6536b1",
+      "excluded_fragments": [],
+      "ref_id": "ref-f4a4968e9394",
+      "source_blocks": [
+        {
+          "block_id": "blk-6fc9b94049c5993ac760",
+          "page_number": 15,
+          "text": "自党的十九大报告提出“实施区域协调发展战略”“建立更加有效的区域协调发展新机制”以来，国家区域发展的整体性协调性开放性进一步增强，区域协调发展呈现良好局面。展望未来，随着国家区域发展战略的深入实施，区域协调性将持续增强，东西南北中纵横联动、主体功能明显、优势互补的区域经济布局将逐步形成。"
+        },
+        {
+          "block_id": "blk-4bbdf8535915faf457d7",
+          "page_number": 15,
+          "text": "近年来，我国区域发展空间布局逐步优化，区域板块之间融合互动进一步增强，区域发展协调性明显提升，区域发展差距逐步缩小，东中西互动、南北方协调的区域良性发展格局正加速形成。"
+        },
+        {
+          "block_id": "blk-f86a5d55d20d9d0bfa8e",
+          "page_number": 15,
+          "text": "我国各区域经济总量不断攀升，区域发展的相对差距逐步缩小，区域结构更趋协调。2020年，东部地区GDP达52.6万亿元，同比增长 \\(2.9\\%\\) ，增速高于全国平均增速0.6个百分点；中部地区GDP为22.2万亿元，同比增长 \\(1.3\\%\\) ，低于全国平均增速1个百分点；西部地区GDP达21.3万亿元，同比增长 \\(3.3\\%\\) ，增速居“四大板块”首位；东北地区GDP为5.1万亿元，GDP增速继续维持相对较低的状态，仅为 \\(1.1\\%\\) ，增速居“四大板块”末位。从四大经济板块GDP占比来看，中西部地区经济高速增长，与东部地区发展相对差距逐步缩小。2020年，东部、中部、西部、东北地区GDP占全国GDP比重分别为 \\(51.9\\%\\) 、 \\(22.0\\%\\) 、 \\(21.1\\%\\) 、 \\(5.0\\%\\) ，与2000年相比①，东部、东北地区GDP占比分别下降0.5、5.0个百分点，中部、西部地区GDP占比分别上升1.6、3.9个百分点②。"
+        },
+        {
+          "block_id": "blk-0cf80a00a6697e7b7444",
+          "page_number": 16,
+          "text": "原始 PDF 第 16 页图片"
+        },
+        {
+          "block_id": "blk-73e7555838f42afa3208",
+          "page_number": 16,
+          "text": "图1-1 2020年四大板块经济发展情况"
+        },
+        {
+          "block_id": "blk-8ec7668a80253abdc3ce",
+          "page_number": 16,
+          "text": "2020年，我国持续推进区域协调发展，“一带一路”建设扎实推进，京津冀协同发展、长江经济带发展、粤港澳大湾区建设、黄河流域生态保护和高质量发展、成渝地区双城经济圈建设等区域发展重大决策部署均取得积极进展，区域协调发展成效显著。我国对“一带一路”沿线国家进出口总额9.4万亿元、占比接近 \\(30\\%\\) ，承包工程完成营业额911亿美元、占比接近 \\(60\\%\\) 。京津冀交通一体化发展迅速，区域空气质量改善明显，北京非首都功能疏解有序推进，区域发展协同性明显增强。长江经济带建设取得阶段性成效，电子信息、装备制造产业规模占全国比重均超过 \\(50\\%\\) ，长江干支线高等级航道里程达上万公里，长江流域首次实现消除劣V类水体。粤港澳大湾区经济总量达11.5万亿元，比2017年增加1.4万亿元，成为中国开放程度最高、经济活力最强的区域之一。《黄河流域生态保护和高质量发展规划纲要》编制加快，黄河流域生态和高质量发展推进顺利。川渝共同实施标志性引领性项目31个、总投资5563亿元，年度完成投资354亿元，成渝地区双城"
+        },
+        {
+          "block_id": "blk-454d717e86b58e0894c7",
+          "page_number": 17,
+          "text": "经济圈建设全面起势①。"
+        },
+        {
+          "block_id": "blk-fdb823e0b107908dfca2",
+          "page_number": 17,
+          "text": "随着全国统一大市场的加快建设，各自为政、单打独斗的区域时代正在终结，以都市圈、城市群为主体的区域合作更加紧密，特别是随着中心城市辐射带动作用不断增强，城市群内核心城市与周边城市共同参与分工合作趋势日益明显、集聚辐射效益不断提升。东部沿海的长三角、粤港澳大湾区、京津冀三大城市群及中西部的长江中游、中原、成渝、关中等城市群的集聚效应持续增强，重点建设的19个城市群GDP、人口占全国比重分别由2010年 \\(87.5\\%\\) 和 \\(79.3\\%\\) 增加到2019年的 \\(88.3\\%\\) 和 \\(80.4\\%\\) ，截至2020年，全国19个城市群的规划全部编制完成，其中11个已获得国务院批复，初步形成以“\\(19 + 2\\)”城市群为主体形态的新型区域发展格局。"
+        },
+        {
+          "block_id": "blk-6eaaf6b39f41e54f15f5",
+          "page_number": 17,
+          "text": "原始 PDF 第 17 页图片"
+        },
+        {
+          "block_id": "blk-6d008524bea749c815a3",
+          "page_number": 17,
+          "text": "图1-2 “\\(19 + 2\\)”城市群发展格局"
+        },
+        {
+          "block_id": "blk-c8c55d0c376150737721",
+          "page_number": 18,
+          "text": "近年来，为促进区域协调发展，国家制定实施了一系列重大区域规划和政策，总体指导、各有侧重的区域政策体系基本形成。顶层协同机制成功建立，2018年中共中央、国务院出台了《关于建立更加有效的区域协调发展新机制的意见》，重点围绕基本公共服务均等化、基础设施通达程度比较均衡、人民基本生活保障水平大体相当的目标，破除地区之间利益藩篱和政策壁垒，建成与区域协调发展相适应的新体制。重点领域方面的协调机制加快探索，生态保护补偿机制、粮食主产区与主销区利益补偿机制、能源矿产等资源转出地和转入地利益平衡机制、碳排放权排污权水权等资源权属交易机制均已在重点区域、流域进行试点，区域协同体制机制日益完善。"
+        },
+        {
+          "block_id": "blk-62912e15381828af8d88",
+          "page_number": 18,
+          "text": "结合国际国内经济社会环境，以及国家层面推进区域协同发展的最新政策导向，未来，我国将继续深入实施区域发展总体战略，“西快东慢”经济增长态势持续保持，区域发展协调性进一步提升，都市圈、城市群将成为区域经济发展重要方向，区域政策将更加精细化。"
+        },
+        {
+          "block_id": "blk-1ddcfbcc6a0e7ddcf254",
+          "page_number": 18,
+          "text": "近年来，我国加大中西部地区发展力度，一批具有较强产业影响力和竞争力的创新型骨干企业快速成长，成为中西部地区经济发展的主力军。同时，由于劳动力、土地等生产要素价格上涨，东部地区产业转型升级加快，部分制造业竞争优势逐渐减弱，比较优势下降的产业和企业必然会进行空间结构调整和转移，经济增长速度逐渐放缓。而中西部地区交通、信息等基础设施建设加快推进，产业支撑能力不断提升，市场运行环境不断改善，已完全具备承接东部制造业转移的能力；加之国家大力推动区域协调联动发展，东、中、西在产业承接转移、交通互联互通等方面加速推进，中西部地区迎来更多发展机遇，发展潜力和发展空间将进一步释放和拓展，经济增长将快于东部地区、持续保持向好趋势。"
+        },
+        {
+          "block_id": "blk-fedd31588408fa627151",
+          "page_number": 18,
+          "text": "经过多年发展，中西部地区经济发展迅速，新的增长带和增长极辐射带动作用日益明显，区域经济协调发展呈现良好势头。未来，我国将继续以京津冀协同发展、长江经济带发展、粤港澳大湾区建设、长三角一体化发展、黄河流域生态保护和高质量发展等重大战略为引领，以西部、东北、中部、东部四大板块为基础，促进区域联动发展，加快破除地区间利益藩篱和政策壁垒，推动形成区域统一市场，促进经济要素在更大范围、更高层"
+        },
+        {
+          "block_id": "blk-02884bd9f082506d7b44",
+          "page_number": 19,
+          "text": "次、更广空间顺畅流动与合理配置，不断提升区域发展平衡性与协调性。"
+        },
+        {
+          "block_id": "blk-04abe043d70d9bb5d230",
+          "page_number": 19,
+          "text": "城市群是新型城镇化主体形态，都市圈是城市群内部以超大特大城市或辐射带动功能强的大城市为中心、以1小时通勤圈为基本范围的城镇化空间形态。发展壮大城市群和都市圈，有利于持续释放消费潜力、激发有效投资、培育形成强大的国内市场，对推动新型城镇化高质量发展具有重要意义。因此，未来，应顺应小城镇、中心城市、大都市、都市圈、城市群梯次发展的趋势，提升都市圈和城市群等经济发展优势区域的承载能力，建立健全城市群发展协调机制，推进大中小城市网络化建设，重点优化提升东部地区城市群，并在中西部地区培育发展一批城市群和都市圈，着力增强其在区域协调发展中的支撑和引领作用。"
+        },
+        {
+          "block_id": "blk-56e9e8f9ab1bdc9adcfd",
+          "page_number": 19,
+          "text": "近年来，在科学识别不同类型区域的功能定位、要素禀赋与经济社会发展需求的基础上，我国相继出台了一系列区域规划和区域政策文件，区域政策的精准化程度不断提高。跨区域、跨流域生态环境协同治理的政策将进一步出台，京津冀、长三角等区域将逐步完善流域生态补偿与市场交易机制、环境精细化协同管理机制、环境污染联合预警与信息共享等措施，长江流域、黄河流域具体发展方案、环境责任、环境纠纷处理等更加细化深化。重点行业领域一体化合作政策更加具体，如京津冀在持续推进非首都核心功能疏解的同时，将会对绿色产业示范区、新兴产业体系建设规划及方案进一步完善；粤港澳大湾区在规划纲要的框架下，重点围绕金融资本市场开放、区域创新市场建设等方面的制定出台相关支持性政策；成渝地区双城经济圈重点围绕产业协同、创新协同、生态共治、交通互联、服务共享等方面制定出台支持性政策。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-ebb8d579fef9",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-f4a4968e9394"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

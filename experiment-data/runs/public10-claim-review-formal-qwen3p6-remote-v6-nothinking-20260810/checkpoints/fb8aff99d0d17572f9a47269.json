@@ -1,0 +1,781 @@
+{
+  "contract": {
+    "canonical_question": "对弄虚作假、虚报冒领资助经费的单位，将采取哪些具体的处罚措施？",
+    "claims": [
+      {
+        "claim": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评的措施予以处罚。",
+        "claim_id": "claim-cac8d5a0092d3ae6",
+        "evidence_block_ids": [
+          "blk-0d1a469d2b2570128620"
+        ],
+        "evidence_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-50dfda32f3f2",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对弄虚作假、虚报冒领资助经费的单位，将采取停止拨款的措施予以处罚。",
+        "claim_id": "claim-e792db0dc7031f5b",
+        "evidence_block_ids": [
+          "blk-0d1a469d2b2570128620"
+        ],
+        "evidence_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-50dfda32f3f2",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对弄虚作假、虚报冒领资助经费的单位，将采取终止项目的措施予以处罚。",
+        "claim_id": "claim-1b8ba12cc2ab112a",
+        "evidence_block_ids": [
+          "blk-0d1a469d2b2570128620"
+        ],
+        "evidence_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-50dfda32f3f2",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对弄虚作假、虚报冒领资助经费的单位，将采取取消申报资格的措施予以处罚。",
+        "claim_id": "claim-3aa8b0b4712ee6c5",
+        "evidence_block_ids": [
+          "blk-0d1a469d2b2570128620"
+        ],
+        "evidence_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-50dfda32f3f2",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对弄虚作假、虚报冒领资助经费且涉嫌违法的单位，将依法移送司法机关处理。",
+        "claim_id": "claim-10e4fa976ab3c49a",
+        "evidence_block_ids": [
+          "blk-0d1a469d2b2570128620"
+        ],
+        "evidence_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。涉嫌违法的依法移送司法机关处理。",
+        "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          218
+        ],
+        "ref_id": "ref-50dfda32f3f2",
+        "scope": {},
+        "slot": "constraint",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-cac8d5a0092d3ae6",
+          "claim-e792db0dc7031f5b",
+          "claim-1b8ba12cc2ab112a",
+          "claim-3aa8b0b4712ee6c5",
+          "claim-10e4fa976ab3c49a"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+        "reason": "该证据单元包含回答中心问题所需的全部原子事实，即具体的处罚措施列表及司法移送规定，无重复或无关内容。"
+      }
+    ],
+    "group_id": "topic-4c9cbcbac34c",
+    "members": [
+      {
+        "contribution": "该证据直接列出了针对弄虚作假、虚报冒领资助经费行为的四项具体处罚措施，并明确了涉嫌违法时的司法移送程序，完整回答了中心问题。",
+        "ref_id": "ref-50dfda32f3f2",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-cac8d5a0092d3ae6",
+        "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e792db0dc7031f5b",
+        "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1b8ba12cc2ab112a",
+        "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3aa8b0b4712ee6c5",
+        "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-10e4fa976ab3c49a",
+        "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-cac8d5a0092d3ae6",
+          "claim-e792db0dc7031f5b",
+          "claim-1b8ba12cc2ab112a",
+          "claim-3aa8b0b4712ee6c5"
+        ],
+        "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-491153f38f8db34a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cac8d5a0092d3ae6",
+          "claim-e792db0dc7031f5b",
+          "claim-1b8ba12cc2ab112a",
+          "claim-3aa8b0b4712ee6c5"
+        ],
+        "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-52f9a49c9950f4c6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-10e4fa976ab3c49a"
+        ],
+        "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d578ce302969882f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cac8d5a0092d3ae6",
+          "claim-e792db0dc7031f5b",
+          "claim-1b8ba12cc2ab112a",
+          "claim-3aa8b0b4712ee6c5"
+        ],
+        "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0e683ae2ad13765a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-10e4fa976ab3c49a"
+        ],
+        "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d8e8f244d5416d44",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-cac8d5a0092d3ae6",
+          "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e792db0dc7031f5b",
+          "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1b8ba12cc2ab112a",
+          "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3aa8b0b4712ee6c5",
+          "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-10e4fa976ab3c49a",
+          "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-cac8d5a0092d3ae6",
+            "claim-e792db0dc7031f5b",
+            "claim-1b8ba12cc2ab112a",
+            "claim-3aa8b0b4712ee6c5"
+          ],
+          "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "supported",
+          "sentence_id": "sentence-491153f38f8db34a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cac8d5a0092d3ae6",
+            "claim-e792db0dc7031f5b",
+            "claim-1b8ba12cc2ab112a",
+            "claim-3aa8b0b4712ee6c5"
+          ],
+          "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "supported",
+          "sentence_id": "sentence-52f9a49c9950f4c6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-10e4fa976ab3c49a"
+          ],
+          "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+          "finding": "supported",
+          "sentence_id": "sentence-d578ce302969882f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cac8d5a0092d3ae6",
+            "claim-e792db0dc7031f5b",
+            "claim-1b8ba12cc2ab112a",
+            "claim-3aa8b0b4712ee6c5"
+          ],
+          "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+          "finding": "supported",
+          "sentence_id": "sentence-0e683ae2ad13765a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-10e4fa976ab3c49a"
+          ],
+          "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+          "finding": "supported",
+          "sentence_id": "sentence-d8e8f244d5416d44",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "57bc3bf46a81949f0ba52519b65067a8cbf14a894e1cd763795e23a18fd5df9c",
+  "coverage_history": [
+    {
+      "draft_sha256": "7e78cbd9c1858196377807531894a613a1af6cb5a00689c43558af098077361d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cac8d5a0092d3ae6",
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e792db0dc7031f5b",
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1b8ba12cc2ab112a",
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3aa8b0b4712ee6c5",
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-10e4fa976ab3c49a",
+            "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-cac8d5a0092d3ae6",
+              "claim-e792db0dc7031f5b",
+              "claim-1b8ba12cc2ab112a",
+              "claim-3aa8b0b4712ee6c5"
+            ],
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0fc904c40affa1c8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "本办法由成都市科学技术局（外国专家局）负责解释。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a4ea60bccb3a1504",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "本办法自印发之日起30日后生效，有效期三年。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed06a7827d1434d6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cac8d5a0092d3ae6",
+              "claim-e792db0dc7031f5b",
+              "claim-1b8ba12cc2ab112a",
+              "claim-3aa8b0b4712ee6c5"
+            ],
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-27fd146bb3eca9c4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-10e4fa976ab3c49a"
+            ],
+            "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8e8f244d5416d44",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "本市相关政策与本政策措施不一致的部分，以本政策措施为准。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-24919acb0e718d9b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cac8d5a0092d3ae6",
+              "claim-e792db0dc7031f5b",
+              "claim-1b8ba12cc2ab112a",
+              "claim-3aa8b0b4712ee6c5"
+            ],
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a41c102c6310e053",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-10e4fa976ab3c49a"
+            ],
+            "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57086ef8d2a4036a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "第十条 本办法由成都市科学技术局（外国专家局）负责解释。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e295a9668ebc24a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "第十一条 本办法自印发之日起30日后生效，有效期三年。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eaa9c48aaa0d8443",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "本市相关政策与本政策措施不一致的部分，以本政策措施为准。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbbefa3cfd377e03",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "本办法由成都市科学技术局（外国专家局）负责解释。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "本办法自印发之日起30日后生效，有效期三年。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "本市相关政策与本政策措施不一致的部分，以本政策措施为准。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "第十条 本办法由成都市科学技术局（外国专家局）负责解释。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "第十一条 本办法自印发之日起30日后生效，有效期三年。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "本市相关政策与本政策措施不一致的部分，以本政策措施为准。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "30",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "57bc3bf46a81949f0ba52519b65067a8cbf14a894e1cd763795e23a18fd5df9c",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-cac8d5a0092d3ae6",
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e792db0dc7031f5b",
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1b8ba12cc2ab112a",
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3aa8b0b4712ee6c5",
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-10e4fa976ab3c49a",
+            "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-cac8d5a0092d3ae6",
+              "claim-e792db0dc7031f5b",
+              "claim-1b8ba12cc2ab112a",
+              "claim-3aa8b0b4712ee6c5"
+            ],
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-491153f38f8db34a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cac8d5a0092d3ae6",
+              "claim-e792db0dc7031f5b",
+              "claim-1b8ba12cc2ab112a",
+              "claim-3aa8b0b4712ee6c5"
+            ],
+            "draft_excerpt": "对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52f9a49c9950f4c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-10e4fa976ab3c49a"
+            ],
+            "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d578ce302969882f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cac8d5a0092d3ae6",
+              "claim-e792db0dc7031f5b",
+              "claim-1b8ba12cc2ab112a",
+              "claim-3aa8b0b4712ee6c5"
+            ],
+            "draft_excerpt": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0e683ae2ad13765a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-10e4fa976ab3c49a"
+            ],
+            "draft_excerpt": "涉嫌违法的依法移送司法机关处理。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d8e8f244d5416d44",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。涉嫌违法的依法移送司法机关处理。\n\n- 第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。涉嫌违法的依法移送司法机关处理。",
+    "description": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-4c9cbcbac34c",
+      "description": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。",
+        "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。涉嫌违法的依法移送司法机关处理。"
+      ],
+      "evidence_block_ids": [
+        "blk-0d1a469d2b2570128620"
+      ],
+      "page_end": 222,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "第六章 附则",
+      "type": "分析框架"
+    },
+    "title": "第六章 附则"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-50dfda32f3f2:bundle-ed7ab48ec5b5",
+      "excluded_fragments": [],
+      "ref_id": "ref-50dfda32f3f2",
+      "source_blocks": [
+        {
+          "block_id": "blk-0f9b6e796bcfdf7ffb21",
+          "page_number": 208,
+          "text": "支持科技型中小企业联合高校院所共建市级工程技术研究中心、产学研联合实验室，给予最高50万元资助。"
+        },
+        {
+          "block_id": "blk-3ee25b433c55ee814a46",
+          "page_number": 212,
+          "text": "本市相关政策与本政策措施不一致的部分，以本政策措施为准。"
+        },
+        {
+          "block_id": "blk-0d1a469d2b2570128620",
+          "page_number": 218,
+          "text": "第九条 对弄虚作假、虚报冒领资助经费的单位，将采取通报批评、停止拨款、终止项目、取消申报资格等措施予以相应的处罚。涉嫌违法的依法移送司法机关处理。"
+        },
+        {
+          "block_id": "blk-b7f8a202df64d109ca42",
+          "page_number": 218,
+          "text": "第十条 本办法由成都市科学技术局（外国专家局）负责解释。"
+        },
+        {
+          "block_id": "blk-d6fa4fccf7f37501bf9a",
+          "page_number": 218,
+          "text": "第十一条 本办法自印发之日起30日后生效，有效期三年。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-91223bf1c6abe1ceb164",
+          "page_number": 219,
+          "text": "成委办〔2020〕10号"
+        },
+        {
+          "block_id": "blk-6fc4b8f79f7f0f9bf11c",
+          "page_number": 219,
+          "text": "围绕天府实验室建设，聚焦前沿医学、区块链、能源互联网、航空航天等领域引聚全球一流科学家、学科领军人才、科研管理人才。打造“科研特区”，实行科技攻关“揭榜制”、项目经费“包干制”等新型协同创新组织方式，建立首席科学家全权负责制，在人才（团队）引进、管理、评价、激励等方面赋予更大自主权。探索构建国际一流的新型人才发展体制和科研运行机制，建立全聘、双聘相结合的人才聘用制度，提供接轨国际标准的薪酬待遇。"
+        },
+        {
+          "block_id": "blk-18bcefabb01491ddb5a3",
+          "page_number": 219,
+          "text": "赋予科创空间重大人才计划评审权，按其引进创新团队数量、科技成果转化效果，给予自主评选名额。实施“双招双引”攻坚行动，聚焦电子信息、医药健康、装备制造等重点产业集群，面向海内外知名高校、世界500强企业、国际知名研发机构等引进科技创新团队，给予最高1000万元启动资金，以及安居保障、子女入学等配套支持。对科创空间企业到海外建立“研发飞地”且柔性引进创新团队的，给予最高200万元资金资助。"
+        },
+        {
+          "block_id": "blk-4b3646561f608d745a41",
+          "page_number": 219,
+          "text": "围绕建设具有国际竞争力的电子信息、医药健康、绿色智能网联汽车、航空航天、轨道交通、智能制造、先进材料、绿色食品、会展经济、现代金融、现代物流、文旅（运动）、现代商贸、都市现代农业产业生态圈，发布人才需求目录，实施"
+        },
+        {
+          "block_id": "blk-44d3dbba64d89aa08f69",
+          "page_number": 220,
+          "text": "“产业生态圈人才计划”，5年内在产业生态圈中遴选培育1500名左右产业领军人才。支持头部企业推荐人才直接入选“产业生态圈人才计划”，对入选人才给予30万元资金资助，以及子女入学、人才安居、交流培训等配套服务。"
+        },
+        {
+          "block_id": "blk-c04b3f4456b8579ff0bb",
+          "page_number": 220,
+          "text": "实施海外留学生回引工程，世界大学排名前50的海外高校应届毕业生来蓉创新创业，可申领本科2万元、硕士4万元、博士6万元的补贴。依托离岸创新创业基地集聚海外优秀大学生，对其科技成果在蓉转化的，可不受在蓉时间限制申报“蓉漂计划”。鼓励在蓉企业在海内外知名高校设立专项奖学金，吸引符合主导产业发展需求的青年人才来蓉发展，按奖学金总额的 \\(30\\%\\) 给予企业奖励。对海内外创新创业大赛获奖青年大学生创业项目来蓉转化的，给予最高120万元奖励。对重点产业企业新引进的博士研究生学历人才，给予3年内、2000元/月的安家补贴。鼓励科创空间与在蓉高校联合建设大学生创新创业苗圃，对符合条件的大学生创新创业项目给予最长3年租金减免，以及最高50万元、最长3年全额贴息的贷款支持。加大青年人才安居保障，硕士研究生及以上学历人才来蓉前即可线上申请人才公寓，来蓉工作且符合安居资格的，购买人才公寓可享受政策面积8.5折优惠，也可优先购买商品住房。"
+        },
+        {
+          "block_id": "blk-4552bbdbf5e53685aa20",
+          "page_number": 220,
+          "text": "支持国家级科研机构、知名高校来蓉建设大科学装置、定制式实验室、科研分支机构或新型研发机构，强化创新平台对人才（团队）的吸附效应，按照“一所（院、校）一策”方式给予综合支持。鼓励在蓉高校院所、头部企业创建国家级研发中心，对新获批建设的国家产业创新中心、技术创新中心、制造业创新中心，按照国家支持金额的 \\(50\\%\\) 给予配套奖励。支持科技型中小企业联合高校院所共建市级工程技术研究中心、产学研联合实验室，给予最高50万元资助。"
+        },
+        {
+          "block_id": "blk-fbaa53ce3759b807a379",
+          "page_number": 220,
+          "text": "支持在蓉高校院所围绕成都主导产业发展增设专业学位硕（博）士点，给予最高200万元奖励。在蓉职业技术（技工）院校围绕重点产业链布局打造“成都特色”专业（群），给予单个专业最高800万元补贴。在蓉高校、职业技术（技工）院校、企业联合产业联盟建立行业指导委员会，制定产业人才培养标准，给予最高30万元"
+        },
+        {
+          "block_id": "blk-d4109c2165a760555a30",
+          "page_number": 221,
+          "text": "资金资助。鼓励校企联合举办高水平职业技能大赛、行业论坛峰会，给予最高1000万元补贴。"
+        },
+        {
+          "block_id": "blk-1c9eeac7279edba9d6f2",
+          "page_number": 221,
+          "text": "鼓励国内外知名技术交易（转移）机构来蓉落户，给予最高100万元资金资助。支持开展技术转移活动，按不超过技术合同实际成交额的 \\(3\\%\\) ，给予单个项目最高50万元资助。鼓励创造高价值知识产权，对获得中国专利奖、中国商标奖的，给予权利人最高100万元资助。企业以商标权、专利权获得质押融资的，经认定后对出质人或其同意的借款人评估费、担保费、贷款利息分别给予 \\(50\\%\\) 资助。支持在蓉创新创业人才（团队）聘请海外知识产权律师处理境外知识产权纠纷，按照每件案件维权代理费的 \\(30\\%\\) ，给予最高15万元资助。"
+        },
+        {
+          "block_id": "blk-6a2e189979809e9757b2",
+          "page_number": 221,
+          "text": "对新引进的全球50强人力资源服务机构区域总部，一年内达到总部企业标准条件的，给予最高5000万元奖励。支持知名猎头公司、人力资源咨询机构、人力资源培训机构等引进顶尖人才（团队），效果显著的给予最高100万元奖励。设立“人才开发券”，向头部企业发放最高10万元的票券，用于购买人力资源服务机构人才引进、培训、测评、管理咨询等服务。支持人力资源服务机构、行业协会等搭建“共享人才”平台，实行人才租赁、任务聘用、兼职等灵活用工新模式，效果显著的给予最高100万元奖励。"
+        },
+        {
+          "block_id": "blk-1131e46f8100bbc1c132",
+          "page_number": 221,
+          "text": "深化职务科技成果权属改革，通过成果分割确权、约定权属比例等赋予科研人员更多科技成果所有权，对不能确权分割的，由单位确定方式，可赋予科研人员10年以上的长期使用权。建立创新决策容错纠错免责机制。允许在蓉企业对科技创新中作出重大贡献的兼职科研人员实施股权和分红权激励。鼓励股权化的科技成果通过市场化方式转让、许可或作价投资，各级财政资金优先支持其项目落地转化。"
+        },
+        {
+          "block_id": "blk-4430fc6ea8503d42f5d1",
+          "page_number": 221,
+          "text": "支持产业功能区、科创空间、商务楼宇、特色镇、人才公寓等管理单位设立集"
+        },
+        {
+          "block_id": "blk-953b85f3df8fd836a5dc",
+          "page_number": 222,
+          "text": "体户，用于海内外高层次人才、高校毕业生、留学归国人员等服务管理。继续做好全日制本科及以上学历青年人才和技能人才落户服务。45岁以下中级职称及以上专业技术人才，在本市同一用人单位连续缴纳社保1年以上，可凭单位推荐、部门认定申请办理落户。35岁以下全日制大专学历毕业生，可凭毕业证在成都东部新区和近郊区申请办理落户。在成都东部新区企事业单位工作的全日制本科及以上学历应届毕业生，可申领本科1万元、硕士3万元、博士5万元的补贴。"
+        },
+        {
+          "block_id": "blk-8e6cc62e91e4e38a032f",
+          "page_number": 222,
+          "text": "建设大型科研仪器与工业设备共享平台，建立供需双方信息共享机制，完善开放评价体系。支持高能级创新平台和工程技术中心面向在蓉企业开放，对科研设施与仪器开放共享提供服务量大、用户评价高、综合效益突出的供给方，给予每年最高100万元奖励。对在蓉企业和创新团队，使用共享科研设施与仪器开展科技创新相关的检验检测、试验分析、标准研制、科技评估等活动产生的费用，给予使用费的\\(20\\%\\) 、每年最高20万元补助。"
+        },
+        {
+          "block_id": "blk-beb8c6792779583444a7",
+          "page_number": 222,
+          "text": "依托中国西部（成都）科学城创建人才管理改革试验区，在人力资源自由化流动、市场化配置、社会化评价等方面先行先试，建立与国际规则接轨的高层次人才招聘、薪酬、考核、科研管理、社会保障等制度，向上争取居留与出入境、税收优惠等有关支持，打造符合国际管理标准的人才治理体系，加快形成具有全球竞争力的人才制度优势。"
+        },
+        {
+          "block_id": "blk-b3cefacc846820c43e86",
+          "page_number": 222,
+          "text": "本政策自印发之日起实施，有效期5年。本市相关政策与本政策措施不一致的部分，以本政策措施为准。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-4c9cbcbac34c",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-50dfda32f3f2"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

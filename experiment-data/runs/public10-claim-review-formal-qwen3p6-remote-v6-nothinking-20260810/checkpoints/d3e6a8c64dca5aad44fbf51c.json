@@ -1,0 +1,1363 @@
+{
+  "contract": {
+    "canonical_question": "成都如何通过重大文化设施建设、文创品牌活动及海外阵地平台推动天府文化走出去与文创企业国际化？",
+    "claims": [
+      {
+        "claim": "成都加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目建设。",
+        "claim_id": "claim-817b50efd27b9b8a",
+        "evidence_block_ids": [
+          "blk-b484488b7dfb9cc964ec"
+        ],
+        "evidence_excerpt": "加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          136
+        ],
+        "ref_id": "ref-1aaa0a317cfb",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动。",
+        "claim_id": "claim-4d6f914df985c73d",
+        "evidence_block_ids": [
+          "blk-b484488b7dfb9cc964ec"
+        ],
+        "evidence_excerpt": "高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          136
+        ],
+        "ref_id": "ref-1aaa0a317cfb",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都大力发展现代时尚、传媒影视、动漫游戏等文化产业以提升世界文创名城美誉度。",
+        "claim_id": "claim-db6857b2f0757276",
+        "evidence_block_ids": [
+          "blk-b484488b7dfb9cc964ec"
+        ],
+        "evidence_excerpt": "大力发展现代时尚、传媒影视、动漫游戏等文化产业，进一步提升世界文创名城的美誉度和影响力",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          136
+        ],
+        "ref_id": "ref-1aaa0a317cfb",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年成都市场采购贸易方式出口额7.25亿美元，是2019年全年的3.5倍。",
+        "claim_id": "claim-3512a8f6c08e23f4",
+        "evidence_block_ids": [
+          "blk-a9fe4cb1c3b877307f64"
+        ],
+        "evidence_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          141
+        ],
+        "ref_id": "ref-1aaa0a317cfb",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中国一欧洲中心已入驻重点项目36个，现有人驻办公人员400余人，项目总体入驻率74.8%。",
+        "claim_id": "claim-496c7db2e65c9e83",
+        "evidence_block_ids": [
+          "blk-834133dd4b695bfd1bbc"
+        ],
+        "evidence_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率 \\(74.8\\%",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          144
+        ],
+        "ref_id": "ref-1aaa0a317cfb",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+        "claim_id": "claim-a6b1b4be3ddf9ba2",
+        "evidence_block_ids": [
+          "blk-1ac9df1e4f5e4ae2b1e3",
+          "blk-c64d468ac6bf83579102"
+        ],
+        "evidence_excerpt": "目前，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          145,
+          146
+        ],
+        "ref_id": "ref-1aaa0a317cfb",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台推动文创企业和品牌走出去。",
+        "claim_id": "claim-df5ded0886d2b113",
+        "evidence_block_ids": [
+          "blk-073ecee89f694247307d"
+        ],
+        "evidence_excerpt": "充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去",
+        "evidence_id": "ref-76cdc67969b5:bundle-8a000332d18e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          171
+        ],
+        "ref_id": "ref-76cdc67969b5",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地。",
+        "claim_id": "claim-58190e0686fdeaba",
+        "evidence_block_ids": [
+          "blk-073ecee89f694247307d"
+        ],
+        "evidence_excerpt": "加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地",
+        "evidence_id": "ref-76cdc67969b5:bundle-8a000332d18e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          171
+        ],
+        "ref_id": "ref-76cdc67969b5",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+        "claim_id": "claim-a469004e78a657c8",
+        "evidence_block_ids": [
+          "blk-073ecee89f694247307d"
+        ],
+        "evidence_excerpt": "鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作",
+        "evidence_id": "ref-76cdc67969b5:bundle-8a000332d18e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          171
+        ],
+        "ref_id": "ref-76cdc67969b5",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-817b50efd27b9b8a",
+          "claim-4d6f914df985c73d",
+          "claim-db6857b2f0757276",
+          "claim-3512a8f6c08e23f4",
+          "claim-496c7db2e65c9e83",
+          "claim-a6b1b4be3ddf9ba2"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+        "reason": "包含文化设施建设、品牌活动、国际商贸及金融合作等核心事实，直接回答中心问题中关于本地举措的部分。"
+      },
+      {
+        "claim_ids": [
+          "claim-df5ded0886d2b113",
+          "claim-58190e0686fdeaba",
+          "claim-a469004e78a657c8"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-76cdc67969b5:bundle-8a000332d18e",
+        "reason": "包含利用海外阵地平台、对外文化交流品牌推动文化走出去及国际传播体系建设的核心事实。"
+      }
+    ],
+    "group_id": "topic-a176bcc660fd",
+    "members": [
+      {
+        "contribution": "详述成都本地重大文化设施（如天府艺术公园）与文创品牌活动（如PANDA成都走世界）的建设与举办，以及通过国际商贸、金融等产业合作提升国际影响力的具体路径。",
+        "ref_id": "ref-1aaa0a317cfb",
+        "relation": "supports"
+      },
+      {
+        "contribution": "阐述利用海外中国馆、国家层面对外文化交流品牌（如感知中国）推动文创企业和品牌走出去，以及加强国际传播体系建设的策略。",
+        "ref_id": "ref-76cdc67969b5",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-817b50efd27b9b8a",
+        "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4d6f914df985c73d",
+        "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-db6857b2f0757276",
+        "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-df5ded0886d2b113",
+        "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-58190e0686fdeaba",
+        "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a469004e78a657c8",
+        "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3512a8f6c08e23f4",
+        "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-496c7db2e65c9e83",
+        "draft_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a6b1b4be3ddf9ba2",
+        "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-817b50efd27b9b8a",
+          "claim-4d6f914df985c73d",
+          "claim-db6857b2f0757276",
+          "claim-df5ded0886d2b113",
+          "claim-58190e0686fdeaba"
+        ],
+        "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动、加强国际传播体系建设及借力国家海外平台，推动文创企业和品牌走出去。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4473b696b0acda71",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-817b50efd27b9b8a",
+          "claim-4d6f914df985c73d",
+          "claim-db6857b2f0757276"
+        ],
+        "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4fe8d20f8fbde07f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-df5ded0886d2b113"
+        ],
+        "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7a5d6fb421e8eda4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-58190e0686fdeaba",
+          "claim-a469004e78a657c8"
+        ],
+        "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d3d90c4518a168a1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3512a8f6c08e23f4"
+        ],
+        "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6484d900d7993874",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-496c7db2e65c9e83"
+        ],
+        "draft_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ddb0c01cbc434dbb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a6b1b4be3ddf9ba2"
+        ],
+        "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-36b6369b55bee2ff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3512a8f6c08e23f4"
+        ],
+        "draft_excerpt": "2020年市场采购贸易方式出口额7.25亿美元，为2019年全年的3.5倍",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-304206cdff224777",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-496c7db2e65c9e83"
+        ],
+        "draft_excerpt": "重点项目入驻率74.8%，入驻人员400余人",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9a5bebf23678ca8e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a6b1b4be3ddf9ba2"
+        ],
+        "draft_excerpt": "新希望集团投入超100亿元，覆盖30多个共建“一带一路”国家",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c876d05a439b29ef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-817b50efd27b9b8a",
+          "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4d6f914df985c73d",
+          "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-db6857b2f0757276",
+          "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-df5ded0886d2b113",
+          "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-58190e0686fdeaba",
+          "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a469004e78a657c8",
+          "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3512a8f6c08e23f4",
+          "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-496c7db2e65c9e83",
+          "draft_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a6b1b4be3ddf9ba2",
+          "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-817b50efd27b9b8a",
+            "claim-4d6f914df985c73d",
+            "claim-db6857b2f0757276",
+            "claim-df5ded0886d2b113",
+            "claim-58190e0686fdeaba"
+          ],
+          "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动、加强国际传播体系建设及借力国家海外平台，推动文创企业和品牌走出去。",
+          "finding": "supported",
+          "sentence_id": "sentence-4473b696b0acda71",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-817b50efd27b9b8a",
+            "claim-4d6f914df985c73d",
+            "claim-db6857b2f0757276"
+          ],
+          "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+          "finding": "supported",
+          "sentence_id": "sentence-4fe8d20f8fbde07f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-df5ded0886d2b113"
+          ],
+          "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+          "finding": "supported",
+          "sentence_id": "sentence-7a5d6fb421e8eda4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-58190e0686fdeaba",
+            "claim-a469004e78a657c8"
+          ],
+          "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-d3d90c4518a168a1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3512a8f6c08e23f4"
+          ],
+          "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+          "finding": "supported",
+          "sentence_id": "sentence-6484d900d7993874",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-496c7db2e65c9e83"
+          ],
+          "draft_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+          "finding": "supported",
+          "sentence_id": "sentence-ddb0c01cbc434dbb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a6b1b4be3ddf9ba2"
+          ],
+          "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+          "finding": "supported",
+          "sentence_id": "sentence-36b6369b55bee2ff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3512a8f6c08e23f4"
+          ],
+          "draft_excerpt": "2020年市场采购贸易方式出口额7.25亿美元，为2019年全年的3.5倍",
+          "finding": "supported",
+          "sentence_id": "sentence-304206cdff224777",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-496c7db2e65c9e83"
+          ],
+          "draft_excerpt": "重点项目入驻率74.8%，入驻人员400余人",
+          "finding": "supported",
+          "sentence_id": "sentence-9a5bebf23678ca8e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a6b1b4be3ddf9ba2"
+          ],
+          "draft_excerpt": "新希望集团投入超100亿元，覆盖30多个共建“一带一路”国家",
+          "finding": "supported",
+          "sentence_id": "sentence-c876d05a439b29ef",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "45779331d0738c95f12dd6b2622add88e14ec8517c86e37f307e3bccf9dc60a0",
+  "coverage_history": [
+    {
+      "draft_sha256": "17fac1b1630a31dc1ad1955781f5cd4b3ce5ad9d8034a01a8014b5ca7d61d9a7",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-817b50efd27b9b8a",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d6f914df985c73d",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-db6857b2f0757276",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-df5ded0886d2b113",
+            "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-58190e0686fdeaba",
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a469004e78a657c8",
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3512a8f6c08e23f4",
+            "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-496c7db2e65c9e83",
+            "draft_excerpt": "在平台载体方面，已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a6b1b4be3ddf9ba2",
+            "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区，体现了本地企业在国际舞台上的深度参与。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动及借力国家海外平台，推动天府文化走出去与文创企业国际化。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5086bc96a381415d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-817b50efd27b9b8a",
+              "claim-4d6f914df985c73d",
+              "claim-db6857b2f0757276"
+            ],
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4fe8d20f8fbde07f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-df5ded0886d2b113"
+            ],
+            "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a5d6fb421e8eda4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-58190e0686fdeaba",
+              "claim-a469004e78a657c8"
+            ],
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3d90c4518a168a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都的国际营销工程在贸易与机构入驻方面取得了显著成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-06b072b24eccbc22",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3512a8f6c08e23f4"
+            ],
+            "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e88fe4db47e8226d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-496c7db2e65c9e83"
+            ],
+            "draft_excerpt": "在平台载体方面，已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9df02625935a3246",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6b1b4be3ddf9ba2"
+            ],
+            "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区，体现了本地企业在国际舞台上的深度参与。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-75a9e8eb843914a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3512a8f6c08e23f4"
+            ],
+            "draft_excerpt": "2020年市场采购贸易方式出口额7.25亿美元，为2019年全年的3.5倍",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02ebe9df8139c493",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-496c7db2e65c9e83"
+            ],
+            "draft_excerpt": "重点项目入驻率74.8%，入驻人员400余人",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f66ee4298ff0f302",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6b1b4be3ddf9ba2"
+            ],
+            "draft_excerpt": "新希望集团投入超100亿元，覆盖30多个共建“一带一路”国家",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cbce870671f499f2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动及借力国家海外平台，推动天府文化走出去与文创企业国际化。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都的国际营销工程在贸易与机构入驻方面取得了显著成效。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "67b405bd90ea466d7d08145d3ea6a3d80198a7ebcafefbf808b5fd6a9fb258ea",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-817b50efd27b9b8a",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "draft_excerpt matches evidence for claim-817b50efd27b9b8a, claim-4d6f914df985c73d, claim-db6857b2f0757276",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d6f914df985c73d",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "draft_excerpt matches evidence for claim-817b50efd27b9b8a, claim-4d6f914df985c73d, claim-db6857b2f0757276",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-db6857b2f0757276",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "draft_excerpt matches evidence for claim-817b50efd27b9b8a, claim-4d6f914df985c73d, claim-db6857b2f0757276",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-df5ded0886d2b113",
+            "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+            "finding": "draft_excerpt matches evidence for claim-df5ded0886d2b113",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-58190e0686fdeaba",
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "draft_excerpt matches evidence for claim-58190e0686fdeaba, claim-a469004e78a657c8",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a469004e78a657c8",
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "draft_excerpt matches evidence for claim-58190e0686fdeaba, claim-a469004e78a657c8",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3512a8f6c08e23f4",
+            "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+            "finding": "draft_excerpt matches evidence for claim-3512a8f6c08e23f4",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-496c7db2e65c9e83",
+            "draft_excerpt": "在平台载体方面，已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+            "finding": "draft_excerpt matches evidence for claim-496c7db2e65c9e83",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a6b1b4be3ddf9ba2",
+            "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区，体现了本地企业在国际舞台上的深度参与。",
+            "finding": "draft_excerpt matches evidence for claim-a6b1b4be3ddf9ba2",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动、加强国际传播体系建设及借力国家海外平台，推动文创企业和品牌走出去，并在贸易出口与平台入驻方面取得显著成效。",
+            "finding": "Summary sentence contains unsupported generalizations about 'significant achievements' in trade/platforms not explicitly stated as a single fact in the contract",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a8e5a74e01f3c49",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-817b50efd27b9b8a",
+              "claim-4d6f914df985c73d",
+              "claim-db6857b2f0757276"
+            ],
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "Sentence covers claim-817b50efd27b9b8a, claim-4d6f914df985c73d, claim-db6857b2f0757276",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4fe8d20f8fbde07f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-df5ded0886d2b113"
+            ],
+            "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+            "finding": "Sentence covers claim-df5ded0886d2b113",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a5d6fb421e8eda4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-58190e0686fdeaba",
+              "claim-a469004e78a657c8"
+            ],
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "Sentence covers claim-58190e0686fdeaba, claim-a469004e78a657c8",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3d90c4518a168a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都的国际营销工程在贸易与机构入驻方面取得了显著成效。",
+            "finding": "Unsupported claim: 'significant achievements' is a judgment not explicitly in contract",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-06b072b24eccbc22",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3512a8f6c08e23f4"
+            ],
+            "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+            "finding": "Sentence covers claim-3512a8f6c08e23f4",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e88fe4db47e8226d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-496c7db2e65c9e83"
+            ],
+            "draft_excerpt": "在平台载体方面，已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+            "finding": "Sentence covers claim-496c7db2e65c9e83",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9df02625935a3246",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6b1b4be3ddf9ba2"
+            ],
+            "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区，体现了本地企业在国际舞台上的深度参与。",
+            "finding": "Sentence covers claim-a6b1b4be3ddf9ba2",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-75a9e8eb843914a4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3512a8f6c08e23f4"
+            ],
+            "draft_excerpt": "2020年市场采购贸易方式出口额7.25亿美元，为2019年全年的3.5倍",
+            "finding": "Sentence covers claim-3512a8f6c08e23f4",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02ebe9df8139c493",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-496c7db2e65c9e83"
+            ],
+            "draft_excerpt": "重点项目入驻率74.8%，入驻人员400余人",
+            "finding": "Sentence covers claim-496c7db2e65c9e83",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f66ee4298ff0f302",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6b1b4be3ddf9ba2"
+            ],
+            "draft_excerpt": "新希望集团投入超100亿元，覆盖30多个共建“一带一路”国家",
+            "finding": "Sentence covers claim-a6b1b4be3ddf9ba2",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cbce870671f499f2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动、加强国际传播体系建设及借力国家海外平台，推动文创企业和品牌走出去，并在贸易出口与平台入驻方面取得显著成效。",
+            "finding": "Unsupported: 'significant achievements' in trade/platforms"
+          },
+          {
+            "draft_excerpt": "成都的国际营销工程在贸易与机构入驻方面取得了显著成效。",
+            "finding": "Unsupported: 'significant achievements' in trade/platforms"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "45779331d0738c95f12dd6b2622add88e14ec8517c86e37f307e3bccf9dc60a0",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-817b50efd27b9b8a",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d6f914df985c73d",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-db6857b2f0757276",
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-df5ded0886d2b113",
+            "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-58190e0686fdeaba",
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a469004e78a657c8",
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3512a8f6c08e23f4",
+            "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-496c7db2e65c9e83",
+            "draft_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a6b1b4be3ddf9ba2",
+            "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-817b50efd27b9b8a",
+              "claim-4d6f914df985c73d",
+              "claim-db6857b2f0757276",
+              "claim-df5ded0886d2b113",
+              "claim-58190e0686fdeaba"
+            ],
+            "draft_excerpt": "成都通过加速重大文化设施建设、举办高水平文创品牌活动、加强国际传播体系建设及借力国家海外平台，推动文创企业和品牌走出去。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4473b696b0acda71",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-817b50efd27b9b8a",
+              "claim-4d6f914df985c73d",
+              "claim-db6857b2f0757276"
+            ],
+            "draft_excerpt": "成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4fe8d20f8fbde07f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-df5ded0886d2b113"
+            ],
+            "draft_excerpt": "在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a5d6fb421e8eda4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-58190e0686fdeaba",
+              "claim-a469004e78a657c8"
+            ],
+            "draft_excerpt": "同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3d90c4518a168a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3512a8f6c08e23f4"
+            ],
+            "draft_excerpt": "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6484d900d7993874",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-496c7db2e65c9e83"
+            ],
+            "draft_excerpt": "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ddb0c01cbc434dbb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6b1b4be3ddf9ba2"
+            ],
+            "draft_excerpt": "此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36b6369b55bee2ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3512a8f6c08e23f4"
+            ],
+            "draft_excerpt": "2020年市场采购贸易方式出口额7.25亿美元，为2019年全年的3.5倍",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-304206cdff224777",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-496c7db2e65c9e83"
+            ],
+            "draft_excerpt": "重点项目入驻率74.8%，入驻人员400余人",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a5bebf23678ca8e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a6b1b4be3ddf9ba2"
+            ],
+            "draft_excerpt": "新希望集团投入超100亿元，覆盖30多个共建“一带一路”国家",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c876d05a439b29ef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都正通过加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，以及高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，以进一步提升世界文创名城的美誉度和影响力。\n\n在对外交流方面，成都充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。同时，加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作。\n\n## 证据与影响\n\n2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率74.8%。此外，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区。\n\n- 2020年市场采购贸易方式出口额7.25亿美元，为2019年全年的3.5倍\n- 重点项目入驻率74.8%，入驻人员400余人\n- 新希望集团投入超100亿元，覆盖30多个共建“一带一路”国家",
+    "description": "成都通过加速重大文化设施建设、举办高水平文创品牌活动、加强国际传播体系建设及借力国家海外平台，推动文创企业和品牌走出去。",
+    "ref": {
+      "asset_hints": [
+        "image-091",
+        "image-092",
+        "image-093"
+      ],
+      "concept_id": "topic-a176bcc660fd",
+      "description": "通过加速推进天府艺术公园、金融城艺术中心等重大文化设施建设，高水平举办“PANDA成都走世界”等文创品牌活动，并借力海外中国馆、国家层面对外文化交流平台及“感知中国”等品牌，推动天府文化走出去与文创企业国际化。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目",
+        "高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动",
+        "大力发展现代时尚、传媒影视、动漫游戏等文化产业，进一步提升世界文创名城的美誉度和影响力",
+        "2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍",
+        "已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率 \\(74.8\\%",
+        "目前，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地区",
+        "充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去",
+        "加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地",
+        "鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作"
+      ],
+      "evidence_block_ids": [
+        "blk-b484488b7dfb9cc964ec",
+        "blk-a9fe4cb1c3b877307f64",
+        "blk-834133dd4b695bfd1bbc",
+        "blk-1ac9df1e4f5e4ae2b1e3",
+        "blk-c64d468ac6bf83579102",
+        "blk-073ecee89f694247307d"
+      ],
+      "page_end": 171,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都国际文化交流与全球营销工程",
+      "type": "国际比较"
+    },
+    "title": "成都国际文化交流与全球营销工程"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1aaa0a317cfb:bundle-40fd9ef48d6d",
+      "excluded_fragments": [],
+      "ref_id": "ref-1aaa0a317cfb",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-b484488b7dfb9cc964ec",
+          "page_number": 136,
+          "text": "加速推进天府艺术公园、天府文化中心、金融城艺术中心等重大文化设施项目，高水平举办“PANDA成都走世界”、世界文化名城论坛·天府论坛等重大文创品牌活动，大力发展现代时尚、传媒影视、动漫游戏等文化产业，进一步提升世界文创名城的美誉度和影响力。加快建成熊猫国际旅游度假区、中旅免税综合体等休闲度假首选地，全力塑造世界级旅游品牌，实施全球旅游营销、全域旅游拓展、智慧景区创建等专项行动，提高成都国际旅游目的地知名度和影响力。推进天府奥体公园规划建设，构建举办国际综合性赛事的场馆体系和运营体系，办好“2021年世界大学生运动会”“2022年世界乒乓球团体锦标赛”“2025年世界运动会”等大型赛事，培育发展具有国际影响力的体育消费，助力世界赛事名城建设。举办“成都熊"
+        },
+        {
+          "block_id": "blk-003d4759357643f79a39",
+          "page_number": 137,
+          "text": "猫国际美食荟”“成都国际美食旅游节”等品牌美食活动，加快培育国际知名的美食新品牌，开展成都国际美食之都媒体营销，着力推进国际美食之都建设。优化提升天府国际会议中心、西部国际博览城、世纪城新国际会展中心等场馆功能，积极承办或申办国家主场外交活动，办好世界园艺博览会、公园城市全球论坛、“一带一路”可持续城市联盟配套会议，持续打造国际会展之都。加快“一带一路”国际艺术中心、金沙演艺综合体等地标项目建设，推动城市音乐厅、露天音乐公园、成都音乐坊等运营，高标准举办中国音乐金钟奖、国际友城青年音乐周、街头艺术表演等音乐品牌活动，大力发展数字音乐和音乐演艺，强力推进国际音乐之都建设。"
+        },
+        {
+          "block_id": "blk-c19cbbdaa07fd8ec2324",
+          "page_number": 137,
+          "text": "加快推进“成都渥太华学校”“成都路易维尔小学”等教育项目；持续做优“留学成都”品牌，用好“一带一路”留学生政府奖学金，支持在蓉高校开展高水平中外合作办学；依托成都市“一带一路”教育协同创新研究中心平台，积极争取将成都职业技术学院、成都工业职业技术学院、成都工贸职业技术学院等在蓉高职院校纳入“长江一伏尔加河”高校联盟体系；依托“中外人文交流教育实验区”、国家开放大学华侨学院等机构，加强与“一带一路”国家民间教育交流，开展“一带一路”相关专题讲座等工作，不断提高成都教育领域对外开放程度。加强与各国驻蓉领馆的交流合作，扩大国际医疗合作面，推动项目落地落实；加大智力引进、对外交流、境外培训力度，持续开展与台湾的培训合作，引导外籍全科或专科医生到相关医疗机构执业，开展家庭医生服务，邀请国际知名专家、学者来成都讲学、手术示范、数字查房和业务指导，加速提升成都医疗领域国际交流合作水平。"
+        },
+        {
+          "block_id": "blk-e2153f0fc4727b7aaa79",
+          "page_number": 137,
+          "text": "实施“国际资源引入计划”，加快推进成都领馆区建设，积极促成相关国家在蓉设领，配合希腊等获批在蓉设领国家选址开馆，力争与更多“重量级”城市结好，争取成都加入更多有影响力的国际组织。主动对接承办国家层级外交事务，积极承办申办国际重要会议或活动，并以举办重大国际活动为契机，增强国际交往承载能力。持续开展领事官员“区县行”“产业行”活动；积极开展领事协商，支持成都联合驻蓉、驻渝领事机构开展经贸文化合作。紧扣“四向拓展”战略通道、重点产业发展需求，完善友城交流网络布局，不断更新完善成都友城产业地图和《面向国际友城的城市机会清单》，在友城交往中积极促成经贸合作项目。"
+        },
+        {
+          "block_id": "blk-96399f01c360429aac61",
+          "page_number": 138,
+          "text": "推进“繁荣活力、时尚高端、绿色低碳、友善包容、智能现代”的国际化社区建设，落实外籍人士“家在成都”工程，完成第三批“外籍人士社区服务中心”建设验收，构建具有国际水准的“15分钟社区生活服务圈”，着力营造国际化社区服务场景。依托社区服务中心等空间载体资源，围绕促进文化共融，定期或不定期举办汉语学习、中国传统文化体验等主题交流活动，增强中外文化交流氛围，帮助外籍人士更好的融入成都，打造彰显成都特色的文化生活场景。聚焦外籍人士消费需求和生活习惯，在外籍人士集聚区域加快布局具有中国特色的主题餐饮、文娱休闲等业态，引入具有外籍人士本土特色的主题餐厅、咖啡厅、音乐厅、酒吧等业态，精准构建充分满足外籍人士消费需求的国际消费场景。"
+        },
+        {
+          "block_id": "blk-93c160150a6a3790004e",
+          "page_number": 141,
+          "text": "2018年9月28日，国家商务部等七部委批复成都国际商贸城为全国第四批市场采购贸易方式试点，成都由此成为中国西部第一个获批试点城市。获批以来，试点深度融入“一带一路”建设，主动顺应四川省“四向拓展，全域开放”新态势，坚决打造“买全球卖全球、买全川卖全球、买全球卖全川”线上线下互动的商业贸易中心模式，利用试点政策优势条件，引领融入全球市场，积极构建开放型经济新高地，加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局。"
+        },
+        {
+          "block_id": "blk-7377e9e9927c6cb0ca64",
+          "page_number": 141,
+          "text": "原始 PDF 第 141 页图片"
+        },
+        {
+          "block_id": "blk-e400767264fb85fb66f6",
+          "page_number": 141,
+          "text": "图3-1 成都国际商贸城"
+        },
+        {
+          "block_id": "blk-a9fe4cb1c3b877307f64",
+          "page_number": 141,
+          "text": "出口产品量质齐升。2020年全年完成市场采购贸易方式出口12648单，出口额7.25亿美元，是2019年全年出口额的3.5倍。出口商品种类主要为日用百货、机械类制品及附件、塑料橡胶类制品、家纺类织物等十三大类产品，推动四川优势特色产品加速便捷出海。出口目的国达44个，比2019年新增22个，主要为“一带一路”沿"
+        },
+        {
+          "block_id": "blk-f1fe56afacf1d4d835c7",
+          "page_number": 142,
+          "text": "线国家，出口货值排名前三为波兰（占比 \\(56\\%\\) ）、白俄罗斯（占比 \\(22\\%\\) ）、匈牙利（占比 \\(13\\%\\) ）。商品运输主要依靠中欧班列，占比高达 \\(98.8\\%\\) ，货值达49.5亿元。"
+        },
+        {
+          "block_id": "blk-571b037627e185fb2777",
+          "page_number": 142,
+          "text": "市场主体加速集聚。2020年新增个体工商户备案467家，新增成都蓉速时代贸易有限公司、成都沁谢进出口贸易有限公司等外贸公司21家，共有23家外贸公司通过市场采购贸易方式出口，9家公司出口货值超1亿元人民币。以成渝地区双城经济圈建设为契机引入重庆安捷国际运输代理有限公司、易速通国际贸易有限责任公司为代表的重庆外贸综合服务企业，市场采购贸易主体队伍不断扩大。"
+        },
+        {
+          "block_id": "blk-121d14fdda881de138b5",
+          "page_number": 142,
+          "text": "联动模式创新发展。创新推动新业态融合发展，聚焦疫情期间商品“出口难”问题，开行2趟“市场采购+跨境电商”融合发展定制专列，推动“市场采购+跨境电商”航空口岸首次出口，充分发挥海外仓提前备货功能。立足市场采购贸易企业融资需求，创新搭建“市场采购+专项贷款”服务平台，实现首笔市场采购贷款400万元落地，有力缓解企业资金困难。搭建“市场采购+高等院校”服务平台，依托西南财经大学等高校组建“中国西部市场采购贸易方式试点研究院”，为市场采购创新发展提供智力支持，促进“校院企地”多方共建共享。"
+        },
+        {
+          "block_id": "blk-6b5c8f57ac4421e87a87",
+          "page_number": 142,
+          "text": "综合服务形成合力。2020年，完善市场采购公共服务平台功能，实现“一次申报、一次查验、一次放行”；联合多部门多次开展业务培训、走访调研，为企业提供监管、查验、业务流程及拓展等培训；召开“稳外贸、促发展”企业座谈会4场，宣传市场采购贸易专项政策，及时解决企业订仓难、新政了解不透彻等问题；扎实做好商品备案、主体备案、外汇管理、舱位预定等工作，保障企业出口需求，促进市场采购贸易健康有序。新冠肺炎疫情爆发后，充分发挥新业态海外资源广的特点，凝聚市采企业力量，发布紧缺物资需求信息，相关企业捐赠口罩2.5万个、防护服200套、红外线测温仪130个。"
+        },
+        {
+          "block_id": "blk-70a8471cde8ffd1fda14",
+          "page_number": 143,
+          "text": "2017年5月10日，中国一欧洲中心在成都高新区Icon·云端正式启动，致力于打造中国西部与欧洲进行贸易、投资和技术合作的综合性服务平台，将建设成为“一带一路”对外开放的新旗舰、中国西部对外交往中心建设的新窗口、对欧全面合作的新平台。中国一欧洲中心内设欧洲商品贸易展示交易中心、中欧技术交易中心等6大功能区，以及剧院、国际艺术展览、中欧企业家联合会等综合配套服务区。自启动建设以来，中国一欧洲中心加快衔接成都天府国际机场、蓉欧快线等交通枢纽，有效实现全球互联互通，推动中欧企业在资本、品牌经营、市场拓展、跨国技术转移交易、项目开发等方面开展全方位合作，为加快聚集欧洲商务、科技、教育、文化和艺术展览等资源提供了极大便利。"
+        },
+        {
+          "block_id": "blk-d8928b34401d1d3c3339",
+          "page_number": 143,
+          "text": "原始 PDF 第 143 页图片"
+        },
+        {
+          "block_id": "blk-6cd1e45583f2a1893829",
+          "page_number": 143,
+          "text": "图3-2 中国一欧洲中心"
+        },
+        {
+          "block_id": "blk-834133dd4b695bfd1bbc",
+          "page_number": 144,
+          "text": "企业机构持续集聚。截至目前，聚集联合国开发计划署可持续发展创新示范项目、联合国工业发展组织投资和技术促进办公室西部协同中心等机构和企业171家，已入驻重点项目36个（重点企业10个，国际机构12个，服务机构14个），现有人驻办公人员400余人，项目总体入驻率 \\(74.8\\%\\) ，已引进项目总投资20亿元。"
+        },
+        {
+          "block_id": "blk-3360ccbc6d256e43e155",
+          "page_number": 144,
+          "text": "国际服务能力加快提升。2020年，中国一欧洲中心深入推进UNDP、ITPO项目年度工作计划务实落地。启动筹备欧洲企业网（EEN）组织申报工作，助力区内中小企业快速融入全球网络，积极开拓海外市场。加快推动增量培育，研究出台《中国一欧洲中心项目入驻标准、流程》，促进法国优普集团中西部运营中心项目、蜂巢互联一博世智能制造创新中心等6个重大项目入驻。"
+        },
+        {
+          "block_id": "blk-c86cfbc7d3f2c8e3c0d0",
+          "page_number": 144,
+          "text": "交往交流高频开展。2020年，成功举办第十五届中国一欧盟投资贸易科技合作洽谈会。以“开启中欧数字贸易新局面，共创中欧协同创新新格局”为主题，重点营造“展、论、洽”三大场景，在为期两天的会期里举办了开幕式、中欧数字贸易机遇与挑战高峰论坛等7场活动，吸引100余位中外嘉宾、200余家企业及机构代表，以及100余家欧方企业线上共同参与，配对洽谈达1000余次。对欧开放合作走深走实、推动中国一欧洲中心作为欧洽会永久会址成为国家级平台、吸引更为广泛更具代表性的参会主体。"
+        },
+        {
+          "block_id": "blk-899d2ea559adf4e9a8ba",
+          "page_number": 145,
+          "text": "新希望集团于1982年在成都市新津区（原新津县），1999年首次走出国门，经过十余年的国际化布局，不仅投建了数量可观的海外工厂、建立起上游产业链，还在优势产业带拥有了牧场和优质种源，并通过发达国家先进的屠宰、加工技术提升了食品加工能力，同时也围绕高端动物蛋白进行布局，获取优质的农牧资源，打造全价值链，在海外的影响力进一步扩大①。"
+        },
+        {
+          "block_id": "blk-826d84c63491152e0314",
+          "page_number": 145,
+          "text": "原始 PDF 第 145 页图片"
+        },
+        {
+          "block_id": "blk-a595fbce292881b020c8",
+          "page_number": 145,
+          "text": "图3-3 新希望集团越南公司"
+        },
+        {
+          "block_id": "blk-1ac9df1e4f5e4ae2b1e3",
+          "page_number": 145,
+          "text": "积极融入“一带一路”建设。2019年第二届“一带一路”国际合作高峰论坛举行，新希望集团与越南清化省政府、平福省政府、平定省政府现场签署投资额为11.47亿元人民币的优质养殖项目合作协议，是四川省唯一一家企业签约项目。目前，新希望集团已投入超过100亿元，落子共建“一带一路”的30多个国家和地"
+        },
+        {
+          "block_id": "blk-c64d468ac6bf83579102",
+          "page_number": 146,
+          "text": "区，建立起以亚洲和非洲为中心，遍及欧洲、北美洲、大洋洲的产业布局，在海外投产、筹建、投资的公司超过50家。"
+        },
+        {
+          "block_id": "blk-e266a8ee3174fb6e5ddd",
+          "page_number": 146,
+          "text": "持续推进企业间国际合作。新希望集团已与福特斯克矿业集团（FMG）、澳新银行、Kilcoy、Moxey家族、Perich集团、VIMG集团、嘉吉、ADM、IFC、日本7-11、日本三井等国际知名企业形成了良好稳定的合作关系，通过运用其规模、品牌和资金优势，在全球寻求更为广泛的发展机遇，不断完善、强化产业链，并不断开拓新的业务领域。"
+        },
+        {
+          "block_id": "blk-0582080aaf1b56b04202",
+          "page_number": 147,
+          "text": "2017年4月1日，四川自贸试验区作为第三批国家批准设立的自由贸易试验区正式设立，交行四川省分行积极发力助推特殊区域建设，在自贸区挂牌当日成立成都自贸试验区支行，成为区内三家与自贸区同步成立的金融单位之一。交通银行不断以交行全牌照、国际化金融服务优势为依托，以跨境人民币结算和投融资产品积极支持“一带一路”沿线国家贸易和投资发展，为成都多家优质涉外企业持续提供本外币一体化的全方位综合服务。"
+        },
+        {
+          "block_id": "blk-3942edb227f9a6b229a9",
+          "page_number": 147,
+          "text": "积极对接企业跨境业务需求。2020年，获准开展国内信用证跨境资产转让业务试点，交行成都自贸区支行为四川自贸试验区内建筑工程企业、宜宾某抗疫物资生产企业办理约4460万元国内证福费廷跨境资产转卖。成都自贸区支行积极参与更高水平贸易投资便利化试点业务，利用便利化政策办理34笔非贸收付汇业务，涉及金额1923万元，大大缩短了企业业务办理流程，提高了企业资金使用效率。"
+        },
+        {
+          "block_id": "blk-2bee206cea967265a761",
+          "page_number": 147,
+          "text": "提供高效金融科技服务。充分发挥区块链国内信用证高效便捷的单证处理速度优势，持续为企业办理区块链国内信用证业务，有力支持相关企业复工复产。同时，通过便捷的网银服务，为客户提供线上开证申请渠道，在疫情防控的特殊背景下，实现无接触全线上办理业务，有效节约企业“脚底成本”。"
+        },
+        {
+          "block_id": "blk-098a4153b1ade43ce1a5",
+          "page_number": 147,
+          "text": "积极推进跨境人民币业务落地。2020，交行四川省分行首笔与霍尔果斯离岸人民币单元合作业务落地，率先在四川地区开立首个创新离岸人民币账户，成都自贸试验区某境外机构客户提供本外币、离在岸一体化跨境金融服务。利用四川自贸试验区内特色政策，交行自贸区内支行为企业办理外币NRA账户不落地结汇并完成将人民币款项向境内支付汇划，从而实现分行首笔外币NRA账户结汇业务的落地，自贸区内支行陆续营销3家企业在交行四川省分行开立NRA账户。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-76cdc67969b5:bundle-8a000332d18e",
+      "excluded_fragments": [],
+      "ref_id": "ref-76cdc67969b5",
+      "source_blocks": [
+        {
+          "block_id": "blk-073ecee89f694247307d",
+          "page_number": 171,
+          "text": "加快天府文化走出去步伐，讲好中国故事成都篇章，充分利用海外中国馆和中国文化中心等国家层面海外阵地平台，借力“感知中国”“部省对口合作计划”“欢乐春节”等大型对外文化交流品牌活动，推动文创企业和文创品牌走出去。持续强化与境内外主流媒体的沟通对接和交流合作，向全球推出一批具有广泛传播力和影响力的优秀传播作品。积极对接国际国内知名智库，为成都国际传播提供高端智库支持，增强成都全球营销能力。加强国际传播体系建设，建立城市国际传播研究中心和城市宣传海外基地，联合国内外媒体与高校开展国际传播人才培养，增强国际营销渠道能力和多语种交流能力。鼓励和支持市级媒体建立国际部，加大媒体间的国际交流合作，全面提升市级媒体的国际传播力。（牵头单位：市委宣传部；责任单位：市商务委、市投促委、市文广新局、市外事侨务办、市国资委）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-a176bcc660fd",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-1aaa0a317cfb",
+    "ref-76cdc67969b5"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

@@ -1,0 +1,904 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年期间，为深入推进监管治理，确立了哪些核心监管模式、具体技术手段及多方参与的社会治理体系？",
+    "claims": [
+      {
+        "claim": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的监管模式。",
+        "claim_id": "claim-f60f33ad0ed3916b",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "对成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区建立健全联合惩戒机制，以提高事中事后监管的针对性和有效性。",
+        "claim_id": "claim-ce6782b0fd2c8db3",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区健全‘双随机、一公开’监管体制，并加强与信用监管联动。",
+        "claim_id": "claim-e6cc28b3892105eb",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+        "claim_id": "claim-e22f2239dd6119ec",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+        "claim_id": "claim-0dba068b6e33cf25",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {
+          "actor": [
+            "企业",
+            "行业",
+            "社区",
+            "社会"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区推进综合监管。",
+        "claim_id": "claim-be60c72bac26d369",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "推进综合监管。",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区探索创新适合其建设的审慎监管方式，推动新经济、新业态等健康发展。",
+        "claim_id": "claim-7a6112d444d8407d",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {
+          "object": [
+            "新经济",
+            "新业态"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都自贸试验区监管治理工作的牵头单位是市工商局。",
+        "claim_id": "claim-d58db40c65f98843",
+        "evidence_block_ids": [
+          "blk-04918a47f558cc8f7a60"
+        ],
+        "evidence_excerpt": "（牵头单位：市工商局）",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          146
+        ],
+        "ref_id": "ref-afdb4f44182b",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f60f33ad0ed3916b",
+          "claim-ce6782b0fd2c8db3",
+          "claim-e6cc28b3892105eb",
+          "claim-e22f2239dd6119ec",
+          "claim-0dba068b6e33cf25",
+          "claim-be60c72bac26d369",
+          "claim-7a6112d444d8407d",
+          "claim-d58db40c65f98843"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+        "reason": "该Bundle包含回答中心问题所需的所有核心事实，包括监管模式、技术手段、治理体系及牵头单位，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-67016b863818",
+    "members": [
+      {
+        "contribution": "该证据直接提供了成都自贸试验区监管治理的核心框架，包括以信用和大数据为手段的监管模式、联合惩戒机制、‘双随机、一公开’体制、信息技术应用、多方参与的社会治理体系以及审慎监管方式，完整覆盖了分析框架所需的subject、core_judged",
+        "ref_id": "ref-afdb4f44182b",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-f60f33ad0ed3916b",
+        "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ce6782b0fd2c8db3",
+        "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e6cc28b3892105eb",
+        "draft_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e22f2239dd6119ec",
+        "draft_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0dba068b6e33cf25",
+        "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-be60c72bac26d369",
+        "draft_excerpt": "推进综合监管。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7a6112d444d8407d",
+        "draft_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d58db40c65f98843",
+        "draft_excerpt": "（牵头单位：市工商局）",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-f60f33ad0ed3916b",
+          "claim-ce6782b0fd2c8db3"
+        ],
+        "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的监管模式，健全联合惩戒机制，提高事中事后监管的针对性和有效性。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1c7a35d835289b06",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f60f33ad0ed3916b"
+        ],
+        "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cfa696385b147c7c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ce6782b0fd2c8db3"
+        ],
+        "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0c71e4799bb62d39",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e6cc28b3892105eb"
+        ],
+        "draft_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-15a004e20048021c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e22f2239dd6119ec"
+        ],
+        "draft_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ac6f3f853ebfbf1e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-be60c72bac26d369"
+        ],
+        "draft_excerpt": "推进综合监管。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-73f50db3ae9c531b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7a6112d444d8407d"
+        ],
+        "draft_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-509210141c4e7c3b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0dba068b6e33cf25"
+        ],
+        "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7cd464150108e781",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d58db40c65f98843"
+        ],
+        "draft_excerpt": "（牵头单位：市工商局）",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-176bb9b7f3ecde1c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f60f33ad0ed3916b",
+          "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ce6782b0fd2c8db3",
+          "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e6cc28b3892105eb",
+          "draft_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e22f2239dd6119ec",
+          "draft_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0dba068b6e33cf25",
+          "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-be60c72bac26d369",
+          "draft_excerpt": "推进综合监管。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7a6112d444d8407d",
+          "draft_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d58db40c65f98843",
+          "draft_excerpt": "（牵头单位：市工商局）",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-f60f33ad0ed3916b",
+            "claim-ce6782b0fd2c8db3"
+          ],
+          "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的监管模式，健全联合惩戒机制，提高事中事后监管的针对性和有效性。",
+          "finding": "supported",
+          "sentence_id": "sentence-1c7a35d835289b06",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f60f33ad0ed3916b"
+          ],
+          "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。",
+          "finding": "supported",
+          "sentence_id": "sentence-cfa696385b147c7c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ce6782b0fd2c8db3"
+          ],
+          "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+          "finding": "supported",
+          "sentence_id": "sentence-0c71e4799bb62d39",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e6cc28b3892105eb"
+          ],
+          "draft_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动。",
+          "finding": "supported",
+          "sentence_id": "sentence-15a004e20048021c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e22f2239dd6119ec"
+          ],
+          "draft_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+          "finding": "supported",
+          "sentence_id": "sentence-ac6f3f853ebfbf1e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-be60c72bac26d369"
+          ],
+          "draft_excerpt": "推进综合监管。",
+          "finding": "supported",
+          "sentence_id": "sentence-73f50db3ae9c531b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7a6112d444d8407d"
+          ],
+          "draft_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-509210141c4e7c3b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0dba068b6e33cf25"
+          ],
+          "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-7cd464150108e781",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d58db40c65f98843"
+          ],
+          "draft_excerpt": "（牵头单位：市工商局）",
+          "finding": "supported",
+          "sentence_id": "sentence-176bb9b7f3ecde1c",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "d264cfe6c6fe8942e0215e0f35e0cf815806a74fa86d2b91947820198acb1f35",
+  "coverage_history": [
+    {
+      "draft_sha256": "673ec2b27e7592815a4ea348fd796b5b65056668796cd8a7d5c8a895a9ef16dd",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f60f33ad0ed3916b",
+            "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的不断创新监管模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e6cc28b3892105eb",
+            "draft_excerpt": "通过健全“双随机、一公开”监管体制，并加强与信用监管的联动，形成协同监管合力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-be60c72bac26d369",
+            "draft_excerpt": "同时，推进综合监管，探索创新适合成都自贸试验区建设的审慎监管方式，以推动新经济、新业态等健康发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a6112d444d8407d",
+            "draft_excerpt": "同时，推进综合监管，探索创新适合成都自贸试验区建设的审慎监管方式，以推动新经济、新业态等健康发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e22f2239dd6119ec",
+            "draft_excerpt": "在技术支撑方面，综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce6782b0fd2c8db3",
+            "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性和有效性，确保监管措施落地见效。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dba068b6e33cf25",
+            "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d58db40c65f98843",
+            "draft_excerpt": "上述监管治理创新举措由市工商局牵头负责实施，确保各项改革措施在自贸试验区范围内得到有效执行和推进。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f60f33ad0ed3916b",
+              "claim-ce6782b0fd2c8db3",
+              "claim-e6cc28b3892105eb",
+              "claim-be60c72bac26d369",
+              "claim-0dba068b6e33cf25"
+            ],
+            "draft_excerpt": "该框架以信用监管为核心、大数据监管为手段，通过健全联合惩戒、双随机一公开及综合监管机制，构建多方参与的社会治理新体系，旨在提升事中事后监管的针对性与有效性。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb2f4cb160af0d4b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f60f33ad0ed3916b"
+            ],
+            "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的不断创新监管模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef055a0055c3234c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e6cc28b3892105eb"
+            ],
+            "draft_excerpt": "通过健全“双随机、一公开”监管体制，并加强与信用监管的联动，形成协同监管合力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7d2ec408c278494a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-be60c72bac26d369",
+              "claim-7a6112d444d8407d"
+            ],
+            "draft_excerpt": "同时，推进综合监管，探索创新适合成都自贸试验区建设的审慎监管方式，以推动新经济、新业态等健康发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3750fda59aba6e2b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e22f2239dd6119ec"
+            ],
+            "draft_excerpt": "在技术支撑方面，综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7072a9c61990c077",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce6782b0fd2c8db3"
+            ],
+            "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性和有效性，确保监管措施落地见效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-13c073991e54c104",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dba068b6e33cf25"
+            ],
+            "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae1297e0462cd322",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "这一体系强调多元主体的协同共治，旨在通过社会力量的广泛参与，提升治理效能。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4735b11044d1557a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-d58db40c65f98843"
+            ],
+            "draft_excerpt": "上述监管治理创新举措由市工商局牵头负责实施，确保各项改革措施在自贸试验区范围内得到有效执行和推进。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3eb71437dfbb634f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dba068b6e33cf25"
+            ],
+            "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aa340365a79ad6fa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d58db40c65f98843"
+            ],
+            "draft_excerpt": "（牵头单位：市工商局）",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-75f7e16f1927f4f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "这一体系强调多元主体的协同共治，旨在通过社会力量的广泛参与，提升治理效能。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d264cfe6c6fe8942e0215e0f35e0cf815806a74fa86d2b91947820198acb1f35",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-f60f33ad0ed3916b",
+            "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ce6782b0fd2c8db3",
+            "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e6cc28b3892105eb",
+            "draft_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e22f2239dd6119ec",
+            "draft_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0dba068b6e33cf25",
+            "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-be60c72bac26d369",
+            "draft_excerpt": "推进综合监管。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7a6112d444d8407d",
+            "draft_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d58db40c65f98843",
+            "draft_excerpt": "（牵头单位：市工商局）",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f60f33ad0ed3916b",
+              "claim-ce6782b0fd2c8db3"
+            ],
+            "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的监管模式，健全联合惩戒机制，提高事中事后监管的针对性和有效性。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1c7a35d835289b06",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f60f33ad0ed3916b"
+            ],
+            "draft_excerpt": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfa696385b147c7c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ce6782b0fd2c8db3"
+            ],
+            "draft_excerpt": "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c71e4799bb62d39",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e6cc28b3892105eb"
+            ],
+            "draft_excerpt": "健全“双随机、一公开”监管体制，加强与信用监管联动。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15a004e20048021c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e22f2239dd6119ec"
+            ],
+            "draft_excerpt": "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac6f3f853ebfbf1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-be60c72bac26d369"
+            ],
+            "draft_excerpt": "推进综合监管。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73f50db3ae9c531b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7a6112d444d8407d"
+            ],
+            "draft_excerpt": "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-509210141c4e7c3b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0dba068b6e33cf25"
+            ],
+            "draft_excerpt": "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7cd464150108e781",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d58db40c65f98843"
+            ],
+            "draft_excerpt": "（牵头单位：市工商局）",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-176bb9b7f3ecde1c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式。建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。健全“双随机、一公开”监管体制，加强与信用监管联动。综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。推进综合监管。探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展。以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系。（牵头单位：市工商局）",
+    "description": "成都自贸试验区实施以信用监管为核心和以大数据监管为手段的监管模式，健全联合惩戒机制，提高事中事后监管的针对性和有效性。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-67016b863818",
+      "description": "加强社会信用信息数据库建设，建立健全社会信用体系建设，对成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式，建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "对成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式",
+        "建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。",
+        "健全“双随机、一公开”监管体制，加强与信用监管联动",
+        "综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。",
+        "以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系",
+        "推进综合监管。",
+        "探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展",
+        "（牵头单位：市工商局）"
+      ],
+      "evidence_block_ids": [
+        "blk-04918a47f558cc8f7a60"
+      ],
+      "page_end": 146,
+      "page_start": 146,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二）深入推进监管治理。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "深入推进监管治理。",
+      "type": "分析框架"
+    },
+    "title": "深入推进监管治理。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-afdb4f44182b:bundle-07c4131e7f8e",
+      "excluded_fragments": [],
+      "ref_id": "ref-afdb4f44182b",
+      "source_blocks": [
+        {
+          "block_id": "blk-04918a47f558cc8f7a60",
+          "page_number": 146,
+          "text": "加强社会信用信息数据库建设，建立健全社会信用体系建设，对成都自贸试验区实施以信用监管为核心和以大数据监管为手段，不断创新的监管模式，建立健全联合惩戒机制，切实提高事中事后监管的针对性、有效性。健全“双随机、一公开”监管体制，加强与信用监管联动，综合运用大数据、云计算、物联网等信息技术，强化线上线下一体化监管。以推进企业自主、行业自律、社区自治和社会监督为重点，建设多方参与的社会治理新体系，推进综合监管。探索创新适合成都自贸试验区建设的审慎监管方式，推动新经济、新业态等健康发展，促使市场包容有序、充满活力。（牵头单位：市工商局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-67016b863818",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-afdb4f44182b"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

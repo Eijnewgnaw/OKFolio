@@ -1,0 +1,1519 @@
+{
+  "contract": {
+    "canonical_question": "成渝地区双城经济圈经济流与交通流网络在三级子群数量、结构特征及形成机制上有何差异？",
+    "claims": [
+      {
+        "claim": "成渝地区经济流网络形成5个三级凝聚子群。",
+        "claim_id": "claim-4577347fa2925d4c",
+        "evidence_block_ids": [
+          "blk-c07eaf7e1c7e70977d7f"
+        ],
+        "evidence_excerpt": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          194
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区交通流网络形成8个三级凝聚子群。",
+        "claim_id": "claim-e858fa680874dcd9",
+        "evidence_block_ids": [
+          "blk-5bedd36e2a440a12d1a7"
+        ],
+        "evidence_excerpt": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          195
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经济流网络中，成都与重庆中心城区形成跨界子群，两地经济联系紧密。",
+        "claim_id": "claim-dfa13599d65ce178",
+        "evidence_block_ids": [
+          "blk-c07eaf7e1c7e70977d7f"
+        ],
+        "evidence_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密；",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          194
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经济流网络子群密度排序为：子群①>子群②>子群③>子群④>子群⑤。",
+        "claim_id": "claim-a8f43c8d7a8164e1",
+        "evidence_block_ids": [
+          "blk-c07eaf7e1c7e70977d7f"
+        ],
+        "evidence_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤（表4-3），这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          194
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "交通流网络中，成都和重庆中心城区所在子群联系密度最大，双核综合交通枢纽作用凸显。",
+        "claim_id": "claim-c5f02e164a013a2b",
+        "evidence_block_ids": [
+          "blk-5bedd36e2a440a12d1a7"
+        ],
+        "evidence_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥（表4-4），成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          195
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "交通流网络子群受交通道路建设影响，主要沿铁路干线形成。",
+        "claim_id": "claim-c3624dcc682df0dc",
+        "evidence_block_ids": [
+          "blk-3f8889cd9eaff83a45af"
+        ],
+        "evidence_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          197
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "cause",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "交通流网络三级子群数量较经济流多，且子群内节点数量较为均衡。",
+        "claim_id": "claim-631607ffeb014975",
+        "evidence_block_ids": [
+          "blk-889d482b915919c933f2"
+        ],
+        "evidence_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          196
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "经济流网络子群分布大致与成渝城市群规划提出的“三区”相吻合。",
+        "claim_id": "claim-18dd6c7c0307432d",
+        "evidence_block_ids": [
+          "blk-3f8889cd9eaff83a45af"
+        ],
+        "evidence_excerpt": "在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          197
+        ],
+        "ref_id": "ref-b5500523abf1",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-4577347fa2925d4c",
+          "claim-e858fa680874dcd9",
+          "claim-dfa13599d65ce178",
+          "claim-a8f43c8d7a8164e1",
+          "claim-c5f02e164a013a2b",
+          "claim-c3624dcc682df0dc",
+          "claim-631607ffeb014975",
+          "claim-18dd6c7c0307432d"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+        "reason": "该Bundle包含回答中心问题所需的所有核心事实，包括子群数量、结构分布、密度对比及成因分析。"
+      }
+    ],
+    "group_id": "topic-3122ca33c9f5",
+    "members": [
+      {
+        "contribution": "提供经济流与交通流网络三级子群数量、密度排序、核心城市及形成机制的对比事实，直接回答中心问题。",
+        "ref_id": "ref-b5500523abf1",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-4577347fa2925d4c",
+        "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e858fa680874dcd9",
+        "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dfa13599d65ce178",
+        "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a8f43c8d7a8164e1",
+        "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c5f02e164a013a2b",
+        "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c3624dcc682df0dc",
+        "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-631607ffeb014975",
+        "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-18dd6c7c0307432d",
+        "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-4577347fa2925d4c",
+          "claim-e858fa680874dcd9"
+        ],
+        "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-99340b2da221c60a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0ff255405609f76f",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-4577347fa2925d4c"
+        ],
+        "draft_excerpt": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6c3c3d7191b379ab",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dfa13599d65ce178"
+        ],
+        "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-66d6c429200c1974",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8f43c8d7a8164e1"
+        ],
+        "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dcde4dcc0f1d36e3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e858fa680874dcd9"
+        ],
+        "draft_excerpt": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-395eb835bf431137",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c5f02e164a013a2b"
+        ],
+        "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6521c1187337b332",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-631607ffeb014975"
+        ],
+        "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-45dece3f44d538ad",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-18dd6c7c0307432d"
+        ],
+        "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9c416309fd738966",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c3624dcc682df0dc"
+        ],
+        "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e5ceb6205743d398",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8f43c8d7a8164e1"
+        ],
+        "draft_excerpt": "经济流网络中成都、重庆中心城区所在子群①密度最大，渝东北地区的子群⑤联系较为松散。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-95a286e27c559d1d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c5f02e164a013a2b"
+        ],
+        "draft_excerpt": "交通流网络中成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bf4f406040bbb887",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+        "finding": "草稿句前半部分'多中心化更突出'在 Claim Contract 中无对应事实支持（合同仅提及子群数量、密度、分布及成因，未提及'多中心化'这一结构特征判断），故整句标为 unsupported。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9a02087a9246cb95",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+        "finding": "草稿句包含合同未支持的判断：'多中心化更突出'。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-4577347fa2925d4c",
+          "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e858fa680874dcd9",
+          "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dfa13599d65ce178",
+          "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a8f43c8d7a8164e1",
+          "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c5f02e164a013a2b",
+          "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c3624dcc682df0dc",
+          "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-631607ffeb014975",
+          "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-18dd6c7c0307432d",
+          "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-4577347fa2925d4c",
+            "claim-e858fa680874dcd9"
+          ],
+          "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+          "finding": "supported",
+          "sentence_id": "sentence-99340b2da221c60a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-0ff255405609f76f",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-4577347fa2925d4c"
+          ],
+          "draft_excerpt": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+          "finding": "supported",
+          "sentence_id": "sentence-6c3c3d7191b379ab",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dfa13599d65ce178"
+          ],
+          "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+          "finding": "supported",
+          "sentence_id": "sentence-66d6c429200c1974",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8f43c8d7a8164e1"
+          ],
+          "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+          "finding": "supported",
+          "sentence_id": "sentence-dcde4dcc0f1d36e3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e858fa680874dcd9"
+          ],
+          "draft_excerpt": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+          "finding": "supported",
+          "sentence_id": "sentence-395eb835bf431137",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c5f02e164a013a2b"
+          ],
+          "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+          "finding": "supported",
+          "sentence_id": "sentence-6521c1187337b332",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-631607ffeb014975"
+          ],
+          "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+          "finding": "supported",
+          "sentence_id": "sentence-45dece3f44d538ad",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-18dd6c7c0307432d"
+          ],
+          "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+          "finding": "supported",
+          "sentence_id": "sentence-9c416309fd738966",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c3624dcc682df0dc"
+          ],
+          "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+          "finding": "supported",
+          "sentence_id": "sentence-e5ceb6205743d398",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8f43c8d7a8164e1"
+          ],
+          "draft_excerpt": "经济流网络中成都、重庆中心城区所在子群①密度最大，渝东北地区的子群⑤联系较为松散。",
+          "finding": "supported",
+          "sentence_id": "sentence-95a286e27c559d1d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c5f02e164a013a2b"
+          ],
+          "draft_excerpt": "交通流网络中成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+          "finding": "supported",
+          "sentence_id": "sentence-bf4f406040bbb887",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-c3624dcc682df0dc",
+          "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+          "finding": "草稿句后半部分'受交通干线影响明显'与 claim-c3624dcc682df0dc '主要沿铁路干线形成'在事实层面一致（铁路属于交通干线），故标记为 covered。",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+          "finding": "草稿句前半部分'多中心化更突出'在 Claim Contract 中无对应事实支持（合同仅提及子群数量、密度、分布及成因，未提及'多中心化'这一结构特征判断），故整句标为 unsupported。",
+          "sentence_id": "sentence-9a02087a9246cb95",
+          "status": "unsupported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+          "finding": "草稿句包含合同未支持的判断：'多中心化更突出'。"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "a65a14d7ba5be5ad898bf02e74d33699b8ea869686d8f3805787fa56fe51e502",
+  "coverage_history": [
+    {
+      "draft_sha256": "ca2e00cae69cbdfc7a660f4f1165a741f49ecd3fc207f8083fc83fe8a6103e04",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-4577347fa2925d4c",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "草稿明确陈述经济流网络形成5个三级子群，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e858fa680874dcd9",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "草稿明确陈述交通流网络形成8个三级子群，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfa13599d65ce178",
+            "draft_excerpt": "三级子群中，子群①是以成都为中心，与重庆中心城区形成跨界子群；",
+            "finding": "草稿明确陈述子群①以成都为中心，与重庆中心城区形成跨界子群，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8f43c8d7a8164e1",
+            "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+            "finding": "草稿完整复述了密度排序及含义，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-631607ffeb014975",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "草稿通过陈述经济流5个、交通流8个，隐含了交通流网络三级子群数量较经济流多的事实，与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c5f02e164a013a2b",
+            "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显，而处于渝东北地区的开州、云阳、忠县构成的子群⑥密度最低。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-18dd6c7c0307432d",
+            "draft_excerpt": "另外，经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，大致形成川南子群、南遂广子群、达万开云子群和重庆主城新区子群，在一定程度上与成渝城市群规划提出的“三区”相吻合；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3624dcc682df0dc",
+            "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+            "finding": "草稿句逐字复述了claim-c3624dcc682df0dc的内容，包括‘受交通道路建设影响’和‘主要沿铁路干线形成’。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-4577347fa2925d4c",
+              "claim-e858fa680874dcd9",
+              "claim-631607ffeb014975"
+            ],
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "该句直接支持claim-4577347fa2925d4c、claim-e858fa680874dcd9，并通过数量对比支持claim-631607ffeb014975。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99340b2da221c60a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "该句包含“多中心化更突出”这一判断，Claim Contract中无对应claim支持此特定推断；“受交通干线影响明显”虽与claim-c3624dcc682df0dc相关，但前半部分为合同外事实/判断，故整体标为unsupported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ff255405609f76f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-4577347fa2925d4c"
+            ],
+            "draft_excerpt": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+            "finding": "该句直接支持claim-4577347fa2925d4c。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c3c3d7191b379ab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfa13599d65ce178"
+            ],
+            "draft_excerpt": "三级子群中，子群①是以成都为中心，与重庆中心城区形成跨界子群；",
+            "finding": "该句直接支持claim-dfa13599d65ce178。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f3bbbaebb364f58",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群②以泸州为中心构成川南-渝西子群；",
+            "finding": "该句提供了子群②的具体构成细节（泸州、川南-渝西），Claim Contract中无对应claim支持此具体细节，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-94100ffd7e749342",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群③以德阳为中心构成南遂广子群；",
+            "finding": "该句提供了子群③的具体构成细节（德阳、南遂广），Claim Contract中无对应claim支持此具体细节，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a1e2ebb5980959c7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群④以璧山为中心形成重庆主城新区子群，沿重庆中心城区呈环状分布；",
+            "finding": "该句提供了子群④的具体构成细节（璧山、重庆主城新区、环状分布），Claim Contract中无对应claim支持此具体细节，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c1d4461e9cd0ef8a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群⑤以万州为中心构成渝东北子群。",
+            "finding": "该句提供了子群⑤的具体构成细节（万州、渝东北），Claim Contract中无对应claim支持此具体细节，属于合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f03636fa9ccaec7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f43c8d7a8164e1"
+            ],
+            "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+            "finding": "该句直接支持claim-a8f43c8d7a8164e1。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3ba53fb2da829c57",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "从二级子群层面上来看，子群①和子群②同属于一个二级子群，说明由成都和重庆中心城区组成的子群①与主要由川南地区城市组成的子群②之间联系较为紧密；",
+            "finding": "该句涉及二级子群的结构及联系紧密程度的推断，Claim Contract中无对应claim支持此具体二级子群分析，属于合同外事实/判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e4aaf25ce4927b6c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群③与子群④共同构成一个二级子群，说明成渝两地相向发展，一定程度上带动成渝地区中部2个三级子群快速发展；",
+            "finding": "该句涉及二级子群结构及“带动快速发展”的因果推断，Claim Contract中无对应claim支持，属于合同外事实/判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2a9d59fd143e7096",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群⑤单独构成一个二级子群，这说明处于渝东南、渝东北地区的凝聚子群⑤与其他4个子群之间联系不强。",
+            "finding": "该句涉及二级子群结构及联系强度的推断，Claim Contract中无对应claim支持，属于合同外事实/判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6dcbf3ff327b8d7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-e858fa680874dcd9"
+            ],
+            "draft_excerpt": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a20bdc18a08cf825",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "三级子群中，子群①以成都为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ee28a297d202a94a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群②以绵阳为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-468a11dae228cf81",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群③以大足为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8da8ba63414afae",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群④以重庆中心城区为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-020b67565a4a2db1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群⑤以万州为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8815811109327ee7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群⑥以忠县为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f6288e4e3f0d6717",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群⑦以涪陵为中心；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c2b9873830da3b0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "子群⑧以綦江为中心。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-409e72cc749e7e6b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5f02e164a013a2b"
+            ],
+            "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显，而处于渝东北地区的开州、云阳、忠县构成的子群⑥密度最低。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-428412e1ce555877",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-631607ffeb014975"
+            ],
+            "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡，这说明交通流的时空压缩效应已经起作用，推动各要素在区域空间内的自由流动和融合，未来将引导成渝地区流空间网络朝多组团化方向发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-43e61ecb6d9b23b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-18dd6c7c0307432d"
+            ],
+            "draft_excerpt": "另外，经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，大致形成川南子群、南遂广子群、达万开云子群和重庆主城新区子群，在一定程度上与成渝城市群规划提出的“三区”相吻合；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-72d9767123eb5f69",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3624dcc682df0dc"
+            ],
+            "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+            "finding": "该句完全由claim-c3624dcc682df0dc支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2d5e7b2fff0ca1fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f43c8d7a8164e1"
+            ],
+            "draft_excerpt": "经济流网络中成都、重庆中心城区所在子群①密度最大，渝东北地区的子群⑤联系较为松散。",
+            "finding": "该句是对claim-a8f43c8d7a8164e1中关于子群①和子群⑤特征描述的概括，事实一致。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0418168dce35a6b4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5f02e164a013a2b"
+            ],
+            "draft_excerpt": "交通流网络中成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "该句完全由claim-c5f02e164a013a2b支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-92286c6ba3eafe89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "‘多中心化更突出’这一判断在Claim Contract的8个claims中均无直接对应证据。虽然claim-631607ffeb014975提到‘多组团化’，但未提及‘多中心化’；claim-c3624dcc682df0dc仅提及‘沿铁路干线形成’，未提及‘多中心化’。因此该句包含合同外判断。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ef7f9dd198305ac3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "草稿中“多中心化更突出”为合同外判断。"
+          },
+          {
+            "draft_excerpt": "子群②以泸州为中心构成川南-渝西子群；",
+            "finding": "草稿中子群②的具体构成细节为合同外事实。"
+          },
+          {
+            "draft_excerpt": "子群③以德阳为中心构成南遂广子群；",
+            "finding": "草稿中子群③的具体构成细节为合同外事实。"
+          },
+          {
+            "draft_excerpt": "子群④以璧山为中心形成重庆主城新区子群，沿重庆中心城区呈环状分布；",
+            "finding": "草稿中子群④的具体构成细节为合同外事实。"
+          },
+          {
+            "draft_excerpt": "子群⑤以万州为中心构成渝东北子群。",
+            "finding": "草稿中子群⑤的具体构成细节为合同外事实。"
+          },
+          {
+            "draft_excerpt": "从二级子群层面上来看，子群①和子群②同属于一个二级子群，说明由成都和重庆中心城区组成的子群①与主要由川南地区城市组成的子群②之间联系较为紧密；",
+            "finding": "草稿中二级子群结构及联系推断为合同外事实/判断。"
+          },
+          {
+            "draft_excerpt": "子群③与子群④共同构成一个二级子群，说明成渝两地相向发展，一定程度上带动成渝地区中部2个三级子群快速发展；",
+            "finding": "草稿中二级子群结构及因果推断为合同外事实/判断。"
+          },
+          {
+            "draft_excerpt": "子群⑤单独构成一个二级子群，这说明处于渝东南、渝东北地区的凝聚子群⑤与其他4个子群之间联系不强。",
+            "finding": "草稿中二级子群结构及联系推断为合同外事实/判断。"
+          },
+          {
+            "draft_excerpt": "三级子群中，子群①以成都为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群②以绵阳为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群③以大足为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群④以重庆中心城区为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群⑤以万州为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群⑥以忠县为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群⑦以涪陵为中心；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "子群⑧以綦江为中心。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "‘多中心化更突出’在Claim Contract中无对应claim支持。"
+          },
+          {
+            "draft_excerpt": "2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a65a14d7ba5be5ad898bf02e74d33699b8ea869686d8f3805787fa56fe51e502",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-4577347fa2925d4c",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e858fa680874dcd9",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfa13599d65ce178",
+            "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8f43c8d7a8164e1",
+            "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c5f02e164a013a2b",
+            "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3624dcc682df0dc",
+            "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-631607ffeb014975",
+            "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-18dd6c7c0307432d",
+            "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-4577347fa2925d4c",
+              "claim-e858fa680874dcd9"
+            ],
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99340b2da221c60a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ff255405609f76f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-4577347fa2925d4c"
+            ],
+            "draft_excerpt": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c3c3d7191b379ab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfa13599d65ce178"
+            ],
+            "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66d6c429200c1974",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f43c8d7a8164e1"
+            ],
+            "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dcde4dcc0f1d36e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e858fa680874dcd9"
+            ],
+            "draft_excerpt": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-395eb835bf431137",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5f02e164a013a2b"
+            ],
+            "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6521c1187337b332",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-631607ffeb014975"
+            ],
+            "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45dece3f44d538ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-18dd6c7c0307432d"
+            ],
+            "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c416309fd738966",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3624dcc682df0dc"
+            ],
+            "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5ceb6205743d398",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f43c8d7a8164e1"
+            ],
+            "draft_excerpt": "经济流网络中成都、重庆中心城区所在子群①密度最大，渝东北地区的子群⑤联系较为松散。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95a286e27c559d1d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5f02e164a013a2b"
+            ],
+            "draft_excerpt": "交通流网络中成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf4f406040bbb887",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "草稿句前半部分'多中心化更突出'在 Claim Contract 中无对应事实支持（合同仅提及子群数量、密度、分布及成因，未提及'多中心化'这一结构特征判断），故整句标为 unsupported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a02087a9246cb95",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "草稿句包含合同未支持的判断：'多中心化更突出'。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a65a14d7ba5be5ad898bf02e74d33699b8ea869686d8f3805787fa56fe51e502",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-4577347fa2925d4c",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e858fa680874dcd9",
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dfa13599d65ce178",
+            "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8f43c8d7a8164e1",
+            "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c5f02e164a013a2b",
+            "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c3624dcc682df0dc",
+            "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-631607ffeb014975",
+            "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-18dd6c7c0307432d",
+            "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-4577347fa2925d4c",
+              "claim-e858fa680874dcd9"
+            ],
+            "draft_excerpt": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-99340b2da221c60a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0ff255405609f76f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-4577347fa2925d4c"
+            ],
+            "draft_excerpt": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c3c3d7191b379ab",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dfa13599d65ce178"
+            ],
+            "draft_excerpt": "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66d6c429200c1974",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f43c8d7a8164e1"
+            ],
+            "draft_excerpt": "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dcde4dcc0f1d36e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e858fa680874dcd9"
+            ],
+            "draft_excerpt": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-395eb835bf431137",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5f02e164a013a2b"
+            ],
+            "draft_excerpt": "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6521c1187337b332",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-631607ffeb014975"
+            ],
+            "draft_excerpt": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-45dece3f44d538ad",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-18dd6c7c0307432d"
+            ],
+            "draft_excerpt": "经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c416309fd738966",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3624dcc682df0dc"
+            ],
+            "draft_excerpt": "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5ceb6205743d398",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8f43c8d7a8164e1"
+            ],
+            "draft_excerpt": "经济流网络中成都、重庆中心城区所在子群①密度最大，渝东北地区的子群⑤联系较为松散。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-95a286e27c559d1d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5f02e164a013a2b"
+            ],
+            "draft_excerpt": "交通流网络中成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf4f406040bbb887",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "草稿句前半部分'多中心化更突出'在 Claim Contract 中无对应事实支持（合同仅提及子群数量、密度、分布及成因，未提及'多中心化'这一结构特征判断），故整句标为 unsupported。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a02087a9246cb95",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "交通流网络多中心化更突出，且受交通干线影响明显。",
+            "finding": "草稿句包含合同未支持的判断：'多中心化更突出'。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密。各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤，这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。\n\n城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥，成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。\n\n通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡。经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合；而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。\n\n- 经济流网络中成都、重庆中心城区所在子群①密度最大，渝东北地区的子群⑤联系较为松散。\n- 交通流网络中成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显。\n- 交通流网络多中心化更突出，且受交通干线影响明显。",
+    "description": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；交通流网络多中心化更突出，且受交通干线影响明显。",
+    "ref": {
+      "asset_hints": [
+        "html-table-022",
+        "html-table-023",
+        "image-113",
+        "image-114"
+      ],
+      "concept_id": "topic-3122ca33c9f5",
+      "description": "经济流网络形成5个三级子群，交通流网络形成8个三级子群；交通流网络多中心化更突出，且受交通干线影响明显。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。",
+        "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。",
+        "子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密；",
+        "各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤（表4-3），这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。",
+        "各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥（表4-4），成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显",
+        "而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。",
+        "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡",
+        "在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合"
+      ],
+      "evidence_block_ids": [
+        "blk-c07eaf7e1c7e70977d7f",
+        "blk-5bedd36e2a440a12d1a7",
+        "blk-3f8889cd9eaff83a45af",
+        "blk-889d482b915919c933f2"
+      ],
+      "page_end": 197,
+      "page_start": 194,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成渝地区双城经济圈"
+      },
+      "section_path": [
+        "建言献策篇",
+        "成渝地区双城经济圈流空间网络特征",
+        "（1.西南大学经济管理学院；2.西南大学地理科学学院）",
+        "四、成渝地区流空间网络子群特征"
+      ],
+      "semantic_signature": {
+        "key_features": [
+          "子群数量差异",
+          "多中心化"
+        ],
+        "network_types": [
+          "经济流",
+          "交通流"
+        ],
+        "region": "成渝地区双城经济圈"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成渝地区流空间网络子群特征（经济流与交通流对比）",
+      "type": "分析框架"
+    },
+    "title": "成渝地区流空间网络子群特征（经济流与交通流对比）"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-b5500523abf1:bundle-ae92e77747e4",
+      "excluded_fragments": [],
+      "ref_id": "ref-b5500523abf1",
+      "source_blocks": [
+        {
+          "block_id": "blk-c07eaf7e1c7e70977d7f",
+          "page_number": 194,
+          "text": "城市经济流网络形成3个二级凝聚子群、5个三级凝聚子群。三级子群中（图4-3a），子群①是以成都为中心，与重庆中心城区形成跨界子群，说明成都、重庆中心城区两地间经济联系较为紧密；子群②是以泸州为中心，包括川南的自贡、乐山、内江、宜宾、雅安以及渝西的永川构成川南-渝西子群；子群③以德阳为中心，与绵阳、眉山、资阳、遂宁、南充、广安、大足、合川、江津构成南遂广子群；子群④是以璧山为中心，潼南、铜梁、荣昌、长寿、涪陵、南川、綦江等形成的重庆主城新区子群，沿重庆中心城区呈环状分布；子群⑤是以万州为中心，由渝东北的万州、开州、梁平、丰都、垫江、忠县、云阳等构成的渝东北子群。各子群密度大小依次为子群①>子群②>子群③>子群④>子群⑤（表4-3），这表明成都、重庆中心城区间的经济联系较紧密，子群②、子群③次之，处于渝东北地区的子群⑤其城市内部联系较为松散。从二级子群层面上来看，子群①和子群②同属于一个二级子群，说明由成都和重庆中心城区组成的子群①与主要由川南地区城市组成的子群②之间联系较为紧密；子群③与子群④共同构成一个二级子群，说明成渝两地相向发展，一定程度上带动成渝地区中部2个三级子群快速发展，经济交流合作加强；子群⑤单独构成一个二级子群，这说明处于渝东南、渝东北地区的凝聚子群⑤与其他4个子群之间联系不强。"
+        },
+        {
+          "block_id": "blk-5bedd36e2a440a12d1a7",
+          "page_number": 195,
+          "text": "城市交通流网络有4个二级凝聚子群、8个三级凝聚子群。三级子群中（图4-3b），子群①是以成都为中心，包括遂宁、南充；子群②是以绵阳为中心，包括德阳、眉山、泸州、自贡、内江、乐山、眉山、宜宾、雅安；子群③是以大足为中心，包括资阳、璧山、铜梁、江津；子群④是以重庆中心城区为中心，包括荣昌、永川；子群⑤是以万州为中心，包括达州、广安、梁平、垫江；子群⑥是以忠县为中心，包括开州和云阳；子群⑦是以涪陵为中心，包括长寿、丰都、潼南、合川、黔江；子群⑧则是以綦江为中心，与南川构成体量较小的一个子群。各子群密度大小依次为子群①=子群④>子群⑦>子群⑤>子群②>子群③=群⑧>子群⑥（表4-4），成都、重庆中心城区所在子群①和④联系密度最大，“双核”综合交通枢纽作用凸显，而处于渝东北地区的开州、云阳、忠县构成的子群⑥密度最低，这是因为云阳、"
+        },
+        {
+          "block_id": "blk-f71a44729c53cfaf0b34",
+          "page_number": 196,
+          "text": "忠县的铁路交通建设尚未完善，子群内铁路交通联系不紧密。从二级子群层面来看，子群①和子群②同属于一个二级子群，说明以成都为核心的子群①与其周边城市组成的子群②之间的联系较为密切；同样，以重庆中心城区为核心的子群④与子群③联系也最为密切，这两个二级子群的形成主要得益于成都、重庆中心城区与其周边城市间的综合交通基础设施完善，提高了与其邻近城市间的交通联系度；子群⑤和子群⑥构成一个二级子群，两个子群间有渝西铁路、达万铁路、渝万铁路等铁路干线连接，表明川东北与渝东北的交通联系正在改善。因地理位置邻近以及高速公路连接，子群⑦和子群⑧属于同一个二级子群。"
+        },
+        {
+          "block_id": "blk-889d482b915919c933f2",
+          "page_number": 196,
+          "text": "通过对比两种城市流空间网络的凝聚子群特征可以发现，交通流网络的三级子群数量较经济流多，且交通流网络中的子群内节点数量较为均衡，这说明交通流的时空压缩效应已经起作用，推动各要素在区域空间内的自由流动和融合，未来将引导成渝地区流空间网络朝多组团化方向发展。另外，经济流和交通流网络的凝聚子群内城市分布均表现出地理邻近效应，经济流网络中的5个三级子群分布呈片状，"
+        },
+        {
+          "block_id": "blk-3f8889cd9eaff83a45af",
+          "page_number": 197,
+          "text": "除成都-重庆中心城区子群外，大致形成川南子群（子群②）、南遂广子群（子群③）、达万开云子群（子群⑤）和重庆主城新区子群（子群④），在一定程度上与成渝城市群规划提出的“三区”（川南、南遂广、达万城镇密集区）相吻合，而交通流网络中的凝聚子群则受交通道路建设影响，主要沿铁路干线形成子群。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-3122ca33c9f5",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-b5500523abf1"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

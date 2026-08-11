@@ -1,0 +1,3131 @@
+{
+  "contract": {
+    "canonical_question": "2016年至2018年成都经济社会发展呈现怎样的总体态势，核心经济指标（GDP、投资、消费、收入）及产业结构（工业、服务业、农业）的具体表现如何？",
+    "claims": [
+      {
+        "claim": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%。",
+        "claim_id": "claim-e9b5037704e8710e",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%。",
+        "claim_id": "claim-92cc5af6dad7c7f8",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年，成都完成固定资产投资9404.2亿元，同比增长12.3%。",
+        "claim_id": "claim-233f171dba73909d",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，成都完成固定资产投资8340亿元，同比增长10%。",
+        "claim_id": "claim-f7dad0e3ad12c909",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年，成都社会消费品零售总额6403.5亿元，增长11.5%。",
+        "claim_id": "claim-039ad9831200a0d7",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%\\) ；社会消费品零售总额6403.5亿元，增长 \\(11.5\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，成都社会消费品零售总额6801.8亿元，增长10%。",
+        "claim_id": "claim-02ce0572b5316b8b",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%\\) ；社会消费品零售总额6801.8亿元，增长 \\(10\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年，成都城镇居民人均可支配收入38918元，增长8.4%；农村居民人均可支配收入20298元，增长9.1%。",
+        "claim_id": "claim-d7eb6de331649c31",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%\\) ；社会消费品零售总额6403.5亿元，增长 \\(11.5\\%\\) ；城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长 \\(8.4\\%\\) 和 \\(9.1\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，成都城镇居民人均可支配收入42128元，增长8.2%；农村居民人均可支配收入22135元，增长9.0%。",
+        "claim_id": "claim-00239603667d082a",
+        "evidence_block_ids": [
+          "blk-f0756753d84868074518"
+        ],
+        "evidence_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%\\) ；社会消费品零售总额6801.8亿元，增长 \\(10\\%\\) ；城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长 \\(8.2\\%\\) 和 \\(9.0\\%",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          7
+        ],
+        "ref_id": "ref-533c1f60c1ec",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年，成都实现地区生产总值12170.2亿元，同比增长7.7%。",
+        "claim_id": "claim-74bdf653eb5a3246",
+        "evidence_block_ids": [
+          "blk-3e7e2fdeabe64bb4d34b"
+        ],
+        "evidence_excerpt": "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%",
+        "evidence_id": "ref-83be4b1d3c3a:bundle-702102b81314",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          10
+        ],
+        "ref_id": "ref-83be4b1d3c3a",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年，成都完成固定资产投资8370.5亿元，同比增长14.3%。",
+        "claim_id": "claim-134db4c071da4d61",
+        "evidence_block_ids": [
+          "blk-3e7e2fdeabe64bb4d34b"
+        ],
+        "evidence_excerpt": "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%",
+        "evidence_id": "ref-83be4b1d3c3a:bundle-702102b81314",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          10
+        ],
+        "ref_id": "ref-83be4b1d3c3a",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年，成都社会消费品零售总额5742.4亿元，增长10.4%。",
+        "claim_id": "claim-480c8466d991fed5",
+        "evidence_block_ids": [
+          "blk-3e7e2fdeabe64bb4d34b"
+        ],
+        "evidence_excerpt": "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%\\) ；社会消费品零售总额5742.4亿元，增长 \\(10.4\\%",
+        "evidence_id": "ref-83be4b1d3c3a:bundle-702102b81314",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          10
+        ],
+        "ref_id": "ref-83be4b1d3c3a",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年，成都城镇居民人均可支配收入35902元，增长8.1%；农村居民人均可支配收入18605元，增长9.4%。",
+        "claim_id": "claim-7496d1cbe5af3bef",
+        "evidence_block_ids": [
+          "blk-3e7e2fdeabe64bb4d34b"
+        ],
+        "evidence_excerpt": "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%\\) ；社会消费品零售总额5742.4亿元，增长 \\(10.4\\%\\) ；城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长 \\(8.1\\%\\) 和 \\(9.4\\%",
+        "evidence_id": "ref-83be4b1d3c3a:bundle-702102b81314",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          10
+        ],
+        "ref_id": "ref-83be4b1d3c3a",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-e9b5037704e8710e",
+          "claim-92cc5af6dad7c7f8",
+          "claim-233f171dba73909d",
+          "claim-f7dad0e3ad12c909",
+          "claim-039ad9831200a0d7",
+          "claim-02ce0572b5316b8b",
+          "claim-d7eb6de331649c31",
+          "claim-00239603667d082a"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+        "reason": "包含2017-2018年成都GDP、投资、消费、收入等核心经济指标及产业结构数据，是回答中心问题关于2017-2018年发展态势的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-74bdf653eb5a3246",
+          "claim-134db4c071da4d61",
+          "claim-480c8466d991fed5",
+          "claim-7496d1cbe5af3bef"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-83be4b1d3c3a:bundle-702102b81314",
+        "reason": "包含2016年成都GDP、投资、消费、收入等核心经济指标及产业结构数据，是回答中心问题关于2016年发展态势的必要证据。"
+      }
+    ],
+    "group_id": "topic-02566d777f55",
+    "members": [
+      {
+        "contribution": "提供2017-2018年成都经济社会发展概况，涵盖GDP、投资、消费、收入等核心指标及工业、服务业、农业、开放、创新、民生等领域的具体数据，直接回答中心问题。",
+        "ref_id": "ref-533c1f60c1ec",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2016年成都经济社会发展概况，涵盖GDP、投资、消费、收入等核心指标及工业、服务业、农业、开放、创新、民生等领域的具体数据，直接回答中心问题。",
+        "ref_id": "ref-83be4b1d3c3a",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-74bdf653eb5a3246",
+        "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-134db4c071da4d61",
+        "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-480c8466d991fed5",
+        "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7496d1cbe5af3bef",
+        "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e9b5037704e8710e",
+        "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-233f171dba73909d",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-233f171dba73909d is missing hard anchors from the claim: ['2017年']; claim='2017年，成都完成固定资产投资9404.2亿元，同比增长12.3%。'; excerpt='2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。\\n完成固定资产投资9404.2亿元，同比增长12.3%；'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-039ad9831200a0d7",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-039ad9831200a0d7 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都社会消费品零售总额6403.5亿元，增长11.5%。'; excerpt='2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。\\n社会消费品零售总额6403.5亿元，增长11.5%；'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-d7eb6de331649c31",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-d7eb6de331649c31 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都城镇居民人均可支配收入38918元，增长8.4%；农村居民人均可支配收入20298元，增长9.1%。'; excerpt='2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。\\n城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。'",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-92cc5af6dad7c7f8",
+        "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f7dad0e3ad12c909",
+        "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-02ce0572b5316b8b",
+        "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-00239603667d082a",
+        "draft_excerpt": "",
+        "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-00239603667d082a is missing hard anchors from the claim: ['2018年']; claim='2018年，成都城镇居民人均可支配收入42128元，增长8.2%；农村居民人均可支配收入22135元，增长9.0%。'; excerpt='城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。'",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-74bdf653eb5a3246",
+          "claim-134db4c071da4d61",
+          "claim-480c8466d991fed5",
+          "claim-7496d1cbe5af3bef",
+          "claim-e9b5037704e8710e",
+          "claim-233f171dba73909d",
+          "claim-039ad9831200a0d7",
+          "claim-d7eb6de331649c31",
+          "claim-92cc5af6dad7c7f8",
+          "claim-f7dad0e3ad12c909",
+          "claim-02ce0572b5316b8b"
+        ],
+        "draft_excerpt": "2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a704282c53d77712",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-74bdf653eb5a3246"
+        ],
+        "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-47a6190cea198c78",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-134db4c071da4d61"
+        ],
+        "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b2db45573424c094",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-480c8466d991fed5"
+        ],
+        "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0a0a03a8d23b7bf7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7496d1cbe5af3bef"
+        ],
+        "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5c5c70854fd092f5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e9b5037704e8710e"
+        ],
+        "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-11fa7373fc637476",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-233f171dba73909d"
+        ],
+        "draft_excerpt": "完成固定资产投资9404.2亿元，同比增长12.3%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-63e4d5436f7185f0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-039ad9831200a0d7"
+        ],
+        "draft_excerpt": "社会消费品零售总额6403.5亿元，增长11.5%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-15af1c0030762dfe",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d7eb6de331649c31"
+        ],
+        "draft_excerpt": "城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f40aed7632277cf5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-92cc5af6dad7c7f8"
+        ],
+        "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4f115a56e5e9d4d8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f7dad0e3ad12c909"
+        ],
+        "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-903b7385a1ad63d2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-02ce0572b5316b8b"
+        ],
+        "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4db5593788fa5249",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00239603667d082a"
+        ],
+        "draft_excerpt": "城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-29eb87b20799d084",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2016",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-74bdf653eb5a3246",
+          "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-134db4c071da4d61",
+          "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-480c8466d991fed5",
+          "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7496d1cbe5af3bef",
+          "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e9b5037704e8710e",
+          "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-233f171dba73909d",
+          "draft_excerpt": "完成固定资产投资9404.2亿元，同比增长12.3%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-039ad9831200a0d7",
+          "draft_excerpt": "社会消费品零售总额6403.5亿元，增长11.5%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d7eb6de331649c31",
+          "draft_excerpt": "城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-92cc5af6dad7c7f8",
+          "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f7dad0e3ad12c909",
+          "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-02ce0572b5316b8b",
+          "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-74bdf653eb5a3246",
+            "claim-134db4c071da4d61",
+            "claim-480c8466d991fed5",
+            "claim-7496d1cbe5af3bef",
+            "claim-e9b5037704e8710e",
+            "claim-233f171dba73909d",
+            "claim-039ad9831200a0d7",
+            "claim-d7eb6de331649c31",
+            "claim-92cc5af6dad7c7f8",
+            "claim-f7dad0e3ad12c909",
+            "claim-02ce0572b5316b8b"
+          ],
+          "draft_excerpt": "2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。",
+          "finding": "supported",
+          "sentence_id": "sentence-a704282c53d77712",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-74bdf653eb5a3246"
+          ],
+          "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+          "finding": "supported",
+          "sentence_id": "sentence-47a6190cea198c78",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-134db4c071da4d61"
+          ],
+          "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+          "finding": "supported",
+          "sentence_id": "sentence-b2db45573424c094",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-480c8466d991fed5"
+          ],
+          "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+          "finding": "supported",
+          "sentence_id": "sentence-0a0a03a8d23b7bf7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7496d1cbe5af3bef"
+          ],
+          "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+          "finding": "supported",
+          "sentence_id": "sentence-5c5c70854fd092f5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e9b5037704e8710e"
+          ],
+          "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+          "finding": "supported",
+          "sentence_id": "sentence-11fa7373fc637476",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-233f171dba73909d"
+          ],
+          "draft_excerpt": "完成固定资产投资9404.2亿元，同比增长12.3%；",
+          "finding": "supported",
+          "sentence_id": "sentence-63e4d5436f7185f0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-039ad9831200a0d7"
+          ],
+          "draft_excerpt": "社会消费品零售总额6403.5亿元，增长11.5%；",
+          "finding": "supported",
+          "sentence_id": "sentence-15af1c0030762dfe",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d7eb6de331649c31"
+          ],
+          "draft_excerpt": "城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。",
+          "finding": "supported",
+          "sentence_id": "sentence-f40aed7632277cf5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-92cc5af6dad7c7f8"
+          ],
+          "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+          "finding": "supported",
+          "sentence_id": "sentence-4f115a56e5e9d4d8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f7dad0e3ad12c909"
+          ],
+          "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+          "finding": "supported",
+          "sentence_id": "sentence-903b7385a1ad63d2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-02ce0572b5316b8b"
+          ],
+          "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+          "finding": "supported",
+          "sentence_id": "sentence-4db5593788fa5249",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-00239603667d082a",
+          "draft_excerpt": "城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-00239603667d082a"
+          ],
+          "draft_excerpt": "城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+          "finding": "supported",
+          "sentence_id": "sentence-29eb87b20799d084",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "edb9893aa02275162ad8a7b5775562aebfad06e7068116f7989c66954dff2666",
+  "coverage_history": [
+    {
+      "draft_sha256": "9e75b62b707687edfb694c2adcb1ef3de05586f29db491d870cfa4b5251972f2",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-74bdf653eb5a3246",
+            "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-134db4c071da4d61",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-134db4c071da4d61 is missing hard anchors from the claim: ['2016年']; claim='2016年，成都完成固定资产投资8370.5亿元，同比增长14.3%。'; excerpt='完成固定资产投资8370.5亿元，同比增长14.3%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e9b5037704e8710e",
+            "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-233f171dba73909d",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-233f171dba73909d is missing hard anchors from the claim: ['2017年']; claim='2017年，成都完成固定资产投资9404.2亿元，同比增长12.3%。'; excerpt='完成固定资产投资9404.2亿元，同比增长12.3%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-92cc5af6dad7c7f8",
+            "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f7dad0e3ad12c909",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-f7dad0e3ad12c909 is missing hard anchors from the claim: ['2018年']; claim='2018年，成都完成固定资产投资8340亿元，同比增长10%。'; excerpt='完成固定资产投资8340亿元，同比增长10%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-480c8466d991fed5",
+            "draft_excerpt": "2016年，社会消费品零售总额5742.4亿元，增长10.4%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7496d1cbe5af3bef",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-7496d1cbe5af3bef is missing hard anchors from the claim: ['2016年']; claim='2016年，成都城镇居民人均可支配收入35902元，增长8.1%；农村居民人均可支配收入18605元，增长9.4%。'; excerpt='城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-039ad9831200a0d7",
+            "draft_excerpt": "2017年，社会消费品零售总额6403.5亿元，增长11.5%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d7eb6de331649c31",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-d7eb6de331649c31 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都城镇居民人均可支配收入38918元，增长8.4%；农村居民人均可支配收入20298元，增长9.1%。'; excerpt='城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-02ce0572b5316b8b",
+            "draft_excerpt": "2018年，社会消费品零售总额6801.8亿元，增长10%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00239603667d082a",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-00239603667d082a is missing hard anchors from the claim: ['2018年']; claim='2018年，成都城镇居民人均可支配收入42128元，增长8.2%；农村居民人均可支配收入22135元，增长9.0%。'; excerpt='城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2018年间，成都经济社会在复杂宏观形势下保持“稳中提质”发展态势，GDP、固定资产投资及居民收入等核心指标均实现稳步增长。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bd8c8750b06979e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2018年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“总体平稳、稳中有进、稳中提质”的发展态势。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-efd21b04a781583a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-74bdf653eb5a3246"
+            ],
+            "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b24729586e754a1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-134db4c071da4d61"
+            ],
+            "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b4a919c8349ab432",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e9b5037704e8710e"
+            ],
+            "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-857c99c5db53ba80",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-233f171dba73909d"
+            ],
+            "draft_excerpt": "完成固定资产投资9404.2亿元，同比增长12.3%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-53c2a5604dbdad82",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92cc5af6dad7c7f8"
+            ],
+            "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34700065bb7f9a9c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7dad0e3ad12c909"
+            ],
+            "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b8fda50ffb9e00fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "社会消费品零售总额与居民收入同步增长。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c783c0ebbbd0d4b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-480c8466d991fed5"
+            ],
+            "draft_excerpt": "2016年，社会消费品零售总额5742.4亿元，增长10.4%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2ae31f620f5737b5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7496d1cbe5af3bef"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c751ea63161f38d0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-039ad9831200a0d7"
+            ],
+            "draft_excerpt": "2017年，社会消费品零售总额6403.5亿元，增长11.5%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d442d11b073a5d7b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d7eb6de331649c31"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-114a586ea87df126",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02ce0572b5316b8b"
+            ],
+            "draft_excerpt": "2018年，社会消费品零售总额6801.8亿元，增长10%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0370602d2066f1ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00239603667d082a"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1aa7ad08c86208a2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "工业经济稳步增长，先进制造业加快发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-97a58afdfc7140cc",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017年，全市实现工业增加值5217.2亿元，同比增长8.4%；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9dc8a6f17985383d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "规模以上高技术制造业增加值增长20.5%，战略性新兴产业和先进制造业占工业总产值比重达59%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-44ccc8fe61afef66",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，全市完成工业增加值5663.75亿元，同比增长7.6%；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73510db9f31d7c91",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "规上高技术制造业增加值增长15.3%，电子信息、医药健康等五大产业占全市工业增加值比重达82%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb5fe468a0ea1da9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "现代服务业稳中提质，都市现代农业稳中向好。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c303eed1560de6f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017年，服务业增加值7390.3亿元，同比增长8.9%，占地区生产总值比重达到53.2%；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7bcf42cca062f7e2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "农业增加值500.9亿元，同比增长3.9%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2729b93d0c7a6f5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，服务业增加值8304.0亿元，同比增长9.0%，占地区生产总值比重达到54.1%；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9228cb14f40a5775",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "农业增加值522.6亿元，同比增长3.6%。",
+            "finding": "Claim Contract中未包含2018年农业增加值的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d28eff747016a34",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "城市空间布局由“两山夹一城”向“一山连两翼”转变，形成“一心两翼一区三轴多中心”的空间结构。",
+            "finding": "Claim Contract中未包含城市空间布局结构的具体描述，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9df71c5d54717e8e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017年编制《成都市城市总体规划（2016-2035年）》，统筹推进“东进、南拓、西控、北改、中优”差异化的空间功能布局。",
+            "finding": "Claim Contract中未包含城市总体规划编制及空间功能布局的具体描述，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-51206be7004ed830",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，深入实施“东进、南拓、西控、北改、中优”，加快城市总规修编，不断优化城市发展空间设计。",
+            "finding": "Claim Contract中未包含2018年空间布局实施及总规修编的具体描述，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-beac3c9899b3abb3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "对外投资贸易增长较快，开放载体建设取得突破。",
+            "finding": "Claim Contract中未包含对外开放水平及开放载体建设的定性描述，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e523ee4c6b1695b4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017年，全市实现进出口总额583.8亿美元，同比增长45.4%；",
+            "finding": "Claim Contract中未包含2017年进出口总额的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-71deed2c413f54d4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "服务贸易总额超过140亿美元，同比增长19.2%。",
+            "finding": "Claim Contract中未包含2017年服务贸易总额的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69205ccd38c7ab68",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，全市实现进出口总额753.0亿美元，同比增长26.4%；",
+            "finding": "Claim Contract中未包含2018年进出口总额的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe940fb2f8601b3a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "服务贸易总额超过151亿美元，同比增长20%。",
+            "finding": "Claim Contract中未包含2018年服务贸易总额的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fbdc97f2763dbe93",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "自贸试验区加快建设，2017年形成“中欧班列多式联运‘一单制’”等138个改革实践案例，2018年探索形成220多个改革实践案例。",
+            "finding": "Claim Contract中未包含自贸试验区改革实践案例的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e002aee934722107",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "城市国际化水平持续提高，区域协同发展体系加快构建。",
+            "finding": "Claim Contract中未包含城市国际化水平及区域协同发展的定性描述，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a401f0fdad10fb7d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "截至2017年底，在蓉落户的世界500强企业达281家，驻蓉外国领事机构17个，缔结国际友好城市34个。",
+            "finding": "Claim Contract中未包含世界500强企业、领事机构及友好城市的具体数据，该句为合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5601c3ed5509b13f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，在蓉落户的世界500强企业达285家，驻蓉外国领事机构17个，缔结国际友好城市35个。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-792bbe9e48f98dec",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都平原经济区一体化发展持续加深，成德间实现铁路公交化运营，客流量增长超过150%。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c40cbad586e071e2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，成德眉资四市共同签署同城化合作协议，编制形成成德、成眉、成资同城化发展五年行动计划。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2956677df5bae0de",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "创新驱动发展战略扎实推进，自主创新能力不断增强。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb226de668d7c555",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017年，全面创新改革试验“一号工程”取得阶段性成果，新增科技型企业2万家、同比增长55%，高新技术企业达到2473家。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2fab0e181ea27a44",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，全面创新改革试验成效明显，新增国家企业技术中心7个，高新技术产业总产值突破1万亿元。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2f1f3051159ca24a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "新经济产业蓬勃发展，2018年新增新经济企业4.1万户，增长19%，新经济逐渐正成为成都经济发展的新增长极。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c02b32423c5b23c5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "社会民生福祉全面增进，就业和社会保障持续夯实。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-64263f3653be671a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017年，“散乱污”企业本市户籍失业人员再就业率达95.96%；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18e6e871bea639aa",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "全民参保登记全面完成。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0628031a86e7f558",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，全市城镇新增就业27.6万人，“散乱污”企业失业人员再就业率达96%；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d4ae597e16873558",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "城乡居民基本养老保险参保率保持在90%以上，基本医疗保险参保率达98%。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2ecf98512c2cb407",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "脱贫攻坚强力推进，2017年简阳85个省定贫困村全部摘帽、29878名贫困人口全部脱贫；",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6af979d33ca3c810",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年，建档立卡贫困户人均可支配收入增长15%。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73922bc4b28e0957",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年至2018年间，成都经济社会在复杂宏观形势下保持“稳中提质”发展态势，GDP、固定资产投资及居民收入等核心指标均实现稳步增长。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2016年至2018年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“总体平稳、稳中有进、稳中提质”的发展态势。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "社会消费品零售总额与居民收入同步增长。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "工业经济稳步增长，先进制造业加快发展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2017年，全市实现工业增加值5217.2亿元，同比增长8.4%；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "规模以上高技术制造业增加值增长20.5%，战略性新兴产业和先进制造业占工业总产值比重达59%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018年，全市完成工业增加值5663.75亿元，同比增长7.6%；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "规上高技术制造业增加值增长15.3%，电子信息、医药健康等五大产业占全市工业增加值比重达82%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "现代服务业稳中提质，都市现代农业稳中向好。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2017年，服务业增加值7390.3亿元，同比增长8.9%，占地区生产总值比重达到53.2%；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "农业增加值500.9亿元，同比增长3.9%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018年，服务业增加值8304.0亿元，同比增长9.0%，占地区生产总值比重达到54.1%；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "农业增加值522.6亿元，同比增长3.6%。",
+            "finding": "Claim Contract中未包含2018年农业增加值的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "城市空间布局由“两山夹一城”向“一山连两翼”转变，形成“一心两翼一区三轴多中心”的空间结构。",
+            "finding": "Claim Contract中未包含城市空间布局结构的具体描述，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "2017年编制《成都市城市总体规划（2016-2035年）》，统筹推进“东进、南拓、西控、北改、中优”差异化的空间功能布局。",
+            "finding": "Claim Contract中未包含城市总体规划编制及空间功能布局的具体描述，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "2018年，深入实施“东进、南拓、西控、北改、中优”，加快城市总规修编，不断优化城市发展空间设计。",
+            "finding": "Claim Contract中未包含2018年空间布局实施及总规修编的具体描述，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "对外投资贸易增长较快，开放载体建设取得突破。",
+            "finding": "Claim Contract中未包含对外开放水平及开放载体建设的定性描述，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "2017年，全市实现进出口总额583.8亿美元，同比增长45.4%；",
+            "finding": "Claim Contract中未包含2017年进出口总额的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "服务贸易总额超过140亿美元，同比增长19.2%。",
+            "finding": "Claim Contract中未包含2017年服务贸易总额的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "2018年，全市实现进出口总额753.0亿美元，同比增长26.4%；",
+            "finding": "Claim Contract中未包含2018年进出口总额的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "服务贸易总额超过151亿美元，同比增长20%。",
+            "finding": "Claim Contract中未包含2018年服务贸易总额的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "自贸试验区加快建设，2017年形成“中欧班列多式联运‘一单制’”等138个改革实践案例，2018年探索形成220多个改革实践案例。",
+            "finding": "Claim Contract中未包含自贸试验区改革实践案例的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "城市国际化水平持续提高，区域协同发展体系加快构建。",
+            "finding": "Claim Contract中未包含城市国际化水平及区域协同发展的定性描述，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "截至2017年底，在蓉落户的世界500强企业达281家，驻蓉外国领事机构17个，缔结国际友好城市34个。",
+            "finding": "Claim Contract中未包含世界500强企业、领事机构及友好城市的具体数据，该句为合同外事实。"
+          },
+          {
+            "draft_excerpt": "2018年，在蓉落户的世界500强企业达285家，驻蓉外国领事机构17个，缔结国际友好城市35个。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "成都平原经济区一体化发展持续加深，成德间实现铁路公交化运营，客流量增长超过150%。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2018年，成德眉资四市共同签署同城化合作协议，编制形成成德、成眉、成资同城化发展五年行动计划。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "创新驱动发展战略扎实推进，自主创新能力不断增强。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2017年，全面创新改革试验“一号工程”取得阶段性成果，新增科技型企业2万家、同比增长55%，高新技术企业达到2473家。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2018年，全面创新改革试验成效明显，新增国家企业技术中心7个，高新技术产业总产值突破1万亿元。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "新经济产业蓬勃发展，2018年新增新经济企业4.1万户，增长19%，新经济逐渐正成为成都经济发展的新增长极。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "社会民生福祉全面增进，就业和社会保障持续夯实。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2017年，“散乱污”企业本市户籍失业人员再就业率达95.96%；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "全民参保登记全面完成。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2018年，全市城镇新增就业27.6万人，“散乱污”企业失业人员再就业率达96%；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "城乡居民基本养老保险参保率保持在90%以上，基本医疗保险参保率达98%。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "脱贫攻坚强力推进，2017年简阳85个省定贫困村全部摘帽、29878名贫困人口全部脱贫；",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2018年，建档立卡贫困户人均可支配收入增长15%。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "2016",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5217.2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "20.5%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "59%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5663.75",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7.6%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "15.3%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "82%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7390.3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "53.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "500.9",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.9%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8304.0",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "54.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "522.6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "3.6%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "《成都市城市总体规划（2016-2035年）》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "583.8",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "45.4%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "140",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "19.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "753.0",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "26.4%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "151",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "20%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "138",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "220",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "500",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "281",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "17",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "34",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "285",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "35",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "150%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "55%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2473",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "7",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "1",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "4.1",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "19%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "95.96%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "27.6",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "96%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "90%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "98%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "85",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "29878",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "15%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "f9aff9d9bc032fd167529207e1d0b969957e77a0dd7b12420cbb4286ece86f35",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-74bdf653eb5a3246",
+            "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-134db4c071da4d61",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-134db4c071da4d61 is missing hard anchors from the claim: ['2016年']; claim='2016年，成都完成固定资产投资8370.5亿元，同比增长14.3%。'; excerpt='完成固定资产投资8370.5亿元，同比增长14.3%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-480c8466d991fed5",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-480c8466d991fed5 is missing hard anchors from the claim: ['2016年']; claim='2016年，成都社会消费品零售总额5742.4亿元，增长10.4%。'; excerpt='社会消费品零售总额5742.4亿元，增长10.4%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-7496d1cbe5af3bef",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-7496d1cbe5af3bef is missing hard anchors from the claim: ['2016年']; claim='2016年，成都城镇居民人均可支配收入35902元，增长8.1%；农村居民人均可支配收入18605元，增长9.4%。'; excerpt='城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e9b5037704e8710e",
+            "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-233f171dba73909d",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-233f171dba73909d is missing hard anchors from the claim: ['2017年']; claim='2017年，成都完成固定资产投资9404.2亿元，同比增长12.3%。'; excerpt='完成固定资产投资9404.2亿元，同比增长12.3%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-039ad9831200a0d7",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-039ad9831200a0d7 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都社会消费品零售总额6403.5亿元，增长11.5%。'; excerpt='社会消费品零售总额6403.5亿元，增长11.5%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d7eb6de331649c31",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-d7eb6de331649c31 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都城镇居民人均可支配收入38918元，增长8.4%；农村居民人均可支配收入20298元，增长9.1%。'; excerpt='城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-92cc5af6dad7c7f8",
+            "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f7dad0e3ad12c909",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-f7dad0e3ad12c909 is missing hard anchors from the claim: ['2018年']; claim='2018年，成都完成固定资产投资8340亿元，同比增长10%。'; excerpt='完成固定资产投资8340亿元，同比增长10%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-02ce0572b5316b8b",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-02ce0572b5316b8b is missing hard anchors from the claim: ['2018年']; claim='2018年，成都社会消费品零售总额6801.8亿元，增长10%。'; excerpt='社会消费品零售总额6801.8亿元，增长10%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-00239603667d082a",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-00239603667d082a is missing hard anchors from the claim: ['2018年']; claim='2018年，成都城镇居民人均可支配收入42128元，增长8.2%；农村居民人均可支配收入22135元，增长9.0%。'; excerpt='城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2018年间，成都经济社会在复杂宏观形势下保持“稳中提质”发展态势，GDP、固定资产投资及居民收入等核心指标均实现稳步增长。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bd8c8750b06979e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年至2018年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d49e57469c330263",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-74bdf653eb5a3246"
+            ],
+            "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b24729586e754a1e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-134db4c071da4d61"
+            ],
+            "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8c49f7766805b3c3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-480c8466d991fed5"
+            ],
+            "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7ea0fe5e44021272",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7496d1cbe5af3bef"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d40e13f1732460f7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e9b5037704e8710e"
+            ],
+            "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b52db5bb9b69fcca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-233f171dba73909d"
+            ],
+            "draft_excerpt": "完成固定资产投资9404.2亿元，同比增长12.3%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f28d143804ff9f9b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-039ad9831200a0d7"
+            ],
+            "draft_excerpt": "社会消费品零售总额6403.5亿元，增长11.5%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c12fa0b3357ef82d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d7eb6de331649c31"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-47427397c09481b8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92cc5af6dad7c7f8"
+            ],
+            "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9fe0860d7f3e8427",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7dad0e3ad12c909"
+            ],
+            "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aad47be5e6a2b3e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02ce0572b5316b8b"
+            ],
+            "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e5b0d7c17efbe98e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00239603667d082a"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a1db4ac9ee569111",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年至2018年间，成都经济社会在复杂宏观形势下保持“稳中提质”发展态势，GDP、固定资产投资及居民收入等核心指标均实现稳步增长。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2016年至2018年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2016",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "edb9893aa02275162ad8a7b5775562aebfad06e7068116f7989c66954dff2666",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-74bdf653eb5a3246",
+            "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-134db4c071da4d61",
+            "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-480c8466d991fed5",
+            "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7496d1cbe5af3bef",
+            "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e9b5037704e8710e",
+            "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-233f171dba73909d",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-233f171dba73909d is missing hard anchors from the claim: ['2017年']; claim='2017年，成都完成固定资产投资9404.2亿元，同比增长12.3%。'; excerpt='2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。\\n完成固定资产投资9404.2亿元，同比增长12.3%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-039ad9831200a0d7",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-039ad9831200a0d7 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都社会消费品零售总额6403.5亿元，增长11.5%。'; excerpt='2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。\\n社会消费品零售总额6403.5亿元，增长11.5%；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-d7eb6de331649c31",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-d7eb6de331649c31 is missing hard anchors from the claim: ['2017年']; claim='2017年，成都城镇居民人均可支配收入38918元，增长8.4%；农村居民人均可支配收入20298元，增长9.1%。'; excerpt='2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。\\n城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-92cc5af6dad7c7f8",
+            "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f7dad0e3ad12c909",
+            "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-02ce0572b5316b8b",
+            "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00239603667d082a",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-00239603667d082a is missing hard anchors from the claim: ['2018年']; claim='2018年，成都城镇居民人均可支配收入42128元，增长8.2%；农村居民人均可支配收入22135元，增长9.0%。'; excerpt='城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。'",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-74bdf653eb5a3246",
+              "claim-134db4c071da4d61",
+              "claim-480c8466d991fed5",
+              "claim-7496d1cbe5af3bef",
+              "claim-e9b5037704e8710e",
+              "claim-233f171dba73909d",
+              "claim-039ad9831200a0d7",
+              "claim-d7eb6de331649c31",
+              "claim-92cc5af6dad7c7f8",
+              "claim-f7dad0e3ad12c909",
+              "claim-02ce0572b5316b8b"
+            ],
+            "draft_excerpt": "2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a704282c53d77712",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74bdf653eb5a3246"
+            ],
+            "draft_excerpt": "2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-47a6190cea198c78",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-134db4c071da4d61"
+            ],
+            "draft_excerpt": "完成固定资产投资8370.5亿元，同比增长14.3%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2db45573424c094",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-480c8466d991fed5"
+            ],
+            "draft_excerpt": "社会消费品零售总额5742.4亿元，增长10.4%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0a0a03a8d23b7bf7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7496d1cbe5af3bef"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5c5c70854fd092f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e9b5037704e8710e"
+            ],
+            "draft_excerpt": "2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11fa7373fc637476",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-233f171dba73909d"
+            ],
+            "draft_excerpt": "完成固定资产投资9404.2亿元，同比增长12.3%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-63e4d5436f7185f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-039ad9831200a0d7"
+            ],
+            "draft_excerpt": "社会消费品零售总额6403.5亿元，增长11.5%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15af1c0030762dfe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d7eb6de331649c31"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f40aed7632277cf5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-92cc5af6dad7c7f8"
+            ],
+            "draft_excerpt": "2018年，全市实现地区生产总值15342.8亿元，同比增长8%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4f115a56e5e9d4d8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7dad0e3ad12c909"
+            ],
+            "draft_excerpt": "完成固定资产投资8340亿元，同比增长10%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-903b7385a1ad63d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-02ce0572b5316b8b"
+            ],
+            "draft_excerpt": "社会消费品零售总额6801.8亿元，增长10%；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4db5593788fa5249",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00239603667d082a"
+            ],
+            "draft_excerpt": "城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-29eb87b20799d084",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2016年，全市实现地区生产总值12170.2亿元，同比增长7.7%；完成固定资产投资8370.5亿元，同比增长14.3%；社会消费品零售总额5742.4亿元，增长10.4%；城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长8.1%和9.4%。\n\n2017年，全市实现地区生产总值13889.4亿元，同比增长8.1%；完成固定资产投资9404.2亿元，同比增长12.3%；社会消费品零售总额6403.5亿元，增长11.5%；城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长8.4%和9.1%。\n\n2018年，全市实现地区生产总值15342.8亿元，同比增长8%；完成固定资产投资8340亿元，同比增长10%；社会消费品零售总额6801.8亿元，增长10%；城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长8.2%和9.0%。",
+    "description": "2016年至2018年，成都地区生产总值、固定资产投资、社会消费品零售总额及居民人均可支配收入等核心指标均实现增长。",
+    "ref": {
+      "asset_hints": [
+        "html-table-001",
+        "html-table-002",
+        "html-table-003",
+        "html-table-004",
+        "image-001",
+        "image-002",
+        "image-003",
+        "image-004",
+        "image-005",
+        "image-006",
+        "image-007",
+        "image-008",
+        "image-009"
+      ],
+      "concept_id": "topic-02566d777f55",
+      "description": "2016年至2018年间，成都经济社会在复杂宏观形势下保持“稳中提质”发展态势，GDP、固定资产投资及居民收入等核心指标均实现稳步增长。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%",
+        "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%",
+        "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%",
+        "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%",
+        "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%\\) ；社会消费品零售总额6403.5亿元，增长 \\(11.5\\%",
+        "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%\\) ；社会消费品零售总额6801.8亿元，增长 \\(10\\%",
+        "2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%\\) ；社会消费品零售总额6403.5亿元，增长 \\(11.5\\%\\) ；城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长 \\(8.4\\%\\) 和 \\(9.1\\%",
+        "2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%\\) ；社会消费品零售总额6801.8亿元，增长 \\(10\\%\\) ；城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长 \\(8.2\\%\\) 和 \\(9.0\\%",
+        "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%",
+        "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%",
+        "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%\\) ；社会消费品零售总额5742.4亿元，增长 \\(10.4\\%",
+        "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%\\) ；社会消费品零售总额5742.4亿元，增长 \\(10.4\\%\\) ；城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长 \\(8.1\\%\\) 和 \\(9.4\\%"
+      ],
+      "evidence_block_ids": [
+        "blk-f0756753d84868074518",
+        "blk-3e7e2fdeabe64bb4d34b"
+      ],
+      "page_end": 58,
+      "page_start": 7,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "2016-2018年成都经济社会发展概况",
+      "type": "分析框架"
+    },
+    "title": "2016-2018年成都经济社会发展概况"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-533c1f60c1ec:bundle-57f5eedfb20b",
+      "excluded_fragments": [],
+      "ref_id": "ref-533c1f60c1ec",
+      "source_blocks": [
+        {
+          "block_id": "blk-f0756753d84868074518",
+          "page_number": 7,
+          "text": "2017-2018年，面对错综复杂的宏观形势，成都经济社会呈现“总体平稳、稳中有进、稳中提质”的发展态势。2017年，全市实现地区生产总值13889.4亿元，同比增长 \\(8.1\\%\\) ；完成固定资产投资9404.2亿元，同比增长 \\(12.3\\%\\) ；社会消费品零售总额6403.5亿元，增长 \\(11.5\\%\\) ；城镇居民人均可支配收入38918元，农村居民人均可支配收入20298元，分别增长 \\(8.4\\%\\) 和 \\(9.1\\%\\) 。2018年，全市实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ；完成固定资产投资8340亿元，同比增长 \\(10\\%\\) ；社会消费品零售总额6801.8亿元，增长 \\(10\\%\\) ；城镇居民人均可支配收入42128元，农村居民人均可支配收入22135元，分别增长 \\(8.2\\%\\) 和 \\(9.0\\%\\) 。"
+        },
+        {
+          "block_id": "blk-fbb836cb7f25a5eada40",
+          "page_number": 7,
+          "text": "2017年，全市实现工业增加值5217.2亿元，同比增长 \\(8.4\\%\\) 。规模以上工业增加值同比增长 \\(9.0\\%\\) ，其中，轻工业增加值增长 \\(7.0\\%\\) ，重工业增加值增长 \\(10.1\\%\\) 。先进制造业加快发展，规模以上高技术制造业增加值增长 \\(20.5\\%\\) ，生物医药、航"
+        },
+        {
+          "block_id": "blk-08ee48e194cbbeac779d",
+          "page_number": 8,
+          "text": "空航天、轨道交通、新材料等均保持两位数以上的增长，战略性新兴产业和先进制造业占工业总产值比重达 \\(59\\%\\) 。完成工业完成投资3008.7亿元、技改投资2780.9亿元，分别增长 \\(33.9\\%\\) 、 \\(42.2\\%\\) ，京东方第6代AMOLED一期生产线、沃尔沃乘用车整车等189个项目竣工投产，中电子8.6代液晶面板生产线、中车轨道交通装备产业园等146个项目加快建设，格罗方德12寸晶圆制造、航天通信产业园一期等144个项目开工建设，紫光集成电路、药明康德等375个重大项目签约引进。"
+        },
+        {
+          "block_id": "blk-aac6b900318d77c4fc9f",
+          "page_number": 8,
+          "text": "2018年，全市完成工业增加值5663.75亿元，同比增长 \\(7.6\\%\\) 。规模以上工业增加值同比增长 \\(8.5\\%\\) ，其中，轻工业增加值增长 \\(8.9\\%\\) 。先进制造业加快高质量发展，规上高技术制造业增加值增长 \\(15.3\\%\\) ，高于规上工业6.8个百分点；电子信息、医药健康、装备制造、新型材料、绿色食品五大产业增加值同比增长 \\(10.8\\%\\) 占全市工业增加值比重达 \\(82\\%\\) 。项目支撑切实强化，中电熊猫成都8.6代液晶面板生产线等120个重大项目竣工投产，药明康德生命健康产业园、紫光成都存储器制造基地等143个重大项目开工建设，京东方高世代AMOLED、安谋科技、比亚迪新能源汽车、国科量子通讯设备等420个先进制造业重大项目签约引进。"
+        },
+        {
+          "block_id": "blk-e2a7b4d8e7424f42cea1",
+          "page_number": 8,
+          "text": "2017年，全市实现服务业增加值7390.3亿元，同比增长 \\(8.9\\%\\) ，占地区生产总值比重达到 \\(53.2\\%\\) ；完成固定资产投资（不含商品住宅）3658.9亿元，同比增长\\(10.8\\%\\) ；实现税收1795.6亿元，同比增长 \\(29.8\\%\\) 。西部金融中心建设加快，成都中心金融商务服务集聚区共集聚成都银行、国金证券等全国金融总部企业5家、省级法人机构70家，金融综合竞争力继续保持中西部第一。现代商贸业提升发展，成都在2017年“轻奢品牌城市偏好度排名”“零售商业指数排名”“购物中心指数排名”中，均位居全国第三，仅次于北京、上海。新兴服务业加快发展，规模以上信息服务业、科技服务业营业收入分别增长 \\(20.8\\%\\) 、 \\(17.8\\%\\) 。服务业新业态、新模式蓬勃发展，电子商务交易额达14545.6亿元，同比增长 \\(37.1\\%\\) ；共享经济增长迅速，共享单车整体骑行指数排名全国第二，仅次于深圳。"
+        },
+        {
+          "block_id": "blk-89ec3caac4e928b78d4e",
+          "page_number": 8,
+          "text": "2018年，全市实现服务业增加值8304.0亿元，同比增长 \\(9.0\\%\\) ，占地区生产总值比重达到 \\(54.1\\%\\) ；完成固定资产投资（不含商品住宅）3306.2亿元，同比增长\\(32\\%\\) 。金融服务辐射能力不断加强，本外币存贷款余额分别为3.8、3.3万亿元，"
+        },
+        {
+          "block_id": "blk-2a6393fb2075995dfdd4",
+          "page_number": 9,
+          "text": "分别增长 \\(5.7\\%\\) 和 \\(11.3\\%\\) ，新增上市公司11家，深交所西部基地落户运营。现代商贸高端高质发展，全面启动42个现代商圈建设提升工程，新引进一线品牌300个，入驻首店200家。新兴服务业发展迅速，规模以上信息消费服务业、高技术服务业和科技服务业增加值分别增长 \\(9.2\\%\\) 、 \\(9.2\\%\\) 和 \\(9.1\\%\\) 。新经济产业蓬勃发展，电子商务交易额达1.9万亿元，同比增长 \\(28.5\\%\\) ；新增新经济企业4.1万家，增长 \\(19\\%\\) ，新经济逐渐正成为成都经济发展的新增长极。"
+        },
+        {
+          "block_id": "blk-8b200a0afd3f0717acf6",
+          "page_number": 9,
+          "text": "2017年，乡村振兴战略开局良好，全市实现农业增加值500.9亿元，同比增长 \\(3.9\\%\\) ；农作物播种面积84.5万公顷，粮食总产量273.1万吨，油料总产量35.2万吨，肉类总产量73.6万吨。农业产业化水平不断提升，新增市级以上产业化龙头企业21家、总数达到513家，销售收入超过2400亿元；乡村旅游实现总收入327.7亿元，同比增长 \\(25.6\\%\\) 。品牌化水平持续提升，“天府源”公用品牌加快推广，新增“三品一标”66个，农产品品牌总数达到1327个。“农业共营制”等模式积极推广，新培育农民专业合作社1031家、家庭农场1473家，适度规模经营率达 \\(60.8\\%\\) 。基础设施建设加快推进，李家岩水库启动施工，累计建成高标准农田579.5万亩，获批创建国家现代农业产业科技创新中心。"
+        },
+        {
+          "block_id": "blk-f64949820a161e011048",
+          "page_number": 9,
+          "text": "2018年，乡村振兴战略深入实施，全市实现农业增加值522.6亿元，同比增长 \\(3.6\\%\\) ；农作物播种面积73.9万公顷，粮食总产量230.3万吨，油料总产量37.3万吨，肉类总产量59.4万吨。农业产业化水平持续提升，农业适度规模经营率达\\(65.3\\%\\) ，乡村旅游总收入达393.9亿元，农产品加工产值、农产品电子商务零售交易额分别达1500亿元、87.8亿元。农业品牌化组织化水平加快提升，“天府源”公用品牌战略持续深入实施，新增“三品一标”20个，农产品品牌总数达到1347个；新培育农民合作社和家庭农场3637家，适度规模经营率达 \\(65.3\\%\\) 。基础设施建设深入推进，加快现代农业产业功能区（园区）建设，新建高标准农田43万亩，粮食安全得到有效保障。"
+        },
+        {
+          "block_id": "blk-af3b9c447744a8b8c6bf",
+          "page_number": 9,
+          "text": "2017年，成都积极开展总规修编改革试点，编制《成都市城市总体规划"
+        },
+        {
+          "block_id": "blk-b8286dee3c319c2b01cc",
+          "page_number": 10,
+          "text": "（2016-2035年）》，统筹推进“东进、南拓、西控、北改、中优”差异化的空间功能布局；推动城市布局形态由“两山夹一城”向“一山连两翼”转变，形成“一心两翼一区三轴多中心”的空间结构，构建网络化、多中心、生态型的城市发展新格局。城区改旧更新持续推进，成功打造特色街区20条，完成城市棚户区改造1.17万户、老旧院落改造920个、城中村改造7427户。"
+        },
+        {
+          "block_id": "blk-f59694ba9538065af9eb",
+          "page_number": 10,
+          "text": "2018年，深入实施“东进、南拓、西控、北改、中优”，加快城市总规修编，高水平规划南北、东西城市轴线，制定龙泉山东侧沱江发展轴总体规划初步方案，不断优化城市发展空间设计。城区改旧更新深入推进，打造完成特色街区109条，完成城市棚户区改造1.2万户、老旧院落改造327个。"
+        },
+        {
+          "block_id": "blk-d793bed564618a9a9162",
+          "page_number": 10,
+          "text": "2017年，编制完成《成都市域高快速路网体系规划》《成都市慢行交通系统规划》，城市交通体系建设加快推进，开通运营地铁4号线二期、10号线一期和7号线，全面铺开绕城高速内“3环16射”快速路网体系建设，持续推进城区慢行交通系统建设，不断推动轨道交通加速成网、快速路加密成网、慢行交通连片成网。启动“互联网+城市”行动，“宽带中国”示范城市加快建设，在全国率先建成首个千兆省会城市，成为国内首批5G试点城市。"
+        },
+        {
+          "block_id": "blk-53459379a98cc312606c",
+          "page_number": 10,
+          "text": "2018年，轨道交通加速成网，地铁1号线三期、3号线二三期、有轨电车蓉2号线建成投运，城市轨道交通累计运营里程达240公里。不断完善市域“3环15射5联”快速路网体系，天新邛、沙西线支线等快速路加快建设，成资、成龙简、金简仁快速路启动施工。加快完善行人、非机动车和公交车优先的路权体系，不断优化慢行交通系统。深入推进智慧城市建设，加快市政务云、智慧治理中心建设，大力推动“互联网+”与城市各领域融合。"
+        },
+        {
+          "block_id": "blk-2b00b63a3d4255ccaed8",
+          "page_number": 10,
+          "text": "2017年，全域五级城市绿化体系建设加快推进，营造林总面积达22万亩，新增城市绿地810万平方米，森林覆盖率达 \\(39.1\\%\\) ，绿地率达 \\(36.83\\%\\) ，人均公园绿地面积达13.66平方米。“科技治霾行动计划”深入实施，空气质量优良天数比例为 \\(64.9\\%\\) ，在全国重点城市排名中较上年上升7位，PM2.5年均浓度同比下降\\(10.2\\%\\) 。严格落实河长制，坚持“三水共治”，中心城区、县城、乡镇生活污水"
+        },
+        {
+          "block_id": "blk-556fe2b0f0fb23bf3608",
+          "page_number": 11,
+          "text": "处理率分别达到 \\(97\\%\\) 、 \\(86.5\\%\\) 、 \\(69\\%\\) 。大力实施“科学治堵”，深化公交都市建设，公交机动化出行分担率提升至 \\(47\\%\\) ；率先出台鼓励规范共享单车、新能源汽车分时租赁行业发展政策。实施城乡厕所革命攻坚行动，新建、改建公厕336座，被评为全国厕所革命优秀城市。"
+        },
+        {
+          "block_id": "blk-b84af7be50aa49c36b15",
+          "page_number": 11,
+          "text": "2018年，城市绿化建设提速发展，累计建成天府绿道2607公里，建成小游园、微绿地140处，新增绿地670万平方米，森林覆盖率达 \\(39.5\\%\\) 。“铁腕治霾”和大气污染防治“650”工程深入实施，空气优良天数比例达到 \\(68.8\\%\\) ，PM2.5浓度同比下降 \\(8.9\\%\\) 。水环境综合治理加快推进，完成城市建成区外123段黑臭水体治理，新建污水管网460公里，生活污水集中处理率达到 \\(91\\%\\) 。深化科学治堵，打通“断头路”80条，完成28个拥堵节点改造，全市中心城区交通拥堵指数持续下降。扎实开展“厕所革命”，新改建公共厕所608座。"
+        },
+        {
+          "block_id": "blk-9f09b3a494856ec30ad9",
+          "page_number": 11,
+          "text": "2017年，全市实现进出口总额583.8亿美元，同比增长 \\(45.4\\%\\) ；服务贸易总额超过140亿美元，同比增长 \\(19.2\\%\\) 。利用外资实际到位100.4亿美元；新批准外商投资项目472个，其中1000万美元以上的项目68个。深入落实和参与国家“一带一路”建设，成都制造、成都品牌及成都服务“走出去”步伐加快。"
+        },
+        {
+          "block_id": "blk-4f86abc7fc2d1c837b2d",
+          "page_number": 11,
+          "text": "2018年，全市实现进出口总额753.0亿美元，同比增长 \\(26.4\\%\\) ；服务贸易总额超过151亿美元，同比增长 \\(20\\%\\) 。利用外资实际到位122.8亿美元；新批准外商投资项目494个，其中1000万美元以上的项目87个。“走出去”提质增效，全市备案境外投资企业（项目）95个，备案投资总额88.9亿美元，同比增长 \\(254.2\\%\\) ；实现对外承包工程营业额30亿美元，同比增长 \\(29.3\\%\\)"
+        },
+        {
+          "block_id": "blk-10b09889f09161cdd448",
+          "page_number": 11,
+          "text": "2017年，自贸试验区加快建设，全面启动155项改革试验任务，形成“中欧班列多式联运‘一单制’”等138个改革实践案例，投资贸易自由化便利化程度显著提高；区内新增注册企业1.92万家，注册资本达到2948.74亿元。中德、中法、中意、中韩、新川等国别合作园区加快建设，中国—欧洲中心投入使用。国际班列扩容增效，蓉欧快铁新开行成都至莫斯科、布拉格等9条线路，发运货物"
+        },
+        {
+          "block_id": "blk-f1687142771b1d976990",
+          "page_number": 12,
+          "text": "总值达46亿美元、增长 \\(254\\%\\) ，位居全国中欧班列第一。新开通成都至纽约、奥克兰等5条国际定期直飞客运航线，客货吞吐量分别突破4900万人次、64万吨，获批航空肉类进境指定口岸，实现空港“\\(7\\times 24\\) 小时”客运口岸通关、货运口岸预约通关。"
+        },
+        {
+          "block_id": "blk-4b358cd8e3349ab4a2fd",
+          "page_number": 12,
+          "text": "2018年，自贸试验区建设加速推进，探索形成220多个改革实践案例，“‘首证通’行政审批改革”“‘铁路+’多式联运一单制”经验成果获全国推广；区内新增注册企业4.8万家、注册资本达7008.5亿元。中德、中法等五大国别合作园区累计签约引进项目124个，“中国—欧洲中心”累计入驻国际机构41家、达成入驻意向160家，新加坡创新中心启动建设。新开通“蓉欧+”东盟铁海联运班列和铁路班列，国际班列通达24个海外城市，蓉欧班列开行1591列、开行量继续保持全国第一。新开通国际客货航线12条，国际（地区）航线数量达114条，双流机场年旅客吞吐量突破5000万人次，其中国际（地区）旅客599.8万人次，位居全球最繁忙机场26位。"
+        },
+        {
+          "block_id": "blk-b0c1c6bb283c2b3b435c",
+          "page_number": 12,
+          "text": "2017年，城市国际化功能日益提升，国内外优质资源要素不断集聚。截至2017年底，在蓉落户的世界500强企业达281家，驻蓉外国领事机构17个，缔结国际友好城市34个，均居中西部第一，是中国内陆投资环境标杆城市。具有国际影响力的高端展会、文化体育等活动不断增多，成功举办联合国世界旅游组织第22届大会等重大国际活动。世界美食之都的影响力不断扩大，极大集聚外来消费，城市国际消费功能进一步提升。"
+        },
+        {
+          "block_id": "blk-ce2fab81ea718d48cdaa",
+          "page_number": 12,
+          "text": "2018年，国际交流合作有序推进，城市国际化功能进一步提升。截至2018年底，在蓉落户的世界500强企业达285家，驻蓉外国领事机构17个，缔结国际友好城市35个，“海外成都”工作站达20个。积极开展“南方丝路·熊猫之都”“天府文化·美食之都”等境外营销活动，荣获“国际友好城市交流合作奖”。"
+        },
+        {
+          "block_id": "blk-763886a49c12f16f1acd",
+          "page_number": 12,
+          "text": "2017年，跨区域合作广度深度大幅拓展，实施合作项目和事项超过1000个。成都平原经济区一体化发展持续加深，成德绵协同创新共同体加快建设，成德间实现铁路公交化运营，客流量增长超过 \\(150\\%\\) 。五大经济区合作发展取得进展，"
+        },
+        {
+          "block_id": "blk-8249487c1505643ab990",
+          "page_number": 13,
+          "text": "自贸试验区成都青白江片区与川南临港片区实现合作共建，至泸州五定班列进一步加密，成泸公水联运、铁水联运通道扶持政策进一步优化；产业协作有效推进，超过30个项目达成转移意向，成德园区规上工业产值增长 \\(20\\%\\) ，成阿园区完成工业总产值79.3亿元。成渝城市群建设稳步推进，成安渝高速建成通车，与重庆在跨域港口合作、“一卡通”、货物进出口通关等多领域交流合作取得新进展。"
+        },
+        {
+          "block_id": "blk-454e664aee24119ac247",
+          "page_number": 13,
+          "text": "2018年，成都全面落实省委“一干多支”发展战略，签订22个政府间合作协议，梳理和启动实施1000余个合作项目；积极开展“成都企业市州行”，签署投资协议183个、总投资932.1亿元。成德眉资四市共同签署同城化合作协议，编制形成成德、成眉、成资同城化发展五年行动计划，同城化发展取得新进展。成都平原经济区一体化发展加快推进，积极编制《成都平原城市群轨道交通规划》，共同推进铁路公交化运营，成德、成绵、成灌、成彭动车加密开行。五区协同化发展持续深化，成都与宜宾、泸州等川南临港片区共享启运港出口退税、保税货物流转与口岸一体化通关等优惠政策，与阿坝联合推出了大九寨精品旅游线等多条主题线路产品。成渝相向发展加快推动，签署成渝轴线区（市）县协同发展联盟战略合作协议，产业、环保等29个项目达成合作意向。"
+        },
+        {
+          "block_id": "blk-0a4d82b456ed04213845",
+          "page_number": 13,
+          "text": "2017年，全面创新改革试验“一号工程”取得阶段性成果，国家首批复制推广的13项改革经验中，5项由成都探索形成。创新基础进一步夯实，共计26个科技项目获年度国家科学技术奖，8所在蓉高校入选“双一流”建设名单，新增国家工程实验室2个、总数达6个。新增科技型企业2万家、同比增长 \\(55\\%\\) ，高新技术企业达到2473家、同比增长 \\(17.9\\%\\) ，高新技术产业产值增长 \\(11.8\\%\\) ，全要素贡献率达 \\(40.8\\%\\) ，科技进步贡献率 \\(64\\%\\) 。"
+        },
+        {
+          "block_id": "blk-4f6b433f33aac4f455f5",
+          "page_number": 13,
+          "text": "2018年，全面创新改革试验成效明显，国务院在全国复制推广36项全创改经验中9项由成都探索形成，11项改革试验案例入选全国百佳案例。创新源头供给能力持续加强，共计29个科技项目获年度国家科学技术奖，新增国家企业技术中心7个，新型产业技术研究院、中科院成都科学研究中心等科研基地开工建设，建成各类产学研创新平台1200个。高新技术产业总产值突破1万亿元，全要素贡"
+        },
+        {
+          "block_id": "blk-0470ec6ff49cf91cffd8",
+          "page_number": 14,
+          "text": "献率达 \\(43.8\\%\\)"
+        },
+        {
+          "block_id": "blk-5a08ff4568cd11dfb763",
+          "page_number": 14,
+          "text": "2017年，在蓉高校职务科技成果权属混合所有制改革持续深化，完成分割确权的科技成果共计240项，创办科技公司40余家。电子科大“一校一带”在孵项目（企业）达169项（家），环交大智慧城核心区入驻知名孵化器及企业269家，环川大知识经济圈转化60余项重大创新成果。新建4个新型产业技术研究院。军民融合加快推进，创建军民融合供应商管理体系，涡轮院研发总部、北航西部国际创新港等2个军民融合研发中心开工建设，四川航天云网等协同创新平台加快建设。"
+        },
+        {
+          "block_id": "blk-86393bd37bcd5bcca9fe",
+          "page_number": 14,
+          "text": "2018年，科技与经济融合发展高位推进，完成分割确权职务科技成果超过400项，作价入股创办高新技术企业60余家，带动社会投资近100亿元。成功获批成德绵国家科技成果转化示范区、国家首家新药专项成果转化示范基地，建成国家技术转移西南中心。深入推进军民融合发展，获批国家首批知识产权军民融合试点、省低空空域改革试点，军民融合产业主营业务收入增长 \\(14\\%\\)"
+        },
+        {
+          "block_id": "blk-869024e6297c53a0c27d",
+          "page_number": 14,
+          "text": "2017年，双创孵化体系不断完善，启动建设3个环高校知识经济圈，带动高校及社会资本投入超过8.7亿元。创新创业载体建设成效明显，天府新区、新希望集团获批国家双创示范基地；全市建成市级及以上双创载体260家、面积1654万平方米，基本形成“众创空间（创业苗圃）+孵化器+加速器”梯级孵化体系。成功举办2017年创交会、交易额达240.3亿元，组织“菁蓉汇”系列活动188场。"
+        },
+        {
+          "block_id": "blk-4cdcd9d190a5c36cf83a",
+          "page_number": 14,
+          "text": "2018年，双创载体数量保持增长态势，全市已建成市级以上创业孵化载体200家、同比增长 \\(17.0\\%\\) ，孵化面积达594万平方米、同比增长 \\(10\\%\\) 。国家级孵化器和众创空间增多，全市共有国家级孵化器16家，国家级专业众创空间1家，国家级众创空间44家，在孵企业及创业团队9453家、同比增长 \\(7.2\\%\\) 。成功举办第四届全国“双创”活动周主会场活动、成都全球创新创业交易会，开展菁蓉汇品牌系列活动168场。"
+        },
+        {
+          "block_id": "blk-2e4b5d49ec2f5c33a359",
+          "page_number": 15,
+          "text": "2017年，成都在全国率先成立新经济发展委员会，建立新经济发展研究院，着力打造“七大应用场景”，发展“六大新经济形态”。推进互联网、大数据、人工智能等与实体经济深度融合，国家“企业两化融合管理体系”试点企业达33户，工业云平台累计为1000余户企业提供服务。成功引入新华三成都研究院、福中集团、无界空间、优信集团、触控科技等一批新经济企业，新经济主体发展加快聚集。"
+        },
+        {
+          "block_id": "blk-647399a494ddd1baa68f",
+          "page_number": 15,
+          "text": "2018年，深化新经济企业梯度培育计划和“双百工程”，新增新经济企业4.1万户，培育独角兽企业4家，新经济活力居全国第3位，流量经济指数在新一线城市中排名第一。新经济应用场景不断拓展，建成全国首个5G示范街区和全国最大规模5G应用示范网，成为中国内地首个Handle全球辅根节点落地城市，启动社区消费场景打造计划，盒马鲜生、阿里巴巴“零售通”等“新零售”场景发展迅速。成立全国首个城市级新经济企业俱乐部，加快推进新经济活力区、独角兽岛、鹿溪智谷等项目建设，新经济载体建设取得明显进展。"
+        },
+        {
+          "block_id": "blk-5efac7912b54164176fa",
+          "page_number": 15,
+          "text": "2017年，就业优先战略深入实施，“散乱污”企业本市户籍失业人员再就业率达 \\(95.96\\%\\) ；建立“互联网+”就业培训模式，培训城乡劳动者10.2万人。社会保障持续增强，全民参保登记全面完成，资助贫困户参保惠及7.4万人；重特大疾病医疗保险制度持续完善，全国长期照护保险试点启动实施；社会救助体系不断完善，助残惠残“三大工程”服务264万项次。"
+        },
+        {
+          "block_id": "blk-b4e8b50747f4e50bec6c",
+          "page_number": 15,
+          "text": "2018年，就业优先战略持续实施，全市城镇新增就业27.6万人，失业人员再就业9.1万人，“散乱污”企业失业人员再就业率达 \\(96\\%\\) ；“技能成都”建设持续推进，成都职业培训网络学院培训人才共计11万人次。社会保障体系继续完善，城乡养老保险制度全面并轨，城乡居民基本养老保险参保率保持在 \\(90\\%\\) 以上，基本医疗保险参保率达 \\(98\\%\\) 。建立“支出型困难家庭”救助制度，城乡低保补助水平分别增长 \\(19.8\\%\\) 、 \\(27\\%\\) 。"
+        },
+        {
+          "block_id": "blk-2d02267ea492be3d301c",
+          "page_number": 15,
+          "text": "2017年，启动中心城区公共服务设施“三年攻坚”行动，开工建设450个项"
+        },
+        {
+          "block_id": "blk-9d63bcdc057658e0d491",
+          "page_number": 16,
+          "text": "目，顺利建成276个，编制“818”城市十五分钟基本公共服务设施规划。建成公办幼儿园160所，新建、改扩建中小学校21所、39所，新增学位9万个，出台全国首部社区教育地方法规。启动国家首批健康城市试点建设，建成市妇女儿童中心医院、七医院一期、八医院一期和市公卫中心二期，分级诊疗进一步深化，组建医联体82个、家庭医生团队2175支。建成67个社区养老院，新增养老床位1.4万张。"
+        },
+        {
+          "block_id": "blk-ddabd235c3143c53f033",
+          "page_number": 16,
+          "text": "2018年，扎实推进中心城区公共服务设施“三年攻坚”行动，深入落实“818”专项规划，开工建设902个项目，顺利建成350个项目。建成投用幼儿园98所、中小学55所，分别新增学位3万个、8.2万个公办和公益性幼儿园学位覆盖率达到 \\(87.3\\%\\) 。新增三级甲等综合医院5所，119个医联体实现市域全覆盖，459个医疗机构实现检验结果互认。深入推进居家和社区养老服务改革试点，新建社区养老院61家、城乡社区日间照料中心207个。"
+        },
+        {
+          "block_id": "blk-99e8478a782902d367c3",
+          "page_number": 16,
+          "text": "2017年，简阳85个省定贫困村全部摘帽、29878名贫困人口全部脱贫，“贫困户安居工程”新建和改造住房8380户，新建公共服务综合体95个。对口帮扶藏区贫困县五年计划有序实施，共投入援助资金4.27亿元、选派532名干部对口支援甘孜、阿坝19个深度贫困县。积极支持九寨沟灾后恢复重建。"
+        },
+        {
+          "block_id": "blk-3bfa7a50dbca35009d38",
+          "page_number": 16,
+          "text": "2018年，持续深化“回头看”“回头帮”，建档立卡贫困户人均可支配收入增长 \\(15\\%\\) 。加大对口支援甘孜、阿坝深度贫困县精准脱贫力度，共实施援助项目495个、投入援助资金4.9亿元。"
+        },
+        {
+          "block_id": "blk-354a54c3c41e5514cf84",
+          "page_number": 16,
+          "text": "2017年，加快推动国资国企改革，实施市属国企“9+2”改革整合转型。深化投融资体制改革，开展企业投资项目全流程“承诺制”试点，项目审批时限大幅缩短。稳步推进政府与社会资本合作，累计签约20个PPP项目、总投资1739.5亿元，设立规模为1000亿元的成都发展基金。"
+        },
+        {
+          "block_id": "blk-550b186928ad476279b5",
+          "page_number": 16,
+          "text": "2018年，积极推进以效率为导向的国资经营评价制度改革，关停“僵尸企业”和低质低效企业110户，市属国企资产总额增长 \\(18.1\\%\\) ，证券化率达 \\(48.8\\%\\) 。积极推进以绩效为导向的财政预算制度改革，中心城区新财政体制平稳运行，地"
+        },
+        {
+          "block_id": "blk-cd317da5f6738ff11828",
+          "page_number": 17,
+          "text": "方政府债务风险持续降低。完成国税地税征管体制改革阶段性任务，社保费和非税收入征管职责划转有效推进。"
+        },
+        {
+          "block_id": "blk-f47680f7971b6cfe5169",
+          "page_number": 17,
+          "text": "2017年，进一步精简行政审批事项，取消行政许可18项，“全链条”下放关联、相近类别事项，村（社区）证明事项从313项大幅缩减到15项。切实推进商事制度改革，全面实施“先照后证”“多证合一”。全面推行“双随机、一公开”监管。深入推进“两集中、两到位”，\\(99.8\\%\\) 的市级行政审批入驻并授权市政府政务中心，持续在多领域试点“一窗式”服务，推行“仅跑一次”改革。"
+        },
+        {
+          "block_id": "blk-c2f3e5b480ef3a229d26",
+          "page_number": 17,
+          "text": "2018年，深入开展减证便民专项行动，开展工程建设项目审批制度改革试点。全面推开“证照分离”改革，实现涉企证照“四十三证合一”，推广全程电子化网上登记。大力推进网络理政“六大平台”建设，被评为全国“互联网+政务”领域十佳优秀案例，获2018中国政府信息化管理创新奖；天府市民云上线运行，集成网上办事、智慧出行、生活缴费等各类服务146项。"
+        },
+        {
+          "block_id": "blk-8316b01fef29a44dd8cf",
+          "page_number": 17,
+          "text": "2017年，扎实抓好农村集体经营性建设用地入市、农村土地承包经营权有偿退出等改革试点。搭建农村产权交易平台，累计实现交易1.5万多宗、交易额763亿元。开展统筹城乡综合改革示范镇（片）建设。出台积分入户与条件入户“双轨并行”的户籍政策。"
+        },
+        {
+          "block_id": "blk-105ae48cb926f6c5c193",
+          "page_number": 17,
+          "text": "2018年，农村综合改革全面深化，成功获批“探索建立新型职业农民制度”等3项全国农村改革试点。集体产权制度改革深入推进，全面完成农村集体资产清产核资。强化农村要素保障，“农贷通”平台放款58.3亿元。"
+        },
+        {
+          "block_id": "blk-c17ca861760db7e223cf",
+          "page_number": 17,
+          "text": "2017-2018年，成都积极融入国家“一带一路”建设，在国际门户枢纽、国际合作平台、开放经济高地、对外交往中心等多个领域取得了显著成效，城市开放水平大幅提高。"
+        },
+        {
+          "block_id": "blk-f6e8eeacb9494d29170a",
+          "page_number": 18,
+          "text": "根据《成都市“一带一路”建设统计监测实施方案》提出的发展指标，2017-2018年成都融入“一带一路”建设总体水平呈提升趋势，绝大部分指标较2016年均有增长。"
+        },
+        {
+          "block_id": "blk-fd5bf9a7a01ca87d1dcf",
+          "page_number": 18,
+          "text": "原始 PDF 第 18 页图片"
+        },
+        {
+          "block_id": "blk-35a3eea4ceabd4ca900c",
+          "page_number": 18,
+          "text": "图1-1 2017-2018年成都融入“一带一路”建设部分指标平均增幅情况"
+        },
+        {
+          "block_id": "blk-d9c71995fc25edf32c8a",
+          "page_number": 18,
+          "text": "从2017-2018年重点领域主要指标情况来看，在互联互通方面，国际(地区)定期直飞航线数、航空旅客运输吞吐量、航空境外旅客运输吞吐量、航空货邮运输吞吐量、航空境外货邮运输吞吐量、国际铁路港集装箱吞吐量、国际班列开行量七项指标的年均增幅分别为 \\(13.9\\%\\) 、 \\(7.2\\%\\) 、 \\(9.9\\%\\) 、 \\(4.2\\%\\) 、 \\(16.5\\%\\) 、 \\(12.9\\%\\) 、 \\(118.2\\%\\) ；在经贸往来方面，世界500强企业落户数、进出口总额、利用外资实际到位总额、备案境外投资总额、跨境电子商务交易额等指标年均增幅分别为 \\(1.3\\%\\) 、 \\(35.6\\%\\) 、 \\(18.0\\%\\) 、 \\(44.6\\%\\) 、 \\(119.2\\%\\) ，但跨境人民币结算金额呈负增长，年均下降 \\(6.4\\%\\) ；在对外交往方面，驻蓉领事机构数量、国际友好城市数量、友好合作关系城市数量、举办国际展会次数、入境游客数量、旅游外汇收入等指标年均增幅为 \\(3.1\\%\\) 、 \\(4.6\\%\\) 、 \\(16.1\\%\\) 、 \\(19.1\\%\\) 、 \\(11.8\\%\\) 、 \\(8.1\\%\\) 。"
+        },
+        {
+          "block_id": "blk-bc6faf15df789ff93f88",
+          "page_number": 18,
+          "text": "总体来看，2017-2018年成都融入“一带一路”建设主要指标均呈增长态势。其中，增长幅度最大的三项指标依次为跨境电子商务交易额、国际班列开行"
+        },
+        {
+          "block_id": "blk-a4282faeb02729149f8b",
+          "page_number": 19,
+          "text": "量、备案境外投资总额；进出口总额、举办国际展会次数、利用外资实际到位总额、航空境外货邮运输吞吐量、友好合作关系城市数量、国际（地区）定期直飞航线数、国际铁路港集装箱吞吐量、入境游客数量等八项指标也呈两位数增长；跨境人民币结算金额则降幅较大。"
+        },
+        {
+          "block_id": "blk-aaad0df20d0399c93b61",
+          "page_number": 19,
+          "text": "表1-1 成都融入“一带一路”建设部分指标"
+        },
+        {
+          "block_id": "blk-b4c19f108bba903353d7",
+          "page_number": 19,
+          "text": "<table><tr><td>特征</td><td>指标</td><td>单位</td><td>2016年</td><td>2017年</td><td>2018年</td></tr><tr><td rowspan=\"7\">互联互通</td><td>国际(地区)定期直飞航线数</td><td>条</td><td>47</td><td>51</td><td>61</td></tr><tr><td>航空旅客运输吞吐量</td><td>万人次</td><td>4603.9</td><td>4980.2</td><td>5295.1</td></tr><tr><td>航空境外旅客运输吞吐量</td><td>万人次</td><td>496.4</td><td>539.9</td><td>599.8</td></tr><tr><td>航空货邮运输吞吐量</td><td>万吨</td><td>61.2</td><td>64.3</td><td>66.5</td></tr><tr><td>航空境外货邮运输吞吐量</td><td>万吨</td><td>9.8</td><td>11.7</td><td>13.3</td></tr><tr><td>国际铁路港集装箱吞吐量</td><td>万标箱</td><td>57</td><td>60.9</td><td>72.7</td></tr><tr><td>国际班列开行量</td><td>列</td><td>550</td><td>1012</td><td>2619</td></tr><tr><td rowspan=\"6\">经贸往来</td><td>世界500强企业落户数</td><td>家</td><td>278</td><td>281</td><td>285</td></tr><tr><td>进出口总额</td><td>亿美元</td><td>410.1</td><td>583</td><td>753.6</td></tr><tr><td>利用外资实际到位总额</td><td>亿美元</td><td>86.2</td><td>100.4</td><td>120</td></tr><tr><td>备案境外投资总额</td><td>亿美元</td><td>42.5</td><td>25.1</td><td>88.9</td></tr><tr><td>跨境电子商务交易额</td><td>亿元</td><td>23</td><td>50</td><td>110.5</td></tr><tr><td>跨境人民币结算金额</td><td>亿元</td><td>926.3</td><td>609.0</td><td>811.2</td></tr><tr><td rowspan=\"6\">对外交往</td><td>驻蓉领事机构数量</td><td>个</td><td>16</td><td>17</td><td>17</td></tr><tr><td>国际友好城市数量</td><td>个</td><td>32</td><td>34</td><td>35</td></tr><tr><td>友好合作关系城市数量</td><td>个</td><td>43</td><td>51</td><td>58</td></tr><tr><td>举办国际展会次数</td><td>次</td><td>115</td><td>140</td><td>163</td></tr><tr><td>入境游客数量</td><td>万人次</td><td>272.3</td><td>301.3</td><td>340.6</td></tr><tr><td>旅游外汇收入</td><td>万美元</td><td>12.4</td><td>13.1</td><td>14.5</td></tr></table>"
+        },
+        {
+          "block_id": "blk-155a9727e809ffd1bb0e",
+          "page_number": 20,
+          "text": "“蓉欧 \\(+\\) ”西向南向通道不断拓展。2017年，成都共开行国际班列1012列，其中中欧（成都）班列858条，居全国中欧班列首位；蓉欧快铁实现“南北中”三线并行，中线不断优化，南线至阿拉木图、北线至莫斯科班列稳定运行；新开行成都至莫斯科、布拉格、阿拉木图等9条线路，国际班列线路累计达到14条；新开通成都至天津、青岛、日照3条国内线路，互联互通班列累计达11条；11月3日，“蓉欧 \\(+\\) ”东盟国际铁海联运班列正式开通，打通了面向东南亚及中南半岛的物流通道。2018年，成都共开行国际班列2619列，其中中欧（成都）班列1591列，连续3年年度开行量居全国第一；新开通成都至维也纳、杜伊斯堡、不来梅、布达佩斯、汉堡、布列斯特6条国际线路和成都至泸州1条国内互联互通线路，实现24个境外城市和14个国内城市有效连接；经广西凭祥至越南的“蓉欧\\(+\\) ”东盟国际铁路班列开通运行，打通了欧洲与东南亚陆上跨洲际运输新通道；“蓉欧 \\(+\\) ”广州黄埔港铁海联运班列正式开通，开辟了经粤港澳大湾区南向出海的物流道路。"
+        },
+        {
+          "block_id": "blk-c6d94a8bc24889c7aefd",
+          "page_number": 20,
+          "text": "原始 PDF 第 20 页图片"
+        },
+        {
+          "block_id": "blk-293857716761673a95c8",
+          "page_number": 20,
+          "text": "图1-2 2013-2018年中欧（成都）班列开行量"
+        },
+        {
+          "block_id": "blk-bb31d0350441b38d98b0",
+          "page_number": 20,
+          "text": "国际航空枢纽地位巩固提升。2017年，天府国际机场主体工程及配套设施加快建设，双流国际机场扩能改造顺利推进；双流国际机场旅客吞吐量达4980.2万次，货邮吞吐量达64.3万吨，继续保持全国第四、第五的排名，居中西部首位；"
+        },
+        {
+          "block_id": "blk-7879e6934bc20743578d",
+          "page_number": 21,
+          "text": "新开通成都至纽约、洛杉矶、奥克兰、亚的斯亚贝巴、伊尔库茨克等9条国际（地区）航线；截至2017年底，成都开通航线315条，其中国际（地区）航线104条，国际(地区)定期直飞航线51条。2018年，双流国际机场完成扩能改造，天府国际机场建设加快推进；双流国际机场旅客吞吐量达5295.1万人次，成为中西部首个跻身全球“5000万级机场俱乐部”成员；货邮吞吐量达66.5万吨，居全国第五、中西部第一；新开通成都至圣彼得堡、苏黎世、万象、富国岛、开罗、法兰克福、芝加哥等国际定期直飞客货运航线12条；截止2018年底，成都共开通航线335条，其中国际（地区）航线114条，国际（地区）定期直飞航线61条。"
+        },
+        {
+          "block_id": "blk-f9148fef7cc02790ebf4",
+          "page_number": 21,
+          "text": "原始 PDF 第 21 页图片"
+        },
+        {
+          "block_id": "blk-d73aec830e6156d0166c",
+          "page_number": 21,
+          "text": "图1-3 2016-2018年成都国际航线发展情况"
+        },
+        {
+          "block_id": "blk-8956df3feb4e8d3cbd87",
+          "page_number": 21,
+          "text": "陆路通道建设稳步推进。2017年，西成客专、成昆铁路成都至峨眉段扩能改造建成投运，火车北站扩能改造、成蒲铁路、成兰铁路、成贵客专等项目加快推进；成安渝高速、成都经济区环线高速南段建成通车，天府国际机场高速、成都经济区环线高速西段和东段、成彭高速扩能改造工程加快建设；多式联运示范工程稳步实施，陆港EDI信息交换平台建成投运，铁公、铁水多式联运体系正加快形成。2018年，川藏铁路朝阳湖至雅安段、成蒲铁路、成雅铁路建成通车，火车北站扩能改造、成兰铁路、成贵铁路加快建设，成自高铁、成南达高铁、成都至西宁铁路、蓉昆高铁成都至自贡段启动前期工作；成彭高速扩能改造建成投运，天府国际机场高速、成都经济区环线高速西段、东段、北段加快建设，成绵、成南、成乐高速扩容工程进展顺利，成资渝、成宜高速启动施工；多式联运示范工程加快推进，与川南临港片区共建“无水港”，与宜宾、泸州实现铁水无缝联运。"
+        },
+        {
+          "block_id": "blk-c8d6928a97f3515c2fde",
+          "page_number": 22,
+          "text": "立体口岸服务体系持续优化。2017年，空、铁、公三大口岸加快建设，航空口岸已具备冰鲜水产品、水果、药品、植物种苗、食用水生动物5类指定口岸功能，铁路口岸已具备整车、肉类2类指定口岸功能，铁路粮食进境指定口岸、航空肉类进境指定口岸获批；航空、铁路、公路口岸全面实施政府购买口岸公共服务；积极争取新设海关特殊监管区域，加快推进高新西园综合保税区、成都天府新区保税物流中心（B型）申报建设工作。2018年，天府新区成都片区保税物流中心（B型）、成都高新西园综合保税区相继获批，成都天府国际机场口岸申报工作稳步推进；铁路进境粮食指定口岸建成投运，航空肉类指定口岸加快建设；政府购买口岸公共服务深入实施；口岸通关便利化水平不断提升，航空口岸实施“7×24小时”通关保障，所有国际航班、国际旅客和进出口货物实现随到随检、快速通关。"
+        },
+        {
+          "block_id": "blk-af4bc535b315a25e764e",
+          "page_number": 22,
+          "text": "产业引进成效显著。2017年，成都实际利用内资4812.7亿元，实际利用外资100.4亿美元，新批准外商投资项目472个，新设独立法人外商投资企业472家，在蓉世界500强企业达到281家，其中境外500强企业199家；新签约引进紫光IC国际城、药明康德、格罗方德12寸晶圆制造项目、融捷投资新能源汽车电池产业园等重大项目；积极开展投资营销活动，成功举办“中国西部（四川）进口展暨国际投资大会”“2017硅谷高科技创新创业高峰会（成都）”等活动，赴以色列、俄罗斯、捷克、波兰、西班牙、德国、奥地利等“一带一路”沿线国家（地区）进行招商引资。2018年，实际利用内资5650亿元，实际利用外资120亿美元，新批准外商投资项目494个，在蓉世界500强企业达到285家，其中境外500强企业198家；新签约引进赛诺菲中国中西部运营与创新中心、出光电子材料（中国）制造基地、埃顿集团西部战略中心及“一带一路”商务中心、业成全球研发制造中心等一批重大项目；参与组织2018成都国际投资峰会、中外知名企业四川行、世界500强企业高峰论坛等投资促进活动，组织赴瑞士、俄罗斯、泰国等多个国家开展投资推介会，推动外资企业来蓉开拓市场。"
+        },
+        {
+          "block_id": "blk-25f53fdf2b837c2eecce",
+          "page_number": 22,
+          "text": "外贸发展质量稳步提升。2017年，成都实现货物进出口总额583亿美元，其中出口总额305.6亿美元，进口总额277.4亿美元；高新技术产品出口额238.9亿美元，占出口总额比重达 \\(78.2\\%\\) ；国家跨境电子商务综合试验区建设深入推进，跨境电子商务交易额超过50亿元，全市6个跨境电商产业园区共聚集跨境电商企业"
+        },
+        {
+          "block_id": "blk-50b62939cf301e34560a",
+          "page_number": 23,
+          "text": "300余家；国家服务贸易创新发展试点绩效凸显，全市实现服务进出口总额968亿元，其中进口总额526亿元，出口总额442亿元。2018年，成都实现货物进出口总额753亿美元，其中出口总额415.1亿美元，进口总额337.9亿美元；高新技术产品出口额337.3亿元，占出口总额比重达 \\(81.3\\%\\) ；全球跨境电商服务资源中心建成投运，跨境电商公共服务平台和跨境电商检验检疫系统上线运行，跨境电商网购保税进口业务正式落地，全市跨境电子商务交易额达110.5亿元；服务贸易保持稳定增长发展态势，全市服务贸易进出口总额实现1000亿元。"
+        },
+        {
+          "block_id": "blk-3c690d80921b2ca908d2",
+          "page_number": 23,
+          "text": "原始 PDF 第 23 页图片"
+        },
+        {
+          "block_id": "blk-70cebd64cd1797a143ea",
+          "page_number": 23,
+          "text": "原始 PDF 第 23 页图片"
+        },
+        {
+          "block_id": "blk-1ee217df17aab5fde6e5",
+          "page_number": 23,
+          "text": "图1-4 2016-2018年成都产业“引进来”部分数据情况"
+        },
+        {
+          "block_id": "blk-77cac495c06c489143e9",
+          "page_number": 23,
+          "text": "图1-5 2016-2018年成都外贸增长情况"
+        },
+        {
+          "block_id": "blk-b9be13b2ff6272fa3c3a",
+          "page_number": 24,
+          "text": "企业“走出去”步伐不断加快。2017年，成都企业在“一带一路”沿线国家（地区）在建和筹建项目共计166个，涉及金额超过100亿美元；印度中国工业园、中乌农业产业园等境外合作园区加快建设，新筑路桥、科伦药业、新希望集团等民营企业境外投资项目进展顺利，市兴蓉集团巴基斯坦拉合尔垃圾焚烧发电、市兴城集团尼泊尔马相迪河流域梯级水电站等项目前期工作有序推进；截至2017年底，成都新增备案境外投资企业95家，备案投资总额25.1亿美元，实现对外承包工程营业额23.2亿美元。2018年，成都企业在“一带一路”沿线国家（地区）在建或筹建项目共计210个；境外投资模式日益多元化，天齐锂业成功收购智利化学矿业公司（SQM），四川发展、四川投资集团、四川交投、成都交投、成都兴城、成都高新发展等企业在香港、法国发行债券；截止2018年底，成都新增备案境外投资企业和机构118家，备案投资总额52.4亿美元，实现对外承包工程营业额30亿美元。"
+        },
+        {
+          "block_id": "blk-68ff802114cd413122fa",
+          "page_number": 24,
+          "text": "金融国际化水平持续提升。2017年，全市共有外资银行16家、外资保险机构24家、外资小贷公司7家、外资融资性担保公司1家、外资股权投资基金6家；结算金融加快发展，在西部城市中率先开展跨国公司总部外汇资金集中运营等多项试点，试点跨国公司已达13家，开展跨境人民币结算业务的银行机构达36家，结算国家和地区达57家，跨境人民币结算金额达到609亿元；金融国际合作能力不断增强，成功举办“川港澳合作周·成都建设国家西部金融中心专场活动”，与香港、新加坡、伦敦等境外证券市场建立了紧密的合作关系。2018年，全市共有外资银行16家、外资保险机构25家、外资小贷公司7家；深入推进跨境结算业务，促进跨境投融资便利化，跨国公司总部外汇资金集中运营管理试点企业达17家，跨境人民币结算金额达到811.2亿元；成功举办“2018国际金融科技论坛”，与工商银行多家海外分支机构签订《“一带一路”金融战略合作协议》，共建“一带一路”项目融资平台。"
+        },
+        {
+          "block_id": "blk-db82e2568e0e5d1136ec",
+          "page_number": 24,
+          "text": "国际经贸交流合作扎实推进。2017年，实施“成都造”、“一带一路”市场开拓行动，组织近400家“成都造”本地企业参加德国汉诺威工业展、印度电子展等境外展会活动，促成成都本土企业成功进入德国、澳大利亚、印度等高端海外市场和新兴海外市场；组织40余家企业出访欧洲、拉丁美洲等国，在通用航"
+        },
+        {
+          "block_id": "blk-1b3811d8f2f68149b811",
+          "page_number": 25,
+          "text": "空、文创、科技等领域取得系列合作成果；欧洲经济一体化委员会中国办事处落户成都并入驻“一带一路交往中心”。2018年，组织筹办川港澳合作周、2018成都·白俄罗斯经贸交流合作对接会、2018南亚（泛亚）产能合作对话会等多项经贸交流活动，在跨境电商、文化旅游、物流通道建设等领域取得系列合作成果；与德国、奥地利、泰国、巴基斯坦等驻蓉领事机构合作举办不同形式的经贸活动，促进成都加速融入海外市场。"
+        },
+        {
+          "block_id": "blk-96d51bdbda9644fa0b37",
+          "page_number": 25,
+          "text": "自贸试验区建设全面启动。2017年，《中国（四川）自由贸易试验区总体方案》获得国务院批复同意，成都自贸试验区正式挂牌；区内新增注册企业1.92万家，注册资本2948.7亿元；155项改革任务全面启动，形成“中欧班列多式联运一单制”等138个改革实践案例，其中3个案例在全国复制推广；成功争取扩大航权开放、144小时过境免签、跨境电商实行零售进口过渡期监管等政策；投资贸易自由化便利化改革有序推进，完成外商投资准入前国民待遇加负面清单管理等16条改革试验任务，国际贸易单一窗口标准版试点稳步实施，实现空港“7×24小时”客运口岸通关、货运口岸预约通关。2018年，成都自贸试验区建设成效显著，区内新增注册企业47370户，新增注册资本5367亿元；探索形成“‘首证通’行政审批改革”、“中欧班列‘集拼集运’”、“公证最多跑一次”、“知识产权类型化案件快审机制”等220多个改革实践案例；落地实施10余项贸易便利化创新改革，正式印发《自由贸易试验区外商投资准入特别管理措施（负面清单）（2018年版）》，大力推进国际贸易“单一窗口”改革，探索形成“国际会展检验检疫监管新模式”。"
+        },
+        {
+          "block_id": "blk-c13572b320d5bd7612d6",
+          "page_number": 25,
+          "text": "国别合作园区建设取得成效。2018年，国别合作园区“领导小组+推进小组+行业协会+企业”多层次合作交流机制有效建立，基础设施建设和产业引育同步推进；中德（蒲江）中小企业合作区累计完成基础设施投资25亿元，已落户德国博世集团、色瑞斯认证、康联公司、拜仁激光等162家企业，建成德系标准化厂房约11万平方米；中法生态园弗吉亚、风神物流等近30家汽车零部件项目加快建设，签订川能投-法能集团合资的分布式能源项目，引进中法西南能源管理数据中心、标致雪铁龙电动汽车等项目；中韩创新创业园出台《关于推动中韩创新创"
+        },
+        {
+          "block_id": "blk-fdbf060bf70ef7e69038",
+          "page_number": 26,
+          "text": "业园建设的专项政策》及实施细则，已吸引4家中韩众创空间和40家韩资项目入驻；新川创新科技园累计落户产业项目29个，总投资约255亿元，引进了深圳中微、天象互动、美国美敦力等6个总部研发中心项目；中意文化创意园正式落户天府新区成都片区，各项工作有序推进。2018年，中德（蒲江）中小企业合作区签约落户德国DJM智能康复医疗器械、奥地利三康等工业项目54个，成功推动中德工业4.0暨全球采购大会、北京洪堡论坛成都论坛永久落户园区；中法生态园区标致雪铁龙集团电动汽车分享项目、日晗汽车零部件基地、中法文化交流中心项目有序推进，成功举办达利画展、中法国际美食文化节等系列文化交流活动；中韩创新创业产业园设立中韩创新创业产业基金，筹建“中韩离岸创新创业基地”，推动4家中韩众创空间和51家韩资项目入驻园区；新川创新科技园累计签约重点项目34个，总投资超过480亿元，新加坡创新中心启动建设；中意文化创意园引进四川天府新区中意设计创新基地、华谊兄弟（天府）国际艺术小镇等项目，成功承办中意文化创新峰会。"
+        },
+        {
+          "block_id": "blk-b5ac2ac26c18a8a90133",
+          "page_number": 26,
+          "text": "原始 PDF 第 26 页图片"
+        },
+        {
+          "block_id": "blk-b4fa7ea4121612253aed",
+          "page_number": 26,
+          "text": "图2-6 成都国别合作园区"
+        },
+        {
+          "block_id": "blk-82143b7b97b3c996defc",
+          "page_number": 27,
+          "text": "综合服务保障体系加快构建。2017年，“中国—欧洲中心”启动运营，“一带一路”交往中心挂牌成立，“一带一路”经济联络基地起步建设；金融机构加大“一带一路”项目信贷支持；“一带一路”法律联盟服务中心挂牌成立，发布《成都涉外法律服务指南》，举办2017成都国际投资法律服务论坛、“一带一路”法律服务国际（成都）论坛；南亚国家标准化研究（成都）中心获批，启动建设成都“一带一路”标准服务中心。2018年，“中国—欧洲中心”建成启用，累计达成入驻意向机构160家；中国（四川）一东盟自贸合作中心挂牌成立，中国“一带一路”研究培训中心起步建设；四川自由贸易试验区人民法院挂牌成立，国际商事仲裁中心正式运营，四川首个涉外法律援助工作站正式落地；印发实施《成都市关于加强外国人永久居留服务管理的实施意见》，设立了国际人员往来单一窗口、3个出入境服务站、2个外籍人士之家，进一步完善配套服务体系。"
+        },
+        {
+          "block_id": "blk-81631701b25927b2a83b",
+          "page_number": 27,
+          "text": "原始 PDF 第 27 页图片"
+        },
+        {
+          "block_id": "blk-eac96479bc04f8528ad7",
+          "page_number": 27,
+          "text": "图2-7 中国-欧洲中心"
+        },
+        {
+          "block_id": "blk-82f4f9885e0a2d3f0808",
+          "page_number": 27,
+          "text": "会展之都和赛事名城建设有力推进。2017年，成功举办2017腾讯全球合作伙伴大会、联合国世界旅游组织第二十二届全体大会、2017亚洲教育论坛年会、2017成都全球创新创业交易会、2017国际可持续发展高峰论坛等重大展会活动"
+        },
+        {
+          "block_id": "blk-44c88bbc1179fc12a2b2",
+          "page_number": 28,
+          "text": "595个，其中国际性会展活动140个；展览面积约366万平方米，会展业总收入932亿元，其中直接收入94亿元，增长 \\(12.6\\%\\) ；成功举办2017成都国际马拉松、铁人三项世界杯赛、首届“一带一路”春天印象成都国际乒乓球公开赛等18项国际重大体育赛事。2018年，成功举办联合国人居署国际城市可持续发展高层论坛、APEC城镇化专家论坛、2018成都国际友城市长创新论坛、中非民间论坛、中国西部国际博览会等重大展会活动689个，其中国际性会展活动163个；展览总面积约1027.2万平方米，会展业总收入1091.9亿元，其中直接收入110.2亿元，增长\\(17.8\\%\\) ；规划建设天府奥体城，开工建设凤凰山体育中心、皇冠湖体育中心；成功举办ATP250成都网球公开赛、都市自行车世界锦标赛等21项国际体育赛事，成功申办第三十一届世界大学生夏季运动会。"
+        },
+        {
+          "block_id": "blk-7dc50808c6782045b651",
+          "page_number": 28,
+          "text": "原始 PDF 第 28 页图片"
+        },
+        {
+          "block_id": "blk-98ba31e16dd64eb68744",
+          "page_number": 28,
+          "text": "图1-8 2016-2018年成都重大展会活动举办情况"
+        },
+        {
+          "block_id": "blk-d80ecc85c8c84b88274e",
+          "page_number": 28,
+          "text": "美食之都和音乐之都建设取得成效。2017年，成功举办2017西班牙成都周一成都美食节、2017旧金山·成都美食文化节、第十四届成都美食旅游节暨第七节国际慢食全球大会、2017成都火锅文化月等大型活动；成功举办2017首届成都国际音乐（演艺）设施设备博览会、“蓉城之秋·成都国际音乐季”等活动；设立国内首支音乐产业基金——成都音乐文化产业基金，发起成立“中国专业音乐院校原创音乐发展联盟”；云端·天府音乐厅建成投用，城市音乐厅、成都露天音"
+        },
+        {
+          "block_id": "blk-44decedd83fa15d4ab5f",
+          "page_number": 29,
+          "text": "乐广场等项目建设顺利推进。2018年，赴境外举办2018欧洲·成都美食文化节、日本东京成都美食文化节、俄罗斯成都美食文化节，组织举办2018美食之都成都火锅文化月；成功举办成都国际友城青年音乐周、2018成都国际熊猫音乐节、2018 BONBON西部音乐节、“蓉城之秋”国际音乐季等各类音乐活动；成立“中阿音乐联盟”；建成运行城市音乐厅、成都露天音乐广场和新声剧场。"
+        },
+        {
+          "block_id": "blk-1ba30754d336375e1770",
+          "page_number": 29,
+          "text": "世界旅游名城建设深入推进。2017年，成都接待旅游总人数2.1亿人次，其中接待入境旅游人数301.3万人次，同比增长 \\(10.7\\%\\) ；实现旅游外汇收入13.1亿美元，同比增长 \\(5.2\\%\\) ；加强与“一带一路”沿线国家和地区的旅游合作，组织开展“2017西班牙成都周”、“中澳旅游年-成都城市主题日”活动，赴伦敦、苏黎世、香港等城市开展成都文化旅游营销活动；全力承办联合国世界旅游组织第22届全体大会。2018年，成都接待旅游总人数2.4亿人次，其中接待入境旅游人数340.6万人次，同比增长 \\(13\\%\\) ；实现旅游外汇收入14.5亿美元，同比增长\\(10.7\\%\\) ；先后在全球30个国际旅游目的地城市开展“南方丝路·熊猫之都”境外旅游推荐活动，持续开展“PANDA成都走世界”旅游营销活动，在曼哈顿、曼谷等地设立成都旅游体验中心；积极承办中国（四川）国际旅游投资大会、中阿城市文化和旅游论坛，有效提升了成都旅游的知名度和影响力。"
+        },
+        {
+          "block_id": "blk-95782d406482b2440168",
+          "page_number": 29,
+          "text": "表1-2 2016-2018年成都旅游业发展情况"
+        },
+        {
+          "block_id": "blk-462e9cb5cab1f5400502",
+          "page_number": 29,
+          "text": "<table><tr><td>年份</td><td>旅游总人数 (亿人次)</td><td>旅游总收入 (亿元)</td><td>入境旅游人次 (万人次)</td><td>旅游外汇收入 (亿美元)</td></tr><tr><td>2016年</td><td>2.0</td><td>2502.3</td><td>272.3</td><td>12.4</td></tr><tr><td>2017年</td><td>2.1</td><td>3034.7</td><td>301.3</td><td>13.1</td></tr><tr><td>2018年</td><td>2.4</td><td>3712.6</td><td>340.6</td><td>14.5</td></tr></table>"
+        },
+        {
+          "block_id": "blk-f06d33b366ce33402401",
+          "page_number": 29,
+          "text": "多领域交流合作持续深化。2017年，外国驻蓉领事机构达到17个，国际友城和友好合作关系城市分别增至34个和51个，“海外成都”工作站增至16个，加入C40城市气候领导联盟；教育文化交流更加频繁，成立成都一东盟艺术学院，“PANDA成都”走进16个海外城市，成功举办中国(成都)—印度国际瑜伽节、2017年成都国际友城青年音乐周、2017中国成都·金砖国家电影节等国际性文化活动，成为金砖国家电影节在中国的永久举办地；在波士顿、首尔等城市设立离"
+        },
+        {
+          "block_id": "blk-06108a9283d8bd02f570",
+          "page_number": 30,
+          "text": "岸创新创业基地18个，首倡并实施全球顶级科技园合伙人计划，牵头成立“世界一流科技园区联盟”，休斯敦技术中心中国中心、卡耐基梅隆大学成都研究院在蓉落户。2018年，外国驻蓉领事机构达17个，国际友城和友好合作关系城市分别增至35个和58个，新增“海外成都”工作站4个，荣获中国国际友城交流合作奖；教育文化交流更加频繁，成功举办中国一中东欧国家艺术合作论坛、第四届阿拉伯艺术节，成立中国一中东欧国家青年艺术人才培训和实践中心、中国一中东欧国家文创产业合作中心；“一带一路”世界文化名城中心落户成都，拉巴特中国文化中心建成揭牌；设立“一带一路”政府奖学金暨成都市东盟艺术奖学金，与四川大学共建“一带一路”教育协同创新研究中心。"
+        },
+        {
+          "block_id": "blk-bb80257d348aea085b8f",
+          "page_number": 30,
+          "text": "原始 PDF 第 30 页图片"
+        },
+        {
+          "block_id": "blk-13d71c4fe5f7f999091b",
+          "page_number": 30,
+          "text": "图1-8 2016-2018年成都领事馆及友城数量变化情况"
+        },
+        {
+          "block_id": "blk-fbbabf94565a9778f665",
+          "page_number": 30,
+          "text": "当前，中国特色社会主义进入新时代，我国经济已由高速增长阶段转向高质量发展阶段，改革开放进入新的阶段，“一带一路”建设也进入全面务实合作的新阶段。站在新的历史方位，我国将通过“一带一路”建设加速推动新时代改革开放进程，进一步推进互联互通合作，打造国际合作新平台，形成陆海内外联动、东西双向互济的开放新格局。面对新时代高质量发展要求，成都将主动在国"
+        },
+        {
+          "block_id": "blk-16148a289a9aa7f67b67",
+          "page_number": 31,
+          "text": "家开放全局中找准方向、把握机遇，进一步融入“一带一路”建设，不断扩大对外开放、提高对外开放水平，以开放促改革、促发展。"
+        },
+        {
+          "block_id": "blk-f7d7d8024fdd00e7357b",
+          "page_number": 31,
+          "text": "成都市委十三届二次全会确立了新时代成都“三步走”战略目标，提出到2020年基本建成全面体现新发展理念的国家中心城市，到2035年全面建成泛欧泛亚有重要影响力的国际门户枢纽城市，到本世界中叶成为可持续发展的世界城市。根据新时代“三步走”战略目标的要求，成都将切实增强“五中心一枢纽”核心功能，以新开放观融入“一带一路”建设，打造向西向南开放门户，在更高层次、更广范围加强对外贸易和投资，积极融入全球城市网络分工与合作。"
+        },
+        {
+          "block_id": "blk-f4d71e208ce9a2024b12",
+          "page_number": 31,
+          "text": "中国（四川）自由贸易试验区建设是我国自贸区战略的重要组成部分，肩负着内陆与沿海、沿江、沿边协同改革、联动开放的使命，是国家“一带一路”建设的重要平台支撑。随着四川自贸试验区建设深入推进，成都作为主体核心，将在学习借鉴上海等自贸试验区建设经验的基础上，以制度创新为核心探索内陆自贸区发展路径，在重点领域和关键环节取得突破，有利于更好的促进成都融入“一带一路”建设，加强成都与东盟、欧洲等“一带一路”沿线国家间的经贸合作。"
+        },
+        {
+          "block_id": "blk-aee152695cae0751d7a0",
+          "page_number": 31,
+          "text": "成都城市综合经济实力持续增强，开放型经济水平不断提高，城市能级快速跃升。2018年，成都在全球化与世界城市（GaWC）研究网络的全球城市排名中上升至71位，成功跻身Beta+级别，实现了再次跃升。同时，伴随成都加快建设世界旅游名城、世界文创名城、世界赛事名城、国际会展之都、国际美食之都和国际音乐之都，城市影响力日益提升，进一步增强成都对要素的吸引、集聚和扩散能力，促进成都在“一带一路”建设中发挥更大作用。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-83be4b1d3c3a:bundle-702102b81314",
+      "excluded_fragments": [],
+      "ref_id": "ref-83be4b1d3c3a",
+      "source_blocks": [
+        {
+          "block_id": "blk-3e7e2fdeabe64bb4d34b",
+          "page_number": 10,
+          "text": "2016年，面对错综复杂的宏观形势和较大的下行压力，成都经济社会呈现“运行平稳、稳中提质、稳中趋好、活力增强”的发展态势。全市全年实现地区生产总值12170.2亿元，同比增长 \\(7.7\\%\\) ；完成固定资产投资8370.5亿元，同比增长\\(14.3\\%\\) ；社会消费品零售总额5742.4亿元，增长 \\(10.4\\%\\) ；城镇居民人均可支配收入35902元，农村居民人均可支配收入18605元，分别增长 \\(8.1\\%\\) 和 \\(9.4\\%\\)"
+        },
+        {
+          "block_id": "blk-a86fee1165839bd5d870",
+          "page_number": 10,
+          "text": "一是工业经济稳步提升。全市全年实现工业增加值4508.6亿元，同比增长\\(6.9\\%\\) 。规模以上工业增加值同比增长 \\(7.4\\%\\) ，其中轻工业增加值增长 \\(1.7\\%\\) ，重工业增加值增长 \\(10.5\\%\\) ，规模以上工业企业产品产销率达到 \\(96.3\\%\\) 。电子信息、汽车等优势产业做大做强，电子信息产业规模达4800亿元，汽车整车产量突破110万辆、产值达1700亿元；轨道交通、航空航天、生物医药、新材料等战略性新兴产业加快培育，产值分别增长 \\(10\\%\\) 、 \\(40\\%\\) 、 \\(12\\%\\) 、 \\(18\\%\\) 。全年完成工业投资2185亿元、技改投资1850亿元，分别增长 \\(37.1\\%\\) 、 \\(38.5\\%\\) ，东风神龙、英特尔骏马等135个项目竣工投产，京东方第6代AMOLED生产线、中铁轨道交通等项目加快建设，中电"
+        },
+        {
+          "block_id": "blk-5c0c86439a6685435df6",
+          "page_number": 11,
+          "text": "子8.6代液晶面板、中电科信息安全等119个项目开工建设，紫光IC国际城、吉利新能源汽车等139个重大项目签约引进。"
+        },
+        {
+          "block_id": "blk-87dae5ea298da50469bc",
+          "page_number": 11,
+          "text": "二是现代服务业平稳增长。全年实现服务业增加值6493.3亿元，同比增长\\(9.0\\%\\) ，占地区生产总值比重达到 \\(53.4\\%\\) ；完成固定资产投资（不含商品住宅）4524.6亿元，同比增长 \\(9.2\\%\\) 。自贸试验区成功获批，提升了成都在全国和西部的开放地位和优势。国家内贸流通体制改革发展综合试点圆满完成，形成5项可在全国范围复制推广的试点成果。西部金融中心建设成效突出，启动建设成都天府国际基金小镇，设立规模400亿元的成都前海产业投资引导基金，成都金融资产交易中心正式运营，金融综合竞争力位居中西部第一。现代商贸业提升发展，春熙路－盐市口等商圈业态升级，新增离境入境退税商店41个，全球 \\(80\\%\\) 以上的知名品牌落户成都，电子商务交易额达8000亿元，获批国家跨境电商试点城市。现代物流、科技服务、检验检测、信用评级等生产性服务业加快发展。"
+        },
+        {
+          "block_id": "blk-c5c015b15c980e72049e",
+          "page_number": 58,
+          "text": "检验检测、信用评级等生产性服务业加快发展"
+        },
+        {
+          "block_id": "blk-0cfd8daf9de7e210b966",
+          "page_number": 11,
+          "text": "三是现代农业稳中提质。全年实现农业增加值474.9亿元，同比增长 \\(4.0\\%\\) 全年农作物播种面积88.3万公顷，粮食总产量290.4万吨，油料总产量33.5万吨，肉类总产量78.4万吨。农业品牌化、标准化发展加快，2016年末全市共有农产品名牌399个，其中国家级品牌30个；已认证各类安全优质农产品1261个，新增无公害农产品、绿色和有机农产品认证36个。积极推动农业组织化、市场化，农业产业化经营带动面为 \\(90\\%\\) ，年销售收入500万亿以上规模企业达492家。深入实施“米袋子”“菜篮子”工程，农产品生产区、加工区、乡村旅游区融合发展，地理标志产品达61个。"
+        },
+        {
+          "block_id": "blk-adfb373a9a7d24117a95",
+          "page_number": 11,
+          "text": "一是城镇建设不断加快。加快中心城区有机更新，启动成都中心建设和三环路扩能提升，加快推进小街区规制示范区建设，完成城中村改造4650户、棚户区改造1.28万户，实现“北改”投资720亿元。统筹推进天府新区基础设施、产业园区和城市组团建设，西部博览城主体竣工，益州大道南段等31个项目开工建设，“六纵六横”骨干路网体系基本形成。加快4个小城市和10个特色小城镇建设，德源镇、安仁镇获评第一批中国特色小镇。"
+        },
+        {
+          "block_id": "blk-644e11eecefaded7bb6f",
+          "page_number": 11,
+          "text": "二是城市基础设施持续完善。大力推进轨道交通加速成网，地铁3号线一期、4号线一期开通运营，5号线等7个项目加快建设，6号线等6个项目开工建设，"
+        },
+        {
+          "block_id": "blk-7d55f8d06fd440d06783",
+          "page_number": 12,
+          "text": "地铁运营和在建里程分别达108公里、276公里，第三期轨道交通建设规划获批，新一轮线网规划编制完成。优化中心城区路网体系，成温邛快速路和大件路外绕线建成通车，天府国际机场高速公路开工建设，成彭高速公路扩能改造加快推进。新建4G基站7300多个。积极开展海绵城市建设，获批全国地下综合管廊试点城市。"
+        },
+        {
+          "block_id": "blk-33fb854feb23c7df5642",
+          "page_number": 12,
+          "text": "三是城乡人居环境显著优化。开工建设李家岩水库，加快环城生态区建设，青龙湖一期、桂溪生态公园等建成开放。启动大规模绿化全川成都行动，实施“增花添彩”工程，规划建设60个赏花基地，新增公园绿地13万平方米，中心城区绿化覆盖率达 \\(40.9\\%\\) ，全市森林覆盖率达 \\(38.7\\%\\) 。积极防治大气污染，实施减排、压煤、抑尘、治车、控秸五大工程，大气主要污染指标持续下降，空气重污染天数比上年减少9天。提升水环境质量，实施“河长制”管理，持续开展岷江、沱江流域水环境治理，推进城市建成区黑臭水体综合治理、下河排水口污染治理、污水处理厂扩能提标改造，岷江流域水质明显改善。提升城市治理水平，制定80项城市管理标准，开展城郊结合部环境治理攻坚行动，强化生活垃圾分类处理，实施市政设施提升工程。"
+        },
+        {
+          "block_id": "blk-fc20d52b69ef69e724c1",
+          "page_number": 12,
+          "text": "一是开放通道建设不断加快。深入实施“蓉欧 \\(+\\) ”战略，蓉欧快铁中线延伸至欧洲更多城市，开通北线至莫斯科、南线至伊斯坦布尔测试班列，初步形成“三线并进”格局，全年开行460列，居中欧班列首位；稳定开行至上海、深圳等8个国内城市互联互通班列，带动联想、戴尔等企业加速向成都转移适欧产能。天府国际机场征地拆迁基本完成并开工建设，启动双流国际机场扩能改造，新开通6条国际定期直飞航线，客货吞吐量分别突破4603.9万人次、61.2万吨。“四主三辅”铁路客运枢纽场站加快形成，川藏、成贵、西成、成兰等铁路加快建设，成德铁路实现公交化开行。成都经济区环线高速公路加快建设，成渝西昆贵“钻石经济圈”高速公路主骨架加快构建。"
+        },
+        {
+          "block_id": "blk-e2c37f993a38e0a23503",
+          "page_number": 12,
+          "text": "二是外经外贸稳定增长。全年实现进出口总额409.8亿美元，服务贸易总额120亿美元。全年利用外资实际到位86.2亿美元，同比增长 \\(14.5\\%\\) ；新批准外商投资项目268个，其中1000万美元以上项目53个。中德、中法、中韩、中古、新川等国际合作园区加快建设。企业“走出去”步伐加快，新增备案境外投资企业149家，境外投资核准（备案）金额达到42.5亿美元，对外承包工程完成营业额达到"
+        },
+        {
+          "block_id": "blk-0d9ba0eb424c0cd5bb3e",
+          "page_number": 13,
+          "text": "三是区域合作纵深推进。大力推进“1+7”成都平原城市群同城化发展，与淮安、资阳、甘孜、凉山达成合作协议，促进成渝经济区一体化发展，推动成渝西昆贵“钻石经济圈”协同发展，与青海签署省市合作备忘录，加强与长三角、珠三角、京津冀等区域城市合作。"
+        },
+        {
+          "block_id": "blk-e0c1fb15b5126009f5ca",
+          "page_number": 13,
+          "text": "一是自主创新能力不断增强。统筹推进全面创新改革试验，国家自主创新示范区全面落实“6+4”先行先试政策，国家技术转移西南中心成功落户。全市新增科技型企业1.2万家，新增国家级创新平台5家，全社会研发投入增长 \\(12.7\\%\\) ，发明专利申请量突破3.6万件，高新技术企业达到2098家，高新技术产业产值8387.4亿元。"
+        },
+        {
+          "block_id": "blk-4a8b905b7b905747a527",
+          "page_number": 13,
+          "text": "二是协同创新全面推进。深化政产学研用协同创新，制定科技成果转化转化“新十条”政策，在全国率先推出“早确权、早分割、共享制”改革模式。与7所在蓉高校院所签署共建“双一流”战略合作协议，设立5个新型产业技术研究院。成都科学城引进中科院成都科学研究中心等10个校院地合作项目，清华能源互联网研究院等15家科研企业入驻。系统推进军民融合创新发展，建设成都信息安全产业园等102个项目，加快建设航空整机等6个省级产业基地、天府新区军民融合创新产业园等6个市级产业园。"
+        },
+        {
+          "block_id": "blk-b52c5add17f7bc369c18",
+          "page_number": 13,
+          "text": "三是“创业天府”行动计划深入实施。成功举办2016中国·成都全球创新创业交易会，举办“菁蓉汇”走进韩国、以色列等系列活动180场。郫都区、中国电信（成都）、四川大学获批全国首批双创示范基地，新增国家级众创空间31家、孵化器面积102万平方米。优化创新创业环境，出台人才新政十条，引进3个诺贝尔奖团队，新建20个院士专家工作站，获批国家知识产权质押融资和专利保险双示范城市。"
+        },
+        {
+          "block_id": "blk-9b6a3312085e804f1243",
+          "page_number": 13,
+          "text": "一是公共服务水平显著提升。大力发展教育事业，建成公办幼儿园206所，新增学位5.9万个，投入21亿元实施义务教育免费、中职教育学费减免等助学工程，妥善解决36.5万名进城务工人员随迁子女接受义务教育，高考本科升学率突破 \\(70\\%\\) ，市属高校教育质量稳步提升。医药卫生体制改革加速推进，新型医联体"
+        },
+        {
+          "block_id": "blk-81d2f6be7a1e79bd172f",
+          "page_number": 14,
+          "text": "实现基层全覆盖，分级诊疗模式初步形成，中医药事业健康发展，全面两孩政策平稳实施，获批全国首批健康城市试点。文化体育事业蓬勃发展，开工建设城市音乐厅，建成并开放成都博物馆，初步完成奥体中心规划选址，成功举办ATP250世界巡回赛、第十三届市运会等体育赛事。"
+        },
+        {
+          "block_id": "blk-0ce5cc6074ddb392faed",
+          "page_number": 14,
+          "text": "二是就业和社会保障体系持续完善。实施积极的就业政策，城镇新增就业27.9万人，城镇登记失业率预计在 \\(4\\%\\) 以内。实施全民参保计划，大病医疗互助补充险最高支付比例提高至 \\(90\\%\\) ，发放困难群众价格补贴2.3亿元。竣工保障性住房11572套。建成社区养老院72个，改筹建养老床位1.75万张，为7.38万名困难家庭失能老人和80周岁以上老人提供居家养老服务。"
+        },
+        {
+          "block_id": "blk-1ed81b30a9a74947eddc",
+          "page_number": 14,
+          "text": "三是扶贫攻坚扎实推进。突出抓好简阳市脱贫攻坚，完成2965人易地扶贫搬迁，31个省定贫困村、15952人实现摘帽脱贫。高标准推进城乡扶贫开发，实施“百村万户”精准扶贫，相对贫困村农民人均可支配收入达1.2万元，增长 \\(20\\%\\) 以上。加强甘孜、阿坝19个县对口支援，实施产业发展、公共建设、教育医疗等重点项目116个。"
+        },
+        {
+          "block_id": "blk-ca04614376593d83a19f",
+          "page_number": 14,
+          "text": "四是平安成都建设全面深化。完善立体化社会治安综合防控体系，实施重点行业领域安全隐患专项整治，安全生产事故持续下降。启动“七五”普法，大力推进信访法治化建设，社会保持和谐稳定。食品药品安全形势持续稳中向好，在全国率先探索全过程控制、全链条信息化的食品药品智慧监管模式。连续5年获评“中国最具幸福感城市”。"
+        },
+        {
+          "block_id": "blk-5a2a1a52319111665d6e",
+          "page_number": 14,
+          "text": "一是供给侧结构性改革加快实施。制定供给侧结构性改革“1+5”实施方案，淘汰落后产能企业51户，房地产市场保持平稳健康发展，规模以上工业企业资产负债率下降2.4个百分点，降低电价和天然气价格，阶段性降低社保费率，为企业减负近70亿元。"
+        },
+        {
+          "block_id": "blk-e7420b84682cb5bd6d48",
+          "page_number": 14,
+          "text": "二是行政体制改革持续推进。深化“放管服”改革，取消调整行政审批56项，行政审批前置条件及中介服务事项同比分别减少 \\(33\\%\\) 、 \\(76.6\\%\\) 。深化商事制度改革，实施企业“五证合一、一照一码”和个体工商户“两证整合”登记改革。"
+        },
+        {
+          "block_id": "blk-0d9d0a158412012734b5",
+          "page_number": 14,
+          "text": "三是财税和投融资体制改革深入实施。推出PPP项目39个，首批“拨改租”项目签约总投资255亿元，7支企业债获准发行，争取国家专项建设基金367.4亿"
+        },
+        {
+          "block_id": "blk-2abe02137376018f2189",
+          "page_number": 15,
+          "text": "元，“营改增”有序推进，民间投资增长 \\(15.5\\%\\) 、占投资比重达 \\(56.2\\%\\) 。推进3户国有资本投资运营公司试点，5户市属国企在新三板或区域股权交易市场挂牌。"
+        },
+        {
+          "block_id": "blk-dc924ec698c92f667b1f",
+          "page_number": 15,
+          "text": "四是统筹城乡改革不断深化。基本完成农村“新四权”登记颁证，启动不动产统一登记，试点集体资产股份化改革，探索农户自愿有偿退出宅基地途径，新建成“小组微生”新农村综合体100个。顺利完成简阳市代管关系变更和工作并轨对接，双流县、郸县撤县设区。"
+        },
+        {
+          "block_id": "blk-0dae87154ee1827bc250",
+          "page_number": 15,
+          "text": "2016年，成都研究制定《成都市融入“一带一路”三年（2016—2018年）行动计划》，积极融入国家“一带一路”建设，在战略通道、国际合作平台、产业开放合作、对外交往等多个领域取得了显著成效，城市开放水平大幅提高。"
+        },
+        {
+          "block_id": "blk-f5ebc13f2c9f36a9600f",
+          "page_number": 15,
+          "text": "根据《成都市“一带一路”建设统计监测实施方案》提出的发展指标，2016年成都融入“一带一路”建设总体水平呈提升趋势，绝大部分指标较2015年均有增长。"
+        },
+        {
+          "block_id": "blk-8865b9b6ae69f18ffc51",
+          "page_number": 15,
+          "text": "原始 PDF 第 15 页图片"
+        },
+        {
+          "block_id": "blk-a2810565d735e544fc89",
+          "page_number": 15,
+          "text": "图1-1 2016年成都融入“一带一路”建设部分指标较上年增幅情况"
+        },
+        {
+          "block_id": "blk-c094c291743b9a9b6b6c",
+          "page_number": 16,
+          "text": "从2016年重点领域主要指标情况来看，在互联互通方面，国际（地区）定期直飞航线数、航空旅客吞吐量、航空货邮吞吐量、国际铁路港集装箱吞吐量、国际班列开行量五项指标分别比上年增长了 \\(14.6\\%\\) 、 \\(9.0\\%\\) 、 \\(9.9\\%\\) 、 \\(30.8\\%\\) 、 \\(313.5\\%\\) ；在经贸往来方面，世界500强企业落户数、进出口总额、利用外资实际到位总额、备案境外投资总额分别比上年增长了 \\(3.7\\%\\) 、 \\(4.4\\%\\) 、 \\(14.6\\%\\) 、 \\(124.9\\%\\) ；在对外交往方面，驻蓉领事机构数量、国际友好城市数量、友好合作关系城市数量、年度举办国际展会次数、入境游客数量、旅游外汇收入等指标分别比上年增长了 \\(6.7\\%\\) 、 \\(10.3\\%\\) 、 \\(7.7\\%\\) 、 \\(23.7\\%\\) 、 \\(18.1\\%\\) 、 \\(42.5\\%\\) 。其中，增长幅度最大的指标依次为国际班列开行量、备案境外投资总额、旅游外汇收入、国际铁路港集装箱吞吐量；此外，年度举办国际展会次数、国际（地区）定期直飞航线数、利用外资实际到位总额、入境游客数量、国际友好城市数量、友好合作关系城市数量等指标均呈两位数增长。"
+        },
+        {
+          "block_id": "blk-996c1d43da2e85776a66",
+          "page_number": 16,
+          "text": "表 1-1 成都融入 “一带一路” 建设部分指标"
+        },
+        {
+          "block_id": "blk-507eb263a0f6ceb07fbe",
+          "page_number": 16,
+          "text": "<table><tr><td>特征</td><td>指标</td><td>单位</td><td>2015年</td><td>2016年</td></tr><tr><td rowspan=\"6\">互联互通</td><td>国际(地区)定期直飞航线数</td><td>条</td><td>41</td><td>47</td></tr><tr><td>航空旅客吞吐量</td><td>万人次</td><td>4224.5</td><td>4603.9</td></tr><tr><td>航空货邮吞吐量</td><td>万吨</td><td>55.7</td><td>61.2</td></tr><tr><td>航空境外货邮吞吐量</td><td>万吨</td><td>-</td><td>9.8</td></tr><tr><td>国际铁路港集装箱吞吐量</td><td>万标箱</td><td>43.6</td><td>57</td></tr><tr><td>国际班列开行量</td><td>列</td><td>133</td><td>550</td></tr><tr><td rowspan=\"6\">经贸往来</td><td>世界500强企业落户数</td><td>家</td><td>268</td><td>278</td></tr><tr><td>进出口总额</td><td>亿美元</td><td>392.7</td><td>410.1</td></tr><tr><td>利用外资实际到位总额</td><td>亿美元</td><td>75.2</td><td>86.2</td></tr><tr><td>备案境外投资总额</td><td>亿美元</td><td>18.9</td><td>42.5</td></tr><tr><td>跨境电子商务交易额</td><td>亿元</td><td>-</td><td>23</td></tr><tr><td>跨境人民币结算金额</td><td>亿元</td><td>-</td><td>926.3</td></tr></table>"
+        },
+        {
+          "block_id": "blk-71556133a059246603ce",
+          "page_number": 17,
+          "text": "续表"
+        },
+        {
+          "block_id": "blk-872335bc5e42287ccdd3",
+          "page_number": 17,
+          "text": "<table><tr><td>特征</td><td>指标</td><td>单位</td><td>2015年</td><td>2016年</td></tr><tr><td rowspan=\"6\">对外交往</td><td>驻蓉领事机构数量</td><td>个</td><td>15</td><td>16</td></tr><tr><td>国际友好城市数量</td><td>个</td><td>29</td><td>32</td></tr><tr><td>友好合作关系城市数量</td><td>个</td><td>39</td><td>43</td></tr><tr><td>年度举办国际展会次数</td><td>次</td><td>93</td><td>115</td></tr><tr><td>入境游客数量</td><td>万人次</td><td>230.5</td><td>272.3</td></tr><tr><td>旅游外汇收入</td><td>万美元</td><td>8.7</td><td>12.4</td></tr></table>"
+        },
+        {
+          "block_id": "blk-71b7e8eaf78e652cfc44",
+          "page_number": 17,
+          "text": "“蓉欧 \\(+\\) ”战略深入实施。“蓉欧快铁”中线班列双向稳定开行，干线延伸至德国纽伦堡和荷兰蒂尔堡，先后开通成都至伊斯坦布尔的南线测试班列、成都至莫斯科的北线测试班列，初步形成“北、中、南”三线并行格局，直达“一带一路”地区主要经济体。2016年，蓉欧快铁共开行460列，开行数量跃居中欧班列首位，逐步成长为开行线路最多、辐射“一带一路”沿线国家范围最广的中欧班列。中亚班列共开行去程班列60列，干线延伸至中亚区域中心城市阿拉木图。国内班列网络布局有效拓展，稳定开行成都至厦门、深圳、武汉、昆明、上海、广州、南宁、宁波等8个城市的互联互通班列，以成都为中转枢纽的对欧贸易货物接续能力大幅提升。"
+        },
+        {
+          "block_id": "blk-835d725dcc3ce157acc1",
+          "page_number": 17,
+          "text": "原始 PDF 第 17 页图片"
+        },
+        {
+          "block_id": "blk-530f14c6d96edaf1e765",
+          "page_number": 17,
+          "text": "图1-2 2013—2016年蓉欧快铁开行量"
+        },
+        {
+          "block_id": "blk-9926292d5641730b9b78",
+          "page_number": 18,
+          "text": "国际航空枢纽优势持续巩固。2016年，成都天府国际机场主体工程开工建设，配套设施建设顺利推进；双流国际机场国际区域扩容改造工程加快推进，机场高速公路南辅道项目进展顺利，“一市两场”航空枢纽格局正逐步形成。成都双流国际机场跻身全球50大繁忙机场行列，旅客吞吐量4603.9万人次，货邮吞吐量61.2万吨。新开通6条国际定期直飞航线，截至2016年底，成都通航城市达209个，其中国际（地区）城市78个；开通航线总数270条，其中国际（地区）航线95条，西部国际航空枢纽地位进一步巩固和强化。"
+        },
+        {
+          "block_id": "blk-62daf75218abdfe12760",
+          "page_number": 18,
+          "text": "原始 PDF 第 18 页图片"
+        },
+        {
+          "block_id": "blk-68e8d75daaa7cb6452dd",
+          "page_number": 18,
+          "text": "图1-3 2015—2016年成都国内外航线发展情况"
+        },
+        {
+          "block_id": "blk-1088b8048fa5eb674c92",
+          "page_number": 18,
+          "text": "陆路通道建设加快推进。成都国际铁路港多式联运示范工程入选国家首批多式联运示范工程，2016年国际铁路港集装箱吞吐量达57万标箱，发送国际箱量达3.77万标箱。火车北站扩能改造和成昆、川藏、成贵、成兰等铁路项目加快建设，西成客专动车运用所一期工程、成都动车检修段、成都基础设施维修基地、成都和谐型大功率机车检修段已建成。城市高速路网加快建设，成都第二绕城高速全线通车，成安渝高速复工建设，天府国际机场高速公路、成彭高速扩能改造积极推进，成乐、成南、成绵高速扩容前期工作进展顺利。"
+        },
+        {
+          "block_id": "blk-8f592548692c3ffaf13b",
+          "page_number": 18,
+          "text": "口岸服务体系不断完善。空港国际快件中心改造工程加快实施，设立海关、检验检疫共同查验区，实现关检“三个一”。铁路口岸多式联运监管中心启动建设，铁路保税物流中心（B型）正式封关运营，铁路口岸综合服务中心主体工程完工，"
+        },
+        {
+          "block_id": "blk-be9a877f251f1b771760",
+          "page_number": 19,
+          "text": "同步开发集铁路运输、海运订舱、报关、报检等功能于一体的“单一窗口”口岸服务信息平台，政府购买铁路口岸操作服务正式实施。公路口岸（新址）通过验收并正式封关运营。口岸政策功能不断拓展，空港进境水果指定口岸正式投用，铁路进口肉类指定口岸通过验收，进口整车指定口岸完成测试，成功获批汽车平行进口试点。"
+        },
+        {
+          "block_id": "blk-f01d476be1cab15d232f",
+          "page_number": 19,
+          "text": "高端产业引进成效明显。2016年，成都实际利用内资约4100亿元，实际利用外资86.2亿美元，引进重大项目270个、总投资2700亿元以上。成功引进世界500强企业10家，在蓉世界500强企业达到278家。新签约引进总部项目21个，投资总额421亿元。英特尔“骏马”项目前端预处理线、富士康iMac笔电项目、TCL对欧出口项目等一批重大项目落户成都，诺基亚全球技术研发中心等15家科技研发企业正式入驻成都科学城。积极开展“蓉欧 \\(^+\\) ”投资促进行动，赴多地举办“丝路成都：一带一路新通道‘蓉欧 \\(^+\\) ’投资合作恳谈会”，促进50家轻资产贸易企业在成都国际铁路港注册。"
+        },
+        {
+          "block_id": "blk-b84a903ec56b18380484",
+          "page_number": 19,
+          "text": "原始 PDF 第 19 页图片"
+        },
+        {
+          "block_id": "blk-e6a6387e5d65baa80709",
+          "page_number": 19,
+          "text": "图1-4 2015—2016年成都产业“引进来”部分数据情况"
+        },
+        {
+          "block_id": "blk-6a2a0dc70eeda78d7cc7",
+          "page_number": 19,
+          "text": "企业“走出去”取得新突破。2016年，编制《成都市融入“一带一路”战略推动企业“走出去”五年（2016—2020年）行动计划》《“一带一路”国别投资指南》，引导推动本市优势产业在“一带一路”沿线国家投资布局。加快推动中乌"
+        },
+        {
+          "block_id": "blk-2da3d4b55c214823c23a",
+          "page_number": 20,
+          "text": "农业产业园、印度中国工业园、中柬商贸园等50个境外重大产能合作示范项目加快建设，6个项目纳入国家国际产能合作重点项目库。境外投资模式日益多元化，本市企业加快国际市场拓展，通过海外并购、投资建厂、海外园区建设等多种形式开展境外投资，积极融入国际配套供应链。2016年，全市新增备案境外投资企业149家，同比增长 \\(52\\%\\) ；备案投资总额42.5亿美元，同比增长 \\(131\\%\\) ；实现对外承包工程营业额21.1亿美元。"
+        },
+        {
+          "block_id": "blk-aa53ce604d3122e1c8d9",
+          "page_number": 20,
+          "text": "原始 PDF 第 20 页图片"
+        },
+        {
+          "block_id": "blk-6b25f37010ef5b751686",
+          "page_number": 20,
+          "text": "图1-5 2015—2016年成都企业“走出去”部分数据情况"
+        },
+        {
+          "block_id": "blk-6b9f895d6366e47dcff6",
+          "page_number": 20,
+          "text": "外贸发展质量持续提升。国家跨境电商综合试验区获批、平行汽车进口业务试点获批以及蓉欧班列、中亚快车纳入国家“中欧班列”规划等国家层面政策支持，有力推动了全市外贸增长。2016年，成都实现进出口总额410.1亿美元，其中出口总额219.3亿美元，进口总额190.8亿美元；高新技术产品出口额145.4亿美元，占出口总额比重为 \\(66.3\\%\\) 。出台《中国（成都）跨境电子商务综合试验区实施方案》，依托成都空港保税物流中心（B型）、成都铁路保税物流中心（B型）、成都高新综合保税区、成都空港国际快件中心等区域设立跨境电子商务园区，建成投运跨境电子商务公共服务平台，跨境电商交易额达21.6亿元。"
+        },
+        {
+          "block_id": "blk-63cc399715755fbc7084",
+          "page_number": 21,
+          "text": "原始 PDF 第 21 页图片"
+        },
+        {
+          "block_id": "blk-2c996597ed32b56bd6a2",
+          "page_number": 21,
+          "text": "图1-6 2015—2016年成都外贸增长情况"
+        },
+        {
+          "block_id": "blk-1cfcbd087d83b4b9db34",
+          "page_number": 21,
+          "text": "金融国际化程度不断提高。加快引进外资金融机构，2016年全市共有外资银行16家、外资保险机构18家、外资小额贷款公司7家、外资融资性担保公司3家。其中，渣打银行成都分行、华侨银行成都、花旗银行成都分行等业务指标位居中国各分行首位。深入推动跨境投融资便利化，2016年，跨国公司总部外汇资金集中运营管理试点企业已达11家，开展跨境人民币结算业务的银行机构36家，结算国家和地区达57家，跨境人民币结算规模达到926.3亿元。鼓励银行机构加大“一带一路”项目信贷支持，推动保险机构创新出口保险业务。"
+        },
+        {
+          "block_id": "blk-072b60dcaf731a12fc0e",
+          "page_number": 21,
+          "text": "国际经贸交流迈上新台阶。在“一带一路”沿线国家和地区开展一系列“成都造”名优工业产品市场开拓活动，首次在海外推出“天府源”品牌，组织699家企业参加“万企出国门”活动，积极参加各类展会，成交总额3.7亿美元。组织60余家楼宇企业赴伦敦、利物浦、慕尼黑、法兰克福等地推介交流，推动40余项经贸合作项目洽谈合作。成功举办“2016南亚产能合作（成都）对话会”，全力推动中国西部对欧合作服务平台——“中国-欧洲中心”项目落地。积极参与商务部组织的与美国芝加哥“8+1”工作机制活动，并组织企业赴美参展、考察，推进与芝加哥的经贸、文化等领域的交流合作。"
+        },
+        {
+          "block_id": "blk-87594bdcf780f137e519",
+          "page_number": 21,
+          "text": "自贸试验区争创成功。2016年，成都成功争创建设国家内陆自由贸易试验区，参与编制并上报中国（四川）自由贸易试验区总体方案及区划方案。成立了以市委"
+        },
+        {
+          "block_id": "blk-fd49c018f790e10283ea",
+          "page_number": 22,
+          "text": "主要领导为组长的中国（四川）自由贸易试验区成都片区建设工作领导小组，下设功能区划、投资体制、货物贸易、服务贸易、金融创新和营商环境6个专项工作组，自贸区各项建设工作有序推进。"
+        },
+        {
+          "block_id": "blk-b2c2567a2462cc642951",
+          "page_number": 22,
+          "text": "国别合作园区建设加快。中德（四川成都）创新产业合作平台规划编制完成，成立10亿元首期发展基金，推动西门子、思爱普、欧绿保、陆科思德等19家德国企业与成都企业达成合作。中德（蒲江）中小企业合作园建设加快推进，获批成为西部首个国家级中德中小企业合作示范区，签约入驻中德医谷、天翔环保等一批项目，中德（蒲江）AHK职教培训中心建成并投用，德国库卡（KUKA）认证学院项目落户合作区。中法（成都）生态园控制性规划编制完成，东风神龙成都项目建成投产，法国弗吉亚、风神物流等一批零部件企业相继签约落户，能源管理数据中心运维公司入驻园区，苏伊士环能-四川能投分布式能源项目正式签署。中韩创新创业园推进机制建立，出台专项支持政策，设立5亿元创新创业投资基金，举办首届中韩创新创意大赛等系列活动，引入两家中韩众创空间和多个韩国创业项目。新川创新科技园加快基础设施及配套工程建设，完成固定资产投资50亿元，签约产业化项目20个，总投资181.7亿元。成都天府国际生物城7个项目启动建设，签约项目41个，完成投资10.7亿元。"
+        },
+        {
+          "block_id": "blk-00503b6525a5f77a6948",
+          "page_number": 22,
+          "text": "服务保障体系不断健全。发布“一带一路”重点国家《国别投资指南》，建立全市“一带一路”项目库，成都国际铁路港等28个项目进入国家“一带一路”重点建设项目库。启动设立总规模400亿元的成都前海产业投资基金，举办《2016中国（成都）“一带一路”资本创新论坛》，鼓励银行机构加大“一带一路”项目信贷支持。设立全省首家涉外法律援助工作站和为侨法律服务工作站，编印《成都涉外法律服务指南》，举办成都市“一带一路”国际投资中的法律问题研讨会，组建法律专家智库。"
+        },
+        {
+          "block_id": "blk-4768ab14499f8331b649",
+          "page_number": 22,
+          "text": "会展之都和赛事名城建设有力推进。2016年，成功举办承办G20财长和央行行长会议、第22届世界航线发展大会、2016中国·成都全球创新创业交易会等重大展会活动超过530个，其中国际性展会活动115个，同比增长 \\(8.2\\%\\) ；展览面积超过340万平方米，同比增长 \\(9.5\\%\\) ；会展业总收入约792亿元，同比增长 \\(11.8\\%\\) 。成功举办国际乒联世界巡回赛中国乒乓球公开赛、FISE世界极限运动巡回赛、铁"
+        },
+        {
+          "block_id": "blk-ecbefc9d3033ca933087",
+          "page_number": 23,
+          "text": "人三项世界杯赛、国际网联青年大师赛、“熊猫杯”国际青年足球锦标赛等15项重大国际体育赛事。"
+        },
+        {
+          "block_id": "blk-da3abc8f2bcd4b78d874",
+          "page_number": 23,
+          "text": "原始 PDF 第 23 页图片"
+        },
+        {
+          "block_id": "blk-a6fd113949e4fc24ae0e",
+          "page_number": 23,
+          "text": "图1-7 2015—2016年成都国际性展会活动举办情况"
+        },
+        {
+          "block_id": "blk-23e0cf232529551a0180",
+          "page_number": 23,
+          "text": "世界旅游目的地城市建设成效明显。2016年，成都实现旅游总收入2502.3亿元，同比增长 \\(22.7\\%\\) ；其中实现旅游外汇收入12.4亿美元，同比增长 \\(15.8\\%\\) 。全年接待旅游总人数突破2亿人次，同比增长 \\(4.7\\%\\) ；其中接待入境游客272.3万人次，同比增长 \\(17.8\\%\\) 。全年旅游业实现增加值1169.4亿元，同比增长 \\(19\\%\\) ，占全市GDP比重达到 \\(9.6\\%\\) 。持续加大国际旅游营销力度，积极拓展国际旅游市场，先后在纽约、首尔、莫斯科等城市开展旅游推介活动，并在旧金山、首尔、莫斯科、香港设立成都旅游体验中心，宣传推广成都旅游资源和魅力成都城市形象。"
+        },
+        {
+          "block_id": "blk-4e288a05002da974f130",
+          "page_number": 23,
+          "text": "表 1-2 2015-2016 年成都旅游业发展情况"
+        },
+        {
+          "block_id": "blk-e1d94c9b92d86c262dc4",
+          "page_number": 23,
+          "text": "<table><tr><td>年份</td><td>旅游总人数 (亿人次)</td><td>旅游总收入 (亿元)</td><td>入境旅游人次 (万人次)</td><td>旅游外汇收入 (亿美元)</td></tr><tr><td>2015年</td><td>1.9</td><td>2040.2</td><td>197.8</td><td>8.7</td></tr><tr><td>2016年</td><td>2.0</td><td>2502.3</td><td>272.3</td><td>12.4</td></tr></table>"
+        },
+        {
+          "block_id": "blk-cd8ac6fd2e32082df833",
+          "page_number": 23,
+          "text": "美食之都国际知名度进一步提升。2016年，成都出台了《关于进一步加快成都市川菜产业发展的实施意见》，并制订《美食之都建设行动计划》。设立2个“成都川菜海外推广中心”，创新举办“2016旧金山-成都美食文化节”，成功举办“2016年成都美食旅游节”、“2016美食之都成都火锅文化月”、G20财长和央行行长"
+        },
+        {
+          "block_id": "blk-c104dbfb982c838ad7da",
+          "page_number": 24,
+          "text": "会议和世界航线大会的成都美食展示体验活动，美食之都的知名度和美誉度显著提升。"
+        },
+        {
+          "block_id": "blk-c332e54c682bd2ef7634",
+          "page_number": 24,
+          "text": "多领域交流合作不断深化。2016年，新增瑞士驻蓉总领事馆，外国驻蓉领事机构数达到16个，其中“一带一路”沿线国家驻蓉领事机构9个；签证中心增至31个，国际友城和友好合作关系城市分别增至32个和43个，荣获中国国际友城交流合作奖。新增美国加州中心等6家国际性机构、巴基斯坦等5个海外成都工作站。文教对外友好交流更加频繁，赴美英等8国进行文化交流，“PANDA成都”走进澳大利亚悉尼等16个城市；积极打造“留学成都”教育品牌，299名友城留学生获得友城政府奖学金，与英国谢菲尔德、韩国金泉、新西兰汉密尔顿、丹麦霍森斯共建以对方城市命名的学校。"
+        },
+        {
+          "block_id": "blk-a09151b8a399b0635405",
+          "page_number": 24,
+          "text": "原始 PDF 第 24 页图片"
+        },
+        {
+          "block_id": "blk-975129f1ca1a04abb48b",
+          "page_number": 24,
+          "text": "图1-8 2015—2016年成都领事馆及友城数量变化情况"
+        },
+        {
+          "block_id": "blk-70db5ddf868af68fffdb",
+          "page_number": 24,
+          "text": "国家以《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》为指针，加快推进“一带一路”建设相关规划、政策的制定与实施，着力推动与主要国家重点领域的务实合作，陆海交通走廊、中欧班列、国际产能合作和境外经贸合作区、投融资平台等领域建设取得积极进展。成都是“一带一路”的核心节点、连接“一带一路”和长江经济带的重要纽带，是连接西南西北、沟通中亚南亚东南亚"
+        },
+        {
+          "block_id": "blk-df3277ecab20741b40e3",
+          "page_number": 25,
+          "text": "的重要交通走廊，《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》两次直接提到“成都”，这既体现了党中央对成都在“一带一路”建设和服务全国大局中的高度重视，也为成都融入“一带一路”建设指明了方向，将为成都带来前所未有的发展机遇。"
+        },
+        {
+          "block_id": "blk-14e54c970f1c90ab5449",
+          "page_number": 25,
+          "text": "表 1-3 2016 年国家关于 “一带一路” 建设的相关规划政策"
+        },
+        {
+          "block_id": "blk-e8c5658134b7913e8ee7",
+          "page_number": 25,
+          "text": "<table><tr><td>时间</td><td>重要事项</td><td>主要内容</td></tr><tr><td>8月</td><td>推进“一带一路”建设工作座谈会上在京召开</td><td>习近平总书记就推进“一带一路”建设提出8项要求，研究出台推进“一带一路”建设的具体政策措施</td></tr><tr><td>9月</td><td>国家发改委公布《建设中蒙俄经济走廊规划纲要》</td><td>明确经济走廊建设的具体内容、资金来源和实施机制，标志“一带一路”首个多边经济合作走廊正式实施</td></tr><tr><td>10月</td><td>推进“一带一路”建设工作领导小组办公室印发《中欧班列建设发展规划（2016-2020年）》</td><td>中欧班列建设发展的首个顶层设计，标志中欧班列进入健康有序发展轨道</td></tr></table>"
+        },
+        {
+          "block_id": "blk-e5f62628e0ae796e5138",
+          "page_number": 25,
+          "text": "随着中国（四川）自由贸易试验区获批，成都作为四川自贸试验区的主体核心，在学习借鉴第一、二批自贸试验区建设经验的基础上，将通过制度创新，建成法治环境规范、投资贸易便利、创新要素集聚、监管高效便捷、协同开放效果显著的高水平高标准自由贸易园区，实现与“一带一路”的深度对接。同时，伴随着成都承担的国家全面创新改革试验区、国家自主创新示范区、跨境电子商务综合试验区、服务贸易创新发展试点等重大改革试点示范任务深入推进，成都将更大力度推进改革创新和系统的制度安排，在更多重点领域和关键环节取得突破，进一步提升成都国际市场竞争优势。"
+        },
+        {
+          "block_id": "blk-342df7da059b65bd294b",
+          "page_number": 25,
+          "text": "当前，成都正积极落实“一带一路”重大项目建设及进展计划，天府国际机场开工建设，“一市两场”格局逐渐形成，中欧班列（蓉欧快铁）双向稳定开行，搭起成都通往欧洲的陆上货运大通道。成都已由过去的内陆盆地变为中国对外开放的前沿和门户城市，优良的区域开放发展环境为成都“引进来”和“走出去”提供了极大便利，进一步加快成都与“一带一路”沿线国家间开放合作的步伐，为开展对外贸易与投资、融入全球城市网络分工与合作提供更加广阔的空间。"
+        },
+        {
+          "block_id": "blk-7d25b67bbf4ff672813b",
+          "page_number": 26,
+          "text": "近年来，成都经济社会取得显著成绩，先后迈上人均GDP一万美元、GDP总量万亿元两大台阶，晋身“城市万亿俱乐部”，在产业聚集、城乡统筹、创新创业、国际化等方面走在中西部城市前列。全市对外贸易持续发展，利用外资水平不断提高，内陆开放型经济高地建设不断加快。快速增长的经济总量孕育着丰富的投资机遇及可观的投资回报，将进一步提升成都对高端要素的吸引、集聚、扩散能力，促进成都在国家“一带一路”建设中发挥更大作用。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-02566d777f55",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-533c1f60c1ec",
+    "ref-83be4b1d3c3a"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

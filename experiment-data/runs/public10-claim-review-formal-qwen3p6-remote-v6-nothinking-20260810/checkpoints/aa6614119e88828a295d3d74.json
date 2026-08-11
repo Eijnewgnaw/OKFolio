@@ -1,0 +1,994 @@
+{
+  "contract": {
+    "canonical_question": "成都构建高水平国际门户枢纽和内陆开放高地的宏观战略框架与具体政策依据是什么？",
+    "claims": [
+      {
+        "claim": "国际科技合作资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目等进行资助。",
+        "claim_id": "claim-32825b2acc253fd2",
+        "evidence_block_ids": [
+          "blk-6821e5ef79aa6e9d22de"
+        ],
+        "evidence_excerpt": "第二条 本办法所称国际科技合作资助是指发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+        "evidence_id": "ref-1f52cfe6f9ad:bundle-a7f1c766c18b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          213
+        ],
+        "ref_id": "ref-1f52cfe6f9ad",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国际科技合作资助遵循“自愿申请、突出重点、择优资助、不重复资助”原则，实行后补助支持方式。",
+        "claim_id": "claim-285a2aa8f300d9c4",
+        "evidence_block_ids": [
+          "blk-6e6ff0c3aa96f06fb3f4"
+        ],
+        "evidence_excerpt": "第三条 遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式，项目经费纳入中央和市级财政资金预算，按财政资金的有关规定由项目单位统筹安排使用。",
+        "evidence_id": "ref-1f52cfe6f9ad:bundle-a7f1c766c18b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          213
+        ],
+        "ref_id": "ref-1f52cfe6f9ad",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国际科技合作资助支持对象为在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等。",
+        "claim_id": "claim-ca6540d894727f1c",
+        "evidence_block_ids": [
+          "blk-8876fd99e3b8fa3dcae1"
+        ],
+        "evidence_excerpt": "第四条 国际科技合作资助支持对象应为在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+        "evidence_id": "ref-1f52cfe6f9ad:bundle-a7f1c766c18b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          213
+        ],
+        "ref_id": "ref-1f52cfe6f9ad",
+        "scope": {
+          "region": [
+            "成都市"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都坚持推动形成全面开放新格局，主动融入和服务“一带一路”建设。",
+        "claim_id": "claim-2f918d589078f9e2",
+        "evidence_block_ids": [
+          "blk-6114b7f353afbf3db86e"
+        ],
+        "evidence_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设",
+        "evidence_id": "ref-4696ac39b9ea:bundle-ef956ff4dd5d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-4696ac39b9ea",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都加快战略通道建设、开放平台提升及政策制度创新，推进外经外资外贸外事联动发展。",
+        "claim_id": "claim-bfd1f97d35fd5e46",
+        "evidence_block_ids": [
+          "blk-6114b7f353afbf3db86e"
+        ],
+        "evidence_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展",
+        "evidence_id": "ref-4696ac39b9ea:bundle-ef956ff4dd5d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-4696ac39b9ea",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都高水平建设国际门户枢纽和内陆开放高地，发挥辐射带动作用，建设可持续发展的世界城市。",
+        "claim_id": "claim-cda481b814da995e",
+        "evidence_block_ids": [
+          "blk-6114b7f353afbf3db86e"
+        ],
+        "evidence_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+        "evidence_id": "ref-4696ac39b9ea:bundle-ef956ff4dd5d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          158
+        ],
+        "ref_id": "ref-4696ac39b9ea",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-32825b2acc253fd2",
+          "claim-285a2aa8f300d9c4",
+          "claim-ca6540d894727f1c"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-1f52cfe6f9ad:bundle-a7f1c766c18b",
+        "reason": "包含国际科技合作资助的定义、原则、支持对象及资金来源，是落实开放战略的具体政策依据。"
+      },
+      {
+        "claim_ids": [
+          "claim-2f918d589078f9e2",
+          "claim-bfd1f97d35fd5e46",
+          "claim-cda481b814da995e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-4696ac39b9ea:bundle-ef956ff4dd5d",
+        "reason": "包含成都对外开放的指导思想、战略部署及建设目标，是宏观战略框架的核心依据。"
+      }
+    ],
+    "group_id": "topic-7aed14668a10",
+    "members": [
+      {
+        "contribution": "提供国际科技合作资助的具体实施办法，明确支持对象、原则及资金引导作用，是落实开放战略的具体政策工具。",
+        "ref_id": "ref-1f52cfe6f9ad",
+        "relation": "supports"
+      },
+      {
+        "contribution": "确立全面开放新格局的指导思想，明确融入“一带一路”、加快通道平台及制度创新，构成战略顶层设计。",
+        "ref_id": "ref-4696ac39b9ea",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-2f918d589078f9e2",
+        "draft_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bfd1f97d35fd5e46",
+        "draft_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-cda481b814da995e",
+        "draft_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-32825b2acc253fd2",
+        "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-285a2aa8f300d9c4",
+        "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ca6540d894727f1c",
+        "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-2f918d589078f9e2",
+          "claim-bfd1f97d35fd5e46",
+          "claim-cda481b814da995e"
+        ],
+        "draft_excerpt": "基于全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ed8b98a371f430ff",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2f918d589078f9e2"
+        ],
+        "draft_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7096f739c8592311",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bfd1f97d35fd5e46"
+        ],
+        "draft_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e21458c836ffbf0a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cda481b814da995e"
+        ],
+        "draft_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9197afc28d794aed",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-32825b2acc253fd2"
+        ],
+        "draft_excerpt": "在政策制度创新方面，实施国际科技合作资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6790a4de547fab0b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-32825b2acc253fd2"
+        ],
+        "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2a7e3bbfdfc536cc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-285a2aa8f300d9c4"
+        ],
+        "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-127e5c2f1c580340",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ca6540d894727f1c"
+        ],
+        "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-be90d88f83f0bb6c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-32825b2acc253fd2"
+        ],
+        "draft_excerpt": "资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d85ffa4212b593fb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-2f918d589078f9e2",
+          "draft_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bfd1f97d35fd5e46",
+          "draft_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cda481b814da995e",
+          "draft_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-32825b2acc253fd2",
+          "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-285a2aa8f300d9c4",
+          "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ca6540d894727f1c",
+          "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-2f918d589078f9e2",
+            "claim-bfd1f97d35fd5e46",
+            "claim-cda481b814da995e"
+          ],
+          "draft_excerpt": "基于全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+          "finding": "supported",
+          "sentence_id": "sentence-ed8b98a371f430ff",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2f918d589078f9e2"
+          ],
+          "draft_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-7096f739c8592311",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bfd1f97d35fd5e46"
+          ],
+          "draft_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-e21458c836ffbf0a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cda481b814da995e"
+          ],
+          "draft_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+          "finding": "supported",
+          "sentence_id": "sentence-9197afc28d794aed",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-32825b2acc253fd2"
+          ],
+          "draft_excerpt": "在政策制度创新方面，实施国际科技合作资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-6790a4de547fab0b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-32825b2acc253fd2"
+          ],
+          "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-2a7e3bbfdfc536cc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-285a2aa8f300d9c4"
+          ],
+          "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+          "finding": "supported",
+          "sentence_id": "sentence-127e5c2f1c580340",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ca6540d894727f1c"
+          ],
+          "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+          "finding": "supported",
+          "sentence_id": "sentence-be90d88f83f0bb6c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-32825b2acc253fd2"
+          ],
+          "draft_excerpt": "资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+          "finding": "supported",
+          "sentence_id": "sentence-d85ffa4212b593fb",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "56ba8fac6b47d08106def2b1dbed25aa2342fdef59ff2c118408dcbcef5096ec",
+  "coverage_history": [
+    {
+      "draft_sha256": "8772b6d2c9632bb5128c7b6895e258f10b9a5573ca6bf97a91ea6a1afc9cde5c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-bfd1f97d35fd5e46",
+            "draft_excerpt": "成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f918d589078f9e2",
+            "draft_excerpt": "成都坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cda481b814da995e",
+            "draft_excerpt": "其核心目标是高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32825b2acc253fd2",
+            "draft_excerpt": "在政策制度创新方面，具体体现为发挥财政资金引导作用，实施国际科技合作资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-285a2aa8f300d9c4",
+            "draft_excerpt": "该资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca6540d894727f1c",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-bfd1f97d35fd5e46",
+              "claim-cda481b814da995e"
+            ],
+            "draft_excerpt": "成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a8396c028e997438",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f918d589078f9e2"
+            ],
+            "draft_excerpt": "成都坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da387273240a692b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cda481b814da995e"
+            ],
+            "draft_excerpt": "其核心目标是高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55b42e1c196d0268",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bfd1f97d35fd5e46"
+            ],
+            "draft_excerpt": "为实现上述目标，成都采取加快战略通道建设、加快开放平台提升、加快政策制度创新三大举措，并推进外经外资外贸外事联动发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb47bd64c16af77f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32825b2acc253fd2"
+            ],
+            "draft_excerpt": "在政策制度创新方面，具体体现为发挥财政资金引导作用，实施国际科技合作资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4f9b35278083fb90",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-285a2aa8f300d9c4"
+            ],
+            "draft_excerpt": "该资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-297a3d2ec421b053",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca6540d894727f1c"
+            ],
+            "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，且未被列入异常经营名录和失信被执行人名单。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69ed30893b9c8fa7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32825b2acc253fd2"
+            ],
+            "draft_excerpt": "资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4fce7b63e65dbabf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-285a2aa8f300d9c4"
+            ],
+            "draft_excerpt": "资金管理：项目经费纳入中央和市级财政资金预算，按财政资金的有关规定由项目单位统筹安排使用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-982f72fc22ca7499",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "5024427a209b396472d6948e9c50f4614393e53491d6d84f5a05515d3f1e38b3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-2f918d589078f9e2",
+            "draft_excerpt": "成都坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cda481b814da995e",
+            "draft_excerpt": "其核心目标是高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bfd1f97d35fd5e46",
+            "draft_excerpt": "为实现上述目标，成都采取加快战略通道建设、加快开放平台提升、加快政策制度创新三大举措，并推进外经外资外贸外事联动发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32825b2acc253fd2",
+            "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-285a2aa8f300d9c4",
+            "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca6540d894727f1c",
+            "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "基于国家及省市级创新驱动、全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc10602e5c335b8b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f918d589078f9e2"
+            ],
+            "draft_excerpt": "成都坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da387273240a692b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cda481b814da995e"
+            ],
+            "draft_excerpt": "其核心目标是高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55b42e1c196d0268",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bfd1f97d35fd5e46"
+            ],
+            "draft_excerpt": "为实现上述目标，成都采取加快战略通道建设、加快开放平台提升、加快政策制度创新三大举措，并推进外经外资外贸外事联动发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb47bd64c16af77f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在政策制度创新方面，具体体现为实施国际科技合作资助。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e595ef2e5b19ca28",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-32825b2acc253fd2"
+            ],
+            "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2a7e3bbfdfc536cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-285a2aa8f300d9c4"
+            ],
+            "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-127e5c2f1c580340",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "项目经费纳入中央和市级财政资金预算，按财政资金的有关规定由项目单位统筹安排使用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e22d8f43c894e29",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca6540d894727f1c"
+            ],
+            "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34aef0dc2c32f239",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9d5a08f90fbccb0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "基于国家及省市级创新驱动、全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在政策制度创新方面，具体体现为实施国际科技合作资助。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "项目经费纳入中央和市级财政资金预算，按财政资金的有关规定由项目单位统筹安排使用。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "56ba8fac6b47d08106def2b1dbed25aa2342fdef59ff2c118408dcbcef5096ec",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-2f918d589078f9e2",
+            "draft_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bfd1f97d35fd5e46",
+            "draft_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cda481b814da995e",
+            "draft_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-32825b2acc253fd2",
+            "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-285a2aa8f300d9c4",
+            "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca6540d894727f1c",
+            "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-2f918d589078f9e2",
+              "claim-bfd1f97d35fd5e46",
+              "claim-cda481b814da995e"
+            ],
+            "draft_excerpt": "基于全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed8b98a371f430ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f918d589078f9e2"
+            ],
+            "draft_excerpt": "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7096f739c8592311",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bfd1f97d35fd5e46"
+            ],
+            "draft_excerpt": "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e21458c836ffbf0a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cda481b814da995e"
+            ],
+            "draft_excerpt": "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9197afc28d794aed",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32825b2acc253fd2"
+            ],
+            "draft_excerpt": "在政策制度创新方面，实施国际科技合作资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6790a4de547fab0b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32825b2acc253fd2"
+            ],
+            "draft_excerpt": "该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2a7e3bbfdfc536cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-285a2aa8f300d9c4"
+            ],
+            "draft_excerpt": "资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-127e5c2f1c580340",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca6540d894727f1c"
+            ],
+            "draft_excerpt": "资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-be90d88f83f0bb6c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-32825b2acc253fd2"
+            ],
+            "draft_excerpt": "资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d85ffa4212b593fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设。加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展。高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。\n\n在政策制度创新方面，实施国际科技合作资助。该资助旨在发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。资助遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式。\n\n- 资助对象：在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。\n- 资助范围：建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等。",
+    "description": "基于全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-7aed14668a10",
+      "description": "基于国家及省市级创新驱动、全面开放新格局及“一带一路”战略部署，成都通过加快战略通道与平台建设、政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "第二条 本办法所称国际科技合作资助是指发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。",
+        "第三条 遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式，项目经费纳入中央和市级财政资金预算，按财政资金的有关规定由项目单位统筹安排使用。",
+        "第四条 国际科技合作资助支持对象应为在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。",
+        "坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设",
+        "加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展",
+        "高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。"
+      ],
+      "evidence_block_ids": [
+        "blk-6821e5ef79aa6e9d22de",
+        "blk-6e6ff0c3aa96f06fb3f4",
+        "blk-8876fd99e3b8fa3dcae1",
+        "blk-6114b7f353afbf3db86e"
+      ],
+      "page_end": 213,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都对外开放战略与政策框架",
+      "type": "分析框架"
+    },
+    "title": "成都对外开放战略与政策框架"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-1f52cfe6f9ad:bundle-a7f1c766c18b",
+      "excluded_fragments": [],
+      "ref_id": "ref-1f52cfe6f9ad",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-3f69f7fd37bb89e87c7f",
+          "page_number": 213,
+          "text": "第一条 为贯彻落实《中共成都市委成都市人民政府关于深入实施创新驱动发展战略加快建设国家重要科技中心的意见》（成委发〔2018〕25号）、《建设西部对外交往中心行动计划（2017—2022年）》，拓宽对外开放交流渠道，加强国际科技合作，加大引才引智工作力度，积极吸聚国际创新资源，提升全市科技创新能力，赋能产业功能区高质量发展，特制定本办法。"
+        },
+        {
+          "block_id": "blk-6821e5ef79aa6e9d22de",
+          "page_number": 213,
+          "text": "第二条 本办法所称国际科技合作资助是指发挥财政资金引导作用，对建设国际性研发机构、实施国际科技合作项目、参与国际间科技合作及开展国际科技合作交流活动等进行资助。"
+        },
+        {
+          "block_id": "blk-6e6ff0c3aa96f06fb3f4",
+          "page_number": 213,
+          "text": "第三条 遵循“自愿申请、突出重点、择优资助、不重复资助”的原则，对资助项目实行后补助支持方式，项目经费纳入中央和市级财政资金预算，按财政资金的有关规定由项目单位统筹安排使用。"
+        },
+        {
+          "block_id": "blk-8876fd99e3b8fa3dcae1",
+          "page_number": 213,
+          "text": "第四条 国际科技合作资助支持对象应为在成都市行政区划内注册登记、具有独立法人资格的企事业单位和社会组织等，未被列入异常经营名录和失信被执行人名单。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-4696ac39b9ea:bundle-ef956ff4dd5d",
+      "excluded_fragments": [],
+      "ref_id": "ref-4696ac39b9ea",
+      "source_blocks": [
+        {
+          "block_id": "blk-6114b7f353afbf3db86e",
+          "page_number": 158,
+          "text": "高举习近平新时代中国特色社会主义思想伟大旗帜，坚定不移以习近平总书记对外开放战略思想为指导，坚决贯彻落实党的十九大关于推动形成全面开放新格局的重大战略部署，抢抓新一轮对外开放战略机遇，主动融入和服务“一带一路”建设，加快战略通道建设，加快开放平台提升，加快政策制度创新，推进外经外资外贸外事联动发展，高水平建设国际门户枢纽和内陆开放高地，更好地在全省“四向拓展、全域开放”格局中发挥辐射带动作用，为建设可持续发展的世界城市奠定坚实基础。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-7aed14668a10",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-1f52cfe6f9ad",
+    "ref-4696ac39b9ea"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

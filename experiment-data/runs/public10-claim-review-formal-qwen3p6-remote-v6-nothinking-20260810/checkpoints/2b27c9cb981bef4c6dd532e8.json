@@ -1,0 +1,969 @@
+{
+  "contract": {
+    "canonical_question": "石室祥云网络教育平台作为成都市推动教育信息化与均衡化的典型案例，其核心服务内容、运营规模及覆盖范围是什么？",
+    "claims": [
+      {
+        "claim": "石室祥云网络教育是成都市石室中学推出的在线教育平台，于2013年9月上线。",
+        "claim_id": "claim-79d0a30b7c16df30",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措，该项目于2013年9月上线",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {
+          "object": [
+            "石室祥云网络教育"
+          ],
+          "time": [
+            "2013年9月"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网络教育的服务内容主要为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+        "claim_id": "claim-7268d7d4ecf4b9b0",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {
+          "object": [
+            "加盟学校"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+        "claim_id": "claim-9e985a12f117a322",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {
+          "region": [
+            "四川省",
+            "17个市（州）"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网络教育远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+        "claim_id": "claim-6e780b8b11e288c7",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {},
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网络教育在线教学内容实现了中学全学段初一至高三所有年级全覆盖。",
+        "claim_id": "claim-f696373fc72946b8",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {
+          "object": [
+            "中学全学段初一至高三"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网络教育平台共设置直播课程42门，日均直播课程超过50节次。",
+        "claim_id": "claim-13eee603b2edd471",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "共设置直播课程42门，日均直播课程超过50节次",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+        "claim_id": "claim-eb91aee642898677",
+        "evidence_block_ids": [
+          "blk-23838da24ab1fcec80e7"
+        ],
+        "evidence_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          105
+        ],
+        "ref_id": "ref-08aaca11e0f6",
+        "scope": {
+          "region": [
+            "四川省"
+          ]
+        },
+        "slot": "problem",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-79d0a30b7c16df30",
+          "claim-7268d7d4ecf4b9b0",
+          "claim-9e985a12f117a322",
+          "claim-6e780b8b11e288c7",
+          "claim-f696373fc72946b8",
+          "claim-13eee603b2edd471",
+          "claim-eb91aee642898677"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+        "reason": "该证据包含石室祥云平台的核心事实，是回答中心问题关于服务内容、规模和覆盖范围的必要依据。"
+      }
+    ],
+    "group_id": "topic-c0d3419318df",
+    "members": [
+      {
+        "contribution": "该证据直接提供了石室祥云网络教育平台的项目背景、上线时间、具体服务内容（直播、点播、教研等）、运营规模（加盟学校数、覆盖班级及师生人数）以及覆盖区域，完整回答了关于该典型案例的核心事实。",
+        "ref_id": "ref-08aaca11e0f6",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-79d0a30b7c16df30",
+        "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7268d7d4ecf4b9b0",
+        "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-eb91aee642898677",
+        "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9e985a12f117a322",
+        "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6e780b8b11e288c7",
+        "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-13eee603b2edd471",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-f696373fc72946b8",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-79d0a30b7c16df30"
+        ],
+        "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a2e9fec7e471aa2b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-79d0a30b7c16df30"
+        ],
+        "draft_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ed33791d8f5aab66",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-79d0a30b7c16df30",
+          "claim-7268d7d4ecf4b9b0"
+        ],
+        "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a7da9d97cd074bcd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eb91aee642898677"
+        ],
+        "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1b0b52ac51c59efd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9e985a12f117a322"
+        ],
+        "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-297cc0396e01ab31",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6e780b8b11e288c7"
+        ],
+        "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f75d66b253bb2086",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f696373fc72946b8"
+        ],
+        "draft_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1894aa2ff21f53f0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-13eee603b2edd471"
+        ],
+        "draft_excerpt": "共设置直播课程42门，日均直播课程超过50节次。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4d16072aa8fb70a1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-79d0a30b7c16df30",
+          "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7268d7d4ecf4b9b0",
+          "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-eb91aee642898677",
+          "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9e985a12f117a322",
+          "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6e780b8b11e288c7",
+          "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-79d0a30b7c16df30"
+          ],
+          "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+          "finding": "supported",
+          "sentence_id": "sentence-a2e9fec7e471aa2b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-79d0a30b7c16df30"
+          ],
+          "draft_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。",
+          "finding": "supported",
+          "sentence_id": "sentence-ed33791d8f5aab66",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-79d0a30b7c16df30",
+            "claim-7268d7d4ecf4b9b0"
+          ],
+          "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+          "finding": "supported",
+          "sentence_id": "sentence-a7da9d97cd074bcd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eb91aee642898677"
+          ],
+          "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+          "finding": "supported",
+          "sentence_id": "sentence-1b0b52ac51c59efd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9e985a12f117a322"
+          ],
+          "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+          "finding": "supported",
+          "sentence_id": "sentence-297cc0396e01ab31",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6e780b8b11e288c7"
+          ],
+          "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+          "finding": "supported",
+          "sentence_id": "sentence-f75d66b253bb2086",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f696373fc72946b8"
+          ],
+          "draft_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖。",
+          "finding": "supported",
+          "sentence_id": "sentence-1894aa2ff21f53f0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-13eee603b2edd471"
+          ],
+          "draft_excerpt": "共设置直播课程42门，日均直播课程超过50节次。",
+          "finding": "supported",
+          "sentence_id": "sentence-4d16072aa8fb70a1",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "f2992e7ffc3cbd714a9a6abc441633a6a550375f56d9b2b543c2aa81e7447dae",
+  "coverage_history": [
+    {
+      "draft_sha256": "ac3163bc1efbb75d324cc80787d07d122c2362d0ee6a70212329eadbe5db4531",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-79d0a30b7c16df30",
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7268d7d4ecf4b9b0",
+            "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eb91aee642898677",
+            "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9e985a12f117a322",
+            "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6e780b8b11e288c7",
+            "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f696373fc72946b8",
+            "draft_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖，共设置直播课程42门，日均直播课程超过50节次。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-13eee603b2edd471",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30",
+              "claim-7268d7d4ecf4b9b0"
+            ],
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a2e9fec7e471aa2b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30"
+            ],
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed33791d8f5aab66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30",
+              "claim-7268d7d4ecf4b9b0"
+            ],
+            "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7da9d97cd074bcd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eb91aee642898677"
+            ],
+            "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b0b52ac51c59efd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e985a12f117a322"
+            ],
+            "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-297cc0396e01ab31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e780b8b11e288c7"
+            ],
+            "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f75d66b253bb2086",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f696373fc72946b8",
+              "claim-13eee603b2edd471"
+            ],
+            "draft_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖，共设置直播课程42门，日均直播课程超过50节次。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8db4ab3076343354",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "f2992e7ffc3cbd714a9a6abc441633a6a550375f56d9b2b543c2aa81e7447dae",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-79d0a30b7c16df30",
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7268d7d4ecf4b9b0",
+            "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eb91aee642898677",
+            "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9e985a12f117a322",
+            "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6e780b8b11e288c7",
+            "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-13eee603b2edd471",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f696373fc72946b8",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30"
+            ],
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a2e9fec7e471aa2b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30"
+            ],
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed33791d8f5aab66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30",
+              "claim-7268d7d4ecf4b9b0"
+            ],
+            "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7da9d97cd074bcd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eb91aee642898677"
+            ],
+            "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b0b52ac51c59efd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e985a12f117a322"
+            ],
+            "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-297cc0396e01ab31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e780b8b11e288c7"
+            ],
+            "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f75d66b253bb2086",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f696373fc72946b8"
+            ],
+            "draft_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1894aa2ff21f53f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13eee603b2edd471"
+            ],
+            "draft_excerpt": "共设置直播课程42门，日均直播课程超过50节次。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d16072aa8fb70a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "f2992e7ffc3cbd714a9a6abc441633a6a550375f56d9b2b543c2aa81e7447dae",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-79d0a30b7c16df30",
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7268d7d4ecf4b9b0",
+            "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eb91aee642898677",
+            "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9e985a12f117a322",
+            "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6e780b8b11e288c7",
+            "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-13eee603b2edd471",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f696373fc72946b8",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30"
+            ],
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a2e9fec7e471aa2b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30"
+            ],
+            "draft_excerpt": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ed33791d8f5aab66",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-79d0a30b7c16df30",
+              "claim-7268d7d4ecf4b9b0"
+            ],
+            "draft_excerpt": "该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7da9d97cd074bcd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eb91aee642898677"
+            ],
+            "draft_excerpt": "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b0b52ac51c59efd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9e985a12f117a322"
+            ],
+            "draft_excerpt": "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-297cc0396e01ab31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6e780b8b11e288c7"
+            ],
+            "draft_excerpt": "远端授课惠及397个班级、1800余名教师以及24000余名学生。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f75d66b253bb2086",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f696373fc72946b8"
+            ],
+            "draft_excerpt": "在线教学内容实现了中学全学段初一至高三所有年级全覆盖。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1894aa2ff21f53f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-13eee603b2edd471"
+            ],
+            "draft_excerpt": "共设置直播课程42门，日均直播课程超过50节次。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d16072aa8fb70a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措。该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等。\n\n石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。\n\n- 目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）。\n- 远端授课惠及397个班级、1800余名教师以及24000余名学生。\n- 在线教学内容实现了中学全学段初一至高三所有年级全覆盖。\n- 共设置直播课程42门，日均直播课程超过50节次。",
+    "description": "石室祥云网络教育是成都市石室中学于2013年9月推出的在线教育平台，旨在通过优质资源直播与同步服务推动教育信息化及城乡教育均衡化。",
+    "ref": {
+      "asset_hints": [
+        "html-table-014",
+        "image-031"
+      ],
+      "concept_id": "topic-c0d3419318df",
+      "description": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措，该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等，具有普适性、示范性、互动性、共享性、经济性、可持续性、易用性等特点，能够满",
+      "document_family_id": "f353dfc112f22e17c2b7",
+      "document_version_id": "fcee9cbb197cd052e115",
+      "evidence": [
+        "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措，该项目于2013年9月上线",
+        "服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等",
+        "目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州）",
+        "远端授课惠及397个班级、1800余名教师以及24000余名学生",
+        "在线教学内容实现了中学全学段初一至高三所有年级全覆盖",
+        "共设置直播课程42门，日均直播课程超过50节次",
+        "石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。"
+      ],
+      "evidence_block_ids": [
+        "blk-23838da24ab1fcec80e7"
+      ],
+      "page_end": 107,
+      "page_start": 28,
+      "ref_family_hint": "",
+      "ref_version_id": "fcee9cbb197cd052e115",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "fa5174b5-f9a4-407e-9eb9-86d93f14eb0a.md",
+      "title": "第三节 典型案例或重点项目",
+      "type": "分析框架"
+    },
+    "title": "石室祥云网络教育平台"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-08aaca11e0f6:bundle-f36e4f64e186",
+      "excluded_fragments": [],
+      "ref_id": "ref-08aaca11e0f6",
+      "source_blocks": [
+        {
+          "block_id": "blk-b9545a8cb9b0692612ec",
+          "page_number": 28,
+          "text": "资料来源：课题组根据四川省各（市）州、成都市级部门、成都市各区（市）县相关部门提供的资料，以及国内各省市政府网站，搜集整理得出。"
+        },
+        {
+          "block_id": "blk-1735a91c033e88e2f952",
+          "page_number": 86,
+          "text": "资料来源：课题组根据四川省各（市）州、成都市级部门、成都市各区（市）县相关部门提供的资料，以及国内各省市政府网站，搜集整理得出。"
+        },
+        {
+          "block_id": "blk-8b61a65623b2ad99c457",
+          "page_number": 107,
+          "text": "资料来源：课题组根据四川省各（市）州、成都市级部门、成都市各区（市）县相关部门提供的资料，以及国内各省市政府网站，搜集整理得出。"
+        },
+        {
+          "block_id": "blk-23838da24ab1fcec80e7",
+          "page_number": 105,
+          "text": "石室祥云网络教育是成都市石室中学推出的在线教育平台，是石室中学推动实施教育全面信息化、城乡教育均衡化的重要举措，该项目于2013年9月上线，服务内容主要是为加盟学校提供石室优质课堂直播、课堂教学视频点播、同步测评、同步教研、同步培训、同步资源等，具有普适性、示范性、互动性、共享性、经济性、可持续性、易用性等特点，能够满足不同层次加盟学校的网班师生的学习需求。目前，石室祥云网络教育已签约加盟学校多达68所，覆盖四川省内17个市（州），远端授课惠及397个班级、1800余名教师以及24000余名学生；在线教学内容实现了中学全学段初一至高三所有年级全覆盖，共设置直播课程42门，日均直播课程超过50节次。石室祥云网络教育平台项目是成都市推动省内教育协同发展的有力举措，对实现省内公共服务均等化具有重要意义。"
+        },
+        {
+          "block_id": "blk-026e6c6ddf1179d84c5e",
+          "page_number": 106,
+          "text": "原始 PDF 第 106 页图片"
+        },
+        {
+          "block_id": "blk-7ff507d8aec3057eb4d0",
+          "page_number": 106,
+          "text": "图6-2 石室祥云加盟学校分布图"
+        },
+        {
+          "block_id": "blk-d21a54623ace0727f1c4",
+          "page_number": 106,
+          "text": "按照成都平原经济区8市一体化发展的要求，成都积极推进与环成都经济圈7市在医疗卫生一体化发展方面的合作，构建了由决策层、协调层和执行层相结合的医疗卫生“三级管理”合作机制。其中，“决策层”是指成立卫生计生区域合作领导小组，定期召开专题会议，负责分析区域合作工作形势以及解决合作中遇到的困难和问题；“协调层”是指建立了由8市分管领导参加的区域协作联席会议机制；“执行层”是指建立了多个专项合作机制，主要涉及医疗服务、疾病防控、妇幼健康和卫生应急等方面。"
+        },
+        {
+          "block_id": "blk-ac5f441406b76886feb5",
+          "page_number": 106,
+          "text": "2018年9月，成都、德阳开通了医保个人账户异地“直结”服务，两地参保居民不需要办理异地就医备案，只需持本人社保卡，到开通了相关业务的定点医院门诊就医和定点药店购药，相应费用会直接从个人医保账户中扣除。其中，德阳参保居民在成都购药就医按德阳市待遇政策标准直接结算，成都参保居民在德阳就医购药按成都市待遇标准直接结算执行，医保个人账户异地直接结算不影响参保人员的待遇标准。首批接入异地就医平台的药店共计199家，其中成都172家、德阳27家；医疗机构94家，其中成都77家、德阳17家。成都与德阳医保个人账户异地直接结算业务的开通，使成都和德阳两地参保居民在就医购药全领域实现了医保结算无缝对接，有力推动了两地社会保障领域同城化进展。"
+        },
+        {
+          "block_id": "blk-716d762558ecef53bea1",
+          "page_number": 107,
+          "text": "表 6-1 成都与其他城市 (单位) 公共服务签订协议一览表"
+        },
+        {
+          "block_id": "blk-c1078d325480e5d096db",
+          "page_number": 107,
+          "text": "<table><tr><td>年份</td><td>合作城市(单位)</td><td>相关协议</td></tr><tr><td>2018</td><td>成都、环成都经济圈城市</td><td>成都平原经济区人力资源和社会保障事业协同发展协议</td></tr><tr><td>2018</td><td>成都、德阳、眉山、资阳</td><td>成德眉资四市技能人才队伍建设合作协议</td></tr><tr><td>2018</td><td>成都、德阳</td><td>成德教育一体化教科研合作备忘录、食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、眉山</td><td>食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、资阳</td><td>成都资阳人力资源和社会保障事业同城化发展协议、食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、内江</td><td>教育协同发展合作交流框架协议、内江市人民政府四川大学华西医院分级协同诊疗体系建设战略合作协议、成都内江就业创业服务合作协议</td></tr><tr><td>2018</td><td>成都、绵阳</td><td>食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、遂宁</td><td>食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、乐山</td><td>食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、雅安</td><td>成雅教育协同发展合作框架协议、成都雅安医疗事故鉴定合作框架协议、食品药品安全应急协作框架协议、卫生应急合作备忘录</td></tr><tr><td>2018</td><td>成都、巴中</td><td>成巴教育协同发展合作框架协议</td></tr><tr><td>2018</td><td>成都、阿坝</td><td>成都市一阿坝州灾后重建就业援助项目合作框架协议、食品药品安全应急协作框架协议</td></tr><tr><td>2018</td><td>成都、甘孜</td><td>州校合作框架协议、成都市-甘孜州就业精准扶贫合作框架协议</td></tr><tr><td>2018</td><td>成都、北京</td><td>北京航空航天大学与西华大学合作框架协议、共建新型科教创产融合发展联合体战略合作协议</td></tr><tr><td>2018</td><td>成都中医药大学、凉山</td><td>成都中医药大学凉山州人民政府战略合作框架协议</td></tr><tr><td>2018</td><td>成都社区大学、上海开放大学</td><td>社区教育合作发展框架协议</td></tr></table>"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-c0d3419318df",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-08aaca11e0f6"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

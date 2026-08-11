@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-7341c57c04e1:bundle-ad519a864fa7; submitted='创新构建符合双方利益的体制机制是推动飞地经济建设的重要保障。浙江省在推进省内飞地经济建设过程中，重点创新形成三个方面的体制机制：一是构建形成共建机制。二是构建形成共管机制。三是创新形成利益共享机制。'; nearest_verbatim_span='创新构建符合双方利益的体制机制是推动飞地经济建设的重要保障。浙江省在推进省内飞地经济建设过程中，重点创新形成三个方面的体制机制：一是构建形成共建机制'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-bb5338a79cc3",
+  "ref_ids": [
+    "ref-7341c57c04e1"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

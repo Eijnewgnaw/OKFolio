@@ -1,0 +1,10 @@
+{
+  "error": "LLMOutputTruncated: LLM output truncated (finish_reason=length, completion_tokens=8192)",
+  "group_id": "proposition-7e4a36a43afc",
+  "ref_ids": [
+    "ref-2aea9c62ce8c",
+    "ref-81766682e1a1"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

@@ -1,0 +1,1603 @@
+{
+  "contract": {
+    "canonical_question": "成都国际航空枢纽在2020年疫情冲击下的运能变化情况及航线拓展计划的具体措施与目标是什么？",
+    "claims": [
+      {
+        "claim": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+        "claim_id": "claim-c3e1746958cfc437",
+        "evidence_block_ids": [
+          "blk-3b637e38905dde920067"
+        ],
+        "evidence_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩①。",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-3763dd22d08d",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+        "claim_id": "claim-0e94a21e26aac3f0",
+        "evidence_block_ids": [
+          "blk-a75abc974b46afaa9a9e"
+        ],
+        "evidence_excerpt": "新开通成都至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条，其中定期直飞航线79条，航线规模稳居全国第四、中西部第一，通达全球的国际航空客货运骨干航线网络加快构建。2020年",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-3763dd22d08d",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+        "claim_id": "claim-d4c7d7e192df75c7",
+        "evidence_block_ids": [
+          "blk-a75abc974b46afaa9a9e"
+        ],
+        "evidence_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位，全年起降架次量和总客运航班数均居全球机场第八。",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          71
+        ],
+        "ref_id": "ref-3763dd22d08d",
+        "scope": {
+          "time": [
+            "2020年",
+            "2020年5月"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+        "claim_id": "claim-2bc05c5459040ceb",
+        "evidence_block_ids": [
+          "blk-96f518345cec81da269a"
+        ],
+        "evidence_excerpt": "出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营，印发《成都市人民政府关于印发加快推进成都航空货运枢纽建设扶持政策的通知》，推动构建成都航空货运集散枢纽。",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          72
+        ],
+        "ref_id": "ref-3763dd22d08d",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+        "claim_id": "claim-5e9f46e185aebff1",
+        "evidence_block_ids": [
+          "blk-96f518345cec81da269a"
+        ],
+        "evidence_excerpt": "新增成都至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线，启动重大运输包机业务，全力保障重要医疗物资抢运和跨国企业正常生产经营的航空运输需求。",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          72
+        ],
+        "ref_id": "ref-3763dd22d08d",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+        "claim_id": "claim-c2b4ff625d5279b2",
+        "evidence_block_ids": [
+          "blk-96f518345cec81da269a"
+        ],
+        "evidence_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          72
+        ],
+        "ref_id": "ref-3763dd22d08d",
+        "scope": {
+          "time": [
+            "2020年"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+        "claim_id": "claim-2eec9cad16d0f181",
+        "evidence_block_ids": [
+          "blk-33804894714f33f8a2ab"
+        ],
+        "evidence_excerpt": "打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度，大力发展国际通程中转联运航线，重点培育欧洲与东亚、南亚、东盟、澳新间经成都中转的洲际航线，提升国际旅客中转效率和服务水平，打造成为中国中西部面向全球的航空枢纽门户、洲际航空中转枢纽和航空货物转运中心。",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-39dc86222312",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+        "claim_id": "claim-139f2ad1170eff29",
+        "evidence_block_ids": [
+          "blk-33804894714f33f8a2ab"
+        ],
+        "evidence_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-39dc86222312",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+        "claim_id": "claim-53455bcccb770586",
+        "evidence_block_ids": [
+          "blk-33804894714f33f8a2ab"
+        ],
+        "evidence_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-39dc86222312",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+        "claim_id": "claim-2f7d3f06972e942e",
+        "evidence_block_ids": [
+          "blk-33804894714f33f8a2ab"
+        ],
+        "evidence_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-39dc86222312",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+        "claim_id": "claim-5805b1955f339248",
+        "evidence_block_ids": [
+          "blk-33804894714f33f8a2ab"
+        ],
+        "evidence_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-39dc86222312",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+        "claim_id": "claim-6dfb4bde90dc184b",
+        "evidence_block_ids": [
+          "blk-33804894714f33f8a2ab"
+        ],
+        "evidence_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          161
+        ],
+        "ref_id": "ref-39dc86222312",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c3e1746958cfc437",
+          "claim-0e94a21e26aac3f0",
+          "claim-d4c7d7e192df75c7",
+          "claim-2bc05c5459040ceb",
+          "claim-5e9f46e185aebff1",
+          "claim-c2b4ff625d5279b2"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+        "reason": "包含疫情对运能的影响事实、航线数量增长、吞吐量数据及“客改货”等关键应对措施，是回答中心问题现状与对策的核心证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-2eec9cad16d0f181",
+          "claim-139f2ad1170eff29",
+          "claim-53455bcccb770586",
+          "claim-2f7d3f06972e942e",
+          "claim-5805b1955f339248",
+          "claim-6dfb4bde90dc184b"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+        "reason": "包含国际航线网络拓展的战略目标、具体航线培育方向及财政、航权等政策支持措施，是回答中心问题对策部分的核心证据。"
+      }
+    ],
+    "group_id": "topic-b448293ffc68",
+    "members": [
+      {
+        "contribution": "提供2020年疫情导致国际客运航班取消、腹舱运能萎缩的客观约束事实，以及成都通过“客改货”、新开全货机航线等措施维持供应链畅通的具体数据与成效。",
+        "ref_id": "ref-3763dd22d08d",
+        "relation": "supports"
+      },
+      {
+        "contribution": "阐述打造通达全球国际航线网络的战略目标，包括覆盖欧美澳亚非、提高G20城市航班密度、培育洲际中转航线，以及财政补贴、航权协调等具体支持政策。",
+        "ref_id": "ref-39dc86222312",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-c3e1746958cfc437",
+        "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0e94a21e26aac3f0",
+        "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d4c7d7e192df75c7",
+        "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2bc05c5459040ceb",
+        "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5e9f46e185aebff1",
+        "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c2b4ff625d5279b2",
+        "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2eec9cad16d0f181",
+        "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-139f2ad1170eff29",
+        "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-53455bcccb770586",
+        "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2f7d3f06972e942e",
+        "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5805b1955f339248",
+        "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6dfb4bde90dc184b",
+        "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0bef0d6532b483a9",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-c3e1746958cfc437"
+        ],
+        "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-752b2c9bf6ef8f02",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0e94a21e26aac3f0"
+        ],
+        "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d92995229b83b506",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d4c7d7e192df75c7"
+        ],
+        "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3e1a6044dda54795",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2bc05c5459040ceb"
+        ],
+        "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e297999a5abf69b3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5e9f46e185aebff1"
+        ],
+        "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-18d0496bb0345bd8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c2b4ff625d5279b2"
+        ],
+        "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-91077e76128d0c7e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2eec9cad16d0f181"
+        ],
+        "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-153aaf67f0e90ccd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-139f2ad1170eff29"
+        ],
+        "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-659b75c1b761ee84",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-53455bcccb770586"
+        ],
+        "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7df9766a1b8c69d1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2f7d3f06972e942e"
+        ],
+        "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-50498032e929645b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5805b1955f339248"
+        ],
+        "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-543b349808e80623",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6dfb4bde90dc184b"
+        ],
+        "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c62df58c66777d82",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-c3e1746958cfc437",
+          "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0e94a21e26aac3f0",
+          "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d4c7d7e192df75c7",
+          "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2bc05c5459040ceb",
+          "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5e9f46e185aebff1",
+          "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c2b4ff625d5279b2",
+          "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2eec9cad16d0f181",
+          "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-139f2ad1170eff29",
+          "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-53455bcccb770586",
+          "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2f7d3f06972e942e",
+          "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5805b1955f339248",
+          "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-0bef0d6532b483a9",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-c3e1746958cfc437"
+          ],
+          "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+          "finding": "supported",
+          "sentence_id": "sentence-752b2c9bf6ef8f02",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0e94a21e26aac3f0"
+          ],
+          "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+          "finding": "supported",
+          "sentence_id": "sentence-d92995229b83b506",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d4c7d7e192df75c7"
+          ],
+          "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+          "finding": "supported",
+          "sentence_id": "sentence-3e1a6044dda54795",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2bc05c5459040ceb"
+          ],
+          "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+          "finding": "supported",
+          "sentence_id": "sentence-e297999a5abf69b3",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5e9f46e185aebff1"
+          ],
+          "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+          "finding": "supported",
+          "sentence_id": "sentence-18d0496bb0345bd8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c2b4ff625d5279b2"
+          ],
+          "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-91077e76128d0c7e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2eec9cad16d0f181"
+          ],
+          "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+          "finding": "supported",
+          "sentence_id": "sentence-153aaf67f0e90ccd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-139f2ad1170eff29"
+          ],
+          "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+          "finding": "supported",
+          "sentence_id": "sentence-659b75c1b761ee84",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-53455bcccb770586"
+          ],
+          "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-7df9766a1b8c69d1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2f7d3f06972e942e"
+          ],
+          "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-50498032e929645b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5805b1955f339248"
+          ],
+          "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+          "finding": "supported",
+          "sentence_id": "sentence-543b349808e80623",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-6dfb4bde90dc184b",
+          "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-6dfb4bde90dc184b"
+          ],
+          "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+          "finding": "supported",
+          "sentence_id": "sentence-c62df58c66777d82",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "9e67b05f1e7ab1cdbfb6e16659c5565c0741d277824b8d4af38e99c2ebc10478",
+  "coverage_history": [
+    {
+      "draft_sha256": "3b2872626986e9604cc8e5de107f647d31ed64cb14b572dd2a8b754977ca5fdf",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c3e1746958cfc437",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-c3e1746958cfc437 is missing hard anchors from the claim: ['2020年']; claim='2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。'; excerpt='在疫情影响导致国际客运航班取消、腹舱载货运能萎缩的背景下，通过实施国际客货运航线拓展计划，打造通达全球的国际航线网络并提升中转效率。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-2eec9cad16d0f181",
+            "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0e94a21e26aac3f0",
+            "draft_excerpt": "2020年，新开通成都至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条，其中定期直飞航线79条，航线规模稳居全国第四、中西部第一。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e9f46e185aebff1",
+            "draft_excerpt": "新增成都至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线，启动重大运输包机业务，全力保障重要医疗物资抢运和跨国企业正常生产经营的航空运输需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c2b4ff625d5279b2",
+            "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d4c7d7e192df75c7",
+            "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位，全年起降架次量和总客运航班数均居全球机场第八。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5805b1955f339248",
+            "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6dfb4bde90dc184b",
+            "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2bc05c5459040ceb",
+            "draft_excerpt": "出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营，印发《成都市人民政府关于印发加快推进成都航空货运枢纽建设扶持政策的通知》，推动构建成都航空货运集散枢纽。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-139f2ad1170eff29",
+            "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-53455bcccb770586",
+            "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f7d3f06972e942e",
+            "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在疫情期间通过客改货、全货机航线拓展及政策扶持，构建通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07b2d05577388bcd",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3e1746958cfc437"
+            ],
+            "draft_excerpt": "在疫情影响导致国际客运航班取消、腹舱载货运能萎缩的背景下，通过实施国际客货运航线拓展计划，打造通达全球的国际航线网络并提升中转效率。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d4785e28836859fe",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f1611d602cef41b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "大力发展国际通程中转联运航线，重点培育欧洲与东亚、南亚、东盟、澳新间经成都中转的洲际航线。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e2460cc8a3cadde3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "提升国际旅客中转效率和服务水平，打造成为中国中西部面向全球的航空枢纽门户、洲际航空中转枢纽和航空货物转运中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8f1f7bdc0ef97ed5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e94a21e26aac3f0"
+            ],
+            "draft_excerpt": "2020年，新开通成都至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条，其中定期直飞航线79条，航线规模稳居全国第四、中西部第一。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9d1335c5f3a478e3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e9f46e185aebff1"
+            ],
+            "draft_excerpt": "新增成都至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线，启动重大运输包机业务，全力保障重要医疗物资抢运和跨国企业正常生产经营的航空运输需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02f9ea1ecfd244a6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c2b4ff625d5279b2"
+            ],
+            "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-89e68fd7edb739d2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d4c7d7e192df75c7"
+            ],
+            "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位，全年起降架次量和总客运航班数均居全球机场第八。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b18782d3541522bc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5805b1955f339248"
+            ],
+            "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b0508a49de7e786c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6dfb4bde90dc184b"
+            ],
+            "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-19dc3464206f886b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2bc05c5459040ceb"
+            ],
+            "draft_excerpt": "出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营，印发《成都市人民政府关于印发加快推进成都航空货运枢纽建设扶持政策的通知》，推动构建成都航空货运集散枢纽。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83016ff490ff7733",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-139f2ad1170eff29"
+            ],
+            "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3411cce518baa510",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53455bcccb770586"
+            ],
+            "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d0ee2e3ec20e7dcd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f7d3f06972e942e"
+            ],
+            "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c967e658d949c532",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "在疫情期间通过客改货、全货机航线拓展及政策扶持，构建通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "c16f149c8612a52f9b552b31bc4c84e73d2b24a5ec2616c30068f90aaeab8ee1",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c3e1746958cfc437",
+            "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0e94a21e26aac3f0",
+            "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d4c7d7e192df75c7",
+            "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2bc05c5459040ceb",
+            "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e9f46e185aebff1",
+            "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c2b4ff625d5279b2",
+            "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2eec9cad16d0f181",
+            "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5805b1955f339248",
+            "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6dfb4bde90dc184b",
+            "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-139f2ad1170eff29",
+            "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-53455bcccb770586",
+            "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f7d3f06972e942e",
+            "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bef0d6532b483a9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3e1746958cfc437"
+            ],
+            "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-752b2c9bf6ef8f02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在此背景下，成都通过实施国际客货运航线拓展计划，打造通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-46c1fdb7cc46892a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c238a4b724ba8f21",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "大力发展国际通程中转联运航线，重点培育欧洲与东亚、南亚、东盟、澳新间经成都中转的洲际航线。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ab0636a6f5ff40f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "提升国际旅客中转效率和服务水平，打造成为中国中西部面向全球的航空枢纽门户、洲际航空中转枢纽和航空货物转运中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-610665ee32d6735c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e94a21e26aac3f0"
+            ],
+            "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b1d76aefd700a89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2bc05c5459040ceb",
+              "claim-5e9f46e185aebff1"
+            ],
+            "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-77a10a6841d25537",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d4c7d7e192df75c7"
+            ],
+            "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df7c132cf7ca40cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c2b4ff625d5279b2"
+            ],
+            "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-30a6a1b49572ebee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5805b1955f339248"
+            ],
+            "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a3f61e2101b93c4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6dfb4bde90dc184b"
+            ],
+            "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d8f1e25990700c2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2bc05c5459040ceb"
+            ],
+            "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a362d1ae88cef3e5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-139f2ad1170eff29"
+            ],
+            "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3370edc46bc4c442",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53455bcccb770586"
+            ],
+            "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1c184b2fb94c6019",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f7d3f06972e942e"
+            ],
+            "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-67d3f9ed24b0782d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在此背景下，成都通过实施国际客货运航线拓展计划，打造通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9e67b05f1e7ab1cdbfb6e16659c5565c0741d277824b8d4af38e99c2ebc10478",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c3e1746958cfc437",
+            "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0e94a21e26aac3f0",
+            "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d4c7d7e192df75c7",
+            "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2bc05c5459040ceb",
+            "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5e9f46e185aebff1",
+            "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c2b4ff625d5279b2",
+            "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2eec9cad16d0f181",
+            "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-139f2ad1170eff29",
+            "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-53455bcccb770586",
+            "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2f7d3f06972e942e",
+            "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5805b1955f339248",
+            "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6dfb4bde90dc184b",
+            "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0bef0d6532b483a9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c3e1746958cfc437"
+            ],
+            "draft_excerpt": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-752b2c9bf6ef8f02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0e94a21e26aac3f0"
+            ],
+            "draft_excerpt": "2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d92995229b83b506",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d4c7d7e192df75c7"
+            ],
+            "draft_excerpt": "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e1a6044dda54795",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2bc05c5459040ceb"
+            ],
+            "draft_excerpt": "成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e297999a5abf69b3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5e9f46e185aebff1"
+            ],
+            "draft_excerpt": "成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-18d0496bb0345bd8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c2b4ff625d5279b2"
+            ],
+            "draft_excerpt": "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-91077e76128d0c7e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2eec9cad16d0f181"
+            ],
+            "draft_excerpt": "目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-153aaf67f0e90ccd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-139f2ad1170eff29"
+            ],
+            "draft_excerpt": "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-659b75c1b761ee84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-53455bcccb770586"
+            ],
+            "draft_excerpt": "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7df9766a1b8c69d1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2f7d3f06972e942e"
+            ],
+            "draft_excerpt": "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-50498032e929645b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5805b1955f339248"
+            ],
+            "draft_excerpt": "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-543b349808e80623",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6dfb4bde90dc184b"
+            ],
+            "draft_excerpt": "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c62df58c66777d82",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩。\n\n2020年，成都新开通至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条。\n\n2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位。\n\n成都出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营。\n\n成都新增至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线。\n\n2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。\n\n目标是打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络。\n\n鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。\n\n对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。\n\n对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。\n\n建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。\n\n搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。",
+    "description": "2020年，成都双流国际机场在疫情期间通过新开通国际定期直飞客货运航线、新增全货机及“客改货”航线，并出台多项扶持政策，构建通达全球的国际航线网络并提升中转效率。",
+    "ref": {
+      "asset_hints": [
+        "image-049",
+        "image-050"
+      ],
+      "concept_id": "topic-b448293ffc68",
+      "description": "在疫情影响导致国际客运航班取消、腹舱载货运能萎缩的背景下，通过实施国际客货运航线拓展计划，打造通达全球的国际航线网络并提升中转效率。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩①。",
+        "新开通成都至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条，其中定期直飞航线79条，航线规模稳居全国第四、中西部第一，通达全球的国际航空客货运骨干航线网络加快构建。2020年",
+        "2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位，全年起降架次量和总客运航班数均居全球机场第八。",
+        "出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营，印发《成都市人民政府关于印发加快推进成都航空货运枢纽建设扶持政策的通知》，推动构建成都航空货运集散枢纽。",
+        "新增成都至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线，启动重大运输包机业务，全力保障重要医疗物资抢运和跨国企业正常生产经营的航空运输需求。",
+        "2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。",
+        "打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度，大力发展国际通程中转联运航线，重点培育欧洲与东亚、南亚、东盟、澳新间经成都中转的洲际航线，提升国际旅客中转效率和服务水平，打造成为中国中西部面向全球的航空枢纽门户、洲际航空中转枢纽和航空货物转运中心。",
+        "鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。",
+        "对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。",
+        "对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。",
+        "建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。",
+        "搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。"
+      ],
+      "evidence_block_ids": [
+        "blk-3b637e38905dde920067",
+        "blk-a75abc974b46afaa9a9e",
+        "blk-96f518345cec81da269a",
+        "blk-33804894714f33f8a2ab"
+      ],
+      "page_end": 161,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "国际航空枢纽功能与航线拓展计划",
+      "type": "国际比较"
+    },
+    "title": "国际航空枢纽功能与航线拓展计划"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-3763dd22d08d:bundle-7911f7918b4c",
+      "excluded_fragments": [],
+      "ref_id": "ref-3763dd22d08d",
+      "source_blocks": [
+        {
+          "block_id": "blk-3b637e38905dde920067",
+          "page_number": 71,
+          "text": "2020年，受全球疫情影响，国际客运航班大量取消，腹舱载货总体运能萎缩①。在防止境外疫情输入和保障国际航空基本需求的前提下，成都积极谋划航空通道建设，稳步提升航空货运能力，国际航空供应链保持畅通。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-a75abc974b46afaa9a9e",
+          "page_number": 71,
+          "text": "国际航空通道建设持续发力。新开通成都至塔什干、札幌、东京、马尼拉、雅加达等6条国际定期直飞客货运航线，国际（地区）航线数量增至130条，其中定期直飞航线79条，航线规模稳居全国第四、中西部第一，通达全球的国际航空客货运骨干航线网络加快构建。2020年5月，成都双流国际机场单月航班起降架次居全球第一，全年实现旅客吞吐量4070.2万人次，居全国第二位，全年起降架次量和总客运航班数均居全球机场第八。天府国际机场建设加快推进，举行“首印天府载梦启航”校飞仪式，天府国际机场迈出从“建起来”向“飞起来”跨域的关键一步，“一市两场”航空枢纽运营格局正在形成。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-7116a4e3fbb6f3b55087",
+          "page_number": 72,
+          "text": "原始 PDF 第 72 页图片"
+        },
+        {
+          "block_id": "blk-08035d665e57dc6f10e0",
+          "page_number": 72,
+          "text": "图2-1 2016—2020年成都双流国际机场国际直飞航线和旅客吞吐量"
+        },
+        {
+          "block_id": "blk-1a0121fd199dbef7726d",
+          "page_number": 72,
+          "text": "资料来源：2016—2020中国民航业发展统计报告"
+        },
+        {
+          "block_id": "blk-96f518345cec81da269a",
+          "page_number": 72,
+          "text": "国际航空货运能力保持稳定。出台《关于新冠肺炎疫情期间扶持成都国际航空货运发展的措施》，维持国际全货机定期航线稳定运营，印发《成都市人民政府关于印发加快推进成都航空货运枢纽建设扶持政策的通知》，推动构建成都航空货运集散枢纽。新增成都至东京国际定期全货机航线，开行至旧金山、伦敦等30条“客改货”国际（地区）航线，启动重大运输包机业务，全力保障重要医疗物资抢运和跨国企业正常生产经营的航空运输需求。围绕服务重点产业国际供应链组织需求，推动成都双流国际机场实现国际中转货物跨航空公司国际航线、跨货站库区内操作模式实现突破，国际航空货运中转业务效率有效提升。2020年，成都双流国际机场实现货邮吞吐量62.0万吨，国际全货机航线达10条，“客改货”国际航线覆盖北美、欧洲、大洋洲、非洲、亚洲等主要枢纽城市。"
+        },
+        {
+          "block_id": "blk-5bf033fcdfd71ff2b4bb",
+          "page_number": 73,
+          "text": "专栏2-1 成都双流国际机场“客改货”航班"
+        },
+        {
+          "block_id": "blk-34b784a7e61fa0a133a4",
+          "page_number": 73,
+          "text": "原始 PDF 第 73 页图片"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-39dc86222312:bundle-96cf62e5baea",
+      "excluded_fragments": [],
+      "ref_id": "ref-39dc86222312",
+      "source_blocks": [
+        {
+          "block_id": "blk-33804894714f33f8a2ab",
+          "page_number": 161,
+          "text": "打造“通达全球、中转高效、功能完善”的国际航线网络，全面形成覆盖欧美澳亚非的国际航空干线网络，提高到G20国家等商务城市、新兴市场和全球旅游目的地的航班密度，大力发展国际通程中转联运航线，重点培育欧洲与东亚、南亚、东盟、澳新间经成都中转的洲际航线，提升国际旅客中转效率和服务水平，打造成为中国中西部面向全球的航空枢纽门户、洲际航空中转枢纽和航空货物转运中心。鼓励国内外航空公司在蓉集聚发展，航空公司成都营运基地建设项目纳入成都市重点建设项目给予投资扶持和供地优先保障。对新开通的国际定期直飞航线给予财政补贴支持，并在航权及时刻资源协调方面给予支持。对基地航空公司直接引进的公司高管、机长和副驾驶员给予一次性补贴，同企业签订中长期工作协议的高管、机长和副驾驶员，参照其个人所得税贡献给予一定奖励。建立国际航空运力弹性解决机制，支持成立包机运营公司，灵活满足成都产业流、文旅流等市场需求。搭建航空信息综合服务平台，提供运力资源、中转联程、数据共享等信息服务。〔牵头单位：市口岸物流办；责任单位：市交委、市发改委、市经信委、市商务委，相关区（市）县]"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-b448293ffc68",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-3763dd22d08d",
+    "ref-39dc86222312"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

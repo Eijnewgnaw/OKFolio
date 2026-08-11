@@ -1,0 +1,530 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区如何建立经济社会统计监测体系并开展督查与统计分析工作？",
+    "claims": [
+      {
+        "claim": "建立成都自贸试验区经济社会统计监测体系。",
+        "claim_id": "claim-8b2fac281d08362e",
+        "evidence_block_ids": [
+          "blk-82778b0da0b7c790f34b"
+        ],
+        "evidence_excerpt": "建立成都自贸试验区经济社会统计监测体系",
+        "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-a009778f8083",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "适时跟踪重点企业和重点项目的改革试验动态。",
+        "claim_id": "claim-077296ac97158c1d",
+        "evidence_block_ids": [
+          "blk-82778b0da0b7c790f34b"
+        ],
+        "evidence_excerpt": "适时跟踪重点企业和重点项目的改革试验动态",
+        "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-a009778f8083",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "做好相关对比和统计分析。",
+        "claim_id": "claim-aab42e4711dc48e2",
+        "evidence_block_ids": [
+          "blk-82778b0da0b7c790f34b"
+        ],
+        "evidence_excerpt": "并做好相关对比和统计分析",
+        "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-a009778f8083",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "坚持成果导向，创新督查方法。",
+        "claim_id": "claim-49ad14b1d85b7a21",
+        "evidence_block_ids": [
+          "blk-82778b0da0b7c790f34b"
+        ],
+        "evidence_excerpt": "坚持成果导向，创新督查方法",
+        "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-a009778f8083",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+        "claim_id": "claim-4669a17da411445e",
+        "evidence_block_ids": [
+          "blk-82778b0da0b7c790f34b"
+        ],
+        "evidence_excerpt": "重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果",
+        "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          149
+        ],
+        "ref_id": "ref-a009778f8083",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-8b2fac281d08362e",
+          "claim-077296ac97158c1d",
+          "claim-aab42e4711dc48e2",
+          "claim-49ad14b1d85b7a21",
+          "claim-4669a17da411445e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+        "reason": "该证据包含建立统计监测体系、跟踪动态、统计分析、创新督查方法及重点督查内容等核心事实，直接回答中心问题。"
+      }
+    ],
+    "group_id": "topic-80a8189944ae",
+    "members": [
+      {
+        "contribution": "该证据直接阐述了成都自贸试验区建立统计监测体系、跟踪重点企业与项目动态、进行对比统计分析的具体要求，以及坚持成果导向创新督查方法、明确重点督查内容的行动框架。",
+        "ref_id": "ref-a009778f8083",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-8b2fac281d08362e",
+        "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-077296ac97158c1d",
+        "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-aab42e4711dc48e2",
+        "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-49ad14b1d85b7a21",
+        "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4669a17da411445e",
+        "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-8b2fac281d08362e",
+          "claim-077296ac97158c1d",
+          "claim-aab42e4711dc48e2"
+        ],
+        "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b24992153d8f0040",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-49ad14b1d85b7a21",
+          "claim-4669a17da411445e"
+        ],
+        "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-afa4a9e021930b73",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-8b2fac281d08362e",
+          "claim-077296ac97158c1d",
+          "claim-aab42e4711dc48e2"
+        ],
+        "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e53b83d0fccbbfcc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-49ad14b1d85b7a21",
+          "claim-4669a17da411445e"
+        ],
+        "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-03171dbb9ea6f983",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-8b2fac281d08362e",
+          "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-077296ac97158c1d",
+          "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-aab42e4711dc48e2",
+          "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-49ad14b1d85b7a21",
+          "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4669a17da411445e",
+          "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-8b2fac281d08362e",
+            "claim-077296ac97158c1d",
+            "claim-aab42e4711dc48e2"
+          ],
+          "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+          "finding": "supported",
+          "sentence_id": "sentence-b24992153d8f0040",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-49ad14b1d85b7a21",
+            "claim-4669a17da411445e"
+          ],
+          "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+          "finding": "supported",
+          "sentence_id": "sentence-afa4a9e021930b73",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-8b2fac281d08362e",
+            "claim-077296ac97158c1d",
+            "claim-aab42e4711dc48e2"
+          ],
+          "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+          "finding": "supported",
+          "sentence_id": "sentence-e53b83d0fccbbfcc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-49ad14b1d85b7a21",
+            "claim-4669a17da411445e"
+          ],
+          "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+          "finding": "supported",
+          "sentence_id": "sentence-03171dbb9ea6f983",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "8219a57aaaad7be47ecea4acb3617a56f125d1b75c0b139aae28d980acf50064",
+  "coverage_history": [
+    {
+      "draft_sha256": "877e1a227eb097f0ca9de0e17c683a9e39b4e364e94c2f277fecc55247bb47c3",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-8b2fac281d08362e",
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，旨在适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-077296ac97158c1d",
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，旨在适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aab42e4711dc48e2",
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，旨在适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-49ad14b1d85b7a21",
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4669a17da411445e",
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "通过建立统计监测体系与强化督查机制，跟踪改革动态并评估制度创新成果。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-923692121a2a7477",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-8b2fac281d08362e",
+              "claim-077296ac97158c1d",
+              "claim-aab42e4711dc48e2"
+            ],
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，旨在适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41f1ae9eeb8a4fbf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-49ad14b1d85b7a21",
+              "claim-4669a17da411445e"
+            ],
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-03171dbb9ea6f983",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "通过建立统计监测体系与强化督查机制，跟踪改革动态并评估制度创新成果。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "8219a57aaaad7be47ecea4acb3617a56f125d1b75c0b139aae28d980acf50064",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-8b2fac281d08362e",
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-077296ac97158c1d",
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aab42e4711dc48e2",
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-49ad14b1d85b7a21",
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4669a17da411445e",
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-8b2fac281d08362e",
+              "claim-077296ac97158c1d",
+              "claim-aab42e4711dc48e2"
+            ],
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b24992153d8f0040",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-49ad14b1d85b7a21",
+              "claim-4669a17da411445e"
+            ],
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-afa4a9e021930b73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-8b2fac281d08362e",
+              "claim-077296ac97158c1d",
+              "claim-aab42e4711dc48e2"
+            ],
+            "draft_excerpt": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e53b83d0fccbbfcc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-49ad14b1d85b7a21",
+              "claim-4669a17da411445e"
+            ],
+            "draft_excerpt": "坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-03171dbb9ea6f983",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+    "description": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析；坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-80a8189944ae",
+      "description": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "建立成都自贸试验区经济社会统计监测体系",
+        "适时跟踪重点企业和重点项目的改革试验动态",
+        "并做好相关对比和统计分析",
+        "坚持成果导向，创新督查方法",
+        "重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果"
+      ],
+      "evidence_block_ids": [
+        "blk-82778b0da0b7c790f34b"
+      ],
+      "page_end": 149,
+      "page_start": 149,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（四）强化督查和统计分析。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "强化督查和统计分析。",
+      "type": "分析框架"
+    },
+    "title": "强化督查和统计分析。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-a009778f8083:bundle-1c88606d5f67",
+      "excluded_fragments": [],
+      "ref_id": "ref-a009778f8083",
+      "source_blocks": [
+        {
+          "block_id": "blk-82778b0da0b7c790f34b",
+          "page_number": 149,
+          "text": "建立成都自贸试验区经济社会统计监测体系，适时跟踪重点企业和重点项目的改革试验动态，并做好相关对比和统计分析。坚持成果导向，创新督查方法，重点督查复制推广和学习借鉴情况、体制机制落实情况、工作开展情况和制度创新成果。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-80a8189944ae",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-a009778f8083"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

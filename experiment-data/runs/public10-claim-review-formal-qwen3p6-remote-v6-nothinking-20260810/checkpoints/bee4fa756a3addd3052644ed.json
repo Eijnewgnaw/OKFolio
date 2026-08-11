@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-06af48dd0f10:bundle-b7fcb2bd727b; submitted='成都市与四川省内其他城市经济联系强度均值由2019年的179.5增长至2020年的203.4，增长幅度为13.3%；极差由2019年的861增长至2020年的976.1，增长幅度为13.4%，表明成都市与省内城市的经济联系水平提升显著，但极化现象却日益加剧。'; nearest_verbatim_span='城市经济联系强度均值由2019年的179.5增长至2020年的203.4，增长幅度为 \\\\(13.3\\\\%\\\\) ；极差由2019年的861\\n\\n增长至2020年的976.1，增长幅度为 \\\\(13.4\\\\%\\\\) ，表明成都市与省内城市的经济联系水平提升显著，但极化现象却日益加剧'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-3cfe218d3164",
+  "ref_ids": [
+    "ref-06af48dd0f10",
+    "ref-0cfc39bb4571"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

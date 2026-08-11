@@ -1,0 +1,664 @@
+{
+  "contract": {
+    "canonical_question": "在蓉高校院所、企业获批国家级国际科技合作基地或项目后，可获得哪些具体类型的配套资助及对应标准？",
+    "claims": [
+      {
+        "claim": "配套资助的适用对象为在蓉高校院所、企业。",
+        "claim_id": "claim-5b7e03a1cdb9cec4",
+        "evidence_block_ids": [
+          "blk-8dae2a20706220b917ef"
+        ],
+        "evidence_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+        "evidence_id": "ref-a30504c314c9:bundle-70eda52a4d78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          216
+        ],
+        "ref_id": "ref-a30504c314c9",
+        "scope": {
+          "region": [
+            "在蓉"
+          ]
+        },
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对新获批的国家级国际科技合作基地、国家引才引智示范基地，一次性给予50万元配套资助。",
+        "claim_id": "claim-ae2c031b33419330",
+        "evidence_block_ids": [
+          "blk-b11a361d0bcd71018966"
+        ],
+        "evidence_excerpt": "1. 对新获批的国家级国际科技合作基地、国家引才引智示范基地，一次性给予50万元配套资助；",
+        "evidence_id": "ref-a30504c314c9:bundle-70eda52a4d78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-a30504c314c9",
+        "scope": {
+          "object": [
+            "国家级国际科技合作基地",
+            "国家引才引智示范基地"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对新获得国家自然科学基金的中外合作项目，给予国家资助金额10%、最高20万元的配套资助。",
+        "claim_id": "claim-4779417ead247d61",
+        "evidence_block_ids": [
+          "blk-b094ace63ddbd9e59eb8"
+        ],
+        "evidence_excerpt": "2. 对新获得国家自然科学基金的中外合作项目，给予国家资助金额 \\(10\\%\\) 、最高20万元的配套资助",
+        "evidence_id": "ref-a30504c314c9:bundle-70eda52a4d78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-a30504c314c9",
+        "scope": {
+          "object": [
+            "国家自然科学基金资助的中外合作项目"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项的项目（课题），给予国家实际到位资金15%、最高200万元的配套资助。",
+        "claim_id": "claim-0bdcfe014ae4f838",
+        "evidence_block_ids": [
+          "blk-f27611b21528cb96a30c"
+        ],
+        "evidence_excerpt": "3. 对牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项的项目（课题），给予国家实际到位资金 \\(15\\%\\) 、最高200万元的配套资助",
+        "evidence_id": "ref-a30504c314c9:bundle-70eda52a4d78",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          217
+        ],
+        "ref_id": "ref-a30504c314c9",
+        "scope": {
+          "object": [
+            "港澳台科技创新合作重点专项",
+            "战略性国际科技创新合作重点专项"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-5b7e03a1cdb9cec4",
+          "claim-ae2c031b33419330",
+          "claim-4779417ead247d61",
+          "claim-0bdcfe014ae4f838"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-a30504c314c9:bundle-70eda52a4d78",
+        "reason": "该Bundle包含了配套资助的定义、适用对象、三类具体获批情形以及对应的资助金额或比例标准，完整覆盖了国际比较类型中comparison_subject、measurement_basis、country_or_region、time、基准"
+      }
+    ],
+    "group_id": "topic-b4807b9268b9",
+    "members": [
+      {
+        "contribution": "该证据直接定义了国家级国际科技合作项目配套资助的适用对象（在蓉高校院所、企业）及资助情形，并详细列出了三类获批情形对应的具体资助金额或比例标准，是回答中心问题的核心依据。",
+        "ref_id": "ref-a30504c314c9",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-5b7e03a1cdb9cec4",
+        "draft_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ae2c031b33419330",
+        "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4779417ead247d61",
+        "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0bdcfe014ae4f838",
+        "draft_excerpt": "牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-5b7e03a1cdb9cec4"
+        ],
+        "draft_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-55e685772be6b175",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5b7e03a1cdb9cec4"
+        ],
+        "draft_excerpt": "国家级国际科技合作项目配套资助旨在对在蓉高校院所、企业等主体获批的国家级国际科技合作基地及项目给予资金支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5ae18aa161eabc03",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ae2c031b33419330",
+          "claim-4779417ead247d61",
+          "claim-0bdcfe014ae4f838"
+        ],
+        "draft_excerpt": "该资助覆盖新获批的国家级国际科技合作基地、国家引才引智示范基地，以及新获得国家自然科学基金的中外合作项目，并针对牵头承担特定政府间或战略性国际科技创新合作重点专项的项目提供资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-175c4d42f243b337",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ae2c031b33419330"
+        ],
+        "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4fd916aa50a0e80d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4779417ead247d61"
+        ],
+        "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-888f58e784ef0c03",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0bdcfe014ae4f838"
+        ],
+        "draft_excerpt": "牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0feda9f248c2d3ed",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-5b7e03a1cdb9cec4",
+          "draft_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ae2c031b33419330",
+          "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4779417ead247d61",
+          "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0bdcfe014ae4f838",
+          "draft_excerpt": "牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-5b7e03a1cdb9cec4"
+          ],
+          "draft_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-55e685772be6b175",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5b7e03a1cdb9cec4"
+          ],
+          "draft_excerpt": "国家级国际科技合作项目配套资助旨在对在蓉高校院所、企业等主体获批的国家级国际科技合作基地及项目给予资金支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-5ae18aa161eabc03",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ae2c031b33419330",
+            "claim-4779417ead247d61",
+            "claim-0bdcfe014ae4f838"
+          ],
+          "draft_excerpt": "该资助覆盖新获批的国家级国际科技合作基地、国家引才引智示范基地，以及新获得国家自然科学基金的中外合作项目，并针对牵头承担特定政府间或战略性国际科技创新合作重点专项的项目提供资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-175c4d42f243b337",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ae2c031b33419330"
+          ],
+          "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+          "finding": "supported",
+          "sentence_id": "sentence-4fd916aa50a0e80d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4779417ead247d61"
+          ],
+          "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+          "finding": "supported",
+          "sentence_id": "sentence-888f58e784ef0c03",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0bdcfe014ae4f838"
+          ],
+          "draft_excerpt": "牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+          "finding": "supported",
+          "sentence_id": "sentence-0feda9f248c2d3ed",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "9eac2b702489df9c9befb129fbb98fb617fbff4f503887e4b77ea0e41b0e4486",
+  "coverage_history": [
+    {
+      "draft_sha256": "d2a7338cd6f8253388cb0dda2bfe6e557f85a8532cbc0226e258ff6af68b6cdb",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-5b7e03a1cdb9cec4",
+            "draft_excerpt": "该政策针对在蓉高校院所及企业获批的国家级国际科技合作基地与项目，提供基于国家资助比例或固定额度的一次性配套资金支持。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ae2c031b33419330",
+            "draft_excerpt": "对于新获批的国家级国际科技合作基地和国家引才引智示范基地，给予一次性50万元配套资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4779417ead247d61",
+            "draft_excerpt": "对于新获得国家自然科学基金的中外合作项目，按国家资助金额的10%给予配套，最高不超过20万元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0bdcfe014ae4f838",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-5b7e03a1cdb9cec4"
+            ],
+            "draft_excerpt": "该政策针对在蓉高校院所及企业获批的国家级国际科技合作基地与项目，提供基于国家资助比例或固定额度的一次性配套资金支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7dd01e82663d6a83",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b7e03a1cdb9cec4"
+            ],
+            "draft_excerpt": "国家级国际科技合作项目配套资助旨在对在蓉高校院所、企业等主体获批的国家级国际科技合作基地及项目给予资金支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5ae18aa161eabc03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae2c031b33419330",
+              "claim-4779417ead247d61",
+              "claim-0bdcfe014ae4f838"
+            ],
+            "draft_excerpt": "该资助覆盖新获批的国家级国际科技合作基地、国家引才引智示范基地，以及新获得国家自然科学基金的中外合作项目，并针对牵头承担特定政府间或战略性国际科技创新合作重点专项的项目提供资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-175c4d42f243b337",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "具体资助标准依据项目类型及国家资助情况确定，分为固定额度与比例资助两类。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-961f68fd7bab6b1e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae2c031b33419330"
+            ],
+            "draft_excerpt": "对于新获批的国家级国际科技合作基地和国家引才引智示范基地，给予一次性50万元配套资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4c2c69a5364d29c1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4779417ead247d61"
+            ],
+            "draft_excerpt": "对于新获得国家自然科学基金的中外合作项目，按国家资助金额的10%给予配套，最高不超过20万元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d807d262035fd25b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0bdcfe014ae4f838"
+            ],
+            "draft_excerpt": "对于牵头承担政府间国际科技创新合作、港澳台科技创新合作重点专项或战略性国际科技创新合作重点专项的项目（课题），按国家实际到位资金的15%给予配套，最高不超过200万元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f388a1f01bd22fb4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae2c031b33419330"
+            ],
+            "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9bfa05efcc9b8a3c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4779417ead247d61"
+            ],
+            "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1d66e287425f1d75",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0bdcfe014ae4f838"
+            ],
+            "draft_excerpt": "牵头承担政府间/港澳台/战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cc5ae116cd40e059",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "具体资助标准依据项目类型及国家资助情况确定，分为固定额度与比例资助两类。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "9eac2b702489df9c9befb129fbb98fb617fbff4f503887e4b77ea0e41b0e4486",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-5b7e03a1cdb9cec4",
+            "draft_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ae2c031b33419330",
+            "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4779417ead247d61",
+            "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0bdcfe014ae4f838",
+            "draft_excerpt": "牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-5b7e03a1cdb9cec4"
+            ],
+            "draft_excerpt": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55e685772be6b175",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5b7e03a1cdb9cec4"
+            ],
+            "draft_excerpt": "国家级国际科技合作项目配套资助旨在对在蓉高校院所、企业等主体获批的国家级国际科技合作基地及项目给予资金支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5ae18aa161eabc03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae2c031b33419330",
+              "claim-4779417ead247d61",
+              "claim-0bdcfe014ae4f838"
+            ],
+            "draft_excerpt": "该资助覆盖新获批的国家级国际科技合作基地、国家引才引智示范基地，以及新获得国家自然科学基金的中外合作项目，并针对牵头承担特定政府间或战略性国际科技创新合作重点专项的项目提供资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-175c4d42f243b337",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ae2c031b33419330"
+            ],
+            "draft_excerpt": "新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4fd916aa50a0e80d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4779417ead247d61"
+            ],
+            "draft_excerpt": "新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-888f58e784ef0c03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0bdcfe014ae4f838"
+            ],
+            "draft_excerpt": "牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0feda9f248c2d3ed",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n国家级国际科技合作项目配套资助旨在对在蓉高校院所、企业等主体获批的国家级国际科技合作基地及项目给予资金支持。该资助覆盖新获批的国家级国际科技合作基地、国家引才引智示范基地，以及新获得国家自然科学基金的中外合作项目，并针对牵头承担特定政府间或战略性国际科技创新合作重点专项的项目提供资助。\n\n- 新获批国家级国际科技合作基地、国家引才引智示范基地：一次性50万元\n- 新获国家自然科学基金中外合作项目：国家资助金额的10%，最高20万元\n- 牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项项目：国家实际到位资金的15%，最高200万元",
+    "description": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-b4807b9268b9",
+      "description": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+      "document_family_id": "27f161fcb26807f8486b",
+      "document_version_id": "b950007bef7c0a47f724",
+      "evidence": [
+        "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。",
+        "1. 对新获批的国家级国际科技合作基地、国家引才引智示范基地，一次性给予50万元配套资助；",
+        "2. 对新获得国家自然科学基金的中外合作项目，给予国家资助金额 \\(10\\%\\) 、最高20万元的配套资助",
+        "3. 对牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项的项目（课题），给予国家实际到位资金 \\(15\\%\\) 、最高200万元的配套资助"
+      ],
+      "evidence_block_ids": [
+        "blk-8dae2a20706220b917ef",
+        "blk-b11a361d0bcd71018966",
+        "blk-b094ace63ddbd9e59eb8",
+        "blk-f27611b21528cb96a30c"
+      ],
+      "page_end": 217,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "b950007bef7c0a47f724",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "d14be649-65e4-4ecb-b8d4-4e772f767730.md",
+      "title": "第四章 国家级国际科技合作项目配套资助",
+      "type": "国际比较"
+    },
+    "title": "第四章 国家级国际科技合作项目配套资助"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-a30504c314c9:bundle-70eda52a4d78",
+      "excluded_fragments": [],
+      "ref_id": "ref-a30504c314c9",
+      "source_blocks": [
+        {
+          "block_id": "blk-8dae2a20706220b917ef",
+          "page_number": 216,
+          "text": "第七条 国家级国际科技合作项目配套资助是指对获批国家级国际科技合作基地、项目的在蓉高校院所、企业等给予的配套资助。"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-64fe9ed81943f3a636bc",
+          "page_number": 216,
+          "text": "1. 新获得科技部批准的国家级国际科技合作基地、国家引才引智示范基地；"
+        },
+        {
+          "block_id": "blk-3a5302e7d81cfd9a2444",
+          "page_number": 217,
+          "text": "2. 新获得国家自然科学基金资助的中外合作项目；"
+        },
+        {
+          "block_id": "blk-39d6c34c804379476a5d",
+          "page_number": 217,
+          "text": "3. 经科技部批准，牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项的项目（课题）。"
+        },
+        {
+          "block_id": "blk-b11a361d0bcd71018966",
+          "page_number": 217,
+          "text": "1. 对新获批的国家级国际科技合作基地、国家引才引智示范基地，一次性给予50万元配套资助；"
+        },
+        {
+          "block_id": "blk-b094ace63ddbd9e59eb8",
+          "page_number": 217,
+          "text": "2. 对新获得国家自然科学基金的中外合作项目，给予国家资助金额 \\(10\\%\\) 、最高20万元的配套资助；"
+        },
+        {
+          "block_id": "blk-f27611b21528cb96a30c",
+          "page_number": 217,
+          "text": "3. 对牵头承担政府间国际科技创新合作/港澳台科技创新合作重点专项、战略性国际科技创新合作重点专项的项目（课题），给予国家实际到位资金 \\(15\\%\\) 、最高200万元的配套资助。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-b4807b9268b9",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-a30504c314c9"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

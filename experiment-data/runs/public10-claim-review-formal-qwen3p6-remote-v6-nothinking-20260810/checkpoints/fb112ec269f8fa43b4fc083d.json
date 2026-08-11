@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[1].claims[2].evidence_excerpt (ref-92601457af7b:bundle-26d6f905d111) is missing hard anchors from the claim: ['2020年8月21日']; claim='2020年8月21日，四川省政府召开省政府第53次常务会议，正式批复同意设立成都国际铁路港经济开发区。'; excerpt='2020年5月17日，《中共中央国务院关于新时代推进西部大开发形成新格局的指导意见》正式印发，明确提出“研究按程序设立成都国际铁路港经济开发区”。8月21日，四川省政府召开省政府第53次常务会议，正式批复同意设立成都国际铁路港经济开发区，省级经开区再添一员。'",
+  "group_id": "topic-10878f586588",
+  "ref_ids": [
+    "ref-6d5bf58c6986",
+    "ref-92601457af7b"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

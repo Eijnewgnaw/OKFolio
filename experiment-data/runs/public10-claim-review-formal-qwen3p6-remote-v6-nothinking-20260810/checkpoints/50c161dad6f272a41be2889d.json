@@ -1,0 +1,2174 @@
+{
+  "contract": {
+    "canonical_question": "2022年以来，成都区域合作在产业、创新、基建、生态、公共服务五大领域的合作范围、主要形式及具体成效如何？",
+    "claims": [
+      {
+        "claim": "2022年以来，成都产业合作范围已完全覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主。",
+        "claim_id": "claim-cd4cf6afce37d2d6",
+        "evidence_block_ids": [
+          "blk-a66ff7bfd7bfe848a1a0"
+        ],
+        "evidence_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          17
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+        "claim_id": "claim-871a809de3b16cbd",
+        "evidence_block_ids": [
+          "blk-0c7f957f488e68a3d844"
+        ],
+        "evidence_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          17
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+        "claim_id": "claim-1d78272710a2fd89",
+        "evidence_block_ids": [
+          "blk-0c7f957f488e68a3d844"
+        ],
+        "evidence_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          17
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+        "claim_id": "claim-fda863e83a44fb3c",
+        "evidence_block_ids": [
+          "blk-0c7f957f488e68a3d844",
+          "blk-55a24b076b4a18854689"
+        ],
+        "evidence_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          17,
+          18
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "截至2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+        "claim_id": "claim-0ce31087782fd5c7",
+        "evidence_block_ids": [
+          "blk-55a24b076b4a18854689"
+        ],
+        "evidence_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩①",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          18
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "截至2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+        "claim_id": "claim-ed352f18ffb0fddf",
+        "evidence_block_ids": [
+          "blk-6ce3007fca46f9988568"
+        ],
+        "evidence_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个①、高能级产业项目超200个②",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          20
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "截至2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+        "claim_id": "claim-3e5538742035dcfe",
+        "evidence_block_ids": [
+          "blk-6ce3007fca46f9988568"
+        ],
+        "evidence_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          20
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+        "claim_id": "claim-bbbbcdd27e8310ce",
+        "evidence_block_ids": [
+          "blk-6ce3007fca46f9988568"
+        ],
+        "evidence_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化③",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          20
+        ],
+        "ref_id": "ref-d4b471863f7d",
+        "scope": {
+          "time": [
+            "2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，总投资约200亿元，规划面积3650亩。",
+        "claim_id": "claim-edcc974a22d5ded3",
+        "evidence_block_ids": [
+          "blk-21fe50739e45b0bfc074"
+        ],
+        "evidence_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩",
+        "evidence_id": "ref-f3f1b8f96a50:bundle-9e9a24af0644",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          201
+        ],
+        "ref_id": "ref-f3f1b8f96a50",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "深圳市投资控股有限公司控股51%，并主导园区招商和运营。",
+        "claim_id": "claim-60b98ff4993f2fa6",
+        "evidence_block_ids": [
+          "blk-5e72c495d69c4072f9e1"
+        ],
+        "evidence_excerpt": "其中，深圳市投资控股有限公司控股 \\(51\\%\\) ，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营",
+        "evidence_id": "ref-f3f1b8f96a50:bundle-9e9a24af0644",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          202
+        ],
+        "ref_id": "ref-f3f1b8f96a50",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+        "claim_id": "claim-248f0a85f17d1fe0",
+        "evidence_block_ids": [
+          "blk-c7be8b77ef6fe152459d"
+        ],
+        "evidence_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业",
+        "evidence_id": "ref-f3f1b8f96a50:bundle-9e9a24af0644",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          203
+        ],
+        "ref_id": "ref-f3f1b8f96a50",
+        "scope": {
+          "time": [
+            "2023年10月底"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-cd4cf6afce37d2d6",
+          "claim-871a809de3b16cbd",
+          "claim-1d78272710a2fd89",
+          "claim-fda863e83a44fb3c",
+          "claim-0ce31087782fd5c7",
+          "claim-ed352f18ffb0fddf",
+          "claim-3e5538742035dcfe",
+          "claim-bbbbcdd27e8310ce"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+        "reason": "该证据包含回答中心问题所需的全部核心事实，涵盖五大合作领域的范围、形式及具体数据。"
+      },
+      {
+        "claim_ids": [
+          "claim-edcc974a22d5ded3",
+          "claim-60b98ff4993f2fa6",
+          "claim-248f0a85f17d1fe0"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-f3f1b8f96a50:bundle-9e9a24af0644",
+        "reason": "该证据提供蓉深共建白鹭湾科技生态园的具体案例，作为成都与国内城市产业合作的实证。"
+      }
+    ],
+    "group_id": "topic-44ea36d5a0b0",
+    "members": [
+      {
+        "contribution": "提供成都区域合作在产业、创新、基建、生态、公共服务五大领域的总体情况、合作范围、主要形式及具体成效的详细事实。",
+        "ref_id": "ref-d4b471863f7d",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供蓉深共建白鹭湾科技生态园这一具体合作案例，作为成都与国内城市（深圳）产业合作的实证。",
+        "ref_id": "ref-f3f1b8f96a50",
+        "relation": "applies_to"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-cd4cf6afce37d2d6",
+        "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-871a809de3b16cbd",
+        "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1d78272710a2fd89",
+        "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fda863e83a44fb3c",
+        "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0ce31087782fd5c7",
+        "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ed352f18ffb0fddf",
+        "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3e5538742035dcfe",
+        "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-bbbbcdd27e8310ce",
+        "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-edcc974a22d5ded3",
+        "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-60b98ff4993f2fa6",
+        "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-248f0a85f17d1fe0",
+        "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ae4e3bef7fea4370",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-cd4cf6afce37d2d6"
+        ],
+        "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1b4f2e2bec2af9f0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cd4cf6afce37d2d6"
+        ],
+        "draft_excerpt": "从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-989dcb953533d3e6",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-871a809de3b16cbd"
+        ],
+        "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d897b5eabfbca211",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1d78272710a2fd89"
+        ],
+        "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cccd4f971a5c13f1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fda863e83a44fb3c"
+        ],
+        "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-717b5ee4193cc37e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0ce31087782fd5c7"
+        ],
+        "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e25eaa7b1a7b05af",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ed352f18ffb0fddf"
+        ],
+        "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-23092664634369f8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3e5538742035dcfe"
+        ],
+        "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-525b0b6422855a4f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-bbbbcdd27e8310ce"
+        ],
+        "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-624ae48d7f50fbe5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-edcc974a22d5ded3"
+        ],
+        "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7e6febbfaa3fefda",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-60b98ff4993f2fa6"
+        ],
+        "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a3edbbefb7e0c984",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-248f0a85f17d1fe0"
+        ],
+        "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-813904a9037852aa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-cd4cf6afce37d2d6",
+          "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-871a809de3b16cbd",
+          "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1d78272710a2fd89",
+          "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fda863e83a44fb3c",
+          "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0ce31087782fd5c7",
+          "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ed352f18ffb0fddf",
+          "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3e5538742035dcfe",
+          "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-bbbbcdd27e8310ce",
+          "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-edcc974a22d5ded3",
+          "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-60b98ff4993f2fa6",
+          "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-ae4e3bef7fea4370",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-cd4cf6afce37d2d6"
+          ],
+          "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+          "finding": "supported",
+          "sentence_id": "sentence-1b4f2e2bec2af9f0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cd4cf6afce37d2d6"
+          ],
+          "draft_excerpt": "从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-989dcb953533d3e6",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-871a809de3b16cbd"
+          ],
+          "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+          "finding": "supported",
+          "sentence_id": "sentence-d897b5eabfbca211",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1d78272710a2fd89"
+          ],
+          "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+          "finding": "supported",
+          "sentence_id": "sentence-cccd4f971a5c13f1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fda863e83a44fb3c"
+          ],
+          "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+          "finding": "supported",
+          "sentence_id": "sentence-717b5ee4193cc37e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0ce31087782fd5c7"
+          ],
+          "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+          "finding": "supported",
+          "sentence_id": "sentence-e25eaa7b1a7b05af",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ed352f18ffb0fddf"
+          ],
+          "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+          "finding": "supported",
+          "sentence_id": "sentence-23092664634369f8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3e5538742035dcfe"
+          ],
+          "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+          "finding": "supported",
+          "sentence_id": "sentence-525b0b6422855a4f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-bbbbcdd27e8310ce"
+          ],
+          "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+          "finding": "supported",
+          "sentence_id": "sentence-624ae48d7f50fbe5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-edcc974a22d5ded3"
+          ],
+          "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+          "finding": "supported",
+          "sentence_id": "sentence-7e6febbfaa3fefda",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-60b98ff4993f2fa6"
+          ],
+          "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+          "finding": "supported",
+          "sentence_id": "sentence-a3edbbefb7e0c984",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+          "finding": "unsupported"
+        }
+      ]
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-248f0a85f17d1fe0",
+          "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-248f0a85f17d1fe0"
+          ],
+          "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+          "finding": "supported",
+          "sentence_id": "sentence-813904a9037852aa",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "1e3c827c5f6e83d656ffc5a8d2197f1c44aa2cdb22781f14ed06460979850850",
+  "coverage_history": [
+    {
+      "draft_sha256": "3f33738fee381f93725dbd9c10e22076d24780984f26545cd472ab22faeef8dc",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd4cf6afce37d2d6",
+            "draft_excerpt": "成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edcc974a22d5ded3",
+            "draft_excerpt": "蓉深共建白鹭湾科技生态园，总投资约200亿元，规划面积3650亩，以“打造世界一流高科技园区”为目标。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-60b98ff4993f2fa6",
+            "draft_excerpt": "该园区由深圳市投资控股有限公司、成都兴锦建设发展投资集团有限公司与成都产业功能区投资运营集团有限公司三家国企合作开发建设，其中深圳市投资控股有限公司控股51%，主导园区招商和运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-248f0a85f17d1fe0",
+            "draft_excerpt": "2023年10月底正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业，与软通智慧、达实智能等40余家企业签订入驻生态园协议。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-871a809de3b16cbd",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-871a809de3b16cbd is missing hard anchors from the claim: ['2022年']; claim='2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。'; excerpt='成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家；'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-1d78272710a2fd89",
+            "draft_excerpt": "成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fda863e83a44fb3c",
+            "draft_excerpt": "截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0ce31087782fd5c7",
+            "draft_excerpt": "截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed352f18ffb0fddf",
+            "draft_excerpt": "截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e5538742035dcfe",
+            "draft_excerpt": "2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bbbbcdd27e8310ce",
+            "draft_excerpt": "2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-79b27a0385256612",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年以来，成都按照党的二十大精神要求和省委省政府决策部署，坚定扛起引领带动现代化成都都市圈建设的时代使命，聚焦“三圈一体”打造全省高质量发展主引擎。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c9bb6513a1f23c9",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "合作空间范围因受疫情影响相对集中，主要以省内区域及重庆地区为主；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f0522a78e2475842",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "合作领域进一步拓宽深化，覆盖产业建圈强链、科技创新转化、交通互联互通、生态保护治理、民生服务供给、营商环境建设的多个细分领域；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c4d5acb0e30858e4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "合作形式更加务实，逐步向配套协作、平台共通、资源共享、政策共用等形式转变。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ddc51664e8a55590",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd4cf6afce37d2d6"
+            ],
+            "draft_excerpt": "成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3e3b632a7edb55af",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd4cf6afce37d2d6"
+            ],
+            "draft_excerpt": "与国内相关城市的合作中，2022年与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，与西安、贵阳、昆明、南昌等中西部地区也开展了相关产业合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a1390f5850114681",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "产业合作领更加细化，总体涉及软件服务、工业互联网、汽车制造、商贸文旅、农产品保供等多个细分领域，集中体现在先进制造业、现代服务业、都市现代农业领域。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-80eb1c08268cfbd8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "先进制造业方面，主要集中于电子信息、装备制造、医药健康、航空航天、新材料新能源等支柱产业领域，并逐步向人工智能、卫星互联网、新型显示等新兴产业领域延伸。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dedfaff554373c32",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "现代服务业方面，主要由金融、文旅等原有合作领域向商务商贸领域拓展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d492dbff23612f1f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "现代农业方面，主要与省内城市合作为主，合作领域集中于农业项目投资、农业园区建设、农产品保供等领域。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b9d82a3f91e7f262",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "区域协同创新范围集中于省内区域，与国内相关城市主要以跨区域举办创新活动为主。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-964941e288e9d1f8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都协同创新对象较往年类似，覆盖了成都都市圈及重庆，特别是在科技服务平台建设、协同创新体制机制等方面与德阳、眉山、资阳、重庆合作取得突破性进展，与绵阳、遂宁、宜宾等省内市（州）在科技成果转化合作方面也取得了良好成效。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-48a72af0aec9b3d0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "基础设施建设合作范围随领域变化而各有侧重，区域交通互联互通多集中于省内城市，航空、铁路等对外大通道建设更多以国内城市合作为主。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4e689f038425098f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都开展基础设施建设合作区域已覆盖省内五大经济区，且合作程度呈现出圈层分异特征，其中，与成都都市圈城市通道设施互联互通最为紧密。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ab583593c8e817f5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "生态环境保护治理合作范围集中于成渝地区双城经济圈，重点以成都平原经济区为主。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-26a88485fe68fa12",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都主要与的德阳、眉山、资阳协同开展实质性的生态环境共保共治，并仅与重庆开展生态环境保护治理相关合作，协同推动区域生态共建、环境共保。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-feb19d0d8d7216b0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "公共服务合作的范围持续延伸，由与省内和国内发达地区合作逐步拓展到西北地区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a5589c544a0ecd1e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在省内方面，与成都都市圈城市交流合作最为密切；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a29f4358c67e1794",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在国内方面，与重庆合作最为密切，与京津冀、长三角等区域合作较多，同时与西北地区的格尔木、陇南、西宁等城市也开展了积极合作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-452e945e73fa5b37",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-edcc974a22d5ded3"
+            ],
+            "draft_excerpt": "蓉深共建白鹭湾科技生态园，总投资约200亿元，规划面积3650亩，以“打造世界一流高科技园区”为目标。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-75f29cc37ea05967",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-60b98ff4993f2fa6"
+            ],
+            "draft_excerpt": "该园区由深圳市投资控股有限公司、成都兴锦建设发展投资集团有限公司与成都产业功能区投资运营集团有限公司三家国企合作开发建设，其中深圳市投资控股有限公司控股51%，主导园区招商和运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c1413b03c2aec9d8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "园区聚焦智慧交通、智慧物联等主导产业，强势布局车路协同试点项目，打造全国首个涵盖城市道路、高速公路、乡村公路相融合的无人驾驶、汽车试驾、研发测试全路况示范区。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-daa945abdf2eb55d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-248f0a85f17d1fe0"
+            ],
+            "draft_excerpt": "2023年10月底正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业，与软通智慧、达实智能等40余家企业签订入驻生态园协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0d35a0c1cdf9245c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-871a809de3b16cbd"
+            ],
+            "draft_excerpt": "成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6210019e66d10543",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1d78272710a2fd89"
+            ],
+            "draft_excerpt": "成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70e9e0e3d0e1d82a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fda863e83a44fb3c"
+            ],
+            "draft_excerpt": "截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-32f4610098e28fac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0ce31087782fd5c7"
+            ],
+            "draft_excerpt": "截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9138405ec1c28344",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed352f18ffb0fddf"
+            ],
+            "draft_excerpt": "截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-028de453ac629f02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "“科创通”德阳分平台稳定运营，“科创通”资阳和眉山分平台成功上线运营。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-575ee81f5ccb6337",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e5538742035dcfe"
+            ],
+            "draft_excerpt": "2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e4aaa40f000806ea",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bbbbcdd27e8310ce"
+            ],
+            "draft_excerpt": "2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-adf3002669e6eee7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "引进落地成都西电网络安全研究院、北理工创新装备研究院等面向成果转化应用的新型研发机构，支持国内高校院所科技人才、知名创新创业大赛获奖人才携科技成果在蓉创业179项。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f4c5e14c69f218a6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "截至2022年，成都至德眉资已稳定开行14条公交线路、8条定制客运线路。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-923add37ce571d03",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年成都开行国际班列5064列、同比增长19.2%。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c37070f70e7ae98c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "截至2022年，推动成都生态系统12个派出机构分别与重庆12个区级部门签订了合作协议。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3d8b3ab6dc483a3a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年，成都联手德眉资成功设立“成德眉资空气质量预测预报中心”。",
+            "finding": "Claim Contract中无关于设立空气质量预测预报中心的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-64046ffca74251eb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "截至2022年碳惠天府绿色公益平台已吸引超过70万名用户参与。",
+            "finding": "Claim Contract中无关于碳惠天府平台用户数量的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e8396fed55f30d0",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年，成都联合德雅眉资四市开展综合联动检查企业（点位）148家（次）、应急联动检查企业（点位）323家（次）。",
+            "finding": "Claim Contract中无关于联动检查企业数量的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a8d63d954029f925",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "重庆市户籍来蓉就业人员随迁子女达到2133人。",
+            "finding": "Claim Contract中无关于随迁子女数量的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2254fc5e0a717f8d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都与重庆已实现了电子健康卡的互认互用，电子健康卡二维码申领发放近2000余万个，累计发生扫码使用4500余万次。",
+            "finding": "Claim Contract中无关于电子健康卡互认及扫码次数的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7c75178b84daf677",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "依托“天府招聘云”人力资源服务协同网络平台集聚成德眉资各类人力资源服务机构152家，服务企事业单位8568家次。",
+            "finding": "Claim Contract中无关于天府招聘云及服务机构数量的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6fc712469e0361da",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都联合德眉资发布第三批66项“同城化无差别”受理事项清单，推动166个高频事项跨区域通办。",
+            "finding": "Claim Contract中无关于同城化无差别受理事项及通办事项数量的记录。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ccb26ac5ff91d4da",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2022年以来，成都按照党的二十大精神要求和省委省政府决策部署，坚定扛起引领带动现代化成都都市圈建设的时代使命，聚焦“三圈一体”打造全省高质量发展主引擎。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "合作空间范围因受疫情影响相对集中，主要以省内区域及重庆地区为主；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "合作领域进一步拓宽深化，覆盖产业建圈强链、科技创新转化、交通互联互通、生态保护治理、民生服务供给、营商环境建设的多个细分领域；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "合作形式更加务实，逐步向配套协作、平台共通、资源共享、政策共用等形式转变。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "与国内相关城市的合作中，2022年与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，与西安、贵阳、昆明、南昌等中西部地区也开展了相关产业合作。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "产业合作领更加细化，总体涉及软件服务、工业互联网、汽车制造、商贸文旅、农产品保供等多个细分领域，集中体现在先进制造业、现代服务业、都市现代农业领域。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "先进制造业方面，主要集中于电子信息、装备制造、医药健康、航空航天、新材料新能源等支柱产业领域，并逐步向人工智能、卫星互联网、新型显示等新兴产业领域延伸。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "现代服务业方面，主要由金融、文旅等原有合作领域向商务商贸领域拓展。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "现代农业方面，主要与省内城市合作为主，合作领域集中于农业项目投资、农业园区建设、农产品保供等领域。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "区域协同创新范围集中于省内区域，与国内相关城市主要以跨区域举办创新活动为主。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都协同创新对象较往年类似，覆盖了成都都市圈及重庆，特别是在科技服务平台建设、协同创新体制机制等方面与德阳、眉山、资阳、重庆合作取得突破性进展，与绵阳、遂宁、宜宾等省内市（州）在科技成果转化合作方面也取得了良好成效。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "基础设施建设合作范围随领域变化而各有侧重，区域交通互联互通多集中于省内城市，航空、铁路等对外大通道建设更多以国内城市合作为主。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都开展基础设施建设合作区域已覆盖省内五大经济区，且合作程度呈现出圈层分异特征，其中，与成都都市圈城市通道设施互联互通最为紧密。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "生态环境保护治理合作范围集中于成渝地区双城经济圈，重点以成都平原经济区为主。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都主要与的德阳、眉山、资阳协同开展实质性的生态环境共保共治，并仅与重庆开展生态环境保护治理相关合作，协同推动区域生态共建、环境共保。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "公共服务合作的范围持续延伸，由与省内和国内发达地区合作逐步拓展到西北地区。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在省内方面，与成都都市圈城市交流合作最为密切；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在国内方面，与重庆合作最为密切，与京津冀、长三角等区域合作较多，同时与西北地区的格尔木、陇南、西宁等城市也开展了积极合作。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "园区聚焦智慧交通、智慧物联等主导产业，强势布局车路协同试点项目，打造全国首个涵盖城市道路、高速公路、乡村公路相融合的无人驾驶、汽车试驾、研发测试全路况示范区。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "“科创通”德阳分平台稳定运营，“科创通”资阳和眉山分平台成功上线运营。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "引进落地成都西电网络安全研究院、北理工创新装备研究院等面向成果转化应用的新型研发机构，支持国内高校院所科技人才、知名创新创业大赛获奖人才携科技成果在蓉创业179项。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "截至2022年，成都至德眉资已稳定开行14条公交线路、8条定制客运线路。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2022年成都开行国际班列5064列、同比增长19.2%。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "截至2022年，推动成都生态系统12个派出机构分别与重庆12个区级部门签订了合作协议。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2022年，成都联手德眉资成功设立“成德眉资空气质量预测预报中心”。",
+            "finding": "Claim Contract中无关于设立空气质量预测预报中心的记录。"
+          },
+          {
+            "draft_excerpt": "截至2022年碳惠天府绿色公益平台已吸引超过70万名用户参与。",
+            "finding": "Claim Contract中无关于碳惠天府平台用户数量的记录。"
+          },
+          {
+            "draft_excerpt": "2022年，成都联合德雅眉资四市开展综合联动检查企业（点位）148家（次）、应急联动检查企业（点位）323家（次）。",
+            "finding": "Claim Contract中无关于联动检查企业数量的记录。"
+          },
+          {
+            "draft_excerpt": "重庆市户籍来蓉就业人员随迁子女达到2133人。",
+            "finding": "Claim Contract中无关于随迁子女数量的记录。"
+          },
+          {
+            "draft_excerpt": "成都与重庆已实现了电子健康卡的互认互用，电子健康卡二维码申领发放近2000余万个，累计发生扫码使用4500余万次。",
+            "finding": "Claim Contract中无关于电子健康卡互认及扫码次数的记录。"
+          },
+          {
+            "draft_excerpt": "依托“天府招聘云”人力资源服务协同网络平台集聚成德眉资各类人力资源服务机构152家，服务企事业单位8568家次。",
+            "finding": "Claim Contract中无关于天府招聘云及服务机构数量的记录。"
+          },
+          {
+            "draft_excerpt": "成都联合德眉资发布第三批66项“同城化无差别”受理事项清单，推动166个高频事项跨区域通办。",
+            "finding": "Claim Contract中无关于同城化无差别受理事项及通办事项数量的记录。"
+          },
+          {
+            "draft_excerpt": "40",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "179",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "14",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5064",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "19.2%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "70",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "148",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "323",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2133",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2000",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "4500",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "152",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8568",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "66",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "166",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "c9b0e67e132e5128fef4a122b930305f67027525561174eed3cab6639be92c25",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd4cf6afce37d2d6",
+            "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-871a809de3b16cbd",
+            "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1d78272710a2fd89",
+            "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fda863e83a44fb3c",
+            "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0ce31087782fd5c7",
+            "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed352f18ffb0fddf",
+            "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e5538742035dcfe",
+            "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bbbbcdd27e8310ce",
+            "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edcc974a22d5ded3",
+            "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-60b98ff4993f2fa6",
+            "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-248f0a85f17d1fe0",
+            "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-79b27a0385256612",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d4095219b892981e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd4cf6afce37d2d6"
+            ],
+            "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5158572b699b5732",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd4cf6afce37d2d6"
+            ],
+            "draft_excerpt": "从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f87ee6227d202b97",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-871a809de3b16cbd"
+            ],
+            "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1c025fbf5d999393",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1d78272710a2fd89"
+            ],
+            "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-48af63b16eb3a31a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fda863e83a44fb3c"
+            ],
+            "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-457c8367dcc33dd3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0ce31087782fd5c7"
+            ],
+            "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bc9e336a33109e55",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed352f18ffb0fddf"
+            ],
+            "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bd02fa8c72c2f218",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e5538742035dcfe"
+            ],
+            "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f6fdf892763c6761",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bbbbcdd27e8310ce"
+            ],
+            "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-93b496628aec0cc4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edcc974a22d5ded3"
+            ],
+            "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fdcabe85f033da84",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-60b98ff4993f2fa6"
+            ],
+            "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-def3bfdbfeaca6af",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-248f0a85f17d1fe0"
+            ],
+            "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0b73b6885902c5ae",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "1e3c827c5f6e83d656ffc5a8d2197f1c44aa2cdb22781f14ed06460979850850",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-cd4cf6afce37d2d6",
+            "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-871a809de3b16cbd",
+            "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1d78272710a2fd89",
+            "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fda863e83a44fb3c",
+            "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0ce31087782fd5c7",
+            "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ed352f18ffb0fddf",
+            "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e5538742035dcfe",
+            "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-bbbbcdd27e8310ce",
+            "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-edcc974a22d5ded3",
+            "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-60b98ff4993f2fa6",
+            "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-248f0a85f17d1fe0",
+            "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ae4e3bef7fea4370",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd4cf6afce37d2d6"
+            ],
+            "draft_excerpt": "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b4f2e2bec2af9f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cd4cf6afce37d2d6"
+            ],
+            "draft_excerpt": "从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-989dcb953533d3e6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-871a809de3b16cbd"
+            ],
+            "draft_excerpt": "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d897b5eabfbca211",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1d78272710a2fd89"
+            ],
+            "draft_excerpt": "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cccd4f971a5c13f1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fda863e83a44fb3c"
+            ],
+            "draft_excerpt": "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-717b5ee4193cc37e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0ce31087782fd5c7"
+            ],
+            "draft_excerpt": "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e25eaa7b1a7b05af",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ed352f18ffb0fddf"
+            ],
+            "draft_excerpt": "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-23092664634369f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e5538742035dcfe"
+            ],
+            "draft_excerpt": "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-525b0b6422855a4f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-bbbbcdd27e8310ce"
+            ],
+            "draft_excerpt": "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-624ae48d7f50fbe5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-edcc974a22d5ded3"
+            ],
+            "draft_excerpt": "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e6febbfaa3fefda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-60b98ff4993f2fa6"
+            ],
+            "draft_excerpt": "其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3edbbefb7e0c984",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-248f0a85f17d1fe0"
+            ],
+            "draft_excerpt": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-813904a9037852aa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主。\n\n- 例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家。\n- 企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。\n- 例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。\n- 例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩。\n- 例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个、高能级产业项目超200个。\n- 例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。\n- 例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化。\n- 锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩。\n- 其中，深圳市投资控股有限公司控股51%，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。\n- 2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业。",
+    "description": "2022年以来，成都产业合作范围覆盖省内20个市（州），与重庆实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，并通过产业链协作、金融互通、平台服务及蓉深合作等形式强化辐射带动。",
+    "ref": {
+      "asset_hints": [
+        "html-table-001",
+        "html-table-002",
+        "html-table-003",
+        "html-table-004",
+        "html-table-005",
+        "html-table-006",
+        "html-table-007",
+        "html-table-008",
+        "image-144",
+        "image-145"
+      ],
+      "concept_id": "topic-44ea36d5a0b0",
+      "description": "2022年以来，成都聚焦“三圈一体”打造全省高质量发展主引擎，通过省内区域协同、双城经济圈建设及蓉深合作等务实形式，强化极核引领与辐射带动作用。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主",
+        "例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家",
+        "企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目",
+        "例如，在金融平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构",
+        "例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩①",
+        "例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个①、高能级产业项目超200个②",
+        "例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个",
+        "例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化③",
+        "锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩",
+        "其中，深圳市投资控股有限公司控股 \\(51\\%\\) ，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营",
+        "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业"
+      ],
+      "evidence_block_ids": [
+        "blk-a66ff7bfd7bfe848a1a0",
+        "blk-0c7f957f488e68a3d844",
+        "blk-55a24b076b4a18854689",
+        "blk-6ce3007fca46f9988568",
+        "blk-21fe50739e45b0bfc074",
+        "blk-5e72c495d69c4072f9e1",
+        "blk-c7be8b77ef6fe152459d"
+      ],
+      "page_end": 203,
+      "page_start": 16,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都区域合作总体情况与辐射带动作用",
+      "type": "分析框架"
+    },
+    "title": "成都区域合作总体情况与辐射带动作用"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-d4b471863f7d:bundle-fa24c0f12b36",
+      "excluded_fragments": [],
+      "ref_id": "ref-d4b471863f7d",
+      "source_blocks": [
+        {
+          "block_id": "blk-149cd9c88878e877fcd9",
+          "page_number": 16,
+          "text": "2022年以来，成都按照党的二十大精神要求和省委省政府决策部署，坚定扛起引领带动现代化成都都市圈建设的时代使命，聚焦“三圈一体”打造全省高质量发展主引"
+        },
+        {
+          "block_id": "blk-eea345611a0efa6073c0",
+          "page_number": 17,
+          "text": "擎；强化极核引领，推动成都平原、川南、川东北、攀西经济区和川西北生态示范区协同共兴；紧扣“五个互联互通”“五个共建”要求，携手谱写“双城记”、合力建设“经济圈”；突出区域比较优势，加快推动与国内城市合作发展进程。整体来看，合作空间范围因受疫情影响相对集中，主要以省内区域及重庆地区为主；合作领域进一步拓宽深化，覆盖产业建圈强链、科技创新转化、交通互联互通、生态保护治理、民生服务供给、营商环境建设的多个细分领域；合作形式更加务实，逐步向配套协作、平台共通、资源共享、政策共用等形式转变。"
+        },
+        {
+          "block_id": "blk-a66ff7bfd7bfe848a1a0",
+          "page_number": 17,
+          "text": "产业合作空间范围主要以省内区域及重庆为主，与国内相关城市也有一定合作。从省内层面来看，成都产业合作范围已完全覆盖省内20个市（州），其中与成都平原经济区，特别是成都都市圈城市合作较为密切。从国内层面来看，相较于以往合作实际，2022年，成都与重庆的实质性合作较多，与长三角、粤港澳大湾区多以务虚交流为主，与西安、贵阳、昆明、南昌等中西部地区也开展了相关产业合作。"
+        },
+        {
+          "block_id": "blk-553f1069358137a11333",
+          "page_number": 17,
+          "text": "产业合作领更加细化，总体涉及软件服务、工业互联网、汽车制造、商贸文旅、农产品保供等多个细分领域，集中体现在先进制造业、现代服务业、都市现代农业领域。先进制造业方面，主要集中于电子信息、装备制造、医药健康、航空航天、新材料新能源等支柱产业领域，并逐步向人工智能、卫星互联网、新型显示等新兴产业领域延伸。现代服务业方面，主要由金融、文旅等原有合作领域向商务商贸领域拓展。现代农业方面，主要与省内城市合作为主，合作领域集中于农业项目投资、农业园区建设、农产品保供等领域。"
+        },
+        {
+          "block_id": "blk-0c7f957f488e68a3d844",
+          "page_number": 17,
+          "text": "产业合作形式的区域特征明显，与省内城市及重庆的合作主要以产业链配套协作、项目投资合作、异地设立分支机构、共建飞地园区等形式为主，与国内城市合作多以共同举办会议会展活动等务虚方式为主。具体来看，先进制造业领域以主要以飞地园区建设、企业跨区域投资建设、共建产业平台、共同举办供需对接活动、跨区域举办投资推介会为主，例如，在产业链协作配套方面，2022年，成都与德眉资开展产业合作的企业达到1490家，较2021年增加132家；企业跨区域投资建设方面，成都企业在达州投资落地59个二产项目、在自贡投资落地13个工业项目、在巴中投资落地68个项目。现代服务业领域主要以签署合作协议、联合举办消费节庆活动、跨区域设立金融服务分平台、金融平台数据互通、联合策划旅游线路、联合开展文旅营销等形式为主，例如，在金融"
+        },
+        {
+          "block_id": "blk-55a24b076b4a18854689",
+          "page_number": 18,
+          "text": "平台数据互通方面，截至2022年，“银政通”平台已接入省内23家公积金中心、广元市不动产登记中心等部门和60家金融机构。现代农业领域主要以农产品产销对接、共建农业园区、共建农产品保供基地、企业跨区域投资建设农业项目等形式为主，例如，在共建农产品保供基地方面，截至2022年，成都与雅安共建绿色优质农产品区域合作果蔬保供基地45.7万亩①。"
+        },
+        {
+          "block_id": "blk-82273e6ac3cae499f0af",
+          "page_number": 18,
+          "text": "表 1-1 成都与其他区域产业合作主要情况"
+        },
+        {
+          "block_id": "blk-d00b348114950d8b3456",
+          "page_number": 18,
+          "text": "<table><tr><td colspan=\"3\">合作领域</td><td>合作范围</td><td>合作形式</td></tr><tr><td rowspan=\"11\">先进制造业</td><td rowspan=\"4\">电子信息</td><td>新型显示</td><td>眉山、遂宁、宜宾、重庆</td><td>共同培育产业集群、签署合作协议、共同举办产业供需对接会、举办产业链协作交流会、举办电子信息博览会、举办成渝新型显示一体化发展高峰论坛、推动企业跨区域协作配套</td></tr><tr><td>软件产业</td><td rowspan=\"3\">重庆</td><td>签署合作协议</td></tr><tr><td>工业互联网</td><td>共同布局建设工业互联网标识解析国家顶级节点</td></tr><tr><td>网络安全</td><td>共同创建国家网络安全产业园</td></tr><tr><td rowspan=\"2\">装备制造</td><td>轨道交通</td><td>重庆</td><td>推动企业跨区域协作配套</td></tr><tr><td>汽车制造</td><td>内江、重庆、遂宁、南充</td><td>产业链互为配套协作、建立沟通对接机制、跨区域参展</td></tr><tr><td rowspan=\"2\">医药健康</td><td>生物医药</td><td>重庆、广安、泸州</td><td>园区合作共建药械试验创新平台、联合集聚生物医药人才、共建生物医药“双飞地”园区、企业间签订战略合作协议</td></tr><tr><td>医疗康养</td><td>宜宾</td><td>项目投资合作、产业链配套协作</td></tr><tr><td colspan=\"2\">航空航天</td><td>自贡、德阳</td><td>共建无人机产业基地、项目跨区域投资建设、航空发动力技术联合攻关</td></tr><tr><td rowspan=\"2\" colspan=\"2\">新材料新能源</td><td>攀枝花、阿坝、凉山、甘孜</td><td>企业跨区域设立分支机构、政府间签署低碳产业合作协议、新能源项目合作、政府与企业签署合作框架协议、新能源、探索“研制在成都,应用在市州,绿电返成都”合作模式</td></tr><tr><td>深圳</td><td>跨区域举办新材料投资推介会</td></tr></table>"
+        },
+        {
+          "block_id": "blk-142b82b75897391efbb2",
+          "page_number": 18,
+          "text": "\\(①\\) 资料来源：我市建成雅安-成都绿色优质农产品合作保供基地45.66万亩，雅安市政府官网，https://www.yaan.gov.cn/gongkai/show/6bac1767d72b7eb94fb87c046b5d99b2.html"
+        },
+        {
+          "block_id": "blk-952289fdda712d5ca26c",
+          "page_number": 19,
+          "text": "<table><tr><td colspan=\"3\">合作领域</td><td>合作范围</td><td>合作形式</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">新兴产业</td><td>卫星互联网</td><td>绵阳</td><td>共同争取项目落地、共建卫星数据资源中心</td></tr><tr><td>人工智能</td><td>广州、深圳</td><td>共同举办智能制造城市机会清单对接会、跨区域举办智能制造投资推介会</td></tr><tr><td>数字经济</td><td>雅安</td><td>共同搭建大数据产业合作平台、举办产业创新赛事活动、推动项目跨区域投资</td></tr><tr><td rowspan=\"5\">现代服务业</td><td colspan=\"2\">商务商贸</td><td>德阳、眉山、资阳、重庆</td><td>政府部门间签署共建消费目的地合作协议、建立完善商务合作机制、联合举办节庆会议会展活动、举办产业合作对接会、商协会间签署合作协议</td></tr><tr><td rowspan=\"2\" colspan=\"2\">金融业</td><td>德阳、眉山、资阳、绵阳、乐山、宜宾、广安、泸州、达州、遂宁、内江、巴中、凉山、重庆</td><td>跨区域设立金融服务分平台、金融业务跨区域异地办理、金融平台数据互通、共建基金小镇、举办投融资对接会、金融平台合作、组建金融顾问服务团、联合创建金融改革创新试验区、共同打造农村产权交易市场</td></tr><tr><td>上海、西安、南昌、南宁、贵阳、昆明</td><td>开展金融推介活动、金融主管部门签署合作协议</td></tr><tr><td rowspan=\"2\" colspan=\"2\">文旅业</td><td>德阳、绵阳、遂宁、乐山、雅安、眉山、资阳、遂宁、自贡、巴中、广元、泸州、甘孜、阿坝、凉山、攀枝花、重庆</td><td>共建文旅合作联盟、共同举办文旅活动、联合推出文旅线路、共同打造文旅项目、签订合作协议、互送游客、联合开展营销活动、联合执法</td></tr><tr><td>北京、天津、青岛、广州、厦门、福州、杭州、贵阳、昆明、海口、甘肃、青海</td><td>共同举办文旅活动、举办宣传推广活动、签署文旅合作协议、跨区域执法协作</td></tr><tr><td rowspan=\"3\">现代农业</td><td colspan=\"2\">农业项目</td><td>自贡、广元、凉山</td><td>企业跨区域投资建设农业项目、开展农产品展销合作</td></tr><tr><td colspan=\"2\">农业园区</td><td>德阳、眉山、资阳</td><td>合同共建农业园区</td></tr><tr><td colspan=\"2\">农产品保供</td><td>德阳、眉山、资阳、雅安、甘孜、阿坝</td><td>签署农产品保供协议、投资建设保供基地、农产品产销对接</td></tr></table>"
+        },
+        {
+          "block_id": "blk-80df94feb9028f2e3c8a",
+          "page_number": 19,
+          "text": "区域协同创新范围集中于省内区域，与国内相关城市主要以跨区域举办创新活动为主。从省内层面来看，成都协同创新对象较往年类似，覆盖了成都都市圈及重庆，特别"
+        },
+        {
+          "block_id": "blk-7a6027367492edd78f52",
+          "page_number": 20,
+          "text": "是在科技服务平台建设、协同创新体制机制等方面与德阳、眉山、资阳、重庆合作取得突破性进展，与绵阳、遂宁、宜宾等省内市（州）在科技成果转化合作方面也取得了良好成效。从国内层面来看，成都与东部沿海、东北地区及西部地区均有合作，其中与长三角地区主要以产业创新项目招引落地为主，与哈尔滨、西安、乌鲁木齐等东北及西部地区相关城市则更多是以跨区域参与创新活动为主。"
+        },
+        {
+          "block_id": "blk-fc695e4a7944b20b40db",
+          "page_number": 20,
+          "text": "区域协同创新领域主要集中于创新载体平台建设、科技成果转化转化、产学研协同创新、创新生态营造等领域，具体合作内容多以共建平台、共办活动为主。创新载体平台建设方面，仍以与重庆及国内城市共建西部科学城、与德眉资共建天府大道科创走廊及向省内市（州）拓展搭建科技服务分平台为主。科技成果转化方面，重点以开展科技成果转化应用示范、推动科技成果转化孵化等为主。产学研协同创新方面，重点以推动高校成果转化孵化、联合开展技术攻关、实施校地企科研项目合作等为主。创新生态营造方面，由原有的共同举办创新活动、促进创新资源有效对接向联动健全协同创新体制机制、打通创新资源互通共享障碍领等深层次领域拓展。"
+        },
+        {
+          "block_id": "blk-6ce3007fca46f9988568",
+          "page_number": 20,
+          "text": "区域协同创新形式由平台载体共建、技术交流合作、技术项目跨区域落地建设等形式为主。其中，创新载体平台建设领域主要以搭建平台载体共建机制、跨区域引进重大创新项目（平台）、设立科技服务分平台为主，例如，截至2022年，西部（成都）科学城已累计落地国家级创新平台94个①、高能级产业项目超200个②；“科创通”德阳分平台稳定运营，“科创通”资阳和眉山分平台成功上线运营。科技成果转化领域主要以成果转化孵化平台跨区域服务、参加对接会为主，例如，在平台跨区域服务方面，2022年，推动天府国际技术转移中心签约技术转移服务机构37家、促成英国第三代碳化硅等成果转化项目6个。产学研协同创新领域主要以科技项目联合申报、校地合作开发技术项目、创新平台共建等形式为主。其中，在省内区域主要以“在蓉高校开展技术研发+市（州）开展成果转化”形式为主，例如，2022年，推动西南石油大学研制的12项新技术在德阳广汉应用转化③；在省外区域主要是与国内高校院所共建实验室、技术中心、技术服务化平台等形式为主，例如，2022年，引进落地成都西电网络安全研究院、北理工创新装备研究院等面向成果转化应用的新型研发机构，支持国内高校院所科技人"
+        },
+        {
+          "block_id": "blk-2916ab31157f75b38eed",
+          "page_number": 21,
+          "text": "才、知名创新创业大赛获奖人才携科技成果在蓉创业179项①。创新生态营造领域主要以联合举办创新创业活动、推动科技创新券互认互通、开展知识产权跨区域协同保护等形式为主，例如，举办创新活动方面，成功举办创新资源市（州）行自贡专场和绵阳专场活动，促成跨市（州）科技合作项目签约4项、意向合作10余项②。"
+        },
+        {
+          "block_id": "blk-db0102d5c8ebe9cbe171",
+          "page_number": 21,
+          "text": "表 1-2 成都与其他区域协同创新主要情况"
+        },
+        {
+          "block_id": "blk-835c2e952b77323c23ab",
+          "page_number": 21,
+          "text": "<table><tr><td colspan=\"2\">合作领域</td><td>合作范围</td><td>合作形式</td></tr><tr><td rowspan=\"3\">创新载体平台建设</td><td>西部科学城</td><td>北京、深圳、常州、杭州、宜宾、重庆</td><td>共建国家级创新平台、招引落地产业创新项目</td></tr><tr><td>天府大道科创走廊</td><td>德阳、眉山</td><td>共同构建顶层设计、共同谋划项目、组建科技服务团、组建协同创新共同体</td></tr><tr><td>科技服务平台(科创通平台、协同创新中心)</td><td>德阳、眉山、资阳、自贡</td><td>设立科技服务分平台、共建产业创新中心、签署合作协议</td></tr><tr><td rowspan=\"2\">科技成果转化</td><td rowspan=\"2\">成果孵化转化载体、科技成果转化应用示范</td><td>德阳、绵阳</td><td>共建示范区、建立科技成果转化机制、共建成果转化孵化平台</td></tr><tr><td>黄河流域、乌鲁木齐</td><td>跨区域参加科技成果转化对接会</td></tr><tr><td rowspan=\"2\">产学研协同创新</td><td rowspan=\"2\">高校成果转化孵化、开展重大科技攻关、科技项目合作</td><td>德阳、广元、巴中、遂宁、宜宾、自贡、重庆</td><td>共建工程技术中心、联合申报科技项目、校地企合作开发技术项目</td></tr><tr><td>北京、西安、哈尔滨、重庆、淄博</td><td>招引落地研发机构、共建技术转化孵化平台、共建研究院、跨区举办“校企双进”系列活动</td></tr><tr><td rowspan=\"2\">创新生态营造</td><td>科技交流活动</td><td>自贡、绵阳、重庆</td><td>举办创新资源市(州)行活动、共同举办创新发展专场活动、参加科技博览会、联动举办“菁蓉汇”成渝双创专场</td></tr><tr><td>体制机制改革</td><td>德阳、眉山、资阳、绵阳</td><td>共育技术交易市场、科技创新券互认互通、建立知识产权保护直通车制度</td></tr></table>"
+        },
+        {
+          "block_id": "blk-af245a47ccaacf55ccac",
+          "page_number": 21,
+          "text": "基础设施建设合作范围随领域变化而各有侧重。其中，区域交通互联互通多集中于省内城市，航空、铁路等对外大通道建设更多以国内城市合作为主，能源、水利等其他"
+        },
+        {
+          "block_id": "blk-649e7c9bca18940c521d",
+          "page_number": 22,
+          "text": "基础设施则以成都平原经济区为主。从省内层面来看，成都开展基础设施建设合作区域已覆盖省内五大经济区，且合作程度呈现出圈层分异特征，其中，与成都都市圈城市通道设施互联互通最为紧密，与乐山、雅安、遂宁等成都平原经济区设施项目建设也有深度合作，与其余四大经济区联通水平仍有提升空间。从国内层面来看，成都开展基础设施合作范围主要以长江经济带沿线城市、国内重点旅游城市为主，遍布上海、浙江、江苏、山东、重庆、云南等国内重点经济区域。"
+        },
+        {
+          "block_id": "blk-3c7407848570f3b79dce",
+          "page_number": 22,
+          "text": "基础设施建设合作仍以区域交通通道互联互通为主，同时也涉及航空、涉外铁路等对外大通道协同拓展及能源、水利、信息等其他基础设施协同共建内容。区域交通通道建设方面，主要与成都都市圈城市在市域铁路建设、铁路公交化运营、高快速路建设、断头路打通、跨市公交开行等领域开展紧密合作，与省内其他城市及重庆在铁路公交化运营、高铁建设、高速公路建设等领域开展合作。对外大通道建设方面，成都主要与国内相关城市在航线联通、中欧班列联合开行、西部陆海新通道建设、铁海联运班列开行等领域开展合作。其他基础设施建设方面，成都主要集中于市域内设施布局建设，与市外区域多以零星项目合作为主，尚未实现大范围的互联互通。"
+        },
+        {
+          "block_id": "blk-06c0ab10a1377748359e",
+          "page_number": 22,
+          "text": "基础设施建设合作形式持续创新，通道设施由原来的共建共拓向重大设施统筹协调布局转变，道路联通也由原来的直连直通方式向互联互通方式转变。具体来看，区域交通通道建设领域主要表现为交通道路项目的联合报批、通道枢纽建设、共同组建项目建设公司、联合开行跨市公交线、开行定制客运线，例如，截至2022年，成都至德眉资已稳定开行14条公交线路、8条定制客运线路①。对外大通道建设领域主要以航线加密互联、国际班列共营、铁路枢纽“一港多站”统筹合作，特别是国际班列联合开行由“点对点”分散开行向“枢纽对枢纽”集中方式转变，带动国际班列开行数量迅速提升，例如，2022年成都开行国际班列5064列、同比增长 \\(19.2\\%\\) ②。其他基础设施建设领域主要以能源设施跨区域协同布局、企业跨区域投建数据中心为主，例如，2022年推动华为、阿里、中科曙光、万国数据等企业来蓉布局建设数据中心。"
+        },
+        {
+          "block_id": "blk-96ccd3480adb2609f3a4",
+          "page_number": 23,
+          "text": "表 1-3 成都与其他区域基础设施共建主要情况"
+        },
+        {
+          "block_id": "blk-c5cebe4cb62a4722b15a",
+          "page_number": 23,
+          "text": "<table><tr><td colspan=\"2\">合作领域</td><td>合作范围</td><td>合作方式</td></tr><tr><td rowspan=\"2\">轨道交通</td><td>铁路公交化运营</td><td>德阳、眉山、资阳、乐山、遂宁、雅安、重庆、郑州</td><td>一卡通刷、一码通乘、优惠互享</td></tr><tr><td>高铁建设、扩能改造</td><td>自贡、宜宾、遂宁、重庆、昆明、宝鸡</td><td rowspan=\"3\">联合报批、联合组建项目公司、协同开展规划研究、推动通道互联互通、土地资金等要素协同保障</td></tr><tr><td>高速公路</td><td>高速公路建设、扩容改造</td><td>眉山、雅安、乐山、绵阳、南充、自贡、泸州、汶川、重庆、遵义</td></tr><tr><td>快速路</td><td>快速路建设、断头路打通</td><td>德阳、眉山、资阳、雅安</td></tr><tr><td colspan=\"2\">公共交通</td><td>德阳、眉山、资阳</td><td>联合开行跨市公交、开行定制客运线、推动天府通“一码”互通互惠</td></tr><tr><td>航空通道</td><td>航线网络优化、航空枢纽服务提质</td><td>南京、烟台、延吉、福州、无锡、上海、西双版纳、北海、博鳌、大连、哈尔滨、九寨、三亚等</td><td>航线开通、航线加密互联、打造空中快线、招引落地航空物流项目</td></tr><tr><td>国际铁路通道</td><td>铁路港合作、中欧班列开行、西部陆海新通道班列开行、铁海联运开行</td><td>绵阳、内江、泸州、自贡、攀枝花、重庆、武汉、上海、宁波、青岛</td><td>共同做强班列品牌、“枢纽对枢纽”联运模式、“一港多站”合作模式</td></tr><tr><td>能源设施</td><td>电力设施、天然气官网、加氢站</td><td>德阳、眉山、乐山、内江、攀枝花、重庆</td><td>设施跨区域协同布局</td></tr><tr><td colspan=\"2\">水利设施</td><td>资阳、德阳</td><td>共同研究论证、工程共建</td></tr><tr><td colspan=\"2\">信息基础设施</td><td>雅安、深圳、杭州、天津</td><td>跨区域投建数据中心</td></tr></table>"
+        },
+        {
+          "block_id": "blk-407c23a7253b138f64cd",
+          "page_number": 23,
+          "text": "生态环境保护治理合作范围集中于成渝地区双城经济圈，重点以成都平原经济区为主。从省内层面来看，成都主要与的德阳、眉山、资阳协同开展实质性的生态环境共保共治、与成都平原经济区其他城市及岷江沱江流域沿线城市也开展了生态环境联防联控相关合作。从国内层面来看，成都仅与重庆开展生态环境保护治理相关合作，协同推动区域生态共建、环境共保，引领成渝地区双城经济圈绿色低碳转型发展。"
+        },
+        {
+          "block_id": "blk-f43bca18f88a86f03571",
+          "page_number": 23,
+          "text": "生态环境保护治理合作领域持续深化，主要合作内容从生态共治顶层设计构建、环境污染协同治理、生态价值协同挖掘向环境跨区协同执法领域拓展延伸。生态共治顶层设计构建方面，主要以与德眉资及重庆共建联防联控机制、协同制定环境保护方案为"
+        },
+        {
+          "block_id": "blk-85cee3dc516224137574",
+          "page_number": 24,
+          "text": "主。环境污染治理方面，仍是聚焦大气、水污染的联合治理以及环境治理平台共建共享领域。生态价值挖掘方面，主要是与流域沿线城市共建绿色经济带、与重庆及都市圈城市共建碳交易市场。生态环境联合执法方面，重点集中在机动车排放、企业排污、饮用水污染等领域的跨区域协同执法。"
+        },
+        {
+          "block_id": "blk-466af42539ce089f08f9",
+          "page_number": 24,
+          "text": "生态环境保护治理合作形式着重以跨区域联防联控联治为主，更多体现为联合治理、跨界保护、联合会商、联动执法等。具体来看，生态共治顶层设计构建领域主要以联合举行协调会、签署生态保护治理合作协议等形式为主，例如，在协议签订方面，截至2022年，推动成都生态系统12个派出机构分别与重庆12个区级部门签订了合作协议。环境污染治理领域主要以与成都平原经济区城市特别是德眉资三市开展大气污染联合会商、统一标准规范、共同搭建监测平台、构建跨界河长共治模式为主，例如，在平台共建共享方面，2022年，成都联手德眉资成功设立“成德眉资空气质量预测预报中心”。生态价值挖掘领域主要以推动交易平台向外延伸服务、联合开展试点申报等方式为主，例如，在碳交易平台服务延伸方面，截至2022年碳惠天府绿色公益平台已吸引超过70万名用户参与①。生态环境联合执法领域主要以搭建“综合联动+应急联动+日常联动”执法机制的形式为主，例如，2022年，成都联合德雅眉资四市开展综合联动检查企业（点位）148家（次）、应急联动检查企业（点位）323家（次）②。"
+        },
+        {
+          "block_id": "blk-1baecdd2d064ba44f483",
+          "page_number": 24,
+          "text": "表 1-4 成都与其他区域生态环境共保共治主要情况"
+        },
+        {
+          "block_id": "blk-098c48cf1d5c6d611b93",
+          "page_number": 24,
+          "text": "<table><tr><td colspan=\"2\">合作领域</td><td>合作范围</td><td>合作方式</td></tr><tr><td rowspan=\"2\">区域环境共治顶层设计搭建</td><td rowspan=\"2\">生态环境联防联治机制建立、方案制定</td><td>德阳、眉山、资阳</td><td>联合召开工作会、联合举行大气污染联防联治协调会</td></tr><tr><td>重庆</td><td>签署合作协议、共建环评专家库</td></tr><tr><td rowspan=\"3\">环境污染治理</td><td>大气污染治理</td><td>重庆、成都平原经济区</td><td>开展联合会商、实行重污染天气同步预警、推动大气污染制度向外复制推广、签订合作协议</td></tr><tr><td rowspan=\"2\">水污染治理</td><td>沱江流域区域(自贡、泸州、德阳、内江、乐山、宜宾、眉山、资阳、阿坝)、岷江流域区域(德阳、乐山、雅安、眉山、资阳、阿坝)</td><td>建立饮用水保护联合机制、统一保护执法标准、构建跨界河长共治模式、常态化开展流域治理联席会议</td></tr><tr><td>德阳、眉山、资阳、阿坝</td><td>签订防汛减灾联防联控协议</td></tr></table>"
+        },
+        {
+          "block_id": "blk-fb93c17fe4d79edb7035",
+          "page_number": 25,
+          "text": "<table><tr><td colspan=\"2\">合作领域</td><td>合作范围</td><td>合作方式</td></tr><tr><td></td><td>平台建设</td><td>德阳、眉山、资阳</td><td>共建空气质量预测预报中心、平台数据互通共享</td></tr><tr><td>生态价值挖掘</td><td>共建绿色经济带、建设碳交易市场</td><td>沱江流域、德阳、眉山、资阳、重庆</td><td>联合开展试点申报、推动交易平台向外延伸服务</td></tr><tr><td colspan=\"2\">生态环境联合执法</td><td>德阳、眉山、资阳、雅安、遂宁、绵阳、乐山</td><td>联合检查处置、建立执法协同会商机制、“综合联动+应急联动+日常联动”执法、机动车排放检验联合监管</td></tr></table>"
+        },
+        {
+          "block_id": "blk-5dbd748f2132e9da5ea6",
+          "page_number": 25,
+          "text": "公共服务合作的范围持续延伸，由与省内和国内发达地区合作逐步拓展到西北地区。在省内方面，与成都都市圈城市交流合作最为密切，与内江、泸州、遂宁等城市也开展了积极合作。在国内方面，与重庆合作最为密切，与京津冀、长三角等区域合作较多，同时与西北地区的格尔木、陇南、西宁等城市也开展了积极合作。"
+        },
+        {
+          "block_id": "blk-1d430b07425d593075c8",
+          "page_number": 25,
+          "text": "公共服务合作领域加快延伸，从教育、医疗、政务服务等领域进一步拓展到文体、社会治理等多个领域，合作领域更趋多元化。教育事业方面，主要集中于高等教育合作、职业教育合作、教育资源共享、教研科研资源共建共享。医疗卫生方面，主要以公共卫生合作、医疗机构合作、医疗检查结果互认等为主。人力资源和社会保障方面，主要以就业服务合作、人力资源服务平台共建、社会保险协同、养老服务合作等为主。文体服务方面，主要与成渝地区双城经济圈共享文体资源、共办赛事活动为主。社会治理主要与德眉资共同推动政务服务跨域通办、市场监管同标同质和基层治理联防联控，与省外城市重点开展市场监管工作交流对接。"
+        },
+        {
+          "block_id": "blk-3809177742a9fdf2829b",
+          "page_number": 25,
+          "text": "公共服务合作形式更加多样，总体体现为推动公共服务便捷共享。具体来看，教育事业领域主要以共建教学实践基地、共同培育人才、学校结对合作、随迁子女入学合作、共建教育联盟等形式为主，例如，与重庆市建立随迁子女入学“一网通办”机制，2022年，重庆市户籍来蓉就业人员随迁子女达到2133人①。医疗卫生领域主要以推动检查检验结果互认、公共卫生事件联防联控、建立合作重点专科、医疗人才合作、医保异地结算等形式为主，例如，成都与重庆已实现了电子健康卡的互认互用，电子健康卡二维码申领发放近2000余万个，累计发生扫码使用4500余万次②。人力资源和社会保障领"
+        },
+        {
+          "block_id": "blk-d082df26eff61841996e",
+          "page_number": 26,
+          "text": "域主要以社会保险无障碍转移接续、社会保险执法协作、社保卡服务同城化受理、联合举办招聘活动、共同搭建招聘平台、共建共营养老服务设施等形式为主，例如，依托“天府招聘云”人力资源服务协同网络平台集聚成德眉资各类人力资源服务机构152家，服务企事业单位8568家次①。文体服务领域主要以图书馆通借通还、共建馆藏古籍文献数字化、联合演出、共同举办赛事活动等形式为主，例如，成渝两地区县级公共图书馆通借通实现成都地区全覆盖。社会治理领域主要以政务服务跨域通办、政务数据互通共享、信用信息互通互认、检验检测结果互认、社会治安联防联控、开展基层治理联席会议等形式为主，例如，成都联合德眉资发布第三批66项“同城化无差别”受理事项清单，推动166个高频事项跨区域通办②。"
+        },
+        {
+          "block_id": "blk-bb7afa26b9ad91c6b5b8",
+          "page_number": 26,
+          "text": "表 1-5 成都与其他区域公共服务共建共享主要情况"
+        },
+        {
+          "block_id": "blk-6bfd4317eae9f3555dbd",
+          "page_number": 26,
+          "text": "<table><tr><td>合作领域</td><td>合作内容</td><td>合作范围</td><td>合作方式</td></tr><tr><td rowspan=\"6\">教育事业</td><td rowspan=\"2\">高等教育合作</td><td>遂宁、宜宾、巴中、眉山、重庆</td><td>共建高等院校、共建教学实践基地、组建产教融合联盟</td></tr><tr><td>上海</td><td>人才共同培育、联合开展课题研究</td></tr><tr><td>职业教育合作</td><td>宜宾、乐山、巴中、遂宁、自贡、眉山、雅安、德阳、资阳、阿坝、重庆</td><td>职教人才联合培养、技能大赛交流、校企校际合作、产教联合体共建、共建实训基地</td></tr><tr><td rowspan=\"3\">教育资源共享</td><td>眉山、内江、广安、自贡、遂宁、广元、雅安、资阳、凉山州、宜宾、甘孜州、阿坝州</td><td>学校结对、教师人才交流合作、教研科研合作、智慧学校建设</td></tr><tr><td>重庆</td><td>学校结对合作、举办教育交流活动、教师教育体系合作、教改合作、随迁子女入学“一网通办”、共建教育联盟</td></tr><tr><td>上海、深圳、厦门、咸宁、台州</td><td>教师专业能力提升合作、开展教学模式研讨、“双减”教育合作</td></tr><tr><td rowspan=\"2\">医疗卫生</td><td rowspan=\"2\">合作机制共建</td><td>内江、南充、雅安、巴中</td><td>签订战略合作协议、签订国际远程病理合作协议、建立人才交流机制、探索建立分级诊疗、双向转诊机制</td></tr><tr><td>贵阳市、陇南市</td><td>签署卫生健康合作协议</td></tr></table>"
+        },
+        {
+          "block_id": "blk-da349187cb571613d6c7",
+          "page_number": 27,
+          "text": "<table><tr><td>合作领域</td><td>合作内容</td><td>合作范围</td><td>合作方式</td></tr><tr><td rowspan=\"5\"></td><td rowspan=\"2\">医院合作</td><td>广安、自贡、乐山、宜宾、巴中、雅安、眉山、资阳、德阳、阿坝、甘孜、重庆</td><td>建立合作重点专科、紧密型医联体、建立远程会诊、医疗人才合作、组建医学科技创新联盟、推进国家医疗中心和区域医疗中心建设</td></tr><tr><td>广州、北京、格尔木、昭通、毕节</td><td>学术交流、共建医联体、联合会诊、签订合作协议、共建网络联盟医院、培养专业技术人才</td></tr><tr><td>医学互认</td><td>乐山、雅安、德阳、眉山、资阳</td><td>检查检验结果互认</td></tr><tr><td rowspan=\"2\">公共卫生</td><td>自贡、雅安、乐山、重庆</td><td>疫情防控合作、传染病检测合作、重点传染病疫情监测、突发公共卫生事件日常风险评估结果信息互通、公共卫生事件联防联控</td></tr><tr><td>上海</td><td>方舱医院共建、开展核酸检测</td></tr><tr><td rowspan=\"5\">人力资源和社会保障</td><td>就业服务</td><td>德阳、眉山、资阳、广元、重庆</td><td>公共就业信息共享、联合举办高层次人才和急需紧缺人才引才活动、人才跨区域招聘、共享创业导师库</td></tr><tr><td>人力资源服务平台建设</td><td>德阳、眉山、资阳、重庆</td><td>协同搭建网络平台、共建人力资源服务产业园、共塑人才品牌、共办赛事论坛</td></tr><tr><td>社会保险</td><td>自贡、德阳、眉山、资阳、重庆</td><td>养老及失业保险无障碍转移、社保欺诈异地协查、购药联网结算、异地就医直接结算、电子健康卡互认互用</td></tr><tr><td rowspan=\"2\">养老服务</td><td>遂宁、乐山、重庆</td><td>签订合作方案、养老人才合作、养老设施共建共营、搭建老年教育合作交流平台、共办活动</td></tr><tr><td>广州</td><td>养老服务合作</td></tr><tr><td rowspan=\"2\">文体服务</td><td>文化服务</td><td>乐山、宜宾、雅安、自贡、重庆</td><td>签订战略合作框架协议、图书馆通借通还、馆藏古籍文献数字化共建、联合演出</td></tr><tr><td>体育事业</td><td>自贡、德阳、眉山、资阳、重庆</td><td>共办健身及赛事活动、体育人才联合培养</td></tr><tr><td rowspan=\"4\">社会治理</td><td>政务服务</td><td>德阳、眉山、资阳、攀枝花、重庆</td><td>政务服务标准体系共建、政务通办数据共享共用、政务服务热线互联互通、公积金异地购房“两地通办”</td></tr><tr><td rowspan=\"2\">市场监管</td><td>德阳、眉山、资阳、遂宁、自贡、广元、南充、重庆</td><td>统一市场监管执法标准、信用信息互通互认、食药检测机构结果互认、市场准入异地同标</td></tr><tr><td>深圳、厦门</td><td>开展研究机构交流探讨、建立市场监管部门间沟通交流机制</td></tr><tr><td>基层治理</td><td>德阳、眉山、资阳</td><td>建立社会治安联防联控网络、开展党建引领基层治理联席会议</td></tr></table>"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-f3f1b8f96a50:bundle-9e9a24af0644",
+      "excluded_fragments": [],
+      "ref_id": "ref-f3f1b8f96a50",
+      "source_blocks": [
+        {
+          "block_id": "blk-21fe50739e45b0bfc074",
+          "page_number": 201,
+          "text": "为进一步贯彻党中央国务院、省委省政府关于发展新质生产力的战略部署，落实成都市委市政府关于人工智能发展的决策部署，锦江区携手成都产业集团、深圳市投资控股有限公司共同打造白鹭湾科技生态园，以“打造世界一流高科技园区”为目标，总投资约200亿元，规划面积3650亩，是深圳携手成都合力打造的科技生态创新示范园区和成都市首批未来公园社区示范点位之一。"
+        },
+        {
+          "block_id": "blk-6861e7c7570aa41397ae",
+          "page_number": 202,
+          "text": "原始 PDF 第 202 页图片"
+        },
+        {
+          "block_id": "blk-9e983ef69c14fb5d1386",
+          "page_number": 202,
+          "text": "原始 PDF 第 202 页图片"
+        },
+        {
+          "block_id": "blk-63097ef60dc030be3835",
+          "page_number": 202,
+          "text": "图5-7 白鹭湾科技生态园"
+        },
+        {
+          "block_id": "blk-5e72c495d69c4072f9e1",
+          "page_number": 202,
+          "text": "一是构建完善的园区开发机制。深圳市投资控股有限公司、成都兴锦建设发展投资集团有限公司与成都产业功能区投资运营集团有限公司三家国企合开发建设，其中，深圳市投资控股有限公司控股 \\(51\\%\\) ，并充分发挥其成功运营深圳湾科技园区的经验，主导园区招商和运营。"
+        },
+        {
+          "block_id": "blk-1f627a476c8c4baf47ef",
+          "page_number": 202,
+          "text": "图5-8 白鹭湾科技生态园合作关系"
+        },
+        {
+          "block_id": "blk-00b9f6cdf78ec5ac24a7",
+          "page_number": 202,
+          "text": "二是以人工智能创新应用为主要发展方向。园区聚焦智慧交通、智慧物联等主导产业，强势布局车路协同试点项目，打造全国首个涵盖城市道路、高速公路、乡村公路相融合的无人驾驶、汽车试驾、研发测试全路况示范区，构建全国首个“研、测、造、展、交、服”智能网联生态链，着力推动智慧交通、智能网联汽车相关产业规模化聚集发展。"
+        },
+        {
+          "block_id": "blk-a0c636c9989638634e1a",
+          "page_number": 202,
+          "text": "三是提供国际一流的产业服务生态。白鹭湾科技生态园以高标准的硬件及高水平的物业管理服务作为基础，并聚焦企业长期利益，建立了“产业服务子系统、专业服务子条统、政务服务子系统、商务服务子系统”四大系统，有效解决企业进入园区或企业不"
+        },
+        {
+          "block_id": "blk-43e44d4229f9e3e4f1d4",
+          "page_number": 203,
+          "text": "同发展过程中遇到的问题。"
+        },
+        {
+          "block_id": "blk-c7be8b77ef6fe152459d",
+          "page_number": 203,
+          "text": "2023年10月底，白鹭湾科技生态园正式开园，成功招引落地蜀道集团、凝思软件、国任保险等10余家重点企业，与软通智慧、达实智能等40余家企业签订入驻生态园协议①，高效集聚了一批人工智能头部企业和高新技术服务企业。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-44ea36d5a0b0",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-d4b471863f7d",
+    "ref-f3f1b8f96a50"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

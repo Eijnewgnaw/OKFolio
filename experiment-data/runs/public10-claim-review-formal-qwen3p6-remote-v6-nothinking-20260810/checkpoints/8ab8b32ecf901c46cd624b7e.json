@@ -1,0 +1,1552 @@
+{
+  "contract": {
+    "canonical_question": "2020年以来，四川天府新区在区域协同发展中采取了哪些具体举措并取得了哪些显著成绩？",
+    "claims": [
+      {
+        "claim": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，区域协同发展工作取得了显著的成绩。",
+        "claim_id": "claim-b90c5863f70b3a32",
+        "evidence_block_ids": [
+          "blk-135f2d6c89514ff44c54"
+        ],
+        "evidence_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {
+          "time": [
+            "2020年以来"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心用于四川区域协同总部基地建设。",
+        "claim_id": "claim-d855b851c4dc9d5f",
+        "evidence_block_ids": [
+          "blk-ce472b75e44e466b99eb"
+        ],
+        "evidence_excerpt": "一是推动市（州）共建总部基地。探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，并于7月完成移交使用。",
+        "claim_id": "claim-9423b4c854227883",
+        "evidence_block_ids": [
+          "blk-ce472b75e44e466b99eb"
+        ],
+        "evidence_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》，协同收集报送成眉高新技术产业带182个项目。",
+        "claim_id": "claim-b7b3e912ac8843db",
+        "evidence_block_ids": [
+          "blk-ec581af3b867c7ebad31"
+        ],
+        "evidence_excerpt": "二是深化成眉同城化发展。先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区与天府新区眉山管委会签订梓州大道南延线东南线接线点协议，加速推进地下综合管廊建设。",
+        "claim_id": "claim-e76177dbea65cf75",
+        "evidence_block_ids": [
+          "blk-ec581af3b867c7ebad31"
+        ],
+        "evidence_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区与两江新区成立打造内陆开放门户办公室，形成多层级合作机制，并成立成渝地区双城经济圈智库联盟。",
+        "claim_id": "claim-b81579fc265ef684",
+        "evidence_block_ids": [
+          "blk-b3dbeff6f4b2fecfaf14"
+        ],
+        "evidence_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。共同筹办第一、二届公园城市“两新”党建论坛；联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          97
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区完成自贸试验区创新改革任务113项，梳理形成20个创新案例，获批全省电子证照、电子印章应用试点区域。",
+        "claim_id": "claim-3e9deca68a1eb79d",
+        "evidence_block_ids": [
+          "blk-9cb63559e333f21498dd"
+        ],
+        "evidence_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          98
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府新区发挥天府国际基金小镇作用，管理基金5500多亿，并签约落地天府影都一期项目等11个文创项目投资服务协议。",
+        "claim_id": "claim-74f831309ab6236a",
+        "evidence_block_ids": [
+          "blk-169ab3e18a1c79fa81e3"
+        ],
+        "evidence_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》；签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议；签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          98
+        ],
+        "ref_id": "ref-970854dc3ca8",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b90c5863f70b3a32",
+          "claim-d855b851c4dc9d5f",
+          "claim-9423b4c854227883",
+          "claim-b7b3e912ac8843db",
+          "claim-e76177dbea65cf75",
+          "claim-b81579fc265ef684",
+          "claim-3e9deca68a1eb79d",
+          "claim-74f831309ab6236a"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+        "reason": "该Bundle包含回答分析框架核心槽位（subject, core_judgment, evidence, impact, scope）所需的全部原子事实，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-18f99ee27c25",
+    "members": [
+      {
+        "contribution": "该证据详细列举了天府新区在总部基地共建、成眉同城化、成渝双城圈融入、自贸改革、文创金融合作及市州合作等六个方面的具体行动与成果，直接支撑中心问题。",
+        "ref_id": "ref-970854dc3ca8",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-b90c5863f70b3a32",
+        "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+        "finding": "Draft sentence matches the evidence excerpt exactly, covering the core judgment claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d855b851c4dc9d5f",
+        "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+        "finding": "Draft sentence matches the evidence excerpt exactly, covering the headquarters base claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9423b4c854227883",
+        "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+        "finding": "Draft sentence matches the evidence excerpt exactly, covering the office space claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b7b3e912ac8843db",
+        "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+        "finding": "Draft sentence matches the evidence excerpt exactly, covering the Chengmei integration plan claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e76177dbea65cf75",
+        "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+        "finding": "Draft sentence matches the evidence excerpt exactly, covering the pipeline agreement claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b81579fc265ef684",
+        "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+        "finding": "Draft sentence matches the evidence excerpt exactly, covering the inland opening office claim.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-74f831309ab6236a",
+        "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3e9deca68a1eb79d",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-b90c5863f70b3a32"
+        ],
+        "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+        "finding": "Summary sentence supported by the core judgment claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f5a3d01c28e40faa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b90c5863f70b3a32"
+        ],
+        "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+        "finding": "Directly supports the core judgment claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-55cd6fa9f12dfd15",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d855b851c4dc9d5f"
+        ],
+        "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+        "finding": "Directly supports the headquarters base claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-37291eadfc52059b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9423b4c854227883"
+        ],
+        "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+        "finding": "Directly supports the office space claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-70452741c7e6afda",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b7b3e912ac8843db"
+        ],
+        "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+        "finding": "Directly supports the Chengmei integration plan claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-357e80d08e60ee17",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b7b3e912ac8843db"
+        ],
+        "draft_excerpt": "协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+        "finding": "Directly supports the project collection claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-33c06205ff9d3f45",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e76177dbea65cf75"
+        ],
+        "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+        "finding": "Directly supports the pipeline agreement claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-49996a07334ce605",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b81579fc265ef684"
+        ],
+        "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+        "finding": "Directly supports the inland opening office claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5127f427ce84a9d9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b81579fc265ef684"
+        ],
+        "draft_excerpt": "联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+        "finding": "Directly supports the think tank alliance claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-36f505f952a143e1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3e9deca68a1eb79d"
+        ],
+        "draft_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。",
+        "finding": "Directly supports the FTZ reform claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-208a1a6f3015d5a5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3e9deca68a1eb79d"
+        ],
+        "draft_excerpt": "获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+        "finding": "Directly supports the FTZ reform claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-674ffed68f779780",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-74f831309ab6236a"
+        ],
+        "draft_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。",
+        "finding": "Directly supports the fund town claim.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-49866e5cb9cfaa0b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-74f831309ab6236a"
+        ],
+        "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2c481c6e0c2055f4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-74f831309ab6236a"
+        ],
+        "draft_excerpt": "签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-56b2554096f3c371",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-74f831309ab6236a"
+        ],
+        "draft_excerpt": "签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8672e0281d05e1c3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-b90c5863f70b3a32",
+          "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+          "finding": "Draft sentence matches the evidence excerpt exactly, covering the core judgment claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d855b851c4dc9d5f",
+          "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+          "finding": "Draft sentence matches the evidence excerpt exactly, covering the headquarters base claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9423b4c854227883",
+          "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+          "finding": "Draft sentence matches the evidence excerpt exactly, covering the office space claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b7b3e912ac8843db",
+          "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+          "finding": "Draft sentence matches the evidence excerpt exactly, covering the Chengmei integration plan claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e76177dbea65cf75",
+          "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+          "finding": "Draft sentence matches the evidence excerpt exactly, covering the pipeline agreement claim.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b81579fc265ef684",
+          "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+          "finding": "Draft sentence matches the evidence excerpt exactly, covering the inland opening office claim.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-b90c5863f70b3a32"
+          ],
+          "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+          "finding": "Summary sentence supported by the core judgment claim.",
+          "sentence_id": "sentence-f5a3d01c28e40faa",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b90c5863f70b3a32"
+          ],
+          "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+          "finding": "Directly supports the core judgment claim.",
+          "sentence_id": "sentence-55cd6fa9f12dfd15",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d855b851c4dc9d5f"
+          ],
+          "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+          "finding": "Directly supports the headquarters base claim.",
+          "sentence_id": "sentence-37291eadfc52059b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9423b4c854227883"
+          ],
+          "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+          "finding": "Directly supports the office space claim.",
+          "sentence_id": "sentence-70452741c7e6afda",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b7b3e912ac8843db"
+          ],
+          "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+          "finding": "Directly supports the Chengmei integration plan claim.",
+          "sentence_id": "sentence-357e80d08e60ee17",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b7b3e912ac8843db"
+          ],
+          "draft_excerpt": "协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+          "finding": "Directly supports the project collection claim.",
+          "sentence_id": "sentence-33c06205ff9d3f45",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e76177dbea65cf75"
+          ],
+          "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+          "finding": "Directly supports the pipeline agreement claim.",
+          "sentence_id": "sentence-49996a07334ce605",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b81579fc265ef684"
+          ],
+          "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+          "finding": "Directly supports the inland opening office claim.",
+          "sentence_id": "sentence-5127f427ce84a9d9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b81579fc265ef684"
+          ],
+          "draft_excerpt": "联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+          "finding": "Directly supports the think tank alliance claim.",
+          "sentence_id": "sentence-36f505f952a143e1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3e9deca68a1eb79d"
+          ],
+          "draft_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。",
+          "finding": "Directly supports the FTZ reform claim.",
+          "sentence_id": "sentence-208a1a6f3015d5a5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3e9deca68a1eb79d"
+          ],
+          "draft_excerpt": "获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+          "finding": "Directly supports the FTZ reform claim.",
+          "sentence_id": "sentence-674ffed68f779780",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-74f831309ab6236a"
+          ],
+          "draft_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。",
+          "finding": "Directly supports the fund town claim.",
+          "sentence_id": "sentence-49866e5cb9cfaa0b",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    },
+    "1": {
+      "batch_index": 1,
+      "rows": [
+        {
+          "claim_id": "claim-74f831309ab6236a",
+          "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-74f831309ab6236a"
+          ],
+          "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+          "finding": "supported",
+          "sentence_id": "sentence-2c481c6e0c2055f4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-74f831309ab6236a"
+          ],
+          "draft_excerpt": "签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议。",
+          "finding": "supported",
+          "sentence_id": "sentence-56b2554096f3c371",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-74f831309ab6236a"
+          ],
+          "draft_excerpt": "签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+          "finding": "supported",
+          "sentence_id": "sentence-8672e0281d05e1c3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "b5eda618778b0c8850ef6d8972439716012ee3a92c327f27cecd6a7a02122f35",
+  "coverage_history": [
+    {
+      "draft_sha256": "2b66cbe831c9bbd03a43a00dd2e803873f2ea97b308ec8fe731f91a1be338898",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b90c5863f70b3a32",
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+            "finding": "sentence-55cd6fa9f12dfd15",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d855b851c4dc9d5f",
+            "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+            "finding": "sentence-330adbe43f01878a",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9423b4c854227883",
+            "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+            "finding": "sentence-385deee5c679573a",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7b3e912ac8843db",
+            "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+            "finding": "sentence-9a1a36528273ac0e",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e76177dbea65cf75",
+            "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+            "finding": "sentence-dce7731a986473c6",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b81579fc265ef684",
+            "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e9deca68a1eb79d",
+            "draft_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-74f831309ab6236a",
+            "draft_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b90c5863f70b3a32"
+            ],
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+            "finding": "sentence-f5a3d01c28e40faa",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f5a3d01c28e40faa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b90c5863f70b3a32"
+            ],
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+            "finding": "sentence-55cd6fa9f12dfd15",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55cd6fa9f12dfd15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "下一步，成都天府新区应加强规划文件指引，继续深化与天府新区眉山片区的协作联动，开展实质性、项目化合作，切实推动成都都市圈发展；",
+            "finding": "sentence-2168d4a21b235424",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2168d4a21b235424",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "积极对接清华大学城市品牌研究室，尽快形成天府文创城品牌营城研究成果，加快新区文创产业发展；",
+            "finding": "sentence-c204bdbdd5ccb9eb",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c204bdbdd5ccb9eb",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "发挥辐射引领作用，探索“五区协同”新范式，推动区域协同创新发展效能最大化；",
+            "finding": "sentence-69ad045c393f404a",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-69ad045c393f404a",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "扩大新区联动幅度，积极申报天府综合保税区，加快自贸试验改革，加快打造内陆开放门户；",
+            "finding": "sentence-792c352ce5c5615e",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-792c352ce5c5615e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "联合共建成渝科技资源开放共享平台，推动天府两江合作走深走实。",
+            "finding": "sentence-07e79addd4673871",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07e79addd4673871",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-d855b851c4dc9d5f"
+            ],
+            "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+            "finding": "sentence-330adbe43f01878a",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-330adbe43f01878a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9423b4c854227883"
+            ],
+            "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+            "finding": "sentence-385deee5c679573a",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-385deee5c679573a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7b3e912ac8843db"
+            ],
+            "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+            "finding": "sentence-9a1a36528273ac0e",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9a1a36528273ac0e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7b3e912ac8843db"
+            ],
+            "draft_excerpt": "协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+            "finding": "sentence-b545efc8de8eb843",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b545efc8de8eb843",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e76177dbea65cf75"
+            ],
+            "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+            "finding": "sentence-dce7731a986473c6",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dce7731a986473c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b81579fc265ef684"
+            ],
+            "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4a1d4a9576b62e45",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "共同筹办第一、二届公园城市“两新”党建论坛；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0c8268c78e9dff28",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-b81579fc265ef684"
+            ],
+            "draft_excerpt": "联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-de914488b1946d57",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同两江新区自贸办联合刊印《自贸要情》2期，与重庆自贸区法院签订合作协议，推进川渝两地自贸区法院合作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-07da876f34f79241",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e9deca68a1eb79d"
+            ],
+            "draft_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1500d17b3f0e3a79",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e9deca68a1eb79d"
+            ],
+            "draft_excerpt": "获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5dcf18ab988ea31b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "以原攀枝花市商业银行、原凉山州商业银行为基础，采用新设合并的方式成立四川银行；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fd93001ea57f6398",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b80659ce5e842456",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-34851e8398528ad6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d76be04d6755c20f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e54970222da548a1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "先后走访成都平原经济区的乐山、遂宁市，川南经济区自贡、泸州、宜宾市，川东北经济区南充、达州、巴中市，攀西经济区攀枝花市、凉山州，积极开展对话。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6028286c0e7b53d7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "先后与广元市、内江市、泸州市、自贡市、南充市、宜宾三江新区、成都东部新区、新疆第一师阿拉尔市、雅安市、广安市等签订战略合作协议。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-666c9651c1b56f5c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "积极推动与贵安新区、五象新区、西咸新区由互访交流转向深度战略合作。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6112d17968510f72",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "深化与港澳台地区合作，有序推进蓉港青年创新创业梦工场、川港设计创意产业园、川港合作示范园等开放合作项目建设。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b7a371e8d5e850e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "下一步，成都天府新区应加强规划文件指引，继续深化与天府新区眉山片区的协作联动，开展实质性、项目化合作，切实推动成都都市圈发展；",
+            "finding": "sentence-2168d4a21b235424"
+          },
+          {
+            "draft_excerpt": "积极对接清华大学城市品牌研究室，尽快形成天府文创城品牌营城研究成果，加快新区文创产业发展；",
+            "finding": "sentence-c204bdbdd5ccb9eb"
+          },
+          {
+            "draft_excerpt": "发挥辐射引领作用，探索“五区协同”新范式，推动区域协同创新发展效能最大化；",
+            "finding": "sentence-69ad045c393f404a"
+          },
+          {
+            "draft_excerpt": "扩大新区联动幅度，积极申报天府综合保税区，加快自贸试验改革，加快打造内陆开放门户；",
+            "finding": "sentence-792c352ce5c5615e"
+          },
+          {
+            "draft_excerpt": "联合共建成渝科技资源开放共享平台，推动天府两江合作走深走实。",
+            "finding": "sentence-07e79addd4673871"
+          },
+          {
+            "draft_excerpt": "共同筹办第一、二届公园城市“两新”党建论坛；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "同两江新区自贸办联合刊印《自贸要情》2期，与重庆自贸区法院签订合作协议，推进川渝两地自贸区法院合作。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "以原攀枝花市商业银行、原凉山州商业银行为基础，采用新设合并的方式成立四川银行；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "先后走访成都平原经济区的乐山、遂宁市，川南经济区自贡、泸州、宜宾市，川东北经济区南充、达州、巴中市，攀西经济区攀枝花市、凉山州，积极开展对话。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "先后与广元市、内江市、泸州市、自贡市、南充市、宜宾三江新区、成都东部新区、新疆第一师阿拉尔市、雅安市、广安市等签订战略合作协议。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "积极推动与贵安新区、五象新区、西咸新区由互访交流转向深度战略合作。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "深化与港澳台地区合作，有序推进蓉港青年创新创业梦工场、川港设计创意产业园、川港合作示范园等开放合作项目建设。",
+            "finding": "unsupported_claims"
+          },
+          {
+            "draft_excerpt": "《自贸要情》",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "b5eda618778b0c8850ef6d8972439716012ee3a92c327f27cecd6a7a02122f35",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b90c5863f70b3a32",
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the core judgment claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d855b851c4dc9d5f",
+            "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the headquarters base claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9423b4c854227883",
+            "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the office space claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7b3e912ac8843db",
+            "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the Chengmei integration plan claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e76177dbea65cf75",
+            "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the pipeline agreement claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b81579fc265ef684",
+            "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the inland opening office claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-74f831309ab6236a",
+            "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e9deca68a1eb79d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b90c5863f70b3a32"
+            ],
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+            "finding": "Summary sentence supported by the core judgment claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f5a3d01c28e40faa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b90c5863f70b3a32"
+            ],
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+            "finding": "Directly supports the core judgment claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55cd6fa9f12dfd15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d855b851c4dc9d5f"
+            ],
+            "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+            "finding": "Directly supports the headquarters base claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37291eadfc52059b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9423b4c854227883"
+            ],
+            "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+            "finding": "Directly supports the office space claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70452741c7e6afda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7b3e912ac8843db"
+            ],
+            "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+            "finding": "Directly supports the Chengmei integration plan claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-357e80d08e60ee17",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7b3e912ac8843db"
+            ],
+            "draft_excerpt": "协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+            "finding": "Directly supports the project collection claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-33c06205ff9d3f45",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e76177dbea65cf75"
+            ],
+            "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+            "finding": "Directly supports the pipeline agreement claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49996a07334ce605",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b81579fc265ef684"
+            ],
+            "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+            "finding": "Directly supports the inland opening office claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5127f427ce84a9d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b81579fc265ef684"
+            ],
+            "draft_excerpt": "联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+            "finding": "Directly supports the think tank alliance claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36f505f952a143e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e9deca68a1eb79d"
+            ],
+            "draft_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。",
+            "finding": "Directly supports the FTZ reform claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-208a1a6f3015d5a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e9deca68a1eb79d"
+            ],
+            "draft_excerpt": "获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+            "finding": "Directly supports the FTZ reform claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-674ffed68f779780",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。",
+            "finding": "Directly supports the fund town claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49866e5cb9cfaa0b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c481c6e0c2055f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56b2554096f3c371",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8672e0281d05e1c3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "b5eda618778b0c8850ef6d8972439716012ee3a92c327f27cecd6a7a02122f35",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-b90c5863f70b3a32",
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the core judgment claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d855b851c4dc9d5f",
+            "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the headquarters base claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9423b4c854227883",
+            "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the office space claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b7b3e912ac8843db",
+            "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the Chengmei integration plan claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e76177dbea65cf75",
+            "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the pipeline agreement claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b81579fc265ef684",
+            "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+            "finding": "Draft sentence matches the evidence excerpt exactly, covering the inland opening office claim.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-74f831309ab6236a",
+            "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3e9deca68a1eb79d",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-b90c5863f70b3a32"
+            ],
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+            "finding": "Summary sentence supported by the core judgment claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f5a3d01c28e40faa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b90c5863f70b3a32"
+            ],
+            "draft_excerpt": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+            "finding": "Directly supports the core judgment claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55cd6fa9f12dfd15",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d855b851c4dc9d5f"
+            ],
+            "draft_excerpt": "探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+            "finding": "Directly supports the headquarters base claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37291eadfc52059b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9423b4c854227883"
+            ],
+            "draft_excerpt": "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+            "finding": "Directly supports the office space claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-70452741c7e6afda",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7b3e912ac8843db"
+            ],
+            "draft_excerpt": "先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。",
+            "finding": "Directly supports the Chengmei integration plan claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-357e80d08e60ee17",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b7b3e912ac8843db"
+            ],
+            "draft_excerpt": "协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+            "finding": "Directly supports the project collection claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-33c06205ff9d3f45",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e76177dbea65cf75"
+            ],
+            "draft_excerpt": "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+            "finding": "Directly supports the pipeline agreement claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49996a07334ce605",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b81579fc265ef684"
+            ],
+            "draft_excerpt": "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。",
+            "finding": "Directly supports the inland opening office claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5127f427ce84a9d9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b81579fc265ef684"
+            ],
+            "draft_excerpt": "联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+            "finding": "Directly supports the think tank alliance claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-36f505f952a143e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e9deca68a1eb79d"
+            ],
+            "draft_excerpt": "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。",
+            "finding": "Directly supports the FTZ reform claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-208a1a6f3015d5a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3e9deca68a1eb79d"
+            ],
+            "draft_excerpt": "获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+            "finding": "Directly supports the FTZ reform claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-674ffed68f779780",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "发挥天府国际基金小镇作用，管理基金5500多亿。",
+            "finding": "Directly supports the fund town claim.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-49866e5cb9cfaa0b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c481c6e0c2055f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-56b2554096f3c371",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-74f831309ab6236a"
+            ],
+            "draft_excerpt": "签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8672e0281d05e1c3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。\n\n## 总部基地与成眉同城化\n\n探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。\n\n- 先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。\n- 协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。\n- 梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。\n\n## 成渝双城经济圈与自贸改革\n\n天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。\n\n- 发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。\n- 获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。\n\n## 金融文创与区域合作\n\n发挥天府国际基金小镇作用，管理基金5500多亿。\n\n- 积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》。\n- 签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议。\n- 签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。",
+    "description": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-18f99ee27c25",
+      "description": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，在总部基地、成眉同城化、自贸改革及产业合作等方面取得显著成绩。",
+      "document_family_id": "28e2a49e271094505210",
+      "document_version_id": "24023fd3da9de6ac6517",
+      "evidence": [
+        "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。",
+        "一是推动市（州）共建总部基地。探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。",
+        "主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。",
+        "二是深化成眉同城化发展。先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。",
+        "梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。",
+        "天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。共同筹办第一、二届公园城市“两新”党建论坛；联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。",
+        "发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。",
+        "发挥天府国际基金小镇作用，管理基金5500多亿。积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》；签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议；签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。"
+      ],
+      "evidence_block_ids": [
+        "blk-135f2d6c89514ff44c54",
+        "blk-ce472b75e44e466b99eb",
+        "blk-ec581af3b867c7ebad31",
+        "blk-b3dbeff6f4b2fecfaf14",
+        "blk-9cb63559e333f21498dd",
+        "blk-169ab3e18a1c79fa81e3"
+      ],
+      "page_end": 98,
+      "page_start": 97,
+      "ref_family_hint": "",
+      "ref_version_id": "24023fd3da9de6ac6517",
+      "scope": {},
+      "section_path": [
+        "区（市）县篇",
+        "一、四川天府新区"
+      ],
+      "semantic_signature": {},
+      "source": "c4fa936d-bb21-4b09-931b-345720909d3a.md",
+      "title": "四川天府新区区域协同发展工作",
+      "type": "分析框架"
+    },
+    "title": "四川天府新区区域协同发展工作"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-970854dc3ca8:bundle-2d609cd9d887",
+      "excluded_fragments": [],
+      "ref_id": "ref-970854dc3ca8",
+      "source_blocks": [
+        {
+          "block_id": "blk-135f2d6c89514ff44c54",
+          "page_number": 97,
+          "text": "2020年以来，四川天府新区抢抓成渝地区双城经济圈建设机遇，积极作为内外联动，聚焦推动市（州）共建总部基地、深化成眉同城化发展、加大自贸试验改革力度、加强文创与金融产业合作、积极推动与市（州）合作等工作，区域协同发展工作取得了显著的成绩。"
+        },
+        {
+          "block_id": "blk-ce472b75e44e466b99eb",
+          "page_number": 97,
+          "text": "一是推动市（州）共建总部基地。探索“总部在成都、基地在市州”的产业联动模式，整体打造天府国际商务中心，用于四川区域协同总部基地建设。主动解决省同城办公场地以及装修经费问题，将建筑面积2500余平米的成都科学城凉风顶规划厅作为省同城办办公场地，已于7月完成移交使用。"
+        },
+        {
+          "block_id": "blk-ec581af3b867c7ebad31",
+          "page_number": 97,
+          "text": "二是深化成眉同城化发展。先后召开2次四川天府新区成眉片区一体化发展联席会议，发布《四川天府新区成都直管区——四川天府新区眉山片区交界地带融合发展实施方案》。协同相关区县研究成眉高新技术产业带规划编制，累计收集报送成眉高新技术产业带182个项目。梓州大道南延线和益州大道南延线路段地下综合管廊建设加速推进，与天府新区眉山管委会签订梓州大道南延线东南线接线点协议。"
+        },
+        {
+          "block_id": "blk-b3dbeff6f4b2fecfaf14",
+          "page_number": 97,
+          "text": "三是融入成渝地区双城经济圈建设。天府新区、两江新区召开了2次共同打造内陆开放门户党政联席会议，签订了合作协议书，双方成立打造内陆开放门户，助力成渝地区双城经济圈建设办公室，形成多层级合作机制。共同筹办第一、二届公园城市“两新”党建论坛；联合举办“首届成渝地区双城经济圈建设发展论坛”，并成立成渝地区双城经济圈智库联盟。"
+        },
+        {
+          "block_id": "blk-9cb63559e333f21498dd",
+          "page_number": 98,
+          "text": "四是加大自贸试验改革力度。同两江新区自贸办联合刊印《自贸要情》2期，与重庆自贸区法院签订合作协议，推进川渝两地自贸区法院合作。发挥自贸试验区“试验田”作用，完成自贸试验区创新改革任务113项，梳理形成20个创新案例。获批全省电子证照、电子印章应用试点区域，涉企服务事项办理效率有效提升。"
+        },
+        {
+          "block_id": "blk-169ab3e18a1c79fa81e3",
+          "page_number": 98,
+          "text": "五是加强金融与文创产业合作。以原攀枝花市商业银行、原凉山州商业银行为基础，采用新设合并的方式成立四川银行；发挥天府国际基金小镇作用，管理基金5500多亿。积极推动中意文化创意产业园建设，制定《中意文化创意产业园建设实施方案（2020-2023年）》；签约落地天府影都一期项目、锐丰科技项目等11个文创项目投资服务协议；签订蓝顶创意项目、中青旅文旅智谷等5个战略合作协议。"
+        },
+        {
+          "block_id": "blk-64ff6f979077eb29e35e",
+          "page_number": 98,
+          "text": "六是积极推动与市州合作。先后走访成都平原经济区的乐山、遂宁市，川南经济区自贡、泸州、宜宾市，川东北经济区南充、达州、巴中市，攀西经济区攀枝花市、凉山州，积极开展对话。先后与广元市、内江市、泸州市、自贡市、南充市、宜宾三江新区、成都东部新区、新疆第一师阿拉尔市、雅安市、广安市等签订战略合作协议。"
+        },
+        {
+          "block_id": "blk-8cc83d927cf6d714a154",
+          "page_number": 98,
+          "text": "七是推动与国内省外重点城市深化合作。积极推动与贵安新区、五象新区、西咸新区由互访交流转向深度战略合作。深化与港澳台地区合作，有序推进蓉港青年创新创业梦工场、川港设计创意产业园、川港合作示范园等开放合作项目建设。"
+        },
+        {
+          "block_id": "blk-4e80d077fdb95882c234",
+          "page_number": 98,
+          "text": "下一步，成都天府新区应加强规划文件指引，继续深化与天府新区眉山片区的协作联动，开展实质性、项目化合作，切实推动成都都市圈发展；积极对接清华大学城市品牌研究室，尽快形成天府文创城品牌营城研究成果，加快新区文创产业发展；发挥辐射引领作用，探索“五区协同”新范式，推动区域协同创新发展效能最大化；扩大新区联动幅度，积极申报天府综合保税区，加快自贸试验改革，加快打造内陆开放门户；联合共建成渝科技资源开放共享平台，推动天府两江合作走深走实。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-18f99ee27c25",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-970854dc3ca8"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

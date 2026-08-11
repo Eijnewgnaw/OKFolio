@@ -1,0 +1,83 @@
+{
+  "configuration": {
+    "allow_partial": false,
+    "client": {
+      "routing": "schema_stage",
+      "stages": {
+        "compile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "contract": {
+          "enable_thinking": true,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "coverage": {
+          "enable_thinking": false,
+          "max_tokens": 16384,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "recompile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        }
+      }
+    },
+    "known_source_anomalies": [
+      "见色号"
+    ],
+    "max_recompile_attempts": 2,
+    "prompt_sha256": {
+      "compile": "22444bca30d4e66a3f9a0334ba4fa9163e212cf8bc8fc63ae76e968dafd8eabb",
+      "contract": "9893eb67810130fc4d73b6e378b1b02a556fadc5b1f801f47d7e5e95f2846f76",
+      "coverage": "53ed005bbcd8aaa0fcb2642424e3c9ec20ed85774dbc66b3c1c74f3c4c7cb5b5",
+      "recompile": "112224824684d5d9ee9f4b5233e4a188718a5c22ff58cc8e089704fd3e4b8292"
+    },
+    "seed": {
+      "checkpoint_sha256": {
+        "evidence-0dc054af8da0": "e960dcd2fc3df81717ed7b77741d4900432b19d192f154ad83e0cc20ef996253",
+        "evidence-f4b917d5cc03": "f27f6b5d172792636280a9a478119725a302d73ad13e2771e509fcf00833a56b",
+        "proposition-0479c96775ac": "137bf5f09de446f9481242f46fff4b7323c941ddd253138476c33edf4cdb5213",
+        "proposition-119678b32d8f": "873dad2c9a4fc149e271521ac0b239ba6e7adf8bd77dc9426bb0280026ed83ba",
+        "proposition-1e74b5b9b331": "e94f1489e113a60abb3a20ba0007e1a8eba9839e2b83127494afa0ce989d2ee2",
+        "proposition-4c19f8848dea": "b6276846ed8d542aa665800960e3849f421bf60393f812efaa0b7e42bfd7f96c",
+        "proposition-577b3ef646bd": "60b277dd937436b1862b8945d91dcc49d15435691fb6d66149f5630876c296cb",
+        "topic-66d93b99f07b": "23f86d88f57fd77ff0086810b2ab04aa78b721945e6a0ed8ea5c969060a419d8"
+      },
+      "run_name": "public10-claim-review-formal-qwen36-v2-20260810",
+      "skipped_checkpoints": {
+        "proposition-074dc85e74c6": "seed checkpoint must contain Contract, Draft and Coverage",
+        "proposition-18e797566a6f": "seed checkpoint must be a passed complete group or stop at a deterministic recompile decision",
+        "proposition-27377a4b257b": "seed checkpoint must be a passed complete group or stop at a deterministic recompile decision",
+        "proposition-409d61df4f02": "seed checkpoint must be a passed complete group or stop at a deterministic recompile decision",
+        "proposition-4137bc2a9114": "seed checkpoint must be a passed complete group or stop at a deterministic recompile decision",
+        "proposition-4d3f52db9752": "seed checkpoint must be a passed complete group or stop at a deterministic recompile decision"
+      },
+      "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7"
+    },
+    "selected_group_ids": []
+  },
+  "schema": "okfolio.claim-review-run.v1",
+  "source_run_name": "public10-local-qwen36-semantic-v2-20260809",
+  "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7",
+  "status": "partial",
+  "summary": {
+    "accepted": 8,
+    "completed": 8,
+    "groups": 332,
+    "recompiles": 10,
+    "reviews": 324,
+    "withheld": 324
+  }
+}

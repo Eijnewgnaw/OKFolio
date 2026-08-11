@@ -1,0 +1,954 @@
+{
+  "contract": {
+    "canonical_question": "成都在基础设施共建方面的合作对象、合作区域及主要合作领域有哪些？",
+    "claims": [
+      {
+        "claim": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+        "claim_id": "claim-c27583903b76d359",
+        "evidence_block_ids": [
+          "blk-363e399f1fae62a88085"
+        ],
+        "evidence_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+        "claim_id": "claim-e4ce822d575682f6",
+        "evidence_block_ids": [
+          "blk-363e399f1fae62a88085"
+        ],
+        "evidence_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+        "claim_id": "claim-ee47e76292d3bf6d",
+        "evidence_block_ids": [
+          "blk-363e399f1fae62a88085"
+        ],
+        "evidence_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+        "claim_id": "claim-ade6bd54cd931345",
+        "evidence_block_ids": [
+          "blk-363e399f1fae62a88085"
+        ],
+        "evidence_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {
+          "time": [
+            "2019年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都基础设施合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+        "claim_id": "claim-0367b7d952659e7a",
+        "evidence_block_ids": [
+          "blk-363e399f1fae62a88085"
+        ],
+        "evidence_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+        "claim_id": "claim-51556fd1b3458bcd",
+        "evidence_block_ids": [
+          "blk-ae3464ead63818a9bac3",
+          "blk-bb8390c8c762cbc40d43"
+        ],
+        "evidence_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+        "claim_id": "claim-55c55ff8660b568d",
+        "evidence_block_ids": [
+          "blk-bb8390c8c762cbc40d43"
+        ],
+        "evidence_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+        "claim_id": "claim-e8ad209fe730ef9e",
+        "evidence_block_ids": [
+          "blk-bb8390c8c762cbc40d43"
+        ],
+        "evidence_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          39
+        ],
+        "ref_id": "ref-36a134bd7329",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-c27583903b76d359",
+          "claim-e4ce822d575682f6",
+          "claim-ee47e76292d3bf6d",
+          "claim-ade6bd54cd931345",
+          "claim-0367b7d952659e7a",
+          "claim-51556fd1b3458bcd",
+          "claim-55c55ff8660b568d",
+          "claim-e8ad209fe730ef9e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+        "reason": "该Bundle包含回答分析框架核心槽位（subject, scope, problem, cause, impact）所需的全部事实，包括合作对象、区域、领域及具体合作内容。"
+      }
+    ],
+    "group_id": "topic-847b6f337f4a",
+    "members": [
+      {
+        "contribution": "该证据详细列出了成都基础设施共建的省内（环成都经济圈、川南/东北/攀西经济区）和国内（成渝、京津冀、长三角等）合作对象，以及交通、水利、能源、信息等合作领域和形式。",
+        "ref_id": "ref-36a134bd7329",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-c27583903b76d359",
+        "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ade6bd54cd931345",
+        "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0367b7d952659e7a",
+        "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-51556fd1b3458bcd",
+        "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e4ce822d575682f6",
+        "draft_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ee47e76292d3bf6d",
+        "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-55c55ff8660b568d",
+        "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e8ad209fe730ef9e",
+        "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-c27583903b76d359",
+          "claim-51556fd1b3458bcd",
+          "claim-0367b7d952659e7a"
+        ],
+        "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市，合作领域以交通共建为主题，辐射成渝双城经济圈及京津冀、长三角等地区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3daebb26b8e8627d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c27583903b76d359"
+        ],
+        "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-73e9c6f045880df5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ade6bd54cd931345"
+        ],
+        "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-874af9cb15b6ba83",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0367b7d952659e7a"
+        ],
+        "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e1bb5af406235dd2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-51556fd1b3458bcd"
+        ],
+        "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e93199d31390b7bf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e4ce822d575682f6"
+        ],
+        "draft_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6dd71be4bd4dc335",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ee47e76292d3bf6d"
+        ],
+        "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-76b1dc919c811b7c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-55c55ff8660b568d"
+        ],
+        "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f790a99412a46852",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e8ad209fe730ef9e"
+        ],
+        "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6e907f173c3e2796",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-c27583903b76d359",
+          "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ade6bd54cd931345",
+          "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0367b7d952659e7a",
+          "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-51556fd1b3458bcd",
+          "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e4ce822d575682f6",
+          "draft_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ee47e76292d3bf6d",
+          "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-55c55ff8660b568d",
+          "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e8ad209fe730ef9e",
+          "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-c27583903b76d359",
+            "claim-51556fd1b3458bcd",
+            "claim-0367b7d952659e7a"
+          ],
+          "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市，合作领域以交通共建为主题，辐射成渝双城经济圈及京津冀、长三角等地区。",
+          "finding": "supported",
+          "sentence_id": "sentence-3daebb26b8e8627d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c27583903b76d359"
+          ],
+          "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+          "finding": "supported",
+          "sentence_id": "sentence-73e9c6f045880df5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ade6bd54cd931345"
+          ],
+          "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+          "finding": "supported",
+          "sentence_id": "sentence-874af9cb15b6ba83",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0367b7d952659e7a"
+          ],
+          "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+          "finding": "supported",
+          "sentence_id": "sentence-e1bb5af406235dd2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-51556fd1b3458bcd"
+          ],
+          "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+          "finding": "supported",
+          "sentence_id": "sentence-e93199d31390b7bf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e4ce822d575682f6"
+          ],
+          "draft_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+          "finding": "supported",
+          "sentence_id": "sentence-6dd71be4bd4dc335",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ee47e76292d3bf6d"
+          ],
+          "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-76b1dc919c811b7c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-55c55ff8660b568d"
+          ],
+          "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-f790a99412a46852",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e8ad209fe730ef9e"
+          ],
+          "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+          "finding": "supported",
+          "sentence_id": "sentence-6e907f173c3e2796",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "0a86d931444b9084135c9a1db4d11034c93edcabaf950cd934b6627db466148c",
+  "coverage_history": [
+    {
+      "draft_sha256": "54047aafac118448500267b2cd685bef32a4521354341e12a920bf9cc0b17e55",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-c27583903b76d359",
+            "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ade6bd54cd931345",
+            "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0367b7d952659e7a",
+            "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e4ce822d575682f6",
+            "draft_excerpt": "省内合作方面，2019年成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ee47e76292d3bf6d",
+            "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-51556fd1b3458bcd",
+            "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-55c55ff8660b568d",
+            "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e8ad209fe730ef9e",
+            "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都基础设施共建合作以交通为核心，涵盖省内市州与中西部经济中心城市，辐射成渝双城经济圈及京津冀、长三角等区域。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad501badc002bb15",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-c27583903b76d359"
+            ],
+            "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73e9c6f045880df5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ade6bd54cd931345"
+            ],
+            "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-874af9cb15b6ba83",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0367b7d952659e7a"
+            ],
+            "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e1bb5af406235dd2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e4ce822d575682f6"
+            ],
+            "draft_excerpt": "省内合作方面，2019年成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d767103d1b0cd75",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ee47e76292d3bf6d"
+            ],
+            "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e6cedde7f872a455",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-51556fd1b3458bcd"
+            ],
+            "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-343f2e430cc0c6f7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-55c55ff8660b568d"
+            ],
+            "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f790a99412a46852",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e8ad209fe730ef9e"
+            ],
+            "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6e907f173c3e2796",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "成都基础设施共建合作以交通为核心，涵盖省内市州与中西部经济中心城市，辐射成渝双城经济圈及京津冀、长三角等区域。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "0a86d931444b9084135c9a1db4d11034c93edcabaf950cd934b6627db466148c",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-c27583903b76d359",
+            "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ade6bd54cd931345",
+            "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0367b7d952659e7a",
+            "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-51556fd1b3458bcd",
+            "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e4ce822d575682f6",
+            "draft_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ee47e76292d3bf6d",
+            "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-55c55ff8660b568d",
+            "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e8ad209fe730ef9e",
+            "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-c27583903b76d359",
+              "claim-51556fd1b3458bcd",
+              "claim-0367b7d952659e7a"
+            ],
+            "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市，合作领域以交通共建为主题，辐射成渝双城经济圈及京津冀、长三角等地区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3daebb26b8e8627d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c27583903b76d359"
+            ],
+            "draft_excerpt": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-73e9c6f045880df5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ade6bd54cd931345"
+            ],
+            "draft_excerpt": "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-874af9cb15b6ba83",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0367b7d952659e7a"
+            ],
+            "draft_excerpt": "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e1bb5af406235dd2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-51556fd1b3458bcd"
+            ],
+            "draft_excerpt": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e93199d31390b7bf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e4ce822d575682f6"
+            ],
+            "draft_excerpt": "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6dd71be4bd4dc335",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ee47e76292d3bf6d"
+            ],
+            "draft_excerpt": "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-76b1dc919c811b7c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-55c55ff8660b568d"
+            ],
+            "draft_excerpt": "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f790a99412a46852",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e8ad209fe730ef9e"
+            ],
+            "draft_excerpt": "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6e907f173c3e2796",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主。合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。\n\n- 2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化。\n- 此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。\n- 就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作。\n- 国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。",
+    "description": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市，合作领域以交通共建为主题，辐射成渝双城经济圈及京津冀、长三角等地区。",
+    "ref": {
+      "asset_hints": [
+        "image-111",
+        "image-112",
+        "image-113"
+      ],
+      "concept_id": "topic-847b6f337f4a",
+      "description": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。",
+        "2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化",
+        "此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。",
+        "2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主",
+        "合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。",
+        "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共建共享，其中，交通共建是基础设施建设合作的主题。",
+        "就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作",
+        "国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。"
+      ],
+      "evidence_block_ids": [
+        "blk-363e399f1fae62a88085",
+        "blk-ae3464ead63818a9bac3",
+        "blk-bb8390c8c762cbc40d43"
+      ],
+      "page_end": 76,
+      "page_start": 39,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "第一节 总体情况",
+      "type": "分析框架"
+    },
+    "title": "成都基础设施共建合作格局与领域"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-36a134bd7329:bundle-88a01b27d2f9",
+      "excluded_fragments": [],
+      "ref_id": "ref-36a134bd7329",
+      "source_blocks": [
+        {
+          "block_id": "blk-cc50a67ff58dd9698bb6",
+          "page_number": 39,
+          "text": "原始 PDF 第 39 页图片"
+        },
+        {
+          "block_id": "blk-b50aadfd0269c20f75fb",
+          "page_number": 39,
+          "text": "原始 PDF 第 39 页图片"
+        },
+        {
+          "block_id": "blk-efb5fdef7ca03ea96adb",
+          "page_number": 39,
+          "text": "原始 PDF 第 39 页图片"
+        },
+        {
+          "block_id": "blk-ac42e44c633d4777ed71",
+          "page_number": 39,
+          "text": "原始 PDF 第 39 页图片"
+        },
+        {
+          "block_id": "blk-e81011700ba3a08fa687",
+          "page_number": 39,
+          "text": "原始 PDF 第 39 页图片"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-363e399f1fae62a88085",
+          "page_number": 39,
+          "text": "成都在基础设施共建方面的合作对象主要包括省内市（州）和中西部城市。从省内层面来看，成都与省内市（州）均有不同程度的基础设施建设合作，主要合作区域为环成都经济圈，2019年，成都与德阳、眉山、资阳、绵阳、乐山、遂宁、雅安在交通、水利、能源、信息等基础设施领域的合作进一步深化；此外，成都与自贡、泸州、宜宾、南充、达州、攀枝花、西昌等川南经济区、川东北经济区和攀西经济区部分市（州）在交通基础设施领域也有密切合作。从国内层面来看，2019年，成都开展基础设施建设合作对象主要以重庆、贵阳、昆明、西安、西宁、防城港、武汉、郑州、石家庄、上海等经济中心城市为主，合作范围辐射至成渝双城经济圈、北部湾经济区、京津冀、长三角地区。"
+        },
+        {
+          "block_id": "blk-ae3464ead63818a9bac3",
+          "page_number": 39,
+          "text": "成都与其他地区基础设施合作领域主要涉及交通、水利、能源、信息等基础设施共"
+        },
+        {
+          "block_id": "blk-bb8390c8c762cbc40d43",
+          "page_number": 39,
+          "text": "建共享，其中，交通共建是基础设施建设合作的主题。就省内合作而言，成都与环成都经济圈的合作主要集中在交通共建领域，着重强化交通同城化一体化布局、城际铁路公交化运营、城际快速通道体系建设、高速公路建设、地空无缝对接等方面的合作，进一步密切与环成都经济圈在水利、能源、信息等基础设施共建领域的合作；与川南经济区的合作主要集中在南向出川通道共建方面，同时，进一步强化在多式联运通道建设、高速公路建设、铁路建设等方面的合作；与川东北经济区的合作主要集中在航空、铁路、高速公路等北向出川通道建设方面；与川西北生态示范区和攀西经济区的合作主要集中在高速公路扩容改造、航班加密、高铁建设等方面。国内层面，成都与国内其他区域的合作主要以出川通道干线铁路建设、加密成都至国内中心城市的航线，提升航空港客货运集散能力、建设“公水、公铁、公铁空”多式联运物流通道等领域。"
+        },
+        {
+          "block_id": "blk-37ed8679bd8b210bafc8",
+          "page_number": 39,
+          "text": "成都与其他地区开展基础设施共建的合作形式主要包括政府间签订合作共建协议、"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-847b6f337f4a",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-36a134bd7329"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

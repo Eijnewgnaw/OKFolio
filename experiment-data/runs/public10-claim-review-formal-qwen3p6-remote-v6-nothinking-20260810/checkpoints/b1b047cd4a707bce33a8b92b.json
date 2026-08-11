@@ -1,0 +1,939 @@
+{
+  "contract": {
+    "canonical_question": "成都市在2017-2019年期间通过哪些具体策略承接加工贸易转移，并实施了哪些产业互动与转移实践？",
+    "claims": [
+      {
+        "claim": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移。",
+        "claim_id": "claim-52cac3c45f4ea8a2",
+        "evidence_block_ids": [
+          "blk-563aae7f8104a62c28b9"
+        ],
+        "evidence_excerpt": "根据我市产业实际，围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向我市转移。",
+        "claim_id": "claim-9272f2cadddc70c9",
+        "evidence_block_ids": [
+          "blk-563aae7f8104a62c28b9"
+        ],
+        "evidence_excerpt": "重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向我市转移",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市强化成都高新区、成都经开区产业园区载体作用，着力吸引先进制造业和新兴产业企业落地。",
+        "claim_id": "claim-7b0c2faefae79a81",
+        "evidence_block_ids": [
+          "blk-23da025b192fc247cd65"
+        ],
+        "evidence_excerpt": "强化成都高新区、成都经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {
+          "region": [
+            "成都高新区",
+            "成都经开区"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+        "claim_id": "claim-523f4d71f11486a8",
+        "evidence_block_ids": [
+          "blk-23da025b192fc247cd65"
+        ],
+        "evidence_excerpt": "支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业。",
+        "claim_id": "claim-9006d69514da2342",
+        "evidence_block_ids": [
+          "blk-23da025b192fc247cd65"
+        ],
+        "evidence_excerpt": "持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {
+          "object": [
+            "纺织服装",
+            "鞋类",
+            "家居家具",
+            "塑料制品"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务。",
+        "claim_id": "claim-45052f863b0dd9e5",
+        "evidence_block_ids": [
+          "blk-b3292b08e2834f3e9462"
+        ],
+        "evidence_excerpt": "引导企业在同等条件下提高成都本地产品采购率。鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市培育50家符合我市产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+        "claim_id": "claim-b583403f599e34b3",
+        "evidence_block_ids": [
+          "blk-a3b4ced6a6c6bf4a87c5"
+        ],
+        "evidence_excerpt": "培育50家符合我市产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          178
+        ],
+        "ref_id": "ref-5df1aa2ed41c",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移。",
+        "claim_id": "claim-2dfb91bf20199a52",
+        "evidence_block_ids": [
+          "blk-f098f7cdfa777b428d59"
+        ],
+        "evidence_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移",
+        "evidence_id": "ref-95b59462c342:bundle-d62a968c34f6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-95b59462c342",
+        "scope": {
+          "region": "资阳安岳县"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资。",
+        "claim_id": "claim-575871329fcf7c5b",
+        "evidence_block_ids": [
+          "blk-f098f7cdfa777b428d59"
+        ],
+        "evidence_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资",
+        "evidence_id": "ref-95b59462c342:bundle-d62a968c34f6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-95b59462c342",
+        "scope": {
+          "region": "绵阳三台县"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济。",
+        "claim_id": "claim-eca1dd66cb21b45b",
+        "evidence_block_ids": [
+          "blk-f098f7cdfa777b428d59"
+        ],
+        "evidence_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济",
+        "evidence_id": "ref-95b59462c342:bundle-d62a968c34f6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-95b59462c342",
+        "scope": {
+          "region": "绵阳三台县"
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+        "claim_id": "claim-0138060759e6962c",
+        "evidence_block_ids": [
+          "blk-48d6fa049f55c59affd1"
+        ],
+        "evidence_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目",
+        "evidence_id": "ref-95b59462c342:bundle-d62a968c34f6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          62
+        ],
+        "ref_id": "ref-95b59462c342",
+        "scope": {
+          "region": [
+            "资阳安岳县",
+            "成都大邑县",
+            "雅安名山区",
+            "广元苍溪县"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-52cac3c45f4ea8a2",
+          "claim-9272f2cadddc70c9",
+          "claim-7b0c2faefae79a81",
+          "claim-523f4d71f11486a8",
+          "claim-9006d69514da2342",
+          "claim-45052f863b0dd9e5",
+          "claim-b583403f599e34b3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+        "reason": "该证据包含承接加工贸易转移的核心策略、产业集聚区布局优化及产业链拓展措施，直接回答中心问题中关于“如何承接”及“集群发展”的义务。"
+      },
+      {
+        "claim_ids": [
+          "claim-2dfb91bf20199a52",
+          "claim-575871329fcf7c5b",
+          "claim-eca1dd66cb21b45b",
+          "claim-0138060759e6962c"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-95b59462c342:bundle-d62a968c34f6",
+        "reason": "该证据包含资阳安岳制鞋基地、绵阳织造产业园及飞地经济等具体产业转移与合作案例，直接回答中心问题中关于“产业转移实践”的义务。"
+      }
+    ],
+    "group_id": "topic-cbcc2acf497f",
+    "members": [
+      {
+        "contribution": "提供成都市承接加工贸易转移的政策框架，包括引进高技术项目、优化园区布局及拓展产业链的具体措施。",
+        "ref_id": "ref-5df1aa2ed41c",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供成都市主导的具体产业转移实践案例，如在资阳安岳成立制鞋基地、与绵阳合作打造织造产业园及推动飞地经济。",
+        "ref_id": "ref-95b59462c342",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-52cac3c45f4ea8a2",
+        "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9272f2cadddc70c9",
+        "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7b0c2faefae79a81",
+        "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-523f4d71f11486a8",
+        "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9006d69514da2342",
+        "draft_excerpt": "在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-45052f863b0dd9e5",
+        "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b583403f599e34b3",
+        "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2dfb91bf20199a52",
+        "draft_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-575871329fcf7c5b",
+        "draft_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-eca1dd66cb21b45b",
+        "draft_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-0138060759e6962c",
+        "draft_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-52cac3c45f4ea8a2",
+          "claim-2dfb91bf20199a52"
+        ],
+        "draft_excerpt": "成都通过承接国际国内技术与资本密集型加工贸易重大项目，并在资阳安岳县成立制鞋基地实现产业转移。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b209e03cd2d6dc07",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-52cac3c45f4ea8a2",
+          "claim-9272f2cadddc70c9"
+        ],
+        "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8ac9ecec4fda07cc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7b0c2faefae79a81",
+          "claim-9006d69514da2342"
+        ],
+        "draft_excerpt": "在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8dc68febc610cb03",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7b0c2faefae79a81",
+          "claim-523f4d71f11486a8"
+        ],
+        "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7bed5855200d9c8d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-45052f863b0dd9e5",
+          "claim-b583403f599e34b3"
+        ],
+        "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-513cdd120d53a6dc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2dfb91bf20199a52"
+        ],
+        "draft_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dfa841b41869a4c4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-575871329fcf7c5b"
+        ],
+        "draft_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9c180a5d7f85e0cc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eca1dd66cb21b45b"
+        ],
+        "draft_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bcb331e5e7d2f239",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-0138060759e6962c"
+        ],
+        "draft_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3c7993f05027c2b5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-52cac3c45f4ea8a2",
+          "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9272f2cadddc70c9",
+          "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7b0c2faefae79a81",
+          "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-523f4d71f11486a8",
+          "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9006d69514da2342",
+          "draft_excerpt": "在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-45052f863b0dd9e5",
+          "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b583403f599e34b3",
+          "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2dfb91bf20199a52",
+          "draft_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-575871329fcf7c5b",
+          "draft_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-eca1dd66cb21b45b",
+          "draft_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-0138060759e6962c",
+          "draft_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-52cac3c45f4ea8a2",
+            "claim-2dfb91bf20199a52"
+          ],
+          "draft_excerpt": "成都通过承接国际国内技术与资本密集型加工贸易重大项目，并在资阳安岳县成立制鞋基地实现产业转移。",
+          "finding": "supported",
+          "sentence_id": "sentence-b209e03cd2d6dc07",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-52cac3c45f4ea8a2",
+            "claim-9272f2cadddc70c9"
+          ],
+          "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+          "finding": "supported",
+          "sentence_id": "sentence-8ac9ecec4fda07cc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7b0c2faefae79a81",
+            "claim-9006d69514da2342"
+          ],
+          "draft_excerpt": "在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。",
+          "finding": "supported",
+          "sentence_id": "sentence-8dc68febc610cb03",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7b0c2faefae79a81",
+            "claim-523f4d71f11486a8"
+          ],
+          "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-7bed5855200d9c8d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-45052f863b0dd9e5",
+            "claim-b583403f599e34b3"
+          ],
+          "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+          "finding": "supported",
+          "sentence_id": "sentence-513cdd120d53a6dc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2dfb91bf20199a52"
+          ],
+          "draft_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；",
+          "finding": "supported",
+          "sentence_id": "sentence-dfa841b41869a4c4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-575871329fcf7c5b"
+          ],
+          "draft_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；",
+          "finding": "supported",
+          "sentence_id": "sentence-9c180a5d7f85e0cc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eca1dd66cb21b45b"
+          ],
+          "draft_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；",
+          "finding": "supported",
+          "sentence_id": "sentence-bcb331e5e7d2f239",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-0138060759e6962c"
+          ],
+          "draft_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+          "finding": "supported",
+          "sentence_id": "sentence-3c7993f05027c2b5",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "10e3a2a550783b990b93471146927afe8ecd4f3aec6b63ca393a61728de005e1",
+  "coverage_history": [
+    {
+      "draft_sha256": "10e3a2a550783b990b93471146927afe8ecd4f3aec6b63ca393a61728de005e1",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-52cac3c45f4ea8a2",
+            "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9272f2cadddc70c9",
+            "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7b0c2faefae79a81",
+            "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-523f4d71f11486a8",
+            "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9006d69514da2342",
+            "draft_excerpt": "在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-45052f863b0dd9e5",
+            "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b583403f599e34b3",
+            "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2dfb91bf20199a52",
+            "draft_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-575871329fcf7c5b",
+            "draft_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eca1dd66cb21b45b",
+            "draft_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-0138060759e6962c",
+            "draft_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-52cac3c45f4ea8a2",
+              "claim-2dfb91bf20199a52"
+            ],
+            "draft_excerpt": "成都通过承接国际国内技术与资本密集型加工贸易重大项目，并在资阳安岳县成立制鞋基地实现产业转移。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b209e03cd2d6dc07",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-52cac3c45f4ea8a2",
+              "claim-9272f2cadddc70c9"
+            ],
+            "draft_excerpt": "成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ac9ecec4fda07cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b0c2faefae79a81",
+              "claim-9006d69514da2342"
+            ],
+            "draft_excerpt": "在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8dc68febc610cb03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b0c2faefae79a81",
+              "claim-523f4d71f11486a8"
+            ],
+            "draft_excerpt": "成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7bed5855200d9c8d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-45052f863b0dd9e5",
+              "claim-b583403f599e34b3"
+            ],
+            "draft_excerpt": "引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-513cdd120d53a6dc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2dfb91bf20199a52"
+            ],
+            "draft_excerpt": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dfa841b41869a4c4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-575871329fcf7c5b"
+            ],
+            "draft_excerpt": "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9c180a5d7f85e0cc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eca1dd66cb21b45b"
+            ],
+            "draft_excerpt": "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bcb331e5e7d2f239",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-0138060759e6962c"
+            ],
+            "draft_excerpt": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3c7993f05027c2b5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n成都市围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向成都转移。\n\n在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根，同时持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。\n\n## 证据与影响\n\n成都强化高新区、经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，并支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展。\n\n引导企业在同等条件下提高成都本地产品采购率，鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力，并培育50家符合产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。\n\n在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济；武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目。",
+    "description": "成都通过承接国际国内技术与资本密集型加工贸易重大项目，并在资阳安岳县成立制鞋基地实现产业转移。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-cbcc2acf497f",
+      "description": "成都通过承接国际国内技术与资本密集型加工贸易重大项目，并在资阳安岳县成立制鞋基地实现产业转移。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "根据我市产业实际，围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移",
+        "重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向我市转移",
+        "强化成都高新区、成都经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根",
+        "支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展",
+        "持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势",
+        "引导企业在同等条件下提高成都本地产品采购率。鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力",
+        "培育50家符合我市产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业",
+        "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移",
+        "与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资",
+        "与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济",
+        "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目"
+      ],
+      "evidence_block_ids": [
+        "blk-563aae7f8104a62c28b9",
+        "blk-23da025b192fc247cd65",
+        "blk-b3292b08e2834f3e9462",
+        "blk-a3b4ced6a6c6bf4a87c5",
+        "blk-f098f7cdfa777b428d59",
+        "blk-48d6fa049f55c59affd1"
+      ],
+      "page_end": 178,
+      "page_start": 62,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都市加工贸易与制鞋产业转移实践",
+      "type": "分析框架"
+    },
+    "title": "成都市加工贸易与制鞋产业转移实践"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5df1aa2ed41c:bundle-abf230b9c74d",
+      "excluded_fragments": [],
+      "ref_id": "ref-5df1aa2ed41c",
+      "source_blocks": [
+        {
+          "block_id": "blk-563aae7f8104a62c28b9",
+          "page_number": 178,
+          "text": "1.承接加工贸易产业转移。根据我市产业实际，围绕主导产业有针对性地承接国际国内技术与资本密集型加工贸易重大项目转移，重点引进进出口潜力大、技术水平高的企业，促进高端加工贸易向我市转移，推动产业集群发展；支持已落户我市的加工贸易龙头企业发展，促其做大做强，增强对配套产业链企业的吸附能力，鼓励、支持本土企业通过加工贸易方式参与国际分工，融入国际产业链。积极加强与“一带一路”沿线国家的产业合作，增加对外直接投资，带动加工贸易发展。"
+        },
+        {
+          "block_id": "blk-23da025b192fc247cd65",
+          "page_number": 178,
+          "text": "2.优化产业集聚区整体布局。强化成都高新区、成都经开区产业园区载体作用，提高园区公共服务水平，营造良好投资环境，在稳定现有存量企业基础上，着力吸引先进制造业和新兴产业企业落地生根；支持建设国别园区，加快推进中德、中法等国家级合作平台建设发展，促进中国中西部地区产业创新升级，建设国别合作“全面升级版”创新平台，打造中欧合作示范性项目。以先进制造业和产业创新升级为核心，增强加工贸易发展后劲；持续发展纺织服装、鞋类、家居家具、塑料制品等传统劳动密集型加工贸易产业，巩固传统优势。"
+        },
+        {
+          "block_id": "blk-b3292b08e2834f3e9462",
+          "page_number": 178,
+          "text": "3. 拓展加工贸易产业链。引导企业在同等条件下提高成都本地产品采购率。鼓励企业开展深加工结转业务，延续产业链，增强国内配套能力。海关、检验检疫、国税等部门要加强服务指导，为企业深加工结转提供便利。"
+        },
+        {
+          "block_id": "blk-a3b4ced6a6c6bf4a87c5",
+          "page_number": 178,
+          "text": "4.打造示范带动企业。培育50家符合我市产业政策导向、创新发展、转型升级效果明显的加工贸易示范企业。对制造水平提升明显、总部要素集聚、经营管理规范、示范带动作用突出的，给予政策支持及贸易便利化等先行先试措施。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-95b59462c342:bundle-d62a968c34f6",
+      "excluded_fragments": [],
+      "ref_id": "ref-95b59462c342",
+      "source_blocks": [
+        {
+          "block_id": "blk-f098f7cdfa777b428d59",
+          "page_number": 62,
+          "text": "在资阳安岳县成立“中国女鞋之都—安岳制鞋基地”，实现制鞋产业转移；武侯成都新创与内江建工集团成立“内江聚源智谷汇产业园运营管理有限公司，形成“成都-川南”产业互动发展；与绵阳三台县合作打造的“梓州织造产业园建设项目”，获武侯高新公司完成9000万元投资；与武侯高新公司在绵阳三台县成立了绵阳市智谷飞地园区管理有限公司，着力推动飞地经济。"
+        },
+        {
+          "block_id": "blk-56d1e4d5f8d4c6b10f53",
+          "page_number": 62,
+          "text": "向天府新区、成华区、都江堰市、新津县输出龙江路小学品牌，开展线上线下活动100余次；与双流、青白江、新津、简阳建立教育联盟并签订框架协议书，组建“学校发展共同体”20个，惠及学校98所。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-07d8186c1d43349cfd8e",
+          "page_number": 62,
+          "text": "2019年以来，武侯区聚焦推进产业合作共生模式、着力推进教育事业合作、加强与其他地区项目合作，区域合作取得一定成效。"
+        },
+        {
+          "block_id": "blk-48d6fa049f55c59affd1",
+          "page_number": 62,
+          "text": "武侯资本集团与成都大邑县、雅安名山区、广元苍溪县、资阳安岳县等地签订战略合作协议，储备了多个合作项目；支援帮扶甘孜州白玉县河坡民族手工艺旅游街区、阿察帐篷城等文旅项目以及简阳市扶贫项目，有序推动区域帮扶工作。"
+        },
+        {
+          "block_id": "blk-6a6652c67676473b1061",
+          "page_number": 62,
+          "text": "下一步，武侯区应继续对接重庆沙坪坝，积极筹备“武侯沙坪坝合作”，融入成渝地区双城经济圈；大力宣传推广“中国女鞋之都—安岳制鞋基地”，着力推进产业升级；加快建成投产“梓州织造产业园建设”和“飞地园区”项目，巩固合作成果；持续对接合作区县，立足“项目为王”理念，推进储备项目落地开花。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-cbcc2acf497f",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-5df1aa2ed41c",
+    "ref-95b59462c342"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

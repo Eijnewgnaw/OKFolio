@@ -1,0 +1,1175 @@
+{
+  "contract": {
+    "canonical_question": "成都在2016年和2018年分别获批了哪些国家级贸易试点，其在西部地区的地位如何？",
+    "claims": [
+      {
+        "claim": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在成都开展服务贸易创新发展试点。",
+        "claim_id": "claim-9d5a11fe85e6f55a",
+        "evidence_block_ids": [
+          "blk-666d9fc46bd1bb8f7d1a"
+        ],
+        "evidence_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+        "evidence_id": "ref-b270ca22dafe:bundle-5b560c76c56b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          94
+        ],
+        "ref_id": "ref-b270ca22dafe",
+        "scope": {
+          "time": [
+            "2016年2月"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都成为西部唯一入选服务贸易创新发展试点的城市。",
+        "claim_id": "claim-f0994d39c1de28bd",
+        "evidence_block_ids": [
+          "blk-666d9fc46bd1bb8f7d1a"
+        ],
+        "evidence_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+        "evidence_id": "ref-b270ca22dafe:bundle-5b560c76c56b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          94
+        ],
+        "ref_id": "ref-b270ca22dafe",
+        "scope": {
+          "region": [
+            "西部"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都作为试点区域在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试。",
+        "claim_id": "claim-2b8b8c3630ca596d",
+        "evidence_block_ids": [
+          "blk-076de31aa17ecb19042d"
+        ],
+        "evidence_excerpt": "成都作为试点区域在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，将进一步促进成都服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+        "evidence_id": "ref-b270ca22dafe:bundle-5b560c76c56b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          94
+        ],
+        "ref_id": "ref-b270ca22dafe",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都市将以技术贸易、航空保税维修及文化贸易为重点，探索适应服务贸易创新发展的体制机制和政策措施。",
+        "claim_id": "claim-4c82528fa92944bf",
+        "evidence_block_ids": [
+          "blk-076de31aa17ecb19042d"
+        ],
+        "evidence_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+        "evidence_id": "ref-b270ca22dafe:bundle-5b560c76c56b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          94
+        ],
+        "ref_id": "ref-b270ca22dafe",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年9月28日，国家商务部、财政部等七部委联合发布《关于加快推进市场采购贸易方式试点工作的函》，在成都开展全国第四批市场采购贸易方式试点。",
+        "claim_id": "claim-5507b3d13c93630c",
+        "evidence_block_ids": [
+          "blk-14a3a379a488874d37b7"
+        ],
+        "evidence_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+        "evidence_id": "ref-b6ab1be0f797:bundle-83277ac48edb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          117
+        ],
+        "ref_id": "ref-b6ab1be0f797",
+        "scope": {
+          "time": [
+            "2018年9月28日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都成为西部首个且唯一获批市场采购贸易方式试点的城市。",
+        "claim_id": "claim-dc49c6571dc243ad",
+        "evidence_block_ids": [
+          "blk-14a3a379a488874d37b7"
+        ],
+        "evidence_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+        "evidence_id": "ref-b6ab1be0f797:bundle-83277ac48edb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          117
+        ],
+        "ref_id": "ref-b6ab1be0f797",
+        "scope": {
+          "region": [
+            "西部"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩。",
+        "claim_id": "claim-7b2c9bafe6f117ca",
+        "evidence_block_ids": [
+          "blk-57e643407dd89d77f5f0"
+        ],
+        "evidence_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+        "evidence_id": "ref-b6ab1be0f797:bundle-83277ac48edb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          117
+        ],
+        "ref_id": "ref-b6ab1be0f797",
+        "scope": {
+          "region": [
+            "成都市金牛区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都将重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易。",
+        "claim_id": "claim-fdb9de243ab130bd",
+        "evidence_block_ids": [
+          "blk-d7006d8a72c186ecd1ca"
+        ],
+        "evidence_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+        "evidence_id": "ref-b6ab1be0f797:bundle-83277ac48edb",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          118
+        ],
+        "ref_id": "ref-b6ab1be0f797",
+        "scope": {
+          "region": [
+            "南亚",
+            "东南亚"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-9d5a11fe85e6f55a",
+          "claim-f0994d39c1de28bd",
+          "claim-2b8b8c3630ca596d",
+          "claim-4c82528fa92944bf"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-b270ca22dafe:bundle-5b560c76c56b",
+        "reason": "包含2016年服务贸易试点获批时间、主体、西部唯一地位及试点重点方向，是回答中心问题的核心证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-5507b3d13c93630c",
+          "claim-dc49c6571dc243ad",
+          "claim-7b2c9bafe6f117ca",
+          "claim-fdb9de243ab130bd"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-b6ab1be0f797:bundle-83277ac48edb",
+        "reason": "包含2018年市场采购贸易试点获批时间、主体、西部首个且唯一地位及试点核心内容，是回答中心问题的核心证据。"
+      }
+    ],
+    "group_id": "topic-f9987b5212b9",
+    "members": [
+      {
+        "contribution": "提供2016年成都获批服务贸易创新发展试点的事实，明确其西部唯一入选地位及试点核心内容。",
+        "ref_id": "ref-b270ca22dafe",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供2018年成都获批市场采购贸易方式试点的事实，明确其西部首个且唯一获批地位及试点核心内容。",
+        "ref_id": "ref-b6ab1be0f797",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-9d5a11fe85e6f55a",
+        "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f0994d39c1de28bd",
+        "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2b8b8c3630ca596d",
+        "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4c82528fa92944bf",
+        "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5507b3d13c93630c",
+        "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-dc49c6571dc243ad",
+        "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7b2c9bafe6f117ca",
+        "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fdb9de243ab130bd",
+        "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+        "finding": "draft_excerpt matches evidence_excerpt exactly.",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-9d5a11fe85e6f55a",
+          "claim-f0994d39c1de28bd",
+          "claim-5507b3d13c93630c",
+          "claim-dc49c6571dc243ad"
+        ],
+        "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+        "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-da89f008898e4edf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9d5a11fe85e6f55a",
+          "claim-f0994d39c1de28bd",
+          "claim-5507b3d13c93630c",
+          "claim-dc49c6571dc243ad"
+        ],
+        "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+        "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ff7c80e3a4c24b5b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-2b8b8c3630ca596d"
+        ],
+        "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+        "finding": "Matches claim 2b8b8c3630ca596d exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-94507082704fd01a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9d5a11fe85e6f55a",
+          "claim-f0994d39c1de28bd"
+        ],
+        "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+        "finding": "Matches claims 9d5a11fe85e6f55a and f0994d39c1de28bd exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7debc5c5e343d28c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4c82528fa92944bf"
+        ],
+        "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+        "finding": "Matches claim 4c82528fa92944bf exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0fc94aaa81a1afe2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5507b3d13c93630c",
+          "claim-dc49c6571dc243ad"
+        ],
+        "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+        "finding": "Matches claims 5507b3d13c93630c and dc49c6571dc243ad exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1348aab8efb4c88a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7b2c9bafe6f117ca"
+        ],
+        "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+        "finding": "Matches claim 7b2c9bafe6f117ca exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-02ebb4e4911e9473",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fdb9de243ab130bd"
+        ],
+        "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+        "finding": "Matches claim fdb9de243ab130bd exactly.",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3a0dcc6c83fdc13f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2016年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      },
+      {
+        "draft_excerpt": "2018年",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-9d5a11fe85e6f55a",
+          "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f0994d39c1de28bd",
+          "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2b8b8c3630ca596d",
+          "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4c82528fa92944bf",
+          "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5507b3d13c93630c",
+          "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-dc49c6571dc243ad",
+          "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7b2c9bafe6f117ca",
+          "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fdb9de243ab130bd",
+          "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+          "finding": "draft_excerpt matches evidence_excerpt exactly.",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-9d5a11fe85e6f55a",
+            "claim-f0994d39c1de28bd",
+            "claim-5507b3d13c93630c",
+            "claim-dc49c6571dc243ad"
+          ],
+          "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+          "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+          "sentence_id": "sentence-da89f008898e4edf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9d5a11fe85e6f55a",
+            "claim-f0994d39c1de28bd",
+            "claim-5507b3d13c93630c",
+            "claim-dc49c6571dc243ad"
+          ],
+          "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+          "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+          "sentence_id": "sentence-ff7c80e3a4c24b5b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-2b8b8c3630ca596d"
+          ],
+          "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+          "finding": "Matches claim 2b8b8c3630ca596d exactly.",
+          "sentence_id": "sentence-94507082704fd01a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9d5a11fe85e6f55a",
+            "claim-f0994d39c1de28bd"
+          ],
+          "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+          "finding": "Matches claims 9d5a11fe85e6f55a and f0994d39c1de28bd exactly.",
+          "sentence_id": "sentence-7debc5c5e343d28c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4c82528fa92944bf"
+          ],
+          "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+          "finding": "Matches claim 4c82528fa92944bf exactly.",
+          "sentence_id": "sentence-0fc94aaa81a1afe2",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5507b3d13c93630c",
+            "claim-dc49c6571dc243ad"
+          ],
+          "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+          "finding": "Matches claims 5507b3d13c93630c and dc49c6571dc243ad exactly.",
+          "sentence_id": "sentence-1348aab8efb4c88a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7b2c9bafe6f117ca"
+          ],
+          "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+          "finding": "Matches claim 7b2c9bafe6f117ca exactly.",
+          "sentence_id": "sentence-02ebb4e4911e9473",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fdb9de243ab130bd"
+          ],
+          "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+          "finding": "Matches claim fdb9de243ab130bd exactly.",
+          "sentence_id": "sentence-3a0dcc6c83fdc13f",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "416c75f22cda85f5a49b8f30c7a217a7a7182e5fd5b1a684a0eeaa5414cb2118",
+  "coverage_history": [
+    {
+      "draft_sha256": "8a42f1d5e1ce5c6e22c9e27ee81132bd86c87f05db498f2616fe0fe396dc1130",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9d5a11fe85e6f55a",
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "该句概括了2016年获批服务贸易试点的事实，虽未列出具体月份和文件，但核心事实（2016年获批、服务贸易创新发展试点）与claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f0994d39c1de28bd",
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "该句明确表述“成为西部唯一入选上述两项国家级贸易政策的城市”，涵盖了2016年服务贸易试点中“西部唯一入选”的地位。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2b8b8c3630ca596d",
+            "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+            "finding": "该句逐字匹配claim关于管理体制、促进机制、政策体系、监管模式先行先试及促进便利化自由化的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4c82528fa92944bf",
+            "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+            "finding": "该句逐字匹配claim关于以技术贸易、航空保税维修及文化贸易为重点，探索体制机制和政策措施的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5507b3d13c93630c",
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "该句完整包含了2018年9月28日、七部委、文件名称、第四批试点及成都获批的事实。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dc49c6571dc243ad",
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "该句明确表述“成都成为西部首个且唯一获批城市”，与claim关于市场采购贸易试点西部地位的描述一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7b2c9bafe6f117ca",
+            "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+            "finding": "该句逐字匹配claim关于成都国际商贸城作为市场载体、位于金牛区、占地2090亩的描述。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdb9de243ab130bd",
+            "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+            "finding": "该句逐字匹配claim关于重点利用南亚、东南亚市场，加强与“一带一路”沿线国家贸易往来，拓展南向贸易的描述。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd",
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "该句概括了2016年服务贸易试点和2018年市场采购贸易试点的获批事实，以及成都在这两项试点中的西部唯一/首个唯一地位。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da89f008898e4edf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd",
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "同sentence-da89f008898e4edf，内容完全一致，覆盖相同claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff7c80e3a4c24b5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2b8b8c3630ca596d"
+            ],
+            "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+            "finding": "该句直接对应claim-2b8b8c3630ca596d，描述了试点区域在管理体制等方面的先行先试及促进作用。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-94507082704fd01a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a"
+            ],
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点。",
+            "finding": "该句详细列出了2016年2月国务院批复的服务贸易试点名单，直接支持claim-9d5a11fe85e6f55a中关于2016年2月国务院印发批复同意在成都开展试点的事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f06f071f5cf210cd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4c82528fa92944bf"
+            ],
+            "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+            "finding": "该句直接对应claim-4c82528fa92944bf，描述了成都市以技术贸易等为重点探索体制机制和政策措施。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0fc94aaa81a1afe2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "该句包含2018年9月28日七部委发布函件开展第四批市场采购贸易试点的事实（claim-5507b3d13c93630c），以及成都成为西部首个且唯一获批城市的事实（claim-dc49c6571dc243ad）。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1348aab8efb4c88a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b2c9bafe6f117ca"
+            ],
+            "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+            "finding": "该句直接对应claim-7b2c9bafe6f117ca，描述了成都国际商贸城作为市场载体、位于金牛区、占地2090亩的事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02ebb4e4911e9473",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdb9de243ab130bd"
+            ],
+            "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+            "finding": "该句直接对应claim-fdb9de243ab130bd，描述了成都重点利用南亚、东南亚市场，加强与“一带一路”沿线国家贸易往来，拓展南向贸易。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a0dcc6c83fdc13f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2018年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "416c75f22cda85f5a49b8f30c7a217a7a7182e5fd5b1a684a0eeaa5414cb2118",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9d5a11fe85e6f55a",
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f0994d39c1de28bd",
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2b8b8c3630ca596d",
+            "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4c82528fa92944bf",
+            "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5507b3d13c93630c",
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dc49c6571dc243ad",
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7b2c9bafe6f117ca",
+            "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdb9de243ab130bd",
+            "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd",
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da89f008898e4edf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd",
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff7c80e3a4c24b5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2b8b8c3630ca596d"
+            ],
+            "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+            "finding": "Matches claim 2b8b8c3630ca596d exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-94507082704fd01a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd"
+            ],
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+            "finding": "Matches claims 9d5a11fe85e6f55a and f0994d39c1de28bd exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7debc5c5e343d28c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4c82528fa92944bf"
+            ],
+            "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+            "finding": "Matches claim 4c82528fa92944bf exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0fc94aaa81a1afe2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "Matches claims 5507b3d13c93630c and dc49c6571dc243ad exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1348aab8efb4c88a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b2c9bafe6f117ca"
+            ],
+            "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+            "finding": "Matches claim 7b2c9bafe6f117ca exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02ebb4e4911e9473",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdb9de243ab130bd"
+            ],
+            "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+            "finding": "Matches claim fdb9de243ab130bd exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a0dcc6c83fdc13f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2018年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "416c75f22cda85f5a49b8f30c7a217a7a7182e5fd5b1a684a0eeaa5414cb2118",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-9d5a11fe85e6f55a",
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f0994d39c1de28bd",
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2b8b8c3630ca596d",
+            "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4c82528fa92944bf",
+            "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5507b3d13c93630c",
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-dc49c6571dc243ad",
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7b2c9bafe6f117ca",
+            "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fdb9de243ab130bd",
+            "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+            "finding": "draft_excerpt matches evidence_excerpt exactly.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd",
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-da89f008898e4edf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd",
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+            "finding": "Summarizes claims 9d5a11fe85e6f55a, f0994d39c1de28bd, 5507b3d13c93630c, dc49c6571dc243ad.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ff7c80e3a4c24b5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-2b8b8c3630ca596d"
+            ],
+            "draft_excerpt": "作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+            "finding": "Matches claim 2b8b8c3630ca596d exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-94507082704fd01a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9d5a11fe85e6f55a",
+              "claim-f0994d39c1de28bd"
+            ],
+            "draft_excerpt": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+            "finding": "Matches claims 9d5a11fe85e6f55a and f0994d39c1de28bd exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7debc5c5e343d28c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4c82528fa92944bf"
+            ],
+            "draft_excerpt": "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+            "finding": "Matches claim 4c82528fa92944bf exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0fc94aaa81a1afe2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5507b3d13c93630c",
+              "claim-dc49c6571dc243ad"
+            ],
+            "draft_excerpt": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+            "finding": "Matches claims 5507b3d13c93630c and dc49c6571dc243ad exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1348aab8efb4c88a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7b2c9bafe6f117ca"
+            ],
+            "draft_excerpt": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+            "finding": "Matches claim 7b2c9bafe6f117ca exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-02ebb4e4911e9473",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fdb9de243ab130bd"
+            ],
+            "draft_excerpt": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+            "finding": "Matches claim fdb9de243ab130bd exactly.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3a0dcc6c83fdc13f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2018年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。\n\n作为试点区域，成都将在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，进一步促进服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。\n\n## 证据与影响\n\n2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。\n\n2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。",
+    "description": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-f9987b5212b9",
+      "description": "成都分别于2016年和2018年获批服务贸易创新发展试点及市场采购贸易方式试点，成为西部唯一入选上述两项国家级贸易政策的城市。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。",
+        "成都作为试点区域在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，将进一步促进成都服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。",
+        "下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。",
+        "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。",
+        "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。",
+        "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。"
+      ],
+      "evidence_block_ids": [
+        "blk-666d9fc46bd1bb8f7d1a",
+        "blk-076de31aa17ecb19042d",
+        "blk-14a3a379a488874d37b7",
+        "blk-57e643407dd89d77f5f0",
+        "blk-d7006d8a72c186ecd1ca"
+      ],
+      "page_end": 118,
+      "page_start": 94,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都获批国家级贸易创新与试点城市",
+      "type": "分析框架"
+    },
+    "title": "成都获批国家级贸易创新与试点城市"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-b270ca22dafe:bundle-5b560c76c56b",
+      "excluded_fragments": [],
+      "ref_id": "ref-b270ca22dafe",
+      "source_blocks": [
+        {
+          "block_id": "blk-666d9fc46bd1bb8f7d1a",
+          "page_number": 94,
+          "text": "2016年2月，国务院印发《关于同意开展服务贸易创新发展试点的批复》，同意在天津、上海、海南、深圳、杭州、武汉、广州、成都、苏州、威海10个省市和哈尔滨新区、江北新区、两江新区、贵安新区、西咸新区5个国家级新区开展服务贸易创新发展试点，成都成为西部唯一入选城市。"
+        },
+        {
+          "block_id": "blk-7a68072e6af5f500706a",
+          "page_number": 94,
+          "text": "试点省市（区域）将积极推进服务贸易领域供给侧结构性改革，重点在完善服务贸易管理体制、扩大服务业双向开放力度、培育服务贸易市场主体、创新服务贸易发展模式、提升服务贸易便利化水平、优化服务贸易支持政策、健全服务贸易统计体系、创新事中事后监管举措等8个方面进行探索，打造服务贸易制度创新高地。"
+        },
+        {
+          "block_id": "blk-fb1cb58ad5d17551cba1",
+          "page_number": 94,
+          "text": "针对试点省市（区域），中央将加大政策保障力度：一是完善税收优惠政策，在试点地区扩大技术先进型服务企业认定范围，由服务外包扩大到其他高技术、高附加值的服务行业；二是对试点地区进口国内急需的研发设计、节能环保和环境服务等给予贴息支持；三是设立服务贸易创新发展引导基金，为试点地区有出口潜力、符合产业导向的中小服务企业提供融资支持；四是落实创新金融服务举措，鼓励金融机构发展供应链融资、海外并购融资等业务；五是对试点地区经认定的技术先进型服务企业，全面实施服务外包保税监管模式。"
+        },
+        {
+          "block_id": "blk-076de31aa17ecb19042d",
+          "page_number": 94,
+          "text": "成都作为试点区域在服务贸易管理体制、促进机制、政策体系、监管模式等方面先行先试，将进一步促进成都服务贸易便利化和自由化，探索形成服务贸易创新发展新路径，为促进外贸转型升级提供重要支撑。下一步，成都市将以技术贸易、航空保税维修及文化贸易为重点，突出制度创新、管理创新和政策创新，探索适应服务贸易创新发展的体制机制和政策措施，健全服务贸易促进体系，为中西部地区服务贸易发展探索路径、积累经验。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-b6ab1be0f797:bundle-83277ac48edb",
+      "excluded_fragments": [],
+      "ref_id": "ref-b6ab1be0f797",
+      "source_blocks": [
+        {
+          "block_id": "blk-14a3a379a488874d37b7",
+          "page_number": 117,
+          "text": "2018年9月28日，国家商务部、财政部等七部委联合发布了《关于加快推进市场采购贸易方式试点工作的函》，在成都、温州、泉州等地区开展全国第四批市场采购贸易方式试点，成都成为西部首个且唯一获批城市。"
+        },
+        {
+          "block_id": "blk-32c3127910933fa88b2b",
+          "page_number": 117,
+          "text": "市场采购贸易方式是指由符合条件的经营者在经国家商务主管等部门认定的市场集聚区内采购的、单票报关单商品货值15万美元以下、并在采购地办理出口商品通关手续的贸易方式。与一般贸易出口方式相比，市场采购贸易方式具有五大政策优势："
+        },
+        {
+          "block_id": "blk-941b9bf24dc6e4e04fc3",
+          "page_number": 117,
+          "text": "1.实施增值税免税。对市场集聚区的市场经营户以市场采购贸易方式出口的商品实施增值税免税政策(免征不退)。"
+        },
+        {
+          "block_id": "blk-382cc6696f65e7057fe9",
+          "page_number": 117,
+          "text": "2. 实现通关便利。海关设立市场采购贸易监管方式(海关代码：1039)，并制定相应的监管政策，给予便利通关。"
+        },
+        {
+          "block_id": "blk-4caf6ba0028863fab2ac",
+          "page_number": 117,
+          "text": "3.创新汇兑制度。允许市场采购贸易方式采用人民币结算，根据外汇局出台的“个人贸易结汇政策”，凭供货商户与代理出口公司协议，商户即可到银行进行结汇，对市场采购贸易外汇收支实施主体监管、总量核查和动态监测。"
+        },
+        {
+          "block_id": "blk-a405af2655e056af0bb9",
+          "page_number": 117,
+          "text": "4. 提升监管能力。建立了商务、海关、税务、外汇、市场监管等部门市场采购贸易出口信息共享机制，通过联网信息平台实施监管，实现风险可控，源头可溯，质量可究。"
+        },
+        {
+          "block_id": "blk-444717aad60651301be1",
+          "page_number": 117,
+          "text": "5.准入门槛更低。凡在试点市场所在地商务部门通过备案的各类经营主体，均可参与市场采购贸易试点。"
+        },
+        {
+          "block_id": "blk-57e643407dd89d77f5f0",
+          "page_number": 117,
+          "text": "成都国际商贸城作为市场采购贸易方式试点的市场载体，位于成都市金牛区，占地面积2090亩，是目前成都集日用品研发、生产、加工、展示、洽谈、交易与电子商务为一体的综合性现代化商贸平台。目前，成都国际商贸城正积极搭建试点综合联网信息平台，加快建设集商务、税务、市场监管、银行、法律服务等功能"
+        },
+        {
+          "block_id": "blk-c6cc8d62b93ae815fa00",
+          "page_number": 118,
+          "text": "于一体的国际贸易服务中心，为试点提供全方位一体化支持和一站式服务。"
+        },
+        {
+          "block_id": "blk-d7006d8a72c186ecd1ca",
+          "page_number": 118,
+          "text": "下一步，成都将积极推进市场采购贸易方式试点，加快培育贸易新业态新模式，并以此为契机，打造线上线下互动、国内国际融合的贸易平台，重点利用南亚、东南亚市场，加强与“一带一路”沿线国家的贸易往来，拓展南向贸易，推动区域贸易转型升级和高质量发展。"
+        },
+        {
+          "block_id": "blk-bdfa3807411f5919bc44",
+          "page_number": 118,
+          "text": "——试点范围。地理范围：北至毗河，南至四环路，东至金芙蓉大道，西至北星大道；具体范围包括：成都国际商贸城所有区块。商品范围：在成都国际商贸城市场集聚区内采购的并经市场采购商品认定体系认定的商品。货值范围：单票报关单商品货值15万美元（含）以下、并在采购地办理出口商品通关手续。主体范围：经市场所在地商务主管部门办理备案登记的各方经营主体。"
+        },
+        {
+          "block_id": "blk-b4e44da258c984c07047",
+          "page_number": 118,
+          "text": "——发展目标。建立面向欧洲、中东和东南亚的国内商品输出中转站、海外商品采购地，打造具有国际知名度和美誉度的内外贸一体化区域性国际贸易中心。到2020年，实现试点市场主体达4万户以上，外贸综合服务企业达300户以上，年交易额达800亿元，进出口额达300亿元，内外贸一体化区域性国际贸易中心初步形成。"
+        },
+        {
+          "block_id": "blk-a9df2ec55c56e6a9860f",
+          "page_number": 118,
+          "text": "——建立监管服务体系。综合公共服务体系；信息共享服务体系；资金及金融支撑服务体系；税务监管服务体系；市场准入服务体系；信用评价服务体系；质量管理服务体系；知识产权服务体系；违法查处服务体系。"
+        },
+        {
+          "block_id": "blk-2b30779b2ba57eea2397",
+          "page_number": 118,
+          "text": "——提升试点承载能力。大力提升集货承载能力；大力提升品牌承载能力；大力提升配套承载能力；大力提升物流承载能力；大力提升国际合作能力。"
+        },
+        {
+          "block_id": "blk-3d380afb66ce1e08f5f7",
+          "page_number": 118,
+          "text": "——实施试点扶持政策。主体准入政策；海关监管政策；税收管理政策；外汇监管政策；产业扶持政策。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-f9987b5212b9",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-b270ca22dafe",
+    "ref-b6ab1be0f797"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

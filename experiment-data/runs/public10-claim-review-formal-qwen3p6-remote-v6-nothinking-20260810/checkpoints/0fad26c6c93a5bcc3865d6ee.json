@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-9f57b3222887:bundle-c5d0c8d02653) is missing hard anchors from the claim: ['21', '2023']; claim='文创产业链共建方面，上海推介会签约项目达17个，签约金额超60亿元；深圳推介会推动21个文创类产业项目正式签约落地成都；联合重庆共同举办2023金熊猫天府创意设计奖等活动。'; excerpt='文创产业链共建方面。文创产业项目合作有效推进，在上海举办成都市文创业（数字文创）建圈强链招商引资智（上海）推介会，围绕“文创天府荣耀未来”主题，推动中传华夏国际文旅发展集团、上海哔哩哔哩科技有限公司、华数数字电视传媒集团、上海天祥投资管理有限公司等一批文创知名企业与成都签订投资合作协议，签约项目达17个，签约金额超60'",
+  "group_id": "topic-6ea2481cbdab",
+  "ref_ids": [
+    "ref-9f57b3222887"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

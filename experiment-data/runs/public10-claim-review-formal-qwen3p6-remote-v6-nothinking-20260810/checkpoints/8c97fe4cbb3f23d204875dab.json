@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-cb0966fa8847:bundle-64f5d63cfa0d) is missing hard anchors from the claim: ['2020年']; claim='2020年，成都“成都造”爆款影片《姜子牙》票房收入名列中国票房榜前茅。'; excerpt='“成都造”爆款影片《姜子牙》票房收入名列中国票房榜前茅'",
+  "group_id": "topic-483b156c398d",
+  "ref_ids": [
+    "ref-cb0966fa8847"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

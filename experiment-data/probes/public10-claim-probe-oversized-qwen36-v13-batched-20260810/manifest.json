@@ -1,0 +1,65 @@
+{
+  "configuration": {
+    "allow_partial": true,
+    "client": {
+      "routing": "schema_stage",
+      "stages": {
+        "compile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "contract": {
+          "enable_thinking": true,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "coverage": {
+          "enable_thinking": false,
+          "max_tokens": 16384,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "recompile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3.6-35b-a3b-mlx",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        }
+      }
+    },
+    "coverage_batch_size": 12,
+    "known_source_anomalies": [
+      "见色号"
+    ],
+    "max_recompile_attempts": 2,
+    "prompt_sha256": {
+      "compile": "22444bca30d4e66a3f9a0334ba4fa9163e212cf8bc8fc63ae76e968dafd8eabb",
+      "contract": "9893eb67810130fc4d73b6e378b1b02a556fadc5b1f801f47d7e5e95f2846f76",
+      "coverage": "84d9da031ac5bed808c9f42e44e1d76d78a0a5238d370289fd7032c639fd6248",
+      "recompile": "112224824684d5d9ee9f4b5233e4a188718a5c22ff58cc8e089704fd3e4b8292"
+    },
+    "seed": null,
+    "selected_group_ids": [
+      "proposition-074dc85e74c6"
+    ]
+  },
+  "schema": "okfolio.claim-review-run.v1",
+  "source_run_name": "public10-local-qwen36-semantic-v2-20260809",
+  "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7",
+  "status": "partial",
+  "summary": {
+    "accepted": 0,
+    "completed": 0,
+    "groups": 1,
+    "recompiles": 0,
+    "reviews": 1,
+    "withheld": 1
+  }
+}

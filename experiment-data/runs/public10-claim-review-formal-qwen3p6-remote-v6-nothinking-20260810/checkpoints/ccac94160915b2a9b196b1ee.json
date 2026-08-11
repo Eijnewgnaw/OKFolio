@@ -1,0 +1,821 @@
+{
+  "contract": {
+    "canonical_question": "简阳市与郫都区如何通过跨区域生态环保合作协议建立联动机制并推进生态廊道建设，以落实区域协作发展？",
+    "claims": [
+      {
+        "claim": "简阳市与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议。",
+        "claim_id": "claim-1a8922fceb26e1b8",
+        "evidence_block_ids": [
+          "blk-73becf5d69e6eda46a9b"
+        ],
+        "evidence_excerpt": "与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议",
+        "evidence_id": "ref-3dda67693256:bundle-af49074063ac",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          67
+        ],
+        "ref_id": "ref-3dda67693256",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "简阳市建立了跨区域生态环境建设联动机制。",
+        "claim_id": "claim-a07b682ea41d5d1f",
+        "evidence_block_ids": [
+          "blk-73becf5d69e6eda46a9b"
+        ],
+        "evidence_excerpt": "建立了跨区域生态环境建设联动机制",
+        "evidence_id": "ref-3dda67693256:bundle-af49074063ac",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          67
+        ],
+        "ref_id": "ref-3dda67693256",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "简阳市共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "claim_id": "claim-c8d11b2efa0c66ed",
+        "evidence_block_ids": [
+          "blk-73becf5d69e6eda46a9b"
+        ],
+        "evidence_excerpt": "共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "evidence_id": "ref-3dda67693256:bundle-af49074063ac",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          67
+        ],
+        "ref_id": "ref-3dda67693256",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据。",
+        "claim_id": "claim-222b6322d7e420f3",
+        "evidence_block_ids": [
+          "blk-43732fb15b3bd70649f7"
+        ],
+        "evidence_excerpt": "与温江区实现大气监测数据共享，定期向温江区通报监测数据",
+        "evidence_id": "ref-4c5d628511cf:bundle-2314a7fd89fc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          128
+        ],
+        "ref_id": "ref-4c5d628511cf",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "郫都区与温江区制定联合执法工作方案，开展相邻区域专项环境执法检查。",
+        "claim_id": "claim-238be32fec4b57e3",
+        "evidence_block_ids": [
+          "blk-43732fb15b3bd70649f7"
+        ],
+        "evidence_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查",
+        "evidence_id": "ref-4c5d628511cf:bundle-2314a7fd89fc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          128
+        ],
+        "ref_id": "ref-4c5d628511cf",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "郫都区与温江区建立定期会商机制，针对跨区域环境问题定期召开会议进行研究会商。",
+        "claim_id": "claim-ca8e636cf86f88a6",
+        "evidence_block_ids": [
+          "blk-43732fb15b3bd70649f7"
+        ],
+        "evidence_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商",
+        "evidence_id": "ref-4c5d628511cf:bundle-2314a7fd89fc",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          128
+        ],
+        "ref_id": "ref-4c5d628511cf",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1a8922fceb26e1b8",
+          "claim-a07b682ea41d5d1f",
+          "claim-c8d11b2efa0c66ed"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-3dda67693256:bundle-af49074063ac",
+        "reason": "该Bundle包含简阳市签订生态环保合作协议、建立联动机制及推进沱江生态廊道建设的具体事实，直接回答中心问题。"
+      },
+      {
+        "claim_ids": [
+          "claim-222b6322d7e420f3",
+          "claim-238be32fec4b57e3",
+          "claim-ca8e636cf86f88a6"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-4c5d628511cf:bundle-2314a7fd89fc",
+        "reason": "该Bundle包含郫都区与温江区在生态环保方面的具体合作措施，包括数据共享、联合执法和会商机制，直接回答中心问题。"
+      }
+    ],
+    "group_id": "topic-6893b461004f",
+    "members": [
+      {
+        "contribution": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "ref_id": "ref-3dda67693256",
+        "relation": "supports"
+      },
+      {
+        "contribution": "郫都区以生态环保合作为重点，与温江区实现大气监测数据共享，制定联合执法工作方案，开展专项环境执法检查，建立定期会商机制，推动解决跨区域环境问题。",
+        "ref_id": "ref-4c5d628511cf",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-1a8922fceb26e1b8",
+        "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a07b682ea41d5d1f",
+        "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c8d11b2efa0c66ed",
+        "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-222b6322d7e420f3",
+        "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-238be32fec4b57e3",
+        "draft_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ca8e636cf86f88a6",
+        "draft_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-1a8922fceb26e1b8",
+          "claim-a07b682ea41d5d1f",
+          "claim-c8d11b2efa0c66ed"
+        ],
+        "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订协议并建立联动机制推进沱江生态廊道建设；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ac9fa4fe909d1eb8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-222b6322d7e420f3",
+          "claim-238be32fec4b57e3",
+          "claim-ca8e636cf86f88a6"
+        ],
+        "draft_excerpt": "郫都区与温江区实现大气监测数据共享、开展联合执法并建立定期会商机制。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fe9b73891fe419eb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1a8922fceb26e1b8",
+          "claim-a07b682ea41d5d1f",
+          "claim-c8d11b2efa0c66ed"
+        ],
+        "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1ab5b3449b47576f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-222b6322d7e420f3"
+        ],
+        "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cddf5f250e3d9ca5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-238be32fec4b57e3"
+        ],
+        "draft_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-af9c5cd5c72b7ada",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ca8e636cf86f88a6"
+        ],
+        "draft_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7466475f9d22146f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1a8922fceb26e1b8",
+          "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a07b682ea41d5d1f",
+          "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c8d11b2efa0c66ed",
+          "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-222b6322d7e420f3",
+          "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-238be32fec4b57e3",
+          "draft_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ca8e636cf86f88a6",
+          "draft_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1a8922fceb26e1b8",
+            "claim-a07b682ea41d5d1f",
+            "claim-c8d11b2efa0c66ed"
+          ],
+          "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订协议并建立联动机制推进沱江生态廊道建设；",
+          "finding": "supported",
+          "sentence_id": "sentence-ac9fa4fe909d1eb8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-222b6322d7e420f3",
+            "claim-238be32fec4b57e3",
+            "claim-ca8e636cf86f88a6"
+          ],
+          "draft_excerpt": "郫都区与温江区实现大气监测数据共享、开展联合执法并建立定期会商机制。",
+          "finding": "supported",
+          "sentence_id": "sentence-fe9b73891fe419eb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1a8922fceb26e1b8",
+            "claim-a07b682ea41d5d1f",
+            "claim-c8d11b2efa0c66ed"
+          ],
+          "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+          "finding": "supported",
+          "sentence_id": "sentence-1ab5b3449b47576f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-222b6322d7e420f3"
+          ],
+          "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+          "finding": "supported",
+          "sentence_id": "sentence-cddf5f250e3d9ca5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-238be32fec4b57e3"
+          ],
+          "draft_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；",
+          "finding": "supported",
+          "sentence_id": "sentence-af9c5cd5c72b7ada",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ca8e636cf86f88a6"
+          ],
+          "draft_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+          "finding": "supported",
+          "sentence_id": "sentence-7466475f9d22146f",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "cd44462e4f4147a54aabce49c1ad3135d219b1b5813d6a1d2bdc3c7a17394f2e",
+  "coverage_history": [
+    {
+      "draft_sha256": "6aacae7cf0df63a39419c68af1ac6b4a4a1d48d803aaa4182294da22ef4d3048",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1a8922fceb26e1b8",
+            "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议，建立了跨区域生态环境建设联动机制，并共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a07b682ea41d5d1f",
+            "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议，建立了跨区域生态环境建设联动机制，并共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c8d11b2efa0c66ed",
+            "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议，建立了跨区域生态环境建设联动机制，并共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-222b6322d7e420f3",
+            "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-238be32fec4b57e3",
+            "draft_excerpt": "同时制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca8e636cf86f88a6",
+            "draft_excerpt": "两地均建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+            "finding": "contradicted",
+            "status": "contradicted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [
+          {
+            "claim_ids": [
+              "claim-ca8e636cf86f88a6"
+            ],
+            "draft_excerpt": "两地均建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+            "finding": "scope_violation"
+          }
+        ],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "简阳市与郫都区通过签订合作协议、建立联动与会商机制及联合执法，推进沱江生态廊道建设与大气数据共享，落实区域协作发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e8f2088c4aef9337",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "简阳市与郫都区分别通过与周边区县签订跨区域生态环保合作协议，建立联动机制并推进生态廊道建设，落实区域协作发展框架协议。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-52d8a394c93ffbd8",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "两地通过制度化安排强化区域环境治理，涵盖数据共享、联合执法及问题会商，旨在共同保护生态环境并提升监管效能。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-57d8cc96c963675c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a8922fceb26e1b8",
+              "claim-a07b682ea41d5d1f",
+              "claim-c8d11b2efa0c66ed"
+            ],
+            "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议，建立了跨区域生态环境建设联动机制，并共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f93fc8dfbb55f02a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-222b6322d7e420f3"
+            ],
+            "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-87d911d16122e151",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-238be32fec4b57e3"
+            ],
+            "draft_excerpt": "同时制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-aec586b44eb978a2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "两地均建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b757f3032d64a08c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a8922fceb26e1b8",
+              "claim-a07b682ea41d5d1f",
+              "claim-c8d11b2efa0c66ed"
+            ],
+            "draft_excerpt": "简阳市：与资阳市雁江区、成都市龙泉驿区签订协议，建立联动机制，推进沱江生态廊道建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9837f1490ec0bc19",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "郫都区：与温江区共享大气监测数据，开展联合执法，建立跨区域环境问题定期会商机制。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3f667b9fc418a6ac",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "简阳市与郫都区通过签订合作协议、建立联动与会商机制及联合执法，推进沱江生态廊道建设与大气数据共享，落实区域协作发展。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "简阳市与郫都区分别通过与周边区县签订跨区域生态环保合作协议，建立联动机制并推进生态廊道建设，落实区域协作发展框架协议。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "两地通过制度化安排强化区域环境治理，涵盖数据共享、联合执法及问题会商，旨在共同保护生态环境并提升监管效能。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "两地均建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+            "finding": "unsupported_claim"
+          },
+          {
+            "draft_excerpt": "郫都区：与温江区共享大气监测数据，开展联合执法，建立跨区域环境问题定期会商机制。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "cd44462e4f4147a54aabce49c1ad3135d219b1b5813d6a1d2bdc3c7a17394f2e",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-1a8922fceb26e1b8",
+            "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a07b682ea41d5d1f",
+            "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c8d11b2efa0c66ed",
+            "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-222b6322d7e420f3",
+            "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-238be32fec4b57e3",
+            "draft_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ca8e636cf86f88a6",
+            "draft_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1a8922fceb26e1b8",
+              "claim-a07b682ea41d5d1f",
+              "claim-c8d11b2efa0c66ed"
+            ],
+            "draft_excerpt": "简阳市与资阳市雁江区、成都市龙泉驿区签订协议并建立联动机制推进沱江生态廊道建设；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ac9fa4fe909d1eb8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-222b6322d7e420f3",
+              "claim-238be32fec4b57e3",
+              "claim-ca8e636cf86f88a6"
+            ],
+            "draft_excerpt": "郫都区与温江区实现大气监测数据共享、开展联合执法并建立定期会商机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fe9b73891fe419eb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1a8922fceb26e1b8",
+              "claim-a07b682ea41d5d1f",
+              "claim-c8d11b2efa0c66ed"
+            ],
+            "draft_excerpt": "简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1ab5b3449b47576f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-222b6322d7e420f3"
+            ],
+            "draft_excerpt": "郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cddf5f250e3d9ca5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-238be32fec4b57e3"
+            ],
+            "draft_excerpt": "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af9c5cd5c72b7ada",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ca8e636cf86f88a6"
+            ],
+            "draft_excerpt": "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7466475f9d22146f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n简阳市通过与资阳市雁江区、成都市龙泉驿区签订生态环境保护合作协议，建立跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。\n\n郫都区与温江区实现大气监测数据共享，定期向温江区通报监测数据；制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查；建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商。",
+    "description": "简阳市与资阳市雁江区、成都市龙泉驿区签订协议并建立联动机制推进沱江生态廊道建设；郫都区与温江区实现大气监测数据共享、开展联合执法并建立定期会商机制。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6893b461004f",
+      "description": "简阳市与郫都区分别通过与周边区县签订跨区域生态环保合作协议，建立联动机制并推进生态廊道建设，落实区域协作发展框架协议。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议",
+        "建立了跨区域生态环境建设联动机制",
+        "共同推进沱江生态廊道建设，保护沱江生态环境。",
+        "与温江区实现大气监测数据共享，定期向温江区通报监测数据",
+        "制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查",
+        "建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商"
+      ],
+      "evidence_block_ids": [
+        "blk-73becf5d69e6eda46a9b",
+        "blk-43732fb15b3bd70649f7"
+      ],
+      "page_end": 129,
+      "page_start": 67,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "跨区域生态环保合作机制与成效",
+      "type": "分析框架"
+    },
+    "title": "跨区域生态环保合作机制与成效"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-3dda67693256:bundle-af49074063ac",
+      "excluded_fragments": [],
+      "ref_id": "ref-3dda67693256",
+      "source_blocks": [
+        {
+          "block_id": "blk-73becf5d69e6eda46a9b",
+          "page_number": 67,
+          "text": "与资阳市雁江区、成都市龙泉驿区签订了生态环境保护合作协议，建立了跨区域生态环境建设联动机制，共同推进沱江生态廊道建设，保护沱江生态环境。"
+        },
+        {
+          "block_id": "blk-08039540fb2c6199189f",
+          "page_number": 67,
+          "text": "与德阳、眉山、资阳积极合作，推进成都经济区环线德简段、金简仁快速通道、成资大道等交通项目，实现区域交通互联互通；加快毗河供水一期、张家岩水库直接引水至老鹰水库管道工程、老鹰水库水源地保护及望水河泄水工程等水利、环保项目，促进水利基础设施现代化建设。"
+        },
+        {
+          "block_id": "blk-92914ccc3cb1d16c8de1",
+          "page_number": 67,
+          "text": "在教育事业上，与其他区县积极构建了区域教育联盟，开展了校际合作、教研交流。在人力资源事业上，简阳市组织了28人的援藏援彝队伍，赴德格、普格县挂职，开展农业、畜牧、教育、医卫等领域专业技能培训。在社会保障事业上，开展了离退休人员和工伤保险待遇领取人员异地核查认证，定期发布共享企业招工用工信息。"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-bf84eaf41184bd14fcd6",
+          "page_number": 67,
+          "text": "与成都市、凉山州密切对接，完成成都·大凉山农特产品加工贸易园区总体规划、总体城市设计、起步区城市设计工作审核审核工作，加快推进成都·大凉山农特产品加工贸易园区建设。"
+        },
+        {
+          "block_id": "blk-ccfa38cf9b82dc7e524f",
+          "page_number": 67,
+          "text": "2019年以来，简阳市立足成都平原经济区重要支点的独特地位，以推进生态环境建设交流合作、基础设施共建合作、公共服务交流合作、产业合作交流、成渝相向发展合作为重点，区域合作取得一定成效。"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-b4f94c6164eec30104e8",
+          "page_number": 67,
+          "text": "与成渝轴线区（市）县其余11个区（市）县密切合作，成立成渝轴线智能化改造联盟，提振汽车消费市场；搭建优质农产品营销平台，共商农产品产、供、销全产业链发展；建立川泛琼江流域文旅联盟，推进区域旅游资源融合发展；共享人力资源信息化系统，联合举办创新创业大赛；建立了成渝轴线区域职业教育特色专业合作机制，推动职业教育特色发展；加强情报信息交流共享，积极构建跨区域打、防、管、控一体化的工作格局。"
+        },
+        {
+          "block_id": "blk-70982cd93ba6fdbf2afc",
+          "page_number": 67,
+          "text": "接下来，简阳市应继续优化成都·大凉山农特产品加工贸易园区相关规划，组建园区管委会和平台公司，完善园区招引政策；加强与成渝轴线区（市）县协同发展联盟成员之间的沟通交流，推进成渝地区双城经济圈建设；与先发地区积极开展交流活动，拓宽简阳市区域合作范围。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-4c5d628511cf:bundle-2314a7fd89fc",
+      "excluded_fragments": [],
+      "ref_id": "ref-4c5d628511cf",
+      "source_blocks": [
+        {
+          "block_id": "blk-fbd8b1914748fa8d9f60",
+          "page_number": 128,
+          "text": "2018年以来，郫都区立足产业互补发展需求和区域生态环境营造需要，以产业跨区域合作、招商合作、生态环保合作为重点，持续加强与温江区、雅安民山区的合作，深挖合作潜力，加快落实合作发展框架协议，区域协作发展取得了一定成效。"
+        },
+        {
+          "block_id": "blk-566fa54e45c372b393e4",
+          "page_number": 128,
+          "text": "推进产业跨区域协作发展。郫都区与名山区正式签订协同合作发展框架协议后，郫都区现代工业港管委会先后组织成都新航工业科技、川泰电气科技、浙江万马等40余家企业负责人到名山区洽谈投资事宜。郫都区针对电子信息产业和人工智能与温江三医融合涉及的智能经济开展了产业链深度协作。"
+        },
+        {
+          "block_id": "blk-8366daecb6e10a74f2dd",
+          "page_number": 128,
+          "text": "推进招商引资及投资促进合作。2018年，名山区先后5次到郫都区招商引资，深入考察川泰电气科技有限公司和成都新航工业科技有限公司，并召开座谈会。郫都区与双流区加强招商信息共享，双方驻外招商机构或园区获得的项目信息资源，若不符合本区域主导产业发展或土地承载空间有限，优先将项目信息推荐给对方。"
+        },
+        {
+          "block_id": "blk-43732fb15b3bd70649f7",
+          "page_number": 128,
+          "text": "推进与温江区的环保合作。与温江区实现大气监测数据共享，定期向温江区通报监测数据；制定联合执法工作方案，开展郫都、温江相邻区域专项环境执法检查，联合处理跨区域环境信访投诉；建立定期会商机制，针对日常监管、信访投诉处理中发现的跨区域环境问题，定期召开会议进行研究会商，推动问题解决。"
+        },
+        {
+          "block_id": "blk-938770150eadbab9f08d",
+          "page_number": 128,
+          "text": "下一步，郸都区应主动与南充市南部县、绵阳市盐亭县进行对接，确保双方正式签约；抓紧与达州市渠县、泸州市叙永县商议合作事宜，拟定框架协议；对已经签约合同，"
+        },
+        {
+          "block_id": "blk-97741346480a0ca2225d",
+          "page_number": 129,
+          "text": "要明确追踪机制，确保合同涉及的事项落地落实；形成有效的区域合作工作成效考核办法，提高对区域合作工作的重视度。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6893b461004f",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-3dda67693256",
+    "ref-4c5d628511cf"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

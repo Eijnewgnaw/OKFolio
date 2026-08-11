@@ -1,0 +1,506 @@
+{
+  "contract": {
+    "canonical_question": "成渝地区双城经济圈首列直达货运班列的发车时间、路线及填补的物流空白是什么？",
+    "claims": [
+      {
+        "claim": "2022年5月，首列成渝地区双城经济圈货运班列在重庆江津小南垭铁路物流中心发车。",
+        "claim_id": "claim-dc9a31c1033d84bd",
+        "evidence_block_ids": [
+          "blk-d300033852e47669f4be"
+        ],
+        "evidence_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+        "evidence_id": "ref-15ee19a95cc1:bundle-b6fe84610101",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-15ee19a95cc1",
+        "scope": {
+          "time": [
+            "2022年5月"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "该班列路线为重庆江津至成都青白江，填补了成渝两地直达货运班列的空白。",
+        "claim_id": "claim-86b283877c4604a3",
+        "evidence_block_ids": [
+          "blk-d300033852e47669f4be"
+        ],
+        "evidence_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。班列的开通，填补了成渝两地直达货运班列的空白",
+        "evidence_id": "ref-15ee19a95cc1:bundle-b6fe84610101",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          182
+        ],
+        "ref_id": "ref-15ee19a95cc1",
+        "scope": {
+          "region": [
+            "重庆江津",
+            "成都青白江"
+          ]
+        },
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-dc9a31c1033d84bd",
+          "claim-86b283877c4604a3"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-15ee19a95cc1:bundle-b6fe84610101",
+        "reason": "该Bundle包含中心问题所需的时间、地点、事件及意义等关键事实，且无重复或纯背景内容，必须提取以构成完整回答。"
+      }
+    ],
+    "group_id": "topic-92c1b19d7b46",
+    "members": [
+      {
+        "contribution": "该证据直接记录了2022年5月首列成渝直达货运班列的发车事实、具体路线（重庆江津至成都青白江）及其填补两地直达货运空白的作用，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-15ee19a95cc1",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-dc9a31c1033d84bd",
+        "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-86b283877c4604a3",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-dc9a31c1033d84bd",
+          "claim-86b283877c4604a3"
+        ],
+        "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4282d148866ce1bd",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dc9a31c1033d84bd"
+        ],
+        "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-50d2ed20a71b45b4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dc9a31c1033d84bd"
+        ],
+        "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5d791f91a310b915",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-86b283877c4604a3"
+        ],
+        "draft_excerpt": "班列的开通，填补了成渝两地直达货运班列的空白",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ec754eb55ee0cb32",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-dc9a31c1033d84bd",
+          "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-dc9a31c1033d84bd",
+            "claim-86b283877c4604a3"
+          ],
+          "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+          "finding": "supported",
+          "sentence_id": "sentence-4282d148866ce1bd",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dc9a31c1033d84bd"
+          ],
+          "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+          "finding": "supported",
+          "sentence_id": "sentence-50d2ed20a71b45b4",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dc9a31c1033d84bd"
+          ],
+          "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+          "finding": "supported",
+          "sentence_id": "sentence-5d791f91a310b915",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-86b283877c4604a3"
+          ],
+          "draft_excerpt": "班列的开通，填补了成渝两地直达货运班列的空白",
+          "finding": "supported",
+          "sentence_id": "sentence-ec754eb55ee0cb32",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "983529a05eaa369a6af51587138bbbf85c0ff10ee115de52b9769b9b64e3dd65",
+  "coverage_history": [
+    {
+      "draft_sha256": "7bcac0ba8218972ade7274b9e49cf2fd5d9e7d505411789700570b43a87b7126",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dc9a31c1033d84bd",
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-86b283877c4604a3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd",
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eb224b529f3cab0b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心顺利发车，并直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c7f5b83732ff0b92",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "该班列的开通具有标志性意义，直接填补了成渝两地直达货运班列的空白。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4d625175302ef72e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c925b5faf2d3b6f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-122adf4bfb599b1d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "班列的开通，填补了成渝两地直达货运班列的空白",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b412c770a5b6641f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "eda318c55db53d355da3b4b12f60b27a6c4790092d40ff01da6e5ab45daeb36f",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dc9a31c1033d84bd",
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-86b283877c4604a3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd",
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4282d148866ce1bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2f6b3ac60d87418a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d791f91a310b915",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "班列的开通，填补了成渝两地直达货运班列的空白",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ec754eb55ee0cb32",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "983529a05eaa369a6af51587138bbbf85c0ff10ee115de52b9769b9b64e3dd65",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dc9a31c1033d84bd",
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-86b283877c4604a3",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd",
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4282d148866ce1bd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-50d2ed20a71b45b4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dc9a31c1033d84bd"
+            ],
+            "draft_excerpt": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5d791f91a310b915",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-86b283877c4604a3"
+            ],
+            "draft_excerpt": "班列的开通，填补了成渝两地直达货运班列的空白",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ec754eb55ee0cb32",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。\n\n- 2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。班列的开通，填补了成渝两地直达货运班列的空白",
+    "description": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+    "ref": {
+      "asset_hints": [
+        "image-113"
+      ],
+      "concept_id": "topic-92c1b19d7b46",
+      "description": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津至成都青白江）在重庆江津小南垭铁路物流中心发车，填补了成渝两地直达货运班列空白。",
+      "document_family_id": "a3416d58cffb469497b1",
+      "document_version_id": "e551b06ba3832ffdbb34",
+      "evidence": [
+        "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。",
+        "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。班列的开通，填补了成渝两地直达货运班列的空白"
+      ],
+      "evidence_block_ids": [
+        "blk-d300033852e47669f4be"
+      ],
+      "page_end": 182,
+      "page_start": 182,
+      "ref_family_hint": "",
+      "ref_version_id": "e551b06ba3832ffdbb34",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成渝地区双城经济圈货运班列首发"
+      ],
+      "semantic_signature": {},
+      "source": "102a4976-6f08-42bc-b866-6b9f7b53cc31.md",
+      "title": "成渝地区双城经济圈货运班列首发",
+      "type": "分析框架"
+    },
+    "title": "成渝地区双城经济圈货运班列首发"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-15ee19a95cc1:bundle-b6fe84610101",
+      "excluded_fragments": [],
+      "ref_id": "ref-15ee19a95cc1",
+      "source_blocks": [
+        {
+          "block_id": "blk-d300033852e47669f4be",
+          "page_number": 182,
+          "text": "2022年5月，首列成渝地区双城经济圈货运班列（重庆江津一成都青白江）在重庆江津小南垭铁路物流中心顺利发车，直接抵达青白江城厢站。班列的开通，填补了成渝两地直达货运班列的空白，也可望创造国内新开通城际货运专线开行频率的新纪录。"
+        },
+        {
+          "block_id": "blk-457cc5164aaa7eb946c7",
+          "page_number": 182,
+          "text": "2021年成渝两地双向货物运输量达到3.79亿吨，其中公路运输约3.6亿吨、占\\(95\\%\\) ，铁路运输0.16亿吨、仅占 \\(4.2\\%\\) 。为进一步优化川渝地区资源配置、助力川渝经贸互通，成渝双方开通公共货运班列，拟每天开行1-2列。此次首发班列共载有50个小箱、4个大箱，货源品类主要为卷纸、粮油汽摩配件等，货值达300多万元。"
+        },
+        {
+          "block_id": "blk-64ccb6e7d8b8eba52307",
+          "page_number": 182,
+          "text": "原始 PDF 第 182 页图片"
+        },
+        {
+          "block_id": "blk-8da33f1c35801b087639",
+          "page_number": 182,
+          "text": "图5-2 成渝地区双城经济圈货运班列"
+        },
+        {
+          "block_id": "blk-0e24702e6665dd6756af",
+          "page_number": 182,
+          "text": "班列开通后，可紧密衔接西部陆海新通道、中欧班列和长江黄金水道，对接渝沪、渝深、渝甬、渝新、川藏等国内铁路货运通道，提高成渝地区铁路货物运输占比，推动交通运输绿色低碳发展；可强化成渝之间货运物流支撑，助力双城产业协同和经贸合作；可推动成渝两大陆港型国家枢纽互联互通，推进内陆开放高地建设。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-92c1b19d7b46",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-15ee19a95cc1"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

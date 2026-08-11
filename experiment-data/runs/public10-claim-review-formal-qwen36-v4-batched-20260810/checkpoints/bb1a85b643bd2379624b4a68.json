@@ -1,0 +1,355 @@
+{
+  "contract": {
+    "canonical_question": "成都都市圈环线高速公路何时实现全线通车及总里程是多少？",
+    "claims": [
+      {
+        "claim": "成都都市圈环线高速公路于2021年12月10日实现全线通车。",
+        "claim_id": "claim-65ef004ee94560e3",
+        "evidence_block_ids": [
+          "blk-6d673f407e0e8a1644e2"
+        ],
+        "evidence_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车",
+        "evidence_id": "ref-fddaef4ea0db:bundle-0b86eea10c3a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          260
+        ],
+        "ref_id": "ref-fddaef4ea0db",
+        "scope": {
+          "time": [
+            "2021年12月10日"
+          ]
+        },
+        "slot": "time",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都都市圈环线高速公路全长443公里。",
+        "claim_id": "claim-c5ff112ccb54d9fe",
+        "evidence_block_ids": [
+          "blk-6d673f407e0e8a1644e2"
+        ],
+        "evidence_excerpt": "标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+        "evidence_id": "ref-fddaef4ea0db:bundle-0b86eea10c3a",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          260
+        ],
+        "ref_id": "ref-fddaef4ea0db",
+        "scope": {
+          "object": [
+            "成都都市圈环线高速公路"
+          ]
+        },
+        "slot": "indicator",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-65ef004ee94560e3",
+          "claim-c5ff112ccb54d9fe"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-fddaef4ea0db:bundle-0b86eea10c3a",
+        "reason": "该证据包含通车时间、项目总里程及成网状态，是回答中心问题必须保留的原子事实。"
+      }
+    ],
+    "group_id": "evidence-f4b917d5cc03",
+    "members": [
+      {
+        "contribution": "该证据直接提供了成都都市圈环线高速公路全线通车的具体日期（2021年12月10日）以及项目总里程（443公里），构成了回答中心问题的核心事实。",
+        "ref_id": "ref-fddaef4ea0db",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-65ef004ee94560e3",
+        "draft_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。",
+        "finding": "草稿明确提及2021年12月10日G0511线德阳至都江堰高速通车，与合同claim一致。",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c5ff112ccb54d9fe",
+        "draft_excerpt": "该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+        "finding": "草稿明确提及全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车，与合同claim一致。",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-65ef004ee94560e3",
+          "claim-c5ff112ccb54d9fe"
+        ],
+        "draft_excerpt": "2021年12月10日G0511线德阳至都江堰高速通车，标志着全长443公里的成都都市圈环线高速公路全面闭环成网。",
+        "finding": "该句同时涵盖了通车时间与里程信息，均能归因至合同claim。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-0b979ef1ad7a9a52",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-65ef004ee94560e3"
+        ],
+        "draft_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。",
+        "finding": "该句明确提及2021年12月10日G0511线德阳至都江堰高速通车，能归因至合同claim。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c7ed843ce5a9662a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c5ff112ccb54d9fe"
+        ],
+        "draft_excerpt": "该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+        "finding": "该句明确提及全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车，能归因至合同claim。",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5f0ab24adf50cf58",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_draft_sha256": "a3c9ab1588ceb734d4a2276816d941b85e04d40fc92e66ecaad5722a6a7280c4",
+  "coverage_history": [
+    {
+      "draft_sha256": "b210ce5671026e551743654a07a995691fc216b7fddce306e742d8e3f92a0b6e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-65ef004ee94560e3",
+            "draft_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。",
+            "finding": "草稿明确提及了该日期及G0511线德阳至都江堰高速的通车事实，与合同中的时间信息一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c5ff112ccb54d9fe",
+            "draft_excerpt": "该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+            "finding": "草稿完整保留了443公里的总里程数据及成都都市圈环线高速公路全面闭环成网的结论。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-65ef004ee94560e3",
+              "claim-c5ff112ccb54d9fe"
+            ],
+            "draft_excerpt": "2021年12月10日G0511线德阳至都江堰高速通车，标志着全长443公里的成都都市圈环线高速公路全面闭环成网。",
+            "finding": "该句同时涵盖了通车时间与总里程信息，完全由合同中的两个claim支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0b979ef1ad7a9a52",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65ef004ee94560e3"
+            ],
+            "draft_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。",
+            "finding": "该句直接对应合同中的时间claim，事实准确无误。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c7ed843ce5a9662a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5ff112ccb54d9fe"
+            ],
+            "draft_excerpt": "该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+            "finding": "该句直接对应合同中的里程claim，完整保留了443公里的数据。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f0ab24adf50cf58",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "至此，成都都市圈已建成“3绕17射”高速公路主骨架网。",
+            "finding": "该句提到的“3绕17射”高速公路主骨架网属于合同范围外的新事实，无法由现有claim支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b34c6ab3a4d12858",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该主骨架网通车里程近2000公里，向成德眉资基础设施同城同网迈出了关键一步。",
+            "finding": "该句提到的“近2000公里”及“成德眉资基础设施同城同网”属于合同范围外的新事实，无法由现有claim支持。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a74ee89b9eb465a6",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "至此，成都都市圈已建成“3绕17射”高速公路主骨架网。",
+            "finding": "草稿中提及的“3绕17射”高速公路主骨架网未在Claim Contract中出现，属于合同外新增事实。"
+          },
+          {
+            "draft_excerpt": "该主骨架网通车里程近2000公里，向成德眉资基础设施同城同网迈出了关键一步。",
+            "finding": "草稿中提及的“近2000公里”及“成德眉资基础设施同城同网”未在Claim Contract中出现，属于合同外新增事实。"
+          },
+          {
+            "draft_excerpt": "3",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "17",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2000",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "a3c9ab1588ceb734d4a2276816d941b85e04d40fc92e66ecaad5722a6a7280c4",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-65ef004ee94560e3",
+            "draft_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。",
+            "finding": "草稿明确提及2021年12月10日G0511线德阳至都江堰高速通车，与合同claim一致。",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c5ff112ccb54d9fe",
+            "draft_excerpt": "该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+            "finding": "草稿明确提及全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车，与合同claim一致。",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-65ef004ee94560e3",
+              "claim-c5ff112ccb54d9fe"
+            ],
+            "draft_excerpt": "2021年12月10日G0511线德阳至都江堰高速通车，标志着全长443公里的成都都市圈环线高速公路全面闭环成网。",
+            "finding": "该句同时涵盖了通车时间与里程信息，均能归因至合同claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0b979ef1ad7a9a52",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65ef004ee94560e3"
+            ],
+            "draft_excerpt": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。",
+            "finding": "该句明确提及2021年12月10日G0511线德阳至都江堰高速通车，能归因至合同claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c7ed843ce5a9662a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c5ff112ccb54d9fe"
+            ],
+            "draft_excerpt": "该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+            "finding": "该句明确提及全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车，能归因至合同claim。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f0ab24adf50cf58",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2021年12月10日，G0511线德阳至都江堰高速公路顺利通车。\n\n该路段的通车标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+    "description": "2021年12月10日G0511线德阳至都江堰高速通车，标志着全长443公里的成都都市圈环线高速公路全面闭环成网。",
+    "ref": {
+      "asset_hints": [
+        "image-122"
+      ],
+      "concept_id": "evidence-f4b917d5cc03",
+      "description": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车，标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。",
+      "document_family_id": "0e3e1f02d38c0b2c24b4",
+      "document_version_id": "2ff0f2a3ae766f6fc14b",
+      "evidence": [
+        "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车",
+        "标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。"
+      ],
+      "evidence_block_ids": [
+        "blk-6d673f407e0e8a1644e2"
+      ],
+      "page_end": 260,
+      "page_start": 260,
+      "ref_family_hint": "",
+      "ref_version_id": "2ff0f2a3ae766f6fc14b",
+      "scope": {
+        "region": "成都都市圈",
+        "time": "2021年12月10日"
+      },
+      "section_path": [
+        "重大事件",
+        "成都都市圈环线高速公路实现全线通车"
+      ],
+      "semantic_signature": {
+        "milestone": "全线通车",
+        "project_name": "成都都市圈环线高速公路"
+      },
+      "source": "80496e4b-360d-412e-86c6-e95d52fdedf6.md",
+      "title": "成都都市圈环线高速公路实现全线通车",
+      "type": "数据口径"
+    },
+    "title": "成都都市圈环线高速公路实现全线通车"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-fddaef4ea0db:bundle-0b86eea10c3a",
+      "excluded_fragments": [],
+      "ref_id": "ref-fddaef4ea0db",
+      "source_blocks": [
+        {
+          "block_id": "blk-6d673f407e0e8a1644e2",
+          "page_number": 260,
+          "text": "2021年12月10日，G0511线德阳至都江堰高速公路顺利通车，标志着全长443公里的成都都市圈环线高速公路全面闭环成网、实现全线通车。至此，成都都市圈已建成“3绕17射”高速公路主骨架网，通车里程近2000公里，向成德眉资基础设施同城同网迈出了关键一步。"
+        }
+      ]
+    }
+  ],
+  "group_id": "evidence-f4b917d5cc03",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-fddaef4ea0db"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "seed_provenance": {
+    "checkpoint_sha256": "901378ba4dce1cb73d74ae367e4144bd79b53ec971d31f9a03a212c45cdeeae8",
+    "prior_recompile_attempts": 1,
+    "run_name": "public10-claim-review-formal-qwen36-v3-20260810"
+  },
+  "status": "complete"
+}

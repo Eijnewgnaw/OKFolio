@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[0].claims[1].evidence_excerpt (ref-23ea37eb218f:bundle-e5169972a1de) is missing hard anchors from the claim: ['2021年']; claim='2021年，成渝两地开通“氢走廊”示范线，协同投营氢燃料电池汽车440辆。'; excerpt='开通成渝“氢走廊”示范线，协同投营氢燃料电池汽车440辆，联合申报国家燃料电池汽车示范城市群。'",
+  "group_id": "topic-3e96e0029c18",
+  "ref_ids": [
+    "ref-23ea37eb218f",
+    "ref-460dc9361927"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

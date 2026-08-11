@@ -1,0 +1,733 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区在2017-2019年期间，针对引进世界知名大学及海外研发机构、建设海外孵化中心及并购国际研发企业，提供了哪些具体的财政资助与补贴标准？",
+    "claims": [
+      {
+        "claim": "对外资企业在蓉注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+        "claim_id": "claim-21389f96451a0863",
+        "evidence_block_ids": [
+          "blk-0ae88f8544662508b330"
+        ],
+        "evidence_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+        "evidence_id": "ref-e472a5d0ba5a:bundle-a7e0fb0c0ef3",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-e472a5d0ba5a",
+        "scope": {
+          "region": [
+            "蓉",
+            "国(境)外"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+        "claim_id": "claim-a2568f302e8a3e30",
+        "evidence_block_ids": [
+          "blk-0ae88f8544662508b330"
+        ],
+        "evidence_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的 \\(30\\%\\) 最高500万元的补贴",
+        "evidence_id": "ref-e472a5d0ba5a:bundle-a7e0fb0c0ef3",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-e472a5d0ba5a",
+        "scope": {
+          "region": [
+            "全球创新创业活跃地区"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+        "claim_id": "claim-c7cb424ab11afd17",
+        "evidence_block_ids": [
+          "blk-0ae88f8544662508b330"
+        ],
+        "evidence_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+        "evidence_id": "ref-e472a5d0ba5a:bundle-a7e0fb0c0ef3",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-e472a5d0ba5a",
+        "scope": {
+          "region": [
+            "科技资源密集的国家和地区",
+            "蓉"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "该政策的牵头单位为市科技局，责任单位包括市经信委、市投促委、市商务委、市金融局。",
+        "claim_id": "claim-9aa5b5c0e92d0ce5",
+        "evidence_block_ids": [
+          "blk-0ae88f8544662508b330"
+        ],
+        "evidence_excerpt": "（牵头单位：市科技局；责任单位：市经信委、市投促委、市商务委、市金融局）",
+        "evidence_id": "ref-e472a5d0ba5a:bundle-a7e0fb0c0ef3",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          168
+        ],
+        "ref_id": "ref-e472a5d0ba5a",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-21389f96451a0863",
+          "claim-a2568f302e8a3e30",
+          "claim-c7cb424ab11afd17",
+          "claim-9aa5b5c0e92d0ce5"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-e472a5d0ba5a:bundle-a7e0fb0c0ef3",
+        "reason": "该Bundle包含了回答固定槽位（measure, expected_effect, implementer, time, region）所需的所有原子事实，包括具体的资助金额、补贴比例、适用对象及责任部门，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-b7d61a97c44f",
+    "members": [
+      {
+        "contribution": "该证据直接提供了成都自贸试验区在2017-2019年间，针对引进海外研发机构、建设海外孵化中心及并购国际研发企业的具体财政资助金额、补贴比例及牵头责任单位，构成了国际比较中关于政策激励措施的核心事实依据。",
+        "ref_id": "ref-e472a5d0ba5a",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-21389f96451a0863",
+        "draft_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a2568f302e8a3e30",
+        "draft_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c7cb424ab11afd17",
+        "draft_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9aa5b5c0e92d0ce5",
+        "draft_excerpt": "牵头单位：市科技局；",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-21389f96451a0863",
+          "claim-a2568f302e8a3e30",
+          "claim-c7cb424ab11afd17"
+        ],
+        "draft_excerpt": "通过资助研发机构、支持海外孵化及国际并购，引进全球创新资源并促进其在蓉集聚转化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e20a926ba9dadda9",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-21389f96451a0863",
+          "claim-a2568f302e8a3e30",
+          "claim-c7cb424ab11afd17"
+        ],
+        "draft_excerpt": "该工程旨在通过多项财政支持与政策引导措施，吸引全球优质创新资源向成都集聚。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cfa85c88e82d43a5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-21389f96451a0863",
+          "claim-a2568f302e8a3e30",
+          "claim-c7cb424ab11afd17"
+        ],
+        "draft_excerpt": "重点举措包括支持外资企业在蓉设立独立法人研发机构，鼓励本地机构拓展海外孵化业务，以及支持在科技资源密集地区进行国际并购，以引进核心技术和先进制造能力。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f2c8219ccee13cde",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9aa5b5c0e92d0ce5"
+        ],
+        "draft_excerpt": "上述措施共同构成全球科技资源在蓉集聚转化的政策体系，由成都市科技局牵头，联合市经信委、市投促委、市商务委及市金融局共同推进实施。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a08b21e9ff90cc02",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-21389f96451a0863"
+        ],
+        "draft_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-94856a8c63af55a7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a2568f302e8a3e30"
+        ],
+        "draft_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cd0cc50847d1078f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c7cb424ab11afd17"
+        ],
+        "draft_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-684bdc1c125de530",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9aa5b5c0e92d0ce5"
+        ],
+        "draft_excerpt": "牵头单位：市科技局；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-a3526a0ca601ebe0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-9aa5b5c0e92d0ce5"
+        ],
+        "draft_excerpt": "责任单位：市经信委、市投促委、市商务委、市金融局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8298c47f12fe432f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-21389f96451a0863",
+          "draft_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a2568f302e8a3e30",
+          "draft_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c7cb424ab11afd17",
+          "draft_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9aa5b5c0e92d0ce5",
+          "draft_excerpt": "牵头单位：市科技局；",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-21389f96451a0863",
+            "claim-a2568f302e8a3e30",
+            "claim-c7cb424ab11afd17"
+          ],
+          "draft_excerpt": "通过资助研发机构、支持海外孵化及国际并购，引进全球创新资源并促进其在蓉集聚转化。",
+          "finding": "supported",
+          "sentence_id": "sentence-e20a926ba9dadda9",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-21389f96451a0863",
+            "claim-a2568f302e8a3e30",
+            "claim-c7cb424ab11afd17"
+          ],
+          "draft_excerpt": "该工程旨在通过多项财政支持与政策引导措施，吸引全球优质创新资源向成都集聚。",
+          "finding": "supported",
+          "sentence_id": "sentence-cfa85c88e82d43a5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-21389f96451a0863",
+            "claim-a2568f302e8a3e30",
+            "claim-c7cb424ab11afd17"
+          ],
+          "draft_excerpt": "重点举措包括支持外资企业在蓉设立独立法人研发机构，鼓励本地机构拓展海外孵化业务，以及支持在科技资源密集地区进行国际并购，以引进核心技术和先进制造能力。",
+          "finding": "supported",
+          "sentence_id": "sentence-f2c8219ccee13cde",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9aa5b5c0e92d0ce5"
+          ],
+          "draft_excerpt": "上述措施共同构成全球科技资源在蓉集聚转化的政策体系，由成都市科技局牵头，联合市经信委、市投促委、市商务委及市金融局共同推进实施。",
+          "finding": "supported",
+          "sentence_id": "sentence-a08b21e9ff90cc02",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-21389f96451a0863"
+          ],
+          "draft_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+          "finding": "supported",
+          "sentence_id": "sentence-94856a8c63af55a7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a2568f302e8a3e30"
+          ],
+          "draft_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+          "finding": "supported",
+          "sentence_id": "sentence-cd0cc50847d1078f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c7cb424ab11afd17"
+          ],
+          "draft_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+          "finding": "supported",
+          "sentence_id": "sentence-684bdc1c125de530",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9aa5b5c0e92d0ce5"
+          ],
+          "draft_excerpt": "牵头单位：市科技局；",
+          "finding": "supported",
+          "sentence_id": "sentence-a3526a0ca601ebe0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-9aa5b5c0e92d0ce5"
+          ],
+          "draft_excerpt": "责任单位：市经信委、市投促委、市商务委、市金融局。",
+          "finding": "supported",
+          "sentence_id": "sentence-8298c47f12fe432f",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "d45ed6fe4aacab3623d6d1e2340389a5f822761d458863662d28706c316096bd",
+  "coverage_history": [
+    {
+      "draft_sha256": "952277be24415aab687c948e7241227d38bc770bf88fb4afad9a2c2f540a2863",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-21389f96451a0863",
+            "draft_excerpt": "政策对研发机构设立提供直接经费资助，对外资企业在蓉注册成立的具有独立法人资格的研发机构，以及我市高校院所在国（境）外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2568f302e8a3e30",
+            "draft_excerpt": "针对海外孵化业务，鼓励本地优质孵化机构在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%、最高500万元的补贴。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c7cb424ab11afd17",
+            "draft_excerpt": "在技术引进方面，支持在科技资源密集的国家和地区并购国际研发企业，以此引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9aa5b5c0e92d0ce5",
+            "draft_excerpt": "上述措施共同构成全球科技资源在蓉集聚转化的政策体系，由成都市科技局牵头，联合市经信委、市投促委、市商务委及市金融局共同推进实施。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863",
+              "claim-a2568f302e8a3e30",
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "通过资助外资研发机构、支持海外孵化中心建设及国际并购，引进全球创新资源并促进其在成都集聚转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-984a60872239c5f4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该工程旨在通过多项财政支持与政策引导措施，吸引全球优质创新资源向成都集聚。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfa85c88e82d43a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863",
+              "claim-a2568f302e8a3e30",
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "重点举措包括支持外资企业在蓉设立独立法人研发机构，鼓励本地机构拓展海外孵化业务，以及支持在科技资源密集地区进行国际并购，以引进核心技术和先进制造能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2c8219ccee13cde",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9aa5b5c0e92d0ce5"
+            ],
+            "draft_excerpt": "上述措施共同构成全球科技资源在蓉集聚转化的政策体系，由成都市科技局牵头，联合市经信委、市投促委、市商务委及市金融局共同推进实施。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a08b21e9ff90cc02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863"
+            ],
+            "draft_excerpt": "政策对研发机构设立提供直接经费资助，对外资企业在蓉注册成立的具有独立法人资格的研发机构，以及我市高校院所在国（境）外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-85305d17c64bd584",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2568f302e8a3e30"
+            ],
+            "draft_excerpt": "针对海外孵化业务，鼓励本地优质孵化机构在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%、最高500万元的补贴。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ccf042a288c516a2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "在技术引进方面，支持在科技资源密集的国家和地区并购国际研发企业，以此引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cdaec81689e5b86c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863"
+            ],
+            "draft_excerpt": "外资及海外注册研发机构最高获200万元资助",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b356f2a7d09fcd0a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2568f302e8a3e30"
+            ],
+            "draft_excerpt": "海外孵化中心运营费用补贴比例30%且上限500万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8a56ecb38c5c6117",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "支持并购国际研发企业以引进核心技术与制造能力",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-0a12ed6810492e03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该工程旨在通过多项财政支持与政策引导措施，吸引全球优质创新资源向成都集聚。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d45ed6fe4aacab3623d6d1e2340389a5f822761d458863662d28706c316096bd",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-21389f96451a0863",
+            "draft_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a2568f302e8a3e30",
+            "draft_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c7cb424ab11afd17",
+            "draft_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9aa5b5c0e92d0ce5",
+            "draft_excerpt": "牵头单位：市科技局；",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863",
+              "claim-a2568f302e8a3e30",
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "通过资助研发机构、支持海外孵化及国际并购，引进全球创新资源并促进其在蓉集聚转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e20a926ba9dadda9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863",
+              "claim-a2568f302e8a3e30",
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "该工程旨在通过多项财政支持与政策引导措施，吸引全球优质创新资源向成都集聚。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cfa85c88e82d43a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863",
+              "claim-a2568f302e8a3e30",
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "重点举措包括支持外资企业在蓉设立独立法人研发机构，鼓励本地机构拓展海外孵化业务，以及支持在科技资源密集地区进行国际并购，以引进核心技术和先进制造能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f2c8219ccee13cde",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9aa5b5c0e92d0ce5"
+            ],
+            "draft_excerpt": "上述措施共同构成全球科技资源在蓉集聚转化的政策体系，由成都市科技局牵头，联合市经信委、市投促委、市商务委及市金融局共同推进实施。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a08b21e9ff90cc02",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-21389f96451a0863"
+            ],
+            "draft_excerpt": "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-94856a8c63af55a7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a2568f302e8a3e30"
+            ],
+            "draft_excerpt": "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd0cc50847d1078f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c7cb424ab11afd17"
+            ],
+            "draft_excerpt": "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-684bdc1c125de530",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9aa5b5c0e92d0ce5"
+            ],
+            "draft_excerpt": "牵头单位：市科技局；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a3526a0ca601ebe0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-9aa5b5c0e92d0ce5"
+            ],
+            "draft_excerpt": "责任单位：市经信委、市投促委、市商务委、市金融局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8298c47f12fe432f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n该工程旨在通过多项财政支持与政策引导措施，吸引全球优质创新资源向成都集聚。重点举措包括支持外资企业在蓉设立独立法人研发机构，鼓励本地机构拓展海外孵化业务，以及支持在科技资源密集地区进行国际并购，以引进核心技术和先进制造能力。上述措施共同构成全球科技资源在蓉集聚转化的政策体系，由成都市科技局牵头，联合市经信委、市投促委、市商务委及市金融局共同推进实施。\n\n- 对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。\n- 鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的30%最高500万元的补贴。\n- 支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。\n- 牵头单位：市科技局；责任单位：市经信委、市投促委、市商务委、市金融局。",
+    "description": "通过资助研发机构、支持海外孵化及国际并购，引进全球创新资源并促进其在蓉集聚转化。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-b7d61a97c44f",
+      "description": "引进世界知名大学在蓉建立研发机构和创新平台。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。",
+        "鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的 \\(30\\%\\) 最高500万元的补贴",
+        "支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。",
+        "（牵头单位：市科技局；责任单位：市经信委、市投促委、市商务委、市金融局）"
+      ],
+      "evidence_block_ids": [
+        "blk-0ae88f8544662508b330"
+      ],
+      "page_end": 168,
+      "page_start": 168,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（二十二）实施全球创新合作提质工程"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施全球创新合作提质工程",
+      "type": "国际比较"
+    },
+    "title": "实施全球创新合作提质工程"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-e472a5d0ba5a:bundle-a7e0fb0c0ef3",
+      "excluded_fragments": [],
+      "ref_id": "ref-e472a5d0ba5a",
+      "source_blocks": [
+        {
+          "block_id": "blk-0ae88f8544662508b330",
+          "page_number": 168,
+          "text": "引进世界知名大学在蓉建立研发机构和创新平台。支持在蓉高校院所建立海内外国际研发中心，深化与发达国家在高端技术、重点技术领域的联合研究和研发外包服务。对外资企业在我市注册成立具有独立法人资格的研发机构及我市高校院所、企业在国(境)外注册成立的具有独立法人资格的研发机构，一次性给予最高200万元的研发经费资助。鼓励本地优质孵化机构发展海外孵化业务，在全球创新创业活跃地区建设海外创新孵化中心，给予运营机构实际发生费用的 \\(30\\%\\) 最高500万元的补贴。支持在科技资源密集的国家和地区并购国际研发企业，引进核心技术和先进制造能力，促进全球科技资源在蓉集聚转化。（牵头单位：市科技局；责任单位：市经信委、市投促委、市商务委、市金融局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-b7d61a97c44f",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-e472a5d0ba5a"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

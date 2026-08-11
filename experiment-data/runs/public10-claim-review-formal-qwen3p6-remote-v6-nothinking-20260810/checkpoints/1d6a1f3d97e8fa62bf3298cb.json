@@ -1,0 +1,1559 @@
+{
+  "contract": {
+    "canonical_question": "中欧班列（成渝）共同品牌首发的时间、批准机构、首发地点、目的地及合作背景是什么？",
+    "claims": [
+      {
+        "claim": "2020年3月27日，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发。",
+        "claim_id": "claim-b49cde91b4f2240f",
+        "evidence_block_ids": [
+          "blk-5a9877c33d6c226aef86"
+        ],
+        "evidence_excerpt": "2020年3月27日，满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {
+          "time": [
+            "2020年3月27日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）首发目的地为德国的杜伊斯堡和波兰的罗兹。",
+        "claim_id": "claim-8f7f5224506dcf06",
+        "evidence_block_ids": [
+          "blk-5a9877c33d6c226aef86"
+        ],
+        "evidence_excerpt": "2020年3月27日，满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {
+          "object": [
+            "德国杜伊斯堡",
+            "波兰罗兹"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "claim_id": "claim-3bd9e7d193b5b46f",
+        "evidence_block_ids": [
+          "blk-5a9877c33d6c226aef86"
+        ],
+        "evidence_excerpt": "这是国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》。",
+        "claim_id": "claim-af2221bd29d801a6",
+        "evidence_block_ids": [
+          "blk-d806c31de76ebaad1977"
+        ],
+        "evidence_excerpt": "成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {
+          "object": [
+            "成都国际铁路港",
+            "重庆国际物流枢纽园区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "打造“中欧班列（成渝）”是“通道口岸互联”方面的合作要求。",
+        "claim_id": "claim-6e9f175ec09e88cf",
+        "evidence_block_ids": [
+          "blk-d806c31de76ebaad1977"
+        ],
+        "evidence_excerpt": "成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          187
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）按照“同一品牌、整合数据、协同机制”的原则加强初期的合作。",
+        "claim_id": "claim-4d1a575866cc103a",
+        "evidence_block_ids": [
+          "blk-0c40ae44fd6af1f1b238"
+        ],
+        "evidence_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          188
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）首次实现两市联合开行。",
+        "claim_id": "claim-a8718aa574fe3390",
+        "evidence_block_ids": [
+          "blk-0c40ae44fd6af1f1b238"
+        ],
+        "evidence_excerpt": "一是通过成都国际铁路港、重庆国际物流枢纽园区共同推进“中欧班列（成渝）”统一品牌，首次实现两市联合开行；",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          188
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）覆盖欧洲全域，辐射“一带一路”沿线国家和地区。",
+        "claim_id": "claim-6d6c771b49003d83",
+        "evidence_block_ids": [
+          "blk-0c40ae44fd6af1f1b238"
+        ],
+        "evidence_excerpt": "三是两地均用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          188
+        ],
+        "ref_id": "ref-08c8ce0d45b4",
+        "scope": {
+          "object": [
+            "欧洲全域",
+            "一带一路沿线国家和地区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年3月27日，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发。",
+        "claim_id": "claim-7a69753d3870e2d4",
+        "evidence_block_ids": [
+          "blk-5e024b44913ab5173741"
+        ],
+        "evidence_excerpt": "2020年3月27日，满载电子配件、机械制品、智能家电的“中欧班列（成渝）”同时从成都国际铁路港、重庆国际物流枢纽园区出发，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          151
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {
+          "time": [
+            "2020年3月27日"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）首发目的地为德国的杜伊斯堡和波兰的罗兹。",
+        "claim_id": "claim-e920fa45af0ecabc",
+        "evidence_block_ids": [
+          "blk-5e024b44913ab5173741"
+        ],
+        "evidence_excerpt": "2020年3月27日，满载电子配件、机械制品、智能家电的“中欧班列（成渝）”同时从成都国际铁路港、重庆国际物流枢纽园区出发，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          151
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {
+          "object": [
+            "德国杜伊斯堡",
+            "波兰罗兹"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "claim_id": "claim-ab0ffe5d55cea882",
+        "evidence_block_ids": [
+          "blk-5e024b44913ab5173741"
+        ],
+        "evidence_excerpt": "这是国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          151
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》。",
+        "claim_id": "claim-5f645e766227e40e",
+        "evidence_block_ids": [
+          "blk-273b3a4229b249a9410f"
+        ],
+        "evidence_excerpt": "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          151
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {
+          "object": [
+            "成都国际铁路港",
+            "重庆国际物流枢纽园区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "打造“中欧班列（成渝）”是“通道口岸互联”方面的合作要求。",
+        "claim_id": "claim-2aae767bc90c51f7",
+        "evidence_block_ids": [
+          "blk-273b3a4229b249a9410f"
+        ],
+        "evidence_excerpt": "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          151
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）按照“同一品牌、整合数据、协同机制”的原则加强初期的合作。",
+        "claim_id": "claim-b5045998e08c11f6",
+        "evidence_block_ids": [
+          "blk-cf79b2b21729f7d59ef2"
+        ],
+        "evidence_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）首次实现两市联合开行。",
+        "claim_id": "claim-9006c2130f601a55",
+        "evidence_block_ids": [
+          "blk-cf79b2b21729f7d59ef2"
+        ],
+        "evidence_excerpt": "一是通过成都国际铁路港、重庆国际物流枢纽园区共同推进“中欧班列（成渝）”统一品牌，首次实现两市联合开行；",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "中欧班列（成渝）覆盖欧洲全域，辐射“一带一路”沿线国家和地区。",
+        "claim_id": "claim-f94c44ef0cec0829",
+        "evidence_block_ids": [
+          "blk-cf79b2b21729f7d59ef2"
+        ],
+        "evidence_excerpt": "三是两地均用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          152
+        ],
+        "ref_id": "ref-ea72608622b2",
+        "scope": {
+          "object": [
+            "欧洲全域",
+            "一带一路沿线国家和地区"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-b49cde91b4f2240f",
+          "claim-8f7f5224506dcf06",
+          "claim-3bd9e7d193b5b46f",
+          "claim-af2221bd29d801a6",
+          "claim-6e9f175ec09e88cf",
+          "claim-4d1a575866cc103a",
+          "claim-a8718aa574fe3390",
+          "claim-6d6c771b49003d83"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+        "reason": "包含首发时间、地点、目的地、批准机构及合作背景等核心事实，是回答中心问题的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-7a69753d3870e2d4",
+          "claim-e920fa45af0ecabc",
+          "claim-ab0ffe5d55cea882",
+          "claim-5f645e766227e40e",
+          "claim-2aae767bc90c51f7",
+          "claim-b5045998e08c11f6",
+          "claim-9006c2130f601a55",
+          "claim-f94c44ef0cec0829"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+        "reason": "该Bundle包含与ref-08c8ce0d45b4高度一致的首发事实，作为交叉验证证据，需提取核心事实以确保证据链完整。"
+      }
+    ],
+    "group_id": "topic-29765af3e905",
+    "members": [
+      {
+        "contribution": "提供首发时间、地点、目的地、批准机构及合作背景的详细事实，构成核心证据。",
+        "ref_id": "ref-08c8ce0d45b4",
+        "relation": "supports"
+      },
+      {
+        "contribution": "提供与ref-08c8ce0d45b4高度一致的首发事实，作为交叉验证证据。",
+        "ref_id": "ref-ea72608622b2",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-3bd9e7d193b5b46f",
+        "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b49cde91b4f2240f",
+        "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-8f7f5224506dcf06",
+        "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a8718aa574fe3390",
+        "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4d1a575866cc103a",
+        "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6d6c771b49003d83",
+        "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-af2221bd29d801a6",
+        "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6e9f175ec09e88cf",
+        "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2aae767bc90c51f7",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-5f645e766227e40e",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-7a69753d3870e2d4",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-9006c2130f601a55",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-ab0ffe5d55cea882",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-b5045998e08c11f6",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-e920fa45af0ecabc",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      },
+      {
+        "claim_id": "claim-f94c44ef0cec0829",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-3bd9e7d193b5b46f",
+          "claim-b49cde91b4f2240f",
+          "claim-8f7f5224506dcf06",
+          "claim-a8718aa574fe3390"
+        ],
+        "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f9a0b69281339ce8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3bd9e7d193b5b46f"
+        ],
+        "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-82d2f6735f201b31",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b49cde91b4f2240f",
+          "claim-8f7f5224506dcf06"
+        ],
+        "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-149d7433ccabf99e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a8718aa574fe3390"
+        ],
+        "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-35b9ff70d4b1cfe8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4d1a575866cc103a"
+        ],
+        "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d572d2e11b26c94c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-6d6c771b49003d83"
+        ],
+        "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4b61810db6ac42ee",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-af2221bd29d801a6",
+          "claim-6e9f175ec09e88cf"
+        ],
+        "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-21530827065c5dd3",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+        "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-3bd9e7d193b5b46f",
+          "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b49cde91b4f2240f",
+          "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-8f7f5224506dcf06",
+          "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a8718aa574fe3390",
+          "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4d1a575866cc103a",
+          "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6d6c771b49003d83",
+          "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-af2221bd29d801a6",
+          "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6e9f175ec09e88cf",
+          "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-3bd9e7d193b5b46f",
+            "claim-b49cde91b4f2240f",
+            "claim-8f7f5224506dcf06",
+            "claim-a8718aa574fe3390"
+          ],
+          "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+          "finding": "supported",
+          "sentence_id": "sentence-f9a0b69281339ce8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3bd9e7d193b5b46f"
+          ],
+          "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+          "finding": "supported",
+          "sentence_id": "sentence-82d2f6735f201b31",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b49cde91b4f2240f",
+            "claim-8f7f5224506dcf06"
+          ],
+          "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+          "finding": "supported",
+          "sentence_id": "sentence-149d7433ccabf99e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a8718aa574fe3390"
+          ],
+          "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+          "finding": "supported",
+          "sentence_id": "sentence-35b9ff70d4b1cfe8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4d1a575866cc103a"
+          ],
+          "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-d572d2e11b26c94c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-6d6c771b49003d83"
+          ],
+          "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-4b61810db6ac42ee",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-af2221bd29d801a6",
+            "claim-6e9f175ec09e88cf"
+          ],
+          "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+          "finding": "supported",
+          "sentence_id": "sentence-21530827065c5dd3",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "ef74e149f534757a7c3570aba25b3f337b160d83f28e26e61150e77d816e5e8d",
+  "coverage_history": [
+    {
+      "draft_sha256": "399fc4fb1887d4b1f6db5fe6f86dda757c05e0e2f0400404aea6cf35809b03b1",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3bd9e7d193b5b46f",
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b49cde91b4f2240f",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-b49cde91b4f2240f is missing hard anchors from the claim: ['2020年3月27日']; claim='2020年3月27日，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发。'; excerpt='满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-8f7f5224506dcf06",
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-af2221bd29d801a6",
+            "draft_excerpt": "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6e9f175ec09e88cf",
+            "draft_excerpt": "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2aae767bc90c51f7",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-4d1a575866cc103a",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5f645e766227e40e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-6d6c771b49003d83",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-7a69753d3870e2d4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9006c2130f601a55",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-a8718aa574fe3390",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ab0ffe5d55cea882",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b5045998e08c11f6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e920fa45af0ecabc",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f94c44ef0cec0829",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [
+          {
+            "claim_ids": [
+              "claim-3bd9e7d193b5b46f",
+              "claim-b49cde91b4f2240f",
+              "claim-8f7f5224506dcf06"
+            ],
+            "draft_excerpt": "2020年3月27日国铁集团批准成渝两地统一品牌，中欧班列（成渝）同时从成都、重庆出发驶往欧洲，成为统筹优化线路与运力的合作样板。",
+            "finding": "scope_violation"
+          },
+          {
+            "claim_ids": [
+              "claim-af2221bd29d801a6"
+            ],
+            "draft_excerpt": "中央财经委员会第六次会议提出做到统一谋划、一体部署、相互协作、共同实施，唱好“双城记”，成都国际铁路港和重庆万州港、重庆国际物流枢纽管委会在物流运输方面已经展开了一系列合作。",
+            "finding": "scope_violation"
+          }
+        ],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年3月27日国铁集团批准成渝两地统一品牌，中欧班列（成渝）同时从成都、重庆出发驶往欧洲，成为统筹优化线路与运力的合作样板。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3eae761ac28a3c9f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3bd9e7d193b5b46f"
+            ],
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82d2f6735f201b31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b49cde91b4f2240f",
+              "claim-8f7f5224506dcf06"
+            ],
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-149d7433ccabf99e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在成渝地区双城经济圈建设的背景下，中欧班列（成渝）号将打造中欧班列合作共建、高效运营样板。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7a5213814ae174b4",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "中央财经委员会第六次会议提出做到统一谋划、一体部署、相互协作、共同实施，唱好“双城记”，成都国际铁路港和重庆万州港、重庆国际物流枢纽管委会在物流运输方面已经展开了一系列合作。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-72163cefa97dc33e",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-af2221bd29d801a6",
+              "claim-6e9f175ec09e88cf"
+            ],
+            "draft_excerpt": "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-98e4b91a95f592f5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "随着双方强强联手，成都和重庆的中欧班列将具备更强大的吸引力，货源组织能力、通关效率、在途时效都将随之获得跃升，开展中欧班列深度合作将有利于中欧班列（成渝）号优化线路运行、提升运营时效和提高整体服务水平；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4f97cd3ba3175b5d",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "具备更强大的议价能力和抗风险能力，推动班列持续提质降本增效，实现高质量发展；",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f67127806d9adfc2",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "保障区域产业链、供应链稳定，更好发挥国际枢纽通道的规模效应和对产业、贸易的集成带动效应。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bddd5457a823805b",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "同时，成都和重庆共建通边达海、内畅外联的国际陆海联运通道体系，正成为推动成渝地区双城经济圈建设的先手棋，推动两地从内陆腹地向门户枢纽和开放高地加快转变，为双城经济圈建设、中国经济版图“第四级”建设开启“快进键”。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5143b93ba7266774",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "中国目前已有超过60个城市开通了中欧班列，2020年成渝两地中欧班列开行数量近5000列，历年累计开行量达14000列，占全国开行总量（40%）以上①，为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3ce8180b4c0d121c",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年3月27日国铁集团批准成渝两地统一品牌，中欧班列（成渝）同时从成都、重庆出发驶往欧洲，成为统筹优化线路与运力的合作样板。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在成渝地区双城经济圈建设的背景下，中欧班列（成渝）号将打造中欧班列合作共建、高效运营样板。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "中央财经委员会第六次会议提出做到统一谋划、一体部署、相互协作、共同实施，唱好“双城记”，成都国际铁路港和重庆万州港、重庆国际物流枢纽管委会在物流运输方面已经展开了一系列合作。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "随着双方强强联手，成都和重庆的中欧班列将具备更强大的吸引力，货源组织能力、通关效率、在途时效都将随之获得跃升，开展中欧班列深度合作将有利于中欧班列（成渝）号优化线路运行、提升运营时效和提高整体服务水平；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "具备更强大的议价能力和抗风险能力，推动班列持续提质降本增效，实现高质量发展；",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "保障区域产业链、供应链稳定，更好发挥国际枢纽通道的规模效应和对产业、贸易的集成带动效应。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "同时，成都和重庆共建通边达海、内畅外联的国际陆海联运通道体系，正成为推动成渝地区双城经济圈建设的先手棋，推动两地从内陆腹地向门户枢纽和开放高地加快转变，为双城经济圈建设、中国经济版图“第四级”建设开启“快进键”。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "中国目前已有超过60个城市开通了中欧班列，2020年成渝两地中欧班列开行数量近5000列，历年累计开行量达14000列，占全国开行总量（40%）以上①，为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "60",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "2020年",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "5000",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "14000",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "40%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "883bc2df82b3ef1885353e266e35bc0d5af1ceca794754a1114482b7040b6e3c",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3bd9e7d193b5b46f",
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b49cde91b4f2240f",
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8f7f5224506dcf06",
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8718aa574fe3390",
+            "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d1a575866cc103a",
+            "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d6c771b49003d83",
+            "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-af2221bd29d801a6",
+            "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6e9f175ec09e88cf",
+            "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2aae767bc90c51f7",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5f645e766227e40e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-7a69753d3870e2d4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9006c2130f601a55",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ab0ffe5d55cea882",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b5045998e08c11f6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e920fa45af0ecabc",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f94c44ef0cec0829",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3bd9e7d193b5b46f",
+              "claim-b49cde91b4f2240f",
+              "claim-8f7f5224506dcf06",
+              "claim-a8718aa574fe3390"
+            ],
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9a0b69281339ce8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3bd9e7d193b5b46f"
+            ],
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82d2f6735f201b31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b49cde91b4f2240f",
+              "claim-8f7f5224506dcf06"
+            ],
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-149d7433ccabf99e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8718aa574fe3390"
+            ],
+            "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-35b9ff70d4b1cfe8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d1a575866cc103a"
+            ],
+            "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d572d2e11b26c94c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6d6c771b49003d83"
+            ],
+            "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b61810db6ac42ee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-af2221bd29d801a6",
+              "claim-6e9f175ec09e88cf"
+            ],
+            "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21530827065c5dd3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "ef74e149f534757a7c3570aba25b3f337b160d83f28e26e61150e77d816e5e8d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-3bd9e7d193b5b46f",
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b49cde91b4f2240f",
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-8f7f5224506dcf06",
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a8718aa574fe3390",
+            "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4d1a575866cc103a",
+            "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d6c771b49003d83",
+            "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-af2221bd29d801a6",
+            "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6e9f175ec09e88cf",
+            "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2aae767bc90c51f7",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-5f645e766227e40e",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-7a69753d3870e2d4",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-9006c2130f601a55",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-ab0ffe5d55cea882",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-b5045998e08c11f6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e920fa45af0ecabc",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-f94c44ef0cec0829",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-3bd9e7d193b5b46f",
+              "claim-b49cde91b4f2240f",
+              "claim-8f7f5224506dcf06",
+              "claim-a8718aa574fe3390"
+            ],
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f9a0b69281339ce8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3bd9e7d193b5b46f"
+            ],
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-82d2f6735f201b31",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b49cde91b4f2240f",
+              "claim-8f7f5224506dcf06"
+            ],
+            "draft_excerpt": "满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-149d7433ccabf99e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a8718aa574fe3390"
+            ],
+            "draft_excerpt": "这是中欧班列（成渝）首次实现两市联合开行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-35b9ff70d4b1cfe8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4d1a575866cc103a"
+            ],
+            "draft_excerpt": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d572d2e11b26c94c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-6d6c771b49003d83"
+            ],
+            "draft_excerpt": "中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4b61810db6ac42ee",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-af2221bd29d801a6",
+              "claim-6e9f175ec09e88cf"
+            ],
+            "draft_excerpt": "2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-21530827065c5dd3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2020年3月27日，国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。这是中欧班列（成渝）首次实现两市联合开行。\n\n“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。中欧班列（成渝）采用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。\n\n## 证据与影响\n\n2020年3月27日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+    "description": "2020年3月27日，国铁集团首次批准成渝两地统一品牌，中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发驶往欧洲，标志着两市首次联合开行。",
+    "ref": {
+      "asset_hints": [
+        "image-094"
+      ],
+      "concept_id": "topic-29765af3e905",
+      "description": "2020年3月27日，国铁集团批准成渝两地统一品牌，中欧班列（成渝）同时从成都、重庆出发驶往欧洲；该共同品牌后续持续运营，成为统筹优化线路与运力的合作样板。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "2020年3月27日，满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "这是国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。",
+        "成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。",
+        "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。",
+        "一是通过成都国际铁路港、重庆国际物流枢纽园区共同推进“中欧班列（成渝）”统一品牌，首次实现两市联合开行；",
+        "三是两地均用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。",
+        "2020年3月27日，满载电子配件、机械制品、智能家电的“中欧班列（成渝）”同时从成都国际铁路港、重庆国际物流枢纽园区出发，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。",
+        "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。"
+      ],
+      "evidence_block_ids": [
+        "blk-5a9877c33d6c226aef86",
+        "blk-d806c31de76ebaad1977",
+        "blk-0c40ae44fd6af1f1b238",
+        "blk-5e024b44913ab5173741",
+        "blk-273b3a4229b249a9410f",
+        "blk-cf79b2b21729f7d59ef2"
+      ],
+      "page_end": 188,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "中欧班列（成渝）共同品牌首发与运营",
+      "type": "分析框架"
+    },
+    "title": "中欧班列（成渝）共同品牌首发与运营"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-08c8ce0d45b4:bundle-924dad206072",
+      "excluded_fragments": [],
+      "ref_id": "ref-08c8ce0d45b4",
+      "source_blocks": [
+        {
+          "block_id": "blk-5a9877c33d6c226aef86",
+          "page_number": 187,
+          "text": "2020年3月27日，满载电子配件、机械制品、智能家电的中欧班列（成渝）同时从成都国际铁路港、重庆国际物流枢纽园区出发，一路向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。这是国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。"
+        },
+        {
+          "block_id": "blk-0e0593b45f1e364e6669",
+          "page_number": 187,
+          "text": "原始 PDF 第 187 页图片"
+        },
+        {
+          "block_id": "blk-ed2a8243f27ec6aee5f8",
+          "page_number": 187,
+          "text": "图5-4 中欧班列（成渝）首发"
+        },
+        {
+          "block_id": "blk-d806c31de76ebaad1977",
+          "page_number": 187,
+          "text": "成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。"
+        },
+        {
+          "block_id": "blk-a644e219f3fe8922d100",
+          "page_number": 187,
+          "text": "在成渝地区双城经济圈建设的背景下，作为向西开放重要陆路运输的中欧班列，即将开启融合发展的进程，中欧班列（成渝）号将打造中欧班列合作共建、高效运营样板。首先，中央提出“成渝地区双城经济圈”建设方案为中欧班列（成都）和中欧班列（重庆）形成强大合力提供良好机遇。中央财经委员会第六次会议提出做到统一谋划、一体部署、"
+        },
+        {
+          "block_id": "blk-357df35390df76cc67c0",
+          "page_number": 188,
+          "text": "相互协作、共同实施，唱好“双城记”，成都国际铁路港和重庆万州港、重庆国际物流枢纽管委会在物流运输方面展开了一系列合作。除此以外，强强合作将有利于共同提升中欧班列市场化运营水平，实现双方利益最大化，充分发挥双方在中欧班列中的带头作用，共享市场和政策信息。中国目前已有超过60个城市开通了中欧班列，2020年成渝两地中欧班列开行数量近5000列，历年累计开行量达14000列，占全国开行总量 \\(40\\%\\) 以上①，为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列。"
+        },
+        {
+          "block_id": "blk-0c40ae44fd6af1f1b238",
+          "page_number": 188,
+          "text": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。一是通过成都国际铁路港、重庆国际物流枢纽园区共同推进“中欧班列（成渝）”统一品牌，首次实现两市联合开行；二是集中整合成渝两地电子信息、汽车整车、智能家电、生物医药、跨境电商产业、大数据、家电生产、机器人及智能装备、高端交通装备等产业对高效、优质国际供应链的精准需求；三是两地均用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。下一步，两地将进一步按照近、中、远“三步走”发展思路，继续推进在统一订舱、提高服务、降低成本、探索标准、合资经营等方面稳步开展全面合作。"
+        },
+        {
+          "block_id": "blk-6a2ab579dc1502668dfc",
+          "page_number": 188,
+          "text": "随着双方强强联手，成都和重庆的中欧班列将具备更强大的吸引力，货源组织能力、通关效率、在途时效都将随之获得跃升，开展中欧班列深度合作将有利于中欧班列（成渝）号优化线路运行、提升运营时效和提高整体服务水平；具备更强大的议价能力和抗风险能力，推动班列持续提质降本增效，实现高质量发展；保障区域产业链、供应链稳定，更好发挥国际枢纽通道的规模效应和对产业、贸易的集成带动效应。同时，成都和重庆共建通边达海、内畅外联的国际陆海联运通道体系，有利于推动两地从内陆腹地向门户枢纽和开放高地加快转变，为双城经济圈建设、中国经济版图“第四极”建设开启“快进键”。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-ea72608622b2:bundle-026bdcbd37ff",
+      "excluded_fragments": [],
+      "ref_id": "ref-ea72608622b2",
+      "source_blocks": [
+        {
+          "block_id": "blk-5e024b44913ab5173741",
+          "page_number": 151,
+          "text": "2020年3月27日，满载电子配件、机械制品、智能家电的“中欧班列（成渝）”同时从成都国际铁路港、重庆国际物流枢纽园区出发，向西驶往欧洲的德国杜伊斯堡和波兰罗兹，分别到达西欧、东欧的交通枢纽中心。这是国铁集团首次批准成渝两地统一品牌，并使用统一名称开展中欧班列的品牌宣传推广。"
+        },
+        {
+          "block_id": "blk-9f76739c2f57fb06fdd0",
+          "page_number": 13,
+          "text": "D"
+        },
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-f3afa3b2f6251f22ce6b",
+          "page_number": 151,
+          "text": "原始 PDF 第 151 页图片"
+        },
+        {
+          "block_id": "blk-bbada6357f6827c0c53c",
+          "page_number": 151,
+          "text": "图4-1 中欧班列（成渝）首发"
+        },
+        {
+          "block_id": "blk-273b3a4229b249a9410f",
+          "page_number": 151,
+          "text": "当日，成都国际铁路港和重庆国际物流枢纽园区在重庆沙坪坝共同签署《成都市青白江区国际铁路港管理委员会 重庆国际物流枢纽园区管理委员会战略合作框架协议》，未来，双方将重点在通道口岸互联、产业招商互补、开放创新互享、机制协同互促等四个领域、20个层面开展深入的合作，而打造“中欧班列（成渝）”正是“通道口岸互联”方面的合作要求。"
+        },
+        {
+          "block_id": "blk-04735f0187271b061190",
+          "page_number": 152,
+          "text": "在成渝地区双城经济圈建设的背景下，随着“蓉欧”“渝新欧”实力逐渐增强，“中欧班列（成渝）”将打造中欧班列合作共建、高效运营样板。首先，中央提出“成渝地区双城经济圈”建设方案为中欧班列（成都）和中欧班列（重庆）形成强大合力提供良好机遇。中央财经委员会第六次会议提出做到统一谋划、一体部署、相互协作、共同实施，唱好“双城记”，成都国际铁路港和重庆万州港、重庆国际物流枢纽管委会在物流运输方面已经展开了一系列合作。除此以外，强强合作将有利于共同提升中欧班列市场化运营水平，实现双方利益最大化。中国目前已有超过60个城市开通了中欧班列，2020年成渝两地中欧班列开行数量近5000列，历年累计开行量达14000列，占全国开行总量 \\(40\\%\\) 以上①，为国内运输货值最大、辐射范围最广、产业带动最强的两大中欧班列，选择合作将充分发挥双方在中欧班列中的带头作用，共享市场和政策信息。"
+        },
+        {
+          "block_id": "blk-cf79b2b21729f7d59ef2",
+          "page_number": 152,
+          "text": "“中欧班列（成渝）”品牌的打造，将按照“同一品牌、整合数据、协同机制”的原则加强初期的合作，成渝两港携手共建西部枢纽，助推双城经济圈建设。一是通过成都国际铁路港、重庆国际物流枢纽园区共同推进“中欧班列（成渝）”统一品牌，首次实现两市联合开行；二是集中整合成渝两地电子信息、汽车整车、智能家电、生物医药、跨境电商产业、大数据、家电生产、机器人及智能装备、高端交通装备等产业对高效、优质国际供应链的精准需求；三是两地均用“枢纽集散+干线直达+多式联运”模式，覆盖欧洲全域，辐射“一带一路”沿线国家和地区，把成渝地区双城经济圈、中国内陆腹地与欧洲中心腹地紧密地串联起来，形成辐射欧亚、串联东盟、多向互联的国际流通体系。下一步，两地将进一步按照近、中、远“三步走”发展思路，继续推进在统一订舱、提高服务、降低成本、探索标准、合资经营等方面稳步开展全面合作。"
+        },
+        {
+          "block_id": "blk-e0fbb9a11c66751f07f0",
+          "page_number": 152,
+          "text": "随着双方强强联手，成都和重庆的中欧班列将具备更强大的吸引力，货源组织能力、通关效率、在途时效都将随之获得跃升，开展中欧班列深度合作将有利于中欧班列（成渝）号优化线路运行、提升运营时效和提高整体服务水平；具备更强大的议价能力和抗风险能力，推动班列持续提质降本增效，实现高质量发展；保障区域产业链、供应链稳定，更好发挥国际枢纽通道的规模效应和对产业、贸易的集成带动效应。同时，成都和重庆共建通边达海、内畅外联的国际陆海联运通道体系，"
+        },
+        {
+          "block_id": "blk-4ab81c00488f538b36b0",
+          "page_number": 153,
+          "text": "正成为推动成渝地区双城经济圈建设的先手棋，推动两地从内陆腹地向门户枢纽和开放高地加快转变，为双城经济圈建设、中国经济版图“第四级”建设开启“快进键”。"
+        },
+        {
+          "block_id": "blk-a3581b3e5976b0ab84a3",
+          "page_number": 153,
+          "text": "通道口岸互联。共同推动班列、口岸高质量运行。将共同提升中欧班列市场化运营水平，共同维护合理市场价格。共同拓展亚蓉欧辐射范围，共享既有通道资源优势，错位布局境外主枢纽，在运力共享、目的地协同等方面强化合作。发挥西部陆海新通道中重庆运营中心和成都商贸中心功能，按照“统一品牌、统一规格、统一运作”的原则协力拓展西部陆海新通道。"
+        },
+        {
+          "block_id": "blk-64f960337ed4056773d0",
+          "page_number": 153,
+          "text": "产业招商互补。促进沿线地区经贸联动。将带动成渝地区双城经济圈与欧洲、中亚、俄罗斯、东南亚等市场经贸往来，共同推进整车进口、肉类进口等特色贸易品类招引，推进优势资源互补，打造特色商品贸易集散和专业市场聚集，携手向中西部纵深拓展。依托两地综保区共同探索“产业链+物流链”的内陆加工贸易发展新模式，在电子信息、高端智能装备、家电制造等领域开展错位互补的供应链配套布局，推动双城经济圈中形成产业承载力、要素吸附力协调均衡的双核格局。"
+        },
+        {
+          "block_id": "blk-af7ca613e7af289d2a2c",
+          "page_number": 153,
+          "text": "开放创新互享。积极探索陆上贸易规则。将共同推动铁路运单、信用交易、数字经济等陆上贸易规则在国际贸易中的应用，倡导互利共赢，有序承接创新成果。建立口岸场站、保税区服务合作机制，联合实现口岸作业服务标准化。全面推进全国通关一体化改革，简化企业办事流程和手续，降低制度性成本，共创便利化营商环境。"
+        },
+        {
+          "block_id": "blk-b55590ac6e35038afe9a",
+          "page_number": 153,
+          "text": "机制协同互促。加强体制、人员、文化互融互鉴。将共同探讨体制机制创新、治理体系改革，推动构建更具市场竞争力的治理模式。充分利用各自人才资源，构建集人才引进、培训、交流、供给于一体的人才培育交流平台。双方加大在党的建设、企业文化建设等方面的交流与沟通，互通有无，共同进步。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-29765af3e905",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-08c8ce0d45b4",
+    "ref-ea72608622b2"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

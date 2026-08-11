@@ -1,0 +1,786 @@
+{
+  "contract": {
+    "canonical_question": "成都自贸试验区2017-2019年针对国际中小企业招引设立了哪些具体的资金奖励、补贴及政策支持措施？",
+    "claims": [
+      {
+        "claim": "设立5000万元/年国际中小企业招引专项资金。",
+        "claim_id": "claim-a953d801f527c27f",
+        "evidence_block_ids": [
+          "blk-0296f36a3e4ae7c033a4"
+        ],
+        "evidence_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          164
+        ],
+        "ref_id": "ref-5cadda672a73",
+        "scope": {},
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对符合产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励。",
+        "claim_id": "claim-5a041f93bc49f535",
+        "evidence_block_ids": [
+          "blk-0296f36a3e4ae7c033a4",
+          "blk-ed2be46ddb00ab3a4a83"
+        ],
+        "evidence_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本 \\(10\\%\\) 最高500万元的奖励，用于支\n\n持企业开办及运营",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          164,
+          165
+        ],
+        "ref_id": "ref-5cadda672a73",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+        "claim_id": "claim-7156b581ecca5a24",
+        "evidence_block_ids": [
+          "blk-ed2be46ddb00ab3a4a83"
+        ],
+        "evidence_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的 \\(5\\%\\) 最高150万元的奖励",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-5cadda672a73",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对建立委托关系的中介机构给予费用补贴。",
+        "claim_id": "claim-f097689425374411",
+        "evidence_block_ids": [
+          "blk-ed2be46ddb00ab3a4a83"
+        ],
+        "evidence_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-5cadda672a73",
+        "scope": {},
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》并享受政府采购支持。",
+        "claim_id": "claim-f957485f7588d1fa",
+        "evidence_block_ids": [
+          "blk-ed2be46ddb00ab3a4a83"
+        ],
+        "evidence_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-5cadda672a73",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+        "claim_id": "claim-a4d2eeea6a2d1aa7",
+        "evidence_block_ids": [
+          "blk-ed2be46ddb00ab3a4a83"
+        ],
+        "evidence_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          165
+        ],
+        "ref_id": "ref-5cadda672a73",
+        "scope": {},
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-a953d801f527c27f",
+          "claim-5a041f93bc49f535",
+          "claim-7156b581ecca5a24",
+          "claim-f097689425374411",
+          "claim-f957485f7588d1fa",
+          "claim-a4d2eeea6a2d1aa7"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+        "reason": "该Bundle包含专项资金设立、具体奖励比例与上限、中介补贴及政策适用对象等关键事实，是回答中心问题固定槽位的必要证据。"
+      }
+    ],
+    "group_id": "topic-c473e49d7c1d",
+    "members": [
+      {
+        "contribution": "该证据直接提供了国际中小企业招引的具体激励措施，包括专项资金设立、落户奖励、中介补贴及后续服务支持，构成了回答中心问题的核心事实依据。",
+        "ref_id": "ref-5cadda672a73",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-a953d801f527c27f",
+        "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5a041f93bc49f535",
+        "draft_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7156b581ecca5a24",
+        "draft_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f097689425374411",
+        "draft_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f957485f7588d1fa",
+        "draft_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a4d2eeea6a2d1aa7",
+        "draft_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-a953d801f527c27f",
+          "claim-5a041f93bc49f535",
+          "claim-7156b581ecca5a24",
+          "claim-f097689425374411",
+          "claim-f957485f7588d1fa",
+          "claim-a4d2eeea6a2d1aa7"
+        ],
+        "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金，对新落户企业及中介机构给予基于实到注册资本比例的奖励与补贴，并提供产品目录优先列入及综合服务平台支持。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-de262b527c0d92ce",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a953d801f527c27f"
+        ],
+        "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4bcec1af551d056f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5a041f93bc49f535"
+        ],
+        "draft_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2877e9e6a9d8af09",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7156b581ecca5a24"
+        ],
+        "draft_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b4f5820da2c12e7d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f097689425374411"
+        ],
+        "draft_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9f46b934023fb440",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f957485f7588d1fa"
+        ],
+        "draft_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2268550d7e899423",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-a4d2eeea6a2d1aa7"
+        ],
+        "draft_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-71e4a7c3cafcc425",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-a953d801f527c27f",
+          "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5a041f93bc49f535",
+          "draft_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7156b581ecca5a24",
+          "draft_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f097689425374411",
+          "draft_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f957485f7588d1fa",
+          "draft_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a4d2eeea6a2d1aa7",
+          "draft_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-a953d801f527c27f",
+            "claim-5a041f93bc49f535",
+            "claim-7156b581ecca5a24",
+            "claim-f097689425374411",
+            "claim-f957485f7588d1fa",
+            "claim-a4d2eeea6a2d1aa7"
+          ],
+          "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金，对新落户企业及中介机构给予基于实到注册资本比例的奖励与补贴，并提供产品目录优先列入及综合服务平台支持。",
+          "finding": "supported",
+          "sentence_id": "sentence-de262b527c0d92ce",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a953d801f527c27f"
+          ],
+          "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+          "finding": "supported",
+          "sentence_id": "sentence-4bcec1af551d056f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5a041f93bc49f535"
+          ],
+          "draft_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。",
+          "finding": "supported",
+          "sentence_id": "sentence-2877e9e6a9d8af09",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7156b581ecca5a24"
+          ],
+          "draft_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+          "finding": "supported",
+          "sentence_id": "sentence-b4f5820da2c12e7d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f097689425374411"
+          ],
+          "draft_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+          "finding": "supported",
+          "sentence_id": "sentence-9f46b934023fb440",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f957485f7588d1fa"
+          ],
+          "draft_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+          "finding": "supported",
+          "sentence_id": "sentence-2268550d7e899423",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-a4d2eeea6a2d1aa7"
+          ],
+          "draft_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+          "finding": "supported",
+          "sentence_id": "sentence-71e4a7c3cafcc425",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "30cda1409ff0adf81d012c8e184aa2398faa5d25523d838e884a2a22e99b0a48",
+  "coverage_history": [
+    {
+      "draft_sha256": "9f3a7f5cbf3f4b1ff6798c8b089c988744a322a4d05d0843ba86893ed1092b70",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a953d801f527c27f",
+            "draft_excerpt": "成都市设立5000万元/年国际中小企业招引专项资金，旨在吸引符合产业发展方向的新落户企业。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7156b581ecca5a24",
+            "draft_excerpt": "针对成功引进项目的中介及机构，经认定给予一年内实到注册资本5%的奖励，最高150万元，并对建立委托关系的中介机构给予费用补贴。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f097689425374411",
+            "draft_excerpt": "针对成功引进项目的中介及机构，经认定给予一年内实到注册资本5%的奖励，最高150万元，并对建立委托关系的中介机构给予费用补贴。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5a041f93bc49f535",
+            "draft_excerpt": "对新落户企业，经认定给予一年内实到注册资本10%的奖励，最高500万元，用于支持企业开办及运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f957485f7588d1fa",
+            "draft_excerpt": "落户的国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a4d2eeea6a2d1aa7",
+            "draft_excerpt": "成都市建立国际中小企业综合服务平台，实行常态化走访制度。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a953d801f527c27f",
+              "claim-5a041f93bc49f535",
+              "claim-7156b581ecca5a24",
+              "claim-f097689425374411",
+              "claim-f957485f7588d1fa",
+              "claim-a4d2eeea6a2d1aa7"
+            ],
+            "draft_excerpt": "成都市通过设立5000万元/年专项资金及多项奖励补贴措施，吸引国际中小企业落户并提供全周期服务支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bc8e255b50bf98d3",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a953d801f527c27f",
+              "claim-5a041f93bc49f535"
+            ],
+            "draft_excerpt": "成都市设立5000万元/年国际中小企业招引专项资金，旨在吸引符合产业发展方向的新落户企业。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6d45d85f76ec8618",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7156b581ecca5a24",
+              "claim-f097689425374411"
+            ],
+            "draft_excerpt": "针对成功引进项目的中介及机构，经认定给予一年内实到注册资本5%的奖励，最高150万元，并对建立委托关系的中介机构给予费用补贴。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e27ba9a48fc43132",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a041f93bc49f535"
+            ],
+            "draft_excerpt": "对新落户企业，经认定给予一年内实到注册资本10%的奖励，最高500万元，用于支持企业开办及运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-54bf6ce5e761c3c1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f957485f7588d1fa"
+            ],
+            "draft_excerpt": "落户的国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6c1316215b754479",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4d2eeea6a2d1aa7"
+            ],
+            "draft_excerpt": "成都市建立国际中小企业综合服务平台，实行常态化走访制度。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2c43d8e8af00967c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4d2eeea6a2d1aa7"
+            ],
+            "draft_excerpt": "通过定期举办沙龙、座谈会，构建政企定期沟通服务机制，以优化国际中小企业的营商环境。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fefd3d6880a72625",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "该政策体系通过资金奖励、采购支持及常态化沟通机制，形成从招引到运营的全链条支持，促进国际中小企业在蓉发展。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9672d96b58e032e7",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a953d801f527c27f"
+            ],
+            "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fa6066115e4ccbcd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a041f93bc49f535"
+            ],
+            "draft_excerpt": "新落户企业奖励：实到注册资本10%，最高500万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2cceaf02f7b7a25b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7156b581ecca5a24"
+            ],
+            "draft_excerpt": "中介奖励：实到注册资本5%，最高150万元",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1474f21f439333ca",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f957485f7588d1fa"
+            ],
+            "draft_excerpt": "优先列入《成都市地方名优产品推荐目录》及享受政府采购支持",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-26572bf32a123e83",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4d2eeea6a2d1aa7"
+            ],
+            "draft_excerpt": "建立综合服务平台及常态化走访、沙龙、座谈会机制",
+            "finding": "该句内容完全由 claim-a4d2eeea6a2d1aa7 支持，无合同外事实。",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db7afec62001494f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "该政策体系通过资金奖励、采购支持及常态化沟通机制，形成从招引到运营的全链条支持，促进国际中小企业在蓉发展。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "30cda1409ff0adf81d012c8e184aa2398faa5d25523d838e884a2a22e99b0a48",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-a953d801f527c27f",
+            "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5a041f93bc49f535",
+            "draft_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7156b581ecca5a24",
+            "draft_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f097689425374411",
+            "draft_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f957485f7588d1fa",
+            "draft_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a4d2eeea6a2d1aa7",
+            "draft_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-a953d801f527c27f",
+              "claim-5a041f93bc49f535",
+              "claim-7156b581ecca5a24",
+              "claim-f097689425374411",
+              "claim-f957485f7588d1fa",
+              "claim-a4d2eeea6a2d1aa7"
+            ],
+            "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金，对新落户企业及中介机构给予基于实到注册资本比例的奖励与补贴，并提供产品目录优先列入及综合服务平台支持。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-de262b527c0d92ce",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a953d801f527c27f"
+            ],
+            "draft_excerpt": "设立5000万元/年国际中小企业招引专项资金。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4bcec1af551d056f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5a041f93bc49f535"
+            ],
+            "draft_excerpt": "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2877e9e6a9d8af09",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7156b581ecca5a24"
+            ],
+            "draft_excerpt": "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b4f5820da2c12e7d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f097689425374411"
+            ],
+            "draft_excerpt": "对建立委托关系的中介机构给予费用补贴。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9f46b934023fb440",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f957485f7588d1fa"
+            ],
+            "draft_excerpt": "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2268550d7e899423",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4d2eeea6a2d1aa7"
+            ],
+            "draft_excerpt": "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-71e4a7c3cafcc425",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n设立5000万元/年国际中小企业招引专项资金。对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本10%最高500万元的奖励，用于支持企业开办及运营。对成功引进项目的中介及机构，经认定给予一年内实到注册资本的5%最高150万元的奖励。对建立委托关系的中介机构给予费用补贴。\n\n## 服务与保障\n\n对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。",
+    "description": "设立5000万元/年国际中小企业招引专项资金，对新落户企业及中介机构给予基于实到注册资本比例的奖励与补贴，并提供产品目录优先列入及综合服务平台支持。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-c473e49d7c1d",
+      "description": "设立5000万元/年国际中小企业招引专项资金。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "设立5000万元/年国际中小企业招引专项资金。",
+        "对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本 \\(10\\%\\) 最高500万元的奖励，用于支\n\n持企业开办及运营",
+        "对成功引进项目的中介及机构，经认定给予一年内实到注册资本的 \\(5\\%\\) 最高150万元的奖励",
+        "对建立委托关系的中介机构给予费用补贴。",
+        "对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。",
+        "建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。"
+      ],
+      "evidence_block_ids": [
+        "blk-0296f36a3e4ae7c033a4",
+        "blk-ed2be46ddb00ab3a4a83"
+      ],
+      "page_end": 165,
+      "page_start": 164,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（十三）实施促进国际中小企业来蓉发展计划"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "实施促进国际中小企业来蓉发展计划",
+      "type": "国际比较"
+    },
+    "title": "实施促进国际中小企业来蓉发展计划"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5cadda672a73:bundle-b1646b16f163",
+      "excluded_fragments": [],
+      "ref_id": "ref-5cadda672a73",
+      "source_blocks": [
+        {
+          "block_id": "blk-0296f36a3e4ae7c033a4",
+          "page_number": 164,
+          "text": "设立5000万元/年国际中小企业招引专项资金。对符合我市产业发展方向的新落户企业，经认定给予一年内实到注册资本 \\(10\\%\\) 最高500万元的奖励，用于支"
+        },
+        {
+          "block_id": "blk-ed2be46ddb00ab3a4a83",
+          "page_number": 165,
+          "text": "持企业开办及运营；对成功引进项目的中介及机构，经认定给予一年内实到注册资本的 \\(5\\%\\) 最高150万元的奖励；对建立委托关系的中介机构给予费用补贴。对落户国际中小企业产品可按程序优先列入《成都市地方名优产品推荐目录》，并享受政府采购等相关支持政策。建立国际中小企业综合服务平台，实行常态化走访制度，定期举办沙龙、座谈会，构建政企定期沟通服务机制。（牵头单位：市投促委；责任单位：市商务委、市经信委、市农委、市新经济委、市工商局、市科技局、市金融局）"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-c473e49d7c1d",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-5cadda672a73"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

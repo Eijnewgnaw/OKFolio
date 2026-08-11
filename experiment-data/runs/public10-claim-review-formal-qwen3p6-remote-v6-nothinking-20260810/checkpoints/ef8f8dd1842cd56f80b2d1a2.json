@@ -1,0 +1,761 @@
+{
+  "contract": {
+    "canonical_question": "成都平原经济区八市在2018年签署了哪些区域环境联防联控合作协议，其核心目标与机制是什么？",
+    "claims": [
+      {
+        "claim": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》。",
+        "claim_id": "claim-dac9a10e4004cd19",
+        "evidence_block_ids": [
+          "blk-63e30042574e24798e90"
+        ],
+        "evidence_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          95
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "秸秆禁烧联防联控的目标是“不见烟雾、不见火光、不见黑斑”。",
+        "claim_id": "claim-9318212d37a9c0a8",
+        "evidence_block_ids": [
+          "blk-63e30042574e24798e90"
+        ],
+        "evidence_excerpt": "以“不见烟雾、不见火光、不见黑斑”为目标",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          95
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域技术合作。",
+        "claim_id": "claim-e74dbe176dd08ba7",
+        "evidence_block_ids": [
+          "blk-63e30042574e24798e90"
+        ],
+        "evidence_excerpt": "八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用，开展区域秸秆综合利用技术合作",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          95
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "八市建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+        "claim_id": "claim-109ece5e98f73b6a",
+        "evidence_block_ids": [
+          "blk-be8158a358a9eda8bab1"
+        ],
+        "evidence_excerpt": "建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          96
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+        "claim_id": "claim-1e4562ab72ce596f",
+        "evidence_block_ids": [
+          "blk-585b6dfcf10ea78346d1"
+        ],
+        "evidence_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          96
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {
+          "time": [
+            "2018年1月"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项。",
+        "claim_id": "claim-70bf04633a115fb6",
+        "evidence_block_ids": [
+          "blk-9f09047445e315b9ba97"
+        ],
+        "evidence_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          96
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区大气污染联防联控项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点。",
+        "claim_id": "claim-7e3bc163dfdf71f5",
+        "evidence_block_ids": [
+          "blk-a5c848f0d2ca67881919"
+        ],
+        "evidence_excerpt": "该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          96
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {},
+        "slot": "problem",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成渝地区大气污染联防联控项目是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+        "claim_id": "claim-1071641826691242",
+        "evidence_block_ids": [
+          "blk-a5c848f0d2ca67881919"
+        ],
+        "evidence_excerpt": "该项目也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          96
+        ],
+        "ref_id": "ref-6ec1678b8d20",
+        "scope": {
+          "time": [
+            "2018—2022年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-dac9a10e4004cd19",
+          "claim-9318212d37a9c0a8",
+          "claim-e74dbe176dd08ba7",
+          "claim-109ece5e98f73b6a",
+          "claim-1e4562ab72ce596f",
+          "claim-70bf04633a115fb6",
+          "claim-7e3bc163dfdf71f5",
+          "claim-1071641826691242"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+        "reason": "该Bundle包含了回答分析框架中subject、core_judgment、evidence、problem、cause、constraint、impact、scope等固定槽位所需的全部关键事实，包括具体协议名称、签署时间、参与主体、‘"
+      }
+    ],
+    "group_id": "topic-7c289f7f9ff5",
+    "members": [
+      {
+        "contribution": "该证据详细列举了2018年成都平原经济区八市签署的秸秆禁烧联防联控协议、岷江沱江流域水生态治理协议，以及成渝地区大气污染联防联控项目，涵盖了空气、水及区域协同治理的核心事实。",
+        "ref_id": "ref-6ec1678b8d20",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-dac9a10e4004cd19",
+        "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-9318212d37a9c0a8",
+        "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e74dbe176dd08ba7",
+        "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-109ece5e98f73b6a",
+        "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1e4562ab72ce596f",
+        "draft_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-70bf04633a115fb6",
+        "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7e3bc163dfdf71f5",
+        "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1071641826691242",
+        "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-dac9a10e4004cd19",
+          "claim-1e4562ab72ce596f",
+          "claim-70bf04633a115fb6"
+        ],
+        "draft_excerpt": "2018年成都平原经济区八市签署秸秆禁烧联防联控协议，岷江沱江上游6市（州）签署流域水生态治理合作协议，以及成渝地区大气污染联防联控项目获立项。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-711406b8119eb811",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-dac9a10e4004cd19",
+          "claim-9318212d37a9c0a8",
+          "claim-e74dbe176dd08ba7",
+          "claim-109ece5e98f73b6a"
+        ],
+        "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bb8e12ef01334ef8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1e4562ab72ce596f"
+        ],
+        "draft_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-939e05a791d69da7",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-70bf04633a115fb6",
+          "claim-7e3bc163dfdf71f5",
+          "claim-1071641826691242"
+        ],
+        "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-314776537b734494",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-dac9a10e4004cd19",
+          "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-9318212d37a9c0a8",
+          "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e74dbe176dd08ba7",
+          "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-109ece5e98f73b6a",
+          "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1e4562ab72ce596f",
+          "draft_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-70bf04633a115fb6",
+          "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7e3bc163dfdf71f5",
+          "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1071641826691242",
+          "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-dac9a10e4004cd19",
+            "claim-1e4562ab72ce596f",
+            "claim-70bf04633a115fb6"
+          ],
+          "draft_excerpt": "2018年成都平原经济区八市签署秸秆禁烧联防联控协议，岷江沱江上游6市（州）签署流域水生态治理合作协议，以及成渝地区大气污染联防联控项目获立项。",
+          "finding": "supported",
+          "sentence_id": "sentence-711406b8119eb811",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-dac9a10e4004cd19",
+            "claim-9318212d37a9c0a8",
+            "claim-e74dbe176dd08ba7",
+            "claim-109ece5e98f73b6a"
+          ],
+          "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+          "finding": "supported",
+          "sentence_id": "sentence-bb8e12ef01334ef8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1e4562ab72ce596f"
+          ],
+          "draft_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+          "finding": "supported",
+          "sentence_id": "sentence-939e05a791d69da7",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-70bf04633a115fb6",
+            "claim-7e3bc163dfdf71f5",
+            "claim-1071641826691242"
+          ],
+          "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+          "finding": "supported",
+          "sentence_id": "sentence-314776537b734494",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "c588dfcd0da9c0ad9a0cabc87dcb193622d99ca37efe23c8688014d401f0c711",
+  "coverage_history": [
+    {
+      "draft_sha256": "545f23399f6f7cf68e935f75d60d482be0772311fdf347dc28a683389069f552",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-dac9a10e4004cd19",
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，承诺各负其责、各竭其力，以“不见烟雾、不见火光、不见黑斑”为目标，全力做好秸秆禁烧和综合利用工作。",
+            "finding": "sentence-55b9e914221f4942",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9318212d37a9c0a8",
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，承诺各负其责、各竭其力，以“不见烟雾、不见火光、不见黑斑”为目标，全力做好秸秆禁烧和综合利用工作。",
+            "finding": "sentence-55b9e914221f4942",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e74dbe176dd08ba7",
+            "draft_excerpt": "八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用，开展区域秸秆综合利用技术合作，并建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "sentence-39d9b87b7911e009",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-109ece5e98f73b6a",
+            "draft_excerpt": "八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用，开展区域秸秆综合利用技术合作，并建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "sentence-39d9b87b7911e009",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1e4562ab72ce596f",
+            "draft_excerpt": "在水生态治理方面，2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+            "finding": "sentence-90608872a2f30780",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-70bf04633a115fb6",
+            "draft_excerpt": "在大气污染联防联控方面，由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项。",
+            "finding": "sentence-cdd16fff0416fa2e",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7e3bc163dfdf71f5",
+            "draft_excerpt": "该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "sentence-2e9ad1faa9bcd10b",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1071641826691242",
+            "draft_excerpt": "该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "sentence-2e9ad1faa9bcd10b",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2018年成都平原经济区八市签署秸秆禁烧联防联控协议，建立区域合作联席会议机制，并推动国家重点研发计划立项以应对大气污染联防联控需求。",
+            "finding": "unsupported_claims",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-79507696599bd5c3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-dac9a10e4004cd19",
+              "claim-9318212d37a9c0a8"
+            ],
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，承诺各负其责、各竭其力，以“不见烟雾、不见火光、不见黑斑”为目标，全力做好秸秆禁烧和综合利用工作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-55b9e914221f4942",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e74dbe176dd08ba7",
+              "claim-109ece5e98f73b6a"
+            ],
+            "draft_excerpt": "八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用，开展区域秸秆综合利用技术合作，并建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-39d9b87b7911e009",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1e4562ab72ce596f"
+            ],
+            "draft_excerpt": "在水生态治理方面，2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-90608872a2f30780",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-70bf04633a115fb6"
+            ],
+            "draft_excerpt": "在大气污染联防联控方面，由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cdd16fff0416fa2e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7e3bc163dfdf71f5",
+              "claim-1071641826691242"
+            ],
+            "draft_excerpt": "该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2e9ad1faa9bcd10b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2018年成都平原经济区八市签署秸秆禁烧联防联控协议，建立区域合作联席会议机制，并推动国家重点研发计划立项以应对大气污染联防联控需求。",
+            "finding": "unsupported_claims"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "c588dfcd0da9c0ad9a0cabc87dcb193622d99ca37efe23c8688014d401f0c711",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-dac9a10e4004cd19",
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-9318212d37a9c0a8",
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e74dbe176dd08ba7",
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-109ece5e98f73b6a",
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1e4562ab72ce596f",
+            "draft_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-70bf04633a115fb6",
+            "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7e3bc163dfdf71f5",
+            "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1071641826691242",
+            "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-dac9a10e4004cd19",
+              "claim-1e4562ab72ce596f",
+              "claim-70bf04633a115fb6"
+            ],
+            "draft_excerpt": "2018年成都平原经济区八市签署秸秆禁烧联防联控协议，岷江沱江上游6市（州）签署流域水生态治理合作协议，以及成渝地区大气污染联防联控项目获立项。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-711406b8119eb811",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-dac9a10e4004cd19",
+              "claim-9318212d37a9c0a8",
+              "claim-e74dbe176dd08ba7",
+              "claim-109ece5e98f73b6a"
+            ],
+            "draft_excerpt": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bb8e12ef01334ef8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1e4562ab72ce596f"
+            ],
+            "draft_excerpt": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-939e05a791d69da7",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-70bf04633a115fb6",
+              "claim-7e3bc163dfdf71f5",
+              "claim-1071641826691242"
+            ],
+            "draft_excerpt": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-314776537b734494",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，以“不见烟雾、不见火光、不见黑斑”为目标，围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用开展区域秸秆综合利用技术合作，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户。\n\n2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》。\n\n由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项，该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。",
+    "description": "2018年成都平原经济区八市签署秸秆禁烧联防联控协议，岷江沱江上游6市（州）签署流域水生态治理合作协议，以及成渝地区大气污染联防联控项目获立项。",
+    "ref": {
+      "asset_hints": [
+        "html-table-013"
+      ],
+      "concept_id": "topic-7c289f7f9ff5",
+      "description": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，承诺将各负其责、各竭其力，以“不见烟雾、不见火光、不见黑斑”为目标，全力做好秸秆禁烧和综合利用工作。",
+      "document_family_id": "f353dfc112f22e17c2b7",
+      "document_version_id": "fcee9cbb197cd052e115",
+      "evidence": [
+        "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》",
+        "以“不见烟雾、不见火光、不见黑斑”为目标",
+        "八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用，开展区域秸秆综合利用技术合作",
+        "建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户",
+        "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》",
+        "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项",
+        "该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点",
+        "该项目也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一"
+      ],
+      "evidence_block_ids": [
+        "blk-63e30042574e24798e90",
+        "blk-be8158a358a9eda8bab1",
+        "blk-585b6dfcf10ea78346d1",
+        "blk-9f09047445e315b9ba97",
+        "blk-a5c848f0d2ca67881919"
+      ],
+      "page_end": 97,
+      "page_start": 74,
+      "ref_family_hint": "",
+      "ref_version_id": "fcee9cbb197cd052e115",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "fa5174b5-f9a4-407e-9eb9-86d93f14eb0a.md",
+      "title": "第三节 典型案例或重点项目",
+      "type": "分析框架"
+    },
+    "title": "第三节 典型案例或重点项目"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-6ec1678b8d20:bundle-420020ae43ef",
+      "excluded_fragments": [],
+      "ref_id": "ref-6ec1678b8d20",
+      "source_blocks": [
+        {
+          "block_id": "blk-f66924b989eefd14389c",
+          "page_number": 74,
+          "text": "资料来源：课题组根据四川省各市（州）、成都市级部门、成都市各区（市）县相关部门提供的资料，以及国内各省市政府网站，搜集整理得出。"
+        },
+        {
+          "block_id": "blk-796311c250e2b50f6f6a",
+          "page_number": 97,
+          "text": "资料来源：课题组根据四川省各市（州）、成都市级部门、成都市各区（市）县相关部门提供的资料，以及国内各省市政府网站，搜集整理得出。"
+        },
+        {
+          "block_id": "blk-63e30042574e24798e90",
+          "page_number": 95,
+          "text": "2018年，成都平原经济区八市共同签署了《成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议》，承诺将各负其责、各竭其力，以“不见烟雾、不见火光、不见黑斑”为目标，全力做好秸秆禁烧和综合利用工作。八市围绕秸秆“肥料化、燃料化、基科化、原料化、饲料化”等“五化”利用，开展区域秸秆综合利用技术合作，共同引导和鼓励科研院所、农技推广部门、秸秆综合利用企业间技术交流，为企业、农民专业合作社和农户开展秸秆综合利用提供好服务。为了避免相互竞争造成的问题，八市以经济发展"
+        },
+        {
+          "block_id": "blk-be8158a358a9eda8bab1",
+          "page_number": 96,
+          "text": "规划、环境保护规划和环境容量为基础，在省级相关部门的支持下，建立起秸秆综合利用项目引进协商机制，共同促进项目在适宜地区落户，同时积极探索和推进区域内秸秆综合利用补贴、农机购置补贴、秸秆收储运体系建设、绿色上网、用电用地、企业融资等经济政策。通过引进和经济政策合作的创新，携手创新环境保护齐抓共管的联动机制，为打赢蓝天保卫战，打好污染防治攻坚战，建设美丽繁荣和谐四川作出贡献。"
+        },
+        {
+          "block_id": "blk-9f09047445e315b9ba97",
+          "page_number": 96,
+          "text": "由四川省科技厅会同有关部门共同组织申报的2018年度国家重点研发计划“成渝地区大气污染联防联控技术与集成示范”获科技部立项。2018年12月，“成渝地区大气污染联防联控技术与集成示范”在成都举行了启动仪式暨课题实施方案论证会，科技部、四川省科学技术厅、四川省生态环境厅、重庆市科学技术局、重庆市生态环境局、北京大学、四川省环境保护科学研究院等相关单位参会，并围绕《成渝地区大气重污染形成过程与时空分布研究》、《成渝PM2.5化学组分和光化学污染立体监测网设计与建设》、《成渝地区大气污染联防联控决策支撑体系与集成示范研究》等6个课题进行了深入探讨。"
+        },
+        {
+          "block_id": "blk-a5c848f0d2ca67881919",
+          "page_number": 96,
+          "text": "该项目主要针对成渝特殊地形、高湿和高静风频率与快速经济发展等特点，一是研究大地形条件下大气复合污染成因及大气污染与气象过程的相互作用机制，构建基于清洁能源（如水电和天然气等）优化和产业升级方案。二是研究复杂地形条件下立体监测预警技术，建立区域大气污染联防联控机制及业务化支撑技术平台，提出成渝区域大气污染综合防治策略和整体技术方案，并进行关键技术的应用示范。三是着重厘清成渝经济区大气复合污染形成机制及城市间的相互影响，建成区域空气质量立体监测预警业务化体系和决策支持信息管理平台，形成解决成渝经济区大气污染问题的整体技术方案和实施机制。该项目也是《重庆市人民政府、四川省人民政府深化川渝合作深入推动长江经济带发展行动计划（2018—2022年）》中重要内容之一。"
+        },
+        {
+          "block_id": "blk-585b6dfcf10ea78346d1",
+          "page_number": 96,
+          "text": "2018年1月，成都、德阳、雅安、资阳、眉山、阿坝等岷江、沱江上游6市（州）河长办在成都市召开了第一次区域合作联席会议，共同签署了《建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议》，探索开展流域水资源保护、水域岸线管理保护、水污染防治、水环境治理、水生态修复、执法监管等方面的多边或双边协作，在流域综合治理、水质监测信息共享等方面进一步加强合作。协议旨在通过积极探索流域统一规划、同步治理、共同管护的新模式，有效推动了流域综合治理；通过加快建设水质联"
+        },
+        {
+          "block_id": "blk-79155c6b97aa30c88655",
+          "page_number": 97,
+          "text": "防联控信息化平台，开展流域水环境质量同步监测，实现上下游数据、政策科技资讯、流域治理方法、治理模式等方面的信息交流与共享；定期联合开展流域水环境风险排查，加强突发环境事件、重点污染源异常排污等可能引发跨区域环境事件或群体性事件的信息通报、措施应对、信息发布协同合作。联系会议机制的建立和合作协议的签署，标志着岷江、沱江上游6市（州）开启了协同治水良好的开端，为共建长江上游生态屏障迈开坚实的一步。"
+        },
+        {
+          "block_id": "blk-fb0044f87dfcf73abaa4",
+          "page_number": 97,
+          "text": "表 5-1 成都与其他城市生态协同共治相关文件一览表"
+        },
+        {
+          "block_id": "blk-39b9ff43b5fd43cd4454",
+          "page_number": 97,
+          "text": "<table><tr><td>年份</td><td>合作城市(单位)</td><td>相关文件</td></tr><tr><td>2018</td><td>成都、环成都经济圈城市</td><td>成都经济区农作物秸秆禁烧联防联控和综合利用区域合作协议</td></tr><tr><td>2018</td><td>成都、自贡、泸州、德阳、内江、眉山、资阳</td><td>沱江流域横向生态保护补偿协议</td></tr><tr><td>2018</td><td>成都、德阳、眉山、雅安、资阳、阿坝</td><td>建立岷江沱江河长制管理协调机制联动推进流域水生态治理保护合作协议</td></tr><tr><td>2018</td><td>成都、德阳、内江、自贡、泸州、资阳</td><td>四川省沱江流域突发环境事件联防联控框架协议</td></tr><tr><td>2018</td><td>成都、眉山、乐山、宜宾、阿坝</td><td>四川省岷江流域突发环境事件联防联控框架协议</td></tr><tr><td>2018</td><td>成都、德阳、眉山、资阳</td><td>生态环境保护同城化发展合作协议</td></tr></table>"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-7c289f7f9ff5",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-6ec1678b8d20"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

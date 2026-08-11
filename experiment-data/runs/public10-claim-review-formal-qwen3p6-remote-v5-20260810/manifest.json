@@ -1,0 +1,82 @@
+{
+  "configuration": {
+    "allow_partial": false,
+    "client": {
+      "routing": "schema_stage",
+      "stages": {
+        "compile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3p6-35b-a3b",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "contract": {
+          "enable_thinking": true,
+          "max_tokens": 8192,
+          "model": "qwen3p6-35b-a3b",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "coverage": {
+          "enable_thinking": false,
+          "max_tokens": 16384,
+          "model": "qwen3p6-35b-a3b",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        },
+        "recompile": {
+          "enable_thinking": false,
+          "max_tokens": 8192,
+          "model": "qwen3p6-35b-a3b",
+          "response_format": "json_schema",
+          "send_chat_template_kwargs": true
+        }
+      }
+    },
+    "coverage_batch_size": 12,
+    "known_source_anomalies": [
+      "见色号"
+    ],
+    "max_recompile_attempts": 2,
+    "prompt_sha256": {
+      "compile": "22444bca30d4e66a3f9a0334ba4fa9163e212cf8bc8fc63ae76e968dafd8eabb",
+      "contract": "9893eb67810130fc4d73b6e378b1b02a556fadc5b1f801f47d7e5e95f2846f76",
+      "coverage": "84d9da031ac5bed808c9f42e44e1d76d78a0a5238d370289fd7032c639fd6248",
+      "recompile": "112224824684d5d9ee9f4b5233e4a188718a5c22ff58cc8e089704fd3e4b8292"
+    },
+    "seed": {
+      "checkpoint_sha256": {
+        "evidence-0dc054af8da0": "76eba426350c46b60b76063f50ac3f5f28ef82a678d0db66f9ad03245b42bb6c",
+        "evidence-f4b917d5cc03": "178e780f83fc9864b680c1fa66ea39b8fa6ca9465d89e7d5b9694eec75d05072",
+        "proposition-0479c96775ac": "a773aab60fec26fcd54255b35dee93c448785e4174ae55d8b4d7e775d02ae651",
+        "proposition-074dc85e74c6": "599a170ac8ce0deeceadc5d3a9b9656f790ca2f61ca804ba9a8fba163a05839b",
+        "proposition-119678b32d8f": "85b5421f234d57c34cbc1e4fe33d2300fef06f913d3d9b8bf029427bcd4d365f",
+        "proposition-18e797566a6f": "767f79012d675df328e1a0966be0fb69e2267f2b7e5f8238aee5dcd5e0dd71be",
+        "proposition-1e74b5b9b331": "98d3cdcb76ea615cc99b801c40510ffcd1dbcef1a4cb6d0828b9246c0de4e7ae",
+        "proposition-27377a4b257b": "4430a165411cb2d5069ee16f7f602594df51d914700f782bef5956d02e275c44",
+        "proposition-4137bc2a9114": "f04809cc01ddf3e618f395a2cddd8d830c005e33a1c93dd733e722553fc4d9ee",
+        "proposition-4c19f8848dea": "229365de27e831dd7f9e882fa7596addcbf804401790cae3312d68411516ff08",
+        "proposition-4d3f52db9752": "0bf5dc2505a1c4f6b7b0168ba19a84fc5a26027e662f3a1da999fe468f743405",
+        "proposition-577b3ef646bd": "df2fcda6921286e3393227e1d27db5bbc185dbe7b6e6b72ba33af7165e7eb111",
+        "proposition-59a7a74afc89": "63ba1927599f5a3e3b68a1b42ba393f7d7fcde58a0c7b6fe645506a4882b9ef7",
+        "topic-66d93b99f07b": "01c968be92b611c12a4a2d9c0d8c3ecbc4c16e760923f6f0a03476cfd4386d4d"
+      },
+      "coverage_prompt_relaxed": false,
+      "model_relaxed": true,
+      "run_name": "public10-claim-review-formal-qwen36-v4-batched-20260810",
+      "skipped_checkpoints": {
+        "proposition-409d61df4f02": "seed checkpoint must be a passed complete group or stop at a deterministic recompile decision",
+        "proposition-5b694b506d23": "seed checkpoint must contain Contract, Draft and Coverage",
+        "proposition-7e4a36a43afc": "seed checkpoint must contain Contract, Draft and Coverage",
+        "proposition-82d79e510854": "seed checkpoint must contain Contract, Draft and Coverage"
+      },
+      "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7"
+    },
+    "selected_group_ids": []
+  },
+  "schema": "okfolio.claim-review-run.v1",
+  "source_run_name": "public10-local-qwen36-semantic-v2-20260809",
+  "source_snapshot_sha256": "0776db027e9030fa40555e6b592fc7140510a0895c7e30263fffa061132562c7",
+  "status": "running"
+}

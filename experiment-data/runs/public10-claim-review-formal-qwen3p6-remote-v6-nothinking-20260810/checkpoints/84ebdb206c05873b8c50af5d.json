@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-18f0ebfd25f6:bundle-29ae151f9c2d) is missing hard anchors from the claim: ['2020年']; claim='2020年以来，成都高新区与郫都区、绵阳高新区、内江高新区等开展10余次友好交流，签订5份协同发展（深化）合作协议。'; excerpt='一是与省内市（州）高新区共建合作机制。组织与郫都区、绵阳高新区、内江高新区等高新区开展10余次友好交流，先后签订了5份协同发展（深化）合作协议。'",
+  "group_id": "topic-da0db82f39e0",
+  "ref_ids": [
+    "ref-18f0ebfd25f6",
+    "ref-66314f96ed19"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

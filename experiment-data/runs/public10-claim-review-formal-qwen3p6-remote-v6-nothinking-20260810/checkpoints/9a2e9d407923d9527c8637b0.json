@@ -1,0 +1,618 @@
+{
+  "contract": {
+    "canonical_question": "成都市针对纳入重点项目管理的外商投资项目，在用地保障、供地方式及地价优惠方面有哪些具体政策规定？",
+    "claims": [
+      {
+        "claim": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+        "claim_id": "claim-fb7010c67d5f314d",
+        "evidence_block_ids": [
+          "blk-809bcc2d60e03c3b32ba"
+        ],
+        "evidence_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+        "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-4b1aaa06edea",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+        "claim_id": "claim-5ad88f9d280dd138",
+        "evidence_block_ids": [
+          "blk-809bcc2d60e03c3b32ba"
+        ],
+        "evidence_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+        "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-4b1aaa06edea",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "符合《划拨供地目录》的外商投资项目，可采取划拨方式供地，免征场地使用费。",
+        "claim_id": "claim-23ec9aa44c4930ed",
+        "evidence_block_ids": [
+          "blk-809bcc2d60e03c3b32ba"
+        ],
+        "evidence_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+        "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-4b1aaa06edea",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "对集约用地的鼓励类外商投资工业项目，土地出让底价可按不低于所在地土地等别相对应全国工业用地出让最低价标准的70%执行。",
+        "claim_id": "claim-aabe3a6696560e16",
+        "evidence_block_ids": [
+          "blk-362ece84cb42ac83c740",
+          "blk-9b771afa66a31d0d492e"
+        ],
+        "evidence_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于\n\n所在地土地等别相对应全国工业用地出让最低价标准的 \\(70\\%\\) 执行",
+        "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155,
+          156
+        ],
+        "ref_id": "ref-4b1aaa06edea",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "政策实施的责任部门包括各区（市）县政府，市国土局、市经信委、市发改委。",
+        "claim_id": "claim-cf98fd766d58172e",
+        "evidence_block_ids": [
+          "blk-809bcc2d60e03c3b32ba"
+        ],
+        "evidence_excerpt": "[责任部门：各区（市）县政府，市国土局、市经信委、市发改委]",
+        "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          155
+        ],
+        "ref_id": "ref-4b1aaa06edea",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-fb7010c67d5f314d",
+          "claim-5ad88f9d280dd138",
+          "claim-23ec9aa44c4930ed",
+          "claim-aabe3a6696560e16",
+          "claim-cf98fd766d58172e"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+        "reason": "该Bundle包含了回答分析框架中subject、core_judgment、measure、implementer、scope等固定槽位所需的全部原子事实，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-d1c2bca2c6d9",
+    "members": [
+      {
+        "contribution": "该证据直接提供了外商投资项目在用地保障、供地方式多样化、划拨供地条件及集约用地地价优惠方面的具体政策细节，是回答中心问题的核心事实依据。",
+        "ref_id": "ref-4b1aaa06edea",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-fb7010c67d5f314d",
+        "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5ad88f9d280dd138",
+        "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-23ec9aa44c4930ed",
+        "draft_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-aabe3a6696560e16",
+        "draft_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-cf98fd766d58172e",
+        "draft_excerpt": "责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-fb7010c67d5f314d"
+        ],
+        "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-fc97a4d5cd1e1cac",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-fb7010c67d5f314d"
+        ],
+        "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-87d60d26532b0055",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5ad88f9d280dd138"
+        ],
+        "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7e9dc0d52748505c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-23ec9aa44c4930ed"
+        ],
+        "draft_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7b06a27e34a51640",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-aabe3a6696560e16"
+        ],
+        "draft_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-e3428d15c9a33532",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-cf98fd766d58172e"
+        ],
+        "draft_excerpt": "责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-64473efac347b3d0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-fb7010c67d5f314d",
+          "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5ad88f9d280dd138",
+          "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-23ec9aa44c4930ed",
+          "draft_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-aabe3a6696560e16",
+          "draft_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-cf98fd766d58172e",
+          "draft_excerpt": "责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-fb7010c67d5f314d"
+          ],
+          "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+          "finding": "supported",
+          "sentence_id": "sentence-fc97a4d5cd1e1cac",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-fb7010c67d5f314d"
+          ],
+          "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+          "finding": "supported",
+          "sentence_id": "sentence-87d60d26532b0055",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5ad88f9d280dd138"
+          ],
+          "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+          "finding": "supported",
+          "sentence_id": "sentence-7e9dc0d52748505c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-23ec9aa44c4930ed"
+          ],
+          "draft_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+          "finding": "supported",
+          "sentence_id": "sentence-7b06a27e34a51640",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-aabe3a6696560e16"
+          ],
+          "draft_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。",
+          "finding": "supported",
+          "sentence_id": "sentence-e3428d15c9a33532",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-cf98fd766d58172e"
+          ],
+          "draft_excerpt": "责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+          "finding": "supported",
+          "sentence_id": "sentence-64473efac347b3d0",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "d7e6b4b42b5f0ed8da1d0277c3d77908648e5e2ece810e75b0d24167f05ecb9c",
+  "coverage_history": [
+    {
+      "draft_sha256": "1c9525af6ff79efb04181463bdab4e1146ed0d4cf5a12edde56572c3d139a6ee",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-fb7010c67d5f314d",
+            "draft_excerpt": "对纳入重点项目管理的外商投资项目，实施用地优先保障策略，并同步优化报征和供地流程以提升效率。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5ad88f9d280dd138",
+            "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合及弹性年期出让等多种供地方式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-23ec9aa44c4930ed",
+            "draft_excerpt": "符合《划拨供地目录》的项目可采取划拨方式供地并免征场地使用费。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aabe3a6696560e16",
+            "draft_excerpt": "对于集约用地的鼓励类外商投资工业项目，土地出让底价可按不低于所在地土地等别相对应全国工业用地出让最低价标准的70%执行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf98fd766d58172e",
+            "draft_excerpt": "上述政策由各区（市）县政府，市国土局、市经信委、市发改委共同负责落实。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "针对重点外商投资项目提供用地优先保障，并通过多样化供地方式及地价优惠降低用地成本。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2b5e3edeafafc38",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb7010c67d5f314d"
+            ],
+            "draft_excerpt": "对纳入重点项目管理的外商投资项目，实施用地优先保障策略，并同步优化报征和供地流程以提升效率。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7f5f1e030ed19d41",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5ad88f9d280dd138"
+            ],
+            "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合及弹性年期出让等多种供地方式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df836731292035f2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-23ec9aa44c4930ed"
+            ],
+            "draft_excerpt": "符合《划拨供地目录》的项目可采取划拨方式供地并免征场地使用费。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f629ec1e8212b26d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aabe3a6696560e16"
+            ],
+            "draft_excerpt": "对于集约用地的鼓励类外商投资工业项目，土地出让底价可按不低于所在地土地等别相对应全国工业用地出让最低价标准的70%执行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-975eec3914ad5c97",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cf98fd766d58172e"
+            ],
+            "draft_excerpt": "上述政策由各区（市）县政府，市国土局、市经信委、市发改委共同负责落实。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-31fe34bdce69d6c8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "针对重点外商投资项目提供用地优先保障，并通过多样化供地方式及地价优惠降低用地成本。",
+            "finding": "unsupported_claim"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "d7e6b4b42b5f0ed8da1d0277c3d77908648e5e2ece810e75b0d24167f05ecb9c",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-fb7010c67d5f314d",
+            "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5ad88f9d280dd138",
+            "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-23ec9aa44c4930ed",
+            "draft_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-aabe3a6696560e16",
+            "draft_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-cf98fd766d58172e",
+            "draft_excerpt": "责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-fb7010c67d5f314d"
+            ],
+            "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fc97a4d5cd1e1cac",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-fb7010c67d5f314d"
+            ],
+            "draft_excerpt": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-87d60d26532b0055",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5ad88f9d280dd138"
+            ],
+            "draft_excerpt": "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e9dc0d52748505c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-23ec9aa44c4930ed"
+            ],
+            "draft_excerpt": "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7b06a27e34a51640",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-aabe3a6696560e16"
+            ],
+            "draft_excerpt": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e3428d15c9a33532",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-cf98fd766d58172e"
+            ],
+            "draft_excerpt": "责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-64473efac347b3d0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。\n\n- 积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。\n- 符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。\n- 对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的 70% 执行。\n- 责任部门：各区（市）县政府，市国土局、市经信委、市发改委",
+    "description": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-d1c2bca2c6d9",
+      "description": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。",
+        "积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。",
+        "符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。",
+        "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于\n\n所在地土地等别相对应全国工业用地出让最低价标准的 \\(70\\%\\) 执行",
+        "[责任部门：各区（市）县政府，市国土局、市经信委、市发改委]"
+      ],
+      "evidence_block_ids": [
+        "blk-809bcc2d60e03c3b32ba",
+        "blk-362ece84cb42ac83c740",
+        "blk-9b771afa66a31d0d492e"
+      ],
+      "page_end": 156,
+      "page_start": 155,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "附录",
+        "成都自贸试验区建设三年试验任务行动计划 (2017-2019)",
+        "（一）加强外资用地保障。"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "加强外资用地保障。",
+      "type": "分析框架"
+    },
+    "title": "加强外资用地保障。"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-4b1aaa06edea:bundle-efc05f89015b",
+      "excluded_fragments": [],
+      "ref_id": "ref-4b1aaa06edea",
+      "source_blocks": [
+        {
+          "block_id": "blk-809bcc2d60e03c3b32ba",
+          "page_number": 155,
+          "text": "对纳入我市重点项目管理的外商投资项目，优先保障项目用地，优化报征和供地流程。积极探索短期出让、租赁、先租后让、租让结合、弹性年期出让等多种供地方式。符合《划拨供地目录》的，可采取划拨方式供地，免征场地使用费。[责任部门：各区（市）县政府，市国土局、市经信委、市发改委]"
+        },
+        {
+          "block_id": "blk-362ece84cb42ac83c740",
+          "page_number": 155,
+          "text": "对集约用地的鼓励类外商投资工业项目，在确定土地出让底价时可按不低于"
+        },
+        {
+          "block_id": "blk-9b771afa66a31d0d492e",
+          "page_number": 156,
+          "text": "所在地土地等别相对应全国工业用地出让最低价标准的 \\(70\\%\\) 执行。［责任部门：各区（市）县政府，市国土局、市经信委、市发改委］"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d1c2bca2c6d9",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-4b1aaa06edea"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

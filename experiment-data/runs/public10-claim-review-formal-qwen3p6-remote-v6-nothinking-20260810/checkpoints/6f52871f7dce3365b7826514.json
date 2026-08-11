@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[2].evidence_excerpt (ref-e2b10adfe206:bundle-4304583ad3ea) is missing hard anchors from the claim: ['2021年']; claim='2021年成都与省内20个市（州）均开展了产业合作，覆盖省内“五大经济区”。'; excerpt='从省内层面来看，成都与省内20个市（州）均开展了合作，合作范围已完全覆盖省内“五大经济区”'",
+  "group_id": "topic-8215a651be5f",
+  "ref_ids": [
+    "ref-e2b10adfe206"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

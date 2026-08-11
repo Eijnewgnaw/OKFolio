@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[0].evidence_excerpt (ref-d30c4a34e57d:bundle-cd1ec0a078b0) is missing hard anchors from the claim: ['2020年']; claim='2020年，邛崃市推进基础设施共建合作，将川藏铁路邛崃羊安站、市域铁路S7线、天邛高速和天新邛快速路纳入《成都都市圈交通基础设施互联互通三年实施方案（2020-2022年）》。'; excerpt='一是推进基础设施共建合作。完善《成都都市圈交通基础设施互联互通三年实施方案（2020-2022年）》，将川藏铁路邛崃羊安站、市域铁路S7线、天邛高速和天新邛快速路等重大交通基础设施项目纳入实施方案。'",
+  "group_id": "topic-38de82f6f1ba",
+  "ref_ids": [
+    "ref-d30c4a34e57d"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

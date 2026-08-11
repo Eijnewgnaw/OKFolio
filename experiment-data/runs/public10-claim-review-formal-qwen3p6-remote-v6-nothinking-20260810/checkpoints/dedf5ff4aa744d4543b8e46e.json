@@ -1,0 +1,1311 @@
+{
+  "contract": {
+    "canonical_question": "2020年以来，成都东部新区及全市层面在交通基础设施建设方面取得了哪些具体进展？",
+    "claims": [
+      {
+        "claim": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装等收尾工作；机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。",
+        "claim_id": "claim-1fea6d070534a974",
+        "evidence_block_ids": [
+          "blk-00b779adf88f6612ff46"
+        ],
+        "evidence_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装，消防、给水、污水管网铺设等收尾工作；航站区工程正在进行精装修；机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件，机场工程已基本完成建设。",
+        "evidence_id": "ref-332250edd2f5:bundle-ad704c532f03",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          99
+        ],
+        "ref_id": "ref-332250edd2f5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "四川首条跨市市域铁路成资S3线于11月27日正式动工建设。",
+        "claim_id": "claim-89b5a40a6004569b",
+        "evidence_block_ids": [
+          "blk-d766bb13838c8ac6a913"
+        ],
+        "evidence_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+        "evidence_id": "ref-332250edd2f5:bundle-ad704c532f03",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          99
+        ],
+        "ref_id": "ref-332250edd2f5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进。",
+        "claim_id": "claim-828bb5f7e26e02df",
+        "evidence_block_ids": [
+          "blk-d766bb13838c8ac6a913"
+        ],
+        "evidence_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+        "evidence_id": "ref-332250edd2f5:bundle-ad704c532f03",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          99
+        ],
+        "ref_id": "ref-332250edd2f5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "东西城市轴线东部新区段已于2020年5月正式开工建设，目前正常推进，预计2022年建成投用。",
+        "claim_id": "claim-f44f3fb3d36585ee",
+        "evidence_block_ids": [
+          "blk-d766bb13838c8ac6a913"
+        ],
+        "evidence_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，目前正常推进，预计2022年建成投用。",
+        "evidence_id": "ref-332250edd2f5:bundle-ad704c532f03",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          99
+        ],
+        "ref_id": "ref-332250edd2f5",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2020年，成都共新开通高速公路5条，新增通车里程224公里，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。",
+        "claim_id": "claim-34dd0d6ed66d3fca",
+        "evidence_block_ids": [
+          "blk-67b07012dc9b743c99bf",
+          "blk-a03641360f411ff39a55"
+        ],
+        "evidence_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，市域内高速公路通车运营里程突破1100公里①，达到1177.5公里②，",
+        "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77,
+          78
+        ],
+        "ref_id": "ref-539b0188c8c1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速、成都经济区环线高速德简（成都境内）段建成通车。",
+        "claim_id": "claim-290d6bf4adec507c",
+        "evidence_block_ids": [
+          "blk-67b07012dc9b743c99bf"
+        ],
+        "evidence_excerpt": "成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速、成都经济区环线高速德简（成都境内）段建成通车。",
+        "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-539b0188c8c1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进。",
+        "claim_id": "claim-a7420a9063cf18bd",
+        "evidence_block_ids": [
+          "blk-67b07012dc9b743c99bf"
+        ],
+        "evidence_excerpt": "2020年，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进，",
+        "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-539b0188c8c1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动。",
+        "claim_id": "claim-00e6a57643eaa053",
+        "evidence_block_ids": [
+          "blk-67b07012dc9b743c99bf"
+        ],
+        "evidence_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，",
+        "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-539b0188c8c1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+        "claim_id": "claim-d257a91e301a33be",
+        "evidence_block_ids": [
+          "blk-67b07012dc9b743c99bf"
+        ],
+        "evidence_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设③，",
+        "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          77
+        ],
+        "ref_id": "ref-539b0188c8c1",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1fea6d070534a974",
+          "claim-89b5a40a6004569b",
+          "claim-828bb5f7e26e02df",
+          "claim-f44f3fb3d36585ee"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-332250edd2f5:bundle-ad704c532f03",
+        "reason": "提供东部新区交通建设的具体项目、进度及未来规划，是回答中心问题中区域层面进展的必要证据。"
+      },
+      {
+        "claim_ids": [
+          "claim-34dd0d6ed66d3fca",
+          "claim-290d6bf4adec507c",
+          "claim-a7420a9063cf18bd",
+          "claim-00e6a57643eaa053",
+          "claim-d257a91e301a33be"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+        "reason": "提供全市高速公路建设的具体项目进展、通车情况及路网数据，是回答中心问题中全市层面进展的必要证据。"
+      }
+    ],
+    "group_id": "topic-6b07660a3f56",
+    "members": [
+      {
+        "contribution": "聚焦成都东部新区，详述天府机场建设收尾、成资S3线动工、成资临空大道及东西城市轴线等区域道路规划与建设进展。",
+        "ref_id": "ref-332250edd2f5",
+        "relation": "applies_to"
+      },
+      {
+        "contribution": "覆盖全市高速公路通道网络，列举天邛、成绵扩容等推进项目，以及天府机场高速、成宜高速等5条建成通车的高速公路，明确通车里程与路网结构。",
+        "ref_id": "ref-539b0188c8c1",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-1fea6d070534a974",
+        "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-34dd0d6ed66d3fca",
+        "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-89b5a40a6004569b",
+        "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-828bb5f7e26e02df",
+        "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f44f3fb3d36585ee",
+        "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-00e6a57643eaa053",
+        "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-a7420a9063cf18bd",
+        "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-d257a91e301a33be",
+        "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-290d6bf4adec507c",
+        "draft_excerpt": "",
+        "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+        "status": "omitted"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-5e7ec7dcdf017d70",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-1fea6d070534a974",
+          "claim-34dd0d6ed66d3fca"
+        ],
+        "draft_excerpt": "2020年以来，成都东部新区加速推进天府国际机场及交通道路规划建设，机场工程已基本完成建设，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-af30213eb301a143",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [],
+        "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bf7c67bd4716d8a5",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-1fea6d070534a974"
+        ],
+        "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b402a69dbcfca11c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1fea6d070534a974"
+        ],
+        "draft_excerpt": "机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ad8bb4db9d017042",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-34dd0d6ed66d3fca",
+          "claim-290d6bf4adec507c"
+        ],
+        "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8ed4fb6b5ff1a16f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-89b5a40a6004569b"
+        ],
+        "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-7e2a9bf277a6940e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-828bb5f7e26e02df"
+        ],
+        "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-66e0f75f9fe3da6e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f44f3fb3d36585ee"
+        ],
+        "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-8d57b32b5795a084",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-00e6a57643eaa053",
+          "claim-a7420a9063cf18bd"
+        ],
+        "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2b547fa4c94f179c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-d257a91e301a33be"
+        ],
+        "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-83705b36a411ac73",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1fea6d070534a974",
+          "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-34dd0d6ed66d3fca",
+          "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-89b5a40a6004569b",
+          "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-828bb5f7e26e02df",
+          "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f44f3fb3d36585ee",
+          "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-00e6a57643eaa053",
+          "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-a7420a9063cf18bd",
+          "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-d257a91e301a33be",
+          "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-5e7ec7dcdf017d70",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-1fea6d070534a974",
+            "claim-34dd0d6ed66d3fca"
+          ],
+          "draft_excerpt": "2020年以来，成都东部新区加速推进天府国际机场及交通道路规划建设，机场工程已基本完成建设，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。",
+          "finding": "supported",
+          "sentence_id": "sentence-af30213eb301a143",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [],
+          "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-bf7c67bd4716d8a5",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-1fea6d070534a974"
+          ],
+          "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+          "finding": "supported",
+          "sentence_id": "sentence-b402a69dbcfca11c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1fea6d070534a974"
+          ],
+          "draft_excerpt": "机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。",
+          "finding": "supported",
+          "sentence_id": "sentence-ad8bb4db9d017042",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-34dd0d6ed66d3fca",
+            "claim-290d6bf4adec507c"
+          ],
+          "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+          "finding": "supported",
+          "sentence_id": "sentence-8ed4fb6b5ff1a16f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-89b5a40a6004569b"
+          ],
+          "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+          "finding": "supported",
+          "sentence_id": "sentence-7e2a9bf277a6940e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-828bb5f7e26e02df"
+          ],
+          "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+          "finding": "supported",
+          "sentence_id": "sentence-66e0f75f9fe3da6e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f44f3fb3d36585ee"
+          ],
+          "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+          "finding": "supported",
+          "sentence_id": "sentence-8d57b32b5795a084",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-00e6a57643eaa053",
+            "claim-a7420a9063cf18bd"
+          ],
+          "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+          "finding": "supported",
+          "sentence_id": "sentence-2b547fa4c94f179c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-d257a91e301a33be"
+          ],
+          "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-83705b36a411ac73",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+          "finding": "unsupported"
+        },
+        {
+          "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "95cce8bafe4c1af3400cd50401ce717398c2566e3405ef28c5172b5585fff57f",
+  "coverage_history": [
+    {
+      "draft_sha256": "3be9c2a543990313bf6092fc3b7db5ae5a0ff668d4be2ff9fd6d295a76d4add0",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1fea6d070534a974",
+            "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-89b5a40a6004569b",
+            "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-828bb5f7e26e02df",
+            "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f44f3fb3d36585ee",
+            "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-34dd0d6ed66d3fca",
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-290d6bf4adec507c",
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a7420a9063cf18bd",
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00e6a57643eaa053",
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d257a91e301a33be",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e7ec7dcdf017d70",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974",
+              "claim-34dd0d6ed66d3fca"
+            ],
+            "draft_excerpt": "2020年以来，成都东部新区加速推进天府国际机场及交通道路规划建设，机场工程已基本完成建设，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af30213eb301a143",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf7c67bd4716d8a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974"
+            ],
+            "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b402a69dbcfca11c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974"
+            ],
+            "draft_excerpt": "机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad8bb4db9d017042",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-34dd0d6ed66d3fca",
+              "claim-290d6bf4adec507c"
+            ],
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ed4fb6b5ff1a16f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89b5a40a6004569b"
+            ],
+            "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e2a9bf277a6940e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-828bb5f7e26e02df"
+            ],
+            "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66e0f75f9fe3da6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f44f3fb3d36585ee"
+            ],
+            "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d57b32b5795a084",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00e6a57643eaa053",
+              "claim-a7420a9063cf18bd"
+            ],
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2b547fa4c94f179c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d257a91e301a33be"
+            ],
+            "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83705b36a411ac73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "95cce8bafe4c1af3400cd50401ce717398c2566e3405ef28c5172b5585fff57f",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1fea6d070534a974",
+            "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-34dd0d6ed66d3fca",
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-89b5a40a6004569b",
+            "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-828bb5f7e26e02df",
+            "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f44f3fb3d36585ee",
+            "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00e6a57643eaa053",
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a7420a9063cf18bd",
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d257a91e301a33be",
+            "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-290d6bf4adec507c",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e7ec7dcdf017d70",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974",
+              "claim-34dd0d6ed66d3fca"
+            ],
+            "draft_excerpt": "2020年以来，成都东部新区加速推进天府国际机场及交通道路规划建设，机场工程已基本完成建设，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af30213eb301a143",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf7c67bd4716d8a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974"
+            ],
+            "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b402a69dbcfca11c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974"
+            ],
+            "draft_excerpt": "机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad8bb4db9d017042",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-34dd0d6ed66d3fca",
+              "claim-290d6bf4adec507c"
+            ],
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ed4fb6b5ff1a16f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89b5a40a6004569b"
+            ],
+            "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e2a9bf277a6940e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-828bb5f7e26e02df"
+            ],
+            "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66e0f75f9fe3da6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f44f3fb3d36585ee"
+            ],
+            "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d57b32b5795a084",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00e6a57643eaa053",
+              "claim-a7420a9063cf18bd"
+            ],
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2b547fa4c94f179c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d257a91e301a33be"
+            ],
+            "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83705b36a411ac73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "95cce8bafe4c1af3400cd50401ce717398c2566e3405ef28c5172b5585fff57f",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-1fea6d070534a974",
+            "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-34dd0d6ed66d3fca",
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-89b5a40a6004569b",
+            "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-828bb5f7e26e02df",
+            "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f44f3fb3d36585ee",
+            "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-00e6a57643eaa053",
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-a7420a9063cf18bd",
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-d257a91e301a33be",
+            "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-290d6bf4adec507c",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5e7ec7dcdf017d70",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974",
+              "claim-34dd0d6ed66d3fca"
+            ],
+            "draft_excerpt": "2020年以来，成都东部新区加速推进天府国际机场及交通道路规划建设，机场工程已基本完成建设，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-af30213eb301a143",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bf7c67bd4716d8a5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974"
+            ],
+            "draft_excerpt": "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b402a69dbcfca11c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1fea6d070534a974"
+            ],
+            "draft_excerpt": "机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ad8bb4db9d017042",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-34dd0d6ed66d3fca",
+              "claim-290d6bf4adec507c"
+            ],
+            "draft_excerpt": "2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8ed4fb6b5ff1a16f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-89b5a40a6004569b"
+            ],
+            "draft_excerpt": "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7e2a9bf277a6940e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-828bb5f7e26e02df"
+            ],
+            "draft_excerpt": "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-66e0f75f9fe3da6e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f44f3fb3d36585ee"
+            ],
+            "draft_excerpt": "东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-8d57b32b5795a084",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-00e6a57643eaa053",
+              "claim-a7420a9063cf18bd"
+            ],
+            "draft_excerpt": "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2b547fa4c94f179c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-d257a91e301a33be"
+            ],
+            "draft_excerpt": "金简仁、成资、成龙简、成洛简等快速路加速建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-83705b36a411ac73",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2020年以来，成都东部新区加速推进天府国际机场及交通道路规划建设，机场工程已基本完成建设，市域内高速公路通车运营里程突破1100公里，达到1177.5公里。\n\n随着多条高速公路建成通车及快速路加速建设，成都全市高速公路通道网络逐步形成，为东部新区与周边区域的互联互通提供了坚实的交通基础。\n\n- 天府国际机场飞行区工程已基本建成，正在进行助航灯光安装及管网铺设收尾工作，航站区工程正在进行精装修；机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件。\n- 2020年，成都共新开通高速公路5条，新增通车里程224公里，包括成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速以及成都经济区环线高速德简（成都境内）段。\n- 联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；东西城市轴线东部新区段已于2020年5月正式开工建设，预计2022年建成投用。\n- 天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进；金简仁、成资、成龙简、成洛简等快速路加速建设。",
+    "description": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设，全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-6b07660a3f56",
+      "description": "2020年以来，成都东部新区推动天府国际机场及交通道路规划建设；全市高速公路通道网络逐步形成，包括天邛高速、成绵扩容等项目的推进与多条高速建成通车。",
+      "document_family_id": "",
+      "document_version_id": "",
+      "evidence": [
+        "天府国际机场飞行区工程已基本建成，正在进行助航灯光安装，消防、给水、污水管网铺设等收尾工作；航站区工程正在进行精装修；机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件，机场工程已基本完成建设。",
+        "联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；",
+        "成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；",
+        "东西城市轴线东部新区段已于2020年5月正式开工建设，目前正常推进，预计2022年建成投用。",
+        "2020年，成都共新开通高速公路5条，新增通车里程224公里，市域内高速公路通车运营里程突破1100公里①，达到1177.5公里②，",
+        "成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速、成都经济区环线高速德简（成都境内）段建成通车。",
+        "2020年，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进，",
+        "天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，",
+        "金简仁、成资、成龙简、成洛简等快速路加速建设③，"
+      ],
+      "evidence_block_ids": [
+        "blk-00b779adf88f6612ff46",
+        "blk-d766bb13838c8ac6a913",
+        "blk-67b07012dc9b743c99bf",
+        "blk-a03641360f411ff39a55"
+      ],
+      "page_end": 99,
+      "page_start": 13,
+      "ref_family_hint": "",
+      "ref_version_id": "",
+      "scope": {},
+      "section_path": [],
+      "semantic_signature": {},
+      "source": "多来源联合编译",
+      "title": "成都东部新区与全市高速公路通道网络建设",
+      "type": "分析框架"
+    },
+    "title": "成都东部新区与全市高速公路通道网络建设"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-332250edd2f5:bundle-ad704c532f03",
+      "excluded_fragments": [],
+      "ref_id": "ref-332250edd2f5",
+      "source_blocks": [
+        {
+          "block_id": "blk-da1240a252c8f714290f",
+          "page_number": 98,
+          "text": "2020年以来，成都东部新区聚焦打造成德临港经济产业协作带、推动建设成都天府国际机场、加快交通道路规划建设、创建国家制造业高质量发展试验区，全面践行区域合作理念，并取得显著成效。"
+        },
+        {
+          "block_id": "blk-58d55f895325698a5b95",
+          "page_number": 98,
+          "text": "一是打造成德临港经济产业协作带。成都东部新区会同资阳市临空经济区加快编制"
+        },
+        {
+          "block_id": "blk-d8e9722ea6c194b6a624",
+          "page_number": 99,
+          "text": "《成资临空经济产业带发展规划》，争取2021年出台。共同参加由省同城化领导小组办公室举办的三区三带产业协作带开工仪式，促进成都健康医学中心（未来医学城）一期、一品天下·乐至城市会客厅项目等14个项目开工建设，总投资约62亿元。"
+        },
+        {
+          "block_id": "blk-00b779adf88f6612ff46",
+          "page_number": 99,
+          "text": "二是推动建设成都天府国际机场。天府国际机场飞行区工程已基本建成，正在进行助航灯光安装，消防、给水、污水管网铺设等收尾工作；航站区工程正在进行精装修；机场内市政道路路网正加速成形，24条市政道路已有20条达到通车条件，机场工程已基本完成建设。"
+        },
+        {
+          "block_id": "blk-d766bb13838c8ac6a913",
+          "page_number": 99,
+          "text": "三是加快交通道路规划建设。联接东部新区18号线福田站和成渝客专资阳北站的四川首条跨市市域铁路成资S3线于11月27日正式动工建设；成资临空大道建设进入最后攻坚期，按照明年与机场同步投运加快推进；东西城市轴线东部新区段已于2020年5月正式开工建设，目前正常推进，预计2022年建成投用。"
+        },
+        {
+          "block_id": "blk-027c4cbaba422a841a54",
+          "page_number": 99,
+          "text": "四是创建国家制造业高质量发展试验区。完成C立方智造慧创空间等4个总计90万平米高品质科创空间规划设计，率先启动先进汽车科创空间项目建设；签约引进总投资300亿元川交路桥智慧交通及智能制造项目，储备重大产业化项目40余个；正强精密机电、艾博机器人、奥地利三康等10个产业链配套项目完成公司注册、方案设计，2021年全面开工建设。"
+        },
+        {
+          "block_id": "blk-36edafde862bed84890b",
+          "page_number": 99,
+          "text": "下一步，东部新区应配合省市相关部门尽快研究出台支持成都东部新区与其他区域合作的政策措施；研究制定相关激励政策，鼓励优质教育、文化、卫生资源交流共享；加快推进连通成德、成眉的城际铁路立项开工，加快建设成自高铁、成南达万高铁、成资S3线，共同推进成资渝高速公路、成资大道、成资临空大道、蜀都大道东延线加快建设。"
+        }
+      ]
+    },
+    {
+      "evidence_id": "ref-539b0188c8c1:bundle-8e9d991c5bf4",
+      "excluded_fragments": [],
+      "ref_id": "ref-539b0188c8c1",
+      "source_blocks": [
+        {
+          "block_id": "blk-95b7ba2c9d4b5fd78db7",
+          "page_number": 13,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-67b07012dc9b743c99bf",
+          "page_number": 77,
+          "text": "2020年，成汶、邛雅、天眉乐高速公路及成渝高速扩容等项目前期工作加快推进，天邛高速和成绵、成南高速扩容等项目征地拆迁工作与控制性工程建设有序推动，金简仁、成资、成龙简、成洛简等快速路加速建设③，成都天府国际机场高速、成都经济区环线高速蒲都段、成资渝高速、成宜高速、成都经济区环线高速德简（成都境内）段建成通车。2020年，成都共新开通高速公路5条，新增通车里程224"
+        },
+        {
+          "block_id": "blk-a03641360f411ff39a55",
+          "page_number": 78,
+          "text": "公里，市域内高速公路通车运营里程突破1100公里①，达到1177.5公里②，畅接成渝地区双城经济圈、辐射中西部、通达全国的“2绕13射”高速路网更加完善，由京昆高速、成自泸高速—渝昆高速、成渝环线—渝昆高速，经昆明通过杭瑞高速、昆磨高速和开河高速至中南半岛各国的南向高速公路通道网络逐步形成。"
+        },
+        {
+          "block_id": "blk-921de1e158137869903b",
+          "page_number": 78,
+          "text": "成都天府国际机场高速：项目设置双起点和双止点，分别起于锦江区三环路南段和天府新区武汉路，经成都市锦江区、天府新区、龙泉驿区、东部新区、简阳市，沿线分别与三环路、车城大道、五环路、双筒路等市政道路以及成都绕城、第二绕城、经济区环线高速、成自泸等高速公路衔接，止于成都经济区环线高速公路，分别对接资潼高速和成宜高速公路，是天府国际机场综合集疏运体系的重要组成部分，也是连接天府、双流两座国际机场、提升成都机场集疏运效率的重要通道。"
+        },
+        {
+          "block_id": "blk-0eaaff041340881b9164",
+          "page_number": 78,
+          "text": "成都经济区环线高速公路蒲都段：蒲江至都江堰段途经成都蒲江、邛崃、大邑、崇州、都江堰5个市县，项目主线全长101.42公里，设计时速120公里/小时，双向6车道。项目充分连接既有高速公路，实现了城市间的互通互联、快速转换，形成成都“西控”区域一小时高速公路纽带；项目串联起了青城山、都江堰、西岭雪山、平乐古镇等26个人文自然景观，也是一条旅游高速公路。"
+        },
+        {
+          "block_id": "blk-b8bb8aba3230ddcf2ba7",
+          "page_number": 78,
+          "text": "成都经济区环线高速公路德简（成都境内）段：德阳至简阳段起于德阳市黄许镇，经中江县、金堂县、止于简阳市禾丰镇，全长105公里。双向六车道高速公路技术标准，设计速度120公里/小时。德简高速开通后，加强了成都平原经济区的辐射作用，有利于推进成德眉资同城化发展，助力简阳、德阳融入成渝地区双城经济圈，同时形成一条德阳与天府国际机场间的便捷大通道。"
+        },
+        {
+          "block_id": "blk-4a618c5df767800c8b8f",
+          "page_number": 79,
+          "text": "成资渝高速：项目起于成都市简阳江源镇，止于川渝界的资阳市安岳县龙台镇，路线全长约110公里，设计速度为100公里/小时，其中，成都经济区环线高速（三绕）至成渝渝渝蓉枢纽段（约68公里）为双向6车道，成渝渝渝蓉枢纽至川渝界止点（约42公里）段为双向4车道。成渝地区双城经济圈建设上升为国家战略后，首条直接连接天府新区和重庆两江新区两个国家级新区的高速公路，将为推进成渝地区双城经济圈建设提供强有力的基础设施数障。"
+        },
+        {
+          "block_id": "blk-e6f435d0cacf05945deb",
+          "page_number": 79,
+          "text": "成宜高速：项目成都经济区环线高速公路，对接成都天府国际机场高速公路南线，经成都东部新区、简阳市、眉山市仁寿县、内江市威远县、自贡市荣县、宜宾市叙州区、翠屏区，止于乐宜高速中峰寺枢纽，对接宜宾城市过境高速公路西段。线路通车后，从成都天府国际机场高速公路南线出发约90分钟左右即可到达宜宾，将成为成都平原经济区与川南经济区最便捷的联系通道。"
+        },
+        {
+          "block_id": "blk-e3477bf4819b2ac4dd4b",
+          "page_number": 79,
+          "text": "“2绕”：成都绕城高速、成都第二绕城高速。"
+        },
+        {
+          "block_id": "blk-481f142d8ca8cc630bc4",
+          "page_number": 79,
+          "text": "“13射”：蓉昌高速（成灌高速—都汶高速）、成万高速（成彭高速—成什绵高速）、成绵高速、成巴高速、成南高速、成安渝高速、成渝高速、成都天府国际机场高速北线—成资渝高速、成都天府国际机场高速南线—成宜高速、蓉遵高速（成自泸高速）、成雅高速、成乐高速、成名高速。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-6b07660a3f56",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-332250edd2f5",
+    "ref-539b0188c8c1"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

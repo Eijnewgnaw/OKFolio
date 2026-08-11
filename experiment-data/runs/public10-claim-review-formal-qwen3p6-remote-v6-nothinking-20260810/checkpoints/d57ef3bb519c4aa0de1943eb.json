@@ -1,0 +1,10 @@
+{
+  "error": "ContractError: evidence_units[1].claims[2].evidence_excerpt (ref-34841cf3ef76:bundle-f8baf9866ed0) is missing hard anchors from the claim: ['2021年']; claim='2021年，成都新开通成都至伦敦、阿姆斯特丹、达卡、马德里、班加罗尔5条国际定期直飞货运航线，国际货运航线数量增至15条，国际航班已覆盖全球71个城市，国际（地区）航线增至131条。'; excerpt='国际客货运航线保持稳定，新开通成都至伦敦、阿姆斯特丹、达卡、马德里、班加罗尔5条国际定期直飞货运航线，国际货运航线数量增至15条，国际航班已覆盖全球71个城市，国际（地区）航线增至131条，航线规模稳居全国第四、中西部第一。'",
+  "group_id": "topic-ea91885b8c98",
+  "ref_ids": [
+    "ref-1ddfbe5341b8",
+    "ref-34841cf3ef76"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

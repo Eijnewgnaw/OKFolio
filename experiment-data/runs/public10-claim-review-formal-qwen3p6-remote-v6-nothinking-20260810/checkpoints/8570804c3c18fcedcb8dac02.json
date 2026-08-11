@@ -1,0 +1,941 @@
+{
+  "contract": {
+    "canonical_question": "《天府大道科创走廊建设方案》的战略定位、空间范围、发展阶段目标及功能布局是什么？",
+    "claims": [
+      {
+        "claim": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+        "claim_id": "claim-58b4f2f80675e21f",
+        "evidence_block_ids": [
+          "blk-d5d51364b48ad8ee76de"
+        ],
+        "evidence_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          284
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+        "claim_id": "claim-c0c363943d13070a",
+        "evidence_block_ids": [
+          "blk-d5d51364b48ad8ee76de"
+        ],
+        "evidence_excerpt": "《天府大道科创走廊建设方案》，范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          284
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {
+          "region": [
+            "成都",
+            "德阳",
+            "眉山"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府大道科创走廊锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位。",
+        "claim_id": "claim-b451afc0b35c6243",
+        "evidence_block_ids": [
+          "blk-7f6da23128ce3c5b502e"
+        ],
+        "evidence_excerpt": "天府大道科创走廊锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          284
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府大道科创走廊聚焦三大战略定位：引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体。",
+        "claim_id": "claim-f38a37ed3ebff0e3",
+        "evidence_block_ids": [
+          "blk-7f6da23128ce3c5b502e"
+        ],
+        "evidence_excerpt": "聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          284
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "到2025年，天府大道科创走廊初步建成具有区域影响力的科创走廊。",
+        "claim_id": "claim-35c70af6652d4d25",
+        "evidence_block_ids": [
+          "blk-7f6da23128ce3c5b502e"
+        ],
+        "evidence_excerpt": "到2025年，初步建成具有区域影响力的科创走廊",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          284
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {
+          "time": "2025年"
+        },
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "到2035年，天府大道科创走廊建设成为具有全国影响力的科创走廊。",
+        "claim_id": "claim-65804a0e6ff648ef",
+        "evidence_block_ids": [
+          "blk-7f6da23128ce3c5b502e"
+        ],
+        "evidence_excerpt": "到2035年，建设成为具有全国影响力的科创走廊",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          284
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {
+          "time": "2035年"
+        },
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+        "claim_id": "claim-eb8c226af2c900f7",
+        "evidence_block_ids": [
+          "blk-8ec9efc94e16b43e6f53"
+        ],
+        "evidence_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          285
+        ],
+        "ref_id": "ref-85ccd8d1b88f",
+        "scope": {},
+        "slot": "subject",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-58b4f2f80675e21f",
+          "claim-c0c363943d13070a",
+          "claim-b451afc0b35c6243",
+          "claim-f38a37ed3ebff0e3",
+          "claim-35c70af6652d4d25",
+          "claim-65804a0e6ff648ef",
+          "claim-eb8c226af2c900f7"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+        "reason": "该Bundle包含《天府大道科创走廊建设方案》的关键事实，是回答中心问题所必需的。"
+      }
+    ],
+    "group_id": "topic-abd55f784785",
+    "members": [
+      {
+        "contribution": "该证据直接提供了《天府大道科创走廊建设方案》的核心事实，包括其战略定位、空间范围（长度、面积、涉及城市）、发展阶段目标（2025年、2035年）以及功能布局原则，完整回答了分析框架所需的主体、核心判断、证据、scope和impact等槽位。",
+        "ref_id": "ref-85ccd8d1b88f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-58b4f2f80675e21f",
+        "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c0c363943d13070a",
+        "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b451afc0b35c6243",
+        "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-f38a37ed3ebff0e3",
+        "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-35c70af6652d4d25",
+        "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-65804a0e6ff648ef",
+        "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-eb8c226af2c900f7",
+        "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-685e545f9ff0cf4f",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-58b4f2f80675e21f"
+        ],
+        "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-72fa5926ac404c63",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b451afc0b35c6243",
+          "claim-f38a37ed3ebff0e3"
+        ],
+        "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cd41072bb51a7cfb",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c0c363943d13070a"
+        ],
+        "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-998ab21d608ab4a0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-eb8c226af2c900f7"
+        ],
+        "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d7e936f92f1714a5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-35c70af6652d4d25"
+        ],
+        "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9cd128f053827e7b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-65804a0e6ff648ef"
+        ],
+        "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-41318f0f1f91adfa",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-58b4f2f80675e21f",
+          "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c0c363943d13070a",
+          "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b451afc0b35c6243",
+          "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-f38a37ed3ebff0e3",
+          "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-35c70af6652d4d25",
+          "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-65804a0e6ff648ef",
+          "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-eb8c226af2c900f7",
+          "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-685e545f9ff0cf4f",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-58b4f2f80675e21f"
+          ],
+          "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+          "finding": "supported",
+          "sentence_id": "sentence-72fa5926ac404c63",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b451afc0b35c6243",
+            "claim-f38a37ed3ebff0e3"
+          ],
+          "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+          "finding": "supported",
+          "sentence_id": "sentence-cd41072bb51a7cfb",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c0c363943d13070a"
+          ],
+          "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+          "finding": "supported",
+          "sentence_id": "sentence-998ab21d608ab4a0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-eb8c226af2c900f7"
+          ],
+          "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+          "finding": "supported",
+          "sentence_id": "sentence-d7e936f92f1714a5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-35c70af6652d4d25"
+          ],
+          "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+          "finding": "supported",
+          "sentence_id": "sentence-9cd128f053827e7b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-65804a0e6ff648ef"
+          ],
+          "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+          "finding": "supported",
+          "sentence_id": "sentence-41318f0f1f91adfa",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "c38496862fff91141894d9f6b9fe415c168a6ebf977a0f23da59da28dc575c6e",
+  "coverage_history": [
+    {
+      "draft_sha256": "ab172fffa5f2a7b469c5d2fcde4cd71ef18e3de58922eea0329953e1f255ba01",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-58b4f2f80675e21f",
+            "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，旨在依托天府大道打造具有全国影响力的科技创新中心承载区，规划至2035年建成全国性科创走廊。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b451afc0b35c6243",
+            "draft_excerpt": "《天府大道科创走廊建设方案》锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦三大核心方向：引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f38a37ed3ebff0e3",
+            "draft_excerpt": "《天府大道科创走廊建设方案》锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦三大核心方向：引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-35c70af6652d4d25",
+            "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65804a0e6ff648ef",
+            "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c0c363943d13070a",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-c0c363943d13070a is missing hard anchors from the claim: ['《天府大道科创走廊建设方案》']; claim='《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。'; excerpt='天府大道科创走廊的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，总长度142公里，总面积849平方公里。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-eb8c226af2c900f7",
+            "draft_excerpt": "在功能布局上，天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能，形成协同创新的区域格局。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-58b4f2f80675e21f",
+              "claim-b451afc0b35c6243",
+              "claim-65804a0e6ff648ef"
+            ],
+            "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，旨在依托天府大道打造具有全国影响力的科技创新中心承载区，规划至2035年建成全国性科创走廊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-11ed674fc7a15f06",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b451afc0b35c6243",
+              "claim-f38a37ed3ebff0e3"
+            ],
+            "draft_excerpt": "《天府大道科创走廊建设方案》锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦三大核心方向：引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9fc469b35493c2fb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35c70af6652d4d25"
+            ],
+            "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d04d9e484bb84eaf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65804a0e6ff648ef"
+            ],
+            "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aabf6da7a8f4acd",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c0c363943d13070a"
+            ],
+            "draft_excerpt": "天府大道科创走廊的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，总长度142公里，总面积849平方公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-58f9591767526582",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eb8c226af2c900f7"
+            ],
+            "draft_excerpt": "在功能布局上，天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能，形成协同创新的区域格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-277066e11db5d6ff",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    },
+    {
+      "draft_sha256": "c38496862fff91141894d9f6b9fe415c168a6ebf977a0f23da59da28dc575c6e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-58b4f2f80675e21f",
+            "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c0c363943d13070a",
+            "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b451afc0b35c6243",
+            "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f38a37ed3ebff0e3",
+            "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-35c70af6652d4d25",
+            "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65804a0e6ff648ef",
+            "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eb8c226af2c900f7",
+            "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-685e545f9ff0cf4f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-58b4f2f80675e21f"
+            ],
+            "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-72fa5926ac404c63",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b451afc0b35c6243",
+              "claim-f38a37ed3ebff0e3"
+            ],
+            "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd41072bb51a7cfb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c0c363943d13070a"
+            ],
+            "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-998ab21d608ab4a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eb8c226af2c900f7"
+            ],
+            "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e936f92f1714a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35c70af6652d4d25"
+            ],
+            "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9cd128f053827e7b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65804a0e6ff648ef"
+            ],
+            "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41318f0f1f91adfa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "c38496862fff91141894d9f6b9fe415c168a6ebf977a0f23da59da28dc575c6e",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-58b4f2f80675e21f",
+            "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c0c363943d13070a",
+            "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b451afc0b35c6243",
+            "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-f38a37ed3ebff0e3",
+            "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-35c70af6652d4d25",
+            "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-65804a0e6ff648ef",
+            "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-eb8c226af2c900f7",
+            "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-685e545f9ff0cf4f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-58b4f2f80675e21f"
+            ],
+            "draft_excerpt": "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-72fa5926ac404c63",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b451afc0b35c6243",
+              "claim-f38a37ed3ebff0e3"
+            ],
+            "draft_excerpt": "该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cd41072bb51a7cfb",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c0c363943d13070a"
+            ],
+            "draft_excerpt": "《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-998ab21d608ab4a0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-eb8c226af2c900f7"
+            ],
+            "draft_excerpt": "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d7e936f92f1714a5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-35c70af6652d4d25"
+            ],
+            "draft_excerpt": "该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9cd128f053827e7b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-65804a0e6ff648ef"
+            ],
+            "draft_excerpt": "到2035年，建设成为具有全国影响力的科创走廊。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-41318f0f1f91adfa",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》。该方案锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位。\n\n《天府大道科创走廊建设方案》的范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能。\n\n该方案设定了明确的时间节点目标：到2025年，初步建成具有区域影响力的科创走廊；到2035年，建设成为具有全国影响力的科创走廊。",
+    "description": "2023年8月四川省审议通过《天府大道科创走廊建设方案》，规划范围涉及成都、德阳、眉山19个功能组团，旨在打造具有全国影响力的科创走廊。",
+    "ref": {
+      "asset_hints": [
+        "image-168",
+        "image-169"
+      ],
+      "concept_id": "topic-abd55f784785",
+      "description": "天府大道作为世界最长的城市中轴线，是成渝地区创新资源最为聚集、创新动能最为充沛、创新活力最为强劲的区域之一，天府大道沿线成德眉资四市是区域创新的“先锋队”和“主力军”。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》",
+        "《天府大道科创走廊建设方案》，范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。",
+        "天府大道科创走廊锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位",
+        "聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位",
+        "到2025年，初步建成具有区域影响力的科创走廊",
+        "到2035年，建设成为具有全国影响力的科创走廊",
+        "天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能"
+      ],
+      "evidence_block_ids": [
+        "blk-d5d51364b48ad8ee76de",
+        "blk-7f6da23128ce3c5b502e",
+        "blk-8ec9efc94e16b43e6f53"
+      ],
+      "page_end": 287,
+      "page_start": 284,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "重大事件",
+        "成德眉资联合印发《天府大道科创走廊建设方案》"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "成德眉资联合印发《天府大道科创走廊建设方案》",
+      "type": "分析框架"
+    },
+    "title": "成德眉资联合印发《天府大道科创走廊建设方案》"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-85ccd8d1b88f:bundle-346422614f83",
+      "excluded_fragments": [],
+      "ref_id": "ref-85ccd8d1b88f",
+      "source_blocks": [
+        {
+          "block_id": "blk-d5d51364b48ad8ee76de",
+          "page_number": 284,
+          "text": "天府大道作为世界最长的城市中轴线，是成渝地区创新资源最为聚集、创新动能最为充沛、创新活力最为强劲的区域之一，天府大道沿线成德眉资四市是区域创新的“先锋队”和“主力军”。2023年8月，四川省推进成德眉资同城化发展领导小组第七次会议审议并通过了《天府大道科创走廊建设方案》，范围包括天府大道北延线、南延线两侧相关区域，涉及成都、德阳、眉山19个功能组团，长度142公里，面积849平方公里。"
+        },
+        {
+          "block_id": "blk-923f751bf0286f41ec33",
+          "page_number": 284,
+          "text": "原始 PDF 第 284 页图片"
+        },
+        {
+          "block_id": "blk-7ef0079a6e94b7a3f8a8",
+          "page_number": 284,
+          "text": "图7-1 天府大道科创走廊空间布局"
+        },
+        {
+          "block_id": "blk-7f6da23128ce3c5b502e",
+          "page_number": 284,
+          "text": "根据《方案》，天府大道科创走廊锚定成渝地区双城经济圈建设具有全国影响力的科技创新中心重要承载区的战略定位，聚焦引领成都都市圈高质量发展的科创大动脉、成渝世界级战略性新兴产业的集中发展廊道、具有全国影响力的高能级区域创新共同体三大战略定位，到2025年，初步建成具有区域影响力的科创走廊；到2035年，建设成为具有全国影响力的科创走廊。"
+        },
+        {
+          "block_id": "blk-8ec9efc94e16b43e6f53",
+          "page_number": 285,
+          "text": "按照全域一体、绿色集约、功能集聚的原则，天府大道科创走廊以成都科学城为原始创新策源地，其余组团重点承担技术创新、应用创新和创新服务功能，同时辐射带动科创走廊外功能组团，加快汇聚国内外科研机构、高端人才团队、领军型科技企业等创新要素资源，打造产业联动、空间联结、功能融合、开放共享的创新发展走廊，塑造区域科技创新品牌，打造区域协同创新共同体。"
+        },
+        {
+          "block_id": "blk-3b2e3d206c626fee4a62",
+          "page_number": 286,
+          "text": "推进龙门山龙泉山旅游业协同发展，是加快推动成德眉资同城化发展的具体行动。2023年8月，四市共同编制出台《成都市都市圈龙门山龙泉山旅游业协同发展规划（2023-2030）》，构建“两城引领、两带联动、五区（带）先行、一环串联”的发展格局，到2030年，龙门山龙泉山成为成都都市圈世界级旅游目的地的重要支撑，成为巴蜀文化旅游走廊的重要旅游目的地。"
+        },
+        {
+          "block_id": "blk-01fd24bf662413c9d407",
+          "page_number": 286,
+          "text": "《规划》提出，整合成都都市圈龙门山龙泉山区域内旅游资源，根据旅游资源特色和旅游开发前景，优先建设成德眉资毗邻地区五个旅游协同发展探索先行区：彭（州）什（郁）绵（竹）龙门山生态康养旅游先行区、蒲（江）丹（棱）国际生态度假旅游先行区、简（阳）雁（江）乐（至）农旅融合发展先行区、金（堂）中（江）运动康养旅游融合发展先行区和双（流）彭（山）东（坡）青（神）岷江文化旅游先行区（带）。"
+        },
+        {
+          "block_id": "blk-7673ae1c04ea67c40437",
+          "page_number": 286,
+          "text": "《规划》指出，要完善丹棱-邛崃-都江堰-彭州-绵竹-中江-金堂-龙泉驿-简阳-乐至-仁寿-青神-丹棱沿线旅游交通及服务设施，形成龙门山龙泉山旅游协同发展大环线。"
+        },
+        {
+          "block_id": "blk-3425a413e42dc86d5d7e",
+          "page_number": 286,
+          "text": "龙门山龙泉山区域分别位于成都都市圈东西两侧，面积2.25万平方公里，规划范围共涉及成德眉资四市的25个区（市）县。龙门山核心区为成都的都江堰市、崇州市、彭州市、大邑县、邛崃市、蒲江县，德阳市的什邡市、绵竹市，眉山市的丹棱县所在龙门山的区域；龙泉山核心区为四川天府新区，成都东部新区、青白江区、金堂县、龙泉驿区、新津区、简阳市，德阳市的广汉市、中江县，眉山市的仁寿县、青神县所在龙泉山和沿山区域，辐射区为眉山市的东坡区、彭山区和资阳市的乐至县、雁江区。"
+        },
+        {
+          "block_id": "blk-c3de47ad6332735f5288",
+          "page_number": 286,
+          "text": "作为成都都市圈旅游资源富集区和旅游产业集聚区，龙门山龙泉山区域拥有青城山一都江堰世界文化遗产、大熊猫栖息地世界自然遗产、都江堰水利工程世界灌溉工程遗产、四川省通济堰世界灌溉工程遗产等世界级遗产4处，拥有2处国家5A级旅游景区、1处国家级旅游度假区、31处国家4A级旅游景区，还有50多处国家级和省级风景名胜区、地质公园、森林公园、自然保护区，部分区域处于大熊猫国家公园内，旅游资源品质之高、类型之齐全，在全国尤为突出。"
+        },
+        {
+          "block_id": "blk-18cfdb8d667ae2efe23a",
+          "page_number": 287,
+          "text": "原始 PDF 第 287 页图片"
+        },
+        {
+          "block_id": "blk-fa8bf0f4cedd1487a5ba",
+          "page_number": 287,
+          "text": "图7-2 龙门山龙泉山旅游交通规划图"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-abd55f784785",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-85ccd8d1b88f"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

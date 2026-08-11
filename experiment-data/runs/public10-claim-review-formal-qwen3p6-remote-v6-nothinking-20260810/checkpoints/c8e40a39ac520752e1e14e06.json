@@ -1,0 +1,975 @@
+{
+  "contract": {
+    "canonical_question": "2016年成都建设国际门户枢纽在航空、铁路、公路及多式联运方面采取了哪些具体举措？",
+    "claims": [
+      {
+        "claim": "2016年成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+        "claim_id": "claim-f7a6ff09c37dea81",
+        "evidence_block_ids": [
+          "blk-d43fd41efb20a021e455"
+        ],
+        "evidence_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          37
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "time": [
+            "2016年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+        "claim_id": "claim-7341433a87599ad0",
+        "evidence_block_ids": [
+          "blk-d43fd41efb20a021e455"
+        ],
+        "evidence_excerpt": "着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽 \\(+\\) 补给港”航空枢纽运行格局",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          37
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "object": [
+            "成都天府国际机场",
+            "成都双流国际机场",
+            "金堂通用机场"
+          ]
+        },
+        "slot": "country_or_region",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+        "claim_id": "claim-df4336918fb61c7f",
+        "evidence_block_ids": [
+          "blk-d43fd41efb20a021e455"
+        ],
+        "evidence_excerpt": "大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          37
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "region": [
+            "欧非",
+            "美澳",
+            "亚洲",
+            "东盟"
+          ]
+        },
+        "slot": "difference",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2016年成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+        "claim_id": "claim-3343fa6e997204ef",
+        "evidence_block_ids": [
+          "blk-c0483921b0f4b2b4d02b"
+        ],
+        "evidence_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          37
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "time": [
+            "2016年"
+          ]
+        },
+        "slot": "measurement_basis",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+        "claim_id": "claim-e9092d9c27daaa5e",
+        "evidence_block_ids": [
+          "blk-c0483921b0f4b2b4d02b"
+        ],
+        "evidence_excerpt": "北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          37
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "region": [
+            "新亚欧大陆桥经济走廊",
+            "环渤海湾区域",
+            "京津冀"
+          ]
+        },
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+        "claim_id": "claim-67dd24c7b22f87cd",
+        "evidence_block_ids": [
+          "blk-c0483921b0f4b2b4d02b",
+          "blk-487b1f173949d94c7dad"
+        ],
+        "evidence_excerpt": "南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          37,
+          38
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "region": [
+            "孟中印缅经济走廊",
+            "西南出海大通道"
+          ]
+        },
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+        "claim_id": "claim-3d7ded643a66a79f",
+        "evidence_block_ids": [
+          "blk-487b1f173949d94c7dad"
+        ],
+        "evidence_excerpt": "西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          38
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "region": [
+            "中亚",
+            "中欧"
+          ]
+        },
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+        "claim_id": "claim-1301644b27645d1c",
+        "evidence_block_ids": [
+          "blk-487b1f173949d94c7dad"
+        ],
+        "evidence_excerpt": "东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          38
+        ],
+        "ref_id": "ref-5950ac83d1ba",
+        "scope": {
+          "region": [
+            "成渝经济圈",
+            "长江中游城市群",
+            "长三角"
+          ]
+        },
+        "slot": "applicability_limit",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-f7a6ff09c37dea81",
+          "claim-7341433a87599ad0",
+          "claim-df4336918fb61c7f",
+          "claim-3343fa6e997204ef",
+          "claim-e9092d9c27daaa5e",
+          "claim-67dd24c7b22f87cd",
+          "claim-3d7ded643a66a79f",
+          "claim-1301644b27645d1c"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+        "reason": "该证据包含回答航空、铁路、公路及多式联运四个固定槽位所需的全部原子事实，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-d01ff8eb04bb",
+    "members": [
+      {
+        "contribution": "该证据详细描述了2016年成都通过构建“双枢纽+补给港”航空格局、完善“三主三辅”铁路货运体系、打通高速通道及推进“四港融合”多式联运，来建设国际门户枢纽的具体举措。",
+        "ref_id": "ref-5950ac83d1ba",
+        "relation": "applies_to"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-f7a6ff09c37dea81",
+        "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7341433a87599ad0",
+        "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-df4336918fb61c7f",
+        "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3343fa6e997204ef",
+        "draft_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e9092d9c27daaa5e",
+        "draft_excerpt": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-67dd24c7b22f87cd",
+        "draft_excerpt": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3d7ded643a66a79f",
+        "draft_excerpt": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1301644b27645d1c",
+        "draft_excerpt": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-f7a6ff09c37dea81",
+          "claim-7341433a87599ad0",
+          "claim-df4336918fb61c7f",
+          "claim-3343fa6e997204ef",
+          "claim-e9092d9c27daaa5e",
+          "claim-67dd24c7b22f87cd",
+          "claim-3d7ded643a66a79f",
+          "claim-1301644b27645d1c"
+        ],
+        "draft_excerpt": "2016年成都加速推进双流国际机场扩能改造和天府国际机场开工建设，着力构建“双枢纽+补给港”航空枢纽格局，实施国际航线发展战略，并加快构建铁路货运体系及多向联通网络。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4c24891f3988769e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-f7a6ff09c37dea81"
+        ],
+        "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-53f92579850217e0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7341433a87599ad0"
+        ],
+        "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-df638c291d5b0807",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-df4336918fb61c7f"
+        ],
+        "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c31822c65eb216e1",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3343fa6e997204ef"
+        ],
+        "draft_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-97700bcfbef416cf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e9092d9c27daaa5e"
+        ],
+        "draft_excerpt": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-39b7cc3d210af1b5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-67dd24c7b22f87cd"
+        ],
+        "draft_excerpt": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-bbf77ad05f181ead",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3d7ded643a66a79f"
+        ],
+        "draft_excerpt": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-d77be77d46d909bc",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1301644b27645d1c"
+        ],
+        "draft_excerpt": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-f61daf21c04ca4b4",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-f7a6ff09c37dea81",
+          "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7341433a87599ad0",
+          "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-df4336918fb61c7f",
+          "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3343fa6e997204ef",
+          "draft_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e9092d9c27daaa5e",
+          "draft_excerpt": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-67dd24c7b22f87cd",
+          "draft_excerpt": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3d7ded643a66a79f",
+          "draft_excerpt": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1301644b27645d1c",
+          "draft_excerpt": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-f7a6ff09c37dea81",
+            "claim-7341433a87599ad0",
+            "claim-df4336918fb61c7f",
+            "claim-3343fa6e997204ef",
+            "claim-e9092d9c27daaa5e",
+            "claim-67dd24c7b22f87cd",
+            "claim-3d7ded643a66a79f",
+            "claim-1301644b27645d1c"
+          ],
+          "draft_excerpt": "2016年成都加速推进双流国际机场扩能改造和天府国际机场开工建设，着力构建“双枢纽+补给港”航空枢纽格局，实施国际航线发展战略，并加快构建铁路货运体系及多向联通网络。",
+          "finding": "supported",
+          "sentence_id": "sentence-4c24891f3988769e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-f7a6ff09c37dea81"
+          ],
+          "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+          "finding": "supported",
+          "sentence_id": "sentence-53f92579850217e0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7341433a87599ad0"
+          ],
+          "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+          "finding": "supported",
+          "sentence_id": "sentence-df638c291d5b0807",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-df4336918fb61c7f"
+          ],
+          "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+          "finding": "supported",
+          "sentence_id": "sentence-c31822c65eb216e1",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3343fa6e997204ef"
+          ],
+          "draft_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+          "finding": "supported",
+          "sentence_id": "sentence-97700bcfbef416cf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e9092d9c27daaa5e"
+          ],
+          "draft_excerpt": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+          "finding": "supported",
+          "sentence_id": "sentence-39b7cc3d210af1b5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-67dd24c7b22f87cd"
+          ],
+          "draft_excerpt": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+          "finding": "supported",
+          "sentence_id": "sentence-bbf77ad05f181ead",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3d7ded643a66a79f"
+          ],
+          "draft_excerpt": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+          "finding": "supported",
+          "sentence_id": "sentence-d77be77d46d909bc",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1301644b27645d1c"
+          ],
+          "draft_excerpt": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+          "finding": "supported",
+          "sentence_id": "sentence-f61daf21c04ca4b4",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "778f2280a2e2113adfeaed64cad517d0529018e8ece5d598e620d9d5ceb8c809",
+  "coverage_history": [
+    {
+      "draft_sha256": "c98caedbaac79ff81bccdf83cc1dc8e72bd0bc10bccc2c5cd2ca84e5c092b002",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-f7a6ff09c37dea81",
+            "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设，优化提升机场空域、时刻和高峰小时容量，增强国际空港枢纽承载能力、服务保障能力和集疏中转能力。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7341433a87599ad0",
+            "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局，全力巩固成都国内第四航空城地位。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-df4336918fb61c7f",
+            "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略，并加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3343fa6e997204ef",
+            "draft_excerpt": "",
+            "finding": "covered 代码门禁降级为 omitted：covered claim attribution claim-3343fa6e997204ef is missing hard anchors from the claim: ['2016年']; claim='2016年成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。'; excerpt='成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略，并加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。'",
+            "status": "omitted"
+          },
+          {
+            "claim_id": "claim-e9092d9c27daaa5e",
+            "draft_excerpt": "铁路货运网络形成多向联通格局：北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-67dd24c7b22f87cd",
+            "draft_excerpt": "南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3d7ded643a66a79f",
+            "draft_excerpt": "西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉；",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1301644b27645d1c",
+            "draft_excerpt": "东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2016年成都通过加速机场建设、优化航空枢纽格局、实施国际航线战略及构建多向铁路货运体系，全面强化国际门户枢纽功能。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-80b174f4c52b54b5",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7a6ff09c37dea81"
+            ],
+            "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设，优化提升机场空域、时刻和高峰小时容量，增强国际空港枢纽承载能力、服务保障能力和集疏中转能力。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15e48f55cadcb4c8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7341433a87599ad0"
+            ],
+            "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局，全力巩固成都国内第四航空城地位。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9ee3a08fa9ca987d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-df4336918fb61c7f",
+              "claim-3343fa6e997204ef"
+            ],
+            "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略，并加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4ceb1594c4713041",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e9092d9c27daaa5e"
+            ],
+            "draft_excerpt": "铁路货运网络形成多向联通格局：北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a004675d9f403930",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-67dd24c7b22f87cd"
+            ],
+            "draft_excerpt": "南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-e022ab2619efc940",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3d7ded643a66a79f"
+            ],
+            "draft_excerpt": "西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉；",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-db842bbeace6bb32",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1301644b27645d1c"
+            ],
+            "draft_excerpt": "东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09a987cf2e6160c6",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2016年成都通过加速机场建设、优化航空枢纽格局、实施国际航线战略及构建多向铁路货运体系，全面强化国际门户枢纽功能。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设，优化提升机场空域、时刻和高峰小时容量，增强国际空港枢纽承载能力、服务保障能力和集疏中转能力。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局，全力巩固成都国内第四航空城地位。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "778f2280a2e2113adfeaed64cad517d0529018e8ece5d598e620d9d5ceb8c809",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-f7a6ff09c37dea81",
+            "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7341433a87599ad0",
+            "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-df4336918fb61c7f",
+            "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3343fa6e997204ef",
+            "draft_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e9092d9c27daaa5e",
+            "draft_excerpt": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-67dd24c7b22f87cd",
+            "draft_excerpt": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3d7ded643a66a79f",
+            "draft_excerpt": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1301644b27645d1c",
+            "draft_excerpt": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-f7a6ff09c37dea81",
+              "claim-7341433a87599ad0",
+              "claim-df4336918fb61c7f",
+              "claim-3343fa6e997204ef",
+              "claim-e9092d9c27daaa5e",
+              "claim-67dd24c7b22f87cd",
+              "claim-3d7ded643a66a79f",
+              "claim-1301644b27645d1c"
+            ],
+            "draft_excerpt": "2016年成都加速推进双流国际机场扩能改造和天府国际机场开工建设，着力构建“双枢纽+补给港”航空枢纽格局，实施国际航线发展战略，并加快构建铁路货运体系及多向联通网络。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4c24891f3988769e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-f7a6ff09c37dea81"
+            ],
+            "draft_excerpt": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-53f92579850217e0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7341433a87599ad0"
+            ],
+            "draft_excerpt": "成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-df638c291d5b0807",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-df4336918fb61c7f"
+            ],
+            "draft_excerpt": "成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c31822c65eb216e1",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3343fa6e997204ef"
+            ],
+            "draft_excerpt": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-97700bcfbef416cf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e9092d9c27daaa5e"
+            ],
+            "draft_excerpt": "成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-39b7cc3d210af1b5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-67dd24c7b22f87cd"
+            ],
+            "draft_excerpt": "成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-bbf77ad05f181ead",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3d7ded643a66a79f"
+            ],
+            "draft_excerpt": "成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d77be77d46d909bc",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1301644b27645d1c"
+            ],
+            "draft_excerpt": "成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-f61daf21c04ca4b4",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设。\n\n成都着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽+补给港”航空枢纽运行格局。\n\n成都大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略。\n\n2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。\n\n成都北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展。\n\n成都南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道。\n\n成都西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉。\n\n成都东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域。",
+    "description": "2016年成都加速推进双流国际机场扩能改造和天府国际机场开工建设，着力构建“双枢纽+补给港”航空枢纽格局，实施国际航线发展战略，并加快构建铁路货运体系及多向联通网络。",
+    "ref": {
+      "asset_hints": [
+        "image-013",
+        "image-014"
+      ],
+      "concept_id": "topic-d01ff8eb04bb",
+      "description": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设，优化提升机场空域、时刻和高峰小时容量，增强国际空港枢纽承载能力、服务保障能力和集疏中转能力，着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽 \\(+\\) 补给港”航空枢纽运行格局，全力巩固成都国内第四航空城",
+      "document_family_id": "9e3ac4bb851dccd2e74c",
+      "document_version_id": "bfdd46d8149bb22ebd84",
+      "evidence": [
+        "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设",
+        "着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽 \\(+\\) 补给港”航空枢纽运行格局",
+        "大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略",
+        "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。",
+        "北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展",
+        "南向依托泛亚铁路打通孟中印缅经济走廊和西南出海大通道",
+        "西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉",
+        "东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域"
+      ],
+      "evidence_block_ids": [
+        "blk-d43fd41efb20a021e455",
+        "blk-c0483921b0f4b2b4d02b",
+        "blk-487b1f173949d94c7dad"
+      ],
+      "page_end": 39,
+      "page_start": 37,
+      "ref_family_hint": "",
+      "ref_version_id": "bfdd46d8149bb22ebd84",
+      "scope": {},
+      "section_path": [
+        "2016年成都融人“一带一路”建设概况",
+        "二、成都建设国际门户枢纽的主要举措"
+      ],
+      "semantic_signature": {},
+      "source": "2f27f8b7-c83d-49c6-96ff-95ff655ed6c4.md",
+      "title": "成都建设国际门户枢纽的主要举措",
+      "type": "国际比较"
+    },
+    "title": "成都建设国际门户枢纽的主要举措"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-5950ac83d1ba:bundle-2daf4389aca6",
+      "excluded_fragments": [],
+      "ref_id": "ref-5950ac83d1ba",
+      "source_blocks": [
+        {
+          "block_id": "blk-d43fd41efb20a021e455",
+          "page_number": 37,
+          "text": "2016年，成都加速推进双流国际机场扩能改造和天府国际机场开工建设，优化提升机场空域、时刻和高峰小时容量，增强国际空港枢纽承载能力、服务保障能力和集疏中转能力，着力构建成都天府国际机场、成都双流国际机场和金堂通用机场分工明确、优势互补、协同运行的“双枢纽 \\(+\\) 补给港”航空枢纽运行格局，全力巩固成都国内第四航空城地位。大力实施“深耕欧非、加密美澳、覆盖亚洲、突出东盟”的国际航线发展战略，重点加密加频面向“一带一路”沿线国家的航线航班，积极引进培育具有核心竞争力的主基地航空公司，支持基地航空公司持续做大规模和增加运力投放，优化调整航线、航班、时刻结构，加强航权、时刻等方面保障力度，提升服务保障能力和运营管理水平，构建通达全球的国际客货运航线网络，全力巩固成都在全球航线网络中的重要节点地位。"
+        },
+        {
+          "block_id": "blk-43fcb5f6cfb2bdfa72cb",
+          "page_number": 37,
+          "text": "专栏2-5 2016—2020年成都开通和加密的定期直飞国际（地区）航线规划图"
+        },
+        {
+          "block_id": "blk-102e969faa3bbcd2310c",
+          "page_number": 37,
+          "text": "原始 PDF 第 37 页图片"
+        },
+        {
+          "block_id": "blk-c0483921b0f4b2b4d02b",
+          "page_number": 37,
+          "text": "2016年，成都加快构建“三主三辅”客运站布局和以国际铁路港为主、若干铁路货运场站为支撑的铁路货运体系。全力构建成渝西昆贵铁路干线运输网络。北向联通新亚欧大陆桥经济走廊，对接环渤海湾区域京津冀协同发展；南向依托泛亚"
+        },
+        {
+          "block_id": "blk-487b1f173949d94c7dad",
+          "page_number": 38,
+          "text": "铁路打通孟中印缅经济走廊和西南出海大通道；西向形成经“蓉欧快铁”联系的中亚、中欧经济走廊运输大动脉；东向经沿江高铁通道串联成渝经济圈、武汉等长江中游城市群及长三角经济发达区域，推动形成南北呼应、海陆统筹、完整闭环的丝绸经济圈，实现成都建设国家中心城市与“一带一路”建设有机结合。完善国际铁路货运班列网络体系，优化“西进南拓东联”国际班列布局，增强国际班列开行的通达深度、线网密度，形成“一主多辅、多点直达”的“蓉欧 \\(+\\) ”国际国内班列网络体系。"
+        },
+        {
+          "block_id": "blk-608f9c06abcb5947644f",
+          "page_number": 38,
+          "text": "2016年，成都持续完善市域高速公路网络，加快推进天府国际机场高速、三绕高速东段和西段、成彭高速扩能改造工程建设，推动三绕高速北段、成资潼高速、成宜高速、成乐高速扩能改造工程开工，加快成南、成绵、成温邛高速扩容改造项目前期工作。着力打通成都至华中、华东的高速公路通道，优化成都至西北、华北高速公路通道，连通成都至东南亚的高速公路通道，全面融入国家高速公路网，努力实现与全国主要城市的互联互通。"
+        },
+        {
+          "block_id": "blk-b023a6aa714569504aa2",
+          "page_number": 38,
+          "text": "专栏2-6 成都高速公路对外通道示意图"
+        },
+        {
+          "block_id": "blk-a301fa3e290bf55969a5",
+          "page_number": 38,
+          "text": "原始 PDF 第 38 页图片"
+        },
+        {
+          "block_id": "blk-a6207d446c8508248c5a",
+          "page_number": 39,
+          "text": "2016年，成都依托双流国际机场航空港和成都国际铁路港促进多式集合，增强枢纽中转集散和配套功能，推进机场高铁客货站、铁路货站等联运设施建设，促进多种运输方式的无缝衔接和高效转运。加快构建“空铁公水”四位一体多式联运体系，大力发展以成都为网络核心的多式联运体系，推动国际航空港、国际铁路港、公路港和泸州港、武汉港、钦州港等水（海）港“四港融合”联动发展，大力发展空铁联运、铁海联运、铁水联运、公铁联运等。支持组建以成都为运营中心的多式联运平台公司，搭建“四港合一”多式联运公共信息服务平台，建立多式联运运营组织一体化解决方案，重点发展以铁路集装箱运输为骨干的多式联运业务。"
+        },
+        {
+          "block_id": "blk-58e8b7ec0389cd7b0117",
+          "page_number": 39,
+          "text": "2016年，成都着力完善国际航线网络，打造通达全球的精品客运航线和优势货运航线，建立健全多式联运的航空物流体系。全面提升枢纽承载辐射能级和优化立体集疏运体系，加快建设与国内物流通道有机衔接的国际联运通道，大力发展国际中转集拼和分拨转运，构建贯通欧亚、连接全球的全物流体系。加快构建以成都为亚欧中转枢纽的陆上物流网络，重点完善班列欧洲端线路和网络，加快布局建设境内外枢纽节点、分拨中心和货物集疏服务点，拓展国内互联互通班列，扩大班列覆盖范围，进一步提升班列运营质量、服务水平、竞争能力和品牌优势。促进国际航空、国际铁路、国际快递、多式联运等物流通道多网融合，提升多维度通道联系能力和衔接水平，增强物流网络覆盖面、通达性和可靠性。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-d01ff8eb04bb",
+  "recompile_attempts": 1,
+  "ref_ids": [
+    "ref-5950ac83d1ba"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

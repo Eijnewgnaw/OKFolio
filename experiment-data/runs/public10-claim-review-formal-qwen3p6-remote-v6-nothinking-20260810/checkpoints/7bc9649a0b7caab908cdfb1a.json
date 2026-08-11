@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: evidence_units[0].claims[6].evidence_excerpt (ref-5e1c149acc9a:bundle-7c517a737ee4) is missing hard anchors from the claim: ['2019年']; claim='2019年，成都携手自贡、泸州、德阳、内江、眉山、资阳等6个沱江流域城市，共同出资15亿元设立沱江流域横向生态补偿资金。'; excerpt='为共建长江上游生态屏障，守住沱江流域水环境质量“只能变好、不能变坏”底线，成都携手自贡、泸州、德阳、内江、眉山、资阳等6个沱江流域城市，共同出资15亿元设立沱江流域横向生态补偿资金，完善奖励达标、鼓励改善、惩戒恶化的正向激励、反向约束机制，搭建上下游联动、合作共治的平台。'",
+  "group_id": "topic-abe2491dff44",
+  "ref_ids": [
+    "ref-5e1c149acc9a"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

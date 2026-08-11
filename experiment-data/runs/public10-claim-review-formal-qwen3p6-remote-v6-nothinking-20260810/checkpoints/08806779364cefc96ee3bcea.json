@@ -1,0 +1,1163 @@
+{
+  "contract": {
+    "canonical_question": "长三角区域一体化进程中，市场机制与行政协调机制如何互动，以及区域内部差异如何影响全域一体化目标？",
+    "claims": [
+      {
+        "claim": "长三角区域一体化进程始于20世纪80年代改革开放初期。",
+        "claim_id": "claim-a4938182d521b550",
+        "evidence_block_ids": [
+          "blk-28b31c395be65a227207"
+        ],
+        "evidence_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          83
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {
+          "time": [
+            "20世纪80年代"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+        "claim_id": "claim-5f1ca4acd7a0653b",
+        "evidence_block_ids": [
+          "blk-d2217ac6ad5a4208d98e"
+        ],
+        "evidence_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          83
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "长三角区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+        "claim_id": "claim-01685dc1231fb6b6",
+        "evidence_block_ids": [
+          "blk-338fd1aadbc996d0f795"
+        ],
+        "evidence_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          83
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "长三角区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+        "claim_id": "claim-b2d4d93fa51e13c8",
+        "evidence_block_ids": [
+          "blk-d3d2a25fe577e4815e09"
+        ],
+        "evidence_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          84
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "在长三角经济一体化过程中，要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+        "claim_id": "claim-04a5e9ac4ac53a16",
+        "evidence_block_ids": [
+          "blk-cb1c3a1e1636b4081806"
+        ],
+        "evidence_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          84
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {},
+        "slot": "core_judgment",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "长三角区域一体化初期由15个市组成。",
+        "claim_id": "claim-94cb6c04228912e6",
+        "evidence_block_ids": [
+          "blk-95e95bf5df43a393821e"
+        ],
+        "evidence_excerpt": "长江三角洲区域一体化初期由15个市组成",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          84
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "长三角区域一体化扩大到一市三省全域41个市。",
+        "claim_id": "claim-82e7ccc9050e8dc7",
+        "evidence_block_ids": [
+          "blk-cdc7caec0fae5ce187a0"
+        ],
+        "evidence_excerpt": "乃至一市三省全域41个市",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          85
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {},
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+        "claim_id": "claim-77c3f9d75afd8f36",
+        "evidence_block_ids": [
+          "blk-4f7510cc391420ae600d"
+        ],
+        "evidence_excerpt": "一市三省41个市域单元的人均GDP基尼系数上升到0.2817",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          85
+        ],
+        "ref_id": "ref-9dcb467c3d5f",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-a4938182d521b550",
+          "claim-5f1ca4acd7a0653b",
+          "claim-01685dc1231fb6b6",
+          "claim-b2d4d93fa51e13c8",
+          "claim-04a5e9ac4ac53a16",
+          "claim-94cb6c04228912e6",
+          "claim-82e7ccc9050e8dc7",
+          "claim-77c3f9d75afd8f36"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+        "reason": "该证据包含长三角区域一体化机制、市场与行政关系、区域差异数据及政策建议，是回答中心问题的核心事实来源。"
+      }
+    ],
+    "group_id": "topic-af43270f0cc8",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了长三角区域一体化从自下而上的市场探索到国家战略的演进，分析了市场机制与行政协调的互动关系，并量化了区域内部差异，直接支撑中心问题。",
+        "ref_id": "ref-9dcb467c3d5f",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-a4938182d521b550",
+        "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5f1ca4acd7a0653b",
+        "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-01685dc1231fb6b6",
+        "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b2d4d93fa51e13c8",
+        "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-04a5e9ac4ac53a16",
+        "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-94cb6c04228912e6",
+        "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-82e7ccc9050e8dc7",
+        "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-77c3f9d75afd8f36",
+        "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-366d89bf60fdc2d3",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-a4938182d521b550"
+        ],
+        "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-37599c60354a063b",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5f1ca4acd7a0653b"
+        ],
+        "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-1e3b7cd01e315b4e",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-01685dc1231fb6b6"
+        ],
+        "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-96f3ae8dc697f165",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b2d4d93fa51e13c8"
+        ],
+        "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-3aedc4c4ce1be21a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-04a5e9ac4ac53a16"
+        ],
+        "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cb5970d21aad5c95",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-94cb6c04228912e6",
+          "claim-82e7ccc9050e8dc7",
+          "claim-77c3f9d75afd8f36"
+        ],
+        "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-495cfb809d0bd0f0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+        "finding": "unsupported"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-a4938182d521b550",
+          "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5f1ca4acd7a0653b",
+          "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-01685dc1231fb6b6",
+          "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b2d4d93fa51e13c8",
+          "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-04a5e9ac4ac53a16",
+          "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-94cb6c04228912e6",
+          "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-82e7ccc9050e8dc7",
+          "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-77c3f9d75afd8f36",
+          "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-366d89bf60fdc2d3",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-a4938182d521b550"
+          ],
+          "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+          "finding": "supported",
+          "sentence_id": "sentence-37599c60354a063b",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5f1ca4acd7a0653b"
+          ],
+          "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+          "finding": "supported",
+          "sentence_id": "sentence-1e3b7cd01e315b4e",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-01685dc1231fb6b6"
+          ],
+          "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+          "finding": "supported",
+          "sentence_id": "sentence-96f3ae8dc697f165",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b2d4d93fa51e13c8"
+          ],
+          "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+          "finding": "supported",
+          "sentence_id": "sentence-3aedc4c4ce1be21a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-04a5e9ac4ac53a16"
+          ],
+          "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+          "finding": "supported",
+          "sentence_id": "sentence-cb5970d21aad5c95",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-94cb6c04228912e6",
+            "claim-82e7ccc9050e8dc7",
+            "claim-77c3f9d75afd8f36"
+          ],
+          "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+          "finding": "supported",
+          "sentence_id": "sentence-495cfb809d0bd0f0",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "dc8aab347c25fa1ef9cfc03eef871b6c5353a083f959ee47c54d91a2efea86da",
+  "coverage_history": [
+    {
+      "draft_sha256": "8b3217ce6afcd4a05245e657c885dea03e9373636925e951234fba60ec62c4f4",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a4938182d521b550",
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期，初期由15个市组成。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01685dc1231fb6b6",
+            "draft_excerpt": "该区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5f1ca4acd7a0653b",
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略，标志着合作层级的显著提升。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b2d4d93fa51e13c8",
+            "draft_excerpt": "在推进区域一体化过程中，除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04a5e9ac4ac53a16",
+            "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82e7ccc9050e8dc7",
+            "draft_excerpt": "随着一体化范围的扩大，区域涵盖一市三省全域41个市域单元，但人均GDP基尼系数上升到0.2817，反映出全域一体化建设中仍需关注区域均衡与市场机制的协同。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-77c3f9d75afd8f36",
+            "draft_excerpt": "随着一体化范围的扩大，区域涵盖一市三省全域41个市域单元，但人均GDP基尼系数上升到0.2817，反映出全域一体化建设中仍需关注区域均衡与市场机制的协同。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-94cb6c04228912e6",
+            "draft_excerpt": "",
+            "finding": "代码门禁补全为 omitted：该 claim 未在任何批次的草稿句中被表达。",
+            "status": "omitted"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "探讨长三角区域一体化从自下而上合作上升为国家战略的进程，分析市场机制在资源配置中的决定性作用及全域一体化面临的区域差异挑战。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-d3a944b4b172a8b1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4938182d521b550",
+              "claim-94cb6c04228912e6"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期，初期由15个市组成。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a0b2cde53acac358",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01685dc1231fb6b6"
+            ],
+            "draft_excerpt": "该区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-5f3a314c099f04a9",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5f1ca4acd7a0653b"
+            ],
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略，标志着合作层级的显著提升。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a75b2a66236fe143",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b2d4d93fa51e13c8"
+            ],
+            "draft_excerpt": "在推进区域一体化过程中，除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4cf7660fcb79fe89",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04a5e9ac4ac53a16"
+            ],
+            "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb5970d21aad5c95",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-82e7ccc9050e8dc7",
+              "claim-77c3f9d75afd8f36"
+            ],
+            "draft_excerpt": "随着一体化范围的扩大，区域涵盖一市三省全域41个市域单元，但人均GDP基尼系数上升到0.2817，反映出全域一体化建设中仍需关注区域均衡与市场机制的协同。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-60089ab76d42ff05",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "探讨长三角区域一体化从自下而上合作上升为国家战略的进程，分析市场机制在资源配置中的决定性作用及全域一体化面临的区域差异挑战。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略，标志着合作层级的显著提升。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          },
+          {
+            "draft_excerpt": "随着一体化范围的扩大，区域涵盖一市三省全域41个市域单元，但人均GDP基尼系数上升到0.2817，反映出全域一体化建设中仍需关注区域均衡与市场机制的协同。",
+            "finding": "代码门禁发现强判断措辞未出现在归因 claim 的原始证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "53e6f93e97cfacc8ec0fd7c829a9a1d1007fb096d79af17fd481eefc4c7d707d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a4938182d521b550",
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期，初期由15个市组成。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-94cb6c04228912e6",
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期，初期由15个市组成。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01685dc1231fb6b6",
+            "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5f1ca4acd7a0653b",
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b2d4d93fa51e13c8",
+            "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04a5e9ac4ac53a16",
+            "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82e7ccc9050e8dc7",
+            "draft_excerpt": "长江三角洲区域一体化扩大到一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-77c3f9d75afd8f36",
+            "draft_excerpt": "长江三角洲区域一体化扩大到一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲经济合作区是我国经济最发达的地区之一，但在行政区划上，分属于上海市、江苏省、浙江省和安徽省。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b12978d7bcb5ed3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4938182d521b550",
+              "claim-94cb6c04228912e6"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期，初期由15个市组成。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a0b2cde53acac358",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01685dc1231fb6b6"
+            ],
+            "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ba2714028838a932",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5f1ca4acd7a0653b"
+            ],
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-09303122524f1312",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b2d4d93fa51e13c8"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aedc4c4ce1be21a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04a5e9ac4ac53a16"
+            ],
+            "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb5970d21aad5c95",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-82e7ccc9050e8dc7",
+              "claim-77c3f9d75afd8f36"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化扩大到一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-eec931193c37d56d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲经济合作区是我国经济最发达的地区之一，但在行政区划上，分属于上海市、江苏省、浙江省和安徽省。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "dc8aab347c25fa1ef9cfc03eef871b6c5353a083f959ee47c54d91a2efea86da",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-a4938182d521b550",
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5f1ca4acd7a0653b",
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-01685dc1231fb6b6",
+            "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b2d4d93fa51e13c8",
+            "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-04a5e9ac4ac53a16",
+            "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-94cb6c04228912e6",
+            "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82e7ccc9050e8dc7",
+            "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-77c3f9d75afd8f36",
+            "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-366d89bf60fdc2d3",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-a4938182d521b550"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-37599c60354a063b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5f1ca4acd7a0653b"
+            ],
+            "draft_excerpt": "2018年，长江三角洲区域一体化发展上升为国家战略。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1e3b7cd01e315b4e",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-01685dc1231fb6b6"
+            ],
+            "draft_excerpt": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-96f3ae8dc697f165",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b2d4d93fa51e13c8"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3aedc4c4ce1be21a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-04a5e9ac4ac53a16"
+            ],
+            "draft_excerpt": "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cb5970d21aad5c95",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-94cb6c04228912e6",
+              "claim-82e7ccc9050e8dc7",
+              "claim-77c3f9d75afd8f36"
+            ],
+            "draft_excerpt": "长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-495cfb809d0bd0f0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+            "finding": "unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。2018年，长江三角洲区域一体化发展上升为国家战略。长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列。另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用。长江三角洲区域一体化初期由15个市组成，乃至一市三省全域41个市，一市三省41个市域单元的人均GDP基尼系数上升到0.2817。",
+    "description": "宁越敏 (华东师范大学) 长江三角洲区域一体化进程始于20世纪80年代改革开放初期，2018年上升为国家战略，强调市场在资源配置中的决定性作用。",
+    "ref": {
+      "asset_hints": [
+        "image-226",
+        "image-227",
+        "image-228",
+        "image-229",
+        "image-230",
+        "image-231",
+        "image-232"
+      ],
+      "concept_id": "topic-af43270f0cc8",
+      "description": "宁越敏 (华东师范大学) 长江三角洲经济合作区是我国经济最发达的地区之一，但在行政区划上，分属于上海市、江苏省、浙江省和安徽省。",
+      "document_family_id": "13fa576e5bb0e3e42e2d",
+      "document_version_id": "22828840e9f0224f8fcd",
+      "evidence": [
+        "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。",
+        "2018年，长江三角洲区域一体化发展上升为国家战略",
+        "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。",
+        "长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列",
+        "另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用",
+        "长江三角洲区域一体化初期由15个市组成",
+        "乃至一市三省全域41个市",
+        "一市三省41个市域单元的人均GDP基尼系数上升到0.2817"
+      ],
+      "evidence_block_ids": [
+        "blk-28b31c395be65a227207",
+        "blk-d2217ac6ad5a4208d98e",
+        "blk-338fd1aadbc996d0f795",
+        "blk-d3d2a25fe577e4815e09",
+        "blk-cb1c3a1e1636b4081806",
+        "blk-95e95bf5df43a393821e",
+        "blk-cdc7caec0fae5ce187a0",
+        "blk-4f7510cc391420ae600d"
+      ],
+      "page_end": 85,
+      "page_start": 74,
+      "ref_family_hint": "",
+      "ref_version_id": "22828840e9f0224f8fcd",
+      "scope": {},
+      "section_path": [
+        "建言献策"
+      ],
+      "semantic_signature": {},
+      "source": "a2a49fba-932f-419d-90d9-7c733b4bc82c.md",
+      "title": "区域发展的市场机制和全域一体化建设探讨——以长三角为例",
+      "type": "分析框架"
+    },
+    "title": "区域发展的市场机制和全域一体化建设探讨——以长三角为例"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-9dcb467c3d5f:bundle-5fe1ee31d79c",
+      "excluded_fragments": [],
+      "ref_id": "ref-9dcb467c3d5f",
+      "source_blocks": [
+        {
+          "block_id": "blk-95031a11da9390f32059",
+          "page_number": 83,
+          "text": "宁越敏 (华东师范大学)"
+        },
+        {
+          "block_id": "blk-f0f98e648b51babe0052",
+          "page_number": 74,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-95f69f91c4dce17491a0",
+          "page_number": 75,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-0eb16855a5d0a6b78d41",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-ab1a9600f2e24bf7e0bf",
+          "page_number": 76,
+          "text": "2"
+        },
+        {
+          "block_id": "blk-68883359bf4abf705967",
+          "page_number": 76,
+          "text": "1"
+        },
+        {
+          "block_id": "blk-d2217ac6ad5a4208d98e",
+          "page_number": 83,
+          "text": "长江三角洲经济合作区是我国经济最发达的地区之一，但在行政区划上，分属于上海市、江苏省、浙江省和安徽省。自1982年以来，长江三角洲地区就一直在探索区域一体化之路。2018年，长江三角洲区域一体化发展上升为国家战略，提出了“一极三区”的发展目标，为长江三角洲最终建设成为世界级城市群指明了方向。"
+        },
+        {
+          "block_id": "blk-8842b8464e2c0bdf2e55",
+          "page_number": 75,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-2365b0649cbc841a6913",
+          "page_number": 76,
+          "text": "3"
+        },
+        {
+          "block_id": "blk-3679f6415b8cea89aec7",
+          "page_number": 83,
+          "text": "原始 PDF 第 83 页图片"
+        },
+        {
+          "block_id": "blk-fe64b33188200404d022",
+          "page_number": 83,
+          "text": "原始 PDF 第 83 页图片"
+        },
+        {
+          "block_id": "blk-b5567995942ae0d74105",
+          "page_number": 83,
+          "text": "原始 PDF 第 83 页图片"
+        },
+        {
+          "block_id": "blk-98fecb7fa454a1b72570",
+          "page_number": 83,
+          "text": "原始 PDF 第 83 页图片"
+        },
+        {
+          "block_id": "blk-28b31c395be65a227207",
+          "page_number": 83,
+          "text": "长江三角洲区域一体化的进程始于20世纪80年代改革开放初期。在40年时间里，长江三角洲的区域合作历经了以下三个阶段："
+        },
+        {
+          "block_id": "blk-2683e5d5057ab40bb459",
+          "page_number": 83,
+          "text": "1949年至1979年，我国实行了长达30年的计划经济。计划经济的特点之一就是物质的“统购统销”，无论城乡，其工农业生产所需的重要原料及产品必须由国家计委统一调拨和分配。其结果是，城市与城市、城市与区域之间的横向经济联系被人为隔断了。20世纪80年代初，经济学界发起了如何突破计划经济造成的“条条块块”分割，按照商品经济的规律组织生产、流通网络的讨论，一致认为要发挥中心城市的作用。所谓中心城市系指国家范围内大的经济中心，以中心城市为核心，存在着一个历史上形成的、与若干中小城市和广大农村紧密相连的经济网络。在这个网络内，中心城市与其关联地区的联系，主要是经济联系而不是行政联系。发挥中心城市的作用，就是要突破地区、行业、隶属关系和所有制的界限，按经济合理和专业化协作的原则，组织各种形式和内容的经济联合体，从而形成以中心城市为核心的经济区。1982年12月，国务院决定成立上海经济区，由上海市和江浙两省的苏锡常通、杭嘉湖甬绍等市组成，直属国务院，由国家计委代管。由于体制改革未到位，地级市层面的经济管理权限"
+        },
+        {
+          "block_id": "blk-8ce0c97d78dd9e241fd8",
+          "page_number": 83,
+          "text": "甚微，出于经济协调的目的，上海经济区逐步扩大为江浙皖赣闽五省和上海市，由省级政府作为区域协调发展的主体，但由此又回归到计划经济时期华东经济协作区的模式。之后，不得不于1988年撤销上海经济区办公室，这意味着第一次长三角区域合作的终止。"
+        },
+        {
+          "block_id": "blk-8b55cefbed5b98514971",
+          "page_number": 83,
+          "text": "1990年，浦东开发开放为长江三角洲提供了加速改革和对外开放的机遇。1992年，历史上存在着比较紧密经济联系的长三角14个市城市协作办为主体，成立了城市协作办主任联席会议。虽然联席会的作用仅限于信息交流，但奠定了长三角第二轮区域合作的基础，由此掀开长三角区域合作新的一页。1996年，扬州析置为扬州和泰州两个市，长三角城市数量扩展到15个。1997年，长三角城市协调办主任联席会升格为市长领衔的长三角经济协调委员会，标志着长三角城市间的合作实质性启动。此后，长三角经济协调委员会的成员不断增加。2001年，副省级的沪苏浙经济合作与发展座谈会召开，长三角的区域合作上升到省级政府层面。2004年，沪苏浙主要领导座谈会举行，共商区域合作。2009年，座谈会扩大至沪苏浙皖主要领导，标志着长三角经济合作区的范围从最早的15个市扩大到一市三省全域。"
+        },
+        {
+          "block_id": "blk-338fd1aadbc996d0f795",
+          "page_number": 83,
+          "text": "长江三角洲的区域合作具有典型的自下而上特点，并逐渐形成“三级运作、统分结合”的区域协调互动合作机制。长三角政府层面实行决策层、协调层和执行层“三级运作”的区域合作机制，确立了“主要领导座谈会明确任务方向、联席会议协调推进、联席会议办公室和重点专题组具体落实”的机制框架。具体而言，决策层指“长三角地区主要领导座谈会”，上海、江苏、浙江、安徽一市三省书记和省、市长出席，常务副省、市长等相关部门领导列席。协调层指“长三角地区合作与发展联席会议”，沪苏浙皖一市三省常务副省、市长参加。执行层指沪苏浙皖一市三省政府各自在发展改革委员会（或合作交流办）内设立“联席会议办公室”，由分管副主任兼联席办主任，并设立交通、能源、信息等12个重点合作专题。20多年来，长三角区域一体化在市场体系建设、区域旅游合作、建设多层多样的生态环境协同保护治理机制、建立区域公共治理合作机制等方面取得了实质性进展。长三角区域一体化进程反映了城市之间的相互作用不断加强。这是因为城市不能孤立的存在，由于职能的不同，城市之间存在着相互依赖性，通过城市间的相互作用，区域内部的城市才能形成紧密的城市系统。"
+        },
+        {
+          "block_id": "blk-fd26fa566299e64c08af",
+          "page_number": 83,
+          "text": "近10多年来，国家有关部门积极参与并指导长三角地区的区域合作。2005年，国家发改委编制了《长江三角洲地区区域规划纲要》。2006年，建设部组织编制《长江三角洲城镇群规划》，把长三角的规划范围确立为上海、江苏、浙江、安徽一市三省，泛长三角的概念由此呼之欲出。此后，国家发改委先后编制了《长江三角洲地区区域规划》《长江三角洲城市群发展规划》。2018年11月，习近平总书记在上海进博会上宣布，长江三角洲区域一体化发展上升为"
+        },
+        {
+          "block_id": "blk-a5dcc8176c03bb5defa0",
+          "page_number": 84,
+          "text": "国家战略。2019年7月，《长江三角洲区域一体化发展规划纲要》审议通过并印发。《纲要》提出了长三角“一极三区一高地”的战略定位，即长三角通过一体化发展，成为全国经济发展强劲活跃的增长极，成为全国经济高质量发展的样板区，率先基本实现现代化的引领区和区域一体化发展的示范区，成为新时代改革开放的新高地。"
+        },
+        {
+          "block_id": "blk-50d257a28d186f6414e5",
+          "page_number": 84,
+          "text": "原始 PDF 第 84 页图片"
+        },
+        {
+          "block_id": "blk-dfdef40ed2d31a7171fb",
+          "page_number": 84,
+          "text": "原始 PDF 第 84 页图片"
+        },
+        {
+          "block_id": "blk-d3d2a25fe577e4815e09",
+          "page_number": 84,
+          "text": "自长江三角洲区域一体化上升为国家战略以来，其推进重点一是在位于江浙沪交界的长三角生态绿色一体化发展示范区建设，二是G60科技走廊建设、基础设施互联互通等方面。长江三角洲区域一体化除项目推进之外，应在社会主义市场经济体制机制改革上走在全国的前列，在全国起到示范效应。"
+        },
+        {
+          "block_id": "blk-cb1c3a1e1636b4081806",
+          "page_number": 84,
+          "text": "当前，长江三角洲经济一体化是长三角区域一体化的主体。在关于长三角经济一体化的讨论中，有观点认为，为加速长三角一体化，有必要借助中央的行政力量或在省级政府之上建立超级地方政府进行统筹。另一种观点则认为，经济一体化的核心是市场一体化，要发挥市场经济的作用，实现产业结构和布局的一体化整合。从实践来看，超级政府的设想不符合我国国情，也不符合长三角长期行之有效的“三级运作、统分结合”区域协调互动合作机制。因此，在长三角经济一体化过程中，一方面要尊重现有的区域协调机制，并在此基础上有所创新；另一方面要尊重市场经济的规律，让市场在资源配置中发挥决定性的作用，从而促进要素的自由流动。"
+        },
+        {
+          "block_id": "blk-0891b7fd3fa3456c5a54",
+          "page_number": 84,
+          "text": "在关于长江三角洲产业发展的讨论中，有不少意见指出长三角存在产业同构的问题。笔者以为，要研究产业同构，首先要细化产业分类，甚至到产品层面去分析这一问题。例如，汽车是制造业中的一个门类，但汽车产品类型多种多样，分为卡车、大客车、乘用车、特殊车辆等等。可即便是小轿车这一个产品，还有价格差异、排放量差异，车型差异，品牌差异，由此形成了一个个特色各具的细分市场，给消费者带来更多的选择。例如，在上海汽车集团拥有大众、通用、国产车等品牌的背景下，长安汽车集团和广汽集团仍然进军杭州，进行汽车生产的布局。因此，不能因为有多个城市都生产汽车就认为存在产业同构。但若以龙头企业为主，在长三角形成产业链或产业集群，是有利于区域经济一体化发展的。"
+        },
+        {
+          "block_id": "blk-e4a8416783f8af368087",
+          "page_number": 84,
+          "text": "在市场经济条件下，生产布局是由企业主导的，政府应把培育市场体系和公平竞争的环境放在首位。长江三角洲一体化的目标里包括了世界级机场群和国际航运中心上海组合港的建设，但现状与目标之间存在相当的差距。这是因为，在机场和港口管理下放给地方政府后，往往由省政府牵头组建省机场集团和港口集团。这虽然有利于资源在省域内进行优化布局，但从整个长三角范围来看，反而因行政区的分割，资源不能得到更好的配置，因此也不利于世界级"
+        },
+        {
+          "block_id": "blk-a7f05fd32f9f1b1a112a",
+          "page_number": 84,
+          "text": "机场群和港口枢纽的建设。一般来说，在市场经济条件下，企业出于壮大自身的目的进行跨地区、跨国投资和购并十分常见。例如，香港和记港口集团有限公司作为跨国公司，其业务遍及23个国家，在45个港口经营共257泊位，2015年的货柜吞吐量达8380万个标准集装箱，港口业务营收为340亿港币。在美国，纽约州和新泽西州合作成立纽约新泽西港务局，不仅经营码头业务，还经营位于两州的三个机场。反观国内实力最强的上海国际港务集团公司业务仍主要集中在上海本地，跨地区发展尚处于起步阶段。上港集团的外省业务主要与长江沿岸若干港务集团成立联营企业，以便于其货物在上海港的江海联运。在与周边沿海港口的合作方面，仅有上港集团吸收浙江海港集团的资金，共同开发小洋山港区的案例，致使长三角港口资源未能得到很好的整合。在机场购并方面，虽然国内已有企业跨业跨国购并的案例，如2015年山东高速集团与香港私营企业联手收购法国第四大机场图卢兹机场。但国内机场的管理体制仍然局限于省级行政区范围内，以成立省机场集团模式为主，这种做法并不能有效提高运营效率。因此，在长三角区域一体化战略实施中，要勇于破除行政区壁垒，促进生产要素在更大范围内自由流动，从而培育出世界级有竞争力的企业集团。"
+        },
+        {
+          "block_id": "blk-95e95bf5df43a393821e",
+          "page_number": 84,
+          "text": "长江三角洲区域一体化初期由15个市组成，其内部联系最为密切。这是因为长江三角洲核心区在地理环境上是一个整体，且自唐宋以来逐步成为我国的经济重心，区域内部发展较为均衡，加之2500年吴越文化的影响，区域内部有强烈的文化认同感。由此，由地方政府推动的长江三角洲一体化能够取得较大的成绩。今天实施的长江三角洲区域一体化是广域的一体化，在原有15个市的基础上扩大到一市三省，其面积广达35万平方千米，略大于日本的国土面积。由于区域范围扩大，区域内部差异扩大，这不仅体现在经济发展水平方面，也体现在文化地理等方面的差异。因此，长江三角洲区域一体化的目标应是推进覆盖全域的一体化，通过全域一体化加强区域认同，促进区域的均衡发展。"
+        },
+        {
+          "block_id": "blk-d20e9d2aaa8a5bc568ab",
+          "page_number": 84,
+          "text": "区域一体化的研究和实践最早起源于国际经济和贸易领域，欧盟的成长是典型的国家间经济社会一体化的例子。欧盟起源于欧洲共同市场，最初只有6个成员国。其后，欧盟成员国不断增加，逐步扩大到南欧、东欧和北欧，现有28个成员国。随着欧盟不断扩容，区域内部差异扩大。为了促进经济落后地区的发展，从上世纪70年代起，欧盟就开始制定促进区域均衡发展的政策，并根据欧盟的扩容不断调整，旨在实现“经济、社会和区域的凝聚力”。在欧盟的各项政策中，区域政策占有重要的地位，其资金预算约占欧盟总预算的三分之一，仅次于欧盟的农业政策预算。欧盟通过区域政策，缩小了国家之间经济发展水平的差距。"
+        },
+        {
+          "block_id": "blk-612eabaf5a5208824268",
+          "page_number": 84,
+          "text": "长江三角洲区域一体化与欧盟的一体化相比，既有相同之处也有不同之处。相同之处是：一是长江三角洲区域合作的范围不断扩大，由最初15个市，逐步扩大到长江三角洲城市群的"
+        },
+        {
+          "block_id": "blk-cdc7caec0fae5ce187a0",
+          "page_number": 85,
+          "text": "26个市，乃至一市三省全域41个市。伴随区域不断扩容，内部的发展差异越来越大；二是由于体制上的原因，区域内部存在着由行政区经济造成的分割。不同之处是，长江三角洲属于国家内部的区域，不存在由国界产生的贸易、货币、人员跨国流动的障碍，但由于城乡户籍制度的分割，长江三角洲外来人口的异地城市化未能完全实现。"
+        },
+        {
+          "block_id": "blk-4176fe0173a0fd485e13",
+          "page_number": 74,
+          "text": "核心城市"
+        },
+        {
+          "block_id": "blk-4f7510cc391420ae600d",
+          "page_number": 85,
+          "text": "按2017年地级市（上海为直辖市）人均GDP数值进行分类，一市三省可分为四个层级：第一层级是高收入地区，人均GDP在12万元以上，包括上海市，苏锡常宁镇5个市，以及杭甬二市，计有7117万人；第二层级是中高收入地区，人均GDP在8万-12万元之间，包括江苏省的苏中三市，浙江省的嘉湖绍三市，安徽省的合肥、芜湖二市，计有3979万人；第三层级是中等收入地区，人均GDP在4万-8万元之间，包括江苏北部、浙江南部、安徽南部和蚌埠、淮北等市，计有6972万人；第四层级是低收入地区，人均GDP在2万至4万元之间，主要位于安徽省西部和北部，计有3592万人。处于中高收入和中低收入的人口各约1亿人左右，各占半数。总体来看，长三角核心区15个市处于第一和第二层级，人均GDP最高的市（苏州）仅是最低的市（湖州）的一倍，人均GDP基尼系数值只有0.1062，其内部发展较为均衡。在长三角不断扩容后，人均GDP最高的市（苏州）是最低的市（阜阳）的8倍，一市三省41个市域单元的人均GDP基尼系数上升到0.2817，表明一市三省内部的区域差异远大于长三角核心区。如果进一步细化到县级行政区尺度，江苏省昆山市人均GDP达到21.21万元，而安徽省临泉县人均GDP仅8352元，相差25倍。一市三省区域内部差异如此巨大，究其原因，与各地和核心城市上海的距离、工业化水平、外向型经济发展水平等因素有关。因此，以核心地区带动外围地区的发展，缩小内部差异，强化区域认同，应成为长江三角洲区域一体化社会协调发展的长期目标。"
+        },
+        {
+          "block_id": "blk-af8188ba13cec3168284",
+          "page_number": 85,
+          "text": "原始 PDF 第 85 页图片"
+        },
+        {
+          "block_id": "blk-c6b24d1dc02ff0d2ea56",
+          "page_number": 85,
+          "text": "图9-9长江三角洲人均GDP的区域差异"
+        },
+        {
+          "block_id": "blk-8d77005d80871a586217",
+          "page_number": 85,
+          "text": "研究表明，以常住人口计算的人均GDP，2000年长江三角洲核心区15市与外围区之比是3.18，2017年降为2.29。这是因为长三角核心地区是人口流入地，外围地区是人口流出地。据统计，长三角核心地区的外来人口有 \\(40\\%\\) 以上来自安徽、苏北等地。由于人口的大规模流动，外围地区按常住人口计算的人均GDP要大大高于按户籍人口计算的人均GDP，由此导致核心区和外围区人均GDP差距的缩小，这说明人口流动是有利于社会公平的。长三角外围地区人口向核心地区的流动，即异地城市化，是缩小区域内部发展水平差异的重要途径。因此，长三角高质量发展要关注社会公平，要提倡人口流动。为落实国家新型城镇化规划，中央已要求城区常住人口300万以下的城市全面取消落户限制；城区常住人口300万至500万的大城市全面放宽落户条件。根据中央的要求，今后长三角经济发达地区的绝大多数城市都要放开或放宽外来人口落户的条件，更多接纳来自边缘地区的人口。只有这样，才能形成长三角全域的认同感及凝聚力。"
+        },
+        {
+          "block_id": "blk-9119bbe5d1321a339475",
+          "page_number": 85,
+          "text": "区域经济发展不平衡是客观现象，由此形成核心-边缘结构，并影响区域经济联系的空间格局。一般来说，核心地区经济实力强，具备对外辐射的能力，对边缘地区的依赖也比较低。相比之下，边缘地区受限于区位等条件，经济发展水平较低，更为依赖核心城市，以此获取发展所需的要素资源。因此，区域一体化能否成功的可能性主要取决于核心地区的态度。例如，欧盟在60余年的发展过程中，德法轴心一直是推动欧盟发展的主要力量，它们也是欧盟预算资金的主要出资方。加强长三角全域统筹发展要建立新的机制，其中长三角核心区要承担更多的责任，设想包括以下三个方面："
+        },
+        {
+          "block_id": "blk-33b35fe665934c8045b1",
+          "page_number": 85,
+          "text": "一是建议由核心地区成立区域发展基金，主要用于外围地区基础设施项目建设，尤其是教育、卫生设施方面的建设以及外围地区的人力资源培训。外围地区科教文卫高端人才稀缺，对人才的吸引力比较弱，可通过培训提升人力资源的质量。"
+        },
+        {
+          "block_id": "blk-24b324f03a96fb978fe4",
+          "page_number": 85,
+          "text": "二是落实国家新型城镇化战略，使有能力定居的农业转移人口能够在所居住城市落户，提升户籍人口的城镇化率。"
+        },
+        {
+          "block_id": "blk-9d825be74d7697433d15",
+          "page_number": 85,
+          "text": "三是以网络串联核心地区与边缘地区，加强彼此间的联系，其中G60科创走廊是一个创新案例。G60科创走廊的发展从1.0版到如今的3.0版，目前已有9个城市参与，在“长三角G60科创云”平台建设、对接上交所科创板、“一网通”办等方面取得了成绩。由于网络可以覆盖了更多且处于不同发展水平的城市，相比在行政边界地区建立经济合作示范区更有意义。通过各类合作网络建设，区域一体化更具发展前景。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-af43270f0cc8",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-9dcb467c3d5f"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

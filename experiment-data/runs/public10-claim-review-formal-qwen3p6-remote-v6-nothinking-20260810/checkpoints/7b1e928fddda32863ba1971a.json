@@ -1,0 +1,636 @@
+{
+  "contract": {
+    "canonical_question": "2023年成都大健康产业生态圈建设中，与广元、广安、乐山及重庆、山东、福建等地开展“双向飞地”合作、信息共享及联合监管的具体举措与成效是什么？",
+    "claims": [
+      {
+        "claim": "2023年成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链。",
+        "claim_id": "claim-1ae36de878130a9d",
+        "evidence_block_ids": [
+          "blk-4c83aa94fb534143ec62"
+        ],
+        "evidence_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {
+          "time": [
+            "2023年"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展合作。",
+        "claim_id": "claim-70ad22ddff9d8997",
+        "evidence_block_ids": [
+          "blk-4c83aa94fb534143ec62"
+        ],
+        "evidence_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {
+          "region": [
+            "广元",
+            "广安",
+            "乐山",
+            "重庆"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与重庆、山东、福建等地开展合作。",
+        "claim_id": "claim-6d01a08d81a13b54",
+        "evidence_block_ids": [
+          "blk-4c83aa94fb534143ec62"
+        ],
+        "evidence_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {
+          "region": [
+            "重庆",
+            "山东",
+            "福建"
+          ]
+        },
+        "slot": "scope",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "合作方式包括共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等。",
+        "claim_id": "claim-b8bd81d2edc5fd6d",
+        "evidence_block_ids": [
+          "blk-4c83aa94fb534143ec62"
+        ],
+        "evidence_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          49
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+        "claim_id": "claim-601ab455cd22a5e9",
+        "evidence_block_ids": [
+          "blk-439c82badf1926dd0134"
+        ],
+        "evidence_excerpt": "园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          50
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {
+          "object": [
+            "成都医学城",
+            "重庆国际生物城"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动。",
+        "claim_id": "claim-4eda975ba31f56ef",
+        "evidence_block_ids": [
+          "blk-439c82badf1926dd0134"
+        ],
+        "evidence_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          50
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {
+          "region": [
+            "广安"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "促成天台山、蜀中等2家成都医药企业落地广安岳池。",
+        "claim_id": "claim-2cee45b1c264c94a",
+        "evidence_block_ids": [
+          "blk-439c82badf1926dd0134"
+        ],
+        "evidence_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          50
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {
+          "region": [
+            "广安岳池"
+          ]
+        },
+        "slot": "impact",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "claim_id": "claim-881f5d4e15c35f68",
+        "evidence_block_ids": [
+          "blk-439c82badf1926dd0134"
+        ],
+        "evidence_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          50
+        ],
+        "ref_id": "ref-9e50c45e55ed",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-1ae36de878130a9d",
+          "claim-70ad22ddff9d8997",
+          "claim-6d01a08d81a13b54",
+          "claim-b8bd81d2edc5fd6d",
+          "claim-601ab455cd22a5e9",
+          "claim-4eda975ba31f56ef",
+          "claim-2cee45b1c264c94a",
+          "claim-881f5d4e15c35f68"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+        "reason": "该Bundle包含回答分析框架核心槽位（subject, core_judgment, evidence, impact, scope）所需的全部原子事实，无重复或纯背景内容。"
+      }
+    ],
+    "group_id": "topic-a00050d1e2d0",
+    "members": [
+      {
+        "contribution": "该证据详细列举了2023年成都与大健康产业链相关城市在园区共建、项目合作、信息共享及联合监管方面的具体合作模式与成果，直接支撑中心问题。",
+        "ref_id": "ref-9e50c45e55ed",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-1ae36de878130a9d",
+        "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-70ad22ddff9d8997",
+        "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-6d01a08d81a13b54",
+        "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-b8bd81d2edc5fd6d",
+        "draft_excerpt": "合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-601ab455cd22a5e9",
+        "draft_excerpt": "在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-4eda975ba31f56ef",
+        "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-2cee45b1c264c94a",
+        "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-881f5d4e15c35f68",
+        "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-1ae36de878130a9d",
+          "claim-70ad22ddff9d8997",
+          "claim-6d01a08d81a13b54",
+          "claim-b8bd81d2edc5fd6d"
+        ],
+        "draft_excerpt": "2023年成都围绕建设大健康产业生态圈，通过共建“双向飞地”、医药企业信息共享、药品安全共同监管及联合招商等方式，与省内城市及重庆、山东、福建等地开展合作，加速推动大健康产业取得积极成效。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-14e39fb29a87ea75",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1ae36de878130a9d",
+          "claim-70ad22ddff9d8997",
+          "claim-6d01a08d81a13b54"
+        ],
+        "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-c9f54a920ff5abef",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-b8bd81d2edc5fd6d"
+        ],
+        "draft_excerpt": "合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-15e1deb5cc91645f",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-601ab455cd22a5e9"
+        ],
+        "draft_excerpt": "在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-9045f2cc30272acf",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-4eda975ba31f56ef",
+          "claim-2cee45b1c264c94a",
+          "claim-881f5d4e15c35f68"
+        ],
+        "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6fa18850e4455c0d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-1ae36de878130a9d",
+          "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-70ad22ddff9d8997",
+          "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-6d01a08d81a13b54",
+          "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-b8bd81d2edc5fd6d",
+          "draft_excerpt": "合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-601ab455cd22a5e9",
+          "draft_excerpt": "在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-4eda975ba31f56ef",
+          "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-2cee45b1c264c94a",
+          "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-881f5d4e15c35f68",
+          "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-1ae36de878130a9d",
+            "claim-70ad22ddff9d8997",
+            "claim-6d01a08d81a13b54",
+            "claim-b8bd81d2edc5fd6d"
+          ],
+          "draft_excerpt": "2023年成都围绕建设大健康产业生态圈，通过共建“双向飞地”、医药企业信息共享、药品安全共同监管及联合招商等方式，与省内城市及重庆、山东、福建等地开展合作，加速推动大健康产业取得积极成效。",
+          "finding": "supported",
+          "sentence_id": "sentence-14e39fb29a87ea75",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1ae36de878130a9d",
+            "claim-70ad22ddff9d8997",
+            "claim-6d01a08d81a13b54"
+          ],
+          "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-c9f54a920ff5abef",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-b8bd81d2edc5fd6d"
+          ],
+          "draft_excerpt": "合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+          "finding": "supported",
+          "sentence_id": "sentence-15e1deb5cc91645f",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-601ab455cd22a5e9"
+          ],
+          "draft_excerpt": "在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+          "finding": "supported",
+          "sentence_id": "sentence-9045f2cc30272acf",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-4eda975ba31f56ef",
+            "claim-2cee45b1c264c94a",
+            "claim-881f5d4e15c35f68"
+          ],
+          "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+          "finding": "supported",
+          "sentence_id": "sentence-6fa18850e4455c0d",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "3c1b9cdd784ae2a7f8cf7e1fbb5ccdfa4f42dbdc09eb60c620c91451bbff78a1",
+  "coverage_history": [
+    {
+      "draft_sha256": "3c1b9cdd784ae2a7f8cf7e1fbb5ccdfa4f42dbdc09eb60c620c91451bbff78a1",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-1ae36de878130a9d",
+            "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-70ad22ddff9d8997",
+            "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-6d01a08d81a13b54",
+            "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-b8bd81d2edc5fd6d",
+            "draft_excerpt": "合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-601ab455cd22a5e9",
+            "draft_excerpt": "在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-4eda975ba31f56ef",
+            "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-2cee45b1c264c94a",
+            "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-881f5d4e15c35f68",
+            "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-1ae36de878130a9d",
+              "claim-70ad22ddff9d8997",
+              "claim-6d01a08d81a13b54",
+              "claim-b8bd81d2edc5fd6d"
+            ],
+            "draft_excerpt": "2023年成都围绕建设大健康产业生态圈，通过共建“双向飞地”、医药企业信息共享、药品安全共同监管及联合招商等方式，与省内城市及重庆、山东、福建等地开展合作，加速推动大健康产业取得积极成效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-14e39fb29a87ea75",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1ae36de878130a9d",
+              "claim-70ad22ddff9d8997",
+              "claim-6d01a08d81a13b54"
+            ],
+            "draft_excerpt": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-c9f54a920ff5abef",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-b8bd81d2edc5fd6d"
+            ],
+            "draft_excerpt": "合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-15e1deb5cc91645f",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-601ab455cd22a5e9"
+            ],
+            "draft_excerpt": "在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-9045f2cc30272acf",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-4eda975ba31f56ef",
+              "claim-2cee45b1c264c94a",
+              "claim-881f5d4e15c35f68"
+            ],
+            "draft_excerpt": "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6fa18850e4455c0d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作。\n\n合作以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。\n\n## 证据与影响\n\n在园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。\n\n推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。",
+    "description": "2023年成都围绕建设大健康产业生态圈，通过共建“双向飞地”、医药企业信息共享、药品安全共同监管及联合招商等方式，与省内城市及重庆、山东、福建等地开展合作，加速推动大健康产业取得积极成效。",
+    "ref": {
+      "asset_hints": [],
+      "concept_id": "topic-a00050d1e2d0",
+      "description": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。",
+        "园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。",
+        "推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。"
+      ],
+      "evidence_block_ids": [
+        "blk-4c83aa94fb534143ec62",
+        "blk-439c82badf1926dd0134"
+      ],
+      "page_end": 50,
+      "page_start": 49,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "年度主题篇",
+        "六、大健康产业生态圈：“双向飞地”深度合作、备案信息共享"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "大健康产业生态圈：“双向飞地”深度合作、备案信息共享",
+      "type": "分析框架"
+    },
+    "title": "大健康产业生态圈：“双向飞地”深度合作、备案信息共享"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-9e50c45e55ed:bundle-d3e9570364ea",
+      "excluded_fragments": [],
+      "ref_id": "ref-9e50c45e55ed",
+      "source_blocks": [
+        {
+          "block_id": "blk-4c83aa94fb534143ec62",
+          "page_number": 49,
+          "text": "2023年，成都围绕建设大健康产业生态圈，聚焦共同打造创新药、高端医疗器械等产业链，与广元、广安、乐山等省内城市以及重庆、山东、福建等地开展了合作，以共建“双向飞地”合作、医药企业信息共享、药品安全共同监管、联合招商等方式为主，加速推动大健康产业取得积极成效。"
+        },
+        {
+          "block_id": "blk-439c82badf1926dd0134",
+          "page_number": 50,
+          "text": "园区共建协同方面，成都医学城联合重庆国际生物城申报的第二批成渝地区双城经济圈产业合作示范园区成功获批。推动成都天府国际生物城、成都高新区生物产业专家联合会等4个园区与广安合作，联合开展招商行动，促成天台山、蜀中等2家成都医药企业落地广安岳池，持续深化“创新研发在成都、转化生产在广安”的“双向飞地”合作模式。"
+        },
+        {
+          "block_id": "blk-968f7360802a2db0dd02",
+          "page_number": 50,
+          "text": "项目合作方面，完成川渝药检机构实验室比对项目2项，助推两地药品产业提能升级。推动成都四川智辰药业有限公司与广元签约中药提取项目，规划建设厂房4200平米，共同深化中药产业合作。"
+        },
+        {
+          "block_id": "blk-1bd51229a19f0b761259",
+          "page_number": 50,
+          "text": "信息共享方面，联合重庆建立成渝第一类医疗器械备案信息共享机制，推动两地企业信息互联、备案资料互通。先后与山东、福建等药品检验检测机构开展座谈交流，围绕建立健全常态化、长效化沟通联系机制达成初步合作意向。东部新区在厦门举办2023成都先进制造业建圈强链投资对接会，推动装备制造、医疗健康、精密仪器等领域5家企业计划入驻东部新区。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-a00050d1e2d0",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-9e50c45e55ed"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

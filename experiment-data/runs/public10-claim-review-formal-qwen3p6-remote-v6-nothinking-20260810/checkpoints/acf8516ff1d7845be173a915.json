@@ -1,0 +1,9 @@
+{
+  "error": "ContractError: claim evidence excerpt is not verbatim evidence: ref-f80d089375b9:bundle-96c0c37c9054; submitted='1. 坚持创新驱动，增强成都国家西部金融中心核心功能。2. 坚持科技赋能，提升金融科技研发能力。3. 坚持开放生态，深化金融科技对外交流合作。4. 坚持合规安全，确保金融科技规范发展。5. 坚持技术中立，准确把握金融科技的金融本质。'; nearest_verbatim_span='1. 坚持创新驱动，增强成都国家西部金融中心核心功能'; remove any contextual title/framing not present in that span",
+  "group_id": "topic-a0592c0fb923",
+  "ref_ids": [
+    "ref-f80d089375b9"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "failed"
+}

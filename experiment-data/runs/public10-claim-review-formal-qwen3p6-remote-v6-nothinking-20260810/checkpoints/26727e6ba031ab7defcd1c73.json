@@ -1,0 +1,790 @@
+{
+  "contract": {
+    "canonical_question": "2023年成都现代交通产业生态圈在跨区域协作中，与哪些地区开展了合作，具体采取了哪些合作方式，并取得了哪些量化成果？",
+    "claims": [
+      {
+        "claim": "2023年，成都现代交通产业生态圈聚焦汽车、轨道交通、现代物流等产业链，与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆、北京等城市开展深度合作。",
+        "claim_id": "claim-7c0330789b022506",
+        "evidence_block_ids": [
+          "blk-de14a90e569d27a8c4ad"
+        ],
+        "evidence_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "time": [
+            "2023年"
+          ]
+        },
+        "slot": "subject",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都现代交通产业生态圈的合作方式主要包括汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等。",
+        "claim_id": "claim-de97a51fdf0ab287",
+        "evidence_block_ids": [
+          "blk-de14a90e569d27a8c4ad"
+        ],
+        "evidence_excerpt": "以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {},
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户。",
+        "claim_id": "claim-5d9186a9bfb92d40",
+        "evidence_block_ids": [
+          "blk-ec55deecffe81e4e0f19"
+        ],
+        "evidence_excerpt": "联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户①",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "object": [
+            "德阳市",
+            "眉山市",
+            "资阳市"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+        "claim_id": "claim-e3677e2b592a48b3",
+        "evidence_block_ids": [
+          "blk-ec55deecffe81e4e0f19",
+          "blk-47b467c2a07a167df0de"
+        ],
+        "evidence_excerpt": "联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元①",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          47,
+          48
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "object": [
+            "重庆"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都联合重庆成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+        "claim_id": "claim-ddc32179192d0c65",
+        "evidence_block_ids": [
+          "blk-47b467c2a07a167df0de"
+        ],
+        "evidence_excerpt": "联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元②",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          48
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "object": [
+            "重庆"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+        "claim_id": "claim-31c1f0e856779ea1",
+        "evidence_block_ids": [
+          "blk-9d92910186aa988e604f"
+        ],
+        "evidence_excerpt": "与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          48
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "object": [
+            "宜宾"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+        "claim_id": "claim-c53e42427037783b",
+        "evidence_block_ids": [
+          "blk-9d92910186aa988e604f"
+        ],
+        "evidence_excerpt": "与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占\\(10\\%\\) 以上",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          48
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "object": [
+            "雅安"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园。",
+        "claim_id": "claim-980821be20107a75",
+        "evidence_block_ids": [
+          "blk-9d92910186aa988e604f"
+        ],
+        "evidence_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          48
+        ],
+        "ref_id": "ref-7089e8f55879",
+        "scope": {
+          "object": [
+            "北京"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-7c0330789b022506",
+          "claim-de97a51fdf0ab287",
+          "claim-5d9186a9bfb92d40",
+          "claim-e3677e2b592a48b3",
+          "claim-ddc32179192d0c65",
+          "claim-31c1f0e856779ea1",
+          "claim-c53e42427037783b",
+          "claim-980821be20107a75"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+        "reason": "该Bundle包含回答中心问题所需的全部核心事实，涉及合作对象、方式及量化成果，无重复或纯上下文内容。"
+      }
+    ],
+    "group_id": "topic-663435330d18",
+    "members": [
+      {
+        "contribution": "该证据详细阐述了2023年成都现代交通产业生态圈在跨区域协作方面的具体实践，包括合作对象、方式及量化成果，直接回答中心问题。",
+        "ref_id": "ref-7089e8f55879",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "pass",
+    "rows": [
+      {
+        "claim_id": "claim-7c0330789b022506",
+        "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-de97a51fdf0ab287",
+        "draft_excerpt": "合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-5d9186a9bfb92d40",
+        "draft_excerpt": "在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e3677e2b592a48b3",
+        "draft_excerpt": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-ddc32179192d0c65",
+        "draft_excerpt": "成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-31c1f0e856779ea1",
+        "draft_excerpt": "在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-c53e42427037783b",
+        "draft_excerpt": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+        "finding": "covered",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-980821be20107a75",
+        "draft_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+        "finding": "covered",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [
+          "claim-7c0330789b022506"
+        ],
+        "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦汽车、轨道交通及物流产业链，通过与省内城市及重庆、北京等地的深度合作，推动现代交通产业发展壮大。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-ea3aa2d9317ed2b0",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-7c0330789b022506"
+        ],
+        "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-63940ca5b778f78a",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-de97a51fdf0ab287"
+        ],
+        "draft_excerpt": "合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-dd07cab5f3dbab03",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-5d9186a9bfb92d40"
+        ],
+        "draft_excerpt": "在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-6f54df4c651aab17",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-e3677e2b592a48b3"
+        ],
+        "draft_excerpt": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4944b9cba3cd8c18",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-ddc32179192d0c65"
+        ],
+        "draft_excerpt": "成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-25d87d6921819996",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-31c1f0e856779ea1"
+        ],
+        "draft_excerpt": "在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-4ad30feaadca0de5",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-c53e42427037783b"
+        ],
+        "draft_excerpt": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-682f97c7d7c6c130",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-980821be20107a75"
+        ],
+        "draft_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-b2caf91bc98700e2",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": []
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-7c0330789b022506",
+          "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-de97a51fdf0ab287",
+          "draft_excerpt": "合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-5d9186a9bfb92d40",
+          "draft_excerpt": "在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e3677e2b592a48b3",
+          "draft_excerpt": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-ddc32179192d0c65",
+          "draft_excerpt": "成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-31c1f0e856779ea1",
+          "draft_excerpt": "在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-c53e42427037783b",
+          "draft_excerpt": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+          "finding": "covered",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-980821be20107a75",
+          "draft_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+          "finding": "covered",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [
+            "claim-7c0330789b022506"
+          ],
+          "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦汽车、轨道交通及物流产业链，通过与省内城市及重庆、北京等地的深度合作，推动现代交通产业发展壮大。",
+          "finding": "supported",
+          "sentence_id": "sentence-ea3aa2d9317ed2b0",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-7c0330789b022506"
+          ],
+          "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。",
+          "finding": "supported",
+          "sentence_id": "sentence-63940ca5b778f78a",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-de97a51fdf0ab287"
+          ],
+          "draft_excerpt": "合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+          "finding": "supported",
+          "sentence_id": "sentence-dd07cab5f3dbab03",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-5d9186a9bfb92d40"
+          ],
+          "draft_excerpt": "在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。",
+          "finding": "supported",
+          "sentence_id": "sentence-6f54df4c651aab17",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-e3677e2b592a48b3"
+          ],
+          "draft_excerpt": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-4944b9cba3cd8c18",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-ddc32179192d0c65"
+          ],
+          "draft_excerpt": "成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-25d87d6921819996",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-31c1f0e856779ea1"
+          ],
+          "draft_excerpt": "在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+          "finding": "supported",
+          "sentence_id": "sentence-4ad30feaadca0de5",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-c53e42427037783b"
+          ],
+          "draft_excerpt": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+          "finding": "supported",
+          "sentence_id": "sentence-682f97c7d7c6c130",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-980821be20107a75"
+          ],
+          "draft_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+          "finding": "supported",
+          "sentence_id": "sentence-b2caf91bc98700e2",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": []
+    }
+  },
+  "coverage_draft_sha256": "58f43d8505ec3707e5bf5a3f177a6f4995d430a23420c5c9d74a5d5f3c41f974",
+  "coverage_history": [
+    {
+      "draft_sha256": "58f43d8505ec3707e5bf5a3f177a6f4995d430a23420c5c9d74a5d5f3c41f974",
+      "matrix": {
+        "decision": "pass",
+        "rows": [
+          {
+            "claim_id": "claim-7c0330789b022506",
+            "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-de97a51fdf0ab287",
+            "draft_excerpt": "合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-5d9186a9bfb92d40",
+            "draft_excerpt": "在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e3677e2b592a48b3",
+            "draft_excerpt": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-ddc32179192d0c65",
+            "draft_excerpt": "成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-31c1f0e856779ea1",
+            "draft_excerpt": "在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-c53e42427037783b",
+            "draft_excerpt": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+            "finding": "covered",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-980821be20107a75",
+            "draft_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+            "finding": "covered",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [
+              "claim-7c0330789b022506"
+            ],
+            "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦汽车、轨道交通及物流产业链，通过与省内城市及重庆、北京等地的深度合作，推动现代交通产业发展壮大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ea3aa2d9317ed2b0",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-7c0330789b022506"
+            ],
+            "draft_excerpt": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-63940ca5b778f78a",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-de97a51fdf0ab287"
+            ],
+            "draft_excerpt": "合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-dd07cab5f3dbab03",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-5d9186a9bfb92d40"
+            ],
+            "draft_excerpt": "在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-6f54df4c651aab17",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-e3677e2b592a48b3"
+            ],
+            "draft_excerpt": "成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4944b9cba3cd8c18",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-ddc32179192d0c65"
+            ],
+            "draft_excerpt": "成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-25d87d6921819996",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-31c1f0e856779ea1"
+            ],
+            "draft_excerpt": "在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-4ad30feaadca0de5",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-c53e42427037783b"
+            ],
+            "draft_excerpt": "成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-682f97c7d7c6c130",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-980821be20107a75"
+            ],
+            "draft_excerpt": "温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-b2caf91bc98700e2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": []
+      }
+    }
+  ],
+  "decision": "pass",
+  "draft": {
+    "body": "## 核心判断\n\n2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作。\n\n合作以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。\n\n## 产业链供需对接\n\n在产业链供需对接方面，成都联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户，相互配套金额屡创历史新高。\n\n成都联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿元。\n\n成都联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元。\n\n## 发展载体高质量共建\n\n在发展载体高质量共建方面，成都与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。\n\n成都与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占10%以上。\n\n温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+    "description": "2023年，成都围绕建设现代交通产业生态圈，聚焦汽车、轨道交通及物流产业链，通过与省内城市及重庆、北京等地的深度合作，推动现代交通产业发展壮大。",
+    "ref": {
+      "asset_hints": [
+        "image-013"
+      ],
+      "concept_id": "topic-663435330d18",
+      "description": "2023年，成都围绕建设现代交通产业生态圈，聚焦汽车、轨道交通及物流产业链，通过与省内城市及重庆、北京等地的深度合作，推动现代交通产业发展壮大。",
+      "document_family_id": "2e49b8f465af22d4fe6c",
+      "document_version_id": "b801fce5de4f1c604a6b",
+      "evidence": [
+        "### 四、现代交通产业生态圈：“整零”深度协作、载体平台共建",
+        "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作，以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。",
+        "产业链供需对接方面，联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户①，相互配套金额屡创历史新高。联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿\n\n元①；联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元②。",
+        "发展载体高质量共建方面，与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占\\(10\\%\\) 以上。温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。",
+        "#### 五、绿色低碳产业生态圈：园区或基地共建、院校企地深度协作",
+        "2023年，成都围绕建设绿色低碳产业生态圈，聚焦共同打造新能源、新材料等产业链，与眉山、德阳、乐山、巴中、遂宁、宜宾、攀枝花、自贡、雅安、遂宁等城市开展合作，以成立产业联盟、研发创新合作、园区合作等方式为主，合力推动绿色低碳产业提质增效。",
+        "产业项目合作方面，与眉山、乐山围绕光伏产业开展合作，三地在2023第六届中国国际光伏产业大会启动仪式及主会议进行重大合作项目签约，签约总金额累计超过500亿元。联合重庆、遂宁、德阳、眉山、宜宾等城市签订成渝地区双城经济圈锂电产业战略，共同打造世界级锂电产业基地。推动四川大学与雅安百图高新材料股份有限公司联合开展《导热粉体表面修饰技术开发与应用研究》项目。",
+        "产业发展能级共提方面，东方电气（成都）氢燃料电池科技有限公司与攀枝花市、航天推进技术研究院、一汽解放汽车有限公司、四川省特种设备检验研究院签订《液氢应用示范区（攀枝花）合作协议》，聚焦液氢技术和装备研究、研制、试制、产业化等领域深化互利合作，着力打造全国乃至全世界氢能产业发展典范。联合自贡共同争创成渝地区双城经济圈燃料电池汽车示范城市。",
+        "产业发展载体共建方面，携手德眉资在上海举行“投资四川·成都都市圈全球投资推介会”，总投资100亿元的15GWh清陶能源动力固态电池储能产业基地签约落地郫都区。推动遂宁天齐锂业、盛屯集团、新锂想在成都率先建成3个“锂电产业飞地研发基地”，构建“智力研发在成都，成果转化在遂宁”发展模式。与眉山共建新能源新材料产业学院，实现招生运营，西南交大光学中试基地即将建成。",
+        "##### 专栏2-3 清陶能源动力固态电池储能产业基地落地成都",
+        "清陶（昆山）能源发展股份有限公司总部位于江苏省昆山市，研制的产品具有能量密度高、耐高温、长寿命等优点，是固态电池行业龙头企业。清陶新能源计划分两期在成都郫都区建设固态电池储能产业基地，打造国际新能源技术研发高地，预计达产后每年将新增利税30亿元。项目一期选址郫都区菁蓉镇，工厂面积2万平方米，首条生产线设计产能1GWh，正在调试阶段，预计近期首批半固态电池将在郫都工厂正式下线，是成都首条半固态电池生产线。",
+        "![原始 PDF 第 49 页图片](http://minio.internal:9000/kmpro-wiki-assets/region-economy-v15-20260729/article-a2b7009074afb1c30e9b/a173320494859e14660c4153.jpg)"
+      ],
+      "evidence_block_ids": [
+        "blk-de14a90e569d27a8c4ad",
+        "blk-ec55deecffe81e4e0f19",
+        "blk-47b467c2a07a167df0de",
+        "blk-9d92910186aa988e604f",
+        "blk-72f888eaedb466e03dc1",
+        "blk-726f052719f9af12af6b",
+        "blk-7dda628fd235aa0d3219",
+        "blk-4fbedd47439208d1a3b1",
+        "blk-219ec05e23d248de50d4",
+        "blk-23fccad96c108ed938d2"
+      ],
+      "page_end": 49,
+      "page_start": 47,
+      "ref_family_hint": "",
+      "ref_version_id": "b801fce5de4f1c604a6b",
+      "scope": {},
+      "section_path": [
+        "年度主题篇",
+        "四、现代交通产业生态圈：“整零”深度协作、载体平台共建"
+      ],
+      "semantic_signature": {},
+      "source": "cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md",
+      "title": "成都现代交通产业生态圈跨区域协作",
+      "type": "分析框架"
+    },
+    "title": "成都现代交通产业生态圈跨区域协作"
+  },
+  "draft_origin": "source_run",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-7089e8f55879:bundle-4cc868cb477b",
+      "excluded_fragments": [],
+      "ref_id": "ref-7089e8f55879",
+      "source_blocks": [
+        {
+          "block_id": "blk-de14a90e569d27a8c4ad",
+          "page_number": 47,
+          "text": "2023年，成都围绕建设现代交通产业生态圈，聚焦共同打造汽车、轨道交通、现代物流等产业链，积极与南充、雅安、宜宾、自贡、巴中等省内城市以及重庆合作，同时与北京等城市也开展了深度合作，以汽车产业零部件配套合作、展览合作、物流园区共建、企业对接等方式为主，共同推动现代交通产业发展壮大。"
+        },
+        {
+          "block_id": "blk-ec55deecffe81e4e0f19",
+          "page_number": 47,
+          "text": "产业链供需对接方面，联合德眉资推动新能源汽车产业协同联动，成都整车企业与德眉资三市20户企业实现配套，其中德阳市6户、眉山市4户、资阳市10户①，相互配套金额屡创历史新高。联合重庆共同建好成渝地区双城经济圈汽车产业链供需信息对接平台，累计集聚川渝两地整车及零部件企业5000余家，促成相互配套合作超400亿"
+        },
+        {
+          "block_id": "blk-47b467c2a07a167df0de",
+          "page_number": 48,
+          "text": "元①；联合成立重庆市、成都市国家综合货运枢纽补链强链工作领导小组，共同争取到位中央专项奖补资金10亿元②。"
+        },
+        {
+          "block_id": "blk-9d92910186aa988e604f",
+          "page_number": 48,
+          "text": "发展载体高质量共建方面，与宜宾合作的长江上游成宜国际物流园项目加快推进，完成投资1.2亿元。与雅安开展汽车零部件配套合作，实现雅安的成都配套供应商占\\(10\\%\\) 以上。温江区签约成都金港新能源汽车公园项目，由北京金港企业拟投资120亿元，建设国内首个整合新能源全产业链的新能源汽车产业园，着力打造以汽车体验、汽车文化、汽车运动、汽车贸易为主的国际化体验式特色消费场景。"
+        },
+        {
+          "block_id": "blk-72f888eaedb466e03dc1",
+          "page_number": 48,
+          "text": "2023年，成都围绕建设绿色低碳产业生态圈，聚焦共同打造新能源、新材料等产业链，与眉山、德阳、乐山、巴中、遂宁、宜宾、攀枝花、自贡、雅安、遂宁等城市开展合作，以成立产业联盟、研发创新合作、园区合作等方式为主，合力推动绿色低碳产业提质增效。"
+        },
+        {
+          "block_id": "blk-726f052719f9af12af6b",
+          "page_number": 48,
+          "text": "产业项目合作方面，与眉山、乐山围绕光伏产业开展合作，三地在2023第六届中国国际光伏产业大会启动仪式及主会议进行重大合作项目签约，签约总金额累计超过500亿元。联合重庆、遂宁、德阳、眉山、宜宾等城市签订成渝地区双城经济圈锂电产业战略，共同打造世界级锂电产业基地。推动四川大学与雅安百图高新材料股份有限公司联合开展《导热粉体表面修饰技术开发与应用研究》项目。"
+        },
+        {
+          "block_id": "blk-7dda628fd235aa0d3219",
+          "page_number": 48,
+          "text": "产业发展能级共提方面，东方电气（成都）氢燃料电池科技有限公司与攀枝花市、航天推进技术研究院、一汽解放汽车有限公司、四川省特种设备检验研究院签订《液氢应用示范区（攀枝花）合作协议》，聚焦液氢技术和装备研究、研制、试制、产业化等领域深化互利合作，着力打造全国乃至全世界氢能产业发展典范。联合自贡共同争创成渝地区双城经济圈燃料电池汽车示范城市。"
+        },
+        {
+          "block_id": "blk-4fbedd47439208d1a3b1",
+          "page_number": 49,
+          "text": "产业发展载体共建方面，携手德眉资在上海举行“投资四川·成都都市圈全球投资推介会”，总投资100亿元的15GWh清陶能源动力固态电池储能产业基地签约落地郫都区。推动遂宁天齐锂业、盛屯集团、新锂想在成都率先建成3个“锂电产业飞地研发基地”，构建“智力研发在成都，成果转化在遂宁”发展模式。与眉山共建新能源新材料产业学院，实现招生运营，西南交大光学中试基地即将建成。"
+        },
+        {
+          "block_id": "blk-219ec05e23d248de50d4",
+          "page_number": 49,
+          "text": "清陶（昆山）能源发展股份有限公司总部位于江苏省昆山市，研制的产品具有能量密度高、耐高温、长寿命等优点，是固态电池行业龙头企业。清陶新能源计划分两期在成都郫都区建设固态电池储能产业基地，打造国际新能源技术研发高地，预计达产后每年将新增利税30亿元。项目一期选址郫都区菁蓉镇，工厂面积2万平方米，首条生产线设计产能1GWh，正在调试阶段，预计近期首批半固态电池将在郫都工厂正式下线，是成都首条半固态电池生产线。"
+        },
+        {
+          "block_id": "blk-23fccad96c108ed938d2",
+          "page_number": 49,
+          "text": "原始 PDF 第 49 页图片"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-663435330d18",
+  "recompile_attempts": 0,
+  "ref_ids": [
+    "ref-7089e8f55879"
+  ],
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}

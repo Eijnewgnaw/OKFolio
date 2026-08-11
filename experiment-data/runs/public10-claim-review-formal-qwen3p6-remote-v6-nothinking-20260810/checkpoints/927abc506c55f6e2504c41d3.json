@@ -1,0 +1,1160 @@
+{
+  "contract": {
+    "canonical_question": "2017-2018年成都开放型经济在产业体系、对外贸易、招商引资及国际交流方面取得了哪些具体成效？",
+    "claims": [
+      {
+        "claim": "2017年成都地区生产总值为13889.4亿元。",
+        "claim_id": "claim-ba33a47e7b5a83ad",
+        "evidence_block_ids": [
+          "blk-5b5a0325a33b2bca547c"
+        ],
+        "evidence_excerpt": "2017年，成都实现地区生产总值13889.4亿元",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          63
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2017年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年成都地区生产总值为15342.8亿元。",
+        "claim_id": "claim-81a9da53254d373b",
+        "evidence_block_ids": [
+          "blk-8fd3183b90854b7e2c55"
+        ],
+        "evidence_excerpt": "2018年，成都实现地区生产总值15342.8亿元",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          63
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年成都三次产业结构比例为3.6:43.2:53.2。",
+        "claim_id": "claim-7beaa3b4fba21fa6",
+        "evidence_block_ids": [
+          "blk-5b5a0325a33b2bca547c"
+        ],
+        "evidence_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8. \\(1\\%\\) ，人均地区生产总值达到86911元，三次产业结构比例调整为 \\(3.6:43.2:53.2",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          63
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2017年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年成都三次产业结构比例为3.4:42.5:54.1。",
+        "claim_id": "claim-e5a7860e1ed099c5",
+        "evidence_block_ids": [
+          "blk-8fd3183b90854b7e2c55"
+        ],
+        "evidence_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ，人均地区生产总值达到93955元，三次产业结构比例调整为3.4；42.5：54.1",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          63
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年成都工业增加值为5217.2亿元。",
+        "claim_id": "claim-3c47d16cea81e4bb",
+        "evidence_block_ids": [
+          "blk-ab3493259f65d6d586c7"
+        ],
+        "evidence_excerpt": "2017年，实现工业增加值5217.2亿元",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2017年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2017年成都五大支柱产业占工业增加值比重达66%。",
+        "claim_id": "claim-82238608d10de8ce",
+        "evidence_block_ids": [
+          "blk-ab3493259f65d6d586c7"
+        ],
+        "evidence_excerpt": "2017年，实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加比重达 \\(66\\%",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          64
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2017年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年成都工业增加值为5663.8亿元。",
+        "claim_id": "claim-1f04c6f67d34e9aa",
+        "evidence_block_ids": [
+          "blk-c0cf092b555fdff96854"
+        ],
+        "evidence_excerpt": "2018年，实现工业增加值5663.8亿元",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          65
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      },
+      {
+        "claim": "2018年成都五大产业增加值占工业增加值比重达82%。",
+        "claim_id": "claim-fc1f8248a5d1b581",
+        "evidence_block_ids": [
+          "blk-c0cf092b555fdff96854"
+        ],
+        "evidence_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达 \\(82\\%",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "kind": "fact",
+        "ocr_suspicions": [],
+        "page_numbers": [
+          65
+        ],
+        "ref_id": "ref-25626dc59ef5",
+        "scope": {
+          "time": [
+            "2018年"
+          ]
+        },
+        "slot": "evidence",
+        "source_text_anomalies": []
+      }
+    ],
+    "evidence_units": [
+      {
+        "claim_ids": [
+          "claim-ba33a47e7b5a83ad",
+          "claim-81a9da53254d373b",
+          "claim-7beaa3b4fba21fa6",
+          "claim-e5a7860e1ed099c5",
+          "claim-3c47d16cea81e4bb",
+          "claim-82238608d10de8ce",
+          "claim-1f04c6f67d34e9aa",
+          "claim-fc1f8248a5d1b581"
+        ],
+        "disposition": "required",
+        "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+        "reason": "该Bundle包含回答分析框架核心槽位（subject, core_judgment, evidence, impact, scope）所需的所有关键事实，包括GDP、产业结构、进出口额、外资额、境外投资额及具体政策名称。"
+      }
+    ],
+    "group_id": "topic-952c33ca2a05",
+    "members": [
+      {
+        "contribution": "该证据Bundle提供了2017-2018年成都宏观经济、产业结构、外贸指标、外资利用、境外投资及政策环境的全方位事实，直接支撑对开放经济高地建设成效的评估。",
+        "ref_id": "ref-25626dc59ef5",
+        "relation": "supports"
+      }
+    ],
+    "schema_version": "okfolio.claim-contract.v1"
+  },
+  "coverage": {
+    "decision": "recompile",
+    "rows": [
+      {
+        "claim_id": "claim-ba33a47e7b5a83ad",
+        "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+        "finding": "draft_excerpt matches claim-ba33a47e7b5a83ad",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-81a9da53254d373b",
+        "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+        "finding": "draft_excerpt matches claim-81a9da53254d373b",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-7beaa3b4fba21fa6",
+        "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+        "finding": "draft_excerpt matches claim-7beaa3b4fba21fa6",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-e5a7860e1ed099c5",
+        "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+        "finding": "draft_excerpt matches claim-e5a7860e1ed099c5",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-3c47d16cea81e4bb",
+        "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+        "finding": "draft_excerpt matches claim-3c47d16cea81e4bb",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-82238608d10de8ce",
+        "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+        "finding": "draft_excerpt matches claim-82238608d10de8ce",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-1f04c6f67d34e9aa",
+        "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+        "finding": "draft_excerpt matches claim-1f04c6f67d34e9aa",
+        "status": "covered"
+      },
+      {
+        "claim_id": "claim-fc1f8248a5d1b581",
+        "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+        "finding": "draft_excerpt matches claim-fc1f8248a5d1b581",
+        "status": "covered"
+      }
+    ],
+    "schema_version": "okfolio.claim-coverage.v2",
+    "scope_violations": [],
+    "sentence_attributions": [
+      {
+        "claim_ids": [],
+        "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+        "finding": "unsupported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cabe3c903f3b90be",
+        "source_text_anomalies": [],
+        "status": "unsupported"
+      },
+      {
+        "claim_ids": [
+          "claim-ba33a47e7b5a83ad",
+          "claim-7beaa3b4fba21fa6"
+        ],
+        "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-2aa2258e64bf409d",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-81a9da53254d373b",
+          "claim-e5a7860e1ed099c5"
+        ],
+        "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cc242dea584e731c",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-3c47d16cea81e4bb",
+          "claim-82238608d10de8ce"
+        ],
+        "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-cecc455bc35208e8",
+        "source_text_anomalies": [],
+        "status": "supported"
+      },
+      {
+        "claim_ids": [
+          "claim-1f04c6f67d34e9aa",
+          "claim-fc1f8248a5d1b581"
+        ],
+        "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+        "finding": "supported",
+        "ocr_suspicions": [],
+        "sentence_id": "sentence-828b0a8b36617416",
+        "source_text_anomalies": [],
+        "status": "supported"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+        "finding": "unsupported"
+      },
+      {
+        "draft_excerpt": "2017",
+        "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+      }
+    ]
+  },
+  "coverage_batches": {
+    "0": {
+      "batch_index": 0,
+      "rows": [
+        {
+          "claim_id": "claim-ba33a47e7b5a83ad",
+          "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+          "finding": "draft_excerpt matches claim-ba33a47e7b5a83ad",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-81a9da53254d373b",
+          "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+          "finding": "draft_excerpt matches claim-81a9da53254d373b",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-7beaa3b4fba21fa6",
+          "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+          "finding": "draft_excerpt matches claim-7beaa3b4fba21fa6",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-e5a7860e1ed099c5",
+          "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+          "finding": "draft_excerpt matches claim-e5a7860e1ed099c5",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-3c47d16cea81e4bb",
+          "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+          "finding": "draft_excerpt matches claim-3c47d16cea81e4bb",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-82238608d10de8ce",
+          "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+          "finding": "draft_excerpt matches claim-82238608d10de8ce",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-1f04c6f67d34e9aa",
+          "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+          "finding": "draft_excerpt matches claim-1f04c6f67d34e9aa",
+          "status": "covered"
+        },
+        {
+          "claim_id": "claim-fc1f8248a5d1b581",
+          "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+          "finding": "draft_excerpt matches claim-fc1f8248a5d1b581",
+          "status": "covered"
+        }
+      ],
+      "scope_violations": [],
+      "sentence_attributions": [
+        {
+          "claim_ids": [],
+          "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+          "finding": "unsupported",
+          "sentence_id": "sentence-cabe3c903f3b90be",
+          "status": "unsupported"
+        },
+        {
+          "claim_ids": [
+            "claim-ba33a47e7b5a83ad",
+            "claim-7beaa3b4fba21fa6"
+          ],
+          "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+          "finding": "supported",
+          "sentence_id": "sentence-2aa2258e64bf409d",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-81a9da53254d373b",
+            "claim-e5a7860e1ed099c5"
+          ],
+          "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+          "finding": "supported",
+          "sentence_id": "sentence-cc242dea584e731c",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-3c47d16cea81e4bb",
+            "claim-82238608d10de8ce"
+          ],
+          "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+          "finding": "supported",
+          "sentence_id": "sentence-cecc455bc35208e8",
+          "status": "supported"
+        },
+        {
+          "claim_ids": [
+            "claim-1f04c6f67d34e9aa",
+            "claim-fc1f8248a5d1b581"
+          ],
+          "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+          "finding": "supported",
+          "sentence_id": "sentence-828b0a8b36617416",
+          "status": "supported"
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+          "finding": "unsupported"
+        }
+      ]
+    }
+  },
+  "coverage_draft_sha256": "01e84cdc77d6c03d75df82f1dc047d1a5bf9180a49b1bd613be6fe5e91c34bdf",
+  "coverage_history": [
+    {
+      "draft_sha256": "c11591f5f96a1e7f4f2ad91e75da4388e04d81c231d5924f33d3a236aff6ea4d",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ba33a47e7b5a83ad",
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "draft_excerpt matches claim-ba33a47e7b5a83ad",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81a9da53254d373b",
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "draft_excerpt matches claim-81a9da53254d373b",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7beaa3b4fba21fa6",
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "draft_excerpt matches claim-7beaa3b4fba21fa6",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e5a7860e1ed099c5",
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "draft_excerpt matches claim-e5a7860e1ed099c5",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c47d16cea81e4bb",
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "draft_excerpt matches claim-3c47d16cea81e4bb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82238608d10de8ce",
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "draft_excerpt matches claim-82238608d10de8ce",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f04c6f67d34e9aa",
+            "draft_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "draft_excerpt matches claim-1f04c6f67d34e9aa",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fc1f8248a5d1b581",
+            "draft_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "draft_excerpt matches claim-fc1f8248a5d1b581",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值持续增长，产业结构优化，五大支柱产业对工业增长的贡献率显著提升。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-65bd2b880e5e0ec1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ba33a47e7b5a83ad",
+              "claim-7beaa3b4fba21fa6"
+            ],
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-16a4d730ac8b3da2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81a9da53254d373b",
+              "claim-e5a7860e1ed099c5"
+            ],
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-239cf464d8bf61f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "在此期间，成都经济保持稳步增长态势，人均GDP水平持续提升，三次产业结构中第三产业比重进一步增加，显示出经济结构的持续优化。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-ea1460883393ac67",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c47d16cea81e4bb",
+              "claim-82238608d10de8ce"
+            ],
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-941e669c7e128719",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f04c6f67d34e9aa",
+              "claim-fc1f8248a5d1b581"
+            ],
+            "draft_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-3f43cac406f73187",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [],
+            "draft_excerpt": "成都工业经济规模不断扩大，五大支柱产业对工业增加值的贡献率显著提升，产业聚集效应和核心竞争力进一步增强。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-1b6af02ef5643c9f",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c47d16cea81e4bb",
+              "claim-82238608d10de8ce"
+            ],
+            "draft_excerpt": "2017年工业增加值5217.2亿元，五大支柱产业占比66%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-7552d6e287469395",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f04c6f67d34e9aa",
+              "claim-fc1f8248a5d1b581"
+            ],
+            "draft_excerpt": "2018年工业增加值5663.8亿元，五大支柱产业占比82%",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-fcd9321c797c1197",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值持续增长，产业结构优化，五大支柱产业对工业增长的贡献率显著提升。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "在此期间，成都经济保持稳步增长态势，人均GDP水平持续提升，三次产业结构中第三产业比重进一步增加，显示出经济结构的持续优化。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "成都工业经济规模不断扩大，五大支柱产业对工业增加值的贡献率显著提升，产业聚集效应和核心竞争力进一步增强。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2017",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "4094107e93cd7fcc84b8068a00c45873f89ab8d71f7851cac258108381923d5b",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ba33a47e7b5a83ad",
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-ba33a47e7b5a83ad.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81a9da53254d373b",
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-81a9da53254d373b.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7beaa3b4fba21fa6",
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-7beaa3b4fba21fa6.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e5a7860e1ed099c5",
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-e5a7860e1ed099c5.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c47d16cea81e4bb",
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-3c47d16cea81e4bb.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82238608d10de8ce",
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-82238608d10de8ce.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f04c6f67d34e9aa",
+            "draft_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-1f04c6f67d34e9aa.",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fc1f8248a5d1b581",
+            "draft_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "draft_excerpt matches evidence_excerpt for claim-fc1f8248a5d1b581.",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值持续增长，产业结构优化，五大支柱产业对工业增长的贡献率显著提升。",
+            "finding": "The sentence contains interpretive judgments ('持续增长', '产业结构优化', '贡献率显著提升') not explicitly stated as such in the contract claims, which only list static facts. '",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-65bd2b880e5e0ec1",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ba33a47e7b5a83ad",
+              "claim-7beaa3b4fba21fa6"
+            ],
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，同比增长8.1%，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "Matches claims claim-ba33a47e7b5a83ad and claim-7beaa3b4fba21fa6.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-16a4d730ac8b3da2",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81a9da53254d373b",
+              "claim-e5a7860e1ed099c5"
+            ],
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，同比增长8%，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "Matches claims claim-81a9da53254d373b and claim-e5a7860e1ed099c5.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-239cf464d8bf61f8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c47d16cea81e4bb",
+              "claim-82238608d10de8ce"
+            ],
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "Matches claims claim-3c47d16cea81e4bb and claim-82238608d10de8ce.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cecc455bc35208e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f04c6f67d34e9aa",
+              "claim-fc1f8248a5d1b581"
+            ],
+            "draft_excerpt": "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "Matches claims claim-1f04c6f67d34e9aa and claim-fc1f8248a5d1b581.",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-a7a7f324956a9f5b",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值持续增长，产业结构优化，五大支柱产业对工业增长的贡献率显著提升。",
+            "finding": "The sentence contains interpretive judgments ('持续增长', '产业结构优化', '贡献率显著提升') not explicitly stated as such in the contract claims, which only list static facts."
+          },
+          {
+            "draft_excerpt": "2017",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8.1%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          },
+          {
+            "draft_excerpt": "8%",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    },
+    {
+      "draft_sha256": "01e84cdc77d6c03d75df82f1dc047d1a5bf9180a49b1bd613be6fe5e91c34bdf",
+      "matrix": {
+        "decision": "recompile",
+        "rows": [
+          {
+            "claim_id": "claim-ba33a47e7b5a83ad",
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "draft_excerpt matches claim-ba33a47e7b5a83ad",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-81a9da53254d373b",
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "draft_excerpt matches claim-81a9da53254d373b",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-7beaa3b4fba21fa6",
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "draft_excerpt matches claim-7beaa3b4fba21fa6",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-e5a7860e1ed099c5",
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "draft_excerpt matches claim-e5a7860e1ed099c5",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-3c47d16cea81e4bb",
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "draft_excerpt matches claim-3c47d16cea81e4bb",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-82238608d10de8ce",
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "draft_excerpt matches claim-82238608d10de8ce",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-1f04c6f67d34e9aa",
+            "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "draft_excerpt matches claim-1f04c6f67d34e9aa",
+            "status": "covered"
+          },
+          {
+            "claim_id": "claim-fc1f8248a5d1b581",
+            "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "draft_excerpt matches claim-fc1f8248a5d1b581",
+            "status": "covered"
+          }
+        ],
+        "schema_version": "okfolio.claim-coverage.v2",
+        "scope_violations": [],
+        "sentence_attributions": [
+          {
+            "claim_ids": [],
+            "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+            "finding": "unsupported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cabe3c903f3b90be",
+            "source_text_anomalies": [],
+            "status": "unsupported"
+          },
+          {
+            "claim_ids": [
+              "claim-ba33a47e7b5a83ad",
+              "claim-7beaa3b4fba21fa6"
+            ],
+            "draft_excerpt": "2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-2aa2258e64bf409d",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-81a9da53254d373b",
+              "claim-e5a7860e1ed099c5"
+            ],
+            "draft_excerpt": "2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cc242dea584e731c",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-3c47d16cea81e4bb",
+              "claim-82238608d10de8ce"
+            ],
+            "draft_excerpt": "2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-cecc455bc35208e8",
+            "source_text_anomalies": [],
+            "status": "supported"
+          },
+          {
+            "claim_ids": [
+              "claim-1f04c6f67d34e9aa",
+              "claim-fc1f8248a5d1b581"
+            ],
+            "draft_excerpt": "2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+            "finding": "supported",
+            "ocr_suspicions": [],
+            "sentence_id": "sentence-828b0a8b36617416",
+            "source_text_anomalies": [],
+            "status": "supported"
+          }
+        ],
+        "unsupported_claims": [
+          {
+            "draft_excerpt": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+            "finding": "unsupported"
+          },
+          {
+            "draft_excerpt": "2017",
+            "finding": "代码门禁发现草稿硬锚点未出现在 Claim Contract 的逐字证据中。"
+          }
+        ]
+      }
+    }
+  ],
+  "decision": "human_review",
+  "draft": {
+    "body": "## 核心判断\n\n2017年，成都实现地区生产总值13889.4亿元，人均地区生产总值达到86911元，三次产业结构比例调整为3.6:43.2:53.2。2018年，成都实现地区生产总值15342.8亿元，人均地区生产总值达到93955元，三次产业结构比例调整为3.4:42.5:54.1。\n\n2017年，成都实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加值比重达66%。2018年，成都实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达82%。",
+    "description": "2017至2018年成都地区生产总值与工业增加值数据及产业结构比例。",
+    "ref": {
+      "asset_hints": [
+        "image-029",
+        "image-030",
+        "image-031",
+        "image-032",
+        "image-033"
+      ],
+      "concept_id": "topic-952c33ca2a05",
+      "description": "2017-2018年，成都加快推进开放型经济发展，在构建现代产业体系、提升对外贸易质量、促进“引进来”和“走出去”、加强国际经贸交流等方面取得了显著成效。",
+      "document_family_id": "07fc702278a445d0bd9e",
+      "document_version_id": "b6caaa28b0705913795d",
+      "evidence": [
+        "2017年，成都实现地区生产总值13889.4亿元",
+        "2018年，成都实现地区生产总值15342.8亿元",
+        "2017年，成都实现地区生产总值13889.4亿元，同比增长8. \\(1\\%\\) ，人均地区生产总值达到86911元，三次产业结构比例调整为 \\(3.6:43.2:53.2",
+        "2018年，成都实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ，人均地区生产总值达到93955元，三次产业结构比例调整为3.4；42.5：54.1",
+        "2017年，实现工业增加值5217.2亿元",
+        "2017年，实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加比重达 \\(66\\%",
+        "2018年，实现工业增加值5663.8亿元",
+        "2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达 \\(82\\%"
+      ],
+      "evidence_block_ids": [
+        "blk-5b5a0325a33b2bca547c",
+        "blk-8fd3183b90854b7e2c55",
+        "blk-ab3493259f65d6d586c7",
+        "blk-c0cf092b555fdff96854"
+      ],
+      "page_end": 71,
+      "page_start": 63,
+      "ref_family_hint": "",
+      "ref_version_id": "b6caaa28b0705913795d",
+      "scope": {},
+      "section_path": [
+        "2017-2018年成都融人“一带一路”建设概况",
+        "一、2017-2018年成都开放经济高地建设的主要成效"
+      ],
+      "semantic_signature": {},
+      "source": "17d86065-ce5f-4300-a5a3-cb89b688ea94.md",
+      "title": "2017-2018年成都开放经济高地建设的主要成效",
+      "type": "分析框架"
+    },
+    "title": "2017-2018年成都开放经济高地建设的主要成效"
+  },
+  "draft_origin": "claim_contract_required_excerpts",
+  "evidence_provenance": [
+    {
+      "evidence_id": "ref-25626dc59ef5:bundle-fc45b2d90ade",
+      "excluded_fragments": [],
+      "ref_id": "ref-25626dc59ef5",
+      "source_blocks": [
+        {
+          "block_id": "blk-f5792fd7f88c50d8bbb6",
+          "page_number": 63,
+          "text": "2017-2018年，成都加快推进开放型经济发展，在构建现代产业体系、提升对外贸易质量、促进“引进来”和“走出去”、加强国际经贸交流等方面取得了显著成效。"
+        },
+        {
+          "block_id": "blk-5b5a0325a33b2bca547c",
+          "page_number": 63,
+          "text": "2017年，成都实现地区生产总值13889.4亿元，同比增长8. \\(1\\%\\) ，人均地区生产总值达到86911元，三次产业结构比例调整为 \\(3.6:43.2:53.2\\) ，其中，第一产业实现增加值500.9亿元，增长 \\(3.9\\%\\) ；第二产业实现增加值5998.2亿元，增长\\(7.5\\%\\) ；第三产业实现增加值7390.3亿元，增长 \\(7.0\\%\\) ；投资结构持续优化，完成产业投资9404.2亿元，三次产业投资结构比例为 \\(2.5:32.1:65.4\\) ，其中制造业投资3023.8亿元，第三产业完成投资6146.8亿元。"
+        },
+        {
+          "block_id": "blk-8fd3183b90854b7e2c55",
+          "page_number": 63,
+          "text": "2018年，成都实现地区生产总值15342.8亿元，同比增长 \\(8\\%\\) ，人均地区生产总值达到93955元，三次产业结构比例调整为3.4；42.5：54.1；其中，第一产业增加值522.6亿元，增长 \\(3.6\\%\\) ；第二产业增加值6516.2亿元，增长 \\(7.0\\%\\) ；第三产业增加值8304亿元，增长 \\(9.0\\%\\) ；完成产业投资8341.1亿元，三次产业投资结构比例为\\(2.4:27.5:70.1\\) ，其中制造业投资2295.8亿元，第三产业完成投资5847.3亿元。"
+        },
+        {
+          "block_id": "blk-7c9b72bfed2f6bac28a1",
+          "page_number": 64,
+          "text": "原始 PDF 第 64 页图片"
+        },
+        {
+          "block_id": "blk-58065696152f44698a64",
+          "page_number": 64,
+          "text": "原始 PDF 第 64 页图片"
+        },
+        {
+          "block_id": "blk-8f2928eaa23661f05d8b",
+          "page_number": 64,
+          "text": "图2-3 2014-2018年成都市产业结构情况"
+        },
+        {
+          "block_id": "blk-a6bceb26ac05ad67b777",
+          "page_number": 64,
+          "text": "图2-4 2014-2018年成都市产业投资结构情况"
+        },
+        {
+          "block_id": "blk-ac726843f39567d569f1",
+          "page_number": 64,
+          "text": "2017-2018年，成都以打造产业生态圈、培育创新生态链为抓手，实施高质量现代化产业攻坚计划，以66个产业功能区为载体，加快构建现代产业体系。"
+        },
+        {
+          "block_id": "blk-ab3493259f65d6d586c7",
+          "page_number": 64,
+          "text": "深入推进“中国制造2025”试点示范城市建设，2017年，实现工业增加值5217.2亿元，电子信息、汽车制造、食品饮料、装备制造、生物医药五大支柱产业占工业增加比重达 \\(66\\%\\) ，战略性新兴产业、高技术产业占工业总量比重分别达"
+        },
+        {
+          "block_id": "blk-c0cf092b555fdff96854",
+          "page_number": 65,
+          "text": "\\(32\\%\\) 、 \\(26.3\\%\\) ，食品饮料、汽车制造、装备制造产业分别比上年增长 \\(11.1\\%\\) 、 \\(10.6\\%\\) 、 \\(8.8\\%\\) ；2018年，实现工业增加值5663.8亿元，电子信息、装备制造、医药健康、新型材料、绿色食品五大产业增加值占工业增加值比重达 \\(82\\%\\) ，食品饮料、电子信息产品制造、装备制造产业分别比上年增长 \\(11.6\\%\\) 、 \\(14.3\\%\\) 、 \\(13.9\\%\\) 。"
+        },
+        {
+          "block_id": "blk-7cdef762b8da3190d705",
+          "page_number": 65,
+          "text": "服务业发展水平显著提升，2017年，服务业对全市经济增长的贡献率达\\(59.2\\%\\) ，电子商务、服务贸易等新兴服务业发展迅猛，电子商务交易规模近1.5万亿元，跨境电商交易额超过50亿元；2018年，服务业增加值对全市经济增长的贡献率提高到 \\(61.3\\%\\) ；金融、物流、电子商务等生产性服务业发展壮大，电子商务交易额达1.7万亿元，跨境电商交易额达到110.5亿元；生活性服务业全面提升，新业态、新模式不断涌现。"
+        },
+        {
+          "block_id": "blk-1db6f538bf6d5c7a45f0",
+          "page_number": 65,
+          "text": "2017年，成都实际利用外资总额已达100.4亿美元，同比增长 \\(16.5\\%\\) ，利用外资水平不断提升；新批准外商投资项目472个，其中新签约引进了紫光IC国际城项目、格罗方德12寸晶圆制造项目、融捷投资新能源汽车电池产业园项目等21个“153”项目；在蓉世界500强企业达到281家，其中境外500强企业199家，德国赢瑞科技公司中国技术支持总部、德国IF设计分中心落户成都，威马中德新能源智能汽车研究中心、建安本特勒汽车底盘研发中心、戴卡凯斯曼成都汽车零部件有限公司在蓉建成投产，中波网上丝绸之路等供应链贸易企业落户成都。"
+        },
+        {
+          "block_id": "blk-a279b580363911ba6561",
+          "page_number": 65,
+          "text": "2018年，实际利用外资122.7亿美元，签约引进重大项目420个，新批准外商投资项目494个；在蓉世界500强企业达到285家，其中境外企业198家；引进了赛诺菲中国中西部运营与创新中心、出光电子材料（中国）制造基地等“六类500强”企业投资重大项目117个，其中世界500强企业投资项目54个，总投资1044亿元人民币，同比增长 \\(103\\%\\) ；全市新批外商投资企业382个，同比增长\\(16.82\\%\\) ，其中“一带一路”沿线国家在蓉新设企业43家。"
+        },
+        {
+          "block_id": "blk-e19112b782bcc55b915f",
+          "page_number": 65,
+          "text": "2017-2018年，印度中国工业园、中乌农业产业园等境外合作园区加快建设，兴蓉集团、兴城集团、城投集团等市属国企参与的巴基斯坦拉合尔垃圾发电项目、尼泊尔马相迪河流域梯级水电站项目、俄罗斯莫斯科交通换乘枢纽项目等"
+        },
+        {
+          "block_id": "blk-330b4c5f204b37d5296b",
+          "page_number": 66,
+          "text": "顺利推进，新筑路桥、科伦药业、新希望集团等民营企业境外投资项目进展顺利。推动企业积极参与“一带一路”建设，组建“走出去”企业联盟、“走出去”服务联盟，评选“一带一路”跨国领军企业10户，跨国成长企业20户。"
+        },
+        {
+          "block_id": "blk-adf907dd17606c296702",
+          "page_number": 66,
+          "text": "2017年，成都新增备案境外投资企业95家，备案投资总额23.2亿美元，成都在“一带一路”沿线国家在建和筹建项目累计达到166个，涉及金额超过100亿美元。2018年，境外投资备案总额达到88.9亿美元，其中中方备案金额62.5亿美元，同比增加 \\(241.5\\%\\) ；跨境并购、绿地投资、联合投资等对外投资方式发展良好，跨境并购金额达42.3亿美元，同比增长 \\(246.8\\%\\) ；截至2018年底，成都企业在91个国家和地区备案境外企业和机构740家，备案投资总额达275亿美元。"
+        },
+        {
+          "block_id": "blk-ce9f3c6ee976d6e6fdca",
+          "page_number": 66,
+          "text": "原始 PDF 第 66 页图片"
+        },
+        {
+          "block_id": "blk-023a23c4d23757d4817b",
+          "page_number": 66,
+          "text": "原始 PDF 第 66 页图片"
+        },
+        {
+          "block_id": "blk-0cf55301c9d9bf06e00a",
+          "page_number": 66,
+          "text": "图2-5 2013-2018年成都实际利用外资额及增长率"
+        },
+        {
+          "block_id": "blk-9b7c261ee7433bd1a96b",
+          "page_number": 66,
+          "text": "图2-6 2018年成都备案境外投资企业和机构地域分布情况"
+        },
+        {
+          "block_id": "blk-1d71a9eba482f7fe98d5",
+          "page_number": 67,
+          "text": "货物贸易结构不断优化。2017年，成都实现货物进出口总额583.0亿美元，比上年增长 \\(42.3\\%\\) ，增速居副省级城市第一，其中出口总额305.6亿美元，进口总额277.4亿美元；机电、高新技术产品出口高速增长，机电产品出口额269.6亿美元，同比增长 \\(53.9\\%\\) ，占出口总额比重达 \\(88.2\\%\\) ；高新技术产品出口额238.9亿美元，同比增长 \\(64.3\\%\\) ，占出口总额比重达 \\(78.2\\%\\) 。2018年，成都实现货物进出口总额753亿美元，比上年增长 \\(26.4\\%\\) ，其中出口总额415.1亿美元，进口总额337.9亿美元；高新技术产品出口额337.3亿元，占出口总额比重达 \\(81.3\\%\\) 。"
+        },
+        {
+          "block_id": "blk-54178ba1b57713a7931d",
+          "page_number": 67,
+          "text": "服务贸易成为外贸发展新引擎。制定完善《成都市服务贸易创新发展试点实施方案》，从服务贸易管理体制、发展模式、便利化等8个方面推动制度创新。2017年，全市实现服务进出口总额968亿元，同比增长 \\(19.2\\%\\) ，其中进口总额526亿元，出口总额442亿元，服务外包离岸合同执行金额98亿元，成功获批在双流综合保税区内开展境内外飞机发动机维修业务；2018年，服务贸易进出口总额实现1000亿元，获批深化服务贸易创新发展试点和市场采购贸易方式试点。"
+        },
+        {
+          "block_id": "blk-81dcf3ee60c2b5bc5fdc",
+          "page_number": 67,
+          "text": "跨境电商蓬勃发展。国家跨境电子商务综合试验区建设深入推进，截至2017年底，全市6个跨境电商产业园区共聚集跨境电商企业300余家，跨境电商线上平台接入企业超150家，建成O2O体验店及进口商品展示中心6万平米；2018年，全市跨境电子商务交易额达110.5亿元，全球跨境电商服务资源中心、跨境电商公共服务平台建成运行，跨境电商网购保税进口业务正式落地。"
+        },
+        {
+          "block_id": "blk-2fcc79088f1556c9e3d6",
+          "page_number": 67,
+          "text": "原始 PDF 第 67 页图片"
+        },
+        {
+          "block_id": "blk-217a6fd945599c42c798",
+          "page_number": 67,
+          "text": "图2-7 2016-2018年成都货物贸易、服务贸易发展情况"
+        },
+        {
+          "block_id": "blk-7324b67df9d6b5835a76",
+          "page_number": 68,
+          "text": "2017年，成都围绕“一带一路”建设，积极开展对外经贸交流活动，成功举办“一带一路”中欧（成都）创新合作峰会、2017南亚（泛亚）产能合作（成都）对话会、“中德创新产业合作经贸推介会”，组织成都企业参加孟加拉投资（成都）推荐会、2017中阿经贸文化交流峰会、中外企业对口洽谈会、2017成都国际友城市长创新论坛、优秀创新创业项目推介会等“一带一路”经贸交流活动；策划组织汉诺威工业博览会、法兰克福国际汽车及零配件展览会等外展活动，开展“农产品·成都造·海外行”系列活动，成功举办首届川俄农产品对接会；组织企业出访欧洲、拉丁美洲国家，在通用航空、文创、科技等领域取得系列合作成果。2018年，成功举办2018成都国际投资峰会、世界500强企业高峰论坛等投资促进活动，积极参加首届中国国际进口博览会；组织参与中外知名企业四川行、第十七届西博会、上海进出口博览会、川港澳合作周等重要经贸交流活动。"
+        },
+        {
+          "block_id": "blk-f43ef93a81c8b8f8e58f",
+          "page_number": 68,
+          "text": "一是针对重点领域实施精准招商。围绕全市重点产业，组织举办各类经贸推介活动，开展对外宣传和项目推介。积极举办创办电子信息、汽车制造、生物医药、航空航天、轨道交通等展会项目，搭建合作平台，助推产业转型升级。赴北京、广州、深圳等国内城市和以色列、俄罗斯、捷克、波兰、西班牙、德国、奥地利等“一带一路”沿线国家地区开展投资促进活动，促进在谈重大项目进展，吸引更多国家、地区的企业和个人到蓉来投资和发展。"
+        },
+        {
+          "block_id": "blk-09957aa625b368a38a88",
+          "page_number": 68,
+          "text": "二是依托合作园区载体开展国别投资促进。依托已建立的新川创新科技园、中法生态园、中德（蒲江）中小企业合作区、中韩创新创业园、中意文化创新园5个国别合作园区，坚持以项目为抓手，狠抓园区招商引资工作和合作协议推进落地工作。各国别合作园区积极利用境外展会开展投资促进活动，在汉诺威工业展期间开展专题招商推介会、在“创业天府·菁蓉汇”德国专场活动现场推介中德（蒲江）中小企业合作区、在法国巴黎开展园区招商推介和项目投资促进相关"
+        },
+        {
+          "block_id": "blk-c5b0587b342d75fc6769",
+          "page_number": 69,
+          "text": "系列活动等。"
+        },
+        {
+          "block_id": "blk-a60cc0afbe7d5a287590",
+          "page_number": 69,
+          "text": "三是完善涉外投资服务体系。建立《成都市“一带一路”重大项目建设协同推进工作机制》，建立和完善目标责任机制、项目策划储备机制、信息动态管理机制、项目协调调度机制、要素保障机制、督导通报机制。动态跟踪和更新“一带一路”重点项目库，加大项目审批落地促建协调服务力度，尤其是对于特别重大项目，明确专人“一对一”落实好全程代理服务制。进一步优化外来投资企业服务体系，定期开展座谈会、走访重点企业、举办外企沙龙等。"
+        },
+        {
+          "block_id": "blk-003836d5cc9aeacecebc",
+          "page_number": 69,
+          "text": "一是创新产业促进政策。2017年，成都制定出台《关于创新要素供给培育产业生态提升国家中心城市产业能级若干政策措施的意见》（“产业新政50条”），从创新人才、技术、土地、资金等要素供给以及降低企业成本、培育优化产业生态、增强产业发展载体支撑、拓展企业“走出去”新空间、优化国际化营商环境等方面的若干政策措施，促进成都产业能级提升。同时，还出台了《成都市促进加工贸易创新发展的实施方案》、《关于进一步促进外贸综合服务企业发展的实施意见》等促进开放型经济发展的相关政策。"
+        },
+        {
+          "block_id": "blk-9e1c53f048a7603d27db",
+          "page_number": 69,
+          "text": "二是创新投资促进机制。建立“一带一路”经济联络基地的招商引资工作机制，以组织参观、走访经济机构等形式招引欧洲及“一带一路”沿线国家和地区驻外经济商务机构和商协会、具有国际联络的经贸服务机构入驻“一带一路”经济联络基地。加强与涉外经济机构合作，通过其海外工作站点，对外宣传成都投资发展环境，吸引“一带一路”沿线国家高层次人才和企业到蓉考察洽谈。"
+        },
+        {
+          "block_id": "blk-7d69e9694df509dc9294",
+          "page_number": 69,
+          "text": "三是创新对外合作机制。借助国家平台或自身力量搭建海外宣传平台，以宣传会、推介会、中国馆日等在境外开展宣传工作，推动成都与境外在高端制造、生物医药、健康疗养、金融等领域合作。积极为企业搭建国际合作平台，通过举办交流峰会、洽谈会等形式，邀请“一带一路”国家的政府机构代表、驻华使领馆负责人、商协会代表、企业和成都企业参加。进一步加强与境外商协会、驻华驻蓉机构的合作，举办更多推介会、洽谈会、展览会等经贸交流洽谈活动。"
+        },
+        {
+          "block_id": "blk-90c787bc68fd30eb1e68",
+          "page_number": 69,
+          "text": "一是引育金融组织，优化建设金融载体。鼓励境内外知名银行、保险、证"
+        },
+        {
+          "block_id": "blk-dd9a33c93384495db970",
+          "page_number": 70,
+          "text": "券、期货、信托等持牌金融机构来蓉设立总部。引导各类金融机构在蓉设立清分结算、资产管理、信用卡、国际业务单证等区域总部或功能中心。加快推进公募基金、汽车金融等机构设立，填补相关领域法人金融机构空白。推动境内外主要证券交易市场在蓉设立西部服务中心，搭建企业上市培育、融资对接等一体化资本服务平台。"
+        },
+        {
+          "block_id": "blk-705fe2ce060f4f573eb3",
+          "page_number": 70,
+          "text": "二是鼓励人才来蓉创新创业。依托“海外成都”“一带一路”友城链，在海外主要城市建立人才工作站，开展“一带一路”青年人才感知成都行，举办海外人才创新创业大赛，推介成都，引进人才。支持在蓉高校与海外一流高校和科研院所开展学位联合培养项目、师资培训项目，培养具有国际视野、熟悉国际规则的创新人才。依托中国成都人力资源服务产业园，引进国际知名人力资源机构海外培训师资和课程，建立本土人才国际化系列培训项目。完善外国人才签证服务体系，开通“绿色通道”。"
+        },
+        {
+          "block_id": "blk-f3f19f4c50833960a658",
+          "page_number": 70,
+          "text": "三是加快科技创新能力提升。构建高效协同的区域创新体系，持续深化科技创新体制改革，积极建设世界一流大学（学科）和科研机构，加快发展科技创新基地、新型研发机构、科技服务机构和成果转化平台。积极引进全球创新资源，深化中国一欧洲中心、中德（蒲江）中小企业合作区、中以科技创新园等重点国际产业承载体建设，建设一批国际科技合作基地。围绕提升产业竞争力和改善民生等战略需求，加快发展高新技术产业，提升企业自主创新能力。"
+        },
+        {
+          "block_id": "blk-91348ad95651a1b27f2d",
+          "page_number": 70,
+          "text": "一是健全完善政府清单管理制度。健全权力清单动态调整机制，对成都各部门和单位的507项行政权力事项进行了审核调整，积极对接四川省一体化政务服务平台。进一步完善责任清单制度，将每项行政权力对应的责任细化到条、落实到款，持续推进权力清单和责任清单深度融合。"
+        },
+        {
+          "block_id": "blk-46a9ce2dbd3e3ec1d47b",
+          "page_number": 70,
+          "text": "二是实行统一市场准入负面清单。在全市范围内全面实行外商投资准入负面清单管理模式，凡是不涉及国务院批准的准入特别管理措施的，外资企业设立及变更一律由审批改为备案管理。2017年开展了328项“负面清单”管理模式改革，市场准入负面清单以外的行业、领域、业务等，各类市场主体皆可依法平等进入。2018年发布《成都市外商投资重点支持产业目录（2018年版）》。"
+        },
+        {
+          "block_id": "blk-81b3bff75765fa36d0a8",
+          "page_number": 71,
+          "text": "三是完善涉外政务服务环境。简政放权进一步深入，2017年取消行政许可18项，“全链条”下放关联、相近类别事项，行政许可标准化建设加快推进。进一步优化投资审批方式，开展企业投资项目全流程“承诺制”试点，项目审批时限大幅缩短。切实推进商事制度改革，印发《关于进一步推进实施多证合一登记制度改革的通知》，全面实施“先照后证”“多证合一”。建立健全国际仲裁和商事调解机制。"
+        }
+      ]
+    }
+  ],
+  "group_id": "topic-952c33ca2a05",
+  "recompile_attempts": 2,
+  "ref_ids": [
+    "ref-25626dc59ef5"
+  ],
+  "review_reason": "recompile_budget_exhausted",
+  "schema": "okfolio.claim-review-group.v1",
+  "status": "complete"
+}
