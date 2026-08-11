@@ -18,14 +18,14 @@ single RTX 3090 machine.
 
 ## Origin
 
-Copied on 2026-08-11 from the workstation snapshot
-`OKFolio-Concept-Compiler-Experiment-20260810/.local-runtime/` (symlinks
-dereferenced, `cp -RL`). The `.local-runtime/` tree itself is git-ignored and
-never enters the repository; it symlinks to the master data directory
-`~/kmpro-wiki-v15-data/` (moved there from the original Codex workspace on
-2026-08-11). Source-run and structures were copied from `normalized-sources`
-and `agent-runs` in that master directory; the original files are read-only
-assets and were not modified.
+Copied on 2026-08-11 from the workstation master data tree
+`OKFolio-Concept-Compiler-Experiment-20260810/data/` (`cp -R`, no symlinks
+involved). The `data/` tree itself is git-ignored and never enters the
+repository; it was consolidated under the repo root on 2026-08-11 (moved from
+the original `~/kmpro-wiki-v15-data/` location, replacing the former
+`.local-runtime/` symlink mechanism). Source-run and structures were copied
+from `data/normalized-sources` and `data/agent-runs`; the original files are
+read-only assets and were not modified.
 
 ## Sensitivity decision record
 

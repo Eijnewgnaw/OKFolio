@@ -34,10 +34,10 @@ Coverage, not another increase of the output limit.
 ## Data boundary
 
 The source tree contains no API key, SSH credential, model weights, raw PDF,
-MinerU cache, private server endpoint, or copied MinIO URL. Local runtime links
-under `.local-runtime/` are ignored and exist only to make this snapshot
-immediately usable on the current workstation. They are not included in the
-portable archive or checksum manifest.
+MinerU cache, private server endpoint, or copied MinIO URL. The git-ignored
+master data tree `data/` (consolidated under the repo root 2026-08-11,
+replacing the former `.local-runtime/` symlink mechanism) is not included in
+the portable archive or checksum manifest.
 
 Source Git commit at snapshot time:
 

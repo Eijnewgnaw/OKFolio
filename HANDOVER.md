@@ -4,20 +4,20 @@
 
 ## 1. 本机权威数据位置（master）
 
-本机（当前工作站）的权威数据在 `.local-runtime/`，**它不进 git**（.gitignore 已忽略）：
+本机（当前工作站）的权威数据在仓库根的 `data/`，**它不进 git**（.gitignore 已忽略；
+2026-08-11 由 `~/kmpro-wiki-v15-data/` 整体迁入，符号链接机制 `.local-runtime/` 已删除）：
 
-- `.local-runtime/agent-runs/` — 全部 agent 运行目录；符号链接指向 master 数据目录
-  `~/kmpro-wiki-v15-data/agent-runs/`（2026-08-11 由原 Codex 工作区迁出；
-  v4/v5/v6/v13/v14 实体目录亦已迁入 master 的 agent-runs）。
-- `.local-runtime/normalized-sources/` — 指向同一 master 数据目录的 `normalized-sources/`（符号链接），内含 10 个
-  `*.structure.json`。
+- `data/agent-runs/` — 全部 agent 运行目录（master 实体目录；v4/v5/v6/v13/v14 实体目录亦在其中）。
+- `data/normalized-sources/` — 10 个 `*.structure.json`。
+- `data/pdfs/` — 10 本原始 PDF（原 `~/区域经济皮书`，含 1 份 xlsx 附注）。
+- `data/corpus-run.json`、`data/normalization-report.json`、`data/sources/`、`data/processed/`、`data/parser-jobs/`。
 
 **GitHub 是副本**：克隆后如需继续实验，一律以 GitHub 上 `experiment-data/` 为数据源，或以本机
-`.local-runtime/` 重建（两者字节一致，见下节）。
+`data/` 重建（两者字节一致，见下节）。
 
 ## 2. GitHub 恢复映射
 
-| GitHub `experiment-data/` | 本机 `.local-runtime/` |
+| GitHub `experiment-data/` | 本机 `data/` |
 | --- | --- |
 | `source-run/` | `agent-runs/public10-local-qwen36-semantic-v2-20260809` |
 | `structures/` | `normalized-sources/*.structure.json`（10 个） |
@@ -57,7 +57,7 @@
 ## 5. 本机收尾建议（推荐，未执行）
 
 - LM Studio 本地服务可停用：管线已不再使用本地 LM Studio 端点（v5/v6 走远程网关，v7 走 3090 本地 vLLM）。
-- 本机 `.local-runtime/` 保留作为 master 归档，勿删。
+- 本机 `data/` 保留作为 master 归档，勿删。
 
 ## 6. 清理清单（2026-08-11 已执行）
 
@@ -74,7 +74,7 @@
   `v14_before_resume.sha256`、`v14_after_resume.sha256`
 - 本机快照缓存：`.pytest_cache/`、全部 `__pycache__/`（可再生）
 
-未触碰：`.local-runtime/`、`~/.ssh/`、仓库代码与数据、用户环境变量配置（含 DT 前缀项）。
+未触碰：`data/`、`~/.ssh/`、仓库代码与数据、用户环境变量配置（含 DT 前缀项）。
 
 ## 7. 提交身份
 

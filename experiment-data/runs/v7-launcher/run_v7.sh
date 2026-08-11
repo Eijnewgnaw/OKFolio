@@ -33,13 +33,21 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd)"
 cd "$ROOT"
 
-EXPERIMENT_DATA="$ROOT/experiment-data"
-SOURCE_RUN="$EXPERIMENT_DATA/source-run"
+# Master data now lives in the git-ignored $ROOT/data/ tree (consolidated
+# under the repo root 2026-08-11; the old .local-runtime symlink mechanism is
+# gone). On a fresh clone restore data/ from the committed experiment-data/
+# snapshot (or from the master workstation) before launching: copy
+# experiment-data/source-run -> data/agent-runs/<source-run-id> and
+# experiment-data/structures -> data/normalized-sources, or copy the whole
+# master tree. experiment-data/ remains the git restore copy; data/ is where
+# v7 writes.
+DATA="$ROOT/data"
+SOURCE_RUN="$DATA/agent-runs/public10-local-qwen36-semantic-v2-20260809"
 V6_RUN="public10-claim-review-formal-qwen3p6-remote-v6-nothinking-20260810"
 V7_OUT="public10-claim-review-formal-qwen3p6-remote-v7-repair-$(date +%Y%m%d)"
 
 # ---- guard: v7 should inherit a COMPLETED v6 ----
-V6_MANIFEST="$EXPERIMENT_DATA/runs/$V6_RUN/manifest.json"
+V6_MANIFEST="$DATA/agent-runs/$V6_RUN/manifest.json"
 V6_STATUS="$(python3 -c "import json,sys; print(json.load(open('$V6_MANIFEST')).get('status',''))" 2>/dev/null || echo '')"
 if [[ "$V6_STATUS" == "running" && "${FORCE:-}" != "1" ]]; then
     echo "error: v6 is still running (status=running). Launching v7 now would freeze" >&2
@@ -62,13 +70,14 @@ fi
 # ---- v7 run (same parameters as v6, with repair overrides) ----
 PYTHONPATH="$ROOT" nohup python3 "$ROOT/scripts/review_concept_claims.py" \
     --source-run "$SOURCE_RUN" \
-    --seed-run "$EXPERIMENT_DATA/runs/$V6_RUN" \
-    --output-dir "$EXPERIMENT_DATA/runs/$V7_OUT" \
+    --seed-run "$DATA/agent-runs/$V6_RUN" \
+    --output-dir "$DATA/agent-runs/$V7_OUT" \
+    --structures-dir "$DATA/normalized-sources" \
     --contract-prompt "$ROOT/prompts/agent_claim_contract_repair.md" \
     --coverage-prompt "$ROOT/prompts/agent_claim_coverage.md" \
     --compile-prompt "$ROOT/prompts/compile.md" \
     --recompile-prompt "$ROOT/prompts/agent_recompile_repair.md" \
-    --draft-override-dir "$EXPERIMENT_DATA/overrides" \
+    --draft-override-dir "$ROOT/experiment-data/overrides" \
     --api-base "$OPENAI_BASE_URL" \
     --model "$OPENAI_MODEL" \
     --api-key-env OPENAI_API_KEY \

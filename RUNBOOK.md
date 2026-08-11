@@ -35,11 +35,13 @@ real key or a deployment endpoint into a tracked file.
 ```bash
 cd "$HOME/OKFolio-Concept-Compiler-Experiment-20260810"
 jq '{status,summary,configuration}' \
-  .local-runtime/agent-runs/public10-claim-review-formal-qwen36-v3-20260810/manifest.json
+  data/agent-runs/public10-claim-review-formal-qwen36-v3-20260810/manifest.json
 ```
 
-The local runtime links point to the original read-only experiment assets on
-this workstation. Removing this source snapshot does not remove those assets.
+The master experiment data lives in the git-ignored `data/` directory at the
+repo root (moved there from the old `~/kmpro-wiki-v15-data` location on
+2026-08-11; the `.local-runtime` symlink mechanism was removed). A committed
+restore copy is kept under `experiment-data/`.
 
 ## 4. Review command shape
 
@@ -47,10 +49,10 @@ The formal review entry point is:
 
 ```bash
 PYTHONPATH=. python scripts/review_concept_claims.py \
-  --source-run .local-runtime/agent-runs/public10-local-qwen36-semantic-v2-20260809 \
-  --seed-run .local-runtime/agent-runs/public10-claim-review-formal-qwen36-v3-20260810 \
-  --output-dir .local-runtime/agent-runs/<new-versioned-run-id> \
-  --structures-dir .local-runtime/normalized-sources \
+  --source-run data/agent-runs/public10-local-qwen36-semantic-v2-20260809 \
+  --seed-run data/agent-runs/public10-claim-review-formal-qwen36-v3-20260810 \
+  --output-dir data/agent-runs/<new-versioned-run-id> \
+  --structures-dir data/normalized-sources \
   --api-base "$OPENAI_BASE_URL" \
   --model "$OPENAI_MODEL" \
   --timeout 600 \
@@ -72,8 +74,8 @@ will otherwise reach the output ceiling again.
 
 ```bash
 PYTHONPATH=. python scripts/materialize_c1_run.py \
-  --source-run .local-runtime/agent-runs/public10-local-qwen36-semantic-v2-20260809 \
-  --review-run .local-runtime/agent-runs/<complete-formal-run-id> \
+  --source-run data/agent-runs/public10-local-qwen36-semantic-v2-20260809 \
+  --review-run data/agent-runs/<complete-formal-run-id> \
   --output runtime/releases/<formal-c1-version>
 ```
 

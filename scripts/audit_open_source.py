@@ -14,14 +14,15 @@ _SKIP_PARTS = {
     ".venv",
     ".venv-rag",
     ".venv313",
-    ".local-runtime",
+    "data",
     ".snapshot-venv",
     "__pycache__",
-    # Archived run-data snapshot (experiment-data/). The snapshot is kept
-    # byte-for-byte as produced, per the documented sensitivity decision in
-    # experiment-data/README.md: it records the internal MinIO asset endpoint
-    # and the model names used by the runs. It is data, not deployment
-    # configuration, and the audit guards the code/docs tree only.
+    # Archived run-data snapshot (experiment-data/) and the git-ignored local
+    # master tree (data/, consolidated under the repo root 2026-08-11). Both
+    # are kept byte-for-byte as produced, per the documented sensitivity
+    # decision in experiment-data/README.md: they record the internal MinIO
+    # asset endpoint and the model names used by the runs. They are data, not
+    # deployment configuration, and the audit guards the code/docs tree only.
     "experiment-data",
 }
 _SENSITIVE_NAMES = {".env", ".env.local"}
