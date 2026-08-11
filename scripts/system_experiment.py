@@ -89,10 +89,8 @@ def main() -> int:
 
 
 def _client(settings: Settings) -> OpenAICompatibleClient:
-    if not settings.openai_api_key or not settings.openai_model:
-        raise ValueError(
-            "OPENAI_MODEL and OPENAI_API_KEY are required unless --dry-run is used"
-        )
+    if not settings.openai_model:
+        raise ValueError("OPENAI_MODEL is required unless --dry-run is used")
     return OpenAICompatibleClient(
         settings.openai_base_url, settings.openai_api_key, settings.openai_model,
         timeout=settings.openai_timeout_seconds, max_attempts=settings.openai_max_attempts,

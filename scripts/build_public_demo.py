@@ -276,8 +276,8 @@ def build_public_demo(
         "model": "OpenAI-compatible LLM",
         "data_policy": "public demo data; private infrastructure removed",
         "evidence_scope": (
-            "feature demo generated from two public PDFs; "
-            "not a full-corpus benchmark"
+            "feature demo generated from an audited public release; "
+            "not a benchmark dataset"
         ),
         "removed_private_asset_urls": url_replacements,
         "removed_private_metadata_values": metadata_replacements,

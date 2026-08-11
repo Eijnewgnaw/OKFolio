@@ -11,9 +11,9 @@ from kmpro_wiki.agentwiki.llm import OpenAICompatibleClient
 
 def main() -> int:
     settings = Settings.from_env()
-    if not settings.openai_api_key or not settings.openai_model:
+    if not settings.openai_model:
         print(
-            "OPENAI_MODEL and OPENAI_API_KEY are required for model-backed compilation",
+            "OPENAI_MODEL is required for model-backed compilation",
             file=sys.stderr,
         )
         return 2

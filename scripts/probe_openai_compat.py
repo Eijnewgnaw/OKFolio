@@ -20,10 +20,11 @@ def main() -> int:
     parser.add_argument("--base-url", default=os.environ.get("OPENAI_BASE_URL", ""))
     parser.add_argument("--model", default=os.environ.get("OPENAI_MODEL", ""))
     parser.add_argument("--timeout", type=float, default=30.0)
+    parser.add_argument("--max-tokens", type=int, default=128)
     args = parser.parse_args()
     api_key = os.environ.get("OPENAI_API_KEY", "")
-    if not args.base_url or not api_key or not args.model:
-        print("probe=skipped missing OPENAI_BASE_URL, OPENAI_API_KEY, or OPENAI_MODEL")
+    if not args.base_url or not args.model:
+        print("probe=skipped missing OPENAI_BASE_URL or OPENAI_MODEL")
         return 2
     events: list[str] = []
     client = OpenAICompatibleClient(
@@ -34,13 +35,17 @@ def main() -> int:
         max_attempts=1,
         retry_delay=0,
         on_event=events.append,
+        max_tokens=args.max_tokens,
     )
     try:
         result = client.complete("Reply with the single word OK.")
     except LLMError as error:
         print(f"probe=failed error={error}")
         return 1
-    print(f"probe=ok base_url={args.base_url.rstrip('/')} model={args.model} response_chars={len(result)}")
+    print(
+        f"probe=ok endpoint=configured model={args.model} "
+        f"response_chars={len(result)}"
+    )
     if events:
         print(events[-1])
     return 0

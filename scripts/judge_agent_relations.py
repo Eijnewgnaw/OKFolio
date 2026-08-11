@@ -357,7 +357,7 @@ def main() -> int:
     args = parser.parse_args()
     settings = Settings.from_env()
     if not settings.openai_model:
-        raise ValueError("OPENAI_MODEL and OPENAI_API_KEY are required")
+        raise ValueError("OPENAI_MODEL is required")
     client = OpenAICompatibleClient(
         settings.openai_base_url,
         settings.openai_api_key,

@@ -19,6 +19,23 @@ def test_open_source_audit_accepts_placeholders(tmp_path: Path):
     assert result["status"] == "pass"
 
 
+def test_open_source_audit_ignores_rag_virtual_environment(tmp_path: Path):
+    environment = tmp_path / ".venv-rag" / "lib"
+    environment.mkdir(parents=True)
+    private_host = ".".join(("192", "168", "7", "9"))
+    environment.joinpath("third-party-config.txt").write_text(
+        f'endpoint=http://{private_host}:9000\n'
+        + "api_"
+        + 'key="not-a-project-secret"\n',
+        encoding="utf-8",
+    )
+
+    result = audit_open_source(tmp_path)
+
+    assert result["status"] == "pass"
+    assert result["files_scanned"] == 0
+
+
 def test_open_source_audit_rejects_private_endpoint(tmp_path: Path):
     private_host = ".".join(("192", "168", "7", "9"))
     tmp_path.joinpath("config.txt").write_text(
