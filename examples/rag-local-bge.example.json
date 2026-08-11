@@ -1,0 +1,66 @@
+{
+  "schema": "okfolio.rag-experiment-config.v1",
+  "experiment_id": "public-corpus-t0-t1-c1-local-bge",
+  "structures_dir": "../runtime/public-corpus/structures",
+  "c1_run_dir": "../runtime/public-corpus/agent-runs/complete-run",
+  "gold_path": "../runtime/public-corpus/evaluation/gold.reviewed.jsonl",
+  "corpus": {
+    "t0_max_chars": 1200,
+    "t1_child_max_chars": 600,
+    "t1_parent_max_chars": 4800
+  },
+  "retrieval": {
+    "bm25": {
+      "provider": "jieba-bm25",
+      "model": "frozen-dictionary-hmm-off",
+      "revision": "replace-with-dictionary-sha256"
+    },
+    "dense": {
+      "provider": "FlagEmbedding",
+      "model": "bge-m3-local",
+      "revision": "replace-with-local-model-revision"
+    },
+    "reranker": {
+      "provider": "FlagEmbedding",
+      "model": "bge-reranker-v2-m3-local",
+      "revision": "replace-with-local-model-revision"
+    },
+    "bm25_top_k": 50,
+    "dense_top_k": 50,
+    "fusion_top_k": 50,
+    "rerank_top_k": 20,
+    "context_token_budget": 8192,
+    "rrf_k": 60
+  },
+  "hyde_mode": "off",
+  "bootstrap": {
+    "samples": 10000,
+    "confidence": 0.95,
+    "seed": 0
+  },
+  "adapter": {
+    "factory": "kmpro_wiki.evaluation.local_bge_backend:create_backend",
+    "options": {
+      "dense_model_path": "${RAG_BGE_M3_MODEL_PATH}",
+      "dense_revision": "replace-with-local-model-revision",
+      "reranker_model_path": "${RAG_BGE_RERANKER_MODEL_PATH}",
+      "reranker_revision": "replace-with-local-model-revision",
+      "jieba_dictionary_path": "${RAG_JIEBA_DICTIONARY_PATH}",
+      "device": "mps",
+      "dense_batch_size": 4,
+      "dense_cache_block_size": 64,
+      "reranker_batch_size": 2,
+      "dense_passage_max_length": 8192,
+      "reranker_max_length": 1024,
+      "token_count_mode": "hf_local",
+      "tokenizer_model_path": "${RAG_TOKENIZER_MODEL_PATH}",
+      "generation": {
+        "base_url": "${RAG_LLM_BASE_URL}",
+        "model": "${RAG_LLM_MODEL}",
+        "max_output_tokens": 1024,
+        "temperature": 0,
+        "response_format": "json_schema"
+      }
+    }
+  }
+}
