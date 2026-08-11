@@ -1,8 +1,11 @@
 .worktrees/
 .venv/
 .venv313/
+.venv-rag/
 .env
 .env.local
+.local-runtime/
+.snapshot-venv/
 __pycache__/
 .pytest_cache/
 .DS_Store

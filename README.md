@@ -8,8 +8,9 @@ clear knowledge graphs for RAG and agent memory.
 > **Compile knowledge once. Reuse it with evidence.**
 
 This repository contains the reusable processing capability, prompts, tests,
-and a small public showcase. It does not contain private documents, model
-weights, credentials, or deployment-specific infrastructure.
+and tooling for building an audited public showcase. It does not contain
+private documents, model weights, credentials, or deployment-specific
+infrastructure.
 
 ## What it produces
 
@@ -43,12 +44,12 @@ Document IR → Articles → ConceptRefs
 
 ## Showcase
 
-Open the included [knowledge explorer](demo/site/explore.html), [static
-showcase](demo/site/index.html), or [interactive 3D graph](demo/site/graph.html).
-The explorer follows a LightRAG-inspired interaction pattern: query first,
-then inspect local context, global themes, and the Concept → ConceptRef →
-Article evidence trail. The showcase demonstrates the presentation and
-provenance experience; it is not a benchmark dataset.
+Use `scripts/build_public_demo.py` to generate a knowledge explorer, static
+wiki, and interactive 3D graph from an audited public release. The explorer
+follows a LightRAG-inspired interaction pattern: query first, then inspect
+local context, global themes, and the Concept → ConceptRef → Article
+evidence trail. Generated showcase data is intentionally not committed while
+the full public-corpus experiment is being rebuilt.
 
 ## Repository layout
 
@@ -62,7 +63,6 @@ okfolio/
 ├── scripts/                   # CLI entry points and audits
 ├── tests/                     # Unit, integration, and release checks
 ├── docs/                      # Architecture and operational notes
-├── demo/                      # Sanitised static showcase and explorer
 ├── Dockerfile
 └── docker-compose.yml
 ```
@@ -83,7 +83,7 @@ Configure an OpenAI or OpenAI-compatible service in `.env`:
 
 ```text
 OPENAI_BASE_URL=
-OPENAI_API_KEY=<provider-api-key>
+OPENAI_API_KEY=<provider-api-key-or-empty-for-an-authless-local-runtime>
 OPENAI_MODEL=<provider-model>
 # Optional for vLLM-style compatible endpoints:
 OPENAI_SEND_CHAT_TEMPLATE_KWARGS=false
@@ -91,8 +91,9 @@ OPENAI_SEND_CHAT_TEMPLATE_KWARGS=false
 
 `OPENAI_BASE_URL` is optional. When it is empty, the standard OpenAI API
 endpoint is used. Any provider that implements the OpenAI Chat Completions
-format can be selected by setting its compatible base URL. Keep `.env` out of
-version control.
+format can be selected by setting its compatible base URL. Authentication is
+optional for local runtimes and required whenever the selected provider
+requires it. Keep `.env` out of version control.
 
 For a local development run, use the standard Python entry point or the
 provided Compose service. The transport, host, and port are deployment
@@ -169,9 +170,20 @@ The ignored output under `artifacts/local-experiment/` includes the Bundle,
 Concept Markdown files, graph data/HTML, and `r1/reconciliation.json`.
 
 To check a provider without sending any source document or starting a compile,
-export `OPENAI_BASE_URL`, `OPENAI_API_KEY`, and `OPENAI_MODEL`, then run
+export `OPENAI_BASE_URL`, `OPENAI_MODEL`, and `OPENAI_API_KEY` when required,
+then run
 `PYTHONPATH=. python3 scripts/probe_openai_compat.py`. It makes one minimal
 Chat Completions request and never prints the key.
+
+For client-observed streaming latency, run
+`PYTHONPATH=. python3 scripts/benchmark_openai_compat.py`. The benchmark keeps
+the endpoint and prompt out of its result, separates the first generation event
+from the first user-visible content, and reports token throughput only when the
+provider returns token usage.
+
+For retrieval experiments, the independent [RAG generation adapter](docs/operations/rag-generation.md)
+provides environment-configured OpenAI-compatible HyDE and citation-aware answer
+generation, including client-observed TTFT, total latency, and token usage.
 
 The checks cover schema contracts, provenance, asset and source isolation,
 MCP safety gates, deterministic publication, and public-release leakage.
