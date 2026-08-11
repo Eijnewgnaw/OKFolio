@@ -75,3 +75,15 @@
 - 本机快照缓存：`.pytest_cache/`、全部 `__pycache__/`（可再生）
 
 未触碰：`.local-runtime/`、`~/.ssh/`、仓库代码与数据、用户环境变量配置（含 DT 前缀项）。
+
+## 7. 提交身份
+
+- 本仓库提交署名统一为 **Eijnewgnaw**，使用 GitHub 隐私邮箱（noreply）形式，避免暴露真实邮箱：
+  ```bash
+  git config user.name "Eijnewgnaw"
+  git config user.email "65074814+Eijnewgnaw@users.noreply.github.com"
+  ```
+- 为什么用 noreply 形式：GitHub 账号 Eijnewgnaw（id 65074814）未设置公开邮箱；`<id>+<login>@users.noreply.github.com`
+  是 GitHub 官方隐私邮箱格式，id 前缀保证提交头像与账户链接正确关联，且不泄露个人邮箱。
+- 注意：全局 git 身份可能仍是旧值（如 wwj），仓库级 config 优先于全局；**3090 新机器 clone 后需执行上述两条命令**
+  （在仓库内执行即为本仓库身份，或改用 `git config --global` 全机生效）。
