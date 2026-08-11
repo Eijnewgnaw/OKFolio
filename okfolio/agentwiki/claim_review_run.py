@@ -509,13 +509,25 @@ def run_claim_review(
             existing_client = _normalize_client_configuration(
                 existing_configuration.get("client")
             )
+            existing_seed = existing_configuration.get("seed")
+            if isinstance(existing_seed, dict):
+                # Older runs persisted only coverage_prompt_relaxed; newer
+                # code records every prompt stage's relaxation flag.  A
+                # missing flag means that stage was not relaxed.
+                existing_seed = {
+                    "contract_prompt_relaxed": False,
+                    "compile_prompt_relaxed": False,
+                    "recompile_prompt_relaxed": False,
+                    **existing_seed,
+                }
             existing_configuration = {
                 **existing_configuration,
                 "known_source_anomalies": list(
                     existing_configuration.get("known_source_anomalies") or ()
                 ),
                 "client": existing_client,
-                "seed": existing_configuration.get("seed"),
+                "seed": existing_seed,
+                "draft_overrides": existing_configuration.get("draft_overrides") or {},
             }
         if existing_configuration != configuration:
             raise ClaimReviewRunError(

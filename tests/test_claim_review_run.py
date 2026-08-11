@@ -1001,6 +1001,56 @@ def test_seed_run_rejects_different_frozen_snapshot_before_model_call(
         )
 
 
+def test_resume_accepts_legacy_configuration_shape(tmp_path: Path):
+    # Runs persisted by older code recorded draft_overrides as null and seed
+    # records without the per-prompt relaxed flags.  Resume must normalize
+    # those legacy shapes instead of refusing to continue the run.
+    source_run, structures = _source_fixture(tmp_path, with_draft=True)
+    _add_second_group(source_run, structures)
+    seed_run = tmp_path / "probe-seed"
+    run_claim_review(
+        PassingClient(),
+        source_run=source_run,
+        output_dir=seed_run,
+        structures_dir=structures,
+        templates=TEMPLATES,
+        allow_partial=True,
+        selected_group_ids=("group-1",),
+    )
+    output = tmp_path / "formal"
+    run_claim_review(
+        PassingClient(),
+        source_run=source_run,
+        output_dir=output,
+        structures_dir=structures,
+        templates=TEMPLATES,
+        seed_run=seed_run,
+    )
+
+    manifest_path = output / "manifest.json"
+    manifest = json.loads(manifest_path.read_text())
+    seed = manifest["configuration"]["seed"]
+    for key in (
+        "contract_prompt_relaxed",
+        "compile_prompt_relaxed",
+        "recompile_prompt_relaxed",
+    ):
+        seed.pop(key)
+    manifest["configuration"]["draft_overrides"] = None
+    _write(manifest_path, manifest)
+
+    resumed = run_claim_review(
+        NoCallClient(),
+        source_run=source_run,
+        output_dir=output,
+        structures_dir=structures,
+        templates=TEMPLATES,
+        resume=True,
+        seed_run=seed_run,
+    )
+    assert resumed["status"] == "complete"
+
+
 def test_full_run_can_sparsely_seed_one_completed_probe_group(tmp_path: Path):
     source_run, structures = _source_fixture(tmp_path, with_draft=True)
     _add_second_group(source_run, structures)
