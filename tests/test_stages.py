@@ -3,10 +3,12 @@ import json
 import pytest
 
 from kmpro_wiki.agentwiki.assets import SourceAsset
-from kmpro_wiki.agentwiki.contracts import ConceptRef, DraftConcept
+from kmpro_wiki.agentwiki.contracts import ConceptRef, ContractError, DraftConcept
+from kmpro_wiki.agentwiki.llm import LLMOutputTruncated
 from kmpro_wiki.agentwiki.okf import ConceptDocument
 from kmpro_wiki.agentwiki.stages import (
     PromptRenderError,
+    _complete_structured,
     audit_relations,
     build_evidence_catalog,
     compile_concepts,
@@ -397,3 +399,93 @@ def test_relation_prunes_overlapping_stable_anchor_selections():
     assert audits["a"].links[0].anchor == "企业融资成"
     assert audits["a"].links[0].target_id == "c"
     assert "relation.pruned concept=a dropped=1" in events
+
+
+class TruncatingLLM:
+    def __init__(self, failures: int, response: str):
+        self.failures = failures
+        self.response = response
+        self.prompts: list[str] = []
+
+    def complete(
+        self,
+        prompt: str,
+        *,
+        json_schema_name: str | None = None,
+        json_schema: dict | None = None,
+    ) -> str:
+        self.prompts.append(prompt)
+        if len(self.prompts) <= self.failures:
+            raise LLMOutputTruncated("length", completion_tokens=8191)
+        return self.response
+
+
+def test_complete_structured_retries_truncation_with_verbatim_prompt():
+    llm = TruncatingLLM(failures=1, response='{"ok": true}')
+
+    parsed = _complete_structured(
+        llm,
+        "原始提示",
+        schema_name="probe_schema",
+        schema={"type": "object"},
+        parser=lambda response: json.loads(response),
+        max_attempts=3,
+    )
+
+    assert parsed == {"ok": True}
+    assert llm.prompts == ["原始提示", "原始提示"]
+    # The truncated draw has no usable payload: the retry prompt is byte-identical
+    # to the original and never appends the partial output as guidance.
+    assert llm.prompts[0] == llm.prompts[1]
+    assert "上次输出" not in llm.prompts[1]
+
+
+def test_complete_structured_raises_when_truncation_never_clears():
+    llm = TruncatingLLM(failures=3, response='{"ok": true}')
+
+    with pytest.raises(LLMOutputTruncated, match="finish_reason=length"):
+        _complete_structured(
+            llm,
+            "原始提示",
+            schema_name="probe_schema",
+            schema={"type": "object"},
+            parser=lambda response: json.loads(response),
+            max_attempts=3,
+        )
+
+    assert llm.prompts == ["原始提示", "原始提示", "原始提示"]
+
+
+def test_complete_structured_contract_error_still_appends_guidance():
+    class FaultyLLM:
+        def __init__(self) -> None:
+            self.prompts: list[str] = []
+
+        def complete(
+            self,
+            prompt: str,
+            *,
+            json_schema_name: str | None = None,
+            json_schema: dict | None = None,
+        ) -> str:
+            self.prompts.append(prompt)
+            return '{"bad": true}'
+
+    def parser(response: str) -> object:
+        raise ContractError("验证失败详情")
+
+    llm = FaultyLLM()
+    with pytest.raises(ContractError, match="验证失败详情"):
+        _complete_structured(
+            llm,
+            "原始提示",
+            schema_name="probe_schema",
+            schema={"type": "object"},
+            parser=parser,
+            max_attempts=2,
+        )
+
+    assert len(llm.prompts) == 2
+    assert llm.prompts[1].startswith("原始提示")
+    assert "验证失败详情" in llm.prompts[1]
+    assert '{"bad": true}' in llm.prompts[1]

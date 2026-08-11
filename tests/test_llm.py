@@ -6,6 +6,7 @@ import pytest
 from kmpro_wiki.agentwiki.llm import (
     LLMClient,
     LLMError,
+    LLMOutputTruncated,
     render_compile_prompt,
     render_enrich_prompt,
 )
@@ -34,6 +35,17 @@ def test_client_reads_chat_completion_content(httpx_mock):
     request = httpx_mock.get_request()
     assert request.headers["Authorization"] == "Bearer secret"
     assert request.read().decode("utf-8").find('"temperature":0') >= 0
+
+
+def test_client_omits_authorization_for_authless_local_runtime(httpx_mock):
+    httpx_mock.add_response(
+        url="http://llm/v1/chat/completions",
+        json={"choices": [{"message": {"content": "RESULT"}}]},
+    )
+    client = LLMClient("http://llm/v1", "", "model", retry_delay=0)
+
+    assert client.complete("prompt") == "RESULT"
+    assert "Authorization" not in httpx_mock.get_request().headers
 
 
 def test_client_sends_json_object_with_schema_in_prompt(httpx_mock):
@@ -205,4 +217,64 @@ def test_client_reports_reasoning_and_usage_metrics(httpx_mock, monkeypatch):
         "llm.done schema=none elapsed_ms=250 thinking=false format=json_object "
         "prompt_chars=3 content_chars=0 reasoning_chars=6 selected=reasoning_content "
         "finish=stop prompt_tokens=12 completion_tokens=3 total_tokens=15"
+    ]
+
+
+@pytest.mark.parametrize(
+    ("finish_key", "finish_reason"),
+    [
+        ("finish_reason", "length"),
+        ("finish_reason", "max_tokens"),
+        ("finishReason", "maxPredictedTokensReached"),
+    ],
+)
+def test_client_rejects_truncated_output_before_returning_partial_content(
+    httpx_mock,
+    monkeypatch,
+    finish_key,
+    finish_reason,
+):
+    httpx_mock.add_response(
+        json={
+            "choices": [
+                {
+                    finish_key: finish_reason,
+                    "message": {"content": '{"unfinished":'},
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 12,
+                "completion_tokens": 8191,
+                "total_tokens": 8203,
+            },
+        }
+    )
+    ticks = iter([10.0, 10.25])
+    monkeypatch.setattr(
+        "kmpro_wiki.agentwiki.llm.time.monotonic", lambda: next(ticks)
+    )
+    events: list[str] = []
+    client = LLMClient(
+        "http://llm/v1",
+        "secret",
+        "model",
+        max_tokens=8192,
+        max_attempts=3,
+        on_event=events.append,
+        retry_delay=0,
+    )
+
+    with pytest.raises(LLMOutputTruncated) as raised:
+        client.complete("提示词")
+
+    assert raised.value.finish_reason == finish_reason
+    assert raised.value.prompt_tokens == 12
+    assert raised.value.completion_tokens == 8191
+    assert raised.value.total_tokens == 8203
+    assert len(httpx_mock.get_requests()) == 1
+    assert events == [
+        "llm.done schema=none elapsed_ms=250 thinking=false "
+        "format=json_object prompt_chars=3 content_chars=14 reasoning_chars=0 "
+        f"selected=content finish={finish_reason} prompt_tokens=12 "
+        "completion_tokens=8191 total_tokens=8203"
     ]

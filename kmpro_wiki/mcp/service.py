@@ -644,7 +644,7 @@ class WikiMCPService:
         sync_inbox: bool = True,
     ) -> dict[str, Any]:
         self._require_writes("start_incremental_compile")
-        self._require_llm()
+        self._require_llm(require_key=False)
         if sync_inbox:
             self.sync_inbox()
         command = ["bash", str(self.config.project_root / "scripts/process_inbox.sh")]
@@ -663,9 +663,10 @@ class WikiMCPService:
         quality_threshold: float = 0.82,
         max_recompile_attempts: int = 2,
         max_component_refs: int = 24,
+        max_component_chars: int = 42_000,
     ) -> dict[str, Any]:
         self._require_writes("start_agent_compile")
-        self._require_llm()
+        self._require_llm(require_key=False)
         safe_run = _safe_id(run_id, label="run_id")
         if not 0.0 <= quality_threshold <= 1.0:
             raise ValueError("quality_threshold must be between 0 and 1")
@@ -673,6 +674,8 @@ class WikiMCPService:
             raise ValueError("max_recompile_attempts must be between 0 and 5")
         if not 2 <= max_component_refs <= 100:
             raise ValueError("max_component_refs must be between 2 and 100")
+        if not 8_000 <= max_component_chars <= 500_000:
+            raise ValueError("max_component_chars must be between 8000 and 500000")
         if sync_inbox:
             self.sync_inbox()
         command = [
@@ -686,6 +689,8 @@ class WikiMCPService:
             str(max_recompile_attempts),
             "--max-component-refs",
             str(max_component_refs),
+            "--max-component-chars",
+            str(max_component_chars),
         ]
         if resume:
             command.append("--resume")
@@ -698,6 +703,7 @@ class WikiMCPService:
                 "quality_threshold": quality_threshold,
                 "max_recompile_attempts": max_recompile_attempts,
                 "max_component_refs": max_component_refs,
+                "max_component_chars": max_component_chars,
             },
         )
 

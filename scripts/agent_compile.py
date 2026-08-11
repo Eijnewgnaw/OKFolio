@@ -44,6 +44,12 @@ def main() -> int:
         default=int(os.environ.get("AGENT_MAX_COMPONENT_REFS", "24")),
     )
     parser.add_argument(
+        "--max-component-chars",
+        type=int,
+        default=int(os.environ.get("AGENT_MAX_COMPONENT_CHARS", "42000")),
+        help="Maximum total evidence characters in one grouping decision.",
+    )
+    parser.add_argument(
         "--compile-workers",
         type=int,
         default=int(os.environ.get("AGENT_COMPILE_WORKERS", "2")),
@@ -53,9 +59,9 @@ def main() -> int:
     arguments = parser.parse_args()
 
     settings = Settings.from_env()
-    if not settings.openai_api_key or not settings.openai_model:
+    if not settings.openai_model:
         print(
-            "OPENAI_MODEL and OPENAI_API_KEY are required for model-backed compilation",
+            "OPENAI_MODEL is required for model-backed compilation",
             file=sys.stderr,
         )
         return 2
@@ -72,6 +78,7 @@ def main() -> int:
         quality_threshold=arguments.quality_threshold,
         max_recompile_attempts=arguments.max_recompile_attempts,
         max_component_refs=arguments.max_component_refs,
+        max_component_chars=arguments.max_component_chars,
     )
     output = settings.data_dir / "agent-runs" / run_id
     event_log = output / "events.log"

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 import shutil
 from collections import Counter, defaultdict, deque
@@ -81,7 +82,17 @@ class AgentRunError(RuntimeError):
     pass
 
 
-DISCOVERY_CHUNK_CHARS = 48_000
+DISCOVERY_CHUNK_CHARS = max(
+    8_000, int(os.environ.get("AGENT_DISCOVERY_CHUNK_CHARS", "48000"))
+)
+HEADING_TARGET_MAX_SECTION_CHARS = max(
+    4_000,
+    int(os.environ.get("AGENT_HEADING_TARGET_MAX_SECTION_CHARS", "12000")),
+)
+HEADING_MAX_REF_CHARS = max(
+    HEADING_TARGET_MAX_SECTION_CHARS,
+    int(os.environ.get("AGENT_HEADING_MAX_REF_CHARS", "24000")),
+)
 REFINE_FALLBACK_MAX_DEPTH = 3
 ASSET_PLACEMENT_BATCH_SIZE = 6
 ASSET_FALLBACK_CANDIDATE_GROUP_LIMIT = 4
@@ -261,6 +272,7 @@ class AgentCompiler:
                     "refs": [asdict(ref) for ref in refs],
                     "candidates": [edge.as_dict() for edge in candidates],
                     "max_component_refs": self.policy.max_component_refs,
+                    "max_component_chars": self.policy.max_component_chars,
                 }
             )
             groups_path = output / "groups.json"
@@ -294,6 +306,7 @@ class AgentCompiler:
                     refs,
                     tuple(candidates),
                     max_component_refs=self.policy.max_component_refs,
+                    max_component_chars=self.policy.max_component_chars,
                     on_decision=self._record,
                 )
             _write_json_atomic(
@@ -1397,7 +1410,11 @@ def profile_document(
     metadata: Mapping[str, Any] | None = None,
 ) -> DocumentProfile:
     headings = _heading_sections(source_content)
-    structured = _select_heading_level(headings)
+    structured = _expand_oversized_heading_sections(
+        source_content,
+        headings,
+        _select_heading_level(headings),
+    )
     metadata_payload = dict(metadata or {})
     family_id = str(metadata_payload.get("document_family_id") or "").strip()
     if not family_id:
@@ -1509,7 +1526,11 @@ def discover_from_headings(
     assets: tuple[SourceAsset, ...],
 ) -> tuple[ConceptRef, ...]:
     headings = _heading_sections(source_content)
-    selected = _select_heading_level(headings)
+    selected = _expand_oversized_heading_sections(
+        source_content,
+        headings,
+        _select_heading_level(headings),
+    )
     if len(selected) < 2:
         raise ContractError(
             "heading discovery requires at least two substantive same-level sections"
@@ -1524,6 +1545,7 @@ def discover_from_headings(
         if (
             not _has_substantive_markdown(block)
             or cleaned_title in container_titles
+            or _is_non_knowledge_heading(cleaned_title)
         ):
             continue
         evidence = tuple(value for value in catalog.values() if value in block)
@@ -2457,14 +2479,22 @@ def plan_compile_groups(
     candidates: tuple[CandidateEdge, ...],
     *,
     max_component_refs: int = 24,
+    max_component_chars: int = 42_000,
     on_decision: Callable[[dict[str, Any]], None] | None = None,
 ) -> tuple[CompileGroup, ...]:
     by_id = {ref.ref_id: ref for ref in refs}
     components = _candidate_components(tuple(by_id), candidates)
     groups: list[CompileGroup] = []
+    ref_chars = {
+        ref.ref_id: sum(len(item) for item in ref.evidence) for ref in refs
+    }
     for component in components:
         for chunk in _partition_component(
-            component, candidates, max_component_refs
+            component,
+            candidates,
+            max_component_refs,
+            weights=ref_chars,
+            maximum_weight=max_component_chars,
         ):
             chunk_edges = tuple(
                 edge
@@ -3028,8 +3058,16 @@ def _partition_component(
     component: tuple[str, ...],
     candidates: tuple[CandidateEdge, ...],
     maximum: int,
+    *,
+    weights: Mapping[str, int] | None = None,
+    maximum_weight: int | None = None,
 ) -> tuple[tuple[str, ...], ...]:
-    if len(component) <= maximum:
+    item_weights = weights or {}
+    if len(component) <= maximum and (
+        maximum_weight is None
+        or sum(item_weights.get(ref_id, 0) for ref_id in component)
+        <= maximum_weight
+    ):
         return (component,)
     adjacency: dict[str, set[str]] = defaultdict(set)
     for edge in candidates:
@@ -3041,13 +3079,22 @@ def _partition_component(
     while remaining:
         queue = deque([min(remaining)])
         chunk: list[str] = []
+        chunk_weight = 0
         queued = set(queue)
         while queue and len(chunk) < maximum:
             current = queue.popleft()
             if current not in remaining:
                 continue
+            current_weight = item_weights.get(current, 0)
+            if (
+                chunk
+                and maximum_weight is not None
+                and chunk_weight + current_weight > maximum_weight
+            ):
+                continue
             remaining.remove(current)
             chunk.append(current)
+            chunk_weight += current_weight
             for neighbor in sorted(adjacency[current]):
                 if neighbor in remaining and neighbor not in queued:
                     queue.append(neighbor)
@@ -3078,6 +3125,21 @@ def _heading_sections(content: str) -> tuple[tuple[int, str, int, int], ...]:
 def _select_heading_level(
     headings: tuple[tuple[int, str, int, int], ...],
 ) -> tuple[tuple[int, str, int, int], ...]:
+    # A Markdown level is a formatting choice, not a semantic granularity.
+    # Long books often use H2 for book parts and H3 for actual report/article
+    # units.  Selecting the first level with two sections collapses an entire
+    # book into a handful of containers.  Require enough peer sections for the
+    # document extent, then choose the shallowest level that meets that target.
+    document_extent = max((item[3] for item in headings), default=0)
+    target_sections = max(
+        2,
+        min(
+            24,
+            (document_extent + HEADING_TARGET_MAX_SECTION_CHARS - 1)
+            // HEADING_TARGET_MAX_SECTION_CHARS,
+        ),
+    )
+    levels: list[tuple[int, tuple[tuple[int, str, int, int], ...]]] = []
     for depth in (2, 3, 4):
         selected = tuple(
             item
@@ -3085,8 +3147,63 @@ def _select_heading_level(
             if item[0] == depth and item[3] - item[2] >= 24
         )
         if len(selected) >= 2:
+            levels.append((depth, selected))
+        if len(selected) >= target_sections:
             return selected
+    if levels:
+        # A sparse or irregular document may not meet the calculated target.
+        # Prefer the level with the most usable peer sections; a shallower level
+        # wins ties so short, ordinary Markdown reports keep existing behavior.
+        return max(levels, key=lambda item: (len(item[1]), -item[0]))[1]
     return ()
+
+
+def _expand_oversized_heading_sections(
+    content: str,
+    headings: tuple[tuple[int, str, int, int], ...],
+    selected: tuple[tuple[int, str, int, int], ...],
+) -> tuple[tuple[int, str, int, int], ...]:
+    """Recursively replace oversized peer sections with their child sections.
+
+    This keeps ordinary reports at their authored heading level while avoiding
+    a single book chapter consuming most of the model context.  A substantive
+    preamble before the first child is retained as an explicit overview unit.
+    """
+
+    def expand(
+        item: tuple[int, str, int, int],
+    ) -> tuple[tuple[int, str, int, int], ...]:
+        depth, title, start, end = item
+        body_size = len(_markdown_body_text(content[start:end]))
+        if body_size <= HEADING_MAX_REF_CHARS or depth >= 4:
+            return (item,)
+        nested = tuple(
+            candidate
+            for candidate in headings
+            if start < candidate[2] < end and candidate[0] > depth
+        )
+        if not nested:
+            return (item,)
+        child_depth = min(candidate[0] for candidate in nested)
+        children = tuple(
+            candidate
+            for candidate in nested
+            if candidate[0] == child_depth
+            and candidate[3] - candidate[2] >= 24
+            and _has_substantive_markdown(content[candidate[2] : candidate[3]])
+        )
+        if len(children) < 2:
+            return (item,)
+        expanded: list[tuple[int, str, int, int]] = []
+        preamble_end = children[0][2]
+        preamble = content[start:preamble_end]
+        if len(_markdown_body_text(preamble)) >= 200:
+            expanded.append((depth, f"{title}概述", start, preamble_end))
+        for child in children:
+            expanded.extend(expand(child))
+        return tuple(expanded)
+
+    return tuple(section for item in selected for section in expand(item))
 
 
 def _markdown_body_text(value: str) -> str:
@@ -3102,6 +3219,19 @@ def _has_substantive_markdown(value: str) -> bool:
 
 def _has_substantive_evidence(values: tuple[str, ...]) -> bool:
     return _has_substantive_markdown("\n".join(values))
+
+
+def _is_non_knowledge_heading(title: str) -> bool:
+    """Reject publication furniture that should never become a ConceptRef."""
+    normalized = re.sub(r"\s+", "", title).casefold()
+    return bool(
+        re.fullmatch(
+            r"(?:编委会|编辑委员会|前言|序言|preface|后记|目录|"
+            r"版权页?|出版说明|作者简介|致谢|contents?)",
+            normalized,
+            flags=re.IGNORECASE,
+        )
+    )
 
 
 def _logical_heading_rank(title: str) -> int:

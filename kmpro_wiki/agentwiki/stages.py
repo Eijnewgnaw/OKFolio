@@ -22,6 +22,7 @@ from .contracts import (
     placements_json_schema,
     relation_json_schema,
 )
+from .llm import LLMOutputTruncated
 from .okf import ConceptDocument
 from .relations import (
     RelationError,
@@ -430,18 +431,30 @@ def _complete_structured(
     schema_name: str,
     schema: dict[str, object],
     parser: Callable[[str], _T],
+    max_attempts: int = 2,
 ) -> _T:
+    if max_attempts < 1:
+        raise ValueError("max_attempts must be positive")
     current_prompt = prompt
-    for attempt in range(2):
-        response = llm.complete(
-            current_prompt,
-            json_schema_name=schema_name,
-            json_schema=schema,
-        )
+    for attempt in range(max_attempts):
+        try:
+            response = llm.complete(
+                current_prompt,
+                json_schema_name=schema_name,
+                json_schema=schema,
+            )
+        except LLMOutputTruncated:
+            if attempt == max_attempts - 1:
+                raise
+            # A truncated response has no usable payload: its partial output
+            # must never be appended as guidance.  Retry the original prompt
+            # verbatim so the next draw starts from a clean slate.
+            current_prompt = prompt
+            continue
         try:
             return parser(response)
         except ContractError as error:
-            if attempt == 1:
+            if attempt == max_attempts - 1:
                 raise
             current_prompt = (
                 f"{prompt}\n\n"

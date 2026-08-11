@@ -27,7 +27,7 @@ from kmpro_wiki.agentwiki.agentic import (
 )
 from kmpro_wiki.agentwiki.config import Settings
 from kmpro_wiki.agentwiki.global_cluster import CandidateEdge
-from kmpro_wiki.agentwiki.llm import LLMError
+from kmpro_wiki.agentwiki.llm import LLMError, LLMOutputTruncated
 
 
 class FakeLLM:
@@ -246,6 +246,109 @@ def test_heading_discovery_drops_container_heading_without_body():
     assert all("总体框架" not in item.title for item in refs)
 
 
+def test_heading_discovery_uses_semantic_depth_for_long_books():
+    paragraphs = "区域发展形成了可独立引用的事实判断和政策分析。" * 160
+    content = "# 长报告\n\n"
+    for part in range(1, 3):
+        content += f"## 第{part}篇\n\n篇章导语。\n\n"
+        for chapter in range(1, 6):
+            content += (
+                f"### 第{part}-{chapter}章 专题判断\n\n"
+                f"{paragraphs}\n\n"
+            )
+
+    refs = discover_from_headings("长报告.md", content, ())
+
+    assert len(refs) == 10
+    assert all("篇" not in item.title for item in refs)
+    assert sum(len(item.evidence) for item in refs) >= 10
+
+
+def test_heading_discovery_excludes_publication_furniture():
+    content = """# 报告
+
+## 前言
+
+本书出版背景与致谢说明。
+
+## 产业发展判断
+
+产业规模与结构变化形成了可独立引用的判断。
+
+## 政策实施建议
+
+建立跨部门政策台账并按季度评估实施效果。
+"""
+
+    refs = discover_from_headings("报告.md", content, ())
+
+    assert [item.title for item in refs] == ["产业发展判断", "政策实施建议"]
+
+
+def test_heading_discovery_splits_only_oversized_sections_into_children(
+    monkeypatch: pytest.MonkeyPatch,
+):
+    monkeypatch.setattr(agentic, "HEADING_MAX_REF_CHARS", 500)
+    long_text = "跨区域协同形成了可独立引用的事实判断。" * 40
+    content = f"""# 报告
+
+## 总体分析
+
+    本节先说明总体分析框架，并保留为概述证据。{"概述证据。" * 50}
+
+### 产业协同
+
+{long_text}
+
+### 创新协同
+
+{long_text}
+
+## 实施建议
+
+    {"建立跨部门台账并定期评估实施效果。" * 20}
+"""
+
+    refs = discover_from_headings("报告.md", content, ())
+
+    assert [item.title for item in refs] == [
+        "总体分析概述",
+        "产业协同",
+        "创新协同",
+        "实施建议",
+    ]
+
+
+def test_candidate_components_respect_evidence_character_budget():
+    candidates = (
+        CandidateEdge("e1", "r1", "r2", {"score": 0.9}),
+        CandidateEdge("e2", "r2", "r3", {"score": 0.8}),
+    )
+
+    chunks = agentic._partition_component(
+        ("r1", "r2", "r3"),
+        candidates,
+        3,
+        weights={"r1": 30_000, "r2": 25_000, "r3": 10_000},
+        maximum_weight=42_000,
+    )
+
+    assert sorted(ref_id for chunk in chunks for ref_id in chunk) == [
+        "r1",
+        "r2",
+        "r3",
+    ]
+    assert all(
+        len(chunk) == 1
+        or sum(
+            {"r1": 30_000, "r2": 25_000, "r3": 10_000}[ref_id]
+            for ref_id in chunk
+        )
+        <= 42_000
+        for chunk in chunks
+    )
+
+
 def test_structure_sidecar_attaches_section_and_page_provenance(tmp_path: Path):
     source = tmp_path / "报告.md"
     source.write_text("# 报告\n\n## 一、发展基础\n\n区域协同水平持续提高。")
@@ -350,6 +453,30 @@ def test_source_planner_repairs_an_invalid_route_once():
     assert plan.discovery_mode == "llm"
     assert len(llm.prompts) == 2
     assert "代码合同" in llm.prompts[1]
+
+
+def test_source_planner_does_not_repair_a_truncated_model_response():
+    content = "# 报告\n\n正文不足以按标题切分。"
+    profile = profile_document("报告.md", content, ())
+    llm = FakeLLM(
+        [
+            LLMOutputTruncated(
+                "length",
+                prompt_tokens=100,
+                completion_tokens=8191,
+                total_tokens=8291,
+            )
+        ]
+    )
+
+    with pytest.raises(LLMOutputTruncated, match="finish_reason=length"):
+        plan_source(
+            llm,
+            Path("prompts/agent_plan.md").read_text(encoding="utf-8"),
+            profile,
+        )
+
+    assert len(llm.prompts) == 1
 
 
 def test_discovery_refine_can_replace_heading_candidates_with_audited_refs():

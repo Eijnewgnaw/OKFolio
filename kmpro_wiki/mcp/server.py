@@ -152,6 +152,7 @@ def create_server(
         quality_threshold: float = 0.82,
         max_recompile_attempts: int = 2,
         max_component_refs: int = 24,
+        max_component_chars: int = 42000,
     ) -> dict[str, Any]:
         """后台启动全库 Agent 编译、聚类、质量审计和自动重编译。"""
         return service.start_agent_compile(
@@ -161,6 +162,7 @@ def create_server(
             quality_threshold=quality_threshold,
             max_recompile_attempts=max_recompile_attempts,
             max_component_refs=max_component_refs,
+            max_component_chars=max_component_chars,
         )
 
     @server.tool(annotations=MODEL_JOB, structured_output=True)

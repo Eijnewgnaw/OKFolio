@@ -11,6 +11,49 @@ class LLMError(RuntimeError):
     pass
 
 
+class LLMOutputTruncated(LLMError):
+    """The provider stopped generation because the output token limit was hit."""
+
+    def __init__(
+        self,
+        finish_reason: str,
+        *,
+        prompt_tokens: object = None,
+        completion_tokens: object = None,
+        total_tokens: object = None,
+    ) -> None:
+        self.finish_reason = finish_reason
+        self.prompt_tokens = prompt_tokens
+        self.completion_tokens = completion_tokens
+        self.total_tokens = total_tokens
+        super().__init__(
+            "LLM output truncated "
+            f"(finish_reason={finish_reason}, "
+            f"completion_tokens={completion_tokens})"
+        )
+
+
+def _finish_reason(choice: dict[str, object]) -> str:
+    value = choice.get("finish_reason")
+    if value is None:
+        value = choice.get("finishReason")
+    return str(value) if value is not None else "unknown"
+
+
+def _is_truncated_finish_reason(finish_reason: str) -> bool:
+    normalized = "".join(
+        character
+        for character in finish_reason.casefold()
+        if character.isalnum()
+    )
+    return normalized in {
+        "length",
+        "maxtokens",
+        "maxtokensreached",
+        "maxpredictedtokensreached",
+    }
+
+
 def render_compile_prompt(
     template: str, title: str, source_file: str, content: str
 ) -> str:
@@ -104,7 +147,14 @@ class OpenAICompatibleClient:
                 }
             elif self.response_format == "json_object":
                 payload["response_format"] = {"type": "json_object"}
-        headers = {"Authorization": f"Bearer {self.api_key}"}
+        # OpenAI-compatible local runtimes commonly run without authentication.
+        # Omit the header entirely when no key is configured; remote providers
+        # can still enforce authentication and return their normal 401 response.
+        headers = (
+            {"Authorization": f"Bearer {self.api_key}"}
+            if self.api_key
+            else {}
+        )
 
         with httpx.Client(timeout=self.timeout, trust_env=False) as client:
             for attempt in range(1, self.max_attempts + 1):
@@ -166,8 +216,6 @@ class OpenAICompatibleClient:
                 ) as error:
                     raise LLMError("LLM returned an invalid response") from error
 
-                if not isinstance(content, str) or not content.strip():
-                    raise LLMError("LLM returned empty content")
                 usage = response_data.get("usage") or {}
                 elapsed_ms = round((time.monotonic() - started) * 1000)
                 content_chars = (
@@ -176,18 +224,33 @@ class OpenAICompatibleClient:
                 reasoning_chars = (
                     len(raw_reasoning) if isinstance(raw_reasoning, str) else 0
                 )
-                self.on_event(
-                    f"llm.done schema={json_schema_name or 'none'} "
+                finish_reason = _finish_reason(choice)
+                event_fields = (
+                    f"schema={json_schema_name or 'none'} "
                     f"elapsed_ms={elapsed_ms} "
                     f"thinking={str(self.enable_thinking).lower()} "
                     f"format={self.response_format} "
                     f"prompt_chars={len(request_prompt)} content_chars={content_chars} "
                     f"reasoning_chars={reasoning_chars} selected={selected_field} "
-                    f"finish={choice.get('finish_reason', 'unknown')} "
+                    f"finish={finish_reason} "
                     f"prompt_tokens={usage.get('prompt_tokens', 'unknown')} "
                     f"completion_tokens={usage.get('completion_tokens', 'unknown')} "
                     f"total_tokens={usage.get('total_tokens', 'unknown')}"
                 )
+                if _is_truncated_finish_reason(finish_reason):
+                    # Keep the physical-call telemetry compatible with existing
+                    # run reports, then stop before any caller can parse or
+                    # contract-repair the partial payload.
+                    self.on_event(f"llm.done {event_fields}")
+                    raise LLMOutputTruncated(
+                        finish_reason,
+                        prompt_tokens=usage.get("prompt_tokens"),
+                        completion_tokens=usage.get("completion_tokens"),
+                        total_tokens=usage.get("total_tokens"),
+                    )
+                if not isinstance(content, str) or not content.strip():
+                    raise LLMError("LLM returned empty content")
+                self.on_event(f"llm.done {event_fields}")
                 return content.strip()
 
         raise LLMError("LLM request exhausted without a response")

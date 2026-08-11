@@ -17,6 +17,7 @@ class AgentPolicy:
     quality_threshold: float = 0.80
     max_recompile_attempts: int = 2
     max_component_refs: int = 24
+    max_component_chars: int = 42_000
 
     def __post_init__(self) -> None:
         if not 0.0 <= self.quality_threshold <= 1.0:
@@ -25,6 +26,8 @@ class AgentPolicy:
             raise ValueError("max_recompile_attempts must be between 0 and 3")
         if self.max_component_refs < 2:
             raise ValueError("max_component_refs must be at least 2")
+        if self.max_component_chars < 8_000:
+            raise ValueError("max_component_chars must be at least 8000")
 
 
 @dataclass(frozen=True)

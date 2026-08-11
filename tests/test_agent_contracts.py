@@ -14,9 +14,13 @@ from kmpro_wiki.agentwiki.contracts import ContractError
 
 def test_agent_policy_bounds_public_control_knobs():
     assert AgentPolicy().max_recompile_attempts == 2
+    assert AgentPolicy().max_component_chars == 42_000
 
     with pytest.raises(ValueError, match="between 0 and 3"):
         AgentPolicy(max_recompile_attempts=4)
+
+    with pytest.raises(ValueError, match="at least 8000"):
+        AgentPolicy(max_component_chars=7_999)
 
 
 def test_source_plan_requires_real_heading_structure_and_hybrid_refine():
