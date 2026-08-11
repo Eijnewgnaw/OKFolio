@@ -1,0 +1,13 @@
+{
+  "error": "ContractError: model response must be valid JSON with no extra text",
+  "model": "qwen3.6-35b-a3b-mlx",
+  "policy": {
+    "max_component_chars": 42000,
+    "max_component_refs": 4,
+    "max_recompile_attempts": 2,
+    "quality_threshold": 0.8
+  },
+  "schema": "kmpro.agent-run.v2",
+  "status": "failed",
+  "version": 1
+}

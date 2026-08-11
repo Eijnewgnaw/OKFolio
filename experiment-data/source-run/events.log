@@ -1,0 +1,605 @@
+agent.plan.start source=102a4976-6f08-42bc-b866-6b9f7b53cc31.md position=1/10
+llm.done schema=agent_source_plan elapsed_ms=39845 thinking=false format=json_schema prompt_chars=53581 content_chars=0 reasoning_chars=184 selected=reasoning_content finish=stop prompt_tokens=28745 completion_tokens=80 total_tokens=28825
+agent.discovery.done source=102a4976-6f08-42bc-b866-6b9f7b53cc31.md refs=24 mode=heading refine=false
+agent.plan.start source=17d86065-ce5f-4300-a5a3-cb89b688ea94.md position=2/10
+llm.done schema=agent_source_plan elapsed_ms=32405 thinking=false format=json_schema prompt_chars=42186 content_chars=0 reasoning_chars=205 selected=reasoning_content finish=stop prompt_tokens=21997 completion_tokens=90 total_tokens=22087
+agent.discovery.done source=17d86065-ce5f-4300-a5a3-cb89b688ea94.md refs=102 mode=heading refine=false
+agent.plan.start source=2f27f8b7-c83d-49c6-96ff-95ff655ed6c4.md position=3/10
+llm.done schema=agent_source_plan elapsed_ms=20042 thinking=false format=json_schema prompt_chars=33436 content_chars=0 reasoning_chars=190 selected=reasoning_content finish=stop prompt_tokens=16758 completion_tokens=85 total_tokens=16843
+agent.discovery.done source=2f27f8b7-c83d-49c6-96ff-95ff655ed6c4.md refs=29 mode=heading refine=false
+agent.plan.start source=46a57605-7f91-4664-87f7-7ed1e58dade6.md position=4/10
+llm.done schema=agent_source_plan elapsed_ms=44333 thinking=false format=json_schema prompt_chars=53795 content_chars=0 reasoning_chars=192 selected=reasoning_content finish=stop prompt_tokens=26905 completion_tokens=85 total_tokens=26990
+agent.discovery.done source=46a57605-7f91-4664-87f7-7ed1e58dade6.md refs=25 mode=heading refine=false
+agent.plan.start source=80496e4b-360d-412e-86c6-e95d52fdedf6.md position=5/10
+llm.done schema=agent_source_plan elapsed_ms=44711 thinking=false format=json_schema prompt_chars=51112 content_chars=0 reasoning_chars=243 selected=reasoning_content finish=stop prompt_tokens=26990 completion_tokens=107 total_tokens=27097
+llm.done schema=agent_refined_discovery elapsed_ms=72333 thinking=false format=json_schema prompt_chars=58694 content_chars=0 reasoning_chars=2380 selected=reasoning_content finish=stop prompt_tokens=29326 completion_tokens=1018 total_tokens=30344
+llm.done schema=agent_refined_discovery elapsed_ms=100006 thinking=false format=json_schema prompt_chars=78223 content_chars=0 reasoning_chars=2154 selected=reasoning_content finish=stop prompt_tokens=45403 completion_tokens=946 total_tokens=46349
+llm.done schema=agent_refined_discovery elapsed_ms=103509 thinking=false format=json_schema prompt_chars=73715 content_chars=0 reasoning_chars=1630 selected=reasoning_content finish=stop prompt_tokens=41088 completion_tokens=724 total_tokens=41812
+llm.done schema=agent_refined_discovery elapsed_ms=70493 thinking=false format=json_schema prompt_chars=57752 content_chars=0 reasoning_chars=1911 selected=reasoning_content finish=stop prompt_tokens=30811 completion_tokens=852 total_tokens=31663
+llm.done schema=agent_refined_discovery elapsed_ms=58768 thinking=false format=json_schema prompt_chars=40718 content_chars=0 reasoning_chars=2903 selected=reasoning_content finish=stop prompt_tokens=21742 completion_tokens=1387 total_tokens=23129
+llm.done schema=agent_refined_discovery elapsed_ms=66659 thinking=false format=json_schema prompt_chars=52595 content_chars=0 reasoning_chars=2475 selected=reasoning_content finish=stop prompt_tokens=29538 completion_tokens=1036 total_tokens=30574
+llm.done schema=agent_refined_discovery elapsed_ms=63708 thinking=false format=json_schema prompt_chars=52185 content_chars=0 reasoning_chars=2779 selected=reasoning_content finish=stop prompt_tokens=27593 completion_tokens=1138 total_tokens=28731
+llm.done schema=agent_refined_discovery elapsed_ms=70528 thinking=false format=json_schema prompt_chars=47297 content_chars=0 reasoning_chars=3816 selected=reasoning_content finish=stop prompt_tokens=25624 completion_tokens=1690 total_tokens=27314
+llm.done schema=agent_refined_discovery elapsed_ms=4784 thinking=false format=json_schema prompt_chars=2504 content_chars=0 reasoning_chars=357 selected=reasoning_content finish=stop prompt_tokens=1267 completion_tokens=164 total_tokens=1431
+agent.discovery.done source=80496e4b-360d-412e-86c6-e95d52fdedf6.md refs=38 mode=hybrid refine=true
+agent.plan.start source=a2a49fba-932f-419d-90d9-7c733b4bc82c.md position=6/10
+llm.done schema=agent_source_plan elapsed_ms=40776 thinking=false format=json_schema prompt_chars=46800 content_chars=0 reasoning_chars=226 selected=reasoning_content finish=stop prompt_tokens=23172 completion_tokens=103 total_tokens=23275
+agent.discovery.done source=a2a49fba-932f-419d-90d9-7c733b4bc82c.md refs=48 mode=heading refine=false
+agent.plan.start source=c4fa936d-bb21-4b09-931b-345720909d3a.md position=7/10
+llm.done schema=agent_source_plan elapsed_ms=46737 thinking=false format=json_schema prompt_chars=50462 content_chars=0 reasoning_chars=235 selected=reasoning_content finish=stop prompt_tokens=27139 completion_tokens=111 total_tokens=27250
+agent.discovery.done source=c4fa936d-bb21-4b09-931b-345720909d3a.md refs=42 mode=heading refine=false
+agent.plan.start source=cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md position=8/10
+llm.done schema=agent_source_plan elapsed_ms=48038 thinking=false format=json_schema prompt_chars=59983 content_chars=0 reasoning_chars=214 selected=reasoning_content finish=stop prompt_tokens=30591 completion_tokens=97 total_tokens=30688
+agent.discovery.done source=cc74e3e3-a764-4bab-b326-3b64fe6ad5eb.md refs=44 mode=heading refine=false
+agent.plan.start source=d14be649-65e4-4ecb-b8d4-4e772f767730.md position=9/10
+llm.done schema=agent_source_plan elapsed_ms=41414 thinking=false format=json_schema prompt_chars=55186 content_chars=0 reasoning_chars=179 selected=reasoning_content finish=stop prompt_tokens=27823 completion_tokens=77 total_tokens=27900
+agent.discovery.done source=d14be649-65e4-4ecb-b8d4-4e772f767730.md refs=46 mode=heading refine=false
+agent.plan.start source=fa5174b5-f9a4-407e-9eb9-86d93f14eb0a.md position=10/10
+llm.done schema=agent_source_plan elapsed_ms=33110 thinking=false format=json_schema prompt_chars=42038 content_chars=0 reasoning_chars=240 selected=reasoning_content finish=stop prompt_tokens=20828 completion_tokens=110 total_tokens=20938
+agent.discovery.done source=fa5174b5-f9a4-407e-9eb9-86d93f14eb0a.md refs=47 mode=heading refine=false
+llm.done schema=agent_compile_groups elapsed_ms=8808 thinking=false format=json_schema prompt_chars=5194 content_chars=0 reasoning_chars=551 selected=reasoning_content finish=stop prompt_tokens=2455 completion_tokens=288 total_tokens=2743
+llm.done schema=agent_compile_groups elapsed_ms=8040 thinking=false format=json_schema prompt_chars=5072 content_chars=0 reasoning_chars=484 selected=reasoning_content finish=stop prompt_tokens=2354 completion_tokens=260 total_tokens=2614
+llm.done schema=agent_compile_groups elapsed_ms=10565 thinking=false format=json_schema prompt_chars=5664 content_chars=0 reasoning_chars=1065 selected=reasoning_content finish=stop prompt_tokens=2664 completion_tokens=588 total_tokens=3252
+llm.done schema=agent_compile_groups elapsed_ms=6009 thinking=false format=json_schema prompt_chars=5058 content_chars=0 reasoning_chars=295 selected=reasoning_content finish=stop prompt_tokens=2358 completion_tokens=163 total_tokens=2521
+llm.done schema=agent_compile_groups elapsed_ms=7466 thinking=false format=json_schema prompt_chars=5461 content_chars=0 reasoning_chars=745 selected=reasoning_content finish=stop prompt_tokens=2572 completion_tokens=389 total_tokens=2961
+llm.done schema=agent_compile_groups elapsed_ms=11236 thinking=false format=json_schema prompt_chars=7032 content_chars=0 reasoning_chars=754 selected=reasoning_content finish=stop prompt_tokens=3295 completion_tokens=413 total_tokens=3708
+llm.done schema=agent_compile_groups elapsed_ms=7380 thinking=false format=json_schema prompt_chars=5435 content_chars=0 reasoning_chars=326 selected=reasoning_content finish=stop prompt_tokens=2553 completion_tokens=180 total_tokens=2733
+llm.done schema=agent_compile_groups elapsed_ms=6147 thinking=false format=json_schema prompt_chars=5869 content_chars=0 reasoning_chars=545 selected=reasoning_content finish=stop prompt_tokens=2784 completion_tokens=273 total_tokens=3057
+llm.done schema=agent_compile_groups elapsed_ms=10492 thinking=false format=json_schema prompt_chars=6480 content_chars=0 reasoning_chars=622 selected=reasoning_content finish=stop prompt_tokens=2976 completion_tokens=359 total_tokens=3335
+llm.done schema=agent_compile_groups elapsed_ms=13232 thinking=false format=json_schema prompt_chars=5977 content_chars=0 reasoning_chars=1011 selected=reasoning_content finish=stop prompt_tokens=2875 completion_tokens=550 total_tokens=3425
+llm.done schema=agent_compile_groups elapsed_ms=12991 thinking=false format=json_schema prompt_chars=5164 content_chars=0 reasoning_chars=1022 selected=reasoning_content finish=stop prompt_tokens=2408 completion_tokens=543 total_tokens=2951
+llm.done schema=agent_compile_groups elapsed_ms=10489 thinking=false format=json_schema prompt_chars=6380 content_chars=0 reasoning_chars=611 selected=reasoning_content finish=stop prompt_tokens=3029 completion_tokens=360 total_tokens=3389
+llm.done schema=agent_compile_groups elapsed_ms=7683 thinking=false format=json_schema prompt_chars=7114 content_chars=0 reasoning_chars=611 selected=reasoning_content finish=stop prompt_tokens=3432 completion_tokens=360 total_tokens=3792
+llm.done schema=agent_compile_groups elapsed_ms=9816 thinking=false format=json_schema prompt_chars=6423 content_chars=0 reasoning_chars=550 selected=reasoning_content finish=stop prompt_tokens=2991 completion_tokens=307 total_tokens=3298
+llm.done schema=agent_compile_groups elapsed_ms=8743 thinking=false format=json_schema prompt_chars=5757 content_chars=0 reasoning_chars=524 selected=reasoning_content finish=stop prompt_tokens=2679 completion_tokens=280 total_tokens=2959
+llm.done schema=agent_compile_groups elapsed_ms=6980 thinking=false format=json_schema prompt_chars=6404 content_chars=0 reasoning_chars=650 selected=reasoning_content finish=stop prompt_tokens=3002 completion_tokens=346 total_tokens=3348
+llm.done schema=agent_compile_groups elapsed_ms=12393 thinking=false format=json_schema prompt_chars=5724 content_chars=0 reasoning_chars=919 selected=reasoning_content finish=stop prompt_tokens=2674 completion_tokens=495 total_tokens=3169
+llm.done schema=agent_compile_groups elapsed_ms=9808 thinking=false format=json_schema prompt_chars=6766 content_chars=0 reasoning_chars=919 selected=reasoning_content finish=stop prompt_tokens=3212 completion_tokens=495 total_tokens=3707
+llm.done schema=agent_compile_groups elapsed_ms=7453 thinking=false format=json_schema prompt_chars=5778 content_chars=0 reasoning_chars=358 selected=reasoning_content finish=stop prompt_tokens=2722 completion_tokens=198 total_tokens=2920
+llm.done schema=agent_compile_groups elapsed_ms=6432 thinking=false format=json_schema prompt_chars=6244 content_chars=0 reasoning_chars=571 selected=reasoning_content finish=stop prompt_tokens=2972 completion_tokens=298 total_tokens=3270
+llm.done schema=agent_compile_groups elapsed_ms=6668 thinking=false format=json_schema prompt_chars=5157 content_chars=0 reasoning_chars=331 selected=reasoning_content finish=stop prompt_tokens=2402 completion_tokens=179 total_tokens=2581
+llm.done schema=agent_compile_groups elapsed_ms=7998 thinking=false format=json_schema prompt_chars=5596 content_chars=0 reasoning_chars=759 selected=reasoning_content finish=stop prompt_tokens=2631 completion_tokens=404 total_tokens=3035
+llm.done schema=agent_compile_groups elapsed_ms=10658 thinking=false format=json_schema prompt_chars=6010 content_chars=0 reasoning_chars=693 selected=reasoning_content finish=stop prompt_tokens=2850 completion_tokens=374 total_tokens=3224
+llm.done schema=agent_compile_groups elapsed_ms=8707 thinking=false format=json_schema prompt_chars=5173 content_chars=0 reasoning_chars=585 selected=reasoning_content finish=stop prompt_tokens=2430 completion_tokens=295 total_tokens=2725
+llm.done schema=agent_compile_groups elapsed_ms=14189 thinking=false format=json_schema prompt_chars=6856 content_chars=0 reasoning_chars=986 selected=reasoning_content finish=stop prompt_tokens=3275 completion_tokens=551 total_tokens=3826
+llm.done schema=agent_compile_groups elapsed_ms=8837 thinking=false format=json_schema prompt_chars=7664 content_chars=0 reasoning_chars=453 selected=reasoning_content finish=stop prompt_tokens=3531 completion_tokens=263 total_tokens=3794
+llm.done schema=agent_compile_groups elapsed_ms=12974 thinking=false format=json_schema prompt_chars=5654 content_chars=0 reasoning_chars=873 selected=reasoning_content finish=stop prompt_tokens=2706 completion_tokens=500 total_tokens=3206
+llm.done schema=agent_compile_groups elapsed_ms=5773 thinking=false format=json_schema prompt_chars=6656 content_chars=0 reasoning_chars=442 selected=reasoning_content finish=stop prompt_tokens=3248 completion_tokens=260 total_tokens=3508
+llm.done schema=agent_compile_groups elapsed_ms=6779 thinking=false format=json_schema prompt_chars=5417 content_chars=0 reasoning_chars=341 selected=reasoning_content finish=stop prompt_tokens=2564 completion_tokens=186 total_tokens=2750
+llm.done schema=agent_compile_groups elapsed_ms=5628 thinking=false format=json_schema prompt_chars=4975 content_chars=0 reasoning_chars=266 selected=reasoning_content finish=stop prompt_tokens=2312 completion_tokens=141 total_tokens=2453
+llm.done schema=agent_compile_groups elapsed_ms=3480 thinking=false format=json_schema prompt_chars=5364 content_chars=0 reasoning_chars=309 selected=reasoning_content finish=stop prompt_tokens=2496 completion_tokens=173 total_tokens=2669
+llm.done schema=agent_compile_groups elapsed_ms=11808 thinking=false format=json_schema prompt_chars=6398 content_chars=0 reasoning_chars=817 selected=reasoning_content finish=stop prompt_tokens=3047 completion_tokens=448 total_tokens=3495
+llm.done schema=agent_compile_groups elapsed_ms=10221 thinking=false format=json_schema prompt_chars=5769 content_chars=0 reasoning_chars=766 selected=reasoning_content finish=stop prompt_tokens=2690 completion_tokens=393 total_tokens=3083
+llm.done schema=agent_compile_groups elapsed_ms=10641 thinking=false format=json_schema prompt_chars=5614 content_chars=0 reasoning_chars=786 selected=reasoning_content finish=stop prompt_tokens=2608 completion_tokens=409 total_tokens=3017
+llm.done schema=agent_compile_groups elapsed_ms=8310 thinking=false format=json_schema prompt_chars=7312 content_chars=0 reasoning_chars=365 selected=reasoning_content finish=stop prompt_tokens=3468 completion_tokens=209 total_tokens=3677
+llm.done schema=agent_compile_groups elapsed_ms=7051 thinking=false format=json_schema prompt_chars=7785 content_chars=0 reasoning_chars=651 selected=reasoning_content finish=stop prompt_tokens=3727 completion_tokens=359 total_tokens=4086
+llm.done schema=agent_compile_groups elapsed_ms=6205 thinking=false format=json_schema prompt_chars=5476 content_chars=0 reasoning_chars=272 selected=reasoning_content finish=stop prompt_tokens=2544 completion_tokens=150 total_tokens=2694
+llm.done schema=agent_compile_groups elapsed_ms=7173 thinking=false format=json_schema prompt_chars=5856 content_chars=0 reasoning_chars=700 selected=reasoning_content finish=stop prompt_tokens=2745 completion_tokens=369 total_tokens=3114
+llm.done schema=agent_compile_groups elapsed_ms=11914 thinking=false format=json_schema prompt_chars=5822 content_chars=0 reasoning_chars=810 selected=reasoning_content finish=stop prompt_tokens=2711 completion_tokens=440 total_tokens=3151
+llm.done schema=agent_compile_groups elapsed_ms=9343 thinking=false format=json_schema prompt_chars=6761 content_chars=0 reasoning_chars=810 selected=reasoning_content finish=stop prompt_tokens=3193 completion_tokens=440 total_tokens=3633
+llm.done schema=agent_compile_groups elapsed_ms=10147 thinking=false format=json_schema prompt_chars=5353 content_chars=0 reasoning_chars=640 selected=reasoning_content finish=stop prompt_tokens=2528 completion_tokens=366 total_tokens=2894
+llm.done schema=agent_compile_groups elapsed_ms=8638 thinking=false format=json_schema prompt_chars=6116 content_chars=0 reasoning_chars=717 selected=reasoning_content finish=stop prompt_tokens=2937 completion_tokens=409 total_tokens=3346
+llm.done schema=agent_compile_groups elapsed_ms=5641 thinking=false format=json_schema prompt_chars=2860 content_chars=0 reasoning_chars=370 selected=reasoning_content finish=stop prompt_tokens=1435 completion_tokens=204 total_tokens=1639
+llm.done schema=agent_compile_groups elapsed_ms=9851 thinking=false format=json_schema prompt_chars=4999 content_chars=0 reasoning_chars=680 selected=reasoning_content finish=stop prompt_tokens=2334 completion_tokens=381 total_tokens=2715
+llm.done schema=agent_compile_groups elapsed_ms=9739 thinking=false format=json_schema prompt_chars=5536 content_chars=0 reasoning_chars=653 selected=reasoning_content finish=stop prompt_tokens=2552 completion_tokens=354 total_tokens=2906
+llm.done schema=agent_compile_groups elapsed_ms=4394 thinking=false format=json_schema prompt_chars=6318 content_chars=0 reasoning_chars=334 selected=reasoning_content finish=stop prompt_tokens=2948 completion_tokens=181 total_tokens=3129
+llm.done schema=agent_compile_groups elapsed_ms=6378 thinking=false format=json_schema prompt_chars=5217 content_chars=0 reasoning_chars=294 selected=reasoning_content finish=stop prompt_tokens=2462 completion_tokens=155 total_tokens=2617
+llm.done schema=agent_compile_groups elapsed_ms=7201 thinking=false format=json_schema prompt_chars=5619 content_chars=0 reasoning_chars=702 selected=reasoning_content finish=stop prompt_tokens=2669 completion_tokens=366 total_tokens=3035
+llm.done schema=agent_compile_groups elapsed_ms=11217 thinking=false format=json_schema prompt_chars=5967 content_chars=0 reasoning_chars=742 selected=reasoning_content finish=stop prompt_tokens=2734 completion_tokens=408 total_tokens=3142
+llm.done schema=agent_compile_groups elapsed_ms=4948 thinking=false format=json_schema prompt_chars=6838 content_chars=0 reasoning_chars=362 selected=reasoning_content finish=stop prompt_tokens=3184 completion_tokens=197 total_tokens=3381
+llm.done schema=agent_compile_groups elapsed_ms=10501 thinking=false format=json_schema prompt_chars=6069 content_chars=0 reasoning_chars=685 selected=reasoning_content finish=stop prompt_tokens=2803 completion_tokens=364 total_tokens=3167
+llm.done schema=agent_compile_groups elapsed_ms=5930 thinking=false format=json_schema prompt_chars=4894 content_chars=0 reasoning_chars=293 selected=reasoning_content finish=stop prompt_tokens=2267 completion_tokens=149 total_tokens=2416
+llm.done schema=agent_compile_groups elapsed_ms=6582 thinking=false format=json_schema prompt_chars=5295 content_chars=0 reasoning_chars=638 selected=reasoning_content finish=stop prompt_tokens=2467 completion_tokens=323 total_tokens=2790
+llm.done schema=agent_compile_groups elapsed_ms=3699 thinking=false format=json_schema prompt_chars=2880 content_chars=0 reasoning_chars=198 selected=reasoning_content finish=stop prompt_tokens=1365 completion_tokens=97 total_tokens=1462
+llm.done schema=agent_compile_groups elapsed_ms=9687 thinking=false format=json_schema prompt_chars=5614 content_chars=0 reasoning_chars=558 selected=reasoning_content finish=stop prompt_tokens=2684 completion_tokens=329 total_tokens=3013
+llm.done schema=agent_compile_groups elapsed_ms=10741 thinking=false format=json_schema prompt_chars=6860 content_chars=0 reasoning_chars=677 selected=reasoning_content finish=stop prompt_tokens=3125 completion_tokens=351 total_tokens=3476
+llm.done schema=agent_compile_groups elapsed_ms=8368 thinking=false format=json_schema prompt_chars=5696 content_chars=0 reasoning_chars=579 selected=reasoning_content finish=stop prompt_tokens=2730 completion_tokens=312 total_tokens=3042
+llm.done schema=agent_compile_groups elapsed_ms=3354 thinking=false format=json_schema prompt_chars=6404 content_chars=0 reasoning_chars=293 selected=reasoning_content finish=stop prompt_tokens=3084 completion_tokens=156 total_tokens=3240
+llm.done schema=agent_compile_groups elapsed_ms=7162 thinking=false format=json_schema prompt_chars=5277 content_chars=0 reasoning_chars=487 selected=reasoning_content finish=stop prompt_tokens=2460 completion_tokens=249 total_tokens=2709
+llm.done schema=agent_compile_groups elapsed_ms=5582 thinking=false format=json_schema prompt_chars=5887 content_chars=0 reasoning_chars=487 selected=reasoning_content finish=stop prompt_tokens=2752 completion_tokens=249 total_tokens=3001
+llm.done schema=agent_compile_groups elapsed_ms=8850 thinking=false format=json_schema prompt_chars=5298 content_chars=0 reasoning_chars=505 selected=reasoning_content finish=stop prompt_tokens=2484 completion_tokens=288 total_tokens=2772
+llm.done schema=agent_compile_groups elapsed_ms=12709 thinking=false format=json_schema prompt_chars=6806 content_chars=0 reasoning_chars=884 selected=reasoning_content finish=stop prompt_tokens=3120 completion_tokens=461 total_tokens=3581
+llm.done schema=agent_compile_groups elapsed_ms=8029 thinking=false format=json_schema prompt_chars=5150 content_chars=0 reasoning_chars=472 selected=reasoning_content finish=stop prompt_tokens=2361 completion_tokens=282 total_tokens=2643
+llm.done schema=agent_compile_groups elapsed_ms=5958 thinking=false format=json_schema prompt_chars=5730 content_chars=0 reasoning_chars=492 selected=reasoning_content finish=stop prompt_tokens=2694 completion_tokens=287 total_tokens=2981
+llm.done schema=agent_compile_groups elapsed_ms=8848 thinking=false format=json_schema prompt_chars=6033 content_chars=0 reasoning_chars=638 selected=reasoning_content finish=stop prompt_tokens=2799 completion_tokens=320 total_tokens=3119
+llm.done schema=agent_compile_groups elapsed_ms=5212 thinking=false format=json_schema prompt_chars=5603 content_chars=0 reasoning_chars=245 selected=reasoning_content finish=stop prompt_tokens=2668 completion_tokens=128 total_tokens=2796
+llm.done schema=agent_compile_groups elapsed_ms=6178 thinking=false format=json_schema prompt_chars=5956 content_chars=0 reasoning_chars=689 selected=reasoning_content finish=stop prompt_tokens=2848 completion_tokens=366 total_tokens=3214
+llm.done schema=agent_compile_groups elapsed_ms=5129 thinking=false format=json_schema prompt_chars=2773 content_chars=0 reasoning_chars=400 selected=reasoning_content finish=stop prompt_tokens=1368 completion_tokens=228 total_tokens=1596
+llm.done schema=agent_compile_groups elapsed_ms=13864 thinking=false format=json_schema prompt_chars=5932 content_chars=0 reasoning_chars=1148 selected=reasoning_content finish=stop prompt_tokens=2823 completion_tokens=647 total_tokens=3470
+llm.done schema=agent_compile_groups elapsed_ms=7366 thinking=false format=json_schema prompt_chars=6301 content_chars=0 reasoning_chars=279 selected=reasoning_content finish=stop prompt_tokens=3015 completion_tokens=153 total_tokens=3168
+llm.done schema=agent_compile_groups elapsed_ms=7131 thinking=false format=json_schema prompt_chars=6688 content_chars=0 reasoning_chars=676 selected=reasoning_content finish=stop prompt_tokens=3219 completion_tokens=346 total_tokens=3565
+llm.done schema=agent_compile_groups elapsed_ms=6993 thinking=false format=json_schema prompt_chars=5248 content_chars=0 reasoning_chars=322 selected=reasoning_content finish=stop prompt_tokens=2455 completion_tokens=179 total_tokens=2634
+llm.done schema=agent_compile_groups elapsed_ms=8497 thinking=false format=json_schema prompt_chars=5678 content_chars=0 reasoning_chars=815 selected=reasoning_content finish=stop prompt_tokens=2686 completion_tokens=430 total_tokens=3116
+llm.done schema=agent_compile_groups elapsed_ms=6235 thinking=false format=json_schema prompt_chars=5365 content_chars=0 reasoning_chars=255 selected=reasoning_content finish=stop prompt_tokens=2546 completion_tokens=130 total_tokens=2676
+llm.done schema=agent_compile_groups elapsed_ms=5409 thinking=false format=json_schema prompt_chars=5728 content_chars=0 reasoning_chars=500 selected=reasoning_content finish=stop prompt_tokens=2725 completion_tokens=256 total_tokens=2981
+llm.done schema=agent_compile_groups elapsed_ms=6303 thinking=false format=json_schema prompt_chars=5045 content_chars=0 reasoning_chars=332 selected=reasoning_content finish=stop prompt_tokens=2299 completion_tokens=186 total_tokens=2485
+llm.done schema=agent_compile_groups elapsed_ms=7021 thinking=false format=json_schema prompt_chars=5485 content_chars=0 reasoning_chars=735 selected=reasoning_content finish=stop prompt_tokens=2533 completion_tokens=368 total_tokens=2901
+llm.done schema=agent_compile_groups elapsed_ms=8829 thinking=false format=json_schema prompt_chars=5094 content_chars=0 reasoning_chars=700 selected=reasoning_content finish=stop prompt_tokens=2321 completion_tokens=350 total_tokens=2671
+llm.done schema=agent_compile_groups elapsed_ms=4955 thinking=false format=json_schema prompt_chars=2847 content_chars=0 reasoning_chars=309 selected=reasoning_content finish=stop prompt_tokens=1368 completion_tokens=179 total_tokens=1547
+llm.done schema=agent_compile_groups elapsed_ms=13621 thinking=false format=json_schema prompt_chars=6880 content_chars=0 reasoning_chars=953 selected=reasoning_content finish=stop prompt_tokens=3229 completion_tokens=568 total_tokens=3797
+llm.done schema=agent_compile_groups elapsed_ms=9876 thinking=false format=json_schema prompt_chars=6005 content_chars=0 reasoning_chars=707 selected=reasoning_content finish=stop prompt_tokens=2835 completion_tokens=383 total_tokens=3218
+llm.done schema=agent_compile_groups elapsed_ms=4475 thinking=false format=json_schema prompt_chars=3212 content_chars=0 reasoning_chars=305 selected=reasoning_content finish=stop prompt_tokens=1553 completion_tokens=150 total_tokens=1703
+llm.done schema=agent_compile_groups elapsed_ms=6587 thinking=false format=json_schema prompt_chars=6074 content_chars=0 reasoning_chars=315 selected=reasoning_content finish=stop prompt_tokens=2885 completion_tokens=171 total_tokens=3056
+llm.done schema=agent_compile_groups elapsed_ms=3365 thinking=false format=json_schema prompt_chars=6512 content_chars=0 reasoning_chars=315 selected=reasoning_content finish=stop prompt_tokens=3099 completion_tokens=171 total_tokens=3270
+llm.done schema=agent_compile_groups elapsed_ms=8028 thinking=false format=json_schema prompt_chars=5823 content_chars=0 reasoning_chars=566 selected=reasoning_content finish=stop prompt_tokens=2686 completion_tokens=310 total_tokens=2996
+llm.done schema=agent_compile_groups elapsed_ms=8236 thinking=false format=json_schema prompt_chars=4109 content_chars=0 reasoning_chars=598 selected=reasoning_content finish=stop prompt_tokens=1898 completion_tokens=311 total_tokens=2209
+llm.done schema=agent_compile_groups elapsed_ms=6158 thinking=false format=json_schema prompt_chars=3753 content_chars=0 reasoning_chars=297 selected=reasoning_content finish=stop prompt_tokens=1781 completion_tokens=166 total_tokens=1947
+llm.done schema=agent_compile_groups elapsed_ms=6174 thinking=false format=json_schema prompt_chars=4158 content_chars=0 reasoning_chars=507 selected=reasoning_content finish=stop prompt_tokens=1997 completion_tokens=275 total_tokens=2272
+llm.done schema=agent_compile_groups elapsed_ms=6689 thinking=false format=json_schema prompt_chars=4592 content_chars=0 reasoning_chars=364 selected=reasoning_content finish=stop prompt_tokens=2211 completion_tokens=201 total_tokens=2412
+llm.done schema=agent_compile_groups elapsed_ms=6826 thinking=false format=json_schema prompt_chars=5064 content_chars=0 reasoning_chars=623 selected=reasoning_content finish=stop prompt_tokens=2463 completion_tokens=331 total_tokens=2794
+llm.done schema=agent_compile_groups elapsed_ms=4841 thinking=false format=json_schema prompt_chars=2875 content_chars=0 reasoning_chars=318 selected=reasoning_content finish=stop prompt_tokens=1322 completion_tokens=163 total_tokens=1485
+llm.done schema=agent_compile_groups elapsed_ms=15537 thinking=false format=json_schema prompt_chars=5368 content_chars=0 reasoning_chars=1258 selected=reasoning_content finish=stop prompt_tokens=2538 completion_tokens=727 total_tokens=3265
+llm.done schema=agent_compile_groups elapsed_ms=3470 thinking=false format=json_schema prompt_chars=2424 content_chars=0 reasoning_chars=262 selected=reasoning_content finish=stop prompt_tokens=1124 completion_tokens=131 total_tokens=1255
+llm.done schema=agent_compile_groups elapsed_ms=17858 thinking=false format=json_schema prompt_chars=5394 content_chars=0 reasoning_chars=1704 selected=reasoning_content finish=stop prompt_tokens=2496 completion_tokens=931 total_tokens=3427
+llm.done schema=agent_compile_groups elapsed_ms=10260 thinking=false format=json_schema prompt_chars=5183 content_chars=0 reasoning_chars=888 selected=reasoning_content finish=stop prompt_tokens=2387 completion_tokens=466 total_tokens=2853
+llm.done schema=agent_compile_groups elapsed_ms=3527 thinking=false format=json_schema prompt_chars=2933 content_chars=0 reasoning_chars=244 selected=reasoning_content finish=stop prompt_tokens=1391 completion_tokens=122 total_tokens=1513
+llm.done schema=agent_compile_groups elapsed_ms=6123 thinking=false format=json_schema prompt_chars=3797 content_chars=0 reasoning_chars=497 selected=reasoning_content finish=stop prompt_tokens=1791 completion_tokens=253 total_tokens=2044
+llm.done schema=agent_compile_groups elapsed_ms=13519 thinking=false format=json_schema prompt_chars=5248 content_chars=0 reasoning_chars=1170 selected=reasoning_content finish=stop prompt_tokens=2387 completion_tokens=660 total_tokens=3047
+llm.done schema=agent_compile_groups elapsed_ms=13158 thinking=false format=json_schema prompt_chars=6541 content_chars=0 reasoning_chars=1170 selected=reasoning_content finish=stop prompt_tokens=3090 completion_tokens=660 total_tokens=3750
+llm.done schema=agent_compile_groups elapsed_ms=4547 thinking=false format=json_schema prompt_chars=2896 content_chars=0 reasoning_chars=298 selected=reasoning_content finish=stop prompt_tokens=1345 completion_tokens=148 total_tokens=1493
+llm.done schema=agent_compile_groups elapsed_ms=3876 thinking=false format=json_schema prompt_chars=2856 content_chars=0 reasoning_chars=213 selected=reasoning_content finish=stop prompt_tokens=1379 completion_tokens=113 total_tokens=1492
+llm.done schema=agent_compile_groups elapsed_ms=4749 thinking=false format=json_schema prompt_chars=2908 content_chars=0 reasoning_chars=336 selected=reasoning_content finish=stop prompt_tokens=1356 completion_tokens=165 total_tokens=1521
+llm.done schema=agent_compile_groups elapsed_ms=10555 thinking=false format=json_schema prompt_chars=5604 content_chars=0 reasoning_chars=708 selected=reasoning_content finish=stop prompt_tokens=2656 completion_tokens=396 total_tokens=3052
+llm.done schema=agent_compile_groups elapsed_ms=7369 thinking=false format=json_schema prompt_chars=4985 content_chars=0 reasoning_chars=410 selected=reasoning_content finish=stop prompt_tokens=2296 completion_tokens=243 total_tokens=2539
+llm.done schema=agent_compile_groups elapsed_ms=10871 thinking=false format=json_schema prompt_chars=5497 content_chars=0 reasoning_chars=727 selected=reasoning_content finish=stop prompt_tokens=2646 completion_tokens=408 total_tokens=3054
+llm.done schema=agent_compile_groups elapsed_ms=8102 thinking=false format=json_schema prompt_chars=6353 content_chars=0 reasoning_chars=727 selected=reasoning_content finish=stop prompt_tokens=3096 completion_tokens=408 total_tokens=3504
+llm.done schema=agent_compile_groups elapsed_ms=9961 thinking=false format=json_schema prompt_chars=5501 content_chars=0 reasoning_chars=690 selected=reasoning_content finish=stop prompt_tokens=2521 completion_tokens=367 total_tokens=2888
+llm.done schema=agent_compile_groups elapsed_ms=4672 thinking=false format=json_schema prompt_chars=6314 content_chars=0 reasoning_chars=368 selected=reasoning_content finish=stop prompt_tokens=2932 completion_tokens=194 total_tokens=3126
+llm.done schema=agent_compile_groups elapsed_ms=11322 thinking=false format=json_schema prompt_chars=5035 content_chars=0 reasoning_chars=822 selected=reasoning_content finish=stop prompt_tokens=2332 completion_tokens=465 total_tokens=2797
+llm.done schema=agent_compile_groups elapsed_ms=9012 thinking=false format=json_schema prompt_chars=5986 content_chars=0 reasoning_chars=822 selected=reasoning_content finish=stop prompt_tokens=2839 completion_tokens=465 total_tokens=3304
+llm.done schema=agent_compile_groups elapsed_ms=7224 thinking=false format=json_schema prompt_chars=4988 content_chars=0 reasoning_chars=474 selected=reasoning_content finish=stop prompt_tokens=2316 completion_tokens=231 total_tokens=2547
+llm.done schema=agent_compile_groups elapsed_ms=4556 thinking=false format=json_schema prompt_chars=3109 content_chars=0 reasoning_chars=258 selected=reasoning_content finish=stop prompt_tokens=1521 completion_tokens=132 total_tokens=1653
+llm.done schema=agent_compile_groups elapsed_ms=4333 thinking=false format=json_schema prompt_chars=2847 content_chars=0 reasoning_chars=288 selected=reasoning_content finish=stop prompt_tokens=1343 completion_tokens=139 total_tokens=1482
+llm.done schema=agent_compile_groups elapsed_ms=4817 thinking=false format=json_schema prompt_chars=2705 content_chars=0 reasoning_chars=315 selected=reasoning_content finish=stop prompt_tokens=1261 completion_tokens=163 total_tokens=1424
+llm.done schema=agent_compile_groups elapsed_ms=12558 thinking=false format=json_schema prompt_chars=7337 content_chars=0 reasoning_chars=843 selected=reasoning_content finish=stop prompt_tokens=3384 completion_tokens=446 total_tokens=3830
+llm.done schema=agent_compile_groups elapsed_ms=12543 thinking=false format=json_schema prompt_chars=7094 content_chars=0 reasoning_chars=891 selected=reasoning_content finish=stop prompt_tokens=3294 completion_tokens=447 total_tokens=3741
+llm.done schema=agent_compile_groups elapsed_ms=8778 thinking=false format=json_schema prompt_chars=5375 content_chars=0 reasoning_chars=603 selected=reasoning_content finish=stop prompt_tokens=2507 completion_tokens=291 total_tokens=2798
+llm.done schema=agent_compile_groups elapsed_ms=9701 thinking=false format=json_schema prompt_chars=5793 content_chars=0 reasoning_chars=625 selected=reasoning_content finish=stop prompt_tokens=2692 completion_tokens=333 total_tokens=3025
+llm.done schema=agent_compile_groups elapsed_ms=5151 thinking=false format=json_schema prompt_chars=4479 content_chars=0 reasoning_chars=260 selected=reasoning_content finish=stop prompt_tokens=2082 completion_tokens=129 total_tokens=2211
+llm.done schema=agent_compile_groups elapsed_ms=4984 thinking=false format=json_schema prompt_chars=4847 content_chars=0 reasoning_chars=511 selected=reasoning_content finish=stop prompt_tokens=2262 completion_tokens=249 total_tokens=2511
+llm.done schema=agent_compile_groups elapsed_ms=9503 thinking=false format=json_schema prompt_chars=6569 content_chars=0 reasoning_chars=532 selected=reasoning_content finish=stop prompt_tokens=3047 completion_tokens=290 total_tokens=3337
+llm.done schema=agent_compile_groups elapsed_ms=4156 thinking=false format=json_schema prompt_chars=2762 content_chars=0 reasoning_chars=261 selected=reasoning_content finish=stop prompt_tokens=1297 completion_tokens=134 total_tokens=1431
+llm.done schema=agent_compile_groups elapsed_ms=9149 thinking=false format=json_schema prompt_chars=5307 content_chars=0 reasoning_chars=580 selected=reasoning_content finish=stop prompt_tokens=2513 completion_tokens=303 total_tokens=2816
+llm.done schema=agent_compile_groups elapsed_ms=3724 thinking=false format=json_schema prompt_chars=6010 content_chars=0 reasoning_chars=285 selected=reasoning_content finish=stop prompt_tokens=2859 completion_tokens=148 total_tokens=3007
+llm.done schema=agent_compile_groups elapsed_ms=8383 thinking=false format=json_schema prompt_chars=5550 content_chars=0 reasoning_chars=496 selected=reasoning_content finish=stop prompt_tokens=2545 completion_tokens=261 total_tokens=2806
+agent.compile.start group=evidence-0dc054af8da0 position=1/332 refs=1
+llm.done schema=concept_draft elapsed_ms=4501 thinking=false format=json_schema prompt_chars=1364 content_chars=0 reasoning_chars=393 selected=reasoning_content finish=stop prompt_tokens=677 completion_tokens=185 total_tokens=862
+llm.done schema=agent_quality_audit elapsed_ms=2117 thinking=false format=json_schema prompt_chars=1987 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=966 completion_tokens=27 total_tokens=993
+agent.compile.start group=evidence-f4b917d5cc03 position=2/332 refs=1
+llm.done schema=concept_draft elapsed_ms=4732 thinking=false format=json_schema prompt_chars=1350 content_chars=0 reasoning_chars=381 selected=reasoning_content finish=stop prompt_tokens=692 completion_tokens=200 total_tokens=892
+llm.done schema=agent_quality_audit elapsed_ms=2172 thinking=false format=json_schema prompt_chars=1917 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=972 completion_tokens=27 total_tokens=999
+agent.compile.start group=proposition-0479c96775ac position=3/332 refs=1
+llm.done schema=concept_draft elapsed_ms=50571 thinking=false format=json_schema prompt_chars=23428 content_chars=0 reasoning_chars=2498 selected=reasoning_content finish=stop prompt_tokens=14281 completion_tokens=1383 total_tokens=15664
+llm.done schema=agent_quality_audit elapsed_ms=29995 thinking=false format=json_schema prompt_chars=29460 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=17847 completion_tokens=27 total_tokens=17874
+agent.compile.start group=proposition-074dc85e74c6 position=4/332 refs=2
+llm.done schema=concept_draft elapsed_ms=39302 thinking=false format=json_schema prompt_chars=27318 content_chars=0 reasoning_chars=1389 selected=reasoning_content finish=stop prompt_tokens=14877 completion_tokens=731 total_tokens=15608
+llm.done schema=agent_quality_audit elapsed_ms=31993 thinking=false format=json_schema prompt_chars=33640 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=18545 completion_tokens=27 total_tokens=18572
+agent.compile.start group=proposition-119678b32d8f position=5/332 refs=1
+llm.done schema=concept_draft elapsed_ms=14082 thinking=false format=json_schema prompt_chars=2782 content_chars=0 reasoning_chars=1272 selected=reasoning_content finish=stop prompt_tokens=1459 completion_tokens=640 total_tokens=2099
+llm.done schema=agent_quality_audit elapsed_ms=4564 thinking=false format=json_schema prompt_chars=4756 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2529 completion_tokens=27 total_tokens=2556
+agent.compile.start group=proposition-18e797566a6f position=6/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8766 thinking=false format=json_schema prompt_chars=2059 content_chars=0 reasoning_chars=836 selected=reasoning_content finish=stop prompt_tokens=992 completion_tokens=381 total_tokens=1373
+llm.done schema=agent_quality_audit elapsed_ms=2949 thinking=false format=json_schema prompt_chars=3287 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1576 completion_tokens=27 total_tokens=1603
+agent.compile.start group=proposition-1e74b5b9b331 position=7/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5606 thinking=false format=json_schema prompt_chars=1319 content_chars=0 reasoning_chars=440 selected=reasoning_content finish=stop prompt_tokens=667 completion_tokens=226 total_tokens=893
+llm.done schema=agent_quality_audit elapsed_ms=2273 thinking=false format=json_schema prompt_chars=1933 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=969 completion_tokens=27 total_tokens=996
+agent.compile.start group=proposition-27377a4b257b position=8/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5656 thinking=false format=json_schema prompt_chars=1331 content_chars=0 reasoning_chars=502 selected=reasoning_content finish=stop prompt_tokens=662 completion_tokens=241 total_tokens=903
+llm.done schema=agent_quality_audit elapsed_ms=2158 thinking=false format=json_schema prompt_chars=2109 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1038 completion_tokens=27 total_tokens=1065
+agent.compile.start group=proposition-409d61df4f02 position=9/332 refs=1
+llm.done schema=concept_draft elapsed_ms=21158 thinking=false format=json_schema prompt_chars=5611 content_chars=0 reasoning_chars=1742 selected=reasoning_content finish=stop prompt_tokens=2940 completion_tokens=873 total_tokens=3813
+llm.done schema=agent_quality_audit elapsed_ms=6863 thinking=false format=json_schema prompt_chars=7702 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4046 completion_tokens=27 total_tokens=4073
+agent.compile.start group=proposition-4137bc2a9114 position=10/332 refs=2
+llm.done schema=concept_draft elapsed_ms=14629 thinking=false format=json_schema prompt_chars=8052 content_chars=0 reasoning_chars=831 selected=reasoning_content finish=stop prompt_tokens=4180 completion_tokens=417 total_tokens=4597
+llm.done schema=agent_quality_audit elapsed_ms=9347 thinking=false format=json_schema prompt_chars=10767 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=5602 completion_tokens=27 total_tokens=5629
+agent.compile.start group=proposition-4c19f8848dea position=11/332 refs=1
+llm.done schema=concept_draft elapsed_ms=29623 thinking=false format=json_schema prompt_chars=15099 content_chars=0 reasoning_chars=1649 selected=reasoning_content finish=stop prompt_tokens=8242 completion_tokens=829 total_tokens=9071
+llm.done schema=agent_quality_audit elapsed_ms=18249 thinking=false format=json_schema prompt_chars=19800 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=10891 completion_tokens=27 total_tokens=10918
+agent.compile.start group=proposition-4d3f52db9752 position=12/332 refs=2
+llm.done schema=concept_draft elapsed_ms=19873 thinking=false format=json_schema prompt_chars=13651 content_chars=0 reasoning_chars=770 selected=reasoning_content finish=stop prompt_tokens=7296 completion_tokens=410 total_tokens=7706
+llm.done schema=agent_quality_audit elapsed_ms=15623 thinking=false format=json_schema prompt_chars=17192 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=9274 completion_tokens=27 total_tokens=9301
+agent.compile.start group=proposition-577b3ef646bd position=13/332 refs=1
+llm.done schema=concept_draft elapsed_ms=4371 thinking=false format=json_schema prompt_chars=1372 content_chars=0 reasoning_chars=372 selected=reasoning_content finish=stop prompt_tokens=669 completion_tokens=162 total_tokens=831
+llm.done schema=agent_quality_audit elapsed_ms=2240 thinking=false format=json_schema prompt_chars=1953 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=924 completion_tokens=27 total_tokens=951
+agent.compile.start group=proposition-59a7a74afc89 position=14/332 refs=1
+llm.done schema=concept_draft elapsed_ms=21033 thinking=false format=json_schema prompt_chars=9982 content_chars=0 reasoning_chars=1220 selected=reasoning_content finish=stop prompt_tokens=5358 completion_tokens=644 total_tokens=6002
+llm.done schema=agent_quality_audit elapsed_ms=11817 thinking=false format=json_schema prompt_chars=12239 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=6636 completion_tokens=27 total_tokens=6663
+agent.compile.start group=proposition-5b694b506d23 position=15/332 refs=1
+llm.done schema=concept_draft elapsed_ms=17128 thinking=false format=json_schema prompt_chars=4492 content_chars=0 reasoning_chars=1321 selected=reasoning_content finish=stop prompt_tokens=2385 completion_tokens=697 total_tokens=3082
+llm.done schema=agent_quality_audit elapsed_ms=6812 thinking=false format=json_schema prompt_chars=6637 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3573 completion_tokens=27 total_tokens=3600
+agent.compile.start group=proposition-7e4a36a43afc position=16/332 refs=2
+llm.done schema=concept_draft elapsed_ms=9526 thinking=false format=json_schema prompt_chars=2180 content_chars=0 reasoning_chars=759 selected=reasoning_content finish=stop prompt_tokens=1130 completion_tokens=403 total_tokens=1533
+llm.done schema=agent_quality_audit elapsed_ms=4015 thinking=false format=json_schema prompt_chars=4157 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2154 completion_tokens=27 total_tokens=2181
+agent.compile.start group=proposition-82d79e510854 position=17/332 refs=1
+llm.done schema=concept_draft elapsed_ms=35325 thinking=false format=json_schema prompt_chars=13838 content_chars=0 reasoning_chars=2041 selected=reasoning_content finish=stop prompt_tokens=7402 completion_tokens=1053 total_tokens=8455
+llm.done schema=agent_quality_audit elapsed_ms=19743 thinking=false format=json_schema prompt_chars=17652 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=9568 completion_tokens=27 total_tokens=9595
+agent.compile.start group=proposition-976c64e613ec position=18/332 refs=2
+llm.done schema=concept_draft elapsed_ms=65173 thinking=false format=json_schema prompt_chars=22564 content_chars=0 reasoning_chars=3013 selected=reasoning_content finish=stop prompt_tokens=12156 completion_tokens=1763 total_tokens=13919
+llm.done schema=agent_quality_audit elapsed_ms=39020 thinking=false format=json_schema prompt_chars=30473 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=16740 completion_tokens=27 total_tokens=16767
+agent.compile.start group=proposition-a86f8ad36ae6 position=19/332 refs=2
+llm.done schema=concept_draft elapsed_ms=17657 thinking=false format=json_schema prompt_chars=3174 content_chars=0 reasoning_chars=1275 selected=reasoning_content finish=stop prompt_tokens=1635 completion_tokens=689 total_tokens=2324
+llm.done schema=agent_quality_audit elapsed_ms=7199 thinking=false format=json_schema prompt_chars=6052 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3162 completion_tokens=27 total_tokens=3189
+agent.compile.start group=proposition-b7a2480c9802 position=20/332 refs=1
+llm.done schema=concept_draft elapsed_ms=35469 thinking=false format=json_schema prompt_chars=14449 content_chars=0 reasoning_chars=1670 selected=reasoning_content finish=stop prompt_tokens=7941 completion_tokens=876 total_tokens=8817
+llm.done schema=agent_quality_audit elapsed_ms=22552 thinking=false format=json_schema prompt_chars=18350 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=10163 completion_tokens=27 total_tokens=10190
+agent.compile.start group=proposition-bd853dfef4f0 position=21/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6476 thinking=false format=json_schema prompt_chars=1425 content_chars=0 reasoning_chars=549 selected=reasoning_content finish=stop prompt_tokens=713 completion_tokens=265 total_tokens=978
+llm.done schema=agent_quality_audit elapsed_ms=2395 thinking=false format=json_schema prompt_chars=2153 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1056 completion_tokens=27 total_tokens=1083
+agent.compile.start group=proposition-bed62f615ae8 position=22/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6879 thinking=false format=json_schema prompt_chars=1388 content_chars=0 reasoning_chars=510 selected=reasoning_content finish=stop prompt_tokens=722 completion_tokens=289 total_tokens=1011
+llm.done schema=agent_quality_audit elapsed_ms=2473 thinking=false format=json_schema prompt_chars=2082 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1106 completion_tokens=27 total_tokens=1133
+agent.compile.start group=proposition-cb78825bc5a3 position=23/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10047 thinking=false format=json_schema prompt_chars=1829 content_chars=0 reasoning_chars=877 selected=reasoning_content finish=stop prompt_tokens=926 completion_tokens=435 total_tokens=1361
+llm.done schema=agent_quality_audit elapsed_ms=3169 thinking=false format=json_schema prompt_chars=2982 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1491 completion_tokens=27 total_tokens=1518
+agent.compile.start group=proposition-d831f773f551 position=24/332 refs=2
+llm.done schema=concept_draft elapsed_ms=26481 thinking=false format=json_schema prompt_chars=8502 content_chars=0 reasoning_chars=1793 selected=reasoning_content finish=stop prompt_tokens=4603 completion_tokens=944 total_tokens=5547
+llm.done schema=agent_quality_audit elapsed_ms=11249 thinking=false format=json_schema prompt_chars=11886 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=6434 completion_tokens=27 total_tokens=6461
+agent.compile.start group=proposition-d9a43cd6e479 position=25/332 refs=1
+llm.done schema=concept_draft elapsed_ms=21516 thinking=false format=json_schema prompt_chars=2679 content_chars=0 reasoning_chars=1835 selected=reasoning_content finish=stop prompt_tokens=1445 completion_tokens=994 total_tokens=2439
+llm.done schema=agent_quality_audit elapsed_ms=4963 thinking=false format=json_schema prompt_chars=4921 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2668 completion_tokens=27 total_tokens=2695
+agent.compile.start group=proposition-decc0d627d72 position=26/332 refs=1
+llm.done schema=concept_draft elapsed_ms=26421 thinking=false format=json_schema prompt_chars=8915 content_chars=0 reasoning_chars=1896 selected=reasoning_content finish=stop prompt_tokens=4740 completion_tokens=925 total_tokens=5665
+llm.done schema=agent_quality_audit elapsed_ms=14168 thinking=false format=json_schema prompt_chars=14023 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=7597 completion_tokens=27 total_tokens=7624
+agent.compile.start group=proposition-df609c7c006a position=27/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5631 thinking=false format=json_schema prompt_chars=1360 content_chars=0 reasoning_chars=397 selected=reasoning_content finish=stop prompt_tokens=708 completion_tokens=211 total_tokens=919
+llm.done schema=agent_quality_audit elapsed_ms=2658 thinking=false format=json_schema prompt_chars=1932 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1009 completion_tokens=27 total_tokens=1036
+agent.compile.start group=proposition-efbb74c790a7 position=28/332 refs=1
+llm.done schema=concept_draft elapsed_ms=24620 thinking=false format=json_schema prompt_chars=10697 content_chars=0 reasoning_chars=1400 selected=reasoning_content finish=stop prompt_tokens=5880 completion_tokens=698 total_tokens=6578
+llm.done schema=agent_quality_audit elapsed_ms=13347 thinking=false format=json_schema prompt_chars=13909 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=7653 completion_tokens=27 total_tokens=7680
+agent.compile.start group=proposition-f758b38785b8 position=29/332 refs=2
+llm.done schema=concept_draft elapsed_ms=29954 thinking=false format=json_schema prompt_chars=6452 content_chars=0 reasoning_chars=2278 selected=reasoning_content finish=stop prompt_tokens=3531 completion_tokens=1224 total_tokens=4755
+llm.done schema=agent_quality_audit elapsed_ms=11587 thinking=false format=json_schema prompt_chars=10807 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=5985 completion_tokens=27 total_tokens=6012
+agent.compile.start group=proposition-f8b453b0a036 position=30/332 refs=1
+llm.done schema=concept_draft elapsed_ms=14533 thinking=false format=json_schema prompt_chars=2975 content_chars=0 reasoning_chars=1193 selected=reasoning_content finish=stop prompt_tokens=1530 completion_tokens=585 total_tokens=2115
+llm.done schema=agent_quality_audit elapsed_ms=5356 thinking=false format=json_schema prompt_chars=5001 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2652 completion_tokens=27 total_tokens=2679
+agent.compile.start group=proposition-f9d20f34d17f position=31/332 refs=1
+llm.done schema=concept_draft elapsed_ms=20402 thinking=false format=json_schema prompt_chars=3824 content_chars=0 reasoning_chars=1767 selected=reasoning_content finish=stop prompt_tokens=1970 completion_tokens=851 total_tokens=2821
+llm.done schema=agent_quality_audit elapsed_ms=6452 thinking=false format=json_schema prompt_chars=6090 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3149 completion_tokens=27 total_tokens=3176
+agent.compile.start group=topic-00c88c64afd2 position=32/332 refs=1
+llm.done schema=concept_draft elapsed_ms=11227 thinking=false format=json_schema prompt_chars=2009 content_chars=0 reasoning_chars=802 selected=reasoning_content finish=stop prompt_tokens=1089 completion_tokens=442 total_tokens=1531
+llm.done schema=agent_quality_audit elapsed_ms=4679 thinking=false format=json_schema prompt_chars=3028 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1657 completion_tokens=27 total_tokens=1684
+agent.compile.start group=topic-0135fb88c882 position=33/332 refs=2
+llm.done schema=concept_draft elapsed_ms=41751 thinking=false format=json_schema prompt_chars=4822 content_chars=0 reasoning_chars=3809 selected=reasoning_content finish=stop prompt_tokens=2451 completion_tokens=1866 total_tokens=4317
+llm.done schema=agent_quality_audit elapsed_ms=9284 thinking=false format=json_schema prompt_chars=9941 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=5050 completion_tokens=27 total_tokens=5077
+agent.compile.start group=topic-02566d777f55 position=34/332 refs=2
+llm.done schema=concept_draft elapsed_ms=73497 thinking=false format=json_schema prompt_chars=40691 content_chars=0 reasoning_chars=2234 selected=reasoning_content finish=stop prompt_tokens=24037 completion_tokens=1339 total_tokens=25376
+llm.done schema=agent_quality_audit elapsed_ms=58995 thinking=false format=json_schema prompt_chars=51024 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=30197 completion_tokens=27 total_tokens=30224
+agent.compile.start group=topic-029a4f5913c2 position=35/332 refs=2
+llm.done schema=concept_draft elapsed_ms=22241 thinking=false format=json_schema prompt_chars=12203 content_chars=0 reasoning_chars=1006 selected=reasoning_content finish=stop prompt_tokens=6768 completion_tokens=543 total_tokens=7311
+llm.done schema=agent_quality_audit elapsed_ms=14518 thinking=false format=json_schema prompt_chars=16839 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=9461 completion_tokens=27 total_tokens=9488
+agent.compile.start group=topic-02d1afc6c257 position=36/332 refs=1
+llm.done schema=concept_draft elapsed_ms=51832 thinking=false format=json_schema prompt_chars=10410 content_chars=0 reasoning_chars=4558 selected=reasoning_content finish=stop prompt_tokens=5852 completion_tokens=2421 total_tokens=8273
+llm.done schema=agent_quality_audit elapsed_ms=14576 thinking=false format=json_schema prompt_chars=16497 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=9265 completion_tokens=27 total_tokens=9292
+agent.compile.start group=topic-0350943d6cdc position=37/332 refs=2
+llm.done schema=concept_draft elapsed_ms=9799 thinking=false format=json_schema prompt_chars=2886 content_chars=0 reasoning_chars=845 selected=reasoning_content finish=stop prompt_tokens=1563 completion_tokens=438 total_tokens=2001
+llm.done schema=agent_quality_audit elapsed_ms=4825 thinking=false format=json_schema prompt_chars=4897 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2610 completion_tokens=27 total_tokens=2637
+agent.compile.start group=topic-044fc4861e92 position=38/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8544 thinking=false format=json_schema prompt_chars=1671 content_chars=0 reasoning_chars=757 selected=reasoning_content finish=stop prompt_tokens=864 completion_tokens=403 total_tokens=1267
+llm.done schema=agent_quality_audit elapsed_ms=2643 thinking=false format=json_schema prompt_chars=2859 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1469 completion_tokens=27 total_tokens=1496
+agent.compile.start group=topic-0648ec19a529 position=39/332 refs=1
+llm.done schema=concept_draft elapsed_ms=12183 thinking=false format=json_schema prompt_chars=2611 content_chars=0 reasoning_chars=1061 selected=reasoning_content finish=stop prompt_tokens=1442 completion_tokens=582 total_tokens=2024
+llm.done schema=agent_quality_audit elapsed_ms=4949 thinking=false format=json_schema prompt_chars=4558 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2551 completion_tokens=27 total_tokens=2578
+agent.compile.start group=topic-085400f9f7ce position=40/332 refs=1
+llm.done schema=concept_draft elapsed_ms=19018 thinking=false format=json_schema prompt_chars=9567 content_chars=0 reasoning_chars=957 selected=reasoning_content finish=stop prompt_tokens=5619 completion_tokens=535 total_tokens=6154
+llm.done schema=agent_quality_audit elapsed_ms=11744 thinking=false format=json_schema prompt_chars=12552 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=7402 completion_tokens=27 total_tokens=7429
+agent.compile.start group=topic-08771260e6fe position=41/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8490 thinking=false format=json_schema prompt_chars=1484 content_chars=0 reasoning_chars=811 selected=reasoning_content finish=stop prompt_tokens=728 completion_tokens=391 total_tokens=1119
+llm.done schema=agent_quality_audit elapsed_ms=2305 thinking=false format=json_schema prompt_chars=2384 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1161 completion_tokens=27 total_tokens=1188
+agent.compile.start group=topic-09409c522f14 position=42/332 refs=1
+llm.done schema=concept_draft elapsed_ms=16893 thinking=false format=json_schema prompt_chars=9066 content_chars=0 reasoning_chars=904 selected=reasoning_content finish=stop prompt_tokens=5287 completion_tokens=524 total_tokens=5811
+llm.done schema=agent_quality_audit elapsed_ms=10869 thinking=false format=json_schema prompt_chars=12222 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=7208 completion_tokens=27 total_tokens=7235
+agent.compile.start group=topic-0a84af39daa9 position=43/332 refs=2
+llm.done schema=concept_draft elapsed_ms=12817 thinking=false format=json_schema prompt_chars=2576 content_chars=0 reasoning_chars=1069 selected=reasoning_content finish=stop prompt_tokens=1426 completion_tokens=616 total_tokens=2042
+llm.done schema=agent_quality_audit elapsed_ms=4851 thinking=false format=json_schema prompt_chars=5066 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2846 completion_tokens=27 total_tokens=2873
+agent.compile.start group=topic-0b4d4101385e position=44/332 refs=1
+llm.done schema=concept_draft elapsed_ms=17575 thinking=false format=json_schema prompt_chars=3638 content_chars=0 reasoning_chars=1604 selected=reasoning_content finish=stop prompt_tokens=1992 completion_tokens=851 total_tokens=2843
+llm.done schema=agent_quality_audit elapsed_ms=5328 thinking=false format=json_schema prompt_chars=6475 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3456 completion_tokens=27 total_tokens=3483
+agent.compile.start group=topic-0cb9b7157841 position=45/332 refs=1
+llm.done schema=concept_draft elapsed_ms=21174 thinking=false format=json_schema prompt_chars=4811 content_chars=0 reasoning_chars=1933 selected=reasoning_content finish=stop prompt_tokens=2607 completion_tokens=1012 total_tokens=3619
+llm.done schema=agent_quality_audit elapsed_ms=6804 thinking=false format=json_schema prompt_chars=7813 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4324 completion_tokens=27 total_tokens=4351
+agent.compile.start group=topic-0dfd3bca8a42 position=46/332 refs=1
+llm.done schema=concept_draft elapsed_ms=3198 thinking=false format=json_schema prompt_chars=1206 content_chars=0 reasoning_chars=289 selected=reasoning_content finish=stop prompt_tokens=582 completion_tokens=118 total_tokens=700
+llm.done schema=agent_quality_audit elapsed_ms=1871 thinking=false format=json_schema prompt_chars=1577 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=741 completion_tokens=27 total_tokens=768
+agent.compile.start group=topic-0e3f2a11419b position=47/332 refs=1
+llm.done schema=concept_draft elapsed_ms=4512 thinking=false format=json_schema prompt_chars=1412 content_chars=0 reasoning_chars=457 selected=reasoning_content finish=stop prompt_tokens=668 completion_tokens=191 total_tokens=859
+llm.done schema=agent_quality_audit elapsed_ms=1971 thinking=false format=json_schema prompt_chars=1967 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=899 completion_tokens=27 total_tokens=926
+agent.compile.start group=topic-0f080e55f371 position=48/332 refs=2
+llm.done schema=concept_draft elapsed_ms=18752 thinking=false format=json_schema prompt_chars=10268 content_chars=0 reasoning_chars=1190 selected=reasoning_content finish=stop prompt_tokens=5661 completion_tokens=615 total_tokens=6276
+llm.done schema=agent_quality_audit elapsed_ms=12351 thinking=false format=json_schema prompt_chars=14648 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=8117 completion_tokens=27 total_tokens=8144
+agent.compile.start group=topic-102e9ca9c79c position=49/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5246 thinking=false format=json_schema prompt_chars=1256 content_chars=0 reasoning_chars=473 selected=reasoning_content finish=stop prompt_tokens=611 completion_tokens=225 total_tokens=836
+llm.done schema=agent_quality_audit elapsed_ms=2091 thinking=false format=json_schema prompt_chars=1811 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=879 completion_tokens=27 total_tokens=906
+agent.compile.start group=topic-10878f586588 position=50/332 refs=2
+llm.done schema=concept_draft elapsed_ms=12680 thinking=false format=json_schema prompt_chars=5789 content_chars=0 reasoning_chars=882 selected=reasoning_content finish=stop prompt_tokens=3166 completion_tokens=435 total_tokens=3601
+llm.done schema=agent_quality_audit elapsed_ms=7452 thinking=false format=json_schema prompt_chars=8624 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4682 completion_tokens=27 total_tokens=4709
+agent.compile.start group=topic-111bd8d315ae position=51/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10882 thinking=false format=json_schema prompt_chars=1676 content_chars=0 reasoning_chars=1133 selected=reasoning_content finish=stop prompt_tokens=833 completion_tokens=541 total_tokens=1374
+llm.done schema=agent_quality_audit elapsed_ms=2785 thinking=false format=json_schema prompt_chars=3010 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1499 completion_tokens=27 total_tokens=1526
+agent.compile.start group=topic-12012ab65ca7 position=52/332 refs=1
+llm.done schema=concept_draft elapsed_ms=13489 thinking=false format=json_schema prompt_chars=2264 content_chars=0 reasoning_chars=1046 selected=reasoning_content finish=stop prompt_tokens=1263 completion_tokens=612 total_tokens=1875
+llm.done schema=agent_quality_audit elapsed_ms=4853 thinking=false format=json_schema prompt_chars=4344 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2372 completion_tokens=27 total_tokens=2399
+agent.compile.start group=topic-153a0de0e945 position=53/332 refs=1
+llm.done schema=concept_draft elapsed_ms=14232 thinking=false format=json_schema prompt_chars=4932 content_chars=0 reasoning_chars=1036 selected=reasoning_content finish=stop prompt_tokens=2604 completion_tokens=507 total_tokens=3111
+llm.done schema=agent_quality_audit elapsed_ms=7632 thinking=false format=json_schema prompt_chars=6443 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3397 completion_tokens=27 total_tokens=3424
+agent.compile.start group=topic-15601959bb54 position=54/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6309 thinking=false format=json_schema prompt_chars=1386 content_chars=0 reasoning_chars=507 selected=reasoning_content finish=stop prompt_tokens=683 completion_tokens=244 total_tokens=927
+llm.done schema=agent_quality_audit elapsed_ms=2511 thinking=false format=json_schema prompt_chars=1975 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=967 completion_tokens=27 total_tokens=994
+agent.compile.start group=topic-163a8125fa66 position=55/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5914 thinking=false format=json_schema prompt_chars=1312 content_chars=0 reasoning_chars=588 selected=reasoning_content finish=stop prompt_tokens=626 completion_tokens=250 total_tokens=876
+llm.done schema=agent_quality_audit elapsed_ms=2147 thinking=false format=json_schema prompt_chars=1986 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=917 completion_tokens=27 total_tokens=944
+agent.compile.start group=topic-17ab6230f1f8 position=56/332 refs=2
+llm.done schema=concept_draft elapsed_ms=33870 thinking=false format=json_schema prompt_chars=20980 content_chars=0 reasoning_chars=1029 selected=reasoning_content finish=stop prompt_tokens=12641 completion_tokens=601 total_tokens=13242
+llm.done schema=agent_quality_audit elapsed_ms=27710 thinking=false format=json_schema prompt_chars=27372 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=16375 completion_tokens=27 total_tokens=16402
+agent.compile.start group=topic-17d5b1324077 position=57/332 refs=2
+llm.done schema=concept_draft elapsed_ms=20625 thinking=false format=json_schema prompt_chars=5316 content_chars=0 reasoning_chars=1658 selected=reasoning_content finish=stop prompt_tokens=2791 completion_tokens=861 total_tokens=3652
+llm.done schema=agent_quality_audit elapsed_ms=7900 thinking=false format=json_schema prompt_chars=8661 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4547 completion_tokens=27 total_tokens=4574
+agent.compile.start group=topic-1834839d818f position=58/332 refs=1
+llm.done schema=concept_draft elapsed_ms=11502 thinking=false format=json_schema prompt_chars=2049 content_chars=0 reasoning_chars=1020 selected=reasoning_content finish=stop prompt_tokens=1041 completion_tokens=492 total_tokens=1533
+llm.done schema=agent_quality_audit elapsed_ms=3488 thinking=false format=json_schema prompt_chars=3455 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1812 completion_tokens=27 total_tokens=1839
+agent.compile.start group=topic-18f99ee27c25 position=59/332 refs=1
+llm.done schema=concept_draft elapsed_ms=18911 thinking=false format=json_schema prompt_chars=2613 content_chars=0 reasoning_chars=1670 selected=reasoning_content finish=stop prompt_tokens=1413 completion_tokens=900 total_tokens=2313
+llm.done schema=agent_quality_audit elapsed_ms=4587 thinking=false format=json_schema prompt_chars=4593 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2518 completion_tokens=27 total_tokens=2545
+agent.compile.start group=topic-1992c2af15cd position=60/332 refs=2
+llm.done schema=concept_draft elapsed_ms=89783 thinking=false format=json_schema prompt_chars=12355 content_chars=0 reasoning_chars=8007 selected=reasoning_content finish=stop prompt_tokens=6882 completion_tokens=4184 total_tokens=11066
+llm.done schema=agent_quality_audit elapsed_ms=21721 thinking=false format=json_schema prompt_chars=23988 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=13239 completion_tokens=27 total_tokens=13266
+agent.compile.start group=topic-1ba446d547e4 position=61/332 refs=1
+llm.done schema=concept_draft elapsed_ms=13198 thinking=false format=json_schema prompt_chars=3364 content_chars=0 reasoning_chars=1055 selected=reasoning_content finish=stop prompt_tokens=1836 completion_tokens=553 total_tokens=2389
+llm.done schema=agent_quality_audit elapsed_ms=4742 thinking=false format=json_schema prompt_chars=5140 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2788 completion_tokens=27 total_tokens=2815
+agent.compile.start group=topic-1c63045a84a1 position=62/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6974 thinking=false format=json_schema prompt_chars=1456 content_chars=0 reasoning_chars=669 selected=reasoning_content finish=stop prompt_tokens=733 completion_tokens=333 total_tokens=1066
+llm.done schema=agent_quality_audit elapsed_ms=2300 thinking=false format=json_schema prompt_chars=2222 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1114 completion_tokens=27 total_tokens=1141
+agent.compile.start group=topic-1c9538612675 position=63/332 refs=1
+llm.done schema=concept_draft elapsed_ms=13148 thinking=false format=json_schema prompt_chars=2002 content_chars=0 reasoning_chars=1196 selected=reasoning_content finish=stop prompt_tokens=1072 completion_tokens=660 total_tokens=1732
+llm.done schema=agent_quality_audit elapsed_ms=3271 thinking=false format=json_schema prompt_chars=3465 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1893 completion_tokens=27 total_tokens=1920
+agent.compile.start group=topic-1ccd2b0ca71d position=64/332 refs=2
+llm.done schema=concept_draft elapsed_ms=30661 thinking=false format=json_schema prompt_chars=17063 content_chars=0 reasoning_chars=1611 selected=reasoning_content finish=stop prompt_tokens=9883 completion_tokens=822 total_tokens=10705
+llm.done schema=agent_quality_audit elapsed_ms=22070 thinking=false format=json_schema prompt_chars=23063 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=13284 completion_tokens=27 total_tokens=13311
+agent.compile.start group=topic-200755831569 position=65/332 refs=3
+llm.done schema=concept_draft elapsed_ms=14287 thinking=false format=json_schema prompt_chars=3752 content_chars=0 reasoning_chars=1134 selected=reasoning_content finish=stop prompt_tokens=2065 completion_tokens=634 total_tokens=2699
+llm.done schema=agent_quality_audit elapsed_ms=6090 thinking=false format=json_schema prompt_chars=7156 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3911 completion_tokens=27 total_tokens=3938
+agent.compile.start group=topic-2298bb13acb5 position=66/332 refs=2
+llm.done schema=concept_draft elapsed_ms=11107 thinking=false format=json_schema prompt_chars=2937 content_chars=0 reasoning_chars=831 selected=reasoning_content finish=stop prompt_tokens=1633 completion_tokens=476 total_tokens=2109
+llm.done schema=agent_quality_audit elapsed_ms=4950 thinking=false format=json_schema prompt_chars=5523 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2996 completion_tokens=27 total_tokens=3023
+agent.compile.start group=topic-236ef764da46 position=67/332 refs=2
+llm.done schema=concept_draft elapsed_ms=21183 thinking=false format=json_schema prompt_chars=3257 content_chars=0 reasoning_chars=1872 selected=reasoning_content finish=stop prompt_tokens=1815 completion_tokens=1049 total_tokens=2864
+llm.done schema=agent_quality_audit elapsed_ms=5737 thinking=false format=json_schema prompt_chars=6421 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3579 completion_tokens=27 total_tokens=3606
+agent.compile.start group=topic-237cc72956a3 position=68/332 refs=1
+llm.done schema=concept_draft elapsed_ms=9684 thinking=false format=json_schema prompt_chars=1511 content_chars=0 reasoning_chars=982 selected=reasoning_content finish=stop prompt_tokens=746 completion_tokens=468 total_tokens=1214
+llm.done schema=agent_quality_audit elapsed_ms=2359 thinking=false format=json_schema prompt_chars=2621 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1293 completion_tokens=27 total_tokens=1320
+agent.compile.start group=topic-23eb42fcf938 position=69/332 refs=2
+llm.done schema=concept_draft elapsed_ms=10952 thinking=false format=json_schema prompt_chars=3619 content_chars=0 reasoning_chars=835 selected=reasoning_content finish=stop prompt_tokens=2081 completion_tokens=463 total_tokens=2544
+llm.done schema=agent_quality_audit elapsed_ms=5793 thinking=false format=json_schema prompt_chars=5981 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3405 completion_tokens=27 total_tokens=3432
+agent.compile.start group=topic-24217a54f203 position=70/332 refs=2
+llm.done schema=concept_draft elapsed_ms=26402 thinking=false format=json_schema prompt_chars=18497 content_chars=0 reasoning_chars=839 selected=reasoning_content finish=stop prompt_tokens=10591 completion_tokens=403 total_tokens=10994
+llm.done schema=agent_quality_audit elapsed_ms=21893 thinking=false format=json_schema prompt_chars=23230 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=13224 completion_tokens=27 total_tokens=13251
+agent.compile.start group=topic-26d569a415be position=71/332 refs=2
+llm.done schema=concept_draft elapsed_ms=21126 thinking=false format=json_schema prompt_chars=4951 content_chars=0 reasoning_chars=1638 selected=reasoning_content finish=stop prompt_tokens=2755 completion_tokens=932 total_tokens=3687
+llm.done schema=agent_quality_audit elapsed_ms=7960 thinking=false format=json_schema prompt_chars=8507 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4755 completion_tokens=27 total_tokens=4782
+agent.compile.start group=topic-26e7d9cc4287 position=72/332 refs=2
+llm.done schema=concept_draft elapsed_ms=26210 thinking=false format=json_schema prompt_chars=4125 content_chars=0 reasoning_chars=1976 selected=reasoning_content finish=stop prompt_tokens=2435 completion_tokens=1189 total_tokens=3624
+llm.done schema=agent_quality_audit elapsed_ms=7263 thinking=false format=json_schema prompt_chars=7654 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4493 completion_tokens=27 total_tokens=4520
+agent.compile.start group=topic-270c01b744c0 position=73/332 refs=2
+llm.done schema=concept_draft elapsed_ms=53983 thinking=false format=json_schema prompt_chars=16787 content_chars=0 reasoning_chars=3560 selected=reasoning_content finish=stop prompt_tokens=9609 completion_tokens=2032 total_tokens=11641
+llm.done schema=agent_quality_audit elapsed_ms=22098 thinking=false format=json_schema prompt_chars=23690 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=13562 completion_tokens=27 total_tokens=13589
+agent.compile.start group=topic-29765af3e905 position=74/332 refs=2
+llm.done schema=concept_draft elapsed_ms=14673 thinking=false format=json_schema prompt_chars=4684 content_chars=0 reasoning_chars=1076 selected=reasoning_content finish=stop prompt_tokens=2611 completion_tokens=596 total_tokens=3207
+llm.done schema=agent_quality_audit elapsed_ms=7430 thinking=false format=json_schema prompt_chars=7846 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4401 completion_tokens=27 total_tokens=4428
+agent.compile.start group=topic-297c7031f48c position=75/332 refs=1
+llm.done schema=concept_draft elapsed_ms=21903 thinking=false format=json_schema prompt_chars=5549 content_chars=0 reasoning_chars=1853 selected=reasoning_content finish=stop prompt_tokens=3000 completion_tokens=984 total_tokens=3984
+llm.done schema=agent_quality_audit elapsed_ms=7488 thinking=false format=json_schema prompt_chars=8340 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4514 completion_tokens=27 total_tokens=4541
+agent.compile.start group=topic-297cf27c7d6d position=76/332 refs=1
+llm.done schema=concept_draft elapsed_ms=11032 thinking=false format=json_schema prompt_chars=1931 content_chars=0 reasoning_chars=934 selected=reasoning_content finish=stop prompt_tokens=1003 completion_tokens=493 total_tokens=1496
+llm.done schema=agent_quality_audit elapsed_ms=3624 thinking=false format=json_schema prompt_chars=3112 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1642 completion_tokens=27 total_tokens=1669
+agent.compile.start group=topic-29ddebded25f position=77/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8531 thinking=false format=json_schema prompt_chars=1687 content_chars=0 reasoning_chars=660 selected=reasoning_content finish=stop prompt_tokens=860 completion_tokens=337 total_tokens=1197
+llm.done schema=agent_quality_audit elapsed_ms=2903 thinking=false format=json_schema prompt_chars=2416 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1233 completion_tokens=27 total_tokens=1260
+agent.compile.start group=topic-2bbb2912cf73 position=78/332 refs=1
+llm.done schema=concept_draft elapsed_ms=17976 thinking=false format=json_schema prompt_chars=2563 content_chars=0 reasoning_chars=1396 selected=reasoning_content finish=stop prompt_tokens=1435 completion_tokens=805 total_tokens=2240
+llm.done schema=agent_quality_audit elapsed_ms=4596 thinking=false format=json_schema prompt_chars=4276 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2435 completion_tokens=27 total_tokens=2462
+agent.compile.start group=topic-2e6f6398f219 position=79/332 refs=1
+llm.done schema=concept_draft elapsed_ms=7753 thinking=false format=json_schema prompt_chars=1687 content_chars=0 reasoning_chars=743 selected=reasoning_content finish=stop prompt_tokens=832 completion_tokens=355 total_tokens=1187
+llm.done schema=agent_quality_audit elapsed_ms=2582 thinking=false format=json_schema prompt_chars=2553 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1252 completion_tokens=27 total_tokens=1279
+agent.compile.start group=topic-2ff5b81ca39d position=80/332 refs=1
+llm.done schema=concept_draft elapsed_ms=12649 thinking=false format=json_schema prompt_chars=6102 content_chars=0 reasoning_chars=881 selected=reasoning_content finish=stop prompt_tokens=3253 completion_tokens=432 total_tokens=3685
+llm.done schema=agent_quality_audit elapsed_ms=6771 thinking=false format=json_schema prompt_chars=7888 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4214 completion_tokens=27 total_tokens=4241
+agent.compile.start group=topic-30d799b6b34f position=81/332 refs=2
+llm.done schema=concept_draft elapsed_ms=23586 thinking=false format=json_schema prompt_chars=8958 content_chars=0 reasoning_chars=1803 selected=reasoning_content finish=stop prompt_tokens=4652 completion_tokens=958 total_tokens=5610
+llm.done schema=agent_quality_audit elapsed_ms=11052 thinking=false format=json_schema prompt_chars=13443 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=7151 completion_tokens=27 total_tokens=7178
+agent.compile.start group=topic-3122ca33c9f5 position=82/332 refs=1
+llm.done schema=concept_draft elapsed_ms=16950 thinking=false format=json_schema prompt_chars=2774 content_chars=0 reasoning_chars=1254 selected=reasoning_content finish=stop prompt_tokens=1725 completion_tokens=830 total_tokens=2555
+llm.done schema=agent_quality_audit elapsed_ms=4643 thinking=false format=json_schema prompt_chars=4514 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2787 completion_tokens=27 total_tokens=2814
+agent.compile.start group=topic-339afa0201c3 position=83/332 refs=1
+llm.done schema=concept_draft elapsed_ms=9267 thinking=false format=json_schema prompt_chars=1645 content_chars=0 reasoning_chars=777 selected=reasoning_content finish=stop prompt_tokens=859 completion_tokens=434 total_tokens=1293
+llm.done schema=agent_quality_audit elapsed_ms=2819 thinking=false format=json_schema prompt_chars=2863 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1496 completion_tokens=27 total_tokens=1523
+agent.compile.start group=topic-34f245c63dee position=84/332 refs=2
+llm.done schema=concept_draft elapsed_ms=27334 thinking=false format=json_schema prompt_chars=5507 content_chars=0 reasoning_chars=2359 selected=reasoning_content finish=stop prompt_tokens=2968 completion_tokens=1242 total_tokens=4210
+llm.done schema=agent_quality_audit elapsed_ms=7942 thinking=false format=json_schema prompt_chars=9511 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=5169 completion_tokens=27 total_tokens=5196
+agent.compile.start group=topic-36dda40a7672 position=85/332 refs=1
+llm.done schema=concept_draft elapsed_ms=16102 thinking=false format=json_schema prompt_chars=2270 content_chars=0 reasoning_chars=1267 selected=reasoning_content finish=stop prompt_tokens=1236 completion_tokens=723 total_tokens=1959
+llm.done schema=agent_quality_audit elapsed_ms=3639 thinking=false format=json_schema prompt_chars=3863 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2153 completion_tokens=27 total_tokens=2180
+agent.compile.start group=topic-38de82f6f1ba position=86/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10376 thinking=false format=json_schema prompt_chars=2003 content_chars=0 reasoning_chars=892 selected=reasoning_content finish=stop prompt_tokens=1084 completion_tokens=485 total_tokens=1569
+llm.done schema=agent_quality_audit elapsed_ms=3123 thinking=false format=json_schema prompt_chars=3091 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1711 completion_tokens=27 total_tokens=1738
+agent.compile.start group=topic-3a3c4c8cd49c position=87/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10527 thinking=false format=json_schema prompt_chars=2167 content_chars=0 reasoning_chars=879 selected=reasoning_content finish=stop prompt_tokens=1167 completion_tokens=478 total_tokens=1645
+llm.done schema=agent_quality_audit elapsed_ms=3569 thinking=false format=json_schema prompt_chars=3576 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1984 completion_tokens=27 total_tokens=2011
+agent.compile.start group=topic-3a40f03ca2bc position=88/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6446 thinking=false format=json_schema prompt_chars=1521 content_chars=0 reasoning_chars=619 selected=reasoning_content finish=stop prompt_tokens=743 completion_tokens=284 total_tokens=1027
+llm.done schema=agent_quality_audit elapsed_ms=2233 thinking=false format=json_schema prompt_chars=2222 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1064 completion_tokens=27 total_tokens=1091
+agent.compile.start group=topic-3be9eaa59bca position=89/332 refs=1
+llm.done schema=concept_draft elapsed_ms=7184 thinking=false format=json_schema prompt_chars=1548 content_chars=0 reasoning_chars=644 selected=reasoning_content finish=stop prompt_tokens=789 completion_tokens=327 total_tokens=1116
+llm.done schema=agent_quality_audit elapsed_ms=2532 thinking=false format=json_schema prompt_chars=2291 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1167 completion_tokens=27 total_tokens=1194
+agent.compile.start group=topic-3bfe5484e6e0 position=90/332 refs=2
+llm.done schema=concept_draft elapsed_ms=71034 thinking=false format=json_schema prompt_chars=12612 content_chars=0 reasoning_chars=5739 selected=reasoning_content finish=stop prompt_tokens=6768 completion_tokens=3148 total_tokens=9916
+llm.done schema=agent_quality_audit elapsed_ms=20036 thinking=false format=json_schema prompt_chars=20145 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=10955 completion_tokens=27 total_tokens=10982
+agent.compile.start group=topic-3c722a616c71 position=91/332 refs=1
+llm.done schema=concept_draft elapsed_ms=7325 thinking=false format=json_schema prompt_chars=1556 content_chars=0 reasoning_chars=723 selected=reasoning_content finish=stop prompt_tokens=779 completion_tokens=354 total_tokens=1133
+llm.done schema=agent_quality_audit elapsed_ms=2235 thinking=false format=json_schema prompt_chars=2412 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1206 completion_tokens=27 total_tokens=1233
+agent.compile.start group=topic-3cfe218d3164 position=92/332 refs=2
+llm.done schema=concept_draft elapsed_ms=31458 thinking=false format=json_schema prompt_chars=19945 content_chars=0 reasoning_chars=1752 selected=reasoning_content finish=stop prompt_tokens=11455 completion_tokens=994 total_tokens=12449
+llm.done schema=agent_quality_audit elapsed_ms=20963 thinking=false format=json_schema prompt_chars=27463 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=15861 completion_tokens=27 total_tokens=15888
+agent.compile.start group=topic-3d650449095b position=93/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5489 thinking=false format=json_schema prompt_chars=1483 content_chars=0 reasoning_chars=674 selected=reasoning_content finish=stop prompt_tokens=725 completion_tokens=314 total_tokens=1039
+llm.done schema=agent_quality_audit elapsed_ms=1811 thinking=false format=json_schema prompt_chars=2287 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1103 completion_tokens=27 total_tokens=1130
+agent.compile.start group=topic-3e96e0029c18 position=94/332 refs=2
+llm.done schema=concept_draft elapsed_ms=40112 thinking=false format=json_schema prompt_chars=24837 content_chars=0 reasoning_chars=2377 selected=reasoning_content finish=stop prompt_tokens=14223 completion_tokens=1303 total_tokens=15526
+llm.done schema=agent_quality_audit elapsed_ms=27552 thinking=false format=json_schema prompt_chars=33713 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=19434 completion_tokens=27 total_tokens=19461
+agent.compile.start group=topic-3ed03c86cd33 position=95/332 refs=3
+llm.done schema=concept_draft elapsed_ms=30815 thinking=false format=json_schema prompt_chars=20402 content_chars=0 reasoning_chars=1579 selected=reasoning_content finish=stop prompt_tokens=11930 completion_tokens=905 total_tokens=12835
+llm.done schema=agent_quality_audit elapsed_ms=25684 thinking=false format=json_schema prompt_chars=30852 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=18017 completion_tokens=27 total_tokens=18044
+agent.compile.start group=topic-3f7d89850c08 position=96/332 refs=2
+llm.done schema=concept_draft elapsed_ms=18342 thinking=false format=json_schema prompt_chars=11113 content_chars=0 reasoning_chars=1180 selected=reasoning_content finish=stop prompt_tokens=5878 completion_tokens=669 total_tokens=6547
+llm.done schema=agent_quality_audit elapsed_ms=10558 thinking=false format=json_schema prompt_chars=14728 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=7894 completion_tokens=27 total_tokens=7921
+agent.compile.start group=topic-400d59d61b1e position=97/332 refs=3
+llm.done schema=concept_draft elapsed_ms=26696 thinking=false format=json_schema prompt_chars=21264 content_chars=0 reasoning_chars=1255 selected=reasoning_content finish=stop prompt_tokens=11764 completion_tokens=646 total_tokens=12410
+llm.done schema=agent_quality_audit elapsed_ms=21463 thinking=false format=json_schema prompt_chars=27667 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=15215 completion_tokens=27 total_tokens=15242
+agent.compile.start group=topic-408c91e6e279 position=98/332 refs=2
+llm.done schema=concept_draft elapsed_ms=16772 thinking=false format=json_schema prompt_chars=11666 content_chars=0 reasoning_chars=1026 selected=reasoning_content finish=stop prompt_tokens=6634 completion_tokens=511 total_tokens=7145
+llm.done schema=agent_quality_audit elapsed_ms=12091 thinking=false format=json_schema prompt_chars=15639 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=8866 completion_tokens=27 total_tokens=8893
+agent.compile.start group=topic-41786769daff position=99/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8959 thinking=false format=json_schema prompt_chars=1581 content_chars=0 reasoning_chars=985 selected=reasoning_content finish=stop prompt_tokens=808 completion_tokens=525 total_tokens=1333
+llm.done schema=agent_quality_audit elapsed_ms=2323 thinking=false format=json_schema prompt_chars=2661 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1386 completion_tokens=27 total_tokens=1413
+agent.compile.start group=topic-421971597a80 position=100/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6025 thinking=false format=json_schema prompt_chars=1616 content_chars=0 reasoning_chars=672 selected=reasoning_content finish=stop prompt_tokens=808 completion_tokens=333 total_tokens=1141
+llm.done schema=agent_quality_audit elapsed_ms=2070 thinking=false format=json_schema prompt_chars=2430 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1212 completion_tokens=27 total_tokens=1239
+agent.compile.start group=topic-42aae34ef29c position=101/332 refs=1
+llm.done schema=concept_draft elapsed_ms=9826 thinking=false format=json_schema prompt_chars=2793 content_chars=0 reasoning_chars=952 selected=reasoning_content finish=stop prompt_tokens=1536 completion_tokens=514 total_tokens=2050
+llm.done schema=agent_quality_audit elapsed_ms=3734 thinking=false format=json_schema prompt_chars=4316 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2413 completion_tokens=27 total_tokens=2440
+agent.compile.start group=topic-42f17b957085 position=102/332 refs=1
+llm.done schema=concept_draft elapsed_ms=7518 thinking=false format=json_schema prompt_chars=1696 content_chars=0 reasoning_chars=832 selected=reasoning_content finish=stop prompt_tokens=859 completion_tokens=425 total_tokens=1284
+llm.done schema=agent_quality_audit elapsed_ms=2214 thinking=false format=json_schema prompt_chars=2658 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1349 completion_tokens=27 total_tokens=1376
+agent.compile.start group=topic-4392297e234b position=103/332 refs=2
+llm.done schema=concept_draft elapsed_ms=13964 thinking=false format=json_schema prompt_chars=3059 content_chars=0 reasoning_chars=1459 selected=reasoning_content finish=stop prompt_tokens=1669 completion_tokens=801 total_tokens=2470
+llm.done schema=agent_quality_audit elapsed_ms=4628 thinking=false format=json_schema prompt_chars=5927 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3278 completion_tokens=27 total_tokens=3305
+agent.compile.start group=topic-44609e31a7b4 position=104/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8622 thinking=false format=json_schema prompt_chars=2036 content_chars=0 reasoning_chars=935 selected=reasoning_content finish=stop prompt_tokens=1058 completion_tokens=492 total_tokens=1550
+llm.done schema=agent_quality_audit elapsed_ms=2656 thinking=false format=json_schema prompt_chars=3421 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1838 completion_tokens=27 total_tokens=1865
+agent.compile.start group=topic-447ce928434a position=105/332 refs=2
+llm.done schema=concept_draft elapsed_ms=18543 thinking=false format=json_schema prompt_chars=2995 content_chars=0 reasoning_chars=2000 selected=reasoning_content finish=stop prompt_tokens=1654 completion_tokens=1105 total_tokens=2759
+llm.done schema=agent_quality_audit elapsed_ms=4733 thinking=false format=json_schema prompt_chars=6245 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3491 completion_tokens=27 total_tokens=3518
+agent.compile.start group=topic-44e72b3b8a6c position=106/332 refs=1
+llm.done schema=concept_draft elapsed_ms=27633 thinking=false format=json_schema prompt_chars=6415 content_chars=0 reasoning_chars=2936 selected=reasoning_content finish=stop prompt_tokens=3541 completion_tokens=1557 total_tokens=5098
+llm.done schema=agent_quality_audit elapsed_ms=7046 thinking=false format=json_schema prompt_chars=9656 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=5368 completion_tokens=27 total_tokens=5395
+agent.compile.start group=topic-44ea36d5a0b0 position=107/332 refs=2
+llm.done schema=concept_draft elapsed_ms=33061 thinking=false format=json_schema prompt_chars=16131 content_chars=0 reasoning_chars=2528 selected=reasoning_content finish=stop prompt_tokens=8462 completion_tokens=1419 total_tokens=9881
+llm.done schema=agent_quality_audit elapsed_ms=15496 thinking=false format=json_schema prompt_chars=21989 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=11701 completion_tokens=27 total_tokens=11728
+agent.compile.start group=topic-45affa25670b position=108/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6390 thinking=false format=json_schema prompt_chars=1785 content_chars=0 reasoning_chars=770 selected=reasoning_content finish=stop prompt_tokens=868 completion_tokens=359 total_tokens=1227
+llm.done schema=agent_quality_audit elapsed_ms=2108 thinking=false format=json_schema prompt_chars=2647 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1277 completion_tokens=27 total_tokens=1304
+agent.compile.start group=topic-45db8326f8cc position=109/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8088 thinking=false format=json_schema prompt_chars=1726 content_chars=0 reasoning_chars=943 selected=reasoning_content finish=stop prompt_tokens=872 completion_tokens=478 total_tokens=1350
+llm.done schema=agent_quality_audit elapsed_ms=2238 thinking=false format=json_schema prompt_chars=2754 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1396 completion_tokens=27 total_tokens=1423
+agent.compile.start group=topic-45e331db5a40 position=110/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10992 thinking=false format=json_schema prompt_chars=2871 content_chars=0 reasoning_chars=1200 selected=reasoning_content finish=stop prompt_tokens=1569 completion_tokens=624 total_tokens=2193
+llm.done schema=agent_quality_audit elapsed_ms=3613 thinking=false format=json_schema prompt_chars=4503 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2470 completion_tokens=27 total_tokens=2497
+agent.compile.start group=topic-46135afc7a23 position=111/332 refs=2
+llm.done schema=concept_draft elapsed_ms=55833 thinking=false format=json_schema prompt_chars=8146 content_chars=0 reasoning_chars=6380 selected=reasoning_content finish=stop prompt_tokens=4286 completion_tokens=3339 total_tokens=7625
+llm.done schema=agent_quality_audit elapsed_ms=11392 thinking=false format=json_schema prompt_chars=16622 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=8749 completion_tokens=27 total_tokens=8776
+agent.compile.start group=topic-4613f11e46d5 position=112/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8743 thinking=false format=json_schema prompt_chars=2233 content_chars=0 reasoning_chars=929 selected=reasoning_content finish=stop prompt_tokens=1205 completion_tokens=503 total_tokens=1708
+llm.done schema=agent_quality_audit elapsed_ms=2908 thinking=false format=json_schema prompt_chars=3645 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2022 completion_tokens=27 total_tokens=2049
+agent.compile.start group=topic-46343187c37a position=113/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5695 thinking=false format=json_schema prompt_chars=1580 content_chars=0 reasoning_chars=676 selected=reasoning_content finish=stop prompt_tokens=799 completion_tokens=328 total_tokens=1127
+llm.done schema=agent_quality_audit elapsed_ms=2091 thinking=false format=json_schema prompt_chars=2471 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1250 completion_tokens=27 total_tokens=1277
+agent.compile.start group=topic-46e97cbbfd89 position=114/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5997 thinking=false format=json_schema prompt_chars=1687 content_chars=0 reasoning_chars=723 selected=reasoning_content finish=stop prompt_tokens=828 completion_tokens=340 total_tokens=1168
+llm.done schema=agent_quality_audit elapsed_ms=2126 thinking=false format=json_schema prompt_chars=2598 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1269 completion_tokens=27 total_tokens=1296
+agent.compile.start group=topic-47db7bab78bc position=115/332 refs=1
+llm.done schema=concept_draft elapsed_ms=4001 thinking=false format=json_schema prompt_chars=1262 content_chars=0 reasoning_chars=491 selected=reasoning_content finish=stop prompt_tokens=609 completion_tokens=218 total_tokens=827
+llm.done schema=agent_quality_audit elapsed_ms=1679 thinking=false format=json_schema prompt_chars=1836 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=874 completion_tokens=27 total_tokens=901
+agent.compile.start group=topic-483b156c398d position=116/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8409 thinking=false format=json_schema prompt_chars=2251 content_chars=0 reasoning_chars=857 selected=reasoning_content finish=stop prompt_tokens=1259 completion_tokens=473 total_tokens=1732
+llm.done schema=agent_quality_audit elapsed_ms=2909 thinking=false format=json_schema prompt_chars=3493 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1967 completion_tokens=27 total_tokens=1994
+agent.compile.start group=topic-48ccb9dfcfb5 position=117/332 refs=1
+llm.done schema=concept_draft elapsed_ms=23074 thinking=false format=json_schema prompt_chars=15891 content_chars=0 reasoning_chars=1493 selected=reasoning_content finish=stop prompt_tokens=8537 completion_tokens=781 total_tokens=9318
+llm.done schema=agent_quality_audit elapsed_ms=14135 thinking=false format=json_schema prompt_chars=19813 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=10792 completion_tokens=27 total_tokens=10819
+agent.compile.start group=topic-492bddf8d6fa position=118/332 refs=1
+llm.done schema=concept_draft elapsed_ms=17020 thinking=false format=json_schema prompt_chars=4774 content_chars=0 reasoning_chars=1732 selected=reasoning_content finish=stop prompt_tokens=2617 completion_tokens=938 total_tokens=3555
+llm.done schema=agent_quality_audit elapsed_ms=5257 thinking=false format=json_schema prompt_chars=7353 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4104 completion_tokens=27 total_tokens=4131
+agent.compile.start group=topic-49a4ccf82ec3 position=119/332 refs=4
+llm.done schema=concept_draft elapsed_ms=37015 thinking=false format=json_schema prompt_chars=25318 content_chars=0 reasoning_chars=1754 selected=reasoning_content finish=stop prompt_tokens=14492 completion_tokens=1039 total_tokens=15531
+llm.done schema=agent_quality_audit elapsed_ms=31272 thinking=false format=json_schema prompt_chars=37046 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=21455 completion_tokens=27 total_tokens=21482
+agent.compile.start group=topic-4a1bcff53d4e position=120/332 refs=1
+llm.done schema=concept_draft elapsed_ms=9251 thinking=false format=json_schema prompt_chars=2343 content_chars=0 reasoning_chars=979 selected=reasoning_content finish=stop prompt_tokens=1265 completion_tokens=502 total_tokens=1767
+llm.done schema=agent_quality_audit elapsed_ms=3066 thinking=false format=json_schema prompt_chars=3917 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2133 completion_tokens=27 total_tokens=2160
+agent.compile.start group=topic-4c771d0fc942 position=121/332 refs=2
+llm.done schema=concept_draft elapsed_ms=11901 thinking=false format=json_schema prompt_chars=4474 content_chars=0 reasoning_chars=1312 selected=reasoning_content finish=stop prompt_tokens=2201 completion_tokens=610 total_tokens=2811
+llm.done schema=agent_quality_audit elapsed_ms=4826 thinking=false format=json_schema prompt_chars=7007 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3485 completion_tokens=27 total_tokens=3512
+agent.compile.start group=topic-4c9cbcbac34c position=122/332 refs=1
+llm.done schema=concept_draft elapsed_ms=7098 thinking=false format=json_schema prompt_chars=4661 content_chars=0 reasoning_chars=539 selected=reasoning_content finish=stop prompt_tokens=2483 completion_tokens=255 total_tokens=2738
+llm.done schema=agent_quality_audit elapsed_ms=4537 thinking=false format=json_schema prompt_chars=6093 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3257 completion_tokens=27 total_tokens=3284
+agent.compile.start group=topic-4cc9120e010a position=123/332 refs=1
+llm.done schema=concept_draft elapsed_ms=22344 thinking=false format=json_schema prompt_chars=2765 content_chars=0 reasoning_chars=2625 selected=reasoning_content finish=stop prompt_tokens=1442 completion_tokens=1369 total_tokens=2811
+llm.done schema=agent_quality_audit elapsed_ms=4321 thinking=false format=json_schema prompt_chars=5806 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3111 completion_tokens=27 total_tokens=3138
+agent.compile.start group=topic-4e1ee34daa23 position=124/332 refs=2
+llm.done schema=concept_draft elapsed_ms=11349 thinking=false format=json_schema prompt_chars=5517 content_chars=0 reasoning_chars=1041 selected=reasoning_content finish=stop prompt_tokens=2852 completion_tokens=509 total_tokens=3361
+llm.done schema=agent_quality_audit elapsed_ms=6178 thinking=false format=json_schema prompt_chars=8476 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=4405 completion_tokens=27 total_tokens=4432
+agent.compile.start group=topic-4e43a4af3a50 position=125/332 refs=2
+llm.done schema=concept_draft elapsed_ms=8960 thinking=false format=json_schema prompt_chars=3292 content_chars=0 reasoning_chars=863 selected=reasoning_content finish=stop prompt_tokens=1741 completion_tokens=453 total_tokens=2194
+llm.done schema=agent_quality_audit elapsed_ms=4131 thinking=false format=json_schema prompt_chars=5435 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2883 completion_tokens=27 total_tokens=2910
+agent.compile.start group=topic-4f3ede754b46 position=126/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10186 thinking=false format=json_schema prompt_chars=2089 content_chars=0 reasoning_chars=1089 selected=reasoning_content finish=stop prompt_tokens=1103 completion_tokens=591 total_tokens=1694
+llm.done schema=agent_quality_audit elapsed_ms=2683 thinking=false format=json_schema prompt_chars=3449 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1843 completion_tokens=27 total_tokens=1870
+agent.compile.start group=topic-4ff3754d584f position=127/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10827 thinking=false format=json_schema prompt_chars=2167 content_chars=0 reasoning_chars=1122 selected=reasoning_content finish=stop prompt_tokens=1154 completion_tokens=624 total_tokens=1778
+llm.done schema=agent_quality_audit elapsed_ms=2900 thinking=false format=json_schema prompt_chars=3751 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2062 completion_tokens=27 total_tokens=2089
+agent.compile.start group=topic-504e0931e4a7 position=128/332 refs=2
+llm.done schema=concept_draft elapsed_ms=18670 thinking=false format=json_schema prompt_chars=2438 content_chars=0 reasoning_chars=2110 selected=reasoning_content finish=stop prompt_tokens=1297 completion_tokens=1155 total_tokens=2452
+llm.done schema=agent_quality_audit elapsed_ms=4439 thinking=false format=json_schema prompt_chars=5809 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3188 completion_tokens=27 total_tokens=3215
+agent.compile.start group=topic-514142d25495 position=129/332 refs=1
+llm.done schema=concept_draft elapsed_ms=11982 thinking=false format=json_schema prompt_chars=7698 content_chars=0 reasoning_chars=909 selected=reasoning_content finish=stop prompt_tokens=4193 completion_tokens=448 total_tokens=4641
+llm.done schema=agent_quality_audit elapsed_ms=7072 thinking=false format=json_schema prompt_chars=9890 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=5408 completion_tokens=27 total_tokens=5435
+agent.compile.start group=topic-52eed45b9d38 position=130/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8375 thinking=false format=json_schema prompt_chars=1824 content_chars=0 reasoning_chars=867 selected=reasoning_content finish=stop prompt_tokens=975 completion_tokens=481 total_tokens=1456
+llm.done schema=agent_quality_audit elapsed_ms=2450 thinking=false format=json_schema prompt_chars=2941 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1608 completion_tokens=27 total_tokens=1635
+agent.compile.start group=topic-56d7011cae58 position=131/332 refs=1
+llm.done schema=concept_draft elapsed_ms=3783 thinking=false format=json_schema prompt_chars=1286 content_chars=0 reasoning_chars=419 selected=reasoning_content finish=stop prompt_tokens=623 completion_tokens=191 total_tokens=814
+llm.done schema=agent_quality_audit elapsed_ms=1608 thinking=false format=json_schema prompt_chars=1783 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=847 completion_tokens=27 total_tokens=874
+agent.compile.start group=topic-57d81a200f9f position=132/332 refs=1
+llm.done schema=concept_draft elapsed_ms=7470 thinking=false format=json_schema prompt_chars=4473 content_chars=0 reasoning_chars=568 selected=reasoning_content finish=stop prompt_tokens=2377 completion_tokens=300 total_tokens=2677
+llm.done schema=agent_quality_audit elapsed_ms=4388 thinking=false format=json_schema prompt_chars=5872 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=3184 completion_tokens=27 total_tokens=3211
+agent.compile.start group=topic-57faeee776ef position=133/332 refs=1
+llm.done schema=concept_draft elapsed_ms=4275 thinking=false format=json_schema prompt_chars=1463 content_chars=0 reasoning_chars=490 selected=reasoning_content finish=stop prompt_tokens=708 completion_tokens=219 total_tokens=927
+llm.done schema=agent_quality_audit elapsed_ms=1839 thinking=false format=json_schema prompt_chars=2082 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=997 completion_tokens=27 total_tokens=1024
+agent.compile.start group=topic-5a071777224d position=134/332 refs=1
+llm.done schema=concept_draft elapsed_ms=6869 thinking=false format=json_schema prompt_chars=1719 content_chars=0 reasoning_chars=763 selected=reasoning_content finish=stop prompt_tokens=873 completion_tokens=384 total_tokens=1257
+llm.done schema=agent_quality_audit elapsed_ms=2075 thinking=false format=json_schema prompt_chars=2621 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1325 completion_tokens=27 total_tokens=1352
+agent.compile.start group=topic-5bd436b77db7 position=135/332 refs=1
+llm.done schema=concept_draft elapsed_ms=22240 thinking=false format=json_schema prompt_chars=13097 content_chars=0 reasoning_chars=1603 selected=reasoning_content finish=stop prompt_tokens=7225 completion_tokens=844 total_tokens=8069
+llm.done schema=agent_quality_audit elapsed_ms=12787 thinking=false format=json_schema prompt_chars=17243 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=9606 completion_tokens=27 total_tokens=9633
+agent.compile.start group=topic-5c45d1c47c54 position=136/332 refs=2
+llm.done schema=concept_draft elapsed_ms=44200 thinking=false format=json_schema prompt_chars=18673 content_chars=0 reasoning_chars=3196 selected=reasoning_content finish=stop prompt_tokens=10848 completion_tokens=1799 total_tokens=12647
+llm.done schema=agent_quality_audit elapsed_ms=21524 thinking=false format=json_schema prompt_chars=26497 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=15436 completion_tokens=27 total_tokens=15463
+agent.compile.start group=topic-5d9e2f8fea5f position=137/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10366 thinking=false format=json_schema prompt_chars=2654 content_chars=0 reasoning_chars=1089 selected=reasoning_content finish=stop prompt_tokens=1386 completion_tokens=578 total_tokens=1964
+llm.done schema=agent_quality_audit elapsed_ms=3090 thinking=false format=json_schema prompt_chars=4027 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2135 completion_tokens=27 total_tokens=2162
+agent.compile.start group=topic-5e07638e7463 position=138/332 refs=1
+llm.done schema=concept_draft elapsed_ms=48822 thinking=false format=json_schema prompt_chars=15918 content_chars=0 reasoning_chars=4071 selected=reasoning_content finish=stop prompt_tokens=9042 completion_tokens=2252 total_tokens=11294
+llm.done schema=agent_quality_audit elapsed_ms=17580 thinking=false format=json_schema prompt_chars=22390 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=12764 completion_tokens=27 total_tokens=12791
+agent.compile.start group=topic-5e6d807e61bc position=139/332 refs=2
+llm.done schema=concept_draft elapsed_ms=39078 thinking=false format=json_schema prompt_chars=34279 content_chars=0 reasoning_chars=991 selected=reasoning_content finish=stop prompt_tokens=20192 completion_tokens=550 total_tokens=20742
+llm.done schema=agent_quality_audit elapsed_ms=39407 thinking=false format=json_schema prompt_chars=43468 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=25658 completion_tokens=27 total_tokens=25685
+agent.compile.start group=topic-5f8daee6638f position=140/332 refs=1
+llm.done schema=concept_draft elapsed_ms=15262 thinking=false format=json_schema prompt_chars=2689 content_chars=0 reasoning_chars=1855 selected=reasoning_content finish=stop prompt_tokens=1346 completion_tokens=889 total_tokens=2235
+llm.done schema=agent_quality_audit elapsed_ms=3422 thinking=false format=json_schema prompt_chars=4702 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2342 completion_tokens=27 total_tokens=2369
+agent.compile.start group=topic-5fc80beeaf5f position=141/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5046 thinking=false format=json_schema prompt_chars=1468 content_chars=0 reasoning_chars=581 selected=reasoning_content finish=stop prompt_tokens=708 completion_tokens=258 total_tokens=966
+llm.done schema=agent_quality_audit elapsed_ms=1893 thinking=false format=json_schema prompt_chars=2173 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1036 completion_tokens=27 total_tokens=1063
+agent.compile.start group=topic-6167322e2a5d position=142/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8136 thinking=false format=json_schema prompt_chars=1925 content_chars=0 reasoning_chars=946 selected=reasoning_content finish=stop prompt_tokens=957 completion_tokens=450 total_tokens=1407
+llm.done schema=agent_quality_audit elapsed_ms=2564 thinking=false format=json_schema prompt_chars=3310 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1621 completion_tokens=27 total_tokens=1648
+agent.compile.start group=topic-624d4bc10aec position=143/332 refs=1
+llm.done schema=concept_draft elapsed_ms=5071 thinking=false format=json_schema prompt_chars=1293 content_chars=0 reasoning_chars=543 selected=reasoning_content finish=stop prompt_tokens=634 completion_tokens=263 total_tokens=897
+llm.done schema=agent_quality_audit elapsed_ms=1833 thinking=false format=json_schema prompt_chars=1918 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=943 completion_tokens=27 total_tokens=970
+agent.compile.start group=topic-63ef65e1cda9 position=144/332 refs=1
+llm.done schema=concept_draft elapsed_ms=10238 thinking=false format=json_schema prompt_chars=2050 content_chars=0 reasoning_chars=1079 selected=reasoning_content finish=stop prompt_tokens=1083 completion_tokens=584 total_tokens=1667
+llm.done schema=agent_quality_audit elapsed_ms=2702 thinking=false format=json_schema prompt_chars=3402 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=1825 completion_tokens=27 total_tokens=1852
+agent.compile.start group=topic-663435330d18 position=145/332 refs=1
+llm.done schema=concept_draft elapsed_ms=8383 thinking=false format=json_schema prompt_chars=2893 content_chars=0 reasoning_chars=868 selected=reasoning_content finish=stop prompt_tokens=1548 completion_tokens=432 total_tokens=1980
+llm.done schema=agent_quality_audit elapsed_ms=3378 thinking=false format=json_schema prompt_chars=4223 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=2256 completion_tokens=27 total_tokens=2283
+agent.compile.start group=topic-669b039058b4 position=146/332 refs=2
+llm.done schema=concept_draft elapsed_ms=16163 thinking=false format=json_schema prompt_chars=9803 content_chars=0 reasoning_chars=946 selected=reasoning_content finish=stop prompt_tokens=5882 completion_tokens=542 total_tokens=6424
+llm.done schema=agent_quality_audit elapsed_ms=11258 thinking=false format=json_schema prompt_chars=13971 content_chars=0 reasoning_chars=79 selected=reasoning_content finish=stop prompt_tokens=8338 completion_tokens=27 total_tokens=8365
+agent.compile.start group=topic-66d93b99f07b position=147/332 refs=2
+llm.done schema=concept_draft elapsed_ms=146991 thinking=false format=json_schema prompt_chars=14319 content_chars=0 reasoning_chars=15164 selected=reasoning_content finish=length prompt_tokens=7792 completion_tokens=8191 total_tokens=15983
+llm.done schema=concept_draft elapsed_ms=156538 thinking=false format=json_schema prompt_chars=29610 content_chars=0 reasoning_chars=15164 selected=reasoning_content finish=length prompt_tokens=16030 completion_tokens=8191 total_tokens=24221
