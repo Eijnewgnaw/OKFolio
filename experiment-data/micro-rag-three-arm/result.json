@@ -1,0 +1,4744 @@
+{
+  "schema": "okfolio.micro-experiment.retrieval-quality.v1",
+  "created": "2026-08-20T17:54:22+0800",
+  "config": {
+    "bm25_top_k": 50,
+    "dense_top_k": 50,
+    "fusion_top_k": 50,
+    "rrf_k": 60,
+    "t0_max_chars": 1200,
+    "t1_child_max_chars": 600,
+    "t1_parent_max_chars": 4800,
+    "embedding_model": "bge-m3-mlx",
+    "embedding_endpoint": "http://localhost:1234/v1/embeddings",
+    "rerank": "none (LM Studio has no rerank endpoint; verified 404)",
+    "dense_mode": "full-corpus"
+  },
+  "corpus_stats": {
+    "A_articles": 10,
+    "gold_blocks": 1703,
+    "questions": 140,
+    "units": {
+      "C1": 140,
+      "T0": 1381,
+      "T1": 4123
+    },
+    "avg_unit_text_chars": {
+      "C1": 397.8,
+      "T0": 1061.9,
+      "T1": 408.6
+    },
+    "dense_mode": "full-corpus",
+    "embedding_texts_embedded": 5784,
+    "embedding_http_requests": 187,
+    "token_approx_note": "len(text)/2 chars-per-token approximation for Chinese"
+  },
+  "per_question": {
+    "topic-ded68c9ed3b8": {
+      "question": "成都自贸试验区在2017-2019年期间，针对时尚经营、设计研发及跨境消费场景提供了哪些具体的财政支持与运营优化措施？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.05
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.1111111111111111,
+          "ndcg@50": 0.3010299956639812,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 543.05
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 203.88
+        }
+      }
+    },
+    "topic-db35b2de874d": {
+      "question": "2016年第三次G20财长和央行行长会议在成都召开时，其核心议题、主要共识及为杭州峰会所做的财金成果准备情况如何？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 262.41
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6934264036172708,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 541.01
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 270.86
+        }
+      }
+    },
+    "topic-3d650449095b": {
+      "question": "成都建设知识产权保护典范城市的具体措施、资金规模及责任主体是什么？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 241.25
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 556.33
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 235.89
+        }
+      }
+    },
+    "topic-b99b521a58f0": {
+      "question": "2018年以来，成都天府新区在成眉共融、自贸区双边合作、产业协作园区共建及融资对接合作方面取得了哪些具体成效？",
+      "gold_block_count": 8,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7432799852507489,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 265.25
+        },
+        "T0": {
+          "recall@10": 0.875,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7353053901777485,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 551.98
+        },
+        "T1": {
+          "recall@10": 0.875,
+          "recall@50": 0.875,
+          "mrr": 1.0,
+          "ndcg@50": 0.7653606369886217,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 254.72
+        }
+      }
+    },
+    "topic-29ddebded25f": {
+      "question": "2021年共建“一带一路”及成都作为节点城市在推动高质量发展中呈现的主要特点与成效是什么？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.66
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 528.84
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 213.73
+        }
+      }
+    },
+    "topic-d1fa44bf86ac": {
+      "question": "成都自贸试验区在法制保障方面建立了哪些具体的体制机制和制度安排？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 207.42
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 530.71
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 190.14
+        }
+      }
+    },
+    "topic-87b8273186ca": {
+      "question": "先进技术成果西部转化中心的建设主体、运营模式及核心转化机制是什么？",
+      "gold_block_count": 7,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 255.55
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 521.09
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.33
+        }
+      }
+    },
+    "topic-b71503fa6875": {
+      "question": "2020年成都自贸试验区在改革任务推进、制度创新成果推广及开放引领方面取得了哪些具体成效？",
+      "gold_block_count": 9,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.41979271250917416,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.14
+        },
+        "T0": {
+          "recall@10": 0.5555555555555556,
+          "recall@50": 0.7777777777777778,
+          "mrr": 1.0,
+          "ndcg@50": 0.5649154060911368,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 520.68
+        },
+        "T1": {
+          "recall@10": 0.4444444444444444,
+          "recall@50": 0.4444444444444444,
+          "mrr": 0.5,
+          "ndcg@50": 0.38356636737133565,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.24
+        }
+      }
+    },
+    "topic-1ba446d547e4": {
+      "question": "2023年成都如何通过产业链供需配套与联合招引，推动与省内及周边城市电子信息产业合作？",
+      "gold_block_count": 15,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 15,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 260.97
+        },
+        "T0": {
+          "recall@10": 0.26666666666666666,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7574875071481796,
+          "gold_block_count": 15,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 515.32
+        },
+        "T1": {
+          "recall@10": 0.7333333333333333,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8587080654321868,
+          "gold_block_count": 15,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.46
+        }
+      }
+    },
+    "topic-baf3adce054b": {
+      "question": "基于多层次交互式制度创新分析框架，长三角生态绿色一体化发展示范区如何通过宏观社会环境、中观组织场域和微观行动者的上下互动机制，破解跨区域治理中的体制机制障碍并实现制度创新？",
+      "gold_block_count": 69,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 69,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.7
+        },
+        "T0": {
+          "recall@10": 0.7101449275362319,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.983792209467784,
+          "gold_block_count": 69,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 513.36
+        },
+        "T1": {
+          "recall@10": 0.2463768115942029,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 69,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.12
+        }
+      }
+    },
+    "proposition-119678b32d8f": {
+      "question": "2019年成都与省内外区域协同创新在深度和广度上取得的新进展及后续推动建议是什么？",
+      "gold_block_count": 19,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6447657970051222,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 267.67
+        },
+        "T0": {
+          "recall@10": 0.5263157894736842,
+          "recall@50": 0.5263157894736842,
+          "mrr": 1.0,
+          "ndcg@50": 0.27487633291429087,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 528.98
+        },
+        "T1": {
+          "recall@10": 0.42105263157894735,
+          "recall@50": 0.5789473684210527,
+          "mrr": 1.0,
+          "ndcg@50": 0.38465753945768,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 217.76
+        }
+      }
+    },
+    "topic-84e9a49a8e8a": {
+      "question": "交通基础设施建设如何影响成渝地区双城经济圈的一体化发展？",
+      "gold_block_count": 95,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5432677949640379,
+          "gold_block_count": 95,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.06
+        },
+        "T0": {
+          "recall@10": 0.7157894736842105,
+          "recall@50": 0.8315789473684211,
+          "mrr": 1.0,
+          "ndcg@50": 0.8051381812513196,
+          "gold_block_count": 95,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 541.01
+        },
+        "T1": {
+          "recall@10": 0.3263157894736842,
+          "recall@50": 0.6736842105263158,
+          "mrr": 1.0,
+          "ndcg@50": 0.6972795259514453,
+          "gold_block_count": 95,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 212.72
+        }
+      }
+    },
+    "topic-a183d5307fb5": {
+      "question": "成都自贸试验区在2017-2019年期间，为落实权责一致原则并让市场发挥决定性作用，在简政放权、政府职能边界及公共服务改革方面采取了哪些具体管理措施与实施路径？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 223.98
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 534.93
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 183.95
+        }
+      }
+    },
+    "proposition-df609c7c006a": {
+      "question": "成德眉资河长制E平台建成投用的时间、建设主体、核心功能及战略意义是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 267.29
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 532.96
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.5
+        }
+      }
+    },
+    "topic-b4807b9268b9": {
+      "question": "在蓉高校院所、企业获批国家级国际科技合作基地或项目后，可获得哪些具体类型的配套资助及对应标准？",
+      "gold_block_count": 8,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5585605160052665,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.8
+        },
+        "T0": {
+          "recall@10": 0.875,
+          "recall@50": 0.875,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.3065735963827292,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 529.8
+        },
+        "T1": {
+          "recall@10": 0.125,
+          "recall@50": 0.875,
+          "mrr": 1.0,
+          "ndcg@50": 0.5934706467252375,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 170.09
+        }
+      }
+    },
+    "topic-9ba402508fb1": {
+      "question": "温江区通过与青白江、成都国际铁路港对接花木出口，实现出口额达1000万美元的跨区域产业协作成果具体包括哪些内容？",
+      "gold_block_count": 13,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5841997726249148,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 258.9
+        },
+        "T0": {
+          "recall@10": 0.46153846153846156,
+          "recall@50": 0.46153846153846156,
+          "mrr": 1.0,
+          "ndcg@50": 0.3026024134988135,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 548.35
+        },
+        "T1": {
+          "recall@10": 0.3076923076923077,
+          "recall@50": 0.3076923076923077,
+          "mrr": 1.0,
+          "ndcg@50": 0.33627415762678564,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 235.28
+        }
+      }
+    },
+    "topic-102e9ca9c79c": {
+      "question": "成都自贸区在2017-2019年间针对畅通国际通道提出了哪些具体行动措施及责任主体？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.65
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.16666666666666666,
+          "ndcg@50": 0.3562071871080222,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 543.7
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 205.85
+        }
+      }
+    },
+    "topic-bf1ca19174a6": {
+      "question": "成都天府国际机场的规划定位、建设规模、投资金额及关键审批时间节点是什么？",
+      "gold_block_count": 19,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 228.0
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8772153153380493,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 540.32
+        },
+        "T1": {
+          "recall@10": 0.9473684210526315,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8921776538210152,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 241.58
+        }
+      }
+    },
+    "proposition-0479c96775ac": {
+      "question": "如何基于国内省域分析和国际竞争互补关系，设计“西部陆海新通道”的融合开放发展路径？",
+      "gold_block_count": 71,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 71,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 261.7
+        },
+        "T0": {
+          "recall@10": 0.647887323943662,
+          "recall@50": 0.7464788732394366,
+          "mrr": 1.0,
+          "ndcg@50": 0.6605056985832239,
+          "gold_block_count": 71,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 518.12
+        },
+        "T1": {
+          "recall@10": 0.2676056338028169,
+          "recall@50": 0.9154929577464789,
+          "mrr": 1.0,
+          "ndcg@50": 0.8734891913409479,
+          "gold_block_count": 71,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 201.54
+        }
+      }
+    },
+    "topic-297cf27c7d6d": {
+      "question": "2018年以来，崇州市在推动与周边区（市）县合作方面采取了哪些重点举措并取得了哪些具体成效？",
+      "gold_block_count": 7,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8026120593560898,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 249.29
+        },
+        "T0": {
+          "recall@10": 0.8571428571428571,
+          "recall@50": 0.8571428571428571,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 559.59
+        },
+        "T1": {
+          "recall@10": 0.7142857142857143,
+          "recall@50": 0.8571428571428571,
+          "mrr": 1.0,
+          "ndcg@50": 0.5865984075284455,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 207.7
+        }
+      }
+    },
+    "proposition-4d3f52db9752": {
+      "question": "2019年成都与省内外区域产业协同合作在先进制造业集群共建等方面取得哪些进展，面临哪些同质化挑战及对策？",
+      "gold_block_count": 52,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6650083222063329,
+          "gold_block_count": 52,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 274.34
+        },
+        "T0": {
+          "recall@10": 0.15384615384615385,
+          "recall@50": 0.3269230769230769,
+          "mrr": 0.25,
+          "ndcg@50": 0.10374510146539774,
+          "gold_block_count": 52,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 518.2
+        },
+        "T1": {
+          "recall@10": 0.11538461538461539,
+          "recall@50": 0.15384615384615385,
+          "mrr": 1.0,
+          "ndcg@50": 0.19775108417515178,
+          "gold_block_count": 52,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 221.93
+        }
+      }
+    },
+    "topic-5f8daee6638f": {
+      "question": "成都下一步推进国际合作平台建设的具体思路、重点园区功能定位及营商环境优化措施是什么？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.1111111111111111,
+          "ndcg@50": 0.3010299956639812,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 257.93
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr": 0.0,
+          "ndcg@50": 0.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 524.41
+        },
+        "T1": {
+          "recall@10": 0.3333333333333333,
+          "recall@50": 0.8333333333333334,
+          "mrr": 1.0,
+          "ndcg@50": 0.7066231297810711,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 196.34
+        }
+      }
+    },
+    "topic-663435330d18": {
+      "question": "2023年成都现代交通产业生态圈在跨区域协作中，与哪些地区开展了合作，具体采取了哪些合作方式，并取得了哪些量化成果？",
+      "gold_block_count": 10,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 271.99
+        },
+        "T0": {
+          "recall@10": 0.8,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7223509111745405,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 539.63
+        },
+        "T1": {
+          "recall@10": 0.7,
+          "recall@50": 0.7,
+          "mrr": 1.0,
+          "ndcg@50": 0.6366824387328317,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 241.13
+        }
+      }
+    },
+    "topic-3a40f03ca2bc": {
+      "question": "成都自贸试验区如何通过强化“三区”引领来增强改革开放试验田功能？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 226.85
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 509.31
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 210.35
+        }
+      }
+    },
+    "topic-ee1bcb0bbd79": {
+      "question": "国家网络安全产业园区（成渝地区）的获批时间、授牌时间、历史地位及规划布局是怎样的？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 259.63
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 520.32
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 252.95
+        }
+      }
+    },
+    "topic-767f423a4400": {
+      "question": "2020年以来，龙泉驿区在人力资源协同、经开区合作、研究院分院设立及成渝区域合作方面取得了哪些具体成效？",
+      "gold_block_count": 8,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 269.76
+        },
+        "T0": {
+          "recall@10": 0.875,
+          "recall@50": 0.875,
+          "mrr": 1.0,
+          "ndcg@50": 0.7039180890341347,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 547.4
+        },
+        "T1": {
+          "recall@10": 0.875,
+          "recall@50": 0.875,
+          "mrr": 1.0,
+          "ndcg@50": 0.6364391809889587,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 240.04
+        }
+      }
+    },
+    "topic-c37db88814ca": {
+      "question": "成都自贸试验区在落实国家外商投资产业目录方面，具体采取了哪些放宽外资准入限制和扩大开放领域的措施？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 223.03
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9197207891481876,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 536.52
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 211.77
+        }
+      }
+    },
+    "topic-f2d099395f3a": {
+      "question": "2020年成都外商投资规模、招引力度及营商环境改善的具体表现与数据支撑是什么？",
+      "gold_block_count": 9,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5681481892260798,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.27
+        },
+        "T0": {
+          "recall@10": 0.7777777777777778,
+          "recall@50": 0.7777777777777778,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 553.63
+        },
+        "T1": {
+          "recall@10": 0.7777777777777778,
+          "recall@50": 0.7777777777777778,
+          "mrr": 1.0,
+          "ndcg@50": 0.6364391809889587,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 240.31
+        }
+      }
+    },
+    "topic-740681ba5c07": {
+      "question": "成都自贸试验区在2017-2019年期间，针对外商投资企业登记制度改革采取了哪些具体措施？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 214.3
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.16666666666666666,
+          "ndcg@50": 0.3562071871080222,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 538.38
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 182.4
+        }
+      }
+    },
+    "topic-8bc7905de3e8": {
+      "question": "成都自贸试验区在实施数字“一带一路”信息通道建设计划中，关于国家级信息节点、数据中心及国际信息港的建设目标、国际数据通道扩容指标及具体补贴政策是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.78
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.25,
+          "ndcg@50": 0.43067655807339306,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 535.75
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 211.55
+        }
+      }
+    },
+    "topic-80f028403dd2": {
+      "question": "成都自贸试验区在2017-2019年期间，如何通过准入前国民待遇和负面清单制度推进市场开放，具体在制造业、服务业及基础设施领域有哪些外资准入放宽措施？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.38
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 542.05
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.57
+        }
+      }
+    },
+    "topic-cfa1e0c48c03": {
+      "question": "2020年以来，青羊区在区域合作方面重点推进了哪些工作领域，并取得了哪些具体成效？",
+      "gold_block_count": 9,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.59
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8175295903539445,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 562.65
+        },
+        "T1": {
+          "recall@10": 0.4444444444444444,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6460070550067253,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 222.89
+        }
+      }
+    },
+    "topic-866ba1b548b9": {
+      "question": "2018-2020年间成都与四川省内公路及高速公路路网密度变化趋势及区域差异情况如何，以及邛崃市与芦山县在交通基础设施共建方面的具体进展是什么？",
+      "gold_block_count": 18,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7244556397093438,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 260.23
+        },
+        "T0": {
+          "recall@10": 0.05555555555555555,
+          "recall@50": 0.4444444444444444,
+          "mrr": 1.0,
+          "ndcg@50": 0.35375706659450284,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 543.92
+        },
+        "T1": {
+          "recall@10": 0.16666666666666666,
+          "recall@50": 0.16666666666666666,
+          "mrr": 0.5,
+          "ndcg@50": 0.1891891773635528,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.52
+        }
+      }
+    },
+    "topic-08771260e6fe": {
+      "question": "成都如何通过建设国际合作标志平台、海外综合服务平台及国际营销推广平台来强化多平台支撑体系？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 251.61
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr": 0.05263157894736842,
+          "ndcg@50": 0.23137821315975915,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 531.64
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 206.04
+        }
+      }
+    },
+    "topic-e9982d4220e9": {
+      "question": "2016年成都开放经济高地建设在经济结构优化、产业投资、重大项目引进、对外投资及对外贸易方面取得了哪些具体成效？",
+      "gold_block_count": 22,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 22,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.67
+        },
+        "T0": {
+          "recall@10": 0.7272727272727273,
+          "recall@50": 0.9090909090909091,
+          "mrr": 0.5,
+          "ndcg@50": 0.5163537073857167,
+          "gold_block_count": 22,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 515.92
+        },
+        "T1": {
+          "recall@10": 0.7272727272727273,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.7203597831997658,
+          "gold_block_count": 22,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.33
+        }
+      }
+    },
+    "topic-0dfd3bca8a42": {
+      "question": "在《成都自贸试验区建设三年试验任务行动计划 (2017-2019)》中，针对“实施监管督察”这一任务，具体的责任主体是谁，以及其核心工作要求是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 221.41
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr": 0.043478260869565216,
+          "ndcg@50": 0.21810429198553155,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 536.17
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 139.44
+        }
+      }
+    },
+    "topic-9dd8558b443f": {
+      "question": "成都在2020年至2021年间举办了哪些具有代表性的国际产业合作论坛，其核心议题与举办地分别是什么？",
+      "gold_block_count": 31,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5136522519416176,
+          "gold_block_count": 31,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 251.64
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 0.22580645161290322,
+          "mrr": 0.03333333333333333,
+          "ndcg@50": 0.12106788180936055,
+          "gold_block_count": 31,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 550.2
+        },
+        "T1": {
+          "recall@10": 0.12903225806451613,
+          "recall@50": 0.25806451612903225,
+          "mrr": 0.125,
+          "ndcg@50": 0.1697566115032782,
+          "gold_block_count": 31,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 262.91
+        }
+      }
+    },
+    "topic-ececd12accff": {
+      "question": "天府新区成都片区保税物流中心（B型）获批设立的核心事实、功能定位及战略意义是什么？",
+      "gold_block_count": 30,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 30,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.54
+        },
+        "T0": {
+          "recall@10": 0.5666666666666667,
+          "recall@50": 0.5666666666666667,
+          "mrr": 1.0,
+          "ndcg@50": 0.6366824387328317,
+          "gold_block_count": 30,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 536.86
+        },
+        "T1": {
+          "recall@10": 0.5,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8986360727623843,
+          "gold_block_count": 30,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.89
+        }
+      }
+    },
+    "topic-56d7011cae58": {
+      "question": "成都自贸试验区在健全制度机制方面，建立了哪些部门协调机制及针对加工贸易企业的配套管理与保护机制？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 215.68
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 529.97
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 187.27
+        }
+      }
+    },
+    "proposition-577b3ef646bd": {
+      "question": "《成渝地区双城经济圈建设规划纲要》何时由谁正式印发？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.0
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 545.6
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 206.69
+        }
+      }
+    },
+    "topic-ab5c82f6d781": {
+      "question": "成都如何加快“两港”建设以提升国际门户枢纽能级？",
+      "gold_block_count": 16,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.66
+        },
+        "T0": {
+          "recall@10": 0.0625,
+          "recall@50": 0.9375,
+          "mrr": 1.0,
+          "ndcg@50": 0.5520383669103462,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 515.5
+        },
+        "T1": {
+          "recall@10": 0.5,
+          "recall@50": 0.8125,
+          "mrr": 1.0,
+          "ndcg@50": 0.5731149160706441,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 211.68
+        }
+      }
+    },
+    "topic-0135fb88c882": {
+      "question": "成都如何通过教育开放合作与资源要素协同配置，提升对“一带一路”沿线国家及国内资源的集聚运筹能力？",
+      "gold_block_count": 17,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.3797686899455537,
+          "gold_block_count": 17,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 265.05
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 0.47058823529411764,
+          "mrr": 0.09090909090909091,
+          "ndcg@50": 0.15564411392637809,
+          "gold_block_count": 17,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 528.75
+        },
+        "T1": {
+          "recall@10": 0.17647058823529413,
+          "recall@50": 0.7058823529411765,
+          "mrr": 1.0,
+          "ndcg@50": 0.5837342123225439,
+          "gold_block_count": 17,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 176.19
+        }
+      }
+    },
+    "topic-46135afc7a23": {
+      "question": "成都自贸试验区建设与营商环境标杆城市建设的指导思想、核心目标及实施路径是什么？",
+      "gold_block_count": 31,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 31,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 211.67
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 0.03225806451612903,
+          "mrr": 0.030303030303030304,
+          "ndcg@50": 0.054030140659805756,
+          "gold_block_count": 31,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 531.62
+        },
+        "T1": {
+          "recall@10": 0.06451612903225806,
+          "recall@50": 0.3225806451612903,
+          "mrr": 1.0,
+          "ndcg@50": 0.3538443868775833,
+          "gold_block_count": 31,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 194.69
+        }
+      }
+    },
+    "topic-6f57929615b7": {
+      "question": "成都市人民政府与清华大学签署全面深化合作协议的核心内容、合作领域及具体实施路径是什么？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 266.92
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6052602440527057,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.18
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 252.57
+        }
+      }
+    },
+    "topic-1c9538612675": {
+      "question": "金堂县在2018年通过哪些具体举措推进区域协同发展并取得了哪些实效？",
+      "gold_block_count": 7,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.41
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9197207891481876,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 555.37
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.65
+        }
+      }
+    },
+    "topic-909c3b28c0fd": {
+      "question": "四川省高等职业院校创新创业教育联盟的发起主体、指导单位、成立时间及核心目标是什么？",
+      "gold_block_count": 21,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.4389945518216232,
+          "gold_block_count": 21,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 246.93
+        },
+        "T0": {
+          "recall@10": 0.2857142857142857,
+          "recall@50": 0.2857142857142857,
+          "mrr": 0.5,
+          "ndcg@50": 0.13886244387355454,
+          "gold_block_count": 21,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 541.9
+        },
+        "T1": {
+          "recall@10": 0.09523809523809523,
+          "recall@50": 0.09523809523809523,
+          "mrr": 1.0,
+          "ndcg@50": 0.19635793579928928,
+          "gold_block_count": 21,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.2
+        }
+      }
+    },
+    "topic-6167322e2a5d": {
+      "question": "成都市在公共服务领域（教育、医疗、就业社保）的区域合作对象分布情况及主要合作形式是什么？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 267.34
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5706417189553201,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 528.51
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9674679834891693,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 238.75
+        }
+      }
+    },
+    "topic-dfb423be7b68": {
+      "question": "成都国际铁路港在2016年至2020年间获批了哪些国家级开放平台资质，其具体获批时间、主管部门及核心功能定位是什么？",
+      "gold_block_count": 19,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5462157764366995,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 233.61
+        },
+        "T0": {
+          "recall@10": 0.42105263157894735,
+          "recall@50": 0.7368421052631579,
+          "mrr": 1.0,
+          "ndcg@50": 0.5460922856407843,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 539.47
+        },
+        "T1": {
+          "recall@10": 0.2631578947368421,
+          "recall@50": 0.5789473684210527,
+          "mrr": 1.0,
+          "ndcg@50": 0.5199443697272448,
+          "gold_block_count": 19,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 230.77
+        }
+      }
+    },
+    "topic-69b3f4b8aefc": {
+      "question": "成都市在基础设施和公共服务领域的区域合作范围、主要合作对象及拓展趋势是什么？",
+      "gold_block_count": 22,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6116641341237058,
+          "gold_block_count": 22,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 280.2
+        },
+        "T0": {
+          "recall@10": 0.09090909090909091,
+          "recall@50": 0.36363636363636365,
+          "mrr": 1.0,
+          "ndcg@50": 0.35694194824923126,
+          "gold_block_count": 22,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 530.45
+        },
+        "T1": {
+          "recall@10": 0.13636363636363635,
+          "recall@50": 0.22727272727272727,
+          "mrr": 0.25,
+          "ndcg@50": 0.16717910833506178,
+          "gold_block_count": 22,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 217.26
+        }
+      }
+    },
+    "proposition-4c19f8848dea": {
+      "question": "成都市加快跨境电商发展三年行动计划的核心目标与实施路径是什么？",
+      "gold_block_count": 78,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 78,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.41
+        },
+        "T0": {
+          "recall@10": 0.38461538461538464,
+          "recall@50": 0.5512820512820513,
+          "mrr": 1.0,
+          "ndcg@50": 0.6200162715826527,
+          "gold_block_count": 78,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 546.18
+        },
+        "T1": {
+          "recall@10": 0.15384615384615385,
+          "recall@50": 0.6923076923076923,
+          "mrr": 1.0,
+          "ndcg@50": 0.8236905192899212,
+          "gold_block_count": 78,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 159.86
+        }
+      }
+    },
+    "topic-8a5031082472": {
+      "question": "2020年成都在信息基础设施建设、区域骨干通信能力及数字经济方面取得了哪些具体进展，以巩固其国际性区域通信枢纽地位？",
+      "gold_block_count": 12,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.43287935380333487,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 257.78
+        },
+        "T0": {
+          "recall@10": 0.8333333333333334,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5327018081457777,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 538.09
+        },
+        "T1": {
+          "recall@10": 0.8333333333333334,
+          "recall@50": 0.8333333333333334,
+          "mrr": 1.0,
+          "ndcg@50": 0.7757386182436072,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 226.52
+        }
+      }
+    },
+    "topic-80a8189944ae": {
+      "question": "成都自贸试验区如何建立经济社会统计监测体系并开展督查与统计分析工作？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 219.26
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 540.12
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 162.41
+        }
+      }
+    },
+    "topic-12012ab65ca7": {
+      "question": "“长江班列”铁水联运新通道的建设背景、运营主体、具体运营模式及实际成效是什么？",
+      "gold_block_count": 8,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 212.27
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 518.46
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.89
+        }
+      }
+    },
+    "topic-47db7bab78bc": {
+      "question": "成都自贸试验区建设专项经费如何纳入财政预算并保障重点工作的顺利开展？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 211.6
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 538.14
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 176.82
+        }
+      }
+    },
+    "topic-a77061c646dc": {
+      "question": "成都自贸试验区如何通过建立智库和细化政策落实来增强对外开放工作的战略规划水平和服务能力？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 213.21
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 530.31
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 167.38
+        }
+      }
+    },
+    "topic-237cc72956a3": {
+      "question": "成都自贸试验区在创造良好营运环境方面，针对加工贸易行政审批和监管制度采取了哪些具体改革措施？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.8
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.2,
+          "ndcg@50": 0.38685280723454163,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 540.39
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 190.01
+        }
+      }
+    },
+    "topic-4e43a4af3a50": {
+      "question": "成渝地区双城经济圈建设中，成宜两地与环成渝区域分别采取了哪些具体的跨区域协同合作机制与平台建设举措？",
+      "gold_block_count": 11,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 257.3
+        },
+        "T0": {
+          "recall@10": 0.5454545454545454,
+          "recall@50": 0.5454545454545454,
+          "mrr": 1.0,
+          "ndcg@50": 0.626376385711402,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.11
+        },
+        "T1": {
+          "recall@10": 0.45454545454545453,
+          "recall@50": 0.45454545454545453,
+          "mrr": 1.0,
+          "ndcg@50": 0.6843515475204855,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 241.13
+        }
+      }
+    },
+    "topic-5fc80beeaf5f": {
+      "question": "成都自贸试验区在促进加工贸易创新发展方面采取了哪些具体举措？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.2,
+          "ndcg@50": 0.38685280723454163,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 207.81
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.14285714285714285,
+          "ndcg@50": 0.3333333333333333,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 536.11
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 188.98
+        }
+      }
+    },
+    "topic-6f285ae9b561": {
+      "question": "2018年至2021年间，成都与四川省内各城市间的经济联系强度平均值发生了怎样的变化？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 235.24
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr": 0.034482758620689655,
+          "ndcg@50": 0.2037950470905062,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 541.32
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 232.34
+        }
+      }
+    },
+    "topic-cee069f41675": {
+      "question": "中国（成都）跨境电子商务综合试验区的建设目标、空间布局、核心功能板块及主要政策支持措施是什么？",
+      "gold_block_count": 80,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 80,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 230.02
+        },
+        "T0": {
+          "recall@10": 0.875,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9794058778730851,
+          "gold_block_count": 80,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 525.95
+        },
+        "T1": {
+          "recall@10": 0.3125,
+          "recall@50": 0.9625,
+          "mrr": 1.0,
+          "ndcg@50": 0.9305722321953483,
+          "gold_block_count": 80,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 171.96
+        }
+      }
+    },
+    "topic-a00050d1e2d0": {
+      "question": "2023年成都大健康产业生态圈建设中，与广元、广安、乐山及重庆、山东、福建等地开展“双向飞地”合作、信息共享及联合监管的具体举措与成效是什么？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 268.26
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 547.08
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.43
+        }
+      }
+    },
+    "topic-4ff3754d584f": {
+      "question": "彭州市在区域合作中采取了哪些具体措施以促进与德阳等地的农产品交易及产业协作？",
+      "gold_block_count": 13,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8134478303300137,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.47
+        },
+        "T0": {
+          "recall@10": 0.6153846153846154,
+          "recall@50": 0.6153846153846154,
+          "mrr": 0.25,
+          "ndcg@50": 0.24738635904833423,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 559.72
+        },
+        "T1": {
+          "recall@10": 0.15384615384615385,
+          "recall@50": 0.38461538461538464,
+          "mrr": 1.0,
+          "ndcg@50": 0.30528198846218757,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 258.37
+        }
+      }
+    },
+    "topic-7e0b72d6840b": {
+      "question": "成都自贸试验区在2017-2019年期间，针对服务贸易建立了哪些具体的协调机制、支持制度及重点开放行业？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 212.41
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 534.33
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 195.23
+        }
+      }
+    },
+    "topic-d36803af19e7": {
+      "question": "成都如何构建服务于跨国企业的全球配送服务体系？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 240.07
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 542.21
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 220.94
+        }
+      }
+    },
+    "topic-163a8125fa66": {
+      "question": "成都自贸试验区在2017-2019年期间，针对加工贸易企业建设公共服务平台及促进内外贸协调发展的具体支持措施与责任主体是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.01
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 540.62
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 175.83
+        }
+      }
+    },
+    "topic-fb3ce359aea9": {
+      "question": "成都与省内市（州）及国内省市在区域协同创新方面的合作范围、主要领域、合作主体及具体形式有哪些？",
+      "gold_block_count": 16,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7188867971783512,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 268.96
+        },
+        "T0": {
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr": 0.5,
+          "ndcg@50": 0.26852556974265224,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 518.53
+        },
+        "T1": {
+          "recall@10": 0.375,
+          "recall@50": 0.375,
+          "mrr": 0.5,
+          "ndcg@50": 0.26536596322732897,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 203.6
+        }
+      }
+    },
+    "evidence-0dc054af8da0": {
+      "question": "成德高端能源装备产业集群在2021年3月入选国家级先进制造业集群时，其核心指标与产业地位如何？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.31
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 526.77
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.38
+        }
+      }
+    },
+    "proposition-1e74b5b9b331": {
+      "question": "成渝中线高铁建设全面启动的时间、地点及核心目标是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 238.96
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 549.73
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.98
+        }
+      }
+    },
+    "topic-af69a780d3bd": {
+      "question": "成都如何通过健全责任落实机制与构建区域协同创新共同体，推进自贸试验区建设与全面创新改革试验？",
+      "gold_block_count": 18,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 225.32
+        },
+        "T0": {
+          "recall@10": 0.05555555555555555,
+          "recall@50": 0.2777777777777778,
+          "mrr": 0.25,
+          "ndcg@50": 0.16565733159430485,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 535.05
+        },
+        "T1": {
+          "recall@10": 0.05555555555555555,
+          "recall@50": 0.2222222222222222,
+          "mrr": 1.0,
+          "ndcg@50": 0.2444897197304753,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 191.34
+        }
+      }
+    },
+    "topic-2bbb2912cf73": {
+      "question": "中欧班列（成渝）号在成渝两地同时首发的背景、运营特征及合作意义是什么？",
+      "gold_block_count": 8,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 259.12
+        },
+        "T0": {
+          "recall@10": 0.875,
+          "recall@50": 0.875,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 542.38
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9674679834891693,
+          "gold_block_count": 8,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.79
+        }
+      }
+    },
+    "topic-1834839d818f": {
+      "question": "成都在构建协同发展顶层机制方面，在规划衔接、工作推进及战略合作三个维度采取了哪些具体机制与举措？",
+      "gold_block_count": 14,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.60843355142416,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 264.08
+        },
+        "T0": {
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr": 1.0,
+          "ndcg@50": 0.44830398990253034,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 549.99
+        },
+        "T1": {
+          "recall@10": 0.5,
+          "recall@50": 0.6428571428571429,
+          "mrr": 1.0,
+          "ndcg@50": 0.4865965722739438,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 220.85
+        }
+      }
+    },
+    "proposition-efbb74c790a7": {
+      "question": "成德眉资同城化发展面临哪些主要问题，以及提出了哪些具体的对策建议？",
+      "gold_block_count": 46,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 46,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 240.9
+        },
+        "T0": {
+          "recall@10": 0.5,
+          "recall@50": 0.7608695652173914,
+          "mrr": 1.0,
+          "ndcg@50": 0.5681604225087482,
+          "gold_block_count": 46,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.97
+        },
+        "T1": {
+          "recall@10": 0.15217391304347827,
+          "recall@50": 0.8478260869565217,
+          "mrr": 1.0,
+          "ndcg@50": 0.7365829160124595,
+          "gold_block_count": 46,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 162.67
+        }
+      }
+    },
+    "topic-c473e49d7c1d": {
+      "question": "成都自贸试验区2017-2019年针对国际中小企业招引设立了哪些具体的资金奖励、补贴及政策支持措施？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.07
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 545.41
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.46
+        }
+      }
+    },
+    "topic-a4bf5a940af6": {
+      "question": "成都自贸试验区在货物贸易领域采取了哪些具体措施以实现口岸服务一体化及外贸转型升级？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.74
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.01
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 226.85
+        }
+      }
+    },
+    "topic-0e3f2a11419b": {
+      "question": "成都市如何健全对外开放工作的统筹协调机制、联系机制及考核体系？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.91
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 520.74
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.12
+        }
+      }
+    },
+    "proposition-18e797566a6f": {
+      "question": "四川省科技创新-生态环境-区域经济三系统协同发展的政策路径是什么？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 263.3
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5437713091520254,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 554.99
+        },
+        "T1": {
+          "recall@10": 0.6666666666666666,
+          "recall@50": 0.6666666666666666,
+          "mrr": 1.0,
+          "ndcg@50": 0.6436579276931672,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.64
+        }
+      }
+    },
+    "topic-a9fda3aa4241": {
+      "question": "成都如何构建国际合作平台的组织架构与推进机制，并计划通过何种方式拓展自贸试验区功能以联动产业功能区建设？",
+      "gold_block_count": 17,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 17,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 250.86
+        },
+        "T0": {
+          "recall@10": 0.17647058823529413,
+          "recall@50": 0.35294117647058826,
+          "mrr": 0.14285714285714285,
+          "ndcg@50": 0.1728444408331855,
+          "gold_block_count": 17,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 538.38
+        },
+        "T1": {
+          "recall@10": 0.11764705882352941,
+          "recall@50": 0.11764705882352941,
+          "mrr": 1.0,
+          "ndcg@50": 0.2945369036989339,
+          "gold_block_count": 17,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 217.16
+        }
+      }
+    },
+    "topic-57faeee776ef": {
+      "question": "成都自贸试验区在加大宣传推介方面采取了哪些具体工作措施？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 216.97
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 527.22
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 183.78
+        }
+      }
+    },
+    "topic-d1c2bca2c6d9": {
+      "question": "成都市针对纳入重点项目管理的外商投资项目，在用地保障、供地方式及地价优惠方面有哪些具体政策规定？",
+      "gold_block_count": 3,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 3,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 228.42
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 3,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 543.26
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 3,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 185.95
+        }
+      }
+    },
+    "topic-4392297e234b": {
+      "question": "2020年以来，锦江区在交通基础设施互联互通与区域协作发展方面取得了哪些具体进展？",
+      "gold_block_count": 20,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.741068016616822,
+          "gold_block_count": 20,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 253.55
+        },
+        "T0": {
+          "recall@10": 0.6,
+          "recall@50": 0.75,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.3707783317687294,
+          "gold_block_count": 20,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 545.83
+        },
+        "T1": {
+          "recall@10": 0.35,
+          "recall@50": 0.35,
+          "mrr": 1.0,
+          "ndcg@50": 0.3589542101716347,
+          "gold_block_count": 20,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 228.4
+        }
+      }
+    },
+    "topic-8a9c046f4eae": {
+      "question": "针对加工贸易企业，政策鼓励哪些具体的金融支持与信用保险措施？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 200.75
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 555.76
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 189.5
+        }
+      }
+    },
+    "proposition-b7a2480c9802": {
+      "question": "如何通过“反向飞地”模式实现创新要素的跨域重组，以解决区域创新失衡并促进欠发达地区产业升级？",
+      "gold_block_count": 57,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 57,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.68
+        },
+        "T0": {
+          "recall@10": 0.6842105263157895,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.976054195079538,
+          "gold_block_count": 57,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 510.76
+        },
+        "T1": {
+          "recall@10": 0.2807017543859649,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9921369528062214,
+          "gold_block_count": 57,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.21
+        }
+      }
+    },
+    "topic-f7addeebda62": {
+      "question": "成都市在2017-2019年期间，如何通过财政资金和金融服务支持加工贸易企业的技术改造、转型升级及承接转移？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.76
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 552.88
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 189.66
+        }
+      }
+    },
+    "topic-b0133e10607c": {
+      "question": "成昆高铁快运专线试点运行的具体方案、服务对象及预期经济影响是什么？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 226.13
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9197207891481876,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.91
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 232.54
+        }
+      }
+    },
+    "topic-9fcad8ae12fa": {
+      "question": "国际性研发机构资助的适用对象、设立条件、资质要求及资助标准是什么？",
+      "gold_block_count": 11,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6764513353325384,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 198.01
+        },
+        "T0": {
+          "recall@10": 0.9090909090909091,
+          "recall@50": 0.9090909090909091,
+          "mrr": 1.0,
+          "ndcg@50": 0.7653606369886217,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 540.92
+        },
+        "T1": {
+          "recall@10": 0.9090909090909091,
+          "recall@50": 0.9090909090909091,
+          "mrr": 1.0,
+          "ndcg@50": 0.8687949224876582,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 140.28
+        }
+      }
+    },
+    "topic-8dca2a5213d0": {
+      "question": "成都如何通过构建“双枢纽”和“双走廊”推进枢纽及通道建设，以增强其作为“一带一路”供应链核心节点和资源配置中心的门户运筹与辐射功能？",
+      "gold_block_count": 21,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.4414120605563083,
+          "gold_block_count": 21,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 241.04
+        },
+        "T0": {
+          "recall@10": 0.7142857142857143,
+          "recall@50": 0.9047619047619048,
+          "mrr": 1.0,
+          "ndcg@50": 0.7170409354794519,
+          "gold_block_count": 21,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 513.84
+        },
+        "T1": {
+          "recall@10": 0.38095238095238093,
+          "recall@50": 0.7142857142857143,
+          "mrr": 1.0,
+          "ndcg@50": 0.5592578632897321,
+          "gold_block_count": 21,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 194.51
+        }
+      }
+    },
+    "topic-dd5f3538b837": {
+      "question": "成都自贸试验区在2017-2019年期间，支持企业从贴牌生产（OEM）向自主品牌制造（OBM）转型的具体措施有哪些？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 259.3
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 544.75
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 186.17
+        }
+      }
+    },
+    "proposition-bd853dfef4f0": {
+      "question": "2021年12月17日，西部（重庆）与西部（成都）科学城管委会签署战略合作协议的具体内容、合作机制及战略目标是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 264.77
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.1,
+          "ndcg@50": 0.2890648263178879,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 551.84
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 247.2
+        }
+      }
+    },
+    "topic-3a3c4c8cd49c": {
+      "question": "2019年新津区在交通基础设施建设和区域协同发展方面取得了哪些具体进展？",
+      "gold_block_count": 15,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6979707905428567,
+          "gold_block_count": 15,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 259.03
+        },
+        "T0": {
+          "recall@10": 0.5333333333333333,
+          "recall@50": 0.5333333333333333,
+          "mrr": 1.0,
+          "ndcg@50": 0.44830398990253034,
+          "gold_block_count": 15,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 558.15
+        },
+        "T1": {
+          "recall@10": 0.13333333333333333,
+          "recall@50": 0.4666666666666667,
+          "mrr": 1.0,
+          "ndcg@50": 0.3635288134567071,
+          "gold_block_count": 15,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 194.65
+        }
+      }
+    },
+    "topic-d1b7b91d332c": {
+      "question": "2018年以来，新津县围绕建设城南门户枢纽城市，在区域合作方面采取了哪些重点举措并取得了哪些具体成效？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.86034433104172,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 246.37
+        },
+        "T0": {
+          "recall@10": 0.8333333333333334,
+          "recall@50": 0.8333333333333334,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 560.29
+        },
+        "T1": {
+          "recall@10": 0.6666666666666666,
+          "recall@50": 0.8333333333333334,
+          "mrr": 1.0,
+          "ndcg@50": 0.573019700631139,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 207.46
+        }
+      }
+    },
+    "topic-b73784b66329": {
+      "question": "成都市国际科技合作活动资助中A类与B类活动的定义、分类标准及对应的资助政策是什么？",
+      "gold_block_count": 13,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7150242411576379,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 251.8
+        },
+        "T0": {
+          "recall@10": 0.9230769230769231,
+          "recall@50": 0.9230769230769231,
+          "mrr": 1.0,
+          "ndcg@50": 0.7653606369886217,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.89
+        },
+        "T1": {
+          "recall@10": 0.9230769230769231,
+          "recall@50": 0.9230769230769231,
+          "mrr": 1.0,
+          "ndcg@50": 0.9156857657441143,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 149.94
+        }
+      }
+    },
+    "topic-f3d39e57a3a1": {
+      "question": "中国（四川）-东盟自由贸易合作中心何时成立、位于何处、由谁运营，以及其核心功能定位是什么？",
+      "gold_block_count": 12,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 251.28
+        },
+        "T0": {
+          "recall@10": 0.9166666666666666,
+          "recall@50": 0.9166666666666666,
+          "mrr": 1.0,
+          "ndcg@50": 0.7653606369886217,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.26
+        },
+        "T1": {
+          "recall@10": 0.5,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7987328257223181,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.96
+        }
+      }
+    },
+    "topic-c766fc8fe80c": {
+      "question": "国家发改委《成渝城市群发展规划》赋予成都的国家中心城市具体功能定位是什么？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 246.81
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 530.04
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8772153153380493,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.9
+        }
+      }
+    },
+    "topic-7aed14668a10": {
+      "question": "成都构建高水平国际门户枢纽和内陆开放高地的宏观战略框架与具体政策依据是什么？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.404368072255634,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 233.92
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 0.3333333333333333,
+          "mrr": 0.058823529411764705,
+          "ndcg@50": 0.22301128375456503,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 525.31
+        },
+        "T1": {
+          "recall@10": 0.16666666666666666,
+          "recall@50": 0.16666666666666666,
+          "mrr": 0.25,
+          "ndcg@50": 0.20210734650054757,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 198.21
+        }
+      }
+    },
+    "topic-44609e31a7b4": {
+      "question": "金堂县在区域产业协同与产业链互补方面取得了哪些具体合作成果及经济贡献？",
+      "gold_block_count": 13,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6982472487987883,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 268.8
+        },
+        "T0": {
+          "recall@10": 0.46153846153846156,
+          "recall@50": 0.46153846153846156,
+          "mrr": 1.0,
+          "ndcg@50": 0.3026024134988135,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 557.2
+        },
+        "T1": {
+          "recall@10": 0.23076923076923078,
+          "recall@50": 0.46153846153846156,
+          "mrr": 1.0,
+          "ndcg@50": 0.4474785528159641,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.85
+        }
+      }
+    },
+    "topic-153a0de0e945": {
+      "question": "2020年11月成都市与上海交通大学签署合作协议共建了哪些高能级平台与研究中心，其核心功能与建设目标是什么？",
+      "gold_block_count": 12,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 265.47
+        },
+        "T0": {
+          "recall@10": 0.6666666666666666,
+          "recall@50": 0.6666666666666666,
+          "mrr": 1.0,
+          "ndcg@50": 0.5585075862632192,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.8
+        },
+        "T1": {
+          "recall@10": 0.3333333333333333,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8159294221516087,
+          "gold_block_count": 12,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 250.3
+        }
+      }
+    },
+    "topic-d6af56908b80": {
+      "question": "成都生态共建共保的合作对象范围是如何演进的？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 258.45
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 532.44
+        },
+        "T1": {
+          "recall@10": 0.75,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7482216716738863,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 187.19
+        }
+      }
+    },
+    "topic-6ac00abf5a1f": {
+      "question": "成都自贸试验区在加大外商投资企业知识产权保护力度方面采取了哪些具体改革措施和管理机制？",
+      "gold_block_count": 5,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 204.36
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.1111111111111111,
+          "ndcg@50": 0.36181498356361597,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.93
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 205.98
+        }
+      }
+    },
+    "topic-cbde2a4d899b": {
+      "question": "成都建设国际化社区标杆城市的具体实施路径、分类建设模式及配套保障机制是什么？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.25
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.38
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 198.49
+        }
+      }
+    },
+    "topic-a90d03759151": {
+      "question": "成都市国际科技合作项目资助包含哪些具体类别，各类别的资助对象、核心条件及经费资助标准分别是什么？",
+      "gold_block_count": 29,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6161627675638194,
+          "gold_block_count": 29,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 254.22
+        },
+        "T0": {
+          "recall@10": 0.9655172413793104,
+          "recall@50": 0.9655172413793104,
+          "mrr": 1.0,
+          "ndcg@50": 0.7039180890341347,
+          "gold_block_count": 29,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 542.79
+        },
+        "T1": {
+          "recall@10": 0.5862068965517241,
+          "recall@50": 0.9655172413793104,
+          "mrr": 1.0,
+          "ndcg@50": 0.8624760766187171,
+          "gold_block_count": 29,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 135.82
+        }
+      }
+    },
+    "topic-15601959bb54": {
+      "question": "成都片区在优化加工贸易管理体制方面采取了哪些具体改革措施？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 222.14
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 529.58
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 209.15
+        }
+      }
+    },
+    "topic-cbcc2acf497f": {
+      "question": "成都市在2017-2019年期间通过哪些具体策略承接加工贸易转移，并实施了哪些产业互动与转移实践？",
+      "gold_block_count": 14,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.513357361402396,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.71
+        },
+        "T0": {
+          "recall@10": 0.2857142857142857,
+          "recall@50": 0.2857142857142857,
+          "mrr": 1.0,
+          "ndcg@50": 0.3026024134988135,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 550.85
+        },
+        "T1": {
+          "recall@10": 0.2857142857142857,
+          "recall@50": 0.2857142857142857,
+          "mrr": 1.0,
+          "ndcg@50": 0.3187704634136789,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 210.43
+        }
+      }
+    },
+    "topic-93389ff7b8ce": {
+      "question": "成渝地区双城经济圈发展基金的设立背景、总规模、备案时间、首批子基金落地情况及投资方向是什么？",
+      "gold_block_count": 5,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 241.69
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9709286432396583,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 532.18
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.13
+        }
+      }
+    },
+    "evidence-f4b917d5cc03": {
+      "question": "成都都市圈环线高速公路何时实现全线通车及总里程是多少？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 233.59
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 521.64
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 230.0
+        }
+      }
+    },
+    "topic-847b6f337f4a": {
+      "question": "成都在基础设施共建方面的合作对象、合作区域及主要合作领域有哪些？",
+      "gold_block_count": 16,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6736484947028408,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 276.48
+        },
+        "T0": {
+          "recall@10": 0.5625,
+          "recall@50": 0.5625,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.15130120674940675,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 528.19
+        },
+        "T1": {
+          "recall@10": 0.375,
+          "recall@50": 0.375,
+          "mrr": 1.0,
+          "ndcg@50": 0.30523488393970116,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 216.14
+        }
+      }
+    },
+    "proposition-409d61df4f02": {
+      "question": "成都未来深化区域合作的具体建议措施有哪些？",
+      "gold_block_count": 11,
+      "arms": {
+        "C1": {
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr": 0.023809523809523808,
+          "ndcg@50": 0.18428883314870617,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.04
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 0.18181818181818182,
+          "mrr": 0.08333333333333333,
+          "ndcg@50": 0.09165402792833294,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 512.52
+        },
+        "T1": {
+          "recall@10": 0.6363636363636364,
+          "recall@50": 0.7272727272727273,
+          "mrr": 1.0,
+          "ndcg@50": 0.7063357276473687,
+          "gold_block_count": 11,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 214.38
+        }
+      }
+    },
+    "topic-d01ff8eb04bb": {
+      "question": "2016年成都建设国际门户枢纽在航空、铁路、公路及多式联运方面采取了哪些具体举措？",
+      "gold_block_count": 10,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 250.47
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 535.76
+        },
+        "T1": {
+          "recall@10": 0.7,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9220121576155524,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 222.71
+        }
+      }
+    },
+    "topic-a8fe9c632dcb": {
+      "question": "成都自贸试验区在“注重人才支撑”方面，如何深化干部人事制度改革并构建市场化管理体系及培训机制？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.89
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 524.74
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 176.97
+        }
+      }
+    },
+    "topic-9f317fa1bbeb": {
+      "question": "成都实施国际友好往来工程的具体措施、参与主体及责任分工是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 209.47
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 531.36
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 208.23
+        }
+      }
+    },
+    "topic-7e7008f18035": {
+      "question": "中意文化交流城市会客厅的地理位置、空间构成、设计特色及入驻机构有哪些？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 248.58
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6934264036172708,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 530.9
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.9197207891481876,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.75
+        }
+      }
+    },
+    "topic-5e07638e7463": {
+      "question": "2021年成都高能级开放平台建设（含自贸区、开发区、口岸及国别合作园区）的整体发展成效与核心指标表现如何？",
+      "gold_block_count": 63,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 63,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 252.88
+        },
+        "T0": {
+          "recall@10": 0.15873015873015872,
+          "recall@50": 0.47619047619047616,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.3163343813291741,
+          "gold_block_count": 63,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 494.13
+        },
+        "T1": {
+          "recall@10": 0.09523809523809523,
+          "recall@50": 0.3333333333333333,
+          "mrr": 1.0,
+          "ndcg@50": 0.38031484903934,
+          "gold_block_count": 63,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 205.63
+        }
+      }
+    },
+    "topic-6893b461004f": {
+      "question": "简阳市与郫都区如何通过跨区域生态环保合作协议建立联动机制并推进生态廊道建设，以落实区域协作发展？",
+      "gold_block_count": 18,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7425817486275681,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 263.56
+        },
+        "T0": {
+          "recall@10": 0.6111111111111112,
+          "recall@50": 0.7222222222222222,
+          "mrr": 1.0,
+          "ndcg@50": 0.5689088051258946,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 547.17
+        },
+        "T1": {
+          "recall@10": 0.2777777777777778,
+          "recall@50": 0.4444444444444444,
+          "mrr": 1.0,
+          "ndcg@50": 0.41818367865185585,
+          "gold_block_count": 18,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 215.69
+        }
+      }
+    },
+    "topic-3be9eaa59bca": {
+      "question": "成都实施海外人才来蓉创新创业工程的具体措施、资助标准及保障机制是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.43
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 529.15
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 196.7
+        }
+      }
+    },
+    "topic-b158b0422173": {
+      "question": "基于地理学第一定律与“时空压缩效应”，区域空间结构研究如何从“场所空间”转向“流空间”并形成城市网络？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 254.12
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.25,
+          "ndcg@50": 0.43067655807339306,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 517.69
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 240.11
+        }
+      }
+    },
+    "topic-b40bd941d2d0": {
+      "question": "成都在重点合作领域中，如何通过创新资源对接与生态环境共治两大方向，与省内外城市开展务实合作并实现协同发展？",
+      "gold_block_count": 60,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7753488885005978,
+          "gold_block_count": 60,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 270.76
+        },
+        "T0": {
+          "recall@10": 0.3,
+          "recall@50": 0.55,
+          "mrr": 0.5,
+          "ndcg@50": 0.38793016714415135,
+          "gold_block_count": 60,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 526.65
+        },
+        "T1": {
+          "recall@10": 0.13333333333333333,
+          "recall@50": 0.26666666666666666,
+          "mrr": 1.0,
+          "ndcg@50": 0.27944271947808225,
+          "gold_block_count": 60,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 201.17
+        }
+      }
+    },
+    "topic-6d86a87d31c1": {
+      "question": "成都高新区与宜宾五粮液集团在新经济项目合作方面的具体举措及落地情况是什么？",
+      "gold_block_count": 14,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.5620057845108395,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 261.66
+        },
+        "T0": {
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr": 1.0,
+          "ndcg@50": 0.3026024134988135,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 543.91
+        },
+        "T1": {
+          "recall@10": 0.14285714285714285,
+          "recall@50": 0.2857142857142857,
+          "mrr": 0.5,
+          "ndcg@50": 0.1776627370514257,
+          "gold_block_count": 14,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 226.23
+        }
+      }
+    },
+    "proposition-bed62f615ae8": {
+      "question": "成德眉资四市公共交通“卡码通乘”政策的具体实施时间、覆盖范围、适用对象及优惠措施是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 228.87
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 535.44
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 224.69
+        }
+      }
+    },
+    "topic-a176bcc660fd": {
+      "question": "成都如何通过重大文化设施建设、文创品牌活动及海外阵地平台推动天府文化走出去与文创企业国际化？",
+      "gold_block_count": 32,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.3618476659405536,
+          "gold_block_count": 32,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 237.08
+        },
+        "T0": {
+          "recall@10": 0.125,
+          "recall@50": 0.125,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.21689524588991285,
+          "gold_block_count": 32,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.53
+        },
+        "T1": {
+          "recall@10": 0.0625,
+          "recall@50": 0.0625,
+          "mrr": 1.0,
+          "ndcg@50": 0.26710287315859593,
+          "gold_block_count": 32,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.51
+        }
+      }
+    },
+    "topic-bdfd9ce98c0f": {
+      "question": "成都市如何依托优质教育资源，从教育模式、内容、方法及信息等方面与省内市(州)开展全方位合作？",
+      "gold_block_count": 102,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6643270076947633,
+          "gold_block_count": 102,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 274.38
+        },
+        "T0": {
+          "recall@10": 0.30392156862745096,
+          "recall@50": 0.5882352941176471,
+          "mrr": 0.5,
+          "ndcg@50": 0.4496155174879999,
+          "gold_block_count": 102,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.64
+        },
+        "T1": {
+          "recall@10": 0.0392156862745098,
+          "recall@50": 0.18627450980392157,
+          "mrr": 1.0,
+          "ndcg@50": 0.23819342805875054,
+          "gold_block_count": 102,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 229.13
+        }
+      }
+    },
+    "topic-67016b863818": {
+      "question": "成都自贸试验区在2017-2019年期间，为深入推进监管治理，确立了哪些核心监管模式、具体技术手段及多方参与的社会治理体系？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 232.09
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.66
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 193.03
+        }
+      }
+    },
+    "topic-624d4bc10aec": {
+      "question": "成都自贸试验区如何通过校企合作与政策配套解决加工贸易企业的人才短缺问题？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 233.8
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 549.38
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 190.03
+        }
+      }
+    },
+    "topic-42f17b957085": {
+      "question": "在蓉举办的国际性、国家级、专业类展览项目，以及与国际国内知名展览公司合资合作办展、获得UFI认证展会、纳入ICCA统计国际会议、境外参展及旅游企业海外设点等情形，分别适用何种资金补贴、奖励或扶持政策？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 225.06
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 546.61
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 204.32
+        }
+      }
+    },
+    "topic-ac91c957eb32": {
+      "question": "成都自贸试验区在降低外企运营成本方面采取了哪些具体措施？",
+      "gold_block_count": 7,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 205.38
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 532.04
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 206.02
+        }
+      }
+    },
+    "topic-d4fc888326ef": {
+      "question": "2023年成都如何通过项目配套、基地共建及核心技术攻关与周边城市构建航空航天产业联动格局？",
+      "gold_block_count": 13,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 273.49
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 518.51
+        },
+        "T1": {
+          "recall@10": 0.5384615384615384,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8921776538210152,
+          "gold_block_count": 13,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 251.45
+        }
+      }
+    },
+    "topic-deacbebcfc4b": {
+      "question": "青白江区依托成都国际铁路港枢纽优势，通过哪些具体合作领域和举措推动区域合作向宽领域和深层次发展？",
+      "gold_block_count": 20,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.582903937133636,
+          "gold_block_count": 20,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 276.23
+        },
+        "T0": {
+          "recall@10": 0.25,
+          "recall@50": 0.6,
+          "mrr": 1.0,
+          "ndcg@50": 0.31360151621877874,
+          "gold_block_count": 20,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 538.53
+        },
+        "T1": {
+          "recall@10": 0.15,
+          "recall@50": 0.5,
+          "mrr": 1.0,
+          "ndcg@50": 0.3563611296717891,
+          "gold_block_count": 20,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 232.57
+        }
+      }
+    },
+    "topic-d8b16a76e5db": {
+      "question": "成都自贸试验区在2017-2019年期间重点发展的先进制造业和新兴产业具体包括哪些领域？",
+      "gold_block_count": 7,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 254.23
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 529.09
+        },
+        "T1": {
+          "recall@10": 0.7142857142857143,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7486924110517823,
+          "gold_block_count": 7,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 194.24
+        }
+      }
+    },
+    "topic-67897d05527a": {
+      "question": "成宜高速公路全线建成开通的关键事实、技术特征、战略定位及未来规划是什么？",
+      "gold_block_count": 6,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.55
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 533.38
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 6,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 213.83
+        }
+      }
+    },
+    "topic-111bd8d315ae": {
+      "question": "成都市为拓宽外商投资融资渠道，在上市挂牌、债券发行、基金引导及PPP模式方面采取了哪些具体支持措施？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 230.76
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 530.87
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 191.39
+        }
+      }
+    },
+    "topic-17d5b1324077": {
+      "question": "成都下一步推进对外交往中心建设及打造世界旅游名城的具体实施路径与核心举措是什么？",
+      "gold_block_count": 16,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 223.33
+        },
+        "T0": {
+          "recall@10": 0.125,
+          "recall@50": 0.4375,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.28890327099103824,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 537.1
+        },
+        "T1": {
+          "recall@10": 0.25,
+          "recall@50": 0.8125,
+          "mrr": 1.0,
+          "ndcg@50": 0.6469417212535163,
+          "gold_block_count": 16,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 204.93
+        }
+      }
+    },
+    "topic-7c289f7f9ff5": {
+      "question": "成都平原经济区八市在2018年签署了哪些区域环境联防联控合作协议，其核心目标与机制是什么？",
+      "gold_block_count": 10,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7420981285103057,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 262.54
+        },
+        "T0": {
+          "recall@10": 0.5,
+          "recall@50": 0.9,
+          "mrr": 0.2,
+          "ndcg@50": 0.3796663968332806,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 544.78
+        },
+        "T1": {
+          "recall@10": 0.2,
+          "recall@50": 0.5,
+          "mrr": 0.5,
+          "ndcg@50": 0.22319198209241753,
+          "gold_block_count": 10,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.91
+        }
+      }
+    },
+    "topic-b7d61a97c44f": {
+      "question": "成都自贸试验区在2017-2019年期间，针对引进世界知名大学及海外研发机构、建设海外孵化中心及并购国际研发企业，提供了哪些具体的财政资助与补贴标准？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.61
+        },
+        "T0": {
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr": 0.05263157894736842,
+          "ndcg@50": 0.23137821315975915,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 546.2
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 203.88
+        }
+      }
+    },
+    "topic-0350943d6cdc": {
+      "question": "中德（蒲江）中小企业合作区获批设立及后续建设中的核心定位、功能示范与实施路径是什么？",
+      "gold_block_count": 9,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 245.07
+        },
+        "T0": {
+          "recall@10": 0.8888888888888888,
+          "recall@50": 1.0,
+          "mrr": 0.25,
+          "ndcg@50": 0.4818066902622174,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 549.33
+        },
+        "T1": {
+          "recall@10": 0.8888888888888888,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8962626271568189,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 234.35
+        }
+      }
+    },
+    "topic-b7449d2aea62": {
+      "question": "2018年以来，温江区在“三医融合”背景下，通过哪些具体举措与省内、国内地区开展区域合作并取得成效？",
+      "gold_block_count": 5,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 263.48
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 551.14
+        },
+        "T1": {
+          "recall@10": 0.8,
+          "recall@50": 0.8,
+          "mrr": 1.0,
+          "ndcg@50": 0.6131471927654584,
+          "gold_block_count": 5,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 238.63
+        }
+      }
+    },
+    "topic-66d93b99f07b": {
+      "question": "重庆成都双核联动联建会议机制的启动与深化落实过程及成效如何？",
+      "gold_block_count": 57,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 57,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 242.37
+        },
+        "T0": {
+          "recall@10": 0.40350877192982454,
+          "recall@50": 0.45614035087719296,
+          "mrr": 1.0,
+          "ndcg@50": 0.46119806572770905,
+          "gold_block_count": 57,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 532.96
+        },
+        "T1": {
+          "recall@10": 0.22807017543859648,
+          "recall@50": 0.6842105263157895,
+          "mrr": 1.0,
+          "ndcg@50": 0.7054043717555989,
+          "gold_block_count": 57,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 225.53
+        }
+      }
+    },
+    "topic-4c9cbcbac34c": {
+      "question": "对弄虚作假、虚报冒领资助经费的单位，将采取哪些具体的处罚措施？",
+      "gold_block_count": 23,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.6285991631429148,
+          "gold_block_count": 23,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 181.51
+        },
+        "T0": {
+          "recall@10": 0.6521739130434783,
+          "recall@50": 0.9565217391304348,
+          "mrr": 1.0,
+          "ndcg@50": 0.8001529229490052,
+          "gold_block_count": 23,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 554.71
+        },
+        "T1": {
+          "recall@10": 0.17391304347826086,
+          "recall@50": 0.5217391304347826,
+          "mrr": 1.0,
+          "ndcg@50": 0.4157381856601332,
+          "gold_block_count": 23,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 142.31
+        }
+      }
+    },
+    "topic-90f5ea6eaf02": {
+      "question": "成都自贸试验区在2017-2019年期间，如何通过优化产品结构和能级来升级加工贸易结构？",
+      "gold_block_count": 3,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 3,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 231.88
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.3333333333333333,
+          "ndcg@50": 0.5,
+          "gold_block_count": 3,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 536.98
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 3,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 177.21
+        }
+      }
+    },
+    "topic-ee99aa2d46d9": {
+      "question": "成都市对鼓励类外商投资项目按实际到位资金给予奖励的具体比例、金额区间及违约处理措施是什么？",
+      "gold_block_count": 1,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 205.21
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 0.5,
+          "ndcg@50": 0.6309297535714575,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 548.01
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 1,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 176.79
+        }
+      }
+    },
+    "topic-46343187c37a": {
+      "question": "《成都市鼓励类外商投资产业目录（2017年版）》包含哪些具体产业类别及对应的责任部门？",
+      "gold_block_count": 4,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 248.2
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 546.04
+        },
+        "T1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 4,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 190.34
+        }
+      }
+    },
+    "topic-cc82bb53056e": {
+      "question": "成都如何营造对外开放氛围并引导社会力量参与内陆开放经济高地建设？",
+      "gold_block_count": 2,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 232.06
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 511.51
+        },
+        "T1": {
+          "recall@10": 0.5,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.7247938777751572,
+          "gold_block_count": 2,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 188.49
+        }
+      }
+    },
+    "topic-93ea5d0d8382": {
+      "question": "2020年以来，温江区在“三医”产业定位下，通过哪些具体举措推进区域协作发展并取得了哪些成果？",
+      "gold_block_count": 9,
+      "arms": {
+        "C1": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 1.0,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 261.42
+        },
+        "T0": {
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr": 1.0,
+          "ndcg@50": 0.8065735963827293,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 559.6
+        },
+        "T1": {
+          "recall@10": 0.5555555555555556,
+          "recall@50": 0.8888888888888888,
+          "mrr": 1.0,
+          "ndcg@50": 0.5797511209818538,
+          "gold_block_count": 9,
+          "retrieved_units": 50,
+          "avg_retrieved_text_tokens": 236.65
+        }
+      }
+    }
+  },
+  "summary": {
+    "recall@10": {
+      "C1": 0.9928571428571429,
+      "T0": 0.7431601317226684,
+      "T1": 0.6939015750854506
+    },
+    "recall@50": {
+      "C1": 1.0,
+      "T0": 0.8396139438737051,
+      "T1": 0.8192747824265415
+    },
+    "mrr": {
+      "C1": 0.939297052154195,
+      "T0": 0.7118180690662765,
+      "T1": 0.9616071428571429
+    },
+    "ndcg@50": {
+      "C1": 0.8467423018517036,
+      "T0": 0.632571521849676,
+      "T1": 0.7746315552271523
+    }
+  },
+  "avg_retrieved_text_tokens_per_question": {
+    "C1": 242.2,
+    "T0": 536.4,
+    "T1": 211.5
+  },
+  "pairwise": {
+    "recall@10": {
+      "C1-T0": {
+        "mean_delta": 0.2496970111344745,
+        "wins": 66,
+        "ties": 74,
+        "losses": 0
+      },
+      "C1-T1": {
+        "mean_delta": 0.2989555677716923,
+        "wins": 71,
+        "ties": 68,
+        "losses": 1
+      }
+    },
+    "recall@50": {
+      "C1-T0": {
+        "mean_delta": 0.16038605612629483,
+        "wins": 55,
+        "ties": 85,
+        "losses": 0
+      },
+      "C1-T1": {
+        "mean_delta": 0.18072521757345844,
+        "wins": 57,
+        "ties": 83,
+        "losses": 0
+      }
+    },
+    "mrr": {
+      "C1-T0": {
+        "mean_delta": 0.22747898308791845,
+        "wins": 54,
+        "ties": 81,
+        "losses": 5
+      },
+      "C1-T1": {
+        "mean_delta": -0.022310090702947847,
+        "wins": 8,
+        "ties": 121,
+        "losses": 11
+      }
+    },
+    "ndcg@50": {
+      "C1-T0": {
+        "mean_delta": 0.21417078000202774,
+        "wins": 92,
+        "ties": 35,
+        "losses": 13
+      },
+      "C1-T1": {
+        "mean_delta": 0.0721107466245514,
+        "wins": 58,
+        "ties": 60,
+        "losses": 22
+      }
+    }
+  },
+  "judgment": "C1 占优（4 项指标中 3 项同时胜过 T0 与 T1 的宏观均值，含符号统计）"
+}
