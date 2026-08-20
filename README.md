@@ -185,6 +185,11 @@ For retrieval experiments, the independent [RAG generation adapter](docs/operati
 provides environment-configured OpenAI-compatible HyDE and citation-aware answer
 generation, including client-observed TTFT, total latency, and token usage.
 
+For a directional three-arm retrieval-quality micro-experiment comparing
+Concept units (C1) with fixed-length and heading-aware chunking (T0/T1) over
+140 real questions × 6 metrics, see
+[experiment-data/micro-rag-three-arm/README.md](experiment-data/micro-rag-three-arm/README.md).
+
 The checks cover schema contracts, provenance, asset and source isolation,
 MCP safety gates, deterministic publication, and public-release leakage.
 
