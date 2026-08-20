@@ -60,38 +60,63 @@ gold = 该组 `evidence_provenance.source_blocks` 的 block_id 集合
 
 **结论先行**：在完全相同的查询集、BM25+BGE-M3 dense+RRF 检索链路与指标口径下
 （仅检索单元不同），C1 概念单元在证据块召回上**系统性优于**两种传统分块，且以更省的
-上下文预算达成更高召回。三个最有力的数字锚点：(1) **recall@10 达 0.993**（T0 0.743、
-T1 0.694）；(2) 对 T0 的两项 recall 配对比较**零负场**（66/74/0、55/85/0）；
+上下文预算达成更高召回。三个最有力的数字锚点：(1) **recall@5 即达 0.986**（T0 0.658、
+T1 0.653），recall@10 达 **0.993**（T0 0.743、T1 0.694）；(2) 对 T0 的两项 recall
+配对比较**零负场**（recall@5 75/65/0、recall@10 66/74/0）；
 (3) 以**约 45% 的 T0 检索预算**（242 vs 536 token/题，`len(text)/2` 近似）取得更高召回。
 
 | metric | C1 | T0 | T1 |
 | --- | --- | --- | --- |
+| recall@5 | **0.9857** | 0.6578 | 0.6526 |
 | recall@10 | **0.9929** | 0.7432 | 0.6939 |
+| recall@20 | **0.9929** | 0.7942 | 0.7479 |
 | recall@50 | **1.0000** | 0.8396 | 0.8193 |
 | mrr | 0.9393 | 0.7118 | **0.9616** |
 | ndcg@50 | **0.8467** | 0.6326 | 0.7746 |
 
-解读：recall 与 MRR 的差异值得注意——T1 的短 child 单元让首个命中排得更靠前
-（MRR 0.9616 微胜 C1 0.9393），但其顶层召回最低（recall@10 仅 0.694），即
-"更早命中一个答案块、但顶部覆盖不足"；nDCG@50（C1 0.8467 > T1 0.7746 >
-T0 0.6326）则体现 C1 在整体排名质量上的优势。
+解读：C1 的顶部排序优势集中在前 5 位——recall@5 上差距最大（C1 0.986 vs T0 0.658、
+T1 0.653），recall@10 起已基本饱和（0.993）。recall 与 MRR 的差异也值得注意：T1 的
+短 child 单元让首个命中排得更靠前（MRR 0.9616 微胜 C1 0.9393），但其顶层召回最低
+（recall@10 仅 0.694），即"更早命中一个答案块、但顶部覆盖不足"；nDCG@50
+（C1 0.8467 > T1 0.7746 > T0 0.6326）则体现 C1 在整体排名质量上的优势。
 
 配对差值（mean delta, wins/ties/losses）：
 
 | metric | C1−T0 mean | C1−T0 w/t/l | C1−T1 mean | C1−T1 w/t/l |
 | --- | --- | --- | --- | --- |
+| recall@5 | +0.3279 | 75/65/0 | +0.3331 | 70/68/2 |
 | recall@10 | +0.2497 | 66/74/0 | +0.2990 | 71/68/1 |
+| recall@20 | +0.1987 | 60/79/1 | +0.2450 | 65/74/1 |
 | recall@50 | +0.1604 | 55/85/0 | +0.1807 | 57/83/0 |
 | mrr | +0.2275 | 54/81/5 | −0.0223 | 8/121/11 |
 | ndcg@50 | +0.2142 | 92/35/13 | +0.0721 | 58/60/22 |
 
-**结论**：C1 占优——recall@10、recall@50、nDCG@50 三项宏观均值一致优于 T0 与 T1
-（C1−T0 四项配对均值差全为正，其中 recall 两项零负场）；唯一例外是 MRR，
-T1 以 0.9616 微胜 C1 0.9393，且 121/140 题两臂打平（8 胜/121 平/11 负），
+**结论**：C1 占优——recall@5/10/20/50 与 nDCG@50 五项宏观均值一致优于 T0 与 T1
+（C1−T0 六项配对均值差全为正，其中 recall@5/10/50 零负场；对 T1 除 MRR 外均胜）；
+唯一例外是 MRR，T1 以 0.9616 微胜 C1 0.9393，且 121/140 题两臂打平（8 胜/121 平/11 负），
 该差异源自 T1 短单元的首中排名而非整体召回。作为方向性验证，该结果支持
 **概念单元值得进入正式全量验证**：应在 `docs/operations/rag-three-arm-experiment.md`
 的完整 runner（含 rerank、上下文预算选择、配对 bootstrap 置信区间）中检验
 其是否在正式口径下保持优势。
+
+## 检索预算与效率
+
+三臂的检索文本预算差异显著：每问题平均检索 token 数（`len(text)/2` 中文近似，
+对每题 top-50 融合结果取平均）为 **C1≈242、T0≈536、T1≈212**。将 recall 按单位
+预算归一化（`recall10_per_1k_tokens` = recall@10 ÷ 检索 token 数/1000，
+含义与近似性见 result.json 的 `metric_notes`）：
+
+| metric | C1 | T0 | T1 |
+| --- | --- | --- | --- |
+| avg tokens/题 | 242.2 | 536.4 | 211.5 |
+| recall@10 per 1k tokens | **4.13** | 1.38 | 3.36 |
+
+解读：C1 以约 **45% 的 T0 预算**（242 vs 536 token/题）达成更高 recall@10，
+单位预算召回效率为 T0 的 **2.98 倍**、T1 的 1.23 倍；C1 与 T1 的预算相近
+（242 vs 212），效率差距主要来自 C1 的顶层召回优势。配对层面，该效率指标
+C1−T0 为 139 胜/1 平/0 负，C1−T1 为 72 胜/0 平/68 负——T1 因检索文本更省
+（212 token/题），在约半数题上单位预算效率反超。该指标为近似值（中文
+`len(text)/2` token 近似），仅作方向性参考。
 
 ## 配置差异（与正式 runner 的差异，需注意）
 
@@ -140,11 +165,14 @@ EMB_URL=http://localhost:1234/v1/embeddings EMB_MODEL=bge-m3-mlx \
 `--emb-model`、`--emb-dim`、`--poll-attempts`、`--batch-docs`、`--batch-queries`
 （默认值与原归档运行完全一致）。脚本只读仓库数据，不写任何仓库文件。
 
-`result.json` 为完整结果（schema `okfolio.micro-experiment.retrieval-quality.v1`）：
-`config`、`corpus_stats`、`per_question`（140 题 × 三臂 × 4 指标）、`summary`、
-`pairwise`、`judgment`。
+`result.json` 为完整结果（schema `okfolio.micro-experiment.retrieval-quality.v1`，
+version 2）：`metrics` 与 `metric_notes`（指标定义与近似说明）、`config`、
+`corpus_stats`、`per_question`（140 题 × 三臂 × 6 检索指标 + 预算效率指标）、
+`summary`、`pairwise`、`judgment`。
 
 ## 归档一致性
 
-归档的 `result.json` 与参数化脚本在 `/tmp/micro-rag-out2` 的完整重跑结果逐项一致
-（macro 与每题级差异均为 0.0 < 0.001，BM25/RRF 完全确定，嵌入服务端到端一致）。
+归档的 `result.json`（version 2）与参数化脚本在 `/tmp/micro-rag-out3` 的完整重跑
+结果逐项一致（macro 与每题级差异均为 0.0 < 0.001，BM25/RRF 完全确定，嵌入服务
+端到端一致）；recall@10/50、MRR、nDCG@50 四项旧指标值与上一版归档
+`result.json` 逐位一致（重跑确定性验证，macro 差异 0.0）。

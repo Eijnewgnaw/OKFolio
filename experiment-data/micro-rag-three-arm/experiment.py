@@ -431,8 +431,19 @@ def unit_block_coverage(corpus: CorpusBuild):
 # --------------------------------------------------------------------------
 # Metrics
 # --------------------------------------------------------------------------
+RECALL_CUTS = (5, 10, 20, 50)
+EFF_METRIC = "recall10_per_1k_tokens"
+
+
 def evaluate_arm(units, coverage, questions, fused_by_qid, label):
-    """Compute per-question metrics for one arm over the fused top-50 ranks."""
+    """Compute per-question metrics for one arm over the fused top-50 ranks.
+
+    Retrieval metrics: recall@5/10/20/50, MRR, nDCG@50, all derived from the
+    same fused top-50 ranking (RRF, rrf_k=60).  Budget-efficiency metric:
+    ``recall10_per_1k_tokens`` = recall@10 / (avg_retrieved_text_tokens / 1000),
+    where avg_retrieved_text_tokens is the mean ``len(text)/2`` Chinese-token
+    approximation over the top-50 fused units (per question).
+    """
     cov_list = [coverage[u.unit_id] for u in units]  # aligned with corpus units
     rows = {}
     for q in questions:
@@ -443,20 +454,20 @@ def evaluate_arm(units, coverage, questions, fused_by_qid, label):
         top = fused[:FUSION_TOP_K]
         if n_gold == 0:
             rows[qid] = {
-                "recall@10": None, "recall@50": None, "mrr": None, "ndcg@50": None,
+                **{f"recall@{k}": None for k in RECALL_CUTS},
+                "mrr": None, "ndcg@50": None, EFF_METRIC: None,
                 "gold_block_count": 0, "retrieved_units": len(top),
                 "avg_retrieved_text_tokens": 0.0,
             }
             continue
-        covered10 = set()
-        covered50 = set()
+        covered = {k: set() for k in RECALL_CUTS}
         mrr = 0.0
         dcg = 0.0
         for rank, unit in top:
             hit = coverage[unit.unit_id] & gold
-            if rank <= 10:
-                covered10 |= hit
-            covered50 |= hit
+            for k in RECALL_CUTS:
+                if rank <= k:
+                    covered[k] |= hit
             if mrr == 0.0 and hit:
                 mrr = 1.0 / rank
             if hit:
@@ -471,11 +482,13 @@ def evaluate_arm(units, coverage, questions, fused_by_qid, label):
         avg_tokens = (
             sum(len(u.retrieval_text) / 2.0 for _, u in top) / len(top) if top else 0.0
         )
+        recall10 = len(covered[10]) / n_gold
+        eff = recall10 / (avg_tokens / 1000.0) if avg_tokens > 0 else None
         rows[qid] = {
-            "recall@10": len(covered10) / n_gold,
-            "recall@50": len(covered50) / n_gold,
+            **{f"recall@{k}": len(covered[k]) / n_gold for k in RECALL_CUTS},
             "mrr": mrr,
             "ndcg@50": ndcg,
+            EFF_METRIC: eff,
             "gold_block_count": n_gold,
             "retrieved_units": len(top),
             "avg_retrieved_text_tokens": round(avg_tokens, 2),
@@ -599,12 +612,16 @@ def main():
             arm,
         )
 
-    metrics = ["recall@10", "recall@50", "mrr", "ndcg@50"]
-    summary = {m: {arm: macro_mean(rows[arm], m) for arm in ("C1", "T0", "T1")} for m in metrics}
+    metrics = ["recall@5", "recall@10", "recall@20", "recall@50", "mrr", "ndcg@50"]
+    pair_metrics = metrics + [EFF_METRIC]
+    summary = {
+        m: {arm: macro_mean(rows[arm], m) for arm in ("C1", "T0", "T1")}
+        for m in pair_metrics
+    }
     pairs = [("C1", "T0"), ("C1", "T1")]
     pairwise = {}
     eps = 1e-9
-    for m in metrics:
+    for m in pair_metrics:
         pairwise[m] = {}
         for a, b in pairs:
             deltas = [rows[a][qid][m] - rows[b][qid][m] for qid in qids]
@@ -636,29 +653,40 @@ def main():
     }
 
     # --- judgment -----------------------------------------------------------
-    # C1 leads if its mean beats both baselines on a majority of the 4 metrics.
+    # C1 leads if its mean beats both baselines on the majority of the 6
+    # retrieval metrics (efficiency metric reported but not part of judgment).
     leads = sum(
         1 for m in metrics
         if pairwise[m]["C1-T0"]["mean_delta"] > 0 and pairwise[m]["C1-T1"]["mean_delta"] > 0
     )
-    if leads >= 3:
+    if leads >= 5:
         judgment = (
-            "C1 占优（4 项指标中 %d 项同时胜过 T0 与 T1 的宏观均值，含符号统计）"
+            "C1 占优（6 项检索指标中 %d 项同时胜过 T0 与 T1 的宏观均值，含符号统计）"
             % leads
         )
-    elif leads >= 2:
+    elif leads >= 3:
         judgment = (
-            "C1 部分占优（4 项指标中 %d 项同时胜过 T0 与 T1；其余项未占优）" % leads
+            "C1 部分占优（6 项检索指标中 %d 项同时胜过 T0 与 T1；其余项未占优）" % leads
         )
     elif leads >= 1:
-        judgment = "C1 弱占优（仅 %d 项指标同时胜过 T0 与 T1，方向性证据不足）" % leads
+        judgment = "C1 弱占优（仅 %d 项检索指标同时胜过 T0 与 T1，方向性证据不足）" % leads
     else:
-        judgment = "C1 未占优（无指标同时胜过 T0 与 T1）"
+        judgment = "C1 未占优（无检索指标同时胜过 T0 与 T1）"
 
     # --- output --------------------------------------------------------------
     payload = {
         "schema": "okfolio.micro-experiment.retrieval-quality.v1",
+        "version": 2,
         "created": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+        "metrics": {"retrieval": metrics, "efficiency": [EFF_METRIC]},
+        "metric_notes": {
+            EFF_METRIC: (
+                "recall@10 / (avg_retrieved_text_tokens / 1000); "
+                "avg_retrieved_text_tokens = mean len(text)/2 Chinese-token "
+                "approximation over the top-50 fused units per question"
+            ),
+            "token_approx": "len(text)/2 chars-per-token approximation for Chinese",
+        },
         "config": {
             "bm25_top_k": BM25_TOP_K, "dense_top_k": DENSE_TOP_K,
             "fusion_top_k": FUSION_TOP_K, "rrf_k": RRF_K,
@@ -690,13 +718,13 @@ def main():
     print("### 宏观指标（macro mean over %d questions）" % len(questions))
     print("| metric | C1 | T0 | T1 |")
     print("|---|---|---|---|")
-    for m in metrics:
+    for m in pair_metrics:
         print("| %s | %.4f | %.4f | %.4f |" % (m, summary[m]["C1"], summary[m]["T0"], summary[m]["T1"]))
     print()
     print("### 配对差值（macro mean delta, wins/ties/losses）")
     print("| metric | C1−T0 mean | C1−T0 w/t/l | C1−T1 mean | C1−T1 w/t/l |")
     print("|---|---|---|---|---|")
-    for m in metrics:
+    for m in pair_metrics:
         p0 = pairwise[m]["C1-T0"]
         p1 = pairwise[m]["C1-T1"]
         print(

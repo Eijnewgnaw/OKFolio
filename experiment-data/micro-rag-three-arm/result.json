@@ -1,6 +1,24 @@
 {
   "schema": "okfolio.micro-experiment.retrieval-quality.v1",
-  "created": "2026-08-20T17:54:22+0800",
+  "version": 2,
+  "created": "2026-08-20T18:52:35+0800",
+  "metrics": {
+    "retrieval": [
+      "recall@5",
+      "recall@10",
+      "recall@20",
+      "recall@50",
+      "mrr",
+      "ndcg@50"
+    ],
+    "efficiency": [
+      "recall10_per_1k_tokens"
+    ]
+  },
+  "metric_notes": {
+    "recall10_per_1k_tokens": "recall@10 / (avg_retrieved_text_tokens / 1000); avg_retrieved_text_tokens = mean len(text)/2 Chinese-token approximation over the top-50 fused units per question",
+    "token_approx": "len(text)/2 chars-per-token approximation for Chinese"
+  },
   "config": {
     "bm25_top_k": 50,
     "dense_top_k": 50,
@@ -39,28 +57,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 4.328067517853278,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.05
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.1111111111111111,
           "ndcg@50": 0.3010299956639812,
+          "recall10_per_1k_tokens": 1.8414510634379895,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 543.05
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.904845987835982,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 203.88
@@ -72,28 +99,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.8108303799397882,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 262.41
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6934264036172708,
+          "recall10_per_1k_tokens": 1.848394669229774,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 541.01
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.691944177804032,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 270.86
@@ -105,28 +141,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.145077720207254,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 241.25
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.79749429295562,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 556.33
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.239264063758532,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 235.89
@@ -138,28 +183,37 @@
       "gold_block_count": 8,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7432799852507489,
+          "recall10_per_1k_tokens": 3.770028275212064,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 265.25
         },
         "T0": {
+          "recall@5": 0.875,
           "recall@10": 0.875,
+          "recall@20": 0.875,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7353053901777485,
+          "recall10_per_1k_tokens": 1.585202362404435,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 551.98
         },
         "T1": {
+          "recall@5": 0.875,
           "recall@10": 0.875,
+          "recall@20": 0.875,
           "recall@50": 0.875,
           "mrr": 1.0,
           "ndcg@50": 0.7653606369886217,
+          "recall10_per_1k_tokens": 3.435144472361809,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 254.72
@@ -171,28 +225,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.9422849483560674,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.66
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8909310944709177,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 528.84
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.678800355588827,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 213.73
@@ -204,28 +267,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.821135859608524,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 207.42
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8842682444272767,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 530.71
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.259282633848744,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 190.14
@@ -237,28 +309,37 @@
       "gold_block_count": 7,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.913128546272745,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 255.55
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.9190542900458651,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 521.09
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.457718539651406,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.33
@@ -270,28 +351,37 @@
       "gold_block_count": 9,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.41979271250917416,
+          "recall10_per_1k_tokens": 4.326382279138185,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.14
         },
         "T0": {
+          "recall@5": 0.5555555555555556,
           "recall@10": 0.5555555555555556,
+          "recall@20": 0.5555555555555556,
           "recall@50": 0.7777777777777778,
           "mrr": 1.0,
           "ndcg@50": 0.5649154060911368,
+          "recall10_per_1k_tokens": 1.0669807858100093,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 520.68
         },
         "T1": {
+          "recall@5": 0.4444444444444444,
           "recall@10": 0.4444444444444444,
+          "recall@20": 0.4444444444444444,
           "recall@50": 0.4444444444444444,
           "mrr": 0.5,
           "ndcg@50": 0.38356636737133565,
+          "recall10_per_1k_tokens": 1.9820034090458631,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.24
@@ -303,28 +393,37 @@
       "gold_block_count": 15,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.8318580679771617,
           "gold_block_count": 15,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 260.97
         },
         "T0": {
+          "recall@5": 0.26666666666666666,
           "recall@10": 0.26666666666666666,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7574875071481796,
+          "recall10_per_1k_tokens": 0.5174778131387616,
           "gold_block_count": 15,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 515.32
         },
         "T1": {
+          "recall@5": 0.4666666666666667,
           "recall@10": 0.7333333333333333,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8587080654321868,
+          "recall10_per_1k_tokens": 3.02455387830295,
           "gold_block_count": 15,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.46
@@ -336,28 +435,37 @@
       "gold_block_count": 69,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.26075841499787,
           "gold_block_count": 69,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.7
         },
         "T0": {
+          "recall@5": 0.3188405797101449,
           "recall@10": 0.7101449275362319,
+          "recall@20": 0.8985507246376812,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.983792209467784,
+          "recall10_per_1k_tokens": 1.383327348325214,
           "gold_block_count": 69,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 513.36
         },
         "T1": {
+          "recall@5": 0.13043478260869565,
           "recall@10": 0.2463768115942029,
+          "recall@20": 0.4927536231884058,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.0390385104343915,
           "gold_block_count": 69,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.12
@@ -369,28 +477,37 @@
       "gold_block_count": 19,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6447657970051222,
+          "recall10_per_1k_tokens": 3.73594351253409,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 267.67
         },
         "T0": {
+          "recall@5": 0.5263157894736842,
           "recall@10": 0.5263157894736842,
+          "recall@20": 0.5263157894736842,
           "recall@50": 0.5263157894736842,
           "mrr": 1.0,
           "ndcg@50": 0.27487633291429087,
+          "recall10_per_1k_tokens": 0.9949634947893761,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 528.98
         },
         "T1": {
+          "recall@5": 0.42105263157894735,
           "recall@10": 0.42105263157894735,
+          "recall@20": 0.42105263157894735,
           "recall@50": 0.5789473684210527,
           "mrr": 1.0,
           "ndcg@50": 0.38465753945768,
+          "recall10_per_1k_tokens": 1.933562782783557,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 217.76
@@ -402,28 +519,37 @@
       "gold_block_count": 95,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5432677949640379,
+          "recall10_per_1k_tokens": 3.9516320240259226,
           "gold_block_count": 95,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.06
         },
         "T0": {
+          "recall@5": 0.4421052631578947,
           "recall@10": 0.7157894736842105,
+          "recall@20": 0.8315789473684211,
           "recall@50": 0.8315789473684211,
           "mrr": 1.0,
           "ndcg@50": 0.8051381812513196,
+          "recall10_per_1k_tokens": 1.3230614474486804,
           "gold_block_count": 95,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 541.01
         },
         "T1": {
+          "recall@5": 0.15789473684210525,
           "recall@10": 0.3263157894736842,
+          "recall@20": 0.45263157894736844,
           "recall@50": 0.6736842105263158,
           "mrr": 1.0,
           "ndcg@50": 0.6972795259514453,
+          "recall10_per_1k_tokens": 1.5340155578868195,
           "gold_block_count": 95,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 212.72
@@ -435,28 +561,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.46468434681668,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 223.98
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8694034733516538,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 534.93
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.436259853220984,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 183.95
@@ -468,28 +603,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.741254816865576,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 267.29
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.8763134193935755,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 532.96
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.0733197556008145,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.5
@@ -501,28 +645,37 @@
       "gold_block_count": 8,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5585605160052665,
+          "recall10_per_1k_tokens": 4.205214465937763,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.8
         },
         "T0": {
+          "recall@5": 0.875,
           "recall@10": 0.875,
+          "recall@20": 0.875,
           "recall@50": 0.875,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.3065735963827292,
+          "recall10_per_1k_tokens": 1.6515666289165725,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 529.8
         },
         "T1": {
+          "recall@5": 0.125,
           "recall@10": 0.125,
+          "recall@20": 0.875,
           "recall@50": 0.875,
           "mrr": 1.0,
           "ndcg@50": 0.5934706467252375,
+          "recall10_per_1k_tokens": 0.7349050502675055,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 170.09
@@ -534,28 +687,37 @@
       "gold_block_count": 13,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5841997726249148,
+          "recall10_per_1k_tokens": 3.8624951718810356,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 258.9
         },
         "T0": {
+          "recall@5": 0.46153846153846156,
           "recall@10": 0.46153846153846156,
+          "recall@20": 0.46153846153846156,
           "recall@50": 0.46153846153846156,
           "mrr": 1.0,
           "ndcg@50": 0.3026024134988135,
+          "recall10_per_1k_tokens": 0.8416858968513934,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 548.35
         },
         "T1": {
+          "recall@5": 0.3076923076923077,
           "recall@10": 0.3076923076923077,
+          "recall@20": 0.3076923076923077,
           "recall@50": 0.3076923076923077,
           "mrr": 1.0,
           "ndcg@50": 0.33627415762678564,
+          "recall10_per_1k_tokens": 1.307770773938744,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 235.28
@@ -567,28 +729,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.354452427607229,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.65
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.16666666666666666,
           "ndcg@50": 0.3562071871080222,
+          "recall10_per_1k_tokens": 1.839249586168843,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 543.7
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.857906242409522,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 205.85
@@ -600,28 +771,37 @@
       "gold_block_count": 19,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.385964912280701,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 228.0
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8772153153380493,
+          "recall10_per_1k_tokens": 1.8507551080840983,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 540.32
         },
         "T1": {
+          "recall@5": 0.9473684210526315,
           "recall@10": 0.9473684210526315,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8921776538210152,
+          "recall10_per_1k_tokens": 3.921551540080435,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 241.58
@@ -633,28 +813,37 @@
       "gold_block_count": 71,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 3.8211692777990067,
           "gold_block_count": 71,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 261.7
         },
         "T0": {
+          "recall@5": 0.4225352112676056,
           "recall@10": 0.647887323943662,
+          "recall@20": 0.647887323943662,
           "recall@50": 0.7464788732394366,
           "mrr": 1.0,
           "ndcg@50": 0.6605056985832239,
+          "recall10_per_1k_tokens": 1.250458048219837,
           "gold_block_count": 71,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 518.12
         },
         "T1": {
+          "recall@5": 0.14084507042253522,
           "recall@10": 0.2676056338028169,
+          "recall@20": 0.6197183098591549,
           "recall@50": 0.9154929577464789,
           "mrr": 1.0,
           "ndcg@50": 0.8734891913409479,
+          "recall10_per_1k_tokens": 1.327804077616438,
           "gold_block_count": 71,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 201.54
@@ -666,28 +855,37 @@
       "gold_block_count": 7,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8026120593560898,
+          "recall10_per_1k_tokens": 4.011392354286173,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 249.29
         },
         "T0": {
+          "recall@5": 0.8571428571428571,
           "recall@10": 0.8571428571428571,
+          "recall@20": 0.8571428571428571,
           "recall@50": 0.8571428571428571,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 1.531733692780173,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 559.59
         },
         "T1": {
+          "recall@5": 0.7142857142857143,
           "recall@10": 0.7142857142857143,
+          "recall@20": 0.8571428571428571,
           "recall@50": 0.8571428571428571,
           "mrr": 1.0,
           "ndcg@50": 0.5865984075284455,
+          "recall10_per_1k_tokens": 3.4390260678175943,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 207.7
@@ -699,28 +897,37 @@
       "gold_block_count": 52,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6650083222063329,
+          "recall10_per_1k_tokens": 3.645111904935482,
           "gold_block_count": 52,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 274.34
         },
         "T0": {
+          "recall@5": 0.15384615384615385,
           "recall@10": 0.15384615384615385,
+          "recall@20": 0.3269230769230769,
           "recall@50": 0.3269230769230769,
           "mrr": 0.25,
           "ndcg@50": 0.10374510146539774,
+          "recall10_per_1k_tokens": 0.2968856693287415,
           "gold_block_count": 52,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 518.2
         },
         "T1": {
+          "recall@5": 0.11538461538461539,
           "recall@10": 0.11538461538461539,
+          "recall@20": 0.11538461538461539,
           "recall@50": 0.15384615384615385,
           "mrr": 1.0,
           "ndcg@50": 0.19775108417515178,
+          "recall10_per_1k_tokens": 0.5199144567413841,
           "gold_block_count": 52,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 221.93
@@ -732,28 +939,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.1111111111111111,
           "ndcg@50": 0.3010299956639812,
+          "recall10_per_1k_tokens": 3.8770208971426356,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 257.93
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.0,
           "recall@50": 0.0,
           "mrr": 0.0,
           "ndcg@50": 0.0,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 524.41
         },
         "T1": {
+          "recall@5": 0.3333333333333333,
           "recall@10": 0.3333333333333333,
+          "recall@20": 0.6666666666666666,
           "recall@50": 0.8333333333333334,
           "mrr": 1.0,
           "ndcg@50": 0.7066231297810711,
+          "recall10_per_1k_tokens": 1.697735221214899,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 196.34
@@ -765,28 +981,37 @@
       "gold_block_count": 10,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 3.6766057575646163,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 271.99
         },
         "T0": {
+          "recall@5": 0.8,
           "recall@10": 0.8,
+          "recall@20": 0.8,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7223509111745405,
+          "recall10_per_1k_tokens": 1.4824972666456648,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 539.63
         },
         "T1": {
+          "recall@5": 0.7,
           "recall@10": 0.7,
+          "recall@20": 0.7,
           "recall@50": 0.7,
           "mrr": 1.0,
           "ndcg@50": 0.6366824387328317,
+          "recall10_per_1k_tokens": 2.902998382615187,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 241.13
@@ -798,28 +1023,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.408199250606128,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 226.85
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.9634407335414579,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 509.31
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.753981459472309,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 210.35
@@ -831,28 +1065,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.851635019065594,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 259.63
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.9218942189421895,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 520.32
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.9533504645186794,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 252.95
@@ -864,28 +1107,37 @@
       "gold_block_count": 8,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.7069988137603795,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 269.76
         },
         "T0": {
+          "recall@5": 0.875,
           "recall@10": 0.875,
+          "recall@20": 0.875,
           "recall@50": 0.875,
           "mrr": 1.0,
           "ndcg@50": 0.7039180890341347,
+          "recall10_per_1k_tokens": 1.5984654731457801,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 547.4
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.875,
+          "recall@20": 0.875,
           "recall@50": 0.875,
           "mrr": 1.0,
           "ndcg@50": 0.6364391809889587,
+          "recall10_per_1k_tokens": 3.6452257957007164,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 240.04
@@ -897,28 +1149,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.483701744159978,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 223.03
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9197207891481876,
+          "recall10_per_1k_tokens": 1.863863416088869,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 536.52
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.722104169617982,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 211.77
@@ -930,28 +1191,37 @@
       "gold_block_count": 9,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5681481892260798,
+          "recall10_per_1k_tokens": 4.458911133901101,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.27
         },
         "T0": {
+          "recall@5": 0.7777777777777778,
           "recall@10": 0.7777777777777778,
+          "recall@20": 0.7777777777777778,
           "recall@50": 0.7777777777777778,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 1.4048692769137834,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 553.63
         },
         "T1": {
+          "recall@5": 0.6666666666666666,
           "recall@10": 0.7777777777777778,
+          "recall@20": 0.7777777777777778,
           "recall@50": 0.7777777777777778,
           "mrr": 1.0,
           "ndcg@50": 0.6364391809889587,
+          "recall10_per_1k_tokens": 3.2365601838366187,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 240.31
@@ -963,28 +1233,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 4.666355576294913,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 214.3
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.16666666666666666,
           "ndcg@50": 0.3562071871080222,
+          "recall10_per_1k_tokens": 1.8574241242245255,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 538.38
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.482456140350877,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 182.4
@@ -996,28 +1275,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.351988858908521,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.78
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.25,
           "ndcg@50": 0.43067655807339306,
+          "recall10_per_1k_tokens": 1.8665422305179658,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 535.75
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.727014890096903,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 211.55
@@ -1029,28 +1317,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.26657564638621,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.38
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8448482612305142,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 542.05
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.794553387351968,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.57
@@ -1062,28 +1359,37 @@
       "gold_block_count": 9,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.943373161402264,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.59
         },
         "T0": {
+          "recall@5": 0.4444444444444444,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8175295903539445,
+          "recall10_per_1k_tokens": 1.777303830089754,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 562.65
         },
         "T1": {
+          "recall@5": 0.4444444444444444,
           "recall@10": 0.4444444444444444,
+          "recall@20": 0.4444444444444444,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6460070550067253,
+          "recall10_per_1k_tokens": 1.994008005942144,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 222.89
@@ -1095,28 +1401,37 @@
       "gold_block_count": 18,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7244556397093438,
+          "recall10_per_1k_tokens": 3.8427544864158625,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 260.23
         },
         "T0": {
+          "recall@5": 0.05555555555555555,
           "recall@10": 0.05555555555555555,
+          "recall@20": 0.05555555555555555,
           "recall@50": 0.4444444444444444,
           "mrr": 1.0,
           "ndcg@50": 0.35375706659450284,
+          "recall10_per_1k_tokens": 0.1021392034776356,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 543.92
         },
         "T1": {
+          "recall@5": 0.16666666666666666,
           "recall@10": 0.16666666666666666,
+          "recall@20": 0.16666666666666666,
           "recall@50": 0.16666666666666666,
           "mrr": 0.5,
           "ndcg@50": 0.1891891773635528,
+          "recall10_per_1k_tokens": 0.6788313239926143,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.52
@@ -1128,28 +1443,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.9744048328762767,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 251.61
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.05263157894736842,
           "ndcg@50": 0.23137821315975915,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 531.64
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.8534265191225,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 206.04
@@ -1161,28 +1485,37 @@
       "gold_block_count": 22,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 3.942129538376631,
           "gold_block_count": 22,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.67
         },
         "T0": {
+          "recall@5": 0.5,
           "recall@10": 0.7272727272727273,
+          "recall@20": 0.7272727272727273,
           "recall@50": 0.9090909090909091,
           "mrr": 0.5,
           "ndcg@50": 0.5163537073857167,
+          "recall10_per_1k_tokens": 1.4096618221288715,
           "gold_block_count": 22,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 515.92
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.7272727272727273,
+          "recall@20": 0.7727272727272727,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.7203597831997658,
+          "recall10_per_1k_tokens": 3.490964946348232,
           "gold_block_count": 22,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.33
@@ -1194,28 +1527,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 4.516507836141096,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 221.41
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.0,
           "recall@50": 1.0,
           "mrr": 0.043478260869565216,
           "ndcg@50": 0.21810429198553155,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 536.17
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 7.171543316121629,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 139.44
@@ -1227,28 +1569,37 @@
       "gold_block_count": 31,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5136522519416176,
+          "recall10_per_1k_tokens": 3.9739310125576224,
           "gold_block_count": 31,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 251.64
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.0,
           "recall@50": 0.22580645161290322,
           "mrr": 0.03333333333333333,
           "ndcg@50": 0.12106788180936055,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 31,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 550.2
         },
         "T1": {
+          "recall@5": 0.0,
           "recall@10": 0.12903225806451613,
+          "recall@20": 0.22580645161290322,
           "recall@50": 0.25806451612903225,
           "mrr": 0.125,
           "ndcg@50": 0.1697566115032782,
+          "recall10_per_1k_tokens": 0.49078490002098096,
           "gold_block_count": 31,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 262.91
@@ -1260,28 +1611,37 @@
       "gold_block_count": 30,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.318908180012093,
           "gold_block_count": 30,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.54
         },
         "T0": {
+          "recall@5": 0.5666666666666667,
           "recall@10": 0.5666666666666667,
+          "recall@20": 0.5666666666666667,
           "recall@50": 0.5666666666666667,
           "mrr": 1.0,
           "ndcg@50": 0.6366824387328317,
+          "recall10_per_1k_tokens": 1.0555203715431707,
           "gold_block_count": 30,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 536.86
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.5,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8986360727623843,
+          "recall10_per_1k_tokens": 2.1749532385053723,
           "gold_block_count": 30,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.89
@@ -1293,28 +1653,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.636498516320475,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 215.68
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8868992584485913,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 529.97
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.339883590537726,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 187.27
@@ -1326,28 +1695,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.081632653061225,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.0
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8328445747800588,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 545.6
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.838163433160773,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 206.69
@@ -1359,28 +1737,37 @@
       "gold_block_count": 16,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.31667098333765,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.66
         },
         "T0": {
+          "recall@5": 0.0625,
           "recall@10": 0.0625,
+          "recall@20": 0.0625,
           "recall@50": 0.9375,
           "mrr": 1.0,
           "ndcg@50": 0.5520383669103462,
+          "recall10_per_1k_tokens": 0.12124151309408343,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 515.5
         },
         "T1": {
+          "recall@5": 0.25,
           "recall@10": 0.5,
+          "recall@20": 0.625,
           "recall@50": 0.8125,
           "mrr": 1.0,
           "ndcg@50": 0.5731149160706441,
+          "recall10_per_1k_tokens": 2.362055933484505,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 211.68
@@ -1392,28 +1779,37 @@
       "gold_block_count": 17,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.3797686899455537,
+          "recall10_per_1k_tokens": 3.772873042822109,
           "gold_block_count": 17,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 265.05
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.47058823529411764,
           "recall@50": 0.47058823529411764,
           "mrr": 0.09090909090909091,
           "ndcg@50": 0.15564411392637809,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 17,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 528.75
         },
         "T1": {
+          "recall@5": 0.11764705882352941,
           "recall@10": 0.17647058823529413,
+          "recall@20": 0.4117647058823529,
           "recall@50": 0.7058823529411765,
           "mrr": 1.0,
           "ndcg@50": 0.5837342123225439,
+          "recall10_per_1k_tokens": 1.0015925321260806,
           "gold_block_count": 17,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 176.19
@@ -1425,28 +1821,37 @@
       "gold_block_count": 31,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.724335049841735,
           "gold_block_count": 31,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 211.67
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.0,
           "recall@50": 0.03225806451612903,
           "mrr": 0.030303030303030304,
           "ndcg@50": 0.054030140659805756,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 31,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 531.62
         },
         "T1": {
+          "recall@5": 0.06451612903225806,
           "recall@10": 0.06451612903225806,
+          "recall@20": 0.0967741935483871,
           "recall@50": 0.3225806451612903,
           "mrr": 1.0,
           "ndcg@50": 0.3538443868775833,
+          "recall10_per_1k_tokens": 0.3313787510003496,
           "gold_block_count": 31,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 194.69
@@ -1458,28 +1863,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.7464408811628953,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 266.92
         },
         "T0": {
+          "recall@5": 0.5,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6052602440527057,
+          "recall10_per_1k_tokens": 1.8615734018392345,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.18
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.9592984123213366,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 252.57
@@ -1491,28 +1905,37 @@
       "gold_block_count": 7,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.946174184128487,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.41
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9197207891481876,
+          "recall10_per_1k_tokens": 1.8006014008678897,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 555.37
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.792715073088905,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.65
@@ -1524,28 +1947,37 @@
       "gold_block_count": 21,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.4389945518216232,
+          "recall10_per_1k_tokens": 4.049730692908922,
           "gold_block_count": 21,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 246.93
         },
         "T0": {
+          "recall@5": 0.2857142857142857,
           "recall@10": 0.2857142857142857,
+          "recall@20": 0.2857142857142857,
           "recall@50": 0.2857142857142857,
           "mrr": 0.5,
           "ndcg@50": 0.13886244387355454,
+          "recall10_per_1k_tokens": 0.527245406374397,
           "gold_block_count": 21,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 541.9
         },
         "T1": {
+          "recall@5": 0.09523809523809523,
           "recall@10": 0.09523809523809523,
+          "recall@20": 0.09523809523809523,
           "recall@50": 0.09523809523809523,
           "mrr": 1.0,
           "ndcg@50": 0.19635793579928928,
+          "recall10_per_1k_tokens": 0.38840985007379786,
           "gold_block_count": 21,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.2
@@ -1557,28 +1989,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.7405550983765994,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 267.34
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5706417189553201,
+          "recall10_per_1k_tokens": 1.8921117859643146,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 528.51
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9674679834891693,
+          "recall10_per_1k_tokens": 4.18848167539267,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 238.75
@@ -1590,28 +2031,37 @@
       "gold_block_count": 19,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5462157764366995,
+          "recall10_per_1k_tokens": 4.280638671289756,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 233.61
         },
         "T0": {
+          "recall@5": 0.2631578947368421,
           "recall@10": 0.42105263157894735,
+          "recall@20": 0.5263157894736842,
           "recall@50": 0.7368421052631579,
           "mrr": 1.0,
           "ndcg@50": 0.5460922856407843,
+          "recall10_per_1k_tokens": 0.7804931350750688,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 539.47
         },
         "T1": {
+          "recall@5": 0.2631578947368421,
           "recall@10": 0.2631578947368421,
+          "recall@20": 0.2631578947368421,
           "recall@50": 0.5789473684210527,
           "mrr": 1.0,
           "ndcg@50": 0.5199443697272448,
+          "recall10_per_1k_tokens": 1.1403470760360623,
           "gold_block_count": 19,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 230.77
@@ -1623,28 +2073,37 @@
       "gold_block_count": 22,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6116641341237058,
+          "recall10_per_1k_tokens": 3.5688793718772307,
           "gold_block_count": 22,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 280.2
         },
         "T0": {
+          "recall@5": 0.09090909090909091,
           "recall@10": 0.09090909090909091,
+          "recall@20": 0.36363636363636365,
           "recall@50": 0.36363636363636365,
           "mrr": 1.0,
           "ndcg@50": 0.35694194824923126,
+          "recall10_per_1k_tokens": 0.1713810743879553,
           "gold_block_count": 22,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 530.45
         },
         "T1": {
+          "recall@5": 0.045454545454545456,
           "recall@10": 0.13636363636363635,
+          "recall@20": 0.13636363636363635,
           "recall@50": 0.22727272727272727,
           "mrr": 0.25,
           "ndcg@50": 0.16717910833506178,
+          "recall10_per_1k_tokens": 0.6276518289774297,
           "gold_block_count": 22,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 217.26
@@ -1656,28 +2115,37 @@
       "gold_block_count": 78,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.266029606245467,
           "gold_block_count": 78,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.41
         },
         "T0": {
+          "recall@5": 0.28205128205128205,
           "recall@10": 0.38461538461538464,
+          "recall@20": 0.5512820512820513,
           "recall@50": 0.5512820512820513,
           "mrr": 1.0,
           "ndcg@50": 0.6200162715826527,
+          "recall10_per_1k_tokens": 0.7041916302599595,
           "gold_block_count": 78,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 546.18
         },
         "T1": {
+          "recall@5": 0.08974358974358974,
           "recall@10": 0.15384615384615385,
+          "recall@20": 0.4230769230769231,
           "recall@50": 0.6923076923076923,
           "mrr": 1.0,
           "ndcg@50": 0.8236905192899212,
+          "recall10_per_1k_tokens": 0.9623805445149122,
           "gold_block_count": 78,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 159.86
@@ -1689,28 +2157,37 @@
       "gold_block_count": 12,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.43287935380333487,
+          "recall10_per_1k_tokens": 3.8792769027853216,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 257.78
         },
         "T0": {
+          "recall@5": 0.5,
           "recall@10": 0.8333333333333334,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5327018081457777,
+          "recall10_per_1k_tokens": 1.548687642092091,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 538.09
         },
         "T1": {
+          "recall@5": 0.5833333333333334,
           "recall@10": 0.8333333333333334,
+          "recall@20": 0.8333333333333334,
           "recall@50": 0.8333333333333334,
           "mrr": 1.0,
           "ndcg@50": 0.7757386182436072,
+          "recall10_per_1k_tokens": 3.6788510212490437,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 226.52
@@ -1722,28 +2199,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.5607954027182345,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 219.26
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8514404206472634,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 540.12
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 6.1572563265808755,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 162.41
@@ -1755,28 +2241,37 @@
       "gold_block_count": 8,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.710981297404249,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 212.27
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.928789106199128,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 518.46
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.203623523477238,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.89
@@ -1788,28 +2283,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.725897920604916,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 211.6
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.858252499349612,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 538.14
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.6554688383667004,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 176.82
@@ -1821,28 +2325,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.690211528539937,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 213.21
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.8856895023665405,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 530.31
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.97442944198829,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 167.38
@@ -1854,28 +2367,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.7892720306513406,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.8
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.2,
           "ndcg@50": 0.38685280723454163,
+          "recall10_per_1k_tokens": 1.8505153685301354,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 540.39
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.262880901005211,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 190.01
@@ -1887,28 +2409,37 @@
       "gold_block_count": 11,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.886513797123979,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 257.3
         },
         "T0": {
+          "recall@5": 0.36363636363636365,
           "recall@10": 0.5454545454545454,
+          "recall@20": 0.5454545454545454,
           "recall@50": 0.5454545454545454,
           "mrr": 1.0,
           "ndcg@50": 0.626376385711402,
+          "recall10_per_1k_tokens": 1.0155360083680167,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.11
         },
         "T1": {
+          "recall@5": 0.45454545454545453,
           "recall@10": 0.45454545454545453,
+          "recall@20": 0.45454545454545453,
           "recall@50": 0.45454545454545453,
           "mrr": 1.0,
           "ndcg@50": 0.6843515475204855,
+          "recall10_per_1k_tokens": 1.8850638848150565,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 241.13
@@ -1920,28 +2451,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.2,
           "ndcg@50": 0.38685280723454163,
+          "recall10_per_1k_tokens": 4.812087964968,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 207.81
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.14285714285714285,
           "ndcg@50": 0.3333333333333333,
+          "recall10_per_1k_tokens": 1.8652888399768706,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 536.11
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.291565244999472,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 188.98
@@ -1953,28 +2493,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.250977724876722,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 235.24
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.0,
           "recall@50": 1.0,
           "mrr": 0.034482758620689655,
           "ndcg@50": 0.2037950470905062,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 541.32
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.3040371868812946,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 232.34
@@ -1986,28 +2535,37 @@
       "gold_block_count": 80,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.347448047995827,
           "gold_block_count": 80,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 230.02
         },
         "T0": {
+          "recall@5": 0.575,
           "recall@10": 0.875,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9794058778730851,
+          "recall10_per_1k_tokens": 1.6636562410875557,
           "gold_block_count": 80,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 525.95
         },
         "T1": {
+          "recall@5": 0.1375,
           "recall@10": 0.3125,
+          "recall@20": 0.675,
           "recall@50": 0.9625,
           "mrr": 1.0,
           "ndcg@50": 0.9305722321953483,
+          "recall10_per_1k_tokens": 1.817283089090486,
           "gold_block_count": 80,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 171.96
@@ -2019,28 +2577,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.727726832177738,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 268.26
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8278862323608978,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 547.08
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.124902033576703,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.43
@@ -2052,28 +2619,37 @@
       "gold_block_count": 13,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8134478303300137,
+          "recall10_per_1k_tokens": 3.9452400678581294,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.47
         },
         "T0": {
+          "recall@5": 0.6153846153846154,
           "recall@10": 0.6153846153846154,
+          "recall@20": 0.6153846153846154,
           "recall@50": 0.6153846153846154,
           "mrr": 0.25,
           "ndcg@50": 0.24738635904833423,
+          "recall10_per_1k_tokens": 1.0994508243132557,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 559.72
         },
         "T1": {
+          "recall@5": 0.15384615384615385,
           "recall@10": 0.15384615384615385,
+          "recall@20": 0.15384615384615385,
           "recall@50": 0.38461538461538464,
           "mrr": 1.0,
           "ndcg@50": 0.30528198846218757,
+          "recall10_per_1k_tokens": 0.5954489834197231,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 258.37
@@ -2085,28 +2661,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.70787627701144,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 212.41
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.871502629461194,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 534.33
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.122163601905445,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 195.23
@@ -2118,28 +2703,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.1654517432415545,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 240.07
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.84430386750521,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 542.21
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.526115687516973,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 220.94
@@ -2151,28 +2745,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 4.328816934331847,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.01
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8497280899707744,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 540.62
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.687311607802991,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 175.83
@@ -2184,28 +2787,37 @@
       "gold_block_count": 16,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7188867971783512,
+          "recall10_per_1k_tokens": 3.7180249851279004,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 268.96
         },
         "T0": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.5,
           "recall@50": 0.5,
           "mrr": 0.5,
           "ndcg@50": 0.26852556974265224,
+          "recall10_per_1k_tokens": 0.9642643627176828,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 518.53
         },
         "T1": {
+          "recall@5": 0.125,
           "recall@10": 0.375,
+          "recall@20": 0.375,
           "recall@50": 0.375,
           "mrr": 0.5,
           "ndcg@50": 0.26536596322732897,
+          "recall10_per_1k_tokens": 1.8418467583497053,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 203.6
@@ -2217,28 +2829,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.076474664709959,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.31
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8983617138409554,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 526.77
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.3595779928502925,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.38
@@ -2250,28 +2871,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.184800803481754,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 238.96
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8190748185472867,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 549.73
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.2020337843516264,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.98
@@ -2283,28 +2913,37 @@
       "gold_block_count": 18,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 4.438132433871827,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 225.32
         },
         "T0": {
+          "recall@5": 0.05555555555555555,
           "recall@10": 0.05555555555555555,
+          "recall@20": 0.05555555555555555,
           "recall@50": 0.2777777777777778,
           "mrr": 0.25,
           "ndcg@50": 0.16565733159430485,
+          "recall10_per_1k_tokens": 0.10383245594908057,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 535.05
         },
         "T1": {
+          "recall@5": 0.05555555555555555,
           "recall@10": 0.05555555555555555,
+          "recall@20": 0.05555555555555555,
           "recall@50": 0.2222222222222222,
           "mrr": 1.0,
           "ndcg@50": 0.2444897197304753,
+          "recall10_per_1k_tokens": 0.290349929735317,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 191.34
@@ -2316,28 +2955,37 @@
       "gold_block_count": 8,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.8592158073479466,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 259.12
         },
         "T0": {
+          "recall@5": 0.875,
           "recall@10": 0.875,
+          "recall@20": 0.875,
           "recall@50": 0.875,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 1.613260075961503,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 542.38
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9674679834891693,
+          "recall10_per_1k_tokens": 4.448596467814404,
           "gold_block_count": 8,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.79
@@ -2349,28 +2997,37 @@
       "gold_block_count": 14,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.60843355142416,
+          "recall10_per_1k_tokens": 3.78673129354741,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 264.08
         },
         "T0": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.5,
           "recall@50": 0.5,
           "mrr": 1.0,
           "ndcg@50": 0.44830398990253034,
+          "recall10_per_1k_tokens": 0.9091074383170603,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 549.99
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.6428571428571429,
           "recall@50": 0.6428571428571429,
           "mrr": 1.0,
           "ndcg@50": 0.4865965722739438,
+          "recall10_per_1k_tokens": 2.2639800769753227,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 220.85
@@ -2382,28 +3039,37 @@
       "gold_block_count": 46,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 4.151100041511,
           "gold_block_count": 46,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 240.9
         },
         "T0": {
+          "recall@5": 0.2826086956521739,
           "recall@10": 0.5,
+          "recall@20": 0.6086956521739131,
           "recall@50": 0.7608695652173914,
           "mrr": 1.0,
           "ndcg@50": 0.5681604225087482,
+          "recall10_per_1k_tokens": 0.9294198561258061,
           "gold_block_count": 46,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.97
         },
         "T1": {
+          "recall@5": 0.06521739130434782,
           "recall@10": 0.15217391304347827,
+          "recall@20": 0.45652173913043476,
           "recall@50": 0.8478260869565217,
           "mrr": 1.0,
           "ndcg@50": 0.7365829160124595,
+          "recall10_per_1k_tokens": 0.9354761974763527,
           "gold_block_count": 46,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 162.67
@@ -2415,28 +3081,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.2181634116505675,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.07
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.8334830677838692,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 545.41
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.797083373309028,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.46
@@ -2448,28 +3123,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.352746583093932,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.74
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8761374083037843,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.01
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.408199250606128,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 226.85
@@ -2481,28 +3165,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.446222933617892,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.91
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.9203441256673197,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 520.74
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.804920238324044,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.12
@@ -2514,28 +3207,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 3.7979491074819594,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 263.3
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5437713091520254,
+          "recall10_per_1k_tokens": 1.8018342672840952,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 554.99
         },
         "T1": {
+          "recall@5": 0.16666666666666666,
           "recall@10": 0.6666666666666666,
+          "recall@20": 0.6666666666666666,
           "recall@50": 0.6666666666666666,
           "mrr": 1.0,
           "ndcg@50": 0.6436579276931672,
+          "recall10_per_1k_tokens": 2.8053638556920832,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.64
@@ -2547,28 +3249,37 @@
       "gold_block_count": 17,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.98628717212788,
           "gold_block_count": 17,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 250.86
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.17647058823529413,
+          "recall@20": 0.17647058823529413,
           "recall@50": 0.35294117647058826,
           "mrr": 0.14285714285714285,
           "ndcg@50": 0.1728444408331855,
+          "recall10_per_1k_tokens": 0.32778072780432804,
           "gold_block_count": 17,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 538.38
         },
         "T1": {
+          "recall@5": 0.11764705882352941,
           "recall@10": 0.11764705882352941,
+          "recall@20": 0.11764705882352941,
           "recall@50": 0.11764705882352941,
           "mrr": 1.0,
           "ndcg@50": 0.2945369036989339,
+          "recall10_per_1k_tokens": 0.5417528956692274,
           "gold_block_count": 17,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 217.16
@@ -2580,28 +3291,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.608932110430014,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 216.97
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8967413982777588,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 527.22
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.441288497116117,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 183.78
@@ -2613,28 +3333,37 @@
       "gold_block_count": 3,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.37790035898783,
           "gold_block_count": 3,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 228.42
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8407392408791372,
           "gold_block_count": 3,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 543.26
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.377789728421619,
           "gold_block_count": 3,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 185.95
@@ -2646,28 +3375,37 @@
       "gold_block_count": 20,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.741068016616822,
+          "recall10_per_1k_tokens": 3.9439952672056795,
           "gold_block_count": 20,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 253.55
         },
         "T0": {
+          "recall@5": 0.35,
           "recall@10": 0.6,
+          "recall@20": 0.6,
           "recall@50": 0.75,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.3707783317687294,
+          "recall10_per_1k_tokens": 1.0992433541578879,
           "gold_block_count": 20,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 545.83
         },
         "T1": {
+          "recall@5": 0.35,
           "recall@10": 0.35,
+          "recall@20": 0.35,
           "recall@50": 0.35,
           "mrr": 1.0,
           "ndcg@50": 0.3589542101716347,
+          "recall10_per_1k_tokens": 1.5323992994746058,
           "gold_block_count": 20,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 228.4
@@ -2679,28 +3417,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.9813200498132,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 200.75
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.7993378436735281,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 555.76
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.277044854881266,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 189.5
@@ -2712,28 +3459,37 @@
       "gold_block_count": 57,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.120652711389484,
           "gold_block_count": 57,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.68
         },
         "T0": {
+          "recall@5": 0.3157894736842105,
           "recall@10": 0.6842105263157895,
+          "recall@20": 0.9649122807017544,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.976054195079538,
+          "recall10_per_1k_tokens": 1.3395930110341245,
           "gold_block_count": 57,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 510.76
         },
         "T1": {
+          "recall@5": 0.15789473684210525,
           "recall@10": 0.2807017543859649,
+          "recall@20": 0.543859649122807,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9921369528062214,
+          "recall10_per_1k_tokens": 1.1833470527632262,
           "gold_block_count": 57,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.21
@@ -2745,28 +3501,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.069010416666667,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.76
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8087107509767038,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 552.88
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.272593061267531,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 189.66
@@ -2778,28 +3543,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.422234997567771,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 226.13
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9197207891481876,
+          "recall10_per_1k_tokens": 1.872974845947819,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.91
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.300335426163241,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 232.54
@@ -2811,28 +3585,37 @@
       "gold_block_count": 11,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6764513353325384,
+          "recall10_per_1k_tokens": 5.050249987374375,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 198.01
         },
         "T0": {
+          "recall@5": 0.9090909090909091,
           "recall@10": 0.9090909090909091,
+          "recall@20": 0.9090909090909091,
           "recall@50": 0.9090909090909091,
           "mrr": 1.0,
           "ndcg@50": 0.7653606369886217,
+          "recall10_per_1k_tokens": 1.6806383736798587,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 540.92
         },
         "T1": {
+          "recall@5": 0.9090909090909091,
           "recall@10": 0.9090909090909091,
+          "recall@20": 0.9090909090909091,
           "recall@50": 0.9090909090909091,
           "mrr": 1.0,
           "ndcg@50": 0.8687949224876582,
+          "recall10_per_1k_tokens": 6.480545402701091,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 140.28
@@ -2844,28 +3627,37 @@
       "gold_block_count": 21,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.4414120605563083,
+          "recall10_per_1k_tokens": 4.14868901427149,
           "gold_block_count": 21,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 241.04
         },
         "T0": {
+          "recall@5": 0.7142857142857143,
           "recall@10": 0.7142857142857143,
+          "recall@20": 0.7142857142857143,
           "recall@50": 0.9047619047619048,
           "mrr": 1.0,
           "ndcg@50": 0.7170409354794519,
+          "recall10_per_1k_tokens": 1.3900936367073684,
           "gold_block_count": 21,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 513.84
         },
         "T1": {
+          "recall@5": 0.047619047619047616,
           "recall@10": 0.38095238095238093,
+          "recall@20": 0.5238095238095238,
           "recall@50": 0.7142857142857143,
           "mrr": 1.0,
           "ndcg@50": 0.5592578632897321,
+          "recall10_per_1k_tokens": 1.9585233713042052,
           "gold_block_count": 21,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 194.51
@@ -2877,28 +3669,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.8565368299267253,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 259.3
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8357044515832952,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 544.75
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.371434710211098,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 186.17
@@ -2910,28 +3711,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.7768629376439926,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 264.77
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.1,
           "ndcg@50": 0.2890648263178879,
+          "recall10_per_1k_tokens": 1.812119454914468,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 551.84
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.045307443365696,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 247.2
@@ -2943,28 +3753,37 @@
       "gold_block_count": 15,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6979707905428567,
+          "recall10_per_1k_tokens": 3.8605566922750265,
           "gold_block_count": 15,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 259.03
         },
         "T0": {
+          "recall@5": 0.5333333333333333,
           "recall@10": 0.5333333333333333,
+          "recall@20": 0.5333333333333333,
           "recall@50": 0.5333333333333333,
           "mrr": 1.0,
           "ndcg@50": 0.44830398990253034,
+          "recall10_per_1k_tokens": 0.9555376392248202,
           "gold_block_count": 15,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 558.15
         },
         "T1": {
+          "recall@5": 0.13333333333333333,
           "recall@10": 0.13333333333333333,
+          "recall@20": 0.13333333333333333,
           "recall@50": 0.4666666666666667,
           "mrr": 1.0,
           "ndcg@50": 0.3635288134567071,
+          "recall10_per_1k_tokens": 0.6849901532665468,
           "gold_block_count": 15,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 194.65
@@ -2976,28 +3795,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.86034433104172,
+          "recall10_per_1k_tokens": 4.058935747047125,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 246.37
         },
         "T0": {
+          "recall@5": 0.8333333333333334,
           "recall@10": 0.8333333333333334,
+          "recall@20": 0.8333333333333334,
           "recall@50": 0.8333333333333334,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 1.4873250162118428,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 560.29
         },
         "T1": {
+          "recall@5": 0.6666666666666666,
           "recall@10": 0.6666666666666666,
+          "recall@20": 0.6666666666666666,
           "recall@50": 0.8333333333333334,
           "mrr": 1.0,
           "ndcg@50": 0.573019700631139,
+          "recall10_per_1k_tokens": 3.213470869886564,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 207.46
@@ -3009,28 +3837,37 @@
       "gold_block_count": 13,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7150242411576379,
+          "recall10_per_1k_tokens": 3.9714058776806986,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 251.8
         },
         "T0": {
+          "recall@5": 0.9230769230769231,
           "recall@10": 0.9230769230769231,
+          "recall@20": 0.9230769230769231,
           "recall@50": 0.9230769230769231,
           "mrr": 1.0,
           "ndcg@50": 0.7653606369886217,
+          "recall10_per_1k_tokens": 1.7289646239429906,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.89
         },
         "T1": {
+          "recall@5": 0.5384615384615384,
           "recall@10": 0.9230769230769231,
+          "recall@20": 0.9230769230769231,
           "recall@50": 0.9230769230769231,
           "mrr": 1.0,
           "ndcg@50": 0.9156857657441143,
+          "recall10_per_1k_tokens": 6.156308677317082,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 149.94
@@ -3042,28 +3879,37 @@
       "gold_block_count": 12,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.979624323463865,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 251.28
         },
         "T0": {
+          "recall@5": 0.9166666666666666,
           "recall@10": 0.9166666666666666,
+          "recall@20": 0.9166666666666666,
           "recall@50": 0.9166666666666666,
           "mrr": 1.0,
           "ndcg@50": 0.7653606369886217,
+          "recall10_per_1k_tokens": 1.7189863606245859,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.26
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.8333333333333334,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7987328257223181,
+          "recall10_per_1k_tokens": 2.032850870060172,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.96
@@ -3075,28 +3921,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.051699688019124,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 246.81
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8866500641461024,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 530.04
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8772153153380493,
+          "recall10_per_1k_tokens": 4.349717268377556,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.9
@@ -3108,28 +3963,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.404368072255634,
+          "recall10_per_1k_tokens": 4.274965800273598,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 233.92
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.3333333333333333,
           "recall@50": 0.3333333333333333,
           "mrr": 0.058823529411764705,
           "ndcg@50": 0.22301128375456503,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 525.31
         },
         "T1": {
+          "recall@5": 0.16666666666666666,
           "recall@10": 0.16666666666666666,
+          "recall@20": 0.16666666666666666,
           "recall@50": 0.16666666666666666,
           "mrr": 0.25,
           "ndcg@50": 0.20210734650054757,
+          "recall10_per_1k_tokens": 0.8408590215764424,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 198.21
@@ -3141,28 +4005,37 @@
       "gold_block_count": 13,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6982472487987883,
+          "recall10_per_1k_tokens": 3.720238095238095,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 268.8
         },
         "T0": {
+          "recall@5": 0.46153846153846156,
           "recall@10": 0.46153846153846156,
+          "recall@20": 0.46153846153846156,
           "recall@50": 0.46153846153846156,
           "mrr": 1.0,
           "ndcg@50": 0.3026024134988135,
+          "recall10_per_1k_tokens": 0.8283174112319841,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 557.2
         },
         "T1": {
+          "recall@5": 0.23076923076923078,
           "recall@10": 0.23076923076923078,
+          "recall@20": 0.23076923076923078,
           "recall@50": 0.46153846153846156,
           "mrr": 1.0,
           "ndcg@50": 0.4474785528159641,
+          "recall10_per_1k_tokens": 1.1049520266661756,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.85
@@ -3174,28 +4047,37 @@
       "gold_block_count": 12,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.766903981617508,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 265.47
         },
         "T0": {
+          "recall@5": 0.6666666666666666,
           "recall@10": 0.6666666666666666,
+          "recall@20": 0.6666666666666666,
           "recall@50": 0.6666666666666666,
           "mrr": 1.0,
           "ndcg@50": 0.5585075862632192,
+          "recall10_per_1k_tokens": 1.2489072061945798,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.8
         },
         "T1": {
+          "recall@5": 0.25,
           "recall@10": 0.3333333333333333,
+          "recall@20": 0.8333333333333334,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8159294221516087,
+          "recall10_per_1k_tokens": 1.3317352510320946,
           "gold_block_count": 12,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 250.3
@@ -3207,28 +4089,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.869220352099052,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 258.45
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8781458943730749,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 532.44
         },
         "T1": {
+          "recall@5": 0.25,
           "recall@10": 0.75,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7482216716738863,
+          "recall10_per_1k_tokens": 4.006624285485336,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 187.19
@@ -3240,28 +4131,37 @@
       "gold_block_count": 5,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.893325504012527,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 204.36
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.1111111111111111,
           "ndcg@50": 0.36181498356361597,
+          "recall10_per_1k_tokens": 1.8589779339319246,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.93
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.854840275754928,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 205.98
@@ -3273,28 +4173,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.268943436499466,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.25
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.860880568685102,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.38
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.038037180714394,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 198.49
@@ -3306,28 +4215,37 @@
       "gold_block_count": 29,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6161627675638194,
+          "recall10_per_1k_tokens": 3.93360081818897,
           "gold_block_count": 29,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 254.22
         },
         "T0": {
+          "recall@5": 0.9655172413793104,
           "recall@10": 0.9655172413793104,
+          "recall@20": 0.9655172413793104,
           "recall@50": 0.9655172413793104,
           "mrr": 1.0,
           "ndcg@50": 0.7039180890341347,
+          "recall10_per_1k_tokens": 1.7788044020326652,
           "gold_block_count": 29,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 542.79
         },
         "T1": {
+          "recall@5": 0.4827586206896552,
           "recall@10": 0.5862068965517241,
+          "recall@20": 0.9655172413793104,
           "recall@50": 0.9655172413793104,
           "mrr": 1.0,
           "ndcg@50": 0.8624760766187171,
+          "recall10_per_1k_tokens": 4.316057256307791,
           "gold_block_count": 29,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 135.82
@@ -3339,28 +4257,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.501665616278023,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 222.14
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8882888326598435,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 529.58
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.781257470714798,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 209.15
@@ -3372,28 +4299,37 @@
       "gold_block_count": 14,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.513357361402396,
+          "recall10_per_1k_tokens": 4.069838427414432,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.71
         },
         "T0": {
+          "recall@5": 0.2857142857142857,
           "recall@10": 0.2857142857142857,
+          "recall@20": 0.2857142857142857,
           "recall@50": 0.2857142857142857,
           "mrr": 1.0,
           "ndcg@50": 0.3026024134988135,
+          "recall10_per_1k_tokens": 0.5186789247785889,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 550.85
         },
         "T1": {
+          "recall@5": 0.14285714285714285,
           "recall@10": 0.2857142857142857,
+          "recall@20": 0.2857142857142857,
           "recall@50": 0.2857142857142857,
           "mrr": 1.0,
           "ndcg@50": 0.3187704634136789,
+          "recall10_per_1k_tokens": 1.3577640341884982,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 210.43
@@ -3405,28 +4341,37 @@
       "gold_block_count": 5,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.137531548678059,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 241.69
         },
         "T0": {
+          "recall@5": 0.8,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9709286432396583,
+          "recall10_per_1k_tokens": 1.8790634747641777,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 532.18
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.461696336947307,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.13
@@ -3438,28 +4383,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.281005180016268,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 233.59
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.917030902538149,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 521.64
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.3478260869565215,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 230.0
@@ -3471,28 +4425,37 @@
       "gold_block_count": 16,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6736484947028408,
+          "recall10_per_1k_tokens": 3.616898148148148,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 276.48
         },
         "T0": {
+          "recall@5": 0.5625,
           "recall@10": 0.5625,
+          "recall@20": 0.5625,
           "recall@50": 0.5625,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.15130120674940675,
+          "recall10_per_1k_tokens": 1.0649576856812888,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 528.19
         },
         "T1": {
+          "recall@5": 0.375,
           "recall@10": 0.375,
+          "recall@20": 0.375,
           "recall@50": 0.375,
           "mrr": 1.0,
           "ndcg@50": 0.30523488393970116,
+          "recall10_per_1k_tokens": 1.7349865827704265,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 216.14
@@ -3504,28 +4467,37 @@
       "gold_block_count": 11,
       "arms": {
         "C1": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.0,
           "recall@50": 1.0,
           "mrr": 0.023809523809523808,
           "ndcg@50": 0.18428883314870617,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.04
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 0.18181818181818182,
           "recall@50": 0.18181818181818182,
           "mrr": 0.08333333333333333,
           "ndcg@50": 0.09165402792833294,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 512.52
         },
         "T1": {
+          "recall@5": 0.36363636363636365,
           "recall@10": 0.6363636363636364,
+          "recall@20": 0.6363636363636364,
           "recall@50": 0.7272727272727273,
           "mrr": 1.0,
           "ndcg@50": 0.7063357276473687,
+          "recall10_per_1k_tokens": 2.9683908777107773,
           "gold_block_count": 11,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 214.38
@@ -3537,28 +4509,37 @@
       "gold_block_count": 10,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.992494111071186,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 250.47
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8665073913692698,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 535.76
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.7,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9220121576155524,
+          "recall10_per_1k_tokens": 3.143100893538682,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 222.71
@@ -3570,28 +4551,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.787208578677773,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.89
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.9057056828143462,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 524.74
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.650675255693056,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 176.97
@@ -3603,28 +4593,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.773953310736621,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 209.47
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.881963264077085,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 531.36
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.802381981462806,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 208.23
@@ -3636,28 +4635,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.022849786788961,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 248.58
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6934264036172708,
+          "recall10_per_1k_tokens": 1.8835938971557735,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 530.9
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.9197207891481876,
+          "recall10_per_1k_tokens": 4.259850905218317,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.75
@@ -3669,28 +4677,37 @@
       "gold_block_count": 63,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 3.9544447959506486,
           "gold_block_count": 63,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 252.88
         },
         "T0": {
+          "recall@5": 0.15873015873015872,
           "recall@10": 0.15873015873015872,
+          "recall@20": 0.4603174603174603,
           "recall@50": 0.47619047619047616,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.3163343813291741,
+          "recall10_per_1k_tokens": 0.32123157616448855,
           "gold_block_count": 63,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 494.13
         },
         "T1": {
+          "recall@5": 0.015873015873015872,
           "recall@10": 0.09523809523809523,
+          "recall@20": 0.2222222222222222,
           "recall@50": 0.3333333333333333,
           "mrr": 1.0,
           "ndcg@50": 0.38031484903934,
+          "recall10_per_1k_tokens": 0.46315272692746795,
           "gold_block_count": 63,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 205.63
@@ -3702,28 +4719,37 @@
       "gold_block_count": 18,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7425817486275681,
+          "recall10_per_1k_tokens": 3.794202458643193,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 263.56
         },
         "T0": {
+          "recall@5": 0.6111111111111112,
           "recall@10": 0.6111111111111112,
+          "recall@20": 0.7222222222222222,
           "recall@50": 0.7222222222222222,
           "mrr": 1.0,
           "ndcg@50": 0.5689088051258946,
+          "recall10_per_1k_tokens": 1.1168578524244956,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 547.17
         },
         "T1": {
+          "recall@5": 0.2777777777777778,
           "recall@10": 0.2777777777777778,
+          "recall@20": 0.2777777777777778,
           "recall@50": 0.4444444444444444,
           "mrr": 1.0,
           "ndcg@50": 0.41818367865185585,
+          "recall10_per_1k_tokens": 1.2878565430839528,
           "gold_block_count": 18,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 215.69
@@ -3735,28 +4761,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.124902033576703,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.43
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8898233015213077,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 529.15
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.083884087442807,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 196.7
@@ -3768,28 +4803,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.935148748622698,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 254.12
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.25,
           "ndcg@50": 0.43067655807339306,
+          "recall10_per_1k_tokens": 1.9316579420116282,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 517.69
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.164757819332806,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 240.11
@@ -3801,28 +4845,37 @@
       "gold_block_count": 60,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7753488885005978,
+          "recall10_per_1k_tokens": 3.693307726399764,
           "gold_block_count": 60,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 270.76
         },
         "T0": {
+          "recall@5": 0.15,
           "recall@10": 0.3,
+          "recall@20": 0.3,
           "recall@50": 0.55,
           "mrr": 0.5,
           "ndcg@50": 0.38793016714415135,
+          "recall10_per_1k_tokens": 0.5696382796923953,
           "gold_block_count": 60,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 526.65
         },
         "T1": {
+          "recall@5": 0.05,
           "recall@10": 0.13333333333333333,
+          "recall@20": 0.15,
           "recall@50": 0.26666666666666666,
           "mrr": 1.0,
           "ndcg@50": 0.27944271947808225,
+          "recall10_per_1k_tokens": 0.662789348975162,
           "gold_block_count": 60,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 201.17
@@ -3834,28 +4887,37 @@
       "gold_block_count": 14,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.5620057845108395,
+          "recall10_per_1k_tokens": 3.821753420469311,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 261.66
         },
         "T0": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.5,
           "recall@50": 0.5,
           "mrr": 1.0,
           "ndcg@50": 0.3026024134988135,
+          "recall10_per_1k_tokens": 0.9192697321248,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 543.91
         },
         "T1": {
+          "recall@5": 0.14285714285714285,
           "recall@10": 0.14285714285714285,
+          "recall@20": 0.14285714285714285,
           "recall@50": 0.2857142857142857,
           "mrr": 0.5,
           "ndcg@50": 0.1776627370514257,
+          "recall10_per_1k_tokens": 0.631468606538226,
           "gold_block_count": 14,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 226.23
@@ -3867,28 +4929,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.369292611526194,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 228.87
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.8676228895861346,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 535.44
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.450576349637278,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 224.69
@@ -3900,28 +4971,37 @@
       "gold_block_count": 32,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.3618476659405536,
+          "recall10_per_1k_tokens": 4.217985490129914,
           "gold_block_count": 32,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 237.08
         },
         "T0": {
+          "recall@5": 0.09375,
           "recall@10": 0.125,
+          "recall@20": 0.125,
           "recall@50": 0.125,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.21689524588991285,
+          "recall10_per_1k_tokens": 0.2342886060765093,
           "gold_block_count": 32,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.53
         },
         "T1": {
+          "recall@5": 0.0625,
           "recall@10": 0.0625,
+          "recall@20": 0.0625,
           "recall@50": 0.0625,
           "mrr": 1.0,
           "ndcg@50": 0.26710287315859593,
+          "recall10_per_1k_tokens": 0.2723192889198728,
           "gold_block_count": 32,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.51
@@ -3933,28 +5013,37 @@
       "gold_block_count": 102,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6643270076947633,
+          "recall10_per_1k_tokens": 3.644580508783439,
           "gold_block_count": 102,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 274.38
         },
         "T0": {
+          "recall@5": 0.18627450980392157,
           "recall@10": 0.30392156862745096,
+          "recall@20": 0.38235294117647056,
           "recall@50": 0.5882352941176471,
           "mrr": 0.5,
           "ndcg@50": 0.4496155174879999,
+          "recall10_per_1k_tokens": 0.5695254640346507,
           "gold_block_count": 102,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.64
         },
         "T1": {
+          "recall@5": 0.029411764705882353,
           "recall@10": 0.0392156862745098,
+          "recall@20": 0.14705882352941177,
           "recall@50": 0.18627450980392157,
           "mrr": 1.0,
           "ndcg@50": 0.23819342805875054,
+          "recall10_per_1k_tokens": 0.17115037871300048,
           "gold_block_count": 102,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 229.13
@@ -3966,28 +5055,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.3086733594726185,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 232.09
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8599114682141134,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.66
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.180541884681137,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 193.03
@@ -3999,28 +5097,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.27715996578272,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 233.8
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8202337180093924,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 549.38
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.262327000999842,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 190.03
@@ -4032,28 +5139,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.443259575224384,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 225.06
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8294579316148625,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 546.61
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.894283476898982,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 204.32
@@ -4065,28 +5181,37 @@
       "gold_block_count": 7,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.86902327393125,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 205.38
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8795579279753403,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 532.04
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.8538976798369085,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 206.02
@@ -4098,28 +5223,37 @@
       "gold_block_count": 13,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.65644082050532,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 273.49
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.928603112765424,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 518.51
         },
         "T1": {
+          "recall@5": 0.5384615384615384,
           "recall@10": 0.5384615384615384,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8921776538210152,
+          "recall10_per_1k_tokens": 2.1414258837205744,
           "gold_block_count": 13,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 251.45
@@ -4131,28 +5265,37 @@
       "gold_block_count": 20,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.582903937133636,
+          "recall10_per_1k_tokens": 3.6201715961336562,
           "gold_block_count": 20,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 276.23
         },
         "T0": {
+          "recall@5": 0.25,
           "recall@10": 0.25,
+          "recall@20": 0.6,
           "recall@50": 0.6,
           "mrr": 1.0,
           "ndcg@50": 0.31360151621877874,
+          "recall10_per_1k_tokens": 0.464226691177836,
           "gold_block_count": 20,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 538.53
         },
         "T1": {
+          "recall@5": 0.15,
           "recall@10": 0.15,
+          "recall@20": 0.3,
           "recall@50": 0.5,
           "mrr": 1.0,
           "ndcg@50": 0.3563611296717891,
+          "recall10_per_1k_tokens": 0.6449671066775594,
           "gold_block_count": 20,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 232.57
@@ -4164,28 +5307,37 @@
       "gold_block_count": 7,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.9334460921213075,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 254.23
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8900376117484736,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 529.09
         },
         "T1": {
+          "recall@5": 0.7142857142857143,
           "recall@10": 0.7142857142857143,
+          "recall@20": 0.7142857142857143,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7486924110517823,
+          "recall10_per_1k_tokens": 3.677335843727936,
           "gold_block_count": 7,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 194.24
@@ -4197,28 +5349,37 @@
       "gold_block_count": 6,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.318721658389117,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.55
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8748359518542128,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 533.38
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.6766122620773505,
           "gold_block_count": 6,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 213.83
@@ -4230,28 +5391,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.333506673600278,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 230.76
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.883700340949762,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 530.87
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.224933382099379,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 191.39
@@ -4263,28 +5433,37 @@
       "gold_block_count": 16,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.477678771324945,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 223.33
         },
         "T0": {
+          "recall@5": 0.0625,
           "recall@10": 0.125,
+          "recall@20": 0.4375,
           "recall@50": 0.4375,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.28890327099103824,
+          "recall10_per_1k_tokens": 0.23273133494693723,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 537.1
         },
         "T1": {
+          "recall@5": 0.125,
           "recall@10": 0.25,
+          "recall@20": 0.25,
           "recall@50": 0.8125,
           "mrr": 1.0,
           "ndcg@50": 0.6469417212535163,
+          "recall10_per_1k_tokens": 1.2199287561606402,
           "gold_block_count": 16,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 204.93
@@ -4296,28 +5475,37 @@
       "gold_block_count": 10,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7420981285103057,
+          "recall10_per_1k_tokens": 3.8089433991010893,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 262.54
         },
         "T0": {
+          "recall@5": 0.3,
           "recall@10": 0.5,
+          "recall@20": 0.9,
           "recall@50": 0.9,
           "mrr": 0.2,
           "ndcg@50": 0.3796663968332806,
+          "recall10_per_1k_tokens": 0.9178016814126805,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 544.78
         },
         "T1": {
+          "recall@5": 0.2,
           "recall@10": 0.2,
+          "recall@20": 0.2,
           "recall@50": 0.5,
           "mrr": 0.5,
           "ndcg@50": 0.22319198209241753,
+          "recall10_per_1k_tokens": 0.8513898940019582,
           "gold_block_count": 10,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.91
@@ -4329,28 +5517,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.121841638844235,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.61
         },
         "T0": {
+          "recall@5": 0.0,
           "recall@10": 0.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.05263157894736842,
           "ndcg@50": 0.23137821315975915,
+          "recall10_per_1k_tokens": 0.0,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 546.2
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.904845987835982,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 203.88
@@ -4362,28 +5559,37 @@
       "gold_block_count": 9,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.080466805402538,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 245.07
         },
         "T0": {
+          "recall@5": 0.6666666666666666,
           "recall@10": 0.8888888888888888,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.25,
           "ndcg@50": 0.4818066902622174,
+          "recall10_per_1k_tokens": 1.6181327961132446,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 549.33
         },
         "T1": {
+          "recall@5": 0.8888888888888888,
           "recall@10": 0.8888888888888888,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8962626271568189,
+          "recall10_per_1k_tokens": 3.792997178958348,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 234.35
@@ -4395,28 +5601,37 @@
       "gold_block_count": 5,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 3.7953544861090025,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 263.48
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8144210182530756,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 551.14
         },
         "T1": {
+          "recall@5": 0.8,
           "recall@10": 0.8,
+          "recall@20": 0.8,
           "recall@50": 0.8,
           "mrr": 1.0,
           "ndcg@50": 0.6131471927654584,
+          "recall10_per_1k_tokens": 3.3524703515903282,
           "gold_block_count": 5,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 238.63
@@ -4428,28 +5643,37 @@
       "gold_block_count": 57,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.125923175310476,
           "gold_block_count": 57,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 242.37
         },
         "T0": {
+          "recall@5": 0.14035087719298245,
           "recall@10": 0.40350877192982454,
+          "recall@20": 0.45614035087719296,
           "recall@50": 0.45614035087719296,
           "mrr": 1.0,
           "ndcg@50": 0.46119806572770905,
+          "recall10_per_1k_tokens": 0.7571089236149515,
           "gold_block_count": 57,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 532.96
         },
         "T1": {
+          "recall@5": 0.17543859649122806,
           "recall@10": 0.22807017543859648,
+          "recall@20": 0.42105263157894735,
           "recall@50": 0.6842105263157895,
           "mrr": 1.0,
           "ndcg@50": 0.7054043717555989,
+          "recall10_per_1k_tokens": 1.011263137669474,
           "gold_block_count": 57,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 225.53
@@ -4461,28 +5685,37 @@
       "gold_block_count": 23,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.6285991631429148,
+          "recall10_per_1k_tokens": 5.509338328466751,
           "gold_block_count": 23,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 181.51
         },
         "T0": {
+          "recall@5": 0.43478260869565216,
           "recall@10": 0.6521739130434783,
+          "recall@20": 0.6521739130434783,
           "recall@50": 0.9565217391304348,
           "mrr": 1.0,
           "ndcg@50": 0.8001529229490052,
+          "recall10_per_1k_tokens": 1.1757024626263781,
           "gold_block_count": 23,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 554.71
         },
         "T1": {
+          "recall@5": 0.13043478260869565,
           "recall@10": 0.17391304347826086,
+          "recall@20": 0.17391304347826086,
           "recall@50": 0.5217391304347826,
           "mrr": 1.0,
           "ndcg@50": 0.4157381856601332,
+          "recall10_per_1k_tokens": 1.2220718394930847,
           "gold_block_count": 23,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 142.31
@@ -4494,28 +5727,37 @@
       "gold_block_count": 3,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.312575470070726,
           "gold_block_count": 3,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 231.88
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.3333333333333333,
           "ndcg@50": 0.5,
+          "recall10_per_1k_tokens": 1.862266751089426,
           "gold_block_count": 3,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 536.98
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.643022402798939,
           "gold_block_count": 3,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 177.21
@@ -4527,28 +5769,37 @@
       "gold_block_count": 1,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.873056868573657,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 205.21
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 0.5,
           "ndcg@50": 0.6309297535714575,
+          "recall10_per_1k_tokens": 1.8247842192660717,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 548.01
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.656428531025511,
           "gold_block_count": 1,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 176.79
@@ -4560,28 +5811,37 @@
       "gold_block_count": 4,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.0290088638195005,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 248.2
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.8313676653725002,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 546.04
         },
         "T1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 5.253756435851634,
           "gold_block_count": 4,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 190.34
@@ -4593,28 +5853,37 @@
       "gold_block_count": 2,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 4.309230371455659,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 232.06
         },
         "T0": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 1.9549959922582159,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 511.51
         },
         "T1": {
+          "recall@5": 0.5,
           "recall@10": 0.5,
+          "recall@20": 0.5,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.7247938777751572,
+          "recall10_per_1k_tokens": 2.652660618600456,
           "gold_block_count": 2,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 188.49
@@ -4626,28 +5895,37 @@
       "gold_block_count": 9,
       "arms": {
         "C1": {
+          "recall@5": 1.0,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 1.0,
+          "recall10_per_1k_tokens": 3.825262030449085,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 261.42
         },
         "T0": {
+          "recall@5": 0.7777777777777778,
           "recall@10": 1.0,
+          "recall@20": 1.0,
           "recall@50": 1.0,
           "mrr": 1.0,
           "ndcg@50": 0.8065735963827293,
+          "recall10_per_1k_tokens": 1.7869907076483202,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 559.6
         },
         "T1": {
+          "recall@5": 0.5555555555555556,
           "recall@10": 0.5555555555555556,
+          "recall@20": 0.8888888888888888,
           "recall@50": 0.8888888888888888,
           "mrr": 1.0,
           "ndcg@50": 0.5797511209818538,
+          "recall10_per_1k_tokens": 2.347583163133554,
           "gold_block_count": 9,
           "retrieved_units": 50,
           "avg_retrieved_text_tokens": 236.65
@@ -4656,10 +5934,20 @@
     }
   },
   "summary": {
+    "recall@5": {
+      "C1": 0.9857142857142858,
+      "T0": 0.6578211820370841,
+      "T1": 0.6525963461666555
+    },
     "recall@10": {
       "C1": 0.9928571428571429,
       "T0": 0.7431601317226684,
       "T1": 0.6939015750854506
+    },
+    "recall@20": {
+      "C1": 0.9928571428571429,
+      "T0": 0.794156124033116,
+      "T1": 0.7478524941358333
     },
     "recall@50": {
       "C1": 1.0,
@@ -4675,6 +5963,11 @@
       "C1": 0.8467423018517036,
       "T0": 0.632571521849676,
       "T1": 0.7746315552271523
+    },
+    "recall10_per_1k_tokens": {
+      "C1": 4.128840729678773,
+      "T0": 1.3841807637036403,
+      "T1": 3.355848184307826
     }
   },
   "avg_retrieved_text_tokens_per_question": {
@@ -4683,6 +5976,20 @@
     "T1": 211.5
   },
   "pairwise": {
+    "recall@5": {
+      "C1-T0": {
+        "mean_delta": 0.3278931036772017,
+        "wins": 75,
+        "ties": 65,
+        "losses": 0
+      },
+      "C1-T1": {
+        "mean_delta": 0.3331179395476302,
+        "wins": 70,
+        "ties": 68,
+        "losses": 2
+      }
+    },
     "recall@10": {
       "C1-T0": {
         "mean_delta": 0.2496970111344745,
@@ -4694,6 +6001,20 @@
         "mean_delta": 0.2989555677716923,
         "wins": 71,
         "ties": 68,
+        "losses": 1
+      }
+    },
+    "recall@20": {
+      "C1-T0": {
+        "mean_delta": 0.19870101882402677,
+        "wins": 60,
+        "ties": 79,
+        "losses": 1
+      },
+      "C1-T1": {
+        "mean_delta": 0.24500464872130953,
+        "wins": 65,
+        "ties": 74,
         "losses": 1
       }
     },
@@ -4738,7 +6059,21 @@
         "ties": 60,
         "losses": 22
       }
+    },
+    "recall10_per_1k_tokens": {
+      "C1-T0": {
+        "mean_delta": 2.744659965975133,
+        "wins": 139,
+        "ties": 1,
+        "losses": 0
+      },
+      "C1-T1": {
+        "mean_delta": 0.7729925453709473,
+        "wins": 72,
+        "ties": 0,
+        "losses": 68
+      }
     }
   },
-  "judgment": "C1 占优（4 项指标中 3 项同时胜过 T0 与 T1 的宏观均值，含符号统计）"
+  "judgment": "C1 占优（6 项检索指标中 5 项同时胜过 T0 与 T1 的宏观均值，含符号统计）"
 }
