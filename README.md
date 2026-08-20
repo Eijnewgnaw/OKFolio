@@ -51,6 +51,67 @@ local context, global themes, and the Concept → ConceptRef → Article
 evidence trail. Generated showcase data is intentionally not committed while
 the full public-corpus experiment is being rebuilt.
 
+## Three-arm retrieval experiment
+
+A directional micro-experiment on the ten-book public corpus asks whether
+audited AgentWiki Concepts are better retrieval units than traditional
+chunking. Three arms share the same 140 real Chinese questions (from the
+accepted v6 claim-review concept set), the same BM25 + BGE-M3 dense + RRF
+retrieval chain, and the same six metrics; only the retrieval unit differs.
+Gold atoms are 1703 evidence blocks.
+
+| Arm | Unit | Parameters |
+| --- | --- | --- |
+| T0 | Fixed-length chunks (block-preserving) | 1200 chars |
+| T1 | Heading-aware Parent-Child chunks | child 600 / parent 4800 chars |
+| C1 | Accepted AgentWiki Concepts with evidence provenance | 140 concepts |
+
+### Results (macro mean over 140 questions)
+
+| Metric | C1 | T0 | T1 |
+| --- | --- | --- | --- |
+| recall@5 | **0.9857** | 0.6578 | 0.6526 |
+| recall@10 | **0.9929** | 0.7432 | 0.6939 |
+| recall@20 | **0.9929** | 0.7942 | 0.7479 |
+| recall@50 | **1.0000** | 0.8396 | 0.8193 |
+| MRR | 0.9393 | 0.7118 | **0.9616** |
+| nDCG@50 | **0.8467** | 0.6326 | 0.7746 |
+
+C1 consistently outperforms both baselines on recall@5/10/20/50 and nDCG@50.
+Against T0 the pairwise comparison is zero-loss on recall@5 (75/65/0),
+recall@10 (66/74/0), and recall@50 (55/85/0), and every C1-T0 paired mean
+delta across all six metrics is positive. MRR is the single exception: T1
+edges out C1 (0.9616 vs 0.9393) because its short child units rank the first
+hit earlier, with 121 of 140 questions tying.
+
+### Retrieval budget and efficiency
+
+| Metric | C1 | T0 | T1 |
+| --- | --- | --- | --- |
+| Avg tokens per question | 242.2 | 536.4 | 211.5 |
+| recall@10 per 1k tokens | **4.13** | 1.38 | 3.36 |
+
+C1 reaches higher recall at roughly 45% of T0's retrieval budget (242 vs 536
+tokens per question, `len(text)/2` Chinese-token approximation) and is 2.98x
+more efficient than T0 and 1.23x more efficient than T1 on recall@10 per 1k
+tokens. Against T1 the paired efficiency comparison is a tug of war (72
+wins / 68 losses): T1's leaner units win on roughly half the questions even
+though its top-level recall is lower.
+
+### Boundaries
+
+This is a directional check on the 140-of-332 accepted concept subset, not a
+formal full-scale conclusion. Embeddings are served as a BGE-M3 GGUF Q8_0
+variant under the `bge-m3-mlx` identifier (the MLX engine does not support
+the xlm-roberta architecture), and the chain has no rerank stage (LM Studio
+exposes no rerank endpoint). Token counts use the coarse `len(text)/2`
+Chinese-token approximation.
+
+- Full reproduction and result data (Chinese write-up):
+  [experiment-data/micro-rag-three-arm/README.md](experiment-data/micro-rag-three-arm/README.md)
+- Formal full-scale runner (rerank, context budgets, paired bootstrap):
+  [docs/operations/rag-three-arm-experiment.md](docs/operations/rag-three-arm-experiment.md)
+
 ## Repository layout
 
 ```text
@@ -184,11 +245,6 @@ provider returns token usage.
 For retrieval experiments, the independent [RAG generation adapter](docs/operations/rag-generation.md)
 provides environment-configured OpenAI-compatible HyDE and citation-aware answer
 generation, including client-observed TTFT, total latency, and token usage.
-
-For a directional three-arm retrieval-quality micro-experiment comparing
-Concept units (C1) with fixed-length and heading-aware chunking (T0/T1) over
-140 real questions × 6 metrics, see
-[experiment-data/micro-rag-three-arm/README.md](experiment-data/micro-rag-three-arm/README.md).
 
 The checks cover schema contracts, provenance, asset and source isolation,
 MCP safety gates, deterministic publication, and public-release leakage.
